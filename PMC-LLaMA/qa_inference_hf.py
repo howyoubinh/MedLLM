@@ -23,6 +23,9 @@ from datasets import load_dataset
 # clear cache if getting CUDA out of memory error
 torch.cuda.empty_cache()
 
+MODELDIR  = 'models'
+DATADIR = 'data'
+PRECISION = torch.float16
 
 PROMPT_DICT = {
     "prompt_input": (
@@ -40,7 +43,7 @@ PROMPT_DICT = {
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model-name-or-path', type=str, default="/home/binh/Projects/Medical_LLM/PMC-LLaMA/models/models--chaoyi-wu--PMC_LLaMA_7B/snapshots/6caf5c19bdcd157f9d9a7d374be66d7b61d75351") # change this to your actual directory
+    parser.add_argument('--model-name-or-path', type=str, default="axiong/PMC_LLaMA_13B") # change this to your actual directory
     parser.add_argument('--write-dir', type=str, default="inferenced_result_dir")
     parser.add_argument('--dataset-name', type=str, default="axiong/pmc_llama_instructions") # download this from https://huggingface.co/datasets/axiong/pmc_llama_instructions
     parser.add_argument('--num-samples', type=int) # number of samples
@@ -145,9 +148,9 @@ if __name__ == '__main__':
 
     print(f"\033[32mLoading Dataset\033[0m")
     if args.num_samples is None:
-        dataset = load_dataset(args.dataset_name, split="train")
+        dataset = load_dataset(args.dataset_name, split="train",cache_dir = DATADIR)
     else:
-        dataset = load_dataset(args.dataset_name, split=f"train[:{args.num_samples}]")
+        dataset = load_dataset(args.dataset_name, split=f"train[:{args.num_samples}]",cache_dir = DATADIR)
     print(f"Loaded {len(dataset)} samples")
 
     print(f"\033[32mPrepare Data\033[0m")
@@ -159,11 +162,18 @@ if __name__ == '__main__':
         exit(1)
 
     print(f"\033[32mLoad Checkpoint\033[0m")
-    model = transformers.LlamaForCausalLM.from_pretrained(args.model_name_or_path,
-                                                          device_map='auto')
+    model = transformers.LlamaForCausalLM.from_pretrained(
+    pretrained_model_name_or_path = args.model_name_or_path, 
+    force_download=False, 
+    cache_dir=MODELDIR, 
+    device_map="auto",  # Automatically splits the model across multiple GPUs
+    torch_dtype=PRECISION  # Use FP16 precision to reduce memory usage
+    )
     tokenizer = transformers.LlamaTokenizer.from_pretrained(
-        args.model_name_or_path,
-        model_max_length=400,
+        pretrained_model_name_or_path = args.model_name_or_path, 
+        force_download=False, 
+        cache_dir=MODELDIR,
+        model_max_length=1000,
         padding_side="right",
         use_fast=False,
     )
@@ -185,6 +195,7 @@ if __name__ == '__main__':
     os.makedirs(args.write_dir, exist_ok=True)
 
     print(f"\033[32mRunning Inference\033[0m")
+
     for data_entry in tqdm(inference_data):
         sample_id = data_entry['sample_id']
         input_str = [data_entry['pmc_input']]
