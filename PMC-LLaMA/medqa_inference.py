@@ -6,7 +6,9 @@ python medqa_inference.py \
     --write-dir /path/to/inferenced_result_dir \
     --dataset-name path/to/dataset \
     --num-samples {number of samples [default: all data]} \
-    --extract-entities
+    --extract-entities \
+    --models-dir "/path/to/models" \ # Only use if models is not in the default directory
+    --data-dir "/path/to/data" \ # Only use if data is not in the default directory
 '''
 
 import torch
@@ -47,15 +49,17 @@ Response:"
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--model-name-or-path', type=str, default="/home/binh/Projects/Medical_LLM/PMC-LLaMA/models/models--chaoyi-wu--PMC_LLaMA_7B/snapshots/6caf5c19bdcd157f9d9a7d374be66d7b61d75351") # change this to your actual directory (use 13B model)
+    parser.add_argument('--model-name-or-path', type=str, default="axiong/PMC_LLaMA_13B") # change this to your actual directory (use 13B model)
     parser.add_argument('--write-dir', type=str, default="inferenced_result_dir")
     parser.add_argument('--dataset-name', type=str, default="test_4_options.jsonl")
     parser.add_argument('--num-samples', type=int)
     parser.add_argument('--extract-entities', action='store_true', 
                        help='Enable entity extraction for questions and answers') # add this argument to extract entities
+    parser.add_argument('--models-dir', type=str, default=None, help='Directory containing model files for specific cache directory')
+    parser.add_argument('--data-dir', type=str, default=None, help='Directory containing data files for specific cache directory')
+    parser.add_argument('--precision', type=str, default='float16', help='Precision for model inference')
     args = parser.parse_args()
     return args
-
 
 def construct_special_tokens_dict() -> dict:
     DEFAULT_PAD_TOKEN = "[PAD]"
@@ -74,7 +78,6 @@ def construct_special_tokens_dict() -> dict:
         special_tokens_dict["unk_token"] = DEFAULT_UNK_TOKEN
 
     return special_tokens_dict
-
 
 def smart_tokenizer_and_embedding_resize(
     special_tokens_dict: Dict,
@@ -98,7 +101,6 @@ def smart_tokenizer_and_embedding_resize(
         input_embeddings[-num_new_tokens:] = input_embeddings_avg
         output_embeddings[-num_new_tokens:] = output_embeddings_avg
 
-
 def inference_on_one(input_str: Sequence[str], model, tokenizer, generation_config) -> str:
     model_inputs = tokenizer(
       input_str,
@@ -114,7 +116,6 @@ def inference_on_one(input_str: Sequence[str], model, tokenizer, generation_conf
     output_str = tokenizer.batch_decode(topk_output)  # a list containing just one str
 
     return output_str[0]
-
 
 def prepare_data(dataset: Sequence[dict], model, tokenizer) -> Sequence[dict]:
     prompt_input, prompt_no_input = PROMPT_DICT["prompt_input"], PROMPT_DICT["prompt_no_input"]
@@ -203,12 +204,26 @@ if __name__ == '__main__':
         tqdm.write(f' - {torch.cuda.get_device_name(i)}')
 
     args = parse_args()
+    MODEL_DIR=args.models_dir
+    DATADIR=args.data_dir
+    if args.precision == 'float16':
+        PRECISION = torch.float16
+    elif args.precision == 'float32':
+        PRECISION = torch.float32
+    else:
+        raise ValueError(f"Invalid precision: {args.precision}, must be 'float16' or 'float32'")
 
     print(f"\033[32mLoading Dataset\033[0m")
     if args.num_samples is None:
-        dataset = load_dataset('json', data_files=args.dataset_name, split="train")
+        dataset = load_dataset(path='json', 
+                               data_files=args.dataset_name, 
+                               split="train",
+                               cache_dir = DATADIR)
     else:
-        dataset = load_dataset('json', data_files=args.dataset_name, split=f"train[:{args.num_samples}]")
+        dataset = load_dataset(path='json', 
+                               data_files=args.dataset_name, 
+                               split=f"train[:{args.num_samples}]",
+                               cache_dir = DATADIR)
     print(f"Loaded {len(dataset)} samples")
 
     extractor = None
@@ -226,12 +241,17 @@ if __name__ == '__main__':
 
     print(f"\033[32mLoad Checkpoint\033[0m")
     model = transformers.LlamaForCausalLM.from_pretrained(
-        args.model_name_or_path,
-        device_map='auto'
+        pretrained_model_name_or_path = args.model_name_or_path,
+        force_download=False,
+        cache_dir=MODEL_DIR,
+        device_map='auto',
+        torch_dtype=PRECISION
     )
     tokenizer = transformers.LlamaTokenizer.from_pretrained(
-        args.model_name_or_path,
-        model_max_length=400,
+        pretrained_model_name_or_path = args.model_name_or_path,
+        force_download=False,
+        cache_dir=MODEL_DIR,
+        model_max_length=1000,
         padding_side="right",
         use_fast=False,
     )
