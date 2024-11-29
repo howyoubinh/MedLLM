@@ -1,6 +1,6 @@
 #!/bin/bash -l
 
-#SBATCH --job-name=QA_Inference_13B
+#SBATCH --job-name=13B_with_entities
 #SBATCH --output=hpc_scripts/out/QA_Inference_13B.out
 #SBATCH --partition=pophealth
 #SBATCH --nodes=1
@@ -29,7 +29,7 @@ printf " \n Started at $(date) \n \n "
 start_time=$(date +%s)
 
 # Run the three python scripts below in parallel
-python ${SCRIPT} --model-name-or-path axiong/PMC_LLaMA_13B --write-dir inferenced_result_dir/medqa_with_entities --models-dir "models" --data-dir "data" --num-samples 10
+python ${SCRIPT} --model-name-or-path axiong/PMC_LLaMA_13B --write-dir inferenced_result_dir/medqa_with_entities --models-dir "models" --data-dir "data" --extract-entities
 
 end_time=$(date +%s)
 runtime=$((end_time-start_time))
