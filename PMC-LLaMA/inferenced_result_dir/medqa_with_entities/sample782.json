@@ -1,0 +1,361 @@
+{
+  "original_data": {
+    "question": "A 25-year-old primigravida is admitted to the hospital at 36 weeks gestation after a generalized tonic-clonic seizure. She is conscious, but lethargic and complains of a headache that started 2 hours prior to the seizure. She denies alcohol intake or drug use. She has no history of convulsive disorders and the antepartum course has been unremarkable. She was compliant with the recommended prenatal care and her last prenatal visit was 2 weeks ago. She has gained 2 kg (4.4 lb) since her last visit. The blood pressure was 160/90 mm Hg, the heart rate was 79/min, the respiratory rate was 14/min, and the temperature was 37.0℃ (98.6℉). The physical examination shows leg and perineal edema. The neurologic examination is significant for symmetric upper and lower extremity hyperreflexia and ankle clonus. Which of the following laboratory findings would be most common in this patient?",
+    "options": {
+      "A": "Elevated transaminases",
+      "B": "Leukocytosis",
+      "C": "Hyponatremia",
+      "D": "Proteinuria"
+    }
+  },
+  "model_response": "This patient has preeclampsia. Preeclampsia is a multisystem, hypertensive disorder of pregnancy. It is defined as new-onset hypertension with BP ≥ 140/90 mm Hg after 20 weeks of gestation and proteinuria ≥ 300 mg/24 h after the 20th week of gestation or proteinuria diagnosed by protein creatinine ratio > 0.3 or urine protein:creatinine ratio > 0.3. The most common cause of seizures in a pregnant patient is eclampsia, which is defined as new-onset grand mal seizures in a patient with preeclampsia. Preeclampsia is associated with hepatic abnormalities, thrombocytopenia, disseminated intravascular coagulation, pulmonary edema, cerebral and visual disturbances, and renal dysfunction. The most common abnormal laboratory finding is an elevated blood pressure. Other common laboratory findings include abnormalities of renal function, such as an elevated creatinine level, elevated transaminase levels, and thrombocytopenia.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "primigravida",
+      "type": "T033",
+      "umls_id": "C0860096",
+      "score": 0.9788661003112793,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "tonic-clonic seizure",
+      "type": "T047",
+      "umls_id": "C0494475",
+      "score": 0.9561353921890259,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A generalized tonic-clinic seizure, characterized by loss of consciousness. This type of seizure may be preceded by an aura and is frequently followed by a period of confusion and lethargy (post-ictal state)."
+    },
+    {
+      "text": "conscious",
+      "type": "T041",
+      "umls_id": "C0234421",
+      "score": 0.9591494798660278,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Sense of awareness of self and of the environment."
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "started 2",
+      "type": "T079",
+      "umls_id": "C2348002",
+      "score": 0.7518979907035828,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The age of a person at the start of a specific event."
+    },
+    {
+      "text": "seizure",
+      "type": "T184",
+      "umls_id": "C0036572",
+      "score": 0.955420732498169,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical or subclinical disturbances of cortical function due to a sudden, abnormal, excessive, and disorganized discharge of brain cells. Clinical manifestations include abnormal motor, sensory and psychic phenomena. Recurrent seizures are usually referred to as EPILEPSY or \"seizure disorder.\""
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "alcohol intake",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.9755816459655762,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "drug use",
+      "type": "T048",
+      "umls_id": "C0242510",
+      "score": 0.9879556894302368,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "<p>Indication of drug use.</p>"
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "convulsive disorders",
+      "type": "T047",
+      "umls_id": "C0234972",
+      "score": 0.9606449007987976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "antepartum course",
+      "type": "T079",
+      "umls_id": "C0456336",
+      "score": 0.7614006996154785,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period of time preceding labor and delivery."
+    },
+    {
+      "text": "compliant",
+      "type": "T080",
+      "umls_id": "C0566588",
+      "score": 0.9842939376831055,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "prenatal care",
+      "type": "T058",
+      "umls_id": "C0033052",
+      "score": 0.9855771064758301,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care provided the pregnant woman in order to prevent complications, and decrease the incidence of maternal and prenatal mortality."
+    },
+    {
+      "text": "prenatal visit",
+      "type": "T058",
+      "umls_id": "C1827763",
+      "score": 0.9857678413391113,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "℃",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "leg",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.971088171005249,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "perineal edema",
+      "type": "T029",
+      "umls_id": "C0031066",
+      "score": 0.7636243104934692,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The body region lying between the genital area and the ANUS on the surface of the trunk, and to the shallow compartment lying deep to this area that is inferior to the PELVIC DIAPHRAGM. The surface area is between the VULVA and the anus in the female, and between the SCROTUM and the anus in the male."
+    },
+    {
+      "text": "neurologic examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9734473824501038,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "symmetric upper",
+      "type": "T077",
+      "umls_id": "C2699744",
+      "score": 0.7662587761878967,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A binary relation such that if a is related to b then b is related to a."
+    },
+    {
+      "text": "ankle clonus",
+      "type": "T033",
+      "umls_id": "C0238651",
+      "score": 0.9684429168701172,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Clonus is an involuntary tendon reflex that causes repeated flexion and extension of the foot. Ankle clonus is tested by rapidly flexing the foot upward. [HPO:probinson]"
+    },
+    {
+      "text": "laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

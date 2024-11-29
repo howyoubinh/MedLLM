@@ -1,0 +1,391 @@
+{
+  "original_data": {
+    "question": "A 3-year-old boy is brought to the emergency room by his mother after she found him somnolent at home next to multiple open pill bottles. The boy had seemingly opened several different pill bottles that were in a cabinet in his parent’s bathroom. The mother has brought the empty bottles to the emergency room, and they include aspirin, metoprolol, acetaminophen, levothyroxine, and lorazepam. The boy has no past medical history and takes no medications. His temperature is 98.6°F (37°C), blood pressure is 110/65 mmHg, pulse is 85/min, and respirations are 28/min. On exam, the boy is lethargic but responsive. He appears to be grasping at his ears and swaying from side-to-side when attempting to ambulate. He vomited once in the emergency room. Which of the following arterial blood gas readings is most likely to be found in this patient?",
+    "options": {
+      "A": "pH 7.29, PCO2 47 mmHg, and HCO3- 22 mEq/L",
+      "B": "pH 7.35, PCO2 29 mmHg, and HCO3- 15 mEq/L",
+      "C": "pH 7.36, PCO2 22 mmHg, and HCO3- 16 mEq/L",
+      "D": "pH 7.47, PCO2 41 mmHg, and HCO3- 29 mEq/L"
+    }
+  },
+  "model_response": "The arterial blood gas (ABG) results reveal a mixed respiratory alkalosis and metabolic acidosis. The pH is low (normal 7.40), and the PCO2 is low (normal 35-45 mmHg), indicating respiratory alkalosis. The HCO3- is low (normal 22-26 mEq/L), indicating a concomitant metabolic acidosis. The low bicarbonate level indicates that the patient has consumed a base, such as bicarbonate or an acid-neutralizing substance (e.g., antacid). The low PCO2 indicates that the patient has hyperventilated, which is consistent with the CNS depression from the ingested medications. The low PCO2 is also consistent with the patient’s somnolence. The low PCO2 and low HCO3- result in a low pH (normal 7.40), indicating that the patient has an acidemia.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "somnolent",
+      "type": "T033",
+      "umls_id": "C0013144",
+      "score": 0.9565186500549316,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The sensation of struggling to remain awake."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "pill bottles",
+      "type": "T073",
+      "umls_id": "C0179376",
+      "score": 0.773344874382019,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vessel with a narrow neck designed to accept a specific closure."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pill bottles",
+      "type": "T073",
+      "umls_id": "C0179376",
+      "score": 0.773344874382019,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vessel with a narrow neck designed to accept a specific closure."
+    },
+    {
+      "text": "cabinet",
+      "type": "T073",
+      "umls_id": "C0179481",
+      "score": 0.9711682200431824,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Furniture consisting of enclosed repositories typically with doors and that may include shelves, drawers, and/or compartments. This furniture is available in free-standing, wall-mounted, wall-recessed, and under- or over-the-counter mounted configurations. Cabinets may include small (e.g., one- or two-inch diameter) wheels to facilitate their positioning and/or some means for control of the internal temperature, air circulation, and/or humidity (e.g., desiccation). Cabinets are used in healthcare facilities to display and store medical devices, drugs, and utensils and to facilitate the performance of medical and/or associated treatments and/or procedures (e.g., anesthesia, endoscopy, laboratory) but not to perform treatments inside the enclosure. Cabinets are also used to store food, chemicals, ancillary material, supplies, and miscellaneous materials; some other cabinets are intended to file documents such as medical and/or administrative records and cards."
+    },
+    {
+      "text": "parent’s bathroom",
+      "type": "T073",
+      "umls_id": "C0040364",
+      "score": 0.767516553401947,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Facilities containing equipment for disposal of human excrement, often with an accompanying hand-washing station."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "empty",
+      "type": "T080",
+      "umls_id": "C1880497",
+      "score": 0.9858817458152771,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Holding or containing nothing."
+    },
+    {
+      "text": "bottles",
+      "type": "T073",
+      "umls_id": "C0179376",
+      "score": 0.9694390296936035,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vessel with a narrow neck designed to accept a specific closure."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "metoprolol",
+      "type": "T109",
+      "umls_id": "C0025859",
+      "score": 0.9727950692176819,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective adrenergic beta-1 blocking agent that is commonly used to treat ANGINA PECTORIS; HYPERTENSION; and CARDIAC ARRHYTHMIAS."
+    },
+    {
+      "text": "acetaminophen",
+      "type": "T109",
+      "umls_id": "C0000970",
+      "score": 0.9949501156806946,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Analgesic antipyretic derivative of acetanilide. It has weak anti-inflammatory properties and is used as a common analgesic, but may cause liver, blood cell, and kidney damage."
+    },
+    {
+      "text": "levothyroxine",
+      "type": "T116",
+      "umls_id": "C0040165",
+      "score": 0.967681348323822,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (MONOIODOTYROSINE) and the coupling of iodotyrosines (DIIODOTYROSINE) in the THYROGLOBULIN. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form TRIIODOTHYRONINE which exerts a broad spectrum of stimulatory effects on cell metabolism."
+    },
+    {
+      "text": "lorazepam",
+      "type": "T109",
+      "umls_id": "C0024002",
+      "score": 0.9822601675987244,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A benzodiazepine used as an anti-anxiety agent with few side effects. It also has hypnotic, anticonvulsant, and considerable sedative properties and has been proposed as a preanesthetic agent."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "responsive",
+      "type": "T169",
+      "umls_id": "C0205342",
+      "score": 0.984087347984314,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "grasping",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "ears",
+      "type": "T023",
+      "umls_id": "C0013443",
+      "score": 0.9975276589393616,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hearing and equilibrium system of the body. It consists of three parts: the EXTERNAL EAR, the MIDDLE EAR, and the INNER EAR. Sound waves are transmitted through this organ where vibration is transduced to nerve signals that pass through the ACOUSTIC NERVE to the CENTRAL NERVOUS SYSTEM. The inner ear also contains the vestibular organ that maintains equilibrium by transducing signals to the VESTIBULAR NERVE."
+    },
+    {
+      "text": "swaying",
+      "type": "T074",
+      "umls_id": "C0687515",
+      "score": 0.7135762572288513,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "An ataxiagraph is a device used to determine the extent of ataxia (failure of muscular coordination) by measuring the amount of swaying of the body when the patient is standing erect and with eyes closed."
+    },
+    {
+      "text": "ambulate",
+      "type": "T033",
+      "umls_id": "C4036205",
+      "score": 0.9651466012001038,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "arterial blood gas",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9828471541404724,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "readings",
+      "type": "T033",
+      "umls_id": "C1881459",
+      "score": 0.8289492130279541,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Reading provided by the device is too low or lower than expected."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

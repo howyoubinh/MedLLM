@@ -1,0 +1,322 @@
+{
+  "original_data": {
+    "question": "A 42-year-old man with AIDS comes to the physician for intermittent fever, nonproductive cough, malaise, decreased appetite, abdominal pain, and a 3.6-kg (8-lb) weight loss over the past month. He has not seen a doctor since he became uninsured 2 years ago. His temperature is 38.3°C (100.9°F). Abdominal examination shows mild, diffuse tenderness throughout the lower quadrants. The liver is palpated 2–3 cm below the right costal margin, and the spleen is palpated 1–2 cm below the left costal margin. His CD4+ T-lymphocyte count is 49/mm3 (N ≥ 500 mm3). Blood cultures grow acid-fast organisms. A PPD skin test shows 4 mm of induration. Which of the following is the most appropriate pharmacotherapy for this patient's condition?",
+    "options": {
+      "A": "Voriconazole",
+      "B": "Amphotericin B and itraconazole",
+      "C": "Erythromycin",
+      "D": "Azithromycin and ethambutol"
+    }
+  },
+  "model_response": "The patient has disseminated Mycobacterium avium complex (MAC) infection, which is a common opportunistic infection in AIDS patients. Treatment consists of combination therapy with rifabutin, ethambutol, and one of the newer macrolides (clarithromycin or azithromycin). Voriconazole is an extended spectrum azole used to treat invasive fungal infections. Amphotericin B is an antifungal agent used to treat systemic fungal infections. Erythromycin is an antibiotic used to treat bacterial infections.\n\n###COMMENT:\n\nRifabutin is the preferred agent for the treatment of MAC infection. It is given at a dosage of 300 mg/d. Clarithromycin (500 mg twice daily) or azithromycin (500 mg once daily) is given with rifabutin. Ethambutol (15 mg/kg/d) is added if the patient does not respond to the macrolide-rifabutin combination.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "AIDS",
+      "type": "T047",
+      "umls_id": "C0001175",
+      "score": 0.9978005886077881,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acquired defect of cellular immunity associated with infection by the human immunodeficiency virus (HIV), a CD4-positive T-lymphocyte count under 200 cells/microliter or less than 14% of total lymphocytes, and increased susceptibility to opportunistic infections and malignant neoplasms. Clinical manifestations also include emaciation (wasting) and dementia. These elements reflect criteria for AIDS as defined by the CDC in 1993."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "intermittent fever",
+      "type": "T033",
+      "umls_id": "C0277799",
+      "score": 0.9631453156471252,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Cycles of fever with intervening periods of normothermia."
+    },
+    {
+      "text": "nonproductive cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9491277933120728,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "decreased appetite",
+      "type": "T184",
+      "umls_id": "C0232462",
+      "score": 0.9837601184844971,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A reduced desire to eat. []"
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "doctor",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.985679030418396,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diffuse tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.7597489953041077,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "quadrants",
+      "type": "T082",
+      "umls_id": "C1631280",
+      "score": 0.8328724503517151,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "One quarter of a circle. In anatomy, one part of an area divided into quarters for descriptive purposes."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "right costal margin",
+      "type": "T029",
+      "umls_id": "C0502460",
+      "score": 0.9858113527297974,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spleen",
+      "type": "T023",
+      "umls_id": "C0037993",
+      "score": 0.95802241563797,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An encapsulated lymphatic organ through which venous blood filters."
+    },
+    {
+      "text": "left costal margin",
+      "type": "T029",
+      "umls_id": "C0502461",
+      "score": 0.9842795729637146,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "CD4+",
+      "type": "T059",
+      "umls_id": "C0243009",
+      "score": 0.8365834355354309,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of CD4-POSITIVE T-LYMPHOCYTES per unit volume of BLOOD. Determination requires the use of a fluorescence-activated flow cytometer."
+    },
+    {
+      "text": "Blood cultures",
+      "type": "T059",
+      "umls_id": "C0200949",
+      "score": 0.9821042418479919,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Test to determine the presence of blood infection (e.g. SEPSIS; BACTEREMIA)."
+    },
+    {
+      "text": "acid-fast organisms",
+      "type": "T007",
+      "umls_id": "C0483226",
+      "score": 0.7265828847885132,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "a kind of rod-shaped bacteria"
+    },
+    {
+      "text": "PPD skin test",
+      "type": "T060",
+      "umls_id": "C0037296",
+      "score": 0.8402597308158875,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Epicutaneous or intradermal application of a sensitizer for demonstration of either delayed or immediate hypersensitivity. Used in diagnosis of hypersensitivity or as a test for cellular immunity."
+    },
+    {
+      "text": "induration",
+      "type": "T046",
+      "umls_id": "C0332534",
+      "score": 0.9654520153999329,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The quality of being hard, the process of hardening, or an abnormally hard spot or place, particularly of the skin."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "original_data": {
+    "question": "A 43-year-old man with a history of schizophrenia, currently controlled with medication, comes in for an appointment with his internist. He is concerned about abnormal discharge from both nipples over the past 3 months. The fluid is white, and he wonders if it could be milk. On further review of systems, he endorses a diminished sexual drive. The physician suspects that one of the patient's medications may be the culprit for these symptoms. Which of the following medications is NOT likely to be the cause?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Bromocriptine",
+      "C": "Fluphenazine",
+      "D": "Risperidone"
+    }
+  },
+  "model_response": "The patient's symptoms are likely due to hyperprolactinemia, which can be caused by medications that increase prolactin (dopamine antagonists) or decrease dopamine synthesis (dopamine depleters). The only medication in the list that does not cause hyperprolactinemia is risperidone. Risperidone is an atypical antipsychotic that is more likely to cause hyperlipidemia and weight gain than the other medications.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "schizophrenia",
+      "type": "T048",
+      "umls_id": "C0036341",
+      "score": 0.9816023111343384,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior."
+    },
+    {
+      "text": "controlled",
+      "type": "T169",
+      "umls_id": "C2587213",
+      "score": 0.9838930368423462,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "appointment with",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.8237685561180115,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "internist",
+      "type": "T097",
+      "umls_id": "C0278602",
+      "score": 0.9776066541671753,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A specialist in internal medicine"
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "discharge",
+      "type": "T031",
+      "umls_id": "C0012621",
+      "score": 0.990285336971283,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The pouring forth of a fluid."
+    },
+    {
+      "text": "nipples",
+      "type": "T023",
+      "umls_id": "C0028109",
+      "score": 0.9788908958435059,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The conic organs which usually give outlet to milk from the mammary glands."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "fluid",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9930761456489563,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "white",
+      "type": "T098",
+      "umls_id": "C0007457",
+      "score": 0.982077419757843,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A group distinguished by classification according to physical features. This group, also called Europoid, centers around the Mediterranean Sea but includes other parts of Europe. (from Winick: Dictionary of Anthropology, 1972; American Heritage Dictionary, 2d College ed)"
+    },
+    {
+      "text": "wonders",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "milk",
+      "type": "T031",
+      "umls_id": "C0026131",
+      "score": 0.9723520278930664,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The off-white liquid secreted by the mammary glands of humans and other mammals. It contains proteins, sugar, lipids, vitamins, and minerals."
+    },
+    {
+      "text": "systems",
+      "type": "T074",
+      "umls_id": "C0178947",
+      "score": 0.8132045269012451,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Isotope bone densitometers that use a single source to yield an essentially monoenergetic (one discrete line spectrum) beam of gamma rays (x-ray photons). In addition to the single photon source, these densitometers typically include a scanner, a single-channel analyzer, and a computer with appropriate software. Single-photon densitometers are used to assess bone mineral content in the appendicular skeleton, usually by measuring the forearm (radius) or the heel."
+    },
+    {
+      "text": "endorses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "diminished",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9759602546691895,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "sexual drive",
+      "type": "T033",
+      "umls_id": "C4525953",
+      "score": 0.7727211713790894,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual has or had no sexual drive or interest."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "suspects",
+      "type": "T078",
+      "umls_id": "C0750491",
+      "score": 0.9773206114768982,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Believed likely."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "culprit",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "cause",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9771540760993958,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    },
+    {
+      "text": "43-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "original_data": {
+    "question": "A 67-year-old man with peripheral neuropathy comes to the physician for a follow-up examination after the results of serum protein electrophoresis showed monoclonal gammopathy. A complete blood count, serum creatinine, and serum electrolyte concentrations are within the reference ranges. A bone marrow biopsy shows 6% monoclonal plasma cells. Further analysis shows that class I major histocompatibility molecules are downregulated in these monoclonal plasma cells. The proliferation of these monoclonal plasma cells is normally prevented by a class of immune cells that lyse abnormal cells without the need for opsonization, priming, or prior activation. Which of the following best describes this class of immune cells?",
+    "options": {
+      "A": "Bone marrow-derived macrophages",
+      "B": "CD4+ T lymphocytes",
+      "C": "Natural killer cells",
+      "D": "Band neutrophils"
+    }
+  },
+  "model_response": "The proliferation of monoclonal plasma cells is normally prevented by natural killer (NK) cells, which are part of the innate immune system. NK cells are defined by the expression of CD56 and the lack of CD3. They have the ability to recognize and kill stressed and abnormal cells, such as virus-infected cells and tumor cells, without the need for prior activation. NK cells are not antigen-specific, unlike cytotoxic T lymphocytes (CTLs), which are part of the adaptive immune system. CTLs recognize antigens presented by major histocompatibility complex (MHC) molecules and are activated by antigen-presenting cells. Band neutrophils are immature neutrophils. Bone marrow-derived macrophages are part of the mononuclear phagocyte system. CD4+ T lymphocytes are a type of helper T cell.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "peripheral neuropathy",
+      "type": "T047",
+      "umls_id": "C0031117",
+      "score": 0.9837983250617981,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disorder affecting the peripheral nervous system. It manifests with pain, tingling, numbness, and muscle weakness. It may be the result of physical injury, toxic substances, viral diseases, diabetes, renal failure, cancer, and drugs."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "serum protein electrophoresis",
+      "type": "T059",
+      "umls_id": "C0201720",
+      "score": 0.9854764342308044,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "An electrophoretic laboratory test performed to determine the concentrations of globulin proteins in the blood."
+    },
+    {
+      "text": "monoclonal gammopathy",
+      "type": "T191",
+      "umls_id": "C0026470",
+      "score": 0.9839847683906555,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Conditions characterized by the presence of M protein (Monoclonal protein) in serum or urine without clinical manifestations of plasma cell dyscrasia."
+    },
+    {
+      "text": "serum creatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "electrolyte",
+      "type": "T121",
+      "umls_id": "C0013832",
+      "score": 0.9871562719345093,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "Substances that dissociate into two or more ions, to some extent, in water. Solutions of electrolytes thus conduct an electric current and can be decomposed by it (ELECTROLYSIS). (Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "concentrations",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9814780354499817,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "reference ranges",
+      "type": "T081",
+      "umls_id": "C0086715",
+      "score": 0.9818043112754822,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The range or frequency distribution of a measurement in a population (of organisms, organs or things) that has not been selected for the presence of disease or abnormality."
+    },
+    {
+      "text": "bone marrow biopsy",
+      "type": "T060",
+      "umls_id": "C0005954",
+      "score": 0.9757674336433411,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A biopsy involving the removal of a core tissue containing bone spicules and hematopoietic elements embedded in the marrow stroma. This procedure is done in the hip area mainly for the diagnosis and evaluation of neoplastic and non-neoplastic hematopoietic disorders (e.g. anemias, leukemias, lymphomas) and the evaluation of the spread of solid tumors (e.g. carcinomas, sarcomas) and lymphomas for therapeutic purposes."
+    },
+    {
+      "text": "monoclonal plasma cells",
+      "type": "T059",
+      "umls_id": "C5419691",
+      "score": 0.8136093616485596,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the amount of neoplastic plasma cells in a sample."
+    },
+    {
+      "text": "analysis",
+      "type": "T059",
+      "umls_id": "C0002778",
+      "score": 0.9811744093894958,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "class I",
+      "type": "T185",
+      "umls_id": "C0441885",
+      "score": 0.9901120662689209,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": null
+    },
+    {
+      "text": "downregulated",
+      "type": "T044",
+      "umls_id": "C0013081",
+      "score": 0.8096639513969421,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": "A negative regulatory effect on physiological processes at the molecular, cellular, or systemic level. At the molecular level, the major regulatory sites include membrane receptors, genes (GENE EXPRESSION REGULATION), mRNAs (RNA, MESSENGER), and proteins."
+    },
+    {
+      "text": "monoclonal plasma cells",
+      "type": "T059",
+      "umls_id": "C5419691",
+      "score": 0.8136093616485596,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the amount of neoplastic plasma cells in a sample."
+    },
+    {
+      "text": "proliferation",
+      "type": "T046",
+      "umls_id": "C0334094",
+      "score": 0.9703319072723389,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "monoclonal plasma cells",
+      "type": "T059",
+      "umls_id": "C5419691",
+      "score": 0.8136093616485596,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the amount of neoplastic plasma cells in a sample."
+    },
+    {
+      "text": "class",
+      "type": "T170",
+      "umls_id": "C0456387",
+      "score": 0.9968394637107849,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A grouping of things based on shared common attributes."
+    },
+    {
+      "text": "immune cells",
+      "type": "T025",
+      "umls_id": "C4330475",
+      "score": 0.8437776565551758,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A cell in the immune system that is involved in host defense. This category may include lymphocytes, monocytes, macrophages, neutrophils, eosinophils, basophils, mast cells, and thrombocytes. Precursor cells in these lineages may also be included."
+    },
+    {
+      "text": "lyse abnormal cells",
+      "type": "T025",
+      "umls_id": "C0333717",
+      "score": 0.8556224703788757,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "An abnormal human cell type which can occur in either disease states or disease models."
+    },
+    {
+      "text": "opsonization",
+      "type": "T043",
+      "umls_id": "C1159762",
+      "score": 0.9494436979293823,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "The process in which a microorganism (or other particulate material) is rendered more susceptible to phagocytosis by coating with an opsonin, a blood serum protein such as a complement component or antibody. [GOC:add, GOC:mah, ISBN:0198506732, ISBN:068340007X, ISBN:0781735149]"
+    },
+    {
+      "text": "priming",
+      "type": "T169",
+      "umls_id": "C0871133",
+      "score": 0.9737997055053711,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "prior",
+      "type": "T079",
+      "umls_id": "C0332152",
+      "score": 0.9819955825805664,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Earlier in time or order."
+    },
+    {
+      "text": "activation",
+      "type": "T052",
+      "umls_id": "C1879547",
+      "score": 0.9738941192626953,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "To cause something to start or to stimulate activity."
+    },
+    {
+      "text": "class",
+      "type": "T170",
+      "umls_id": "C0456387",
+      "score": 0.9968394637107849,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A grouping of things based on shared common attributes."
+    },
+    {
+      "text": "immune cells",
+      "type": "T025",
+      "umls_id": "C4330475",
+      "score": 0.8437776565551758,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A cell in the immune system that is involved in host defense. This category may include lymphocytes, monocytes, macrophages, neutrophils, eosinophils, basophils, mast cells, and thrombocytes. Precursor cells in these lineages may also be included."
+    },
+    {
+      "text": "67-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

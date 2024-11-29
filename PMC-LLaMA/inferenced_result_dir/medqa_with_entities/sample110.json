@@ -1,0 +1,545 @@
+{
+  "original_data": {
+    "question": "A 51-year-old man is brought to the emergency department because of a 2-day history of fever, abdominal pain, and confusion. His wife states that he has been unable to recall his birthday or her name. He was diagnosed with hepatitis C 3 years ago but refused treatment. He has been treated twice in the past year for acute pancreatitis. There is no family history of serious illness. His only medication is a calcium supplement. He emigrated from India 15 years ago. He appears ill. His temperature is 38.3°C (100.9°F), pulse is 101/min, and blood pressure is 104/68 mm Hg. He is confused and oriented only to person. Examination shows scleral icterus and spider angiomas. There are fine tremors of the hands bilaterally. The abdomen is distended and shifting dullness is present. There is diffuse tenderness to palpation with no guarding. Bowel sounds are absent. Laboratory studies show:\nHemoglobin 12.6 g/dL\nLeukocyte count 13,900/mm3\nPlatelet count 342,000/mm3\nSerum\nAlbumin 2.6 g/dL\nTotal bilirubin 2.56 mg/dL\nAlkaline phosphatase 54 U/L\nAST 17 U/L\nALT 44 U/L\nParacentesis is performed. Ascitic fluid analysis shows an albumin concentration of 0.8 g/dL, glucose concentration of 62 mg/dL, and a leukocyte count of 1900/mm3 with 60% neutrophils. Which of the following is the most likely explanation for these findings?\"",
+    "options": {
+      "A": "Aseptic peritoneal inflammation",
+      "B": "Neoplastic growth",
+      "C": "Bacterial translocation",
+      "D": "Perforated viscus"
+    }
+  },
+  "model_response": "The patient has cirrhosis with portal hypertension and hepatocellular carcinoma. The spider angiomas and palmar erythema are signs of chronic liver disease. The abdominal distention is secondary to ascites. The peritoneal fluid is likely infected and has an elevated leukocyte count with a predominance of neutrophils. Bacterial translocation is a common complication of cirrhosis. The increased permeability of the gut allows bacteria and bacterial products to leak into the peritoneal cavity. The inflammation that results is called a peritoneal infection. The most common organisms are Escherichia coli, Klebsiella, Enterobacter, and Bacteroides fragilis. The treatment is broad spectrum antibiotics.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "2-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "confusion",
+      "type": "T048",
+      "umls_id": "C0009676",
+      "score": 0.9526641964912415,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A mental state characterized by bewilderment, emotional disturbance, lack of clear thinking, and perceptual disorientation."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "birthday",
+      "type": "T079",
+      "umls_id": "C2826645",
+      "score": 0.7666891813278198,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The day of the week on which a person was born."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "hepatitis C 3 years",
+      "type": "T047",
+      "umls_id": "C0019196",
+      "score": 0.773818850517273,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "INFLAMMATION of the LIVER in humans caused by HEPATITIS C VIRUS, a single-stranded RNA virus. Its incubation period is 30-90 days. Hepatitis C is transmitted primarily by contaminated blood parenterally and is often associated with transfusion and intravenous drug abuse. However, in a significant number of cases, the source of hepatitis C infection is unknown."
+    },
+    {
+      "text": "refused",
+      "type": "T078",
+      "umls_id": "C1548564",
+      "score": 0.955167829990387,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "acute pancreatitis",
+      "type": "T047",
+      "umls_id": "C0001339",
+      "score": 0.9865201115608215,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute inflammatory process that leads to necrosis of the pancreatic parenchyma. Signs and symptoms include severe abdominal pain, nausea, vomiting, diarrhea, fever, and shock. Causes include alcohol consumption, presence of gallstones, trauma, and drugs."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "calcium supplement",
+      "type": "T121",
+      "umls_id": "C3540037",
+      "score": 0.9736706614494324,
+      "semantic_types": [
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing the mineral calcium."
+    },
+    {
+      "text": "India",
+      "type": "T083",
+      "umls_id": "C0021201",
+      "score": 0.9903201460838318,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma and Pakistan. The capitol is New Delhi."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "oriented",
+      "type": "T082",
+      "umls_id": "C1704322",
+      "score": 0.9877923130989075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Position or alignment relative to points of the compass or other specific directions."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "spider",
+      "type": "T204",
+      "umls_id": "C0037913",
+      "score": 0.9733456373214722,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "Arthropods of the class ARACHNIDA, order Araneae. Except for mites and ticks, spiders constitute the largest order of arachnids, with approximately 37,000 species having been described. The majority of spiders are harmless, although some species can be regarded as moderately harmful since their bites can lead to quite severe local symptoms. (From Barnes, Invertebrate Zoology, 5th ed, p508; Smith, Insects and Other Arthropods of Medical Importance, 1973, pp424-430)"
+    },
+    {
+      "text": "angiomas",
+      "type": "T191",
+      "umls_id": "C1959588",
+      "score": 0.9842470288276672,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A vascular anomaly due to proliferation of blood or lymphatic vessels that forms a tumor-like mass. Vessels in the angioma may or may not be dilated."
+    },
+    {
+      "text": "tremors",
+      "type": "T184",
+      "umls_id": "C0040822",
+      "score": 0.9935286045074463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Cyclical movement of a body part that can represent either a physiologic process or a manifestation of disease. Intention or action tremor, a common manifestation of CEREBELLAR DISEASES, is aggravated by movement. In contrast, resting tremor is maximal when there is no attempt at voluntary movement, and occurs as a relatively frequent manifestation of PARKINSON DISEASE."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "dullness",
+      "type": "T033",
+      "umls_id": "C0541911",
+      "score": 0.974902331829071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "no guarding",
+      "type": "T033",
+      "umls_id": "C4068738",
+      "score": 0.9707537889480591,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232693",
+      "score": 0.9843449592590332,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Serum\nAlbumin 2.6",
+      "type": "T116",
+      "umls_id": "C0036773",
+      "score": 0.8634566068649292,
+      "semantic_types": [
+        "T116"
+      ],
+      "definition": "A major protein in the BLOOD. It is important in maintaining the colloidal osmotic pressure and transporting large organic molecules."
+    },
+    {
+      "text": "Paracentesis",
+      "type": "T061",
+      "umls_id": "C0034115",
+      "score": 0.9922350645065308,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A procedure in which fluid is withdrawn from a body cavity or organ via a trocar and cannula, needle, or other hollow instrument."
+    },
+    {
+      "text": "Ascitic fluid",
+      "type": "T031",
+      "umls_id": "C5441965",
+      "score": 0.9871314764022827,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The serous fluid of ASCITES, the accumulation of fluids in the PERITONEAL CAVITY."
+    },
+    {
+      "text": "analysis",
+      "type": "T059",
+      "umls_id": "C0002778",
+      "score": 0.9811744093894958,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "albumin",
+      "type": "T116",
+      "umls_id": "C0001924",
+      "score": 0.9634256958961487,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Water-soluble proteins found in egg whites, blood, lymph, and other tissues and fluids. They coagulate upon heating."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "glucose concentration",
+      "type": "T059",
+      "umls_id": "C0427743",
+      "score": 0.9757730960845947,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "leukocyte",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9799895286560059,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "explanation",
+      "type": "T170",
+      "umls_id": "C0681841",
+      "score": 0.9418625831604004,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of statements describing a group of facts that clarifies the cause, context and/or consequence of those facts."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "51-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

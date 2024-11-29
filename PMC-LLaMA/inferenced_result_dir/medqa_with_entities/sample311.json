@@ -1,0 +1,252 @@
+{
+  "original_data": {
+    "question": "A 53-year-old man comes to the physician because of a 2-month history of multiple episodes of small amounts of blood in his stools. Examination shows pale conjunctivae. His hemoglobin concentration is 8.3 g/dL and mean corpuscular volume is 72μm3. Colonoscopy shows a 2.3-cm polypoid mass in the ascending colon. A photomicrograph of a biopsy specimen of the lesion is shown. Which of the following processes is most likely to be involved in the pathogenesis of this patient's condition?",
+    "options": {
+      "A": "Underexpression of COX-2",
+      "B": "Increased phosphorylation of serine and threonine",
+      "C": "Impaired degradation of β-catenin",
+      "D": "Abnormal transfer of phosphate to cellular proteins"
+    }
+  },
+  "model_response": "This patient has adenocarcinoma of the colon. The photomicrograph shows signet ring cells, which are characteristic of this tumor. The most likely pathogenesis is increased expression of COX-2, which is associated with increased production of prostaglandins, which inhibit apoptosis and promote angiogenesis. The other choices are associated with various types of cancer, but not specifically with adenocarcinoma of the colon.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "stools",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9726763367652893,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "conjunctivae",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.8391914367675781,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "His hemoglobin concentration",
+      "type": "T059",
+      "umls_id": "C0474535",
+      "score": 0.7791539430618286,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The mean cell hemoglobin concentration (MCHC), which is the average concentration of hemoglobin in a given volume of blood. The MCHC is a calculated value derived from the measurement of hemoglobin and the hematocrit."
+    },
+    {
+      "text": "corpuscular volume",
+      "type": "T034",
+      "umls_id": "C0524587",
+      "score": 0.8964628577232361,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "MCV equals HEMATOCRIT divided by ERYTHROCYTE COUNT."
+    },
+    {
+      "text": "Colonoscopy",
+      "type": "T060",
+      "umls_id": "C0009378",
+      "score": 0.9911046028137207,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination, therapy or surgery of the luminal surface of the colon."
+    },
+    {
+      "text": "polypoid mass",
+      "type": "T169",
+      "umls_id": "C0334107",
+      "score": 0.8075932860374451,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A term that refers to a lesion that resembles a polyp."
+    },
+    {
+      "text": "ascending colon",
+      "type": "T023",
+      "umls_id": "C0227375",
+      "score": 0.983447790145874,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The segment of LARGE INTESTINE between the CECUM and the TRANSVERSE COLON. It passes cephalad from the cecum to the caudal surface of the right lobe of the LIVER where it bends sharply to the left, forming the right colic flexure."
+    },
+    {
+      "text": "photomicrograph",
+      "type": "T059",
+      "umls_id": "C0031753",
+      "score": 0.895453155040741,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Photography of objects viewed under a microscope using ordinary photographic methods."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "lesion",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9757081866264343,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "processes",
+      "type": "T041",
+      "umls_id": "C0025361",
+      "score": 0.8121208548545837,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Conceptual functions or thinking in all its forms."
+    },
+    {
+      "text": "pathogenesis",
+      "type": "T046",
+      "umls_id": "C0699748",
+      "score": 0.9826036691665649,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "OBSOLETE. The set of specific processes that generate the ability of an organism to induce an abnormal, generally detrimental state in another organism. [GOC:go_curators]"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "53-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

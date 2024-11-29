@@ -1,0 +1,529 @@
+{
+  "original_data": {
+    "question": "A 58-year-old woman presents to the emergency department because of worsening abdominal pain for the past 2 days. She reports nausea and vomiting and is unable to tolerate oral intake. She appears uncomfortable. Her temperature is 38.1°C (100.6°F), the pulse is 92/min, the respirations are 18/min, and the blood pressure is 132/85 mm Hg. Physical examination shows yellowish discoloration of her sclera. Her abdomen is tender in the right upper quadrant. There is no abdominal distention or organomegaly. The laboratory tests show the following results:\nHemoglobin 13 g/dL\nLeukocyte count 16,000/mm3\nUrea nitrogen 25 mg/dL\nCreatinine 2 mg/dL\nAlkaline phosphatase 432 U/L\nAlanine aminotransferase 196 U/L\nAspartate transaminase 207 U/L\nBilirubin  \nTotal 3.8 mg/dL\nDirect 2.7 mg/dL\nLipase 82 U/L\nUltrasound of the right upper quadrant shows dilated intrahepatic and extrahepatic bile ducts and multiple hyperechoic spheres within the gallbladder. The pancreas is not well visualized. Intravenous fluid resuscitation and antibiotic therapy with ceftriaxone and metronidazole are initiated. After 12 hours, the patient appears acutely ill and is not oriented to time. Her temperature is 39.1°C (102.4°F), the pulse is 105/min, the respirations are 22/min, and the blood pressure is 112/82 mm Hg. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+      "B": "Laparoscopic cholecystectomy",
+      "C": "Magnetic resonance cholangiopancreatography (MRCP)",
+      "D": "Percutaneous cholecystostomy"
+    }
+  },
+  "model_response": "The patient's clinical picture is consistent with acute cholecystitis with associated emphysematous cholecystitis. Emphysematous cholecystitis is a rare variant of acute cholecystitis that is most commonly seen in elderly men and in immunocompromised patients. It is characterized by gas within the gallbladder wall or lumen. The gas in the gallbladder wall is thought to be secondary to bacterial hydrogen sulfide production. The treatment of emphysematous cholecystitis is similar to that of nonsuppurative cholecystitis in that gallbladder drainage (percutaneous cholecystostomy) is the initial treatment of choice. Early surgical intervention with proper antibiotic coverage is indicated. The patient is not a candidate for laparoscopic cholecystectomy because of her clinical picture and associated comorbidities. ERCP and MRCP are diagnostic studies that may be used in the evaluation of this patient, but would not be the next therapeutic step.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "oral intake",
+      "type": "T033",
+      "umls_id": "C2137071",
+      "score": 0.9542480707168579,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "yellowish",
+      "type": "T109",
+      "umls_id": "C0014448",
+      "score": 0.8153505921363831,
+      "semantic_types": [
+        "T109",
+        "T120"
+      ],
+      "definition": "A versatile red dye used in cosmetics, pharmaceuticals, textiles, etc., and as tissue stain, vital stain, and counterstain with HEMATOXYLIN. It is also used in special culture media."
+    },
+    {
+      "text": "discoloration",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.979123592376709,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "sclera",
+      "type": "T023",
+      "umls_id": "C0036410",
+      "score": 0.9895656108856201,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The white, opaque, fibrous, outer tunic of the eyeball, covering it entirely excepting the segment covered anteriorly by the cornea. It is essentially avascular but contains apertures for vessels, lymphatics, and nerves. It receives the tendons of insertion of the extraocular muscles and at the corneoscleral junction contains the CANAL OF SCHLEMM. (From Cline et al., Dictionary of Visual Science, 4th ed)"
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "right upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.9763540029525757,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "abdominal distention",
+      "type": "T033",
+      "umls_id": "C0000731",
+      "score": 0.9700733423233032,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling of the abdomen resulting from excessive food intake, malnutrition, liver disease, primary abdominal tumors, and tumors metastatic to the abdominal cavity."
+    },
+    {
+      "text": "organomegaly",
+      "type": "T033",
+      "umls_id": "C4054315",
+      "score": 0.9937393665313721,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormal enlargement of an organ, particularly an organ of the abdominal cavity."
+    },
+    {
+      "text": "laboratory tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9844176769256592,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "Urea nitrogen 25",
+      "type": "T123",
+      "umls_id": "C0028158",
+      "score": 0.7494629621505737,
+      "semantic_types": [
+        "T123",
+        "T196"
+      ],
+      "definition": "An element with the atomic symbol N, atomic number 7, and atomic weight [14.00643; 14.00728]. Nitrogen exists as a diatomic gas and makes up about 78% of the earth's atmosphere by volume. It is a constituent of proteins and nucleic acids and found in all living cells."
+    },
+    {
+      "text": "Alanine aminotransferase",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9869809150695801,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "Aspartate transaminase",
+      "type": "T116",
+      "umls_id": "C0004002",
+      "score": 0.9744352698326111,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Enzymes of the transferase class that catalyze the conversion of L-aspartate and 2-ketoglutarate to oxaloacetate and L-glutamate. EC 2.6.1.1."
+    },
+    {
+      "text": "right upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.9763540029525757,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "dilated",
+      "type": "T033",
+      "umls_id": "C0700124",
+      "score": 0.9801392555236816,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The condition of being dilated or stretched."
+    },
+    {
+      "text": "intrahepatic",
+      "type": "T082",
+      "umls_id": "C1512948",
+      "score": 0.9518160820007324,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Within the liver."
+    },
+    {
+      "text": "extrahepatic bile ducts",
+      "type": "T023",
+      "umls_id": "C0206187",
+      "score": 0.9695446491241455,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Passages external to the liver for the conveyance of bile. These include the COMMON BILE DUCT and the common hepatic duct (HEPATIC DUCT, COMMON)."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "hyperechoic",
+      "type": "T033",
+      "umls_id": "C4697722",
+      "score": 0.9770462512969971,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gallbladder",
+      "type": "T023",
+      "umls_id": "C0016976",
+      "score": 0.9696239233016968,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A storage reservoir for BILE secretion. Gallbladder allows the delivery of bile acids at a high concentration and in a controlled manner, via the CYSTIC DUCT to the DUODENUM, for degradation of dietary lipid."
+    },
+    {
+      "text": "pancreas",
+      "type": "T023",
+      "umls_id": "C0030274",
+      "score": 0.9899283647537231,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A nodular organ in the ABDOMEN that contains a mixture of ENDOCRINE GLANDS and EXOCRINE GLANDS. The small endocrine portion consists of the ISLETS OF LANGERHANS secreting a number of hormones into the blood stream. The large exocrine portion (EXOCRINE PANCREAS) is a compound acinar gland that secretes several digestive enzymes into the pancreatic ductal system that empties into the DUODENUM."
+    },
+    {
+      "text": "Intravenous fluid",
+      "type": "T167",
+      "umls_id": "C1289919",
+      "score": 0.9754502177238464,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A sterile liquid preparation infused into a vein. IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances. In addition, IV fluids are used to administer blood products and medications such as chemotherapy. Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)"
+    },
+    {
+      "text": "resuscitation",
+      "type": "T061",
+      "umls_id": "C0035273",
+      "score": 0.9607059359550476,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The restoration to life or consciousness of one apparently dead. (Dorland, 27th ed)"
+    },
+    {
+      "text": "antibiotic therapy",
+      "type": "T061",
+      "umls_id": "C0338237",
+      "score": 0.9777736663818359,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Treatment of bacterial infections with antibiotics."
+    },
+    {
+      "text": "ceftriaxone",
+      "type": "T109",
+      "umls_id": "C0007561",
+      "score": 0.9359742999076843,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A broad-spectrum cephalosporin antibiotic and cefotaxime derivative with a very long half-life and high penetrability to meninges, eyes and inner ears."
+    },
+    {
+      "text": "metronidazole",
+      "type": "T109",
+      "umls_id": "C0025872",
+      "score": 0.9793698191642761,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A nitroimidazole used to treat AMEBIASIS; VAGINITIS; TRICHOMONAS INFECTIONS; GIARDIASIS; ANAEROBIC BACTERIA; and TREPONEMAL INFECTIONS."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "ill",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9888160228729248,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

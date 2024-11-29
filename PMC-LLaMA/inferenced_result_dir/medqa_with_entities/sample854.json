@@ -1,0 +1,281 @@
+{
+  "original_data": {
+    "question": "A 32-year-old woman presents to the emergency department with abdominal pain and vaginal discharge. She gave birth to a healthy baby boy three days prior to presentation. Since then, she has been feeling sick, and she is concerned that she has been getting worse over time. On presentation, her temperature is 100.7°F (38.1°C), blood pressure is 115/78 mmHg, pulse is 105/min, and respirations are 14/min. Physical exam reveals abdominal discomfort with uterine tenderness, and laboratory results show elevated white blood cell count with many plasma cells. The most likely cause of this patient's disorder has which of the following characteristics?",
+    "options": {
+      "A": "Alpha-hemolytic cocci in chains",
+      "B": "Beta-hemolytic cocci in chains",
+      "C": "Coagulase-positive cocci in clusters",
+      "D": "Gamma-hemolytic cocci in chains"
+    }
+  },
+  "model_response": "The clinical presentation is most consistent with postpartum endometritis, which is an infection of the decidua. The most common cause of postpartum endometritis is group A streptococci, which are beta-hemolytic cocci in chains. This patient's presentation is more severe than what is typically seen with group A streptococci, however, and her culture grew alpha-hemolytic cocci in chains. This is most consistent with a Streptococcus viridans infection, which is more commonly associated with subacute bacterial endocarditis. The other organisms listed are not associated with endometritis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "vaginal discharge",
+      "type": "T033",
+      "umls_id": "C0227791",
+      "score": 0.9792253375053406,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A common gynecologic disorder characterized by an abnormal, nonbloody discharge from the genital tract."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "sick",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9954224824905396,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "worse",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9833537340164185,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abdominal discomfort",
+      "type": "T184",
+      "umls_id": "C0232487",
+      "score": 0.9542143940925598,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "uterine tenderness",
+      "type": "T184",
+      "umls_id": "C0567083",
+      "score": 0.97542804479599,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "laboratory results",
+      "type": "T034",
+      "umls_id": "C1254595",
+      "score": 0.9686997532844543,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "white blood cell",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9861048460006714,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "plasma cells",
+      "type": "T025",
+      "umls_id": "C0032112",
+      "score": 0.9894760847091675,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Specialized forms of antibody-producing B-LYMPHOCYTES. They synthesize and secrete immunoglobulin. They are found only in lymphoid organs and at sites of immune responses and normally do not circulate in the blood or lymph. (Rosen et al., Dictionary of Immunology, 1989, p169 & Abbas et al., Cellular and Molecular Immunology, 2d ed, p20)"
+    },
+    {
+      "text": "patient's disorder",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "characteristics",
+      "type": "T080",
+      "umls_id": "C1521970",
+      "score": 0.9741553068161011,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The distinguishing qualities or prominent aspect of a person, object, action, process, or substance."
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "original_data": {
+    "question": "A 3-year-old boy is brought to the clinic by his parents because he ‘hasn’t been himself lately’ and reportedly gets tired very easily from his swimming classes in comparison to the other kids. He also ‘can’t catch his breath’ at times. The mother also reports that he seems to be slightly shorter than other children his age. His temperature is 36.6°C (97.9°F), blood pressure is 110/70 mm Hg, and respiratory rate is 14/min. On auscultation, a localized harsh pansystolic murmur is heard over the left sternal border at the level of the 2nd–3rd intercostal space. The murmur becomes louder when the patient is asked to squat. An echocardiogram is performed. Which of the structures below gives rise to the defective structure that is causing this patient’s symptoms?",
+    "options": {
+      "A": "Endocardial cushion",
+      "B": "Infundibular septum",
+      "C": "3rd pharyngeal arch",
+      "D": "Rathke’s pouch"
+    }
+  },
+  "model_response": "The image shows a ventricular septal defect (VSD), which is a defect in the membranous part of the ventricular septum. The membranous part of the ventricular septum is formed by the endocardial cushions. The infundibular septum is a part of the muscular septum, which is formed by the 3rd pharyngeal arch. Rathke’s pouch gives rise to the anterior pituitary gland.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "gets",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "swimming classes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "kids",
+      "type": "T099",
+      "umls_id": "C0680063",
+      "score": 0.995603621006012,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A first-generation, biological descendant of any age."
+    },
+    {
+      "text": "breath’",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9308445453643799,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "times",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9879130721092224,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "shorter",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "harsh",
+      "type": "T033",
+      "umls_id": "C4068826",
+      "score": 0.9746283888816833,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A heart murmur that has an auditory quality in which the flow sounds highly turbulent."
+    },
+    {
+      "text": "pansystolic",
+      "type": "T033",
+      "umls_id": "C0232258",
+      "score": 0.7599910497665405,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A heart murmur that occurs during the entire systolic interval, from the first to second heart sounds."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "left sternal border",
+      "type": "T030",
+      "umls_id": "C4068813",
+      "score": 0.9832053184509277,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "intercostal space",
+      "type": "T030",
+      "umls_id": "C0230136",
+      "score": 0.9669649600982666,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Space of compartment of trunk bounded by the upper and lower surfaces of two consecutive ribs."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "louder",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "squat",
+      "type": "T033",
+      "umls_id": "C0241236",
+      "score": 0.9808810949325562,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "echocardiogram",
+      "type": "T060",
+      "umls_id": "C0013516",
+      "score": 0.9934785962104797,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonic recording of the size, motion, and composition of the heart and surrounding tissues. The standard approach is transthoracic."
+    },
+    {
+      "text": "structures",
+      "type": "T082",
+      "umls_id": "C0678594",
+      "score": 0.9937869906425476,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The components and their relationship and manner of arrangement in constituting a whole."
+    },
+    {
+      "text": "defective structure",
+      "type": "T082",
+      "umls_id": "C0678594",
+      "score": 0.7038812041282654,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The components and their relationship and manner of arrangement in constituting a whole."
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

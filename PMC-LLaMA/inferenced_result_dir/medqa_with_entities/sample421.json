@@ -1,0 +1,247 @@
+{
+  "original_data": {
+    "question": "A 65-year-old woman presented to the emergency room due to progressive dyspnea. She is a known hypertensive but is poorly compliant with medications. The patient claims to have orthopnea, paroxysmal nocturnal dyspnea, and easy fatigability. On physical examination, the blood pressure is 80/50 mm Hg. There is prominent neck vein distention. An S3 gallop, bibasilar crackles, and grade 3 bipedal edema were also detected. A 2d echo was performed, which showed a decreased ejection fraction (32%). Which of the following drugs should not be given to this patient?",
+    "options": {
+      "A": "Furosemide",
+      "B": "Nesiritide",
+      "C": "Metoprolol",
+      "D": "Digoxin"
+    }
+  },
+  "model_response": "This is a case of acute heart failure exacerbation. The patient has rales and S3 gallop, which are signs of pulmonary edema. The patient has also evidence of poor perfusion (neck vein distention, low blood pressure). The patient has a low ejection fraction (32%), which indicates systolic heart failure. The initial treatment of acute heart failure is the administration of intravenous fluids. However, in this case, the patient has evidence of fluid overload (neck vein distention, pulmonary edema). Therefore, the use of intravenous fluids is contraindicated. Loop diuretics are the mainstay of therapy in acute heart failure. However, in this case, the patient has evidence of fluid overload and low blood pressure. Therefore, the use of loop diuretics is contraindicated. Nesiritide is a recombinant BNP that dilates the aerial and venous circulation. It also has a positive inotropic effect. Nesiritide is indicated in acute heart failure exacerbation with evidence of low perfusion. In this case, the patient has evidence of low perfusion (neck vein distention, low blood pressure). Therefore, nesiritide is the drug of choice. Metoprolol is a beta-blocker indicated in acute heart failure exacerbation. However, in this case, the patient has evidence of low perfusion, and beta-blockers are contraindicated in this setting. Therefore, metoprolol is contraindicated. Digoxin is indicated in acute heart failure exacerbation. However, in this case, the patient has evidence of low perfusion, and digoxin is contraindicated in this setting. Therefore, digoxin is contraindicated. Furosemide is a loop diuretic indicated in acute heart failure exacerbation. However, in this case, the patient has evidence of fluid overload and low blood pressure. Therefore, furosemide is contraindicated.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "hypertensive",
+      "type": "T033",
+      "umls_id": "C0857121",
+      "score": 0.9903165102005005,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "orthopnea",
+      "type": "T033",
+      "umls_id": "C0085619",
+      "score": 0.9669739603996277,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Breathlessness in the recumbent position."
+    },
+    {
+      "text": "paroxysmal nocturnal dyspnea",
+      "type": "T047",
+      "umls_id": "C1956415",
+      "score": 0.9546048641204834,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Sudden onset of shortness of breath that causes one to awaken coughing or wheezing; it may be associated with congestive heart failure or chronic obstructive pulmonary disease."
+    },
+    {
+      "text": "fatigability",
+      "type": "T184",
+      "umls_id": "C0231230",
+      "score": 0.9780797362327576,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "neck vein distention",
+      "type": "T046",
+      "umls_id": "C0012359",
+      "score": 0.7341810464859009,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being dilated beyond normal dimensions."
+    },
+    {
+      "text": "S3 gallop",
+      "type": "T033",
+      "umls_id": "C0232278",
+      "score": 0.9715679287910461,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A finding which can be heard on auscultation of the heart in the setting of congestive heart failure. The sound of the S3 gallop, which immediately follows the second heart sound (S2) is thought to be produced by the sound of blood flowing into a noncompliant ventricle."
+    },
+    {
+      "text": "bibasilar crackles",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "grade 3",
+      "type": "T033",
+      "umls_id": "C0450094",
+      "score": 0.9951100945472717,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Moderate functional limitations"
+    },
+    {
+      "text": "bipedal edema",
+      "type": "T046",
+      "umls_id": "C5421569",
+      "score": 0.9687497615814209,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A palpable swelling in both feet and ankles caused by palpable swelling caused by an increase in interstitial fluid volume (excess fulid). []"
+    },
+    {
+      "text": "detected",
+      "type": "T033",
+      "umls_id": "C0442726",
+      "score": 0.9800583124160767,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>The measurement of the specified component / analyte, organism or clinical sign above the limit of detection of the performed test or procedure.</p>"
+    },
+    {
+      "text": "2d echo",
+      "type": "T059",
+      "umls_id": "C1441441",
+      "score": 0.977192759513855,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "ejection fraction",
+      "type": "T060",
+      "umls_id": "C0489482",
+      "score": 0.9259448647499084,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "amount of blood pumped out of the left lower chamber of the heart with each heart beat"
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

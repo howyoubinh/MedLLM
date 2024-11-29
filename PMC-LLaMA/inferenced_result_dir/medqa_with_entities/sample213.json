@@ -1,0 +1,224 @@
+{
+  "original_data": {
+    "question": "A 67-year-old woman presents from home hospice with a change in her mental status. She has seemed more confused lately and is unable to verbalize her symptoms. Her temperature is 102°F (38.9°C), blood pressure is 117/65 mmHg, pulse is 110/min, respirations are 19/min, and oxygen saturation is 95% on room air. Physical exam is notable for a right upper quadrant mass that elicits discomfort when palpated. Ultrasound is notable for pericholecystic fluid and gallbladder wall thickening without any gallstones. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Acalculous cholecystitis",
+      "B": "Calculous cholescystitis",
+      "C": "Choledocholithiasis",
+      "D": "Emphysematous cholecystitis"
+    }
+  },
+  "model_response": "The most likely diagnosis is acalculous cholecystitis. This condition is more common in critically ill patients and patients on total parenteral nutrition. It is characterized by gallbladder wall thickening without gallstones. Patients are critically ill with sepsis, major surgery, or trauma. The patient is likely to have a right upper quadrant mass that is tender. The patient may also have fevers, altered mental status, and hypotension. The treatment is usually cholecystectomy, but the patient's condition may be too unstable for surgery. If the patient is critically ill, percutaneous cholecystostomy is the treatment of choice.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "home hospice",
+      "type": "T058",
+      "umls_id": "C3275086",
+      "score": 0.9976187348365784,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "End-of-Life care that is administered in the patient's home environment by the staff of the Hospice organization. (ACC)"
+    },
+    {
+      "text": "mental status",
+      "type": "T033",
+      "umls_id": "C0278060",
+      "score": 0.982847273349762,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lately",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "verbalize",
+      "type": "T080",
+      "umls_id": "C0439824",
+      "score": 0.7203199863433838,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Expressed in spoken words."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "right upper quadrant mass",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.8831454515457153,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "discomfort",
+      "type": "T184",
+      "umls_id": "C2364135",
+      "score": 0.9524610042572021,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of mental or physical uneasiness, pain, or distress."
+    },
+    {
+      "text": "palpated",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "pericholecystic fluid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gallbladder wall",
+      "type": "T023",
+      "umls_id": "C0734014",
+      "score": 0.9735497236251831,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gallstones",
+      "type": "T047",
+      "umls_id": "C0008350",
+      "score": 0.9730534553527832,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Presence or formation of GALLSTONES in the BILIARY TRACT, usually in the gallbladder (CHOLECYSTOLITHIASIS) or the common bile duct (CHOLEDOCHOLITHIASIS)."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "67-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

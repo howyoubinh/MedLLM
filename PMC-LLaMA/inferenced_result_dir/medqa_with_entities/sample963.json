@@ -1,0 +1,207 @@
+{
+  "original_data": {
+    "question": "A 72-year-old man with hypertension and type 2 diabetes mellitus is admitted to the hospital for the evaluation of breathlessness and fatigue. His pulse is 100/min, and blood pressure is 90/60 mm Hg. Further evaluation shows a systemic vascular resistance of 35 mm Hg × min/L with an end-systolic volume of 80 mL. Which of the following describes the ejection fraction in this patient?",
+    "options": {
+      "A": "30%",
+      "B": "15%",
+      "C": "25%",
+      "D": "20%"
+    }
+  },
+  "model_response": "The ejection fraction is calculated as stroke volume divided by end-diastolic volume. In this case, stroke volume is calculated as 1000 = 100 × (end-systolic volume - end-diastolic volume). Therefore, stroke volume is 1000 mL, and end-diastolic volume is 80 mL. Thus, the ejection fraction is 1000 mL divided by 80 mL, or 12.5%.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "breathlessness",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.959090530872345,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "systemic",
+      "type": "T169",
+      "umls_id": "C0205373",
+      "score": 0.9938158988952637,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Affecting an entire system."
+    },
+    {
+      "text": "vascular resistance",
+      "type": "T039",
+      "umls_id": "C0042380",
+      "score": 0.989306628704071,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The force that opposes the flow of BLOOD through a vascular bed. It is equal to the difference in BLOOD PRESSURE across the vascular bed divided by the CARDIAC OUTPUT."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "min/L",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "end-systolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7172870635986328,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "volume",
+      "type": "T081",
+      "umls_id": "C0449468",
+      "score": 0.9937787055969238,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The amount of three dimensional space occupied by an object or the capacity of a space or container."
+    },
+    {
+      "text": "ejection fraction",
+      "type": "T060",
+      "umls_id": "C0489482",
+      "score": 0.9259448647499084,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "amount of blood pumped out of the left lower chamber of the heart with each heart beat"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "72-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

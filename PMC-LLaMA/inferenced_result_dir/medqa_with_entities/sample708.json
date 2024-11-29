@@ -1,0 +1,232 @@
+{
+  "original_data": {
+    "question": "A one-week-old boy presents with yellow sclerae, severe lethargy, and decreased muscle tone. His mother notes that the symptoms started shortly after birth and have been progressively worsening. The patient is breast fed and takes no medications. His labs are within normal limits with the exception of his liver function tests as follows:\n\nALT: 8 U/ L\nAST: 10 U/L\nAlkaline phosphatase: 50 U/L\nAlbumin: 3.7 g/dL\nTotal protein: 6.7 g/dL\nBilirubin, total: 29.4 mg/dL\nBilirubin, unconjugated: 29.2 mg/dL\nBilirubin, conjugated: 0.2 mg/dL\n\nThe boy is taken immediately for treatment. What is the most likely underlying cause of his condition?",
+    "options": {
+      "A": "Absence of UDP-glucuronosyltransferase-1A1",
+      "B": "Alteration in the ankyrin protein",
+      "C": "Reduction in UDP-glucuronosyltransferase-1A1 activity",
+      "D": "Deficiency in glucocerebrosidase"
+    }
+  },
+  "model_response": "The correct answer is C. This patient's presentation is consistent with neonatal jaundice due to a deficiency in UDP-glucuronosyltransferase-1A1 activity. This condition is known as Crigler-Najjar syndrome type I. The absence of UDP-glucuronosyltransferase-1A1 leads to unconjugated hyperbilirubinemia. The other options are not related to bilirubin metabolism and are not associated with unconjugated hyperbilirubinemia.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "one-week-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "yellow sclerae",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.8817535042762756,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "lethargy",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9868770837783813,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "muscle tone",
+      "type": "T042",
+      "umls_id": "C0026841",
+      "score": 0.9872323274612427,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The state of activity or tension of a muscle beyond that related to its physical properties, that is, its active resistance to stretch. In skeletal muscle, tonus is dependent upon efferent innervation. (Stedman, 25th ed)"
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortly",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "breast fed",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9619142413139343,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "exception",
+      "type": "T078",
+      "umls_id": "C1554961",
+      "score": 0.9494020938873291,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "<p>Respond with exceptions only</p>"
+    },
+    {
+      "text": "liver function tests",
+      "type": "T059",
+      "umls_id": "C0023901",
+      "score": 0.9714523553848267,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Blood tests that are used to evaluate how well a patient's liver is working and also to help diagnose liver conditions."
+    },
+    {
+      "text": "ALT",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9907079935073853,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "L\nAST",
+      "type": "T116",
+      "umls_id": "C0004002",
+      "score": 0.8645884394645691,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Enzymes of the transferase class that catalyze the conversion of L-aspartate and 2-ketoglutarate to oxaloacetate and L-glutamate. EC 2.6.1.1."
+    },
+    {
+      "text": "unconjugated",
+      "type": "T080",
+      "umls_id": "C0522530",
+      "score": 0.9716426730155945,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    }
+  ]
+}

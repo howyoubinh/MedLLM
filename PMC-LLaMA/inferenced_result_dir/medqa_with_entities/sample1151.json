@@ -1,0 +1,336 @@
+{
+  "original_data": {
+    "question": "A 1900-g (4-lb 3-oz) newborn is delivered at term to a 36-year-old primigravid woman. Pregnancy was complicated by polyhydramnios. Apgar scores are 7 and 7 at 1 and 5 minutes, respectively. He is at the 2nd percentile for head circumference and 15th percentile for length. Examination shows a prominent posterior part of the head. The ears are low-set and the jaw is small and retracted. The fists are clenched, with overlapping second and third fingers. The calcaneal bones are prominent and the plantar surface of the foot shows a convex deformity. Abdominal examination shows an omphalocele. Further evaluation of this patient is most likely to show which of the following findings?",
+    "options": {
+      "A": "Ventricular septal defect",
+      "B": "Ebstein's anomaly",
+      "C": "Pheochromocytoma",
+      "D": "Holoprosencephaly"
+    }
+  },
+  "model_response": "The findings depicted in the question stem are those of the Down syndrome syndrome. The most common cardiac defect in Down syndrome is a ventricular septal defect, which occurs in about half of these patients. Other common cardiac defects include atrioventricular canal defects and atrial septal defects. The most common abdominal abnormality is a patent ductus arteriosus. The incidence of cardiac defects is about 45% in Down syndrome. The other choices are unrelated to Down syndrome.\n\nTrisomy 21 is the most common trisomy. The incidence of trisomy 21 is 1 in 800 live births. The incidence increases as maternal age increases. The mean IQ of children with Down syndrome is 28. The life expectancy is reduced, with most patients dying in the second decade of life. The cause of death is usually congenital heart disease.\n\nThe risk of recurrence of Down syndrome in a family is increased if the mother is the carrier of a balanced translocation. If the father has a balanced translocation, the risk of recurrence is negligible.\n\nIn addition to the findings listed in the question stem, these children often have other anomalies, including strabismus, nystagmus, and sensorineural hearing loss. Brushfield spots on the iris are also common.\n\nThe diagnosis is best established with a karyotype. The other tests are not specific for Down syndrome.\n\nManagement is directed at the specific abnormalities found on evaluation. In addition, patients should be referred for early intervention programs, such as those for hearing loss.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "primigravid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "polyhydramnios",
+      "type": "T046",
+      "umls_id": "C0020224",
+      "score": 0.9609734416007996,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A condition of abnormally high AMNIOTIC FLUID volume, such as greater than 2,000 ml in the LAST TRIMESTER and usually diagnosed by ultrasonographic criteria (AMNIOTIC FLUID INDEX). It is associated with maternal DIABETES MELLITUS; MULTIPLE PREGNANCY; CHROMOSOMAL DISORDERS; and congenital abnormalities."
+    },
+    {
+      "text": "Apgar scores",
+      "type": "T032",
+      "umls_id": "C0003533",
+      "score": 0.9436954259872437,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A method, developed by Dr. Virginia Apgar, to evaluate a newborn's adjustment to extrauterine life. Five items - heart rate, respiratory effort, muscle tone, reflex irritability, and color - are evaluated 60 seconds after birth and again five minutes later on a scale from 0-2, 0 being the lowest, 2 being normal. The five numbers are added for the Apgar score. A score of 0-3 represents severe distress, 4-7 indicates moderate distress, and a score of 7-10 predicts an absence of difficulty in adjusting to extrauterine life."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "head circumference",
+      "type": "T201",
+      "umls_id": "C0262499",
+      "score": 0.9727798104286194,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "A circumferential measurement of the head at the widest point, which is traditionally above the eyebrows."
+    },
+    {
+      "text": "percentile",
+      "type": "T081",
+      "umls_id": "C1264641",
+      "score": 0.97263103723526,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."
+    },
+    {
+      "text": "length",
+      "type": "T081",
+      "umls_id": "C1444754",
+      "score": 0.9718987345695496,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The linear extent in space from one end of something to the other end, or the extent of something from beginning to end."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "posterior",
+      "type": "T082",
+      "umls_id": "C0205095",
+      "score": 0.9869295358657837,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Pertaining to the back or upper surface of the body; opposite of ventral."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "ears",
+      "type": "T023",
+      "umls_id": "C0013443",
+      "score": 0.9975276589393616,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hearing and equilibrium system of the body. It consists of three parts: the EXTERNAL EAR, the MIDDLE EAR, and the INNER EAR. Sound waves are transmitted through this organ where vibration is transduced to nerve signals that pass through the ACOUSTIC NERVE to the CENTRAL NERVOUS SYSTEM. The inner ear also contains the vestibular organ that maintains equilibrium by transducing signals to the VESTIBULAR NERVE."
+    },
+    {
+      "text": "low-set",
+      "type": "T033",
+      "umls_id": "C4230399",
+      "score": 0.9552170038223267,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "jaw",
+      "type": "T023",
+      "umls_id": "C0022359",
+      "score": 0.9927788972854614,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Bony structure of the mouth that holds the teeth. It consists of the MANDIBLE and the MAXILLA."
+    },
+    {
+      "text": "retracted",
+      "type": "T033",
+      "umls_id": "C0332523",
+      "score": 0.986316442489624,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fists",
+      "type": "T072",
+      "umls_id": "C0336667",
+      "score": 0.9845222234725952,
+      "semantic_types": [
+        "T072"
+      ],
+      "definition": null
+    },
+    {
+      "text": "overlapping second",
+      "type": "T079",
+      "umls_id": "C1948020",
+      "score": 0.77944016456604,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The phenomenon of coinciding partially or wholly; extending over and covering a part of."
+    },
+    {
+      "text": "fingers",
+      "type": "T023",
+      "umls_id": "C0016129",
+      "score": 0.990062415599823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Four or five slender jointed digits in humans and primates, attached to each HAND."
+    },
+    {
+      "text": "calcaneal",
+      "type": "T023",
+      "umls_id": "C0006655",
+      "score": 0.9673024415969849,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The largest of the TARSAL BONES which is situated at the lower and back part of the FOOT, forming the HEEL."
+    },
+    {
+      "text": "bones",
+      "type": "T023",
+      "umls_id": "C0262950",
+      "score": 0.9903292655944824,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The structural organ comprised of specialized connective tissue that forms the skeletal components of the body."
+    },
+    {
+      "text": "prominent",
+      "type": "T080",
+      "umls_id": "C0205402",
+      "score": 0.9741337299346924,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "plantar surface",
+      "type": "T029",
+      "umls_id": "C0230463",
+      "score": 0.984914243221283,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The undersurface of the foot."
+    },
+    {
+      "text": "foot",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9919309616088867,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "convex",
+      "type": "T082",
+      "umls_id": "C0521163",
+      "score": 0.9507459998130798,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "deformity",
+      "type": "T019",
+      "umls_id": "C0000768",
+      "score": 0.9819372296333313,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Malformations of organs or body parts during development in utero."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "omphalocele",
+      "type": "T019",
+      "umls_id": "C0795690",
+      "score": 0.9833519458770752,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "A congenital defect in the muscles of the abdominal wall that results in the intestines and other abdominal organs developing outside the abdominal wall covered in a sac."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

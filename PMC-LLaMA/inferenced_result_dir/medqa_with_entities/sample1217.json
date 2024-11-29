@@ -1,0 +1,233 @@
+{
+  "original_data": {
+    "question": "A 65-year-old man with a longstanding history of poorly-controlled hypertension and no recent illness or cardiac disease presents to clinic complaining of chest pain that is worse on inspiration and relieved by sitting forward. Vital signs are stable. On exam, you detect a friction rub. Routine labs show K 7.5 and Cr 5.1. If this patient's clinical signs and laboratory findings are indicative of a chronic condition, what would be expected on urinary analysis?",
+    "options": {
+      "A": "Muddy brown granular casts",
+      "B": "Red blood cell casts",
+      "C": "Fatty casts",
+      "D": "Broad and waxy casts"
+    }
+  },
+  "model_response": "The presence of red blood cell casts in the urine suggests glomerular injury. The presence of muddy brown granular casts suggests interstitial injury or acute tubular necrosis. Fatty casts are seen in nephrotic syndrome. Broad and waxy casts are seen in chronic renal failure.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "poorly-controlled hypertension",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cardiac disease",
+      "type": "T047",
+      "umls_id": "C0018799",
+      "score": 0.985522449016571,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pathological conditions involving the HEART including its structural and functional abnormalities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "inspiration",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9656476974487305,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "sitting forward",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "stable",
+      "type": "T080",
+      "umls_id": "C0205360",
+      "score": 0.996412992477417,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of being free from change or variation or not taking part readily in chemical change."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "detect",
+      "type": "T033",
+      "umls_id": "C0442726",
+      "score": 0.9826383590698242,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>The measurement of the specified component / analyte, organism or clinical sign above the limit of detection of the performed test or procedure.</p>"
+    },
+    {
+      "text": "friction rub",
+      "type": "T070",
+      "umls_id": "C0162691",
+      "score": 0.8091849684715271,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Surface resistance to the relative motion of one body against the rubbing, sliding, rolling, or flowing of another with which it is in contact."
+    },
+    {
+      "text": "labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "K",
+      "type": "T121",
+      "umls_id": "C0032821",
+      "score": 1.0,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element in the alkali group of metals with an atomic symbol K, atomic number 19, and atomic weight 39.10. It is the chief cation in the intracellular fluid of muscle and other cells. Potassium ion is a strong electrolyte that plays a significant role in the regulation of fluid volume and maintenance of the WATER-ELECTROLYTE BALANCE."
+    },
+    {
+      "text": "Cr",
+      "type": "T059",
+      "umls_id": "C0201975",
+      "score": 0.9711294174194336,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "clinical signs",
+      "type": "T080",
+      "umls_id": "C0205210",
+      "score": 0.767187774181366,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Relating to the examination and treatment of patients dependent on direct observation. The term may also refer to the institution (clinic) providing this activity."
+    },
+    {
+      "text": "laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "indicative",
+      "type": "T078",
+      "umls_id": "C0392360",
+      "score": 0.743053674697876,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "An explanation of the cause of some phenomenon or action."
+    },
+    {
+      "text": "chronic condition",
+      "type": "T047",
+      "umls_id": "C5545294",
+      "score": 0.9764690399169922,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urinary analysis",
+      "type": "T059",
+      "umls_id": "C5690912",
+      "score": 0.8091119527816772,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Microscopic visualization and/or chemical analysis of the sediments in URINE."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

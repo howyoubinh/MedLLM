@@ -1,0 +1,212 @@
+{
+  "original_data": {
+    "question": "A 51-year-old Asian woman presents to her primary care provider with abdominal pain. On examination, she is found to have rebound tenderness in the lower right quadrant of her abdomen. Further workup suggests ovarian cancer, which is confirmed later in the week to be stage 4 with confirmed distant metastases in the lungs and brain. Which of the following routes describes the most likely lymphatic route for this malignancy to have metastasized to the brain?",
+    "options": {
+      "A": "Sentinel node - left lumbar trunk - cisterna chyli - right bronchomediastinal trunk - right lymphatic duct - right subclavian vein - systemic circulation",
+      "B": "Sentinel node - left lumbar trunk - cisterna chyli - thoracic duct - left subclavian vein - systemic circulation",
+      "C": "Sentinel node - right lumbar trunk - cisterna chyli - right bronchomediastinal trunk - right lymphatic duct - right subclavian vein - systemic circulation",
+      "D": "Sentinel node - right lumbar trunk - cisterna chyli - thoracic duct - left subclavian vein - systemic circulation"
+    }
+  },
+  "model_response": "The sentinel node for the ovary is located in the right lumbar region. From there, lymph is carried through the right lumbar trunk to the cisterna chyli, which then connects to the thoracic duct. The thoracic duct carries lymph to the left subclavian vein, which then enters the systemic circulation.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Asian",
+      "type": "T098",
+      "umls_id": "C0003988",
+      "score": 0.9975364804267883,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam (https://www.federalregister.gov/documents/1997/10/30/97-28653/revisions-to-the-standards-for-the-classification-of-federal-data-on-race-and-ethnicity). In the United States it is used for classification of federal government data on race and ethnicity. Race and ethnicity terms are self-identified social construct and may include terms outdated and offensive in MeSH to assist users who are interested in retrieving comprehensive search results for studies such as in longitudinal studies."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "rebound tenderness",
+      "type": "T184",
+      "umls_id": "C0234246",
+      "score": 0.9786429405212402,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right quadrant",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.8512274622917175,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "ovarian cancer",
+      "type": "T191",
+      "umls_id": "C0919267",
+      "score": 0.9846251010894775,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Tumors or cancer of the OVARY. These neoplasms can be benign or malignant. They are classified according to the tissue of origin, such as the surface EPITHELIUM, the stromal endocrine cells, and the totipotent GERM CELLS."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "stage",
+      "type": "T079",
+      "umls_id": "C0205390",
+      "score": 0.9895567297935486,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A distinguishable part, a stage in a series of events or in a process of development, e.g. any of the varying aspects or stages in course of a disease; a fraction of a cycle."
+    },
+    {
+      "text": "distant metastases",
+      "type": "T046",
+      "umls_id": "C5441917",
+      "score": 0.8480730056762695,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A biological process that involves the transfer and growth of cancer cells from the site of the primary tumor. Relocation of malignant cells during metastasis can be restricted to movement within a specific tissue/organ or may entail migration to a distal locus within the body. This phenotype is a characteristic of all malignant tumors."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "routes",
+      "type": "T082",
+      "umls_id": "C0449444",
+      "score": 0.9889212250709534,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A way of getting from one place to another; an established line of travel or access; the way a chemical or pollutant enters an organism after contact, particularly, the way of drug administration."
+    },
+    {
+      "text": "lymphatic",
+      "type": "T023",
+      "umls_id": "C0229889",
+      "score": 0.981404721736908,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Tubular vessels that are involved in the transport of LYMPH and LYMPHOCYTES."
+    },
+    {
+      "text": "malignancy",
+      "type": "T191",
+      "umls_id": "C0006826",
+      "score": 0.9908151030540466,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas, Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas."
+    },
+    {
+      "text": "metastasized",
+      "type": "T191",
+      "umls_id": "C0027627",
+      "score": 0.9712598323822021,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "The transfer of a neoplasm from one organ or part of the body to another remote from the primary site."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "51-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

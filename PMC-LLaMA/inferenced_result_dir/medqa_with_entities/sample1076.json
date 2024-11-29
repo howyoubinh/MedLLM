@@ -1,0 +1,347 @@
+{
+  "original_data": {
+    "question": "A 78-year-old woman presents to the emergency department with weight loss, abdominal pain, and jaundice. CT demonstrates a mass in the head of the pancreas, and biopsy is planned for the following day. The patient's daughter approaches you outside the room to request that the results of the biopsy not be shared with the patient. She asks that the results instead be shared with her and her brother, who is the patient's documented health care proxy. She explains that she and her brother have discussed the situation and decided that it is best to not inform the patient that she has cancer. Endoscopic ultrasound-guided biopsy the next morning confirms the diagnosis of pancreatic adenocarcinoma. Which of the following is the best response to the patient's daughter's request?",
+    "options": {
+      "A": "Ask the patient's son, the documented health care proxy, how he would like to handle the situation",
+      "B": "Inquire why the patient's daughter feels her mother should not be informed of the diagnosis",
+      "C": "Offer to explain the diagnosis to the patient without using the word \"cancer\"",
+      "D": "Tell the patient's daughter that the patient must be informed of the diagnosis"
+    }
+  },
+  "model_response": "{'A': \"Ask the patient's son, the documented health care proxy, how he would like to handle the situation\", 'B': \"Inquire why the patient's daughter feels her mother should not be informed of the diagnosis\", 'C': 'Offer to explain the diagnosis to the patient without using the word \"cancer\"', 'D': \"Tell the patient's daughter that the patient must be informed of the diagnosis\"}]\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "pancreas",
+      "type": "T023",
+      "umls_id": "C0030274",
+      "score": 0.9899283647537231,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A nodular organ in the ABDOMEN that contains a mixture of ENDOCRINE GLANDS and EXOCRINE GLANDS. The small endocrine portion consists of the ISLETS OF LANGERHANS secreting a number of hormones into the blood stream. The large exocrine portion (EXOCRINE PANCREAS) is a compound acinar gland that secretes several digestive enzymes into the pancreatic ductal system that empties into the DUODENUM."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "daughter approaches",
+      "type": "T082",
+      "umls_id": "C0449445",
+      "score": 0.7356815338134766,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A way of entering or leaving."
+    },
+    {
+      "text": "room",
+      "type": "T082",
+      "umls_id": "C1547120",
+      "score": 0.9864740967750549,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "request",
+      "type": "T052",
+      "umls_id": "C1272683",
+      "score": 0.96840500831604,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Express the need or desire for; ask for."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "brother",
+      "type": "T099",
+      "umls_id": "C0337527",
+      "score": 0.9884945750236511,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male sibling."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "documented",
+      "type": "T058",
+      "umls_id": "C1301725",
+      "score": 0.9806439280509949,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Furnished with or supported by documents and documentation."
+    },
+    {
+      "text": "health care",
+      "type": "T058",
+      "umls_id": "C0086388",
+      "score": 0.9851297736167908,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The actions of prevention, treatment, and management of illness and the preservation of mental and physical well-being through the services offered by the medical and allied health professions."
+    },
+    {
+      "text": "brother",
+      "type": "T099",
+      "umls_id": "C0337527",
+      "score": 0.9884945750236511,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male sibling."
+    },
+    {
+      "text": "situation",
+      "type": "T033",
+      "umls_id": "C2184149",
+      "score": 0.7235643267631531,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>Code specifying observations related to living situation for a person in a private residence.</p>"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "cancer",
+      "type": "T191",
+      "umls_id": "C0006826",
+      "score": 0.9914878010749817,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas, Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas."
+    },
+    {
+      "text": "Endoscopic ultrasound-guided biopsy",
+      "type": "T060",
+      "umls_id": "C3827315",
+      "score": 0.8452858924865723,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The use of ultrasound imaging for real-time guidance of an endoscope for a biopsy procedure."
+    },
+    {
+      "text": "next morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.7813329100608826,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "pancreatic adenocarcinoma",
+      "type": "T191",
+      "umls_id": "C0281361",
+      "score": 0.9889195561408997,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "An adenocarcinoma which arises from the exocrine pancreas. Ductal adenocarcinoma and its variants are the most common types of pancreatic adenocarcinoma."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "daughter's request",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "78-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

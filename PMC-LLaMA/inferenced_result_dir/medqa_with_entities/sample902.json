@@ -1,0 +1,322 @@
+{
+  "original_data": {
+    "question": "An otherwise healthy 25-year-old woman comes to the physician because of a 2-day history of pain and swelling of her right knee joint and left wrist. She went camping with her new boyfriend 3 weeks ago but does not recall any tick bites. Her temperature is 37.8°C (100.0°F). Examination of the right knee shows swelling, warmth, and tenderness on passive movement. There is a tender pustule on the sole of the left foot. Arthrocentesis of the right knee joint yields 8 mL of cloudy fluid with a leukocyte count of 45,000/mm3 (90% segmented neutrophils with intracellular organisms). Which of the following is the strongest risk factor for this patient's condition?",
+    "options": {
+      "A": "Autoantibody production",
+      "B": "Intravenous drug use",
+      "C": "Sexually transmitted infection",
+      "D": "HLA-B 27 positivity"
+    }
+  },
+  "model_response": "{'R': 'Reactive arthritis (Reiter syndrome)'}\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "2-day history of pain",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "right knee joint",
+      "type": "T030",
+      "umls_id": "C0827004",
+      "score": 0.979181706905365,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left wrist",
+      "type": "T023",
+      "umls_id": "C0230366",
+      "score": 0.9770500063896179,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "went",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "camping",
+      "type": "T056",
+      "umls_id": "C0006811",
+      "score": 0.9625434279441833,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Living outdoors as a recreational activity."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "tick",
+      "type": "T204",
+      "umls_id": "C0040203",
+      "score": 0.9808680415153503,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "Blood-sucking acarid parasites of the order Ixodida comprising two families: the softbacked ticks (ARGASIDAE) and hardbacked ticks (IXODIDAE). Ticks are larger than their relatives, the MITES. They penetrate the skin of their host by means of highly specialized, hooked mouth parts and feed on its blood. Ticks attack all groups of terrestrial vertebrates. In humans they are responsible for many TICK-BORNE DISEASES, including the transmission of ROCKY MOUNTAIN SPOTTED FEVER; TULAREMIA; BABESIOSIS; AFRICAN SWINE FEVER; and RELAPSING FEVER. (From Barnes, Invertebrate Zoology, 5th ed, pp543-44)"
+    },
+    {
+      "text": "bites",
+      "type": "T037",
+      "umls_id": "C0005658",
+      "score": 0.9819424152374268,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A wound inflicted by the teeth or fangs of an individual or animal."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "right knee",
+      "type": "T023",
+      "umls_id": "C0230431",
+      "score": 0.9811345934867859,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "warmth",
+      "type": "T039",
+      "umls_id": "C0392197",
+      "score": 0.9567893743515015,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "Having a moderate degree of heat."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "passive",
+      "type": "T080",
+      "umls_id": "C3686820",
+      "score": 0.9847415089607239,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "tender pustule",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "left foot",
+      "type": "T023",
+      "umls_id": "C0230461",
+      "score": 0.9875563979148865,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Arthrocentesis",
+      "type": "T061",
+      "umls_id": "C0204854",
+      "score": 0.9921028017997742,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Puncture and aspiration of fluid (e.g., SYNOVIAL FLUID) from a joint cavity. It is used sometimes to irrigate or administer drugs into a joint cavity."
+    },
+    {
+      "text": "right knee joint",
+      "type": "T030",
+      "umls_id": "C0827004",
+      "score": 0.979181706905365,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cloudy fluid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "leukocyte",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9799895286560059,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "segmented",
+      "type": "T204",
+      "umls_id": "C0003096",
+      "score": 0.7587459683418274,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "A phylum of metazoan invertebrates comprising the segmented worms, and including marine annelids (POLYCHAETA), freshwater annelids, earthworms (OLIGOCHAETA), and LEECHES. Only the leeches are of medical interest. (Dorland, 27th ed)"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "intracellular",
+      "type": "T026",
+      "umls_id": "C0175996",
+      "score": 0.9815536141395569,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "The organized colloidal complex of organic and inorganic substances (as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell. It is composed mainly of nucleic acids, proteins, lipids, carbohydrates, and inorganic salts."
+    },
+    {
+      "text": "organisms",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9748482704162598,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "risk factor",
+      "type": "T033",
+      "umls_id": "C0035648",
+      "score": 0.9703672528266907,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An aspect of personal behavior or lifestyle, environmental exposure, inborn or inherited characteristic, which, based on epidemiological evidence, is known to be associated with a health-related condition considered important to prevent."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

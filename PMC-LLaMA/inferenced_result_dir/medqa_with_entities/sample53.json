@@ -1,0 +1,187 @@
+{
+  "original_data": {
+    "question": "A 72-year-old woman is brought to the physician by her daughter because of a 6-month history of worsening short-term memory deficits and social withdrawal. Treatment with galantamine is initiated. Two weeks later, the patient develops vomiting, mild crampy abdominal pain, and watery, nonbloody diarrhea. Which of the following is the most appropriate pharmacotherapy?",
+    "options": {
+      "A": "Bethanechol",
+      "B": "Metoclopramide",
+      "C": "Atropine",
+      "D": "Oxybutynin"
+    }
+  },
+  "model_response": "The patient has been diagnosed with drug-induced diarrhea (DID). The most common cause of DID is the use of antimicrobial agents. Other drugs that can cause DID include anticonvulsants, colchicine, lithium, and the 5-HT3 antagonists used to treat nausea and vomiting. The next most common cause of DID is the use of drugs that alter acetylcholine (ACh) neurotransmission. These drugs include the cholinesterase inhibitors used to treat Alzheimer's disease and the muscarinic receptor agonists used to treat urinary incontinence. The ACh-related DID is dose-dependent and may be caused by either overdose or idiosyncratic reactions. The ACh-related DID is characterized by watery, nonbloody diarrhea, abdominal cramps, nausea, and vomiting. The diarrhea is usually self-limiting and resolves within 24-48 hours of drug withdrawal. The diagnosis of DID is made by excluding other causes of diarrhea in patients taking a potentially causative drug. The treatment of DID is supportive, including rehydration and correction of electrolyte imbalances. Bethanechol is an anticholinergic that would exacerbate the symptoms of DID. Metoclopramide is a dopamine antagonist that can cause diarrhea but would not be the most appropriate pharmacotherapy in this case. Atropine is an anticholinergic that would exacerbate the symptoms of DID. Oxybutynin is an anticholinergic that would exacerbate the symptoms of DID.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "short-term",
+      "type": "T079",
+      "umls_id": "C0443303",
+      "score": 0.9672737717628479,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "memory deficits",
+      "type": "T048",
+      "umls_id": "C0233794",
+      "score": 0.9844719767570496,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Deterioration in memory function."
+    },
+    {
+      "text": "social withdrawal",
+      "type": "T052",
+      "umls_id": "C2349954",
+      "score": 0.73845374584198,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "To cease active participation in; remove from active use."
+    },
+    {
+      "text": "Treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "galantamine",
+      "type": "T109",
+      "umls_id": "C0016967",
+      "score": 0.9865255355834961,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A benzazepine derived from norbelladine. It is found in GALANTHUS and other AMARYLLIDACEAE. It is a cholinesterase inhibitor that has been used to reverse the muscular effects of GALLAMINE TRIETHIODIDE and TUBOCURARINE and has been studied as a treatment for ALZHEIMER DISEASE and other central nervous system disorders."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "patient develops vomiting",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "watery",
+      "type": "T080",
+      "umls_id": "C0443350",
+      "score": 0.9556147456169128,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nonbloody diarrhea",
+      "type": "T047",
+      "umls_id": "C0151594",
+      "score": 0.8375798463821411,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Passage of many stools containing blood. []"
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "72-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

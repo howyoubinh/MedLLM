@@ -1,0 +1,377 @@
+{
+  "original_data": {
+    "question": "A 55-year-old caucasian male is transferred to a tertiary care hospital from a small county hospital where he presented with jaundice and severe abdominal pain that radiates to the back. While in the county hospital, he did not develop fever, and his vital signs were stable for the 48 hours he spent at there. Initial laboratory tests are given below:\nTotal bilirubin 7 mg/dL\nDirect bilirubin 6.4 mg/dL\nAST 100\nALT 40\nAlkaline phosphatase 480 IU/L\nGlucose 160 mg/dL\nThe patient’s medical history is relevant for hypertension and diabetes mellitus. He admits to smoking cigarettes since his early teenage years. Moderate icterus is evident during physical examination, the abdomen is distended and dull to percussion, and there is periumbilical tenderness. Which of the following markers would you expect to be elevated in this patient?",
+    "options": {
+      "A": "CA 125",
+      "B": "Desmin",
+      "C": "CA 27-29",
+      "D": "CA 19-9"
+    }
+  },
+  "model_response": "The clinical presentation is consistent with acute pancreatitis. The most common etiology is gallstones, which are radiopaque and can be seen on the given X-ray. The elevated alkaline phosphatase is consistent with biliary obstruction. CA 19-9 is a tumor marker for colon cancer and pancreatic cancer. It is also elevated in patients with pancreatitis.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "caucasian",
+      "type": "T098",
+      "umls_id": "C0007457",
+      "score": 0.982106626033783,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A group distinguished by classification according to physical features. This group, also called Europoid, centers around the Mediterranean Sea but includes other parts of Europe. (from Winick: Dictionary of Anthropology, 1972; American Heritage Dictionary, 2d College ed)"
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "transferred",
+      "type": "T169",
+      "umls_id": "C0348011",
+      "score": 0.9822731614112854,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tertiary care hospital",
+      "type": "T073",
+      "umls_id": "C0337954",
+      "score": 0.9842108488082886,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": null
+    },
+    {
+      "text": "small county hospital",
+      "type": "T093",
+      "umls_id": "C0020005",
+      "score": 0.8410944938659668,
+      "semantic_types": [
+        "T093"
+      ],
+      "definition": "Hospitals controlled by the county government."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "radiates",
+      "type": "T169",
+      "umls_id": "C0332301",
+      "score": 0.9913275837898254,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "back",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9834582209587097,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "county hospital",
+      "type": "T093",
+      "umls_id": "C0020005",
+      "score": 0.9798453450202942,
+      "semantic_types": [
+        "T093"
+      ],
+      "definition": "Hospitals controlled by the county government."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "stable",
+      "type": "T080",
+      "umls_id": "C0205360",
+      "score": 0.996412992477417,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of being free from change or variation or not taking part readily in chemical change."
+    },
+    {
+      "text": "laboratory tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9844176769256592,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "Total bilirubin 7",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9308528900146484,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "Direct bilirubin",
+      "type": "T109",
+      "umls_id": "C0236556",
+      "score": 0.9685180187225342,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ALT",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9907079935073853,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "Alkaline phosphatase",
+      "type": "T116",
+      "umls_id": "C0002059",
+      "score": 0.9689714908599854,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of an orthophosphoric monoester and water to an alcohol and orthophosphate. EC 3.1.3.1."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "smoking cigarettes",
+      "type": "T131",
+      "umls_id": "C0239059",
+      "score": 0.9708723425865173,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": null
+    },
+    {
+      "text": "teenage",
+      "type": "T079",
+      "umls_id": "C0001578",
+      "score": 0.9801867008209229,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A human life stage that begins at twelve years of age and continues until twenty-one complete years of age, generally marked by the beginning of puberty and lasting to the beginning of adulthood."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "Moderate icterus",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.7178031206130981,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "dull",
+      "type": "T184",
+      "umls_id": "C0278144",
+      "score": 0.9951043725013733,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort or distress that is non-specific or without clear boundaries."
+    },
+    {
+      "text": "percussion",
+      "type": "T060",
+      "umls_id": "C0030987",
+      "score": 0.9690043926239014,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of striking a part with short, sharp blows as an aid in diagnosing the condition beneath the sound obtained."
+    },
+    {
+      "text": "periumbilical tenderness",
+      "type": "T033",
+      "umls_id": "C2919901",
+      "score": 0.9809364676475525,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "markers",
+      "type": "T074",
+      "umls_id": "C2745888",
+      "score": 0.9845821261405945,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A medical device designed to mark an anatomic location."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

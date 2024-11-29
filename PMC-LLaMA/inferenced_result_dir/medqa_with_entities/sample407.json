@@ -1,0 +1,179 @@
+{
+  "original_data": {
+    "question": "A 60-year-old female patient with a history of hypertension presents to an outpatient office for regular check-up and is found to have hypertriglyceridemia. Her physician prescribes high-dose niacin and recommends taking the medication along with aspirin. The side effect the physician is trying to avoid is thought to be mediated by what mechanism?",
+    "options": {
+      "A": "Bile deposition in the dermis",
+      "B": "Release of prostaglandins",
+      "C": "Mast cell degranulation",
+      "D": "T cell activation"
+    }
+  },
+  "model_response": "Niacin is a medication that is often used to treat hypertriglyceridemia. One of the side effects of niacin is that it can cause an intense flushing sensation in the skin. This is thought to be mediated by the release of prostaglandins. Niacin is not typically combined with aspirin for the treatment of hypertriglyceridemia. Aspirin is an antiplatelet agent that is used to prevent heart attacks and strokes.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "outpatient office",
+      "type": "T101",
+      "umls_id": "C0029921",
+      "score": 0.754280686378479,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Persons who receive ambulatory care at an outpatient department or clinic without room and board being provided."
+    },
+    {
+      "text": "check-up",
+      "type": "T058",
+      "umls_id": "C0598836",
+      "score": 0.9549977779388428,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Checkup is a general examination or inspection, especially one carried out by a doctor or dentist."
+    },
+    {
+      "text": "hypertriglyceridemia",
+      "type": "T047",
+      "umls_id": "C0020557",
+      "score": 0.9759181141853333,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A condition of elevated levels of TRIGLYCERIDES in the blood."
+    },
+    {
+      "text": "physician prescribes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "high-dose",
+      "type": "T061",
+      "umls_id": "C4682703",
+      "score": 0.7876459360122681,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A regimen consisting of high-dose (HD) methotrexate (MTX) plus HD cytarabine (AraC) that can be used in the treatment of central nervous system (CNS) lymphoma and refractory or relapsed (RR) non-Hodgkin lymphoma (NHL)."
+    },
+    {
+      "text": "niacin",
+      "type": "T109",
+      "umls_id": "C0027996",
+      "score": 0.9818032383918762,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A water-soluble vitamin of the B complex occurring in various animal and plant tissues. It is required by the body for the formation of coenzymes NAD and NADP. It has PELLAGRA-curative, vasodilating, and antilipemic properties."
+    },
+    {
+      "text": "recommends",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.9734152555465698,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "side effect",
+      "type": "T046",
+      "umls_id": "C0879626",
+      "score": 0.9785271883010864,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The term was used in various ways in the past, to describe unintended effects of medical intervention, usually negative (unfavourable), but also positive (favourable) ones. It is recommended that this term no longer be used and particularly should not be regarded as synonymous with adverse event or adverse reaction."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "60-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

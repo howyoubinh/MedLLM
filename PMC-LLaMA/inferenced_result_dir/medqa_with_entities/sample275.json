@@ -1,0 +1,337 @@
+{
+  "original_data": {
+    "question": "A 56-year-old man presents to his primary care doctor with intermittent chest pain. He reports a 2-month history of exertional chest pain that commonly arises after walking 5 or more blocks. He describes the pain as dull, burning, non-radiating substernal pain. His past medical history is notable for hypercholesterolemia and hypertension. He takes simvastatin and losartan. His temperature is 98.9°F (37.2°C), blood pressure is 150/85 mmHg, pulse is 88/min, and respirations are 18/min. On exam, he is well-appearing and in no acute distress. S1 and S2 are normal. No murmurs are noted. An exercise stress test is performed to further evaluate the patient’s pain. Which of the following substances is released locally to increase coronary blood flow during exertion?",
+    "options": {
+      "A": "Adenosine",
+      "B": "Inorganic phosphate",
+      "C": "Prostaglandin E2",
+      "D": "Transforming growth factor beta"
+    }
+  },
+  "model_response": "The correct answer is adenosine. Adenosine is a nucleoside that is formed in the myocardium and released into the coronary circulation during periods of increased myocardial metabolism, such as during cardiac hypertrophy and during exercise. Adenosine causes coronary vasodilation by acting on specific adenosine receptors on coronary endothelial cells. Adenosine receptor activation leads to the production of NO and cyclic GMP, which causes smooth muscle relaxation and vasodilation. Adenosine is also a neurotransmitter in the brain. Inorganic phosphate is a substance that is released into the systemic circulation during periods of increased metabolism, such as during exercise. It is taken up by the liver and used to synthesize ATP. Prostaglandin E2 is a substance that is released by the cyclooxygenase pathway and is involved in inflammation and pain. Transforming growth factor beta is a substance that is released by cardiac myocytes and is involved in cell growth and differentiation.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care doctor",
+      "type": "T097",
+      "umls_id": "C2735026",
+      "score": 0.9863750338554382,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical professional who provides, coordinates, or helps a patient access a range of health care services. This is usually a medical doctor (MD), but may also be a Doctor of Osteopathic Medicine, nurse practitioner, clinical nurse specialist, or physician assistant, as allowed under state law."
+    },
+    {
+      "text": "intermittent chest pain",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.7322025895118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "exertional chest",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "walking 5",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.8976567983627319,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "blocks",
+      "type": "T033",
+      "umls_id": "C0028778",
+      "score": 0.9835858345031738,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blockage of the normal flow of the contents of an anatomical passageway."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "dull",
+      "type": "T184",
+      "umls_id": "C0278144",
+      "score": 0.9951043725013733,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort or distress that is non-specific or without clear boundaries."
+    },
+    {
+      "text": "burning",
+      "type": "T184",
+      "umls_id": "C0085624",
+      "score": 0.9737390279769897,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of stinging or heat, not necessarily accompanied by redness or physical signs of irritation."
+    },
+    {
+      "text": "non-radiating substernal pain",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypercholesterolemia",
+      "type": "T047",
+      "umls_id": "C0020443",
+      "score": 0.9879153370857239,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A condition with abnormally high levels of CHOLESTEROL in the blood. It is defined as a cholesterol value exceeding the 95th percentile for the population."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "simvastatin",
+      "type": "T109",
+      "umls_id": "C0074554",
+      "score": 0.9242107272148132,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A derivative of LOVASTATIN and potent competitive inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase (HYDROXYMETHYLGLUTARYL COA REDUCTASES), which is the rate-limiting enzyme in cholesterol biosynthesis. It may also interfere with steroid hormone production. Due to the induction of hepatic LDL RECEPTORS, it increases breakdown of LDL CHOLESTEROL."
+    },
+    {
+      "text": "losartan",
+      "type": "T109",
+      "umls_id": "C0126174",
+      "score": 0.9881311655044556,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antagonist of ANGIOTENSIN TYPE 1 RECEPTOR with antihypertensive activity due to the reduced pressor effect of ANGIOTENSIN II."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "well-appearing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "acute distress",
+      "type": "T041",
+      "umls_id": "C0231303",
+      "score": 0.7816057205200195,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of physiological or psychological stress that cannot be compensated for by normal adaptive measures."
+    },
+    {
+      "text": "S1",
+      "type": "T109",
+      "umls_id": "C0879262",
+      "score": 0.9987967610359192,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "a kind of cancer treatment drug"
+    },
+    {
+      "text": "S2",
+      "type": "T029",
+      "umls_id": "C1179705",
+      "score": 0.9995278120040894,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "No murmurs",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.8949203491210938,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "exercise stress test",
+      "type": "T060",
+      "umls_id": "C0015260",
+      "score": 0.9782568216323853,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Controlled physical activity which is performed in order to allow assessment of physiological functions, particularly cardiovascular and pulmonary, but also aerobic capacity. Maximal (most intense) exercise is usually required but submaximal exercise is also used."
+    },
+    {
+      "text": "evaluate",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9732716083526611,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient’s pain",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7609237432479858,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "substances",
+      "type": "T167",
+      "umls_id": "C0439861",
+      "score": 0.9935278296470642,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical."
+    },
+    {
+      "text": "increase",
+      "type": "T169",
+      "umls_id": "C0442805",
+      "score": 0.9789021015167236,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A process of becoming larger, more numerous, more important, or more likely."
+    },
+    {
+      "text": "coronary blood flow",
+      "type": "T039",
+      "umls_id": "C0005775",
+      "score": 0.7256121635437012,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The movement of the BLOOD as it is pumped through the CARDIOVASCULAR SYSTEM."
+    },
+    {
+      "text": "exertion",
+      "type": "T040",
+      "umls_id": "C0015264",
+      "score": 0.9380931258201599,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Physical or mental energy; hard work."
+    },
+    {
+      "text": "56-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

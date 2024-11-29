@@ -1,0 +1,193 @@
+{
+  "original_data": {
+    "question": "A scientist is studying the properties of myosin-actin interactions in a sample of human muscle tissue. She has identified a drug that selectively inhibits phosphate release by the myosin head. If she gives this drug to a sample of human muscle tissue under physiologic conditions, which of the following steps in cross-bridge cycling will most likely be blocked?",
+    "options": {
+      "A": "Myosin head cocking",
+      "B": "Exposure of myosin-binding sites on actin",
+      "C": "Myosin head binding to actin",
+      "D": "Power stroke"
+    }
+  },
+  "model_response": "The drug will block the power stroke. The binding of myosin to actin is irreversible. The binding of myosin to actin is not affected by the release of phosphate. The cocking of the myosin head is affected by the release of phosphate. The exposure of myosin-binding sites on actin is not affected by the release of phosphate.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "scientist",
+      "type": "T097",
+      "umls_id": "C0402112",
+      "score": 0.9843286871910095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "properties",
+      "type": "T080",
+      "umls_id": "C0871161",
+      "score": 0.9836723208427429,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A basic or essential attribute shared by all members of a class."
+    },
+    {
+      "text": "myosin-actin",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "interactions",
+      "type": "T033",
+      "umls_id": "C0037420",
+      "score": 0.8750399351119995,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Process involving reciprocal response between two or more individuals. This includes the development of cooperation and competition, the influence of status and social roles, and the dynamics of group behavior, leadership, and conformity. Persistent social interaction between specific individuals leads to the formation of social relationships."
+    },
+    {
+      "text": "sample",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9872499108314514,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "human",
+      "type": "T016",
+      "umls_id": "C0086418",
+      "score": 0.9989930391311646,
+      "semantic_types": [
+        "T016"
+      ],
+      "definition": "Members of the species Homo sapiens."
+    },
+    {
+      "text": "muscle tissue",
+      "type": "T024",
+      "umls_id": "C0026845",
+      "score": 0.9951744675636292,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Contractile tissue that produces movement in animals."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "inhibits",
+      "type": "T041",
+      "umls_id": "C0021467",
+      "score": 0.7634676694869995,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The interference with or prevention of a behavioral or verbal response even though the stimulus for that response is present; in psychoanalysis the unconscious restraining of an instinctual process."
+    },
+    {
+      "text": "phosphate release",
+      "type": "T197",
+      "umls_id": "C0031603",
+      "score": 0.743529200553894,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Inorganic salts of phosphoric acid."
+    },
+    {
+      "text": "myosin head",
+      "type": "T116",
+      "umls_id": "C1179941",
+      "score": 0.9778895378112793,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "sample",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9872499108314514,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "human",
+      "type": "T016",
+      "umls_id": "C0086418",
+      "score": 0.9989930391311646,
+      "semantic_types": [
+        "T016"
+      ],
+      "definition": "Members of the species Homo sapiens."
+    },
+    {
+      "text": "muscle tissue",
+      "type": "T024",
+      "umls_id": "C0026845",
+      "score": 0.9951744675636292,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Contractile tissue that produces movement in animals."
+    },
+    {
+      "text": "physiologic",
+      "type": "T169",
+      "umls_id": "C0205463",
+      "score": 0.9893032312393188,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Pertaining to functions of the body."
+    },
+    {
+      "text": "conditions",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.8423038721084595,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "cross-bridge",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "blocked",
+      "type": "T033",
+      "umls_id": "C0028778",
+      "score": 0.980491042137146,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blockage of the normal flow of the contents of an anatomical passageway."
+    }
+  ]
+}

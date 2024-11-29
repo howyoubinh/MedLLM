@@ -1,0 +1,273 @@
+{
+  "original_data": {
+    "question": "A 45-year-old woman with hypothyroidism comes to the physician because of progressive fatigue, lethargy, and epigastric pain after eating. Physical examination shows pale conjunctivae. Laboratory studies show decreased serum hemoglobin levels and increased serum gastrin levels. Esophagogastroduodenoscopy shows inflammation of the gastric body and fundus. A photomicrograph of a biopsy specimen taken from the gastric antrum is shown. Which of the following is the most likely cause of this patient's symptoms?",
+    "options": {
+      "A": "Mucosal cell hyperplasia",
+      "B": "Enterochromaffin-like cell hyperplasia",
+      "C": "Parietal cell destruction",
+      "D": "Chief cell destruction"
+    }
+  },
+  "model_response": "The photomicrograph shows gastric glands with prominent mucosal cell hyperplasia. The patient has autoimmune atrophic gastritis, which is associated with pernicious anemia. The body and fundus of the stomach are involved, whereas the antrum is usually spared. Autoimmune atrophic gastritis leads to a deficiency of intrinsic factor, which is required for vitamin B12 absorption, and to a decrease in gastric acid secretion. The decrease in acid secretion leads to impaired absorption of iron, calcium, and vitamin B12 and to increased secretion of gastrin, which in turn causes the hyperplasia of the enterochromaffin-like cells seen in the photomicrograph. The patient's symptoms are caused by the anemia, which is a result of vitamin B12 deficiency.\n\nThe parietal cells are not affected in this disease, so there is no parietal cell destruction. Chief cells are not affected, so there is no chief cell destruction. Mucosal cell hyperplasia is a reparative process, so there is no mucosal cell destruction.\n\nThe inflammation seen in the gastric body and fundus is characteristic of Helicobacter pylori gastritis. This form of gastritis is associated with increased acid secretion and is not a cause of anemia.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "hypothyroidism",
+      "type": "T047",
+      "umls_id": "C0020676",
+      "score": 0.9928620457649231,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A syndrome that results from abnormally low secretion of THYROID HORMONES from the THYROID GLAND, leading to a decrease in BASAL METABOLIC RATE. In its most severe form, there is accumulation of MUCOPOLYSACCHARIDES in the SKIN and EDEMA, known as MYXEDEMA. It may be primary or secondary due to other pituitary disease, or hypothalamic dysfunction."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "lethargy",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9868770837783813,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "epigastric pain",
+      "type": "T184",
+      "umls_id": "C0232493",
+      "score": 0.975829005241394,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The location of the pain is in the upper and middle region of the abdomen, located within the sternal angle."
+    },
+    {
+      "text": "eating",
+      "type": "T040",
+      "umls_id": "C0013470",
+      "score": 0.9728949666023254,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The consumption of edible substances."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "conjunctivae",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.8391914367675781,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "serum hemoglobin levels",
+      "type": "T059",
+      "umls_id": "C1281911",
+      "score": 0.7563854455947876,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the amount of hemoglobin A present in a sample."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "serum gastrin",
+      "type": "T116",
+      "umls_id": "C0017151",
+      "score": 0.7548666596412659,
+      "semantic_types": [
+        "T116",
+        "T125"
+      ],
+      "definition": "A family of gastrointestinal peptide hormones that excite the secretion of GASTRIC JUICE. They may also occur in the central nervous system where they are presumed to be neurotransmitters."
+    },
+    {
+      "text": "Esophagogastroduodenoscopy",
+      "type": "T060",
+      "umls_id": "C0079304",
+      "score": 0.9759824275970459,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An endoscopic procedure that visualizes the upper part of the gastrointestinal tract up to the duodenum."
+    },
+    {
+      "text": "inflammation",
+      "type": "T046",
+      "umls_id": "C0021368",
+      "score": 0.9584572315216064,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A pathological process characterized by injury or destruction of tissues caused by a variety of cytologic and chemical reactions. It is usually manifested by typical signs of pain, heat, redness, swelling, and loss of function."
+    },
+    {
+      "text": "gastric body",
+      "type": "T023",
+      "umls_id": "C0227230",
+      "score": 0.9924811124801636,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The main section of the digestive tube that connects the esophagus to the small intestine. The body proper excludes the upper and lower sections of the fundus and pyloric portion respectively."
+    },
+    {
+      "text": "fundus",
+      "type": "T023",
+      "umls_id": "C0016823",
+      "score": 0.9750834107398987,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The concave interior of the eye, consisting of the retina, the choroid, the sclera, the optic disk, and blood vessels, seen by means of the ophthalmoscope. (Cline et al., Dictionary of Visual Science, 4th ed)"
+    },
+    {
+      "text": "photomicrograph",
+      "type": "T059",
+      "umls_id": "C0031753",
+      "score": 0.895453155040741,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Photography of objects viewed under a microscope using ordinary photographic methods."
+    },
+    {
+      "text": "biopsy specimen",
+      "type": "T024",
+      "umls_id": "C0677862",
+      "score": 0.9705878496170044,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "A specimen obtained by biopsy, which is a process of removing tissue from living patients for diagnostic examination."
+    },
+    {
+      "text": "gastric antrum",
+      "type": "T023",
+      "umls_id": "C0034193",
+      "score": 0.9894081950187683,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region between the sharp indentation at the lower third of the STOMACH (incisura angularis) and the junction of the PYLORUS with the DUODENUM. Pyloric antral glands contain mucus-secreting cells and gastrin-secreting endocrine cells (G CELLS)."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

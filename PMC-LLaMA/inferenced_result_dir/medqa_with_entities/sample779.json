@@ -1,0 +1,243 @@
+{
+  "original_data": {
+    "question": "A 29-year-old man presents to the emergency department after a motor vehicle accident. On presentation, he is found to have scalp and trunk lacerations that are still actively bleeding. He has no past medical history and does not take any medications. On presentation, his temperature is 98.6°F (37°C), blood pressure is 110/74 mmHg, pulse is 82/min, and respirations are 17/min. On physical exam, he is found to be anxious but does not have any visible injuries other than the lacerations. Which of the following processes would most likely be seen in this patient?",
+    "options": {
+      "A": "Baroreceptor-mediated vasodilation",
+      "B": "Increased acetylcholine at the sinoatrial node",
+      "C": "Increased atrial natriuretic peptide release",
+      "D": "Increased norepinephrine at the sinoatrial node"
+    }
+  },
+  "model_response": "###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "motor vehicle accident",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.961533784866333,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "scalp",
+      "type": "T023",
+      "umls_id": "C0036270",
+      "score": 0.9698323011398315,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The outer covering of the calvaria. It is composed of several layers: SKIN; subcutaneous connective tissue; the occipitofrontal muscle which includes the tendinous galea aponeurotica; loose connective tissue; and the pericranium (the PERIOSTEUM of the SKULL)."
+    },
+    {
+      "text": "trunk",
+      "type": "T023",
+      "umls_id": "C0225442",
+      "score": 0.9839140772819519,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lacerations",
+      "type": "T037",
+      "umls_id": "C0043246",
+      "score": 0.9846336841583252,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Torn, ragged, mangled wounds."
+    },
+    {
+      "text": "bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9680540561676025,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "visible injuries",
+      "type": "T080",
+      "umls_id": "C1510467",
+      "score": 0.7123795747756958,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with anatomic headings, animals, and sports for wounds and injuries. Excludes cell damage, for which \"pathology\" is used."
+    },
+    {
+      "text": "lacerations",
+      "type": "T037",
+      "umls_id": "C0043246",
+      "score": 0.9846336841583252,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Torn, ragged, mangled wounds."
+    },
+    {
+      "text": "processes",
+      "type": "T041",
+      "umls_id": "C0025361",
+      "score": 0.8121208548545837,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Conceptual functions or thinking in all its forms."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

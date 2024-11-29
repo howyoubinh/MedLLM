@@ -1,0 +1,421 @@
+{
+  "original_data": {
+    "question": "A 61-year-old man complaining of unexplained bleeding by from the mouth is escorted to the emergency department by corrections officers. Upon examination patient states he feels nauseated as he begins to retch violently and vomit bright red blood. His past medical history is remarkable for cirrhosis secondary to alcohol abuse and untreated hepatitis C. His current blood pressure is 90/50 mm Hg, heart rate is 128/min, and oxygen saturation in room air is 88%. On further questioning, he states that he is scared to die and wants everything done to save his life. IV fluids are initiated and packed RBCs are ordered. You begin to review his labs and notice and he has elevated beta-hydroxybutyrate, ammonia, and lactate. What would be the appropriate response to the patient?",
+    "options": {
+      "A": "Consult an ethics committee to determine whether to resuscitate the patient",
+      "B": "Accept the patient's wishes and appoint and get a psych evaluation.",
+      "C": "Accept the patient's wishes and ensure he receives appropriate care.",
+      "D": "Obtain an emergency order from a judge to initiate resuscitation."
+    }
+  },
+  "model_response": "The patient's wishes to not be resuscitated should be respected. The patient has a terminal illness with a poor quality of life and wishes to end his life. The patient is not suicidal as he wants to end his suffering. The patient is not a danger to himself or others. The patient is not mentally ill. The patient is not coerced into his decision. The patient is alert and oriented. The patient's wishes should be respected and no further intervention should be done.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "unexplained bleeding",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mouth",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9870113730430603,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "corrections",
+      "type": "T169",
+      "umls_id": "C1947976",
+      "score": 0.8541795611381531,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of offering an improvement to replace a mistake; setting right; something substituted for an error."
+    },
+    {
+      "text": "officers",
+      "type": "T078",
+      "umls_id": "C1549461",
+      "score": 0.9753161668777466,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "nauseated",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.983069896697998,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "begins",
+      "type": "T079",
+      "umls_id": "C0439659",
+      "score": 0.7691951394081116,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The place where something begins or comes from in either the sense of a physical location or a metaphysical source."
+    },
+    {
+      "text": "retch",
+      "type": "T184",
+      "umls_id": "C0232602",
+      "score": 0.9546278715133667,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Involuntary spasms of the stomach and esophagus resulting in vomiting or dry heaving."
+    },
+    {
+      "text": "vomit bright red blood",
+      "type": "T047",
+      "umls_id": "C0018932",
+      "score": 0.7192875146865845,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The passage of fresh blood from the anus. The blood is usually seen in the stools. The most common cause is lower gastrointestinal tract hemorrhage."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023890",
+      "score": 0.976765513420105,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Liver disease in which the normal microcirculation, the gross vascular anatomy, and the hepatic architecture have been variably destroyed and altered with fibrous septa surrounding regenerated or regenerating parenchymal nodules."
+    },
+    {
+      "text": "secondary to",
+      "type": "T080",
+      "umls_id": "C0175668",
+      "score": 0.9842695593833923,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Derived as a result of a primary condition; not direct or immediate; of second rank or importance or value."
+    },
+    {
+      "text": "alcohol abuse",
+      "type": "T048",
+      "umls_id": "C0085762",
+      "score": 0.9819647669792175,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of alcoholic beverages to excess, either on individual occasions (\"binge drinking\") or as a regular practice."
+    },
+    {
+      "text": "untreated hepatitis C. His",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "questioning",
+      "type": "T041",
+      "umls_id": "C0876928",
+      "score": 0.9653850197792053,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Used to describe an individual who is unsure of their sexual orientation."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "die",
+      "type": "T079",
+      "umls_id": "C0556984",
+      "score": 0.7854388952255249,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Three times per day."
+    },
+    {
+      "text": "wants",
+      "type": "T204",
+      "umls_id": "C0003455",
+      "score": 0.7134813070297241,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "Insects of the family Formicidae, very common and widespread, probably the most successful of all the insect groups. All ants are social insects, and most colonies contain three castes, queens, males, and workers. Their habits are often very elaborate and a great many studies have been made of ant behavior. Ants produce a number of secretions that function in offense, defense, and communication. (From Borror, et al., An Introduction to the Study of Insects, 4th ed, p676)"
+    },
+    {
+      "text": "everything",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "save his life",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "IV fluids",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.8582273125648499,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "RBCs",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9883480072021484,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "ordered",
+      "type": "T080",
+      "umls_id": "C1705176",
+      "score": 0.992306649684906,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A logical or comprehensible arrangement of separate elements; a condition of regular or proper arrangement."
+    },
+    {
+      "text": "review",
+      "type": "T170",
+      "umls_id": "C0282443",
+      "score": 0.9724588990211487,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An article or book published after examination of published material on a subject. It may be comprehensive to various degrees and the time range of material scrutinized may be broad or narrow, but the reviews most often desired are reviews of the current literature. The textual material examined may be equally broad and can encompass, in medicine specifically, clinical material as well as experimental research or case reports. State-of-the-art reviews tend to address more current matters. A review of the literature must be differentiated from HISTORICAL ARTICLE on the same subject, but a review of historical literature is also within the scope of this publication type."
+    },
+    {
+      "text": "labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "notice",
+      "type": "T170",
+      "umls_id": "C3242050",
+      "score": 0.7516040205955505,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>Usage notes.</p>"
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "beta-hydroxybutyrate",
+      "type": "T109",
+      "umls_id": "C0106006",
+      "score": 0.9725419878959656,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A hydroxy fatty acid anion and ketone body synthesized in the liver from acetyl-Coenzyme A (acetyl-CoA) by the enzyme 3-hydroxybutyrate dehydrogenase. 3-hydroxybutyrate can be used as an energy source when glucose levels drop. Elevated urine and serum levels of 3-hydroxybutyrate are seen in ketosis and ketoacidosis."
+    },
+    {
+      "text": "ammonia",
+      "type": "T121",
+      "umls_id": "C0002607",
+      "score": 0.9835947751998901,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A colorless alkaline gas. It is formed in the body during decomposition of organic materials during a large number of metabolically important reactions. Note that the aqueous form of ammonia is referred to as AMMONIUM HYDROXIDE."
+    },
+    {
+      "text": "lactate",
+      "type": "T109",
+      "umls_id": "C0022924",
+      "score": 0.9893156886100769,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Salts or esters of LACTIC ACID containing the general formula CH3CHOHCOOR."
+    },
+    {
+      "text": "response",
+      "type": "T032",
+      "umls_id": "C0871261",
+      "score": 0.983574628829956,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "Any act or phenomena, or behavior, constituting a reply or reaction of a living organism or its part to some foregoing stimulus or agent."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "61-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

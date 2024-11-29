@@ -1,0 +1,236 @@
+{
+  "original_data": {
+    "question": "A 5-year-old female is brought to a speech therapist for continuing work on improving her communication skills. She is only able to verbalize two word sentences and has generalized developmental delay. When she was born it was noticed that she had a high pitched mewing cry and subsequent physical exam revealed microcephaly, prominent epicanthal folds, and a holosystolic murmur best heard in the left 5th intercostal space near the sternum. An abnormality of which of the following chromosomes is most likely responsible for this patient's disorder?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "18",
+      "D": "21"
+    }
+  },
+  "model_response": "The patient is displaying the characteristic features of Down syndrome (Trisomy 21). The most common cause of trisomy is meiotic nondisjunction. The risk of having a child with Down syndrome increases with maternal age. The incidence is approximately 1 in 800 live births. The diagnosis is usually made by karyotyping. The most common cause of trisomy is meiotic nondisjunction. The risk of having a child with Down syndrome increases with maternal age. The incidence is approximately 1 in 800 live births. The diagnosis is usually made by karyotyping.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "speech therapist",
+      "type": "T097",
+      "umls_id": "C0402015",
+      "score": 0.9620340466499329,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "continuing work",
+      "type": "T078",
+      "umls_id": "C0549178",
+      "score": 0.8065997958183289,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Remain in force or carry on without letup; keep or maintain in unaltered condition; exist in time or space without stop or interruption."
+    },
+    {
+      "text": "improving",
+      "type": "T080",
+      "umls_id": "C1272745",
+      "score": 0.9659444093704224,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "communication skills",
+      "type": "T032",
+      "umls_id": "C0870313",
+      "score": 0.9637404084205627,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": null
+    },
+    {
+      "text": "verbalize",
+      "type": "T080",
+      "umls_id": "C0439824",
+      "score": 0.7203199863433838,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Expressed in spoken words."
+    },
+    {
+      "text": "word sentences",
+      "type": "T170",
+      "umls_id": "C0876929",
+      "score": 0.8233470916748047,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of words that is complete in itself, conveying a statement, question, exclamation, or command and typically containing an explicit or implied subject and a predicate containing a finite verb."
+    },
+    {
+      "text": "generalized developmental delay",
+      "type": "T048",
+      "umls_id": "C0424605",
+      "score": 0.7781972885131836,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Failure to meet, or late achievement of developmental milestones."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "cry",
+      "type": "T055",
+      "umls_id": "C0010399",
+      "score": 0.9857836961746216,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To utter an inarticulate, characteristic sound in order to communicate or express a feeling, or desire for attention."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "microcephaly",
+      "type": "T019",
+      "umls_id": "C0025958",
+      "score": 0.9954679012298584,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "A congenital abnormality in which the CEREBRUM is underdeveloped, the fontanels close prematurely, and, as a result, the head is small. (Desk Reference for Neuroscience, 2nd ed.)"
+    },
+    {
+      "text": "epicanthal",
+      "type": "T019",
+      "umls_id": "C0678230",
+      "score": 0.7929124236106873,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "A fold of skin starting above the medial aspect of the upper eyelid and arching downward to cover, pass in front of and lateral to the medial canthus. [HPO:probinson]"
+    },
+    {
+      "text": "folds",
+      "type": "T082",
+      "umls_id": "C0332462",
+      "score": 0.9695966243743896,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "holosystolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7172870635986328,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "left",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9974963068962097,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "intercostal space",
+      "type": "T030",
+      "umls_id": "C0230136",
+      "score": 0.9669649600982666,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Space of compartment of trunk bounded by the upper and lower surfaces of two consecutive ribs."
+    },
+    {
+      "text": "sternum",
+      "type": "T023",
+      "umls_id": "C0038293",
+      "score": 0.9604005217552185,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A long, narrow, and flat bone commonly known as BREASTBONE occurring in the midsection of the anterior thoracic segment or chest region, which stabilizes the rib cage and serves as the point of origin for several muscles that move the arms, head, and neck."
+    },
+    {
+      "text": "abnormality",
+      "type": "T033",
+      "umls_id": "C1704258",
+      "score": 0.9889727234840393,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition that differs from the usual physical or mental state."
+    },
+    {
+      "text": "chromosomes",
+      "type": "T026",
+      "umls_id": "C0008633",
+      "score": 0.9896829724311829,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "In a prokaryotic cell or in the nucleus of a eukaryotic cell, a structure consisting of or containing DNA which carries the genetic information essential to the cell. (From Singleton & Sainsbury, Dictionary of Microbiology and Molecular Biology, 2d ed)"
+    },
+    {
+      "text": "patient's disorder",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "5-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

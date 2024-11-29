@@ -1,0 +1,317 @@
+{
+  "original_data": {
+    "question": "An otherwise healthy 29-year-old man presents to his family physician with a slowly growing left neck mass for the past 5 weeks. He denies fever or recent upper respiratory tract infections. His temperature is 37.1°C (98.7°F), the blood pressure is 115/72 mm Hg, and the pulse are 82/min. On examination, a 4-cm (1.5 in), firm, non-tender mass is detected on the mid-left neck. Excisional biopsy of the mass reveals Hodgkin’s cells. The patient is referred to the oncology department and chemotherapy is started. After the first cycle of chemotherapy, the patient notices that his urine becomes red. The urine tests are positive for blood on further analysis. Which of the following is the most likely cause of this patient condition?",
+    "options": {
+      "A": "Bleomycin",
+      "B": "Cyclophosphamide",
+      "C": "Doxorubicin",
+      "D": "Etoposide"
+    }
+  },
+  "model_response": "The patient is suffering from 'hemorrhagic cystitis' caused by 'cyclophosphamide'. Hemorrhagic cystitis is a well-known complication of 'cyclophosphamide'. It is attributed to the presence of its metabolite 'acrolein' in the urine. The risk of developing this adverse effect is greater in patients who are dehydrated or who receive intravenous cyclophosphamide. The incidence of this adverse effect can be reduced by aggressive hydration and by the use of 'mesna', a sulfhydryl compound that binds acrolein in the urine.\n\n'Bleomycin' and 'doxorubicin' can cause pulmonary fibrosis and 'etoposide' can cause alopecia and GI disturbances.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "family physician",
+      "type": "T097",
+      "umls_id": "C1704221",
+      "score": 0.995156466960907,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those physicians who have completed the education requirements specified by the American Academy of Family Physicians."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "upper respiratory tract infections",
+      "type": "T047",
+      "umls_id": "C0041912",
+      "score": 0.9815957546234131,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An infectious process affecting the upper respiratory tract (nose, paranasal sinuses, pharynx, larynx, or trachea). Symptoms include congestion, sneezing, coughing, fever, and sore throat."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "firm",
+      "type": "T080",
+      "umls_id": "C0205233",
+      "score": 0.9878337383270264,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a structure or consistency that strongly resists stress or pressure."
+    },
+    {
+      "text": "non-tender mass",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "detected",
+      "type": "T033",
+      "umls_id": "C0442726",
+      "score": 0.9800583124160767,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>The measurement of the specified component / analyte, organism or clinical sign above the limit of detection of the performed test or procedure.</p>"
+    },
+    {
+      "text": "mid-left neck",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Excisional biopsy",
+      "type": "T060",
+      "umls_id": "C0184921",
+      "score": 0.9680043458938599,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A surgical procedure in which an entire lesion is removed for microscopic examination."
+    },
+    {
+      "text": "mass reveals",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Hodgkin’s cells",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "oncology department",
+      "type": "T073",
+      "umls_id": "C4725957",
+      "score": 0.9740228652954102,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "The part or unit of a hospital that provides specialized care for patients undergoing treatment for cancer."
+    },
+    {
+      "text": "chemotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9887933135032654,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chemotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9887933135032654,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "notices",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "red",
+      "type": "T033",
+      "umls_id": "C0332575",
+      "score": 0.9793647527694702,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urine tests",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9783209562301636,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "analysis",
+      "type": "T059",
+      "umls_id": "C0002778",
+      "score": 0.9811744093894958,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.9724506735801697,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

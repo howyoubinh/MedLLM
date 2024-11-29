@@ -1,0 +1,346 @@
+{
+  "original_data": {
+    "question": "A 27-year-old man presents to the emergency department after a motor vehicle collision. The patient was the front seat unrestrained driver in a head on collision. The patient’s echocardiogram (ECG) is notable only for sinus tachycardia. His temperature is 99.5°F (37.5°C), blood pressure is 107/58 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air. The patient is given 2 liters of Ringer lactate solution and morphine. Initial workup demonstrates that the patient’s pulmonary capillary wedge pressure and troponins are elevated. The patient is currently complaining of chest pain. Physical exam is notable for an uncomfortable young man with bruising over his chest wall. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Cardiac contusion",
+      "B": "Hemorrhage",
+      "C": "Pulmonary contusion",
+      "D": "Takotsubo cardiomyopathy"
+    }
+  },
+  "model_response": "The patient’s clinical presentation is consistent with a diagnosis of blunt cardiac injury. The most common cause of blunt cardiac injury is myocardial contusion. The patient’s elevated troponins and pulmonary capillary wedge pressure suggest myocardial dysfunction. The patient’s chest pain is likely due to the myocardial contusion. The patient’s bruising over the chest wall is likely due to hemorrhage into the subcutaneous tissue. The patient’s hypotension is likely due to the myocardial contusion. The patient’s tachycardia is likely due to the pain from the myocardial contusion. Takotsubo cardiomyopathy is a transient condition that is associated with emotional stress. The patient’s presentation is not consistent with Takotsubo cardiomyopathy. The patient’s presentation is not consistent with pulmonary contusion. Pulmonary contusion is associated with respiratory distress and decreased oxygen saturation. The patient’s presentation is not consistent with hemorrhage. Hemorrhage would be associated with hypotension and tachycardia.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "motor vehicle collision",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.9606273174285889,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "collision",
+      "type": "T037",
+      "umls_id": "C0337196",
+      "score": 0.9770013093948364,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "An accident resulting from violent impact of a moving object; an brief event in which two or more bodies come together."
+    },
+    {
+      "text": "patient’s echocardiogram",
+      "type": "T060",
+      "umls_id": "C0013516",
+      "score": 0.8312038779258728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonic recording of the size, motion, and composition of the heart and surrounding tissues. The standard approach is transthoracic."
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "sinus tachycardia",
+      "type": "T047",
+      "umls_id": "C0039239",
+      "score": 0.9745782017707825,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Simple rapid heartbeats caused by rapid discharge of impulses from the SINOATRIAL NODE, usually between 100 and 180 beats/min in adults. It is characterized by a gradual onset and termination. Sinus tachycardia is common in infants, young children, and adults during strenuous physical activities."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "liters",
+      "type": "T081",
+      "umls_id": "C0475211",
+      "score": 0.7528108954429626,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The non-SI unit of volume accepted for use with the SI. One liter is equal to cubic decimeter, or one thousandth of cubic meter, or 1000 cubic centimeters, or approximately 61.023 744 cubic inches."
+    },
+    {
+      "text": "Ringer lactate solution",
+      "type": "T109",
+      "umls_id": "C0073385",
+      "score": 0.9169500470161438,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A crystalloid solution that contains SODIUM CHLORIDE; SODIUM LACTATE; POTASSIUM CHLORIDE; and CALCIUM CHLORIDE. It is used for FLUID THERAPY."
+    },
+    {
+      "text": "morphine",
+      "type": "T109",
+      "umls_id": "C0026549",
+      "score": 0.9835397005081177,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle."
+    },
+    {
+      "text": "patient’s",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9292125701904297,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pulmonary capillary wedge pressure",
+      "type": "T201",
+      "umls_id": "C0034094",
+      "score": 0.9707424640655518,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The blood pressure as recorded after wedging a CATHETER in a small PULMONARY ARTERY; believed to reflect the PRESSURE in the pulmonary CAPILLARIES."
+    },
+    {
+      "text": "troponins",
+      "type": "T116",
+      "umls_id": "C0041199",
+      "score": 0.9932754635810852,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "One of the minor protein components of skeletal and cardiac muscles. It functions as the calcium-binding component in a complex with BETA-TROPOMYOSIN; ACTIN; and MYOSIN and confers calcium sensitivity to the cross-linked actin and myosin filaments. Troponin itself is a complex of three regulatory proteins (TROPONIN C; TROPONIN I; and TROPONIN T)."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "young",
+      "type": "T079",
+      "umls_id": "C0332239",
+      "score": 0.9816365838050842,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "bruising",
+      "type": "T037",
+      "umls_id": "C0009938",
+      "score": 0.9562113285064697,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Injuries resulting in hemorrhage, usually manifested in the skin."
+    },
+    {
+      "text": "chest wall",
+      "type": "T023",
+      "umls_id": "C0205076",
+      "score": 0.9891918897628784,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The total system of structures outside the lungs that move as a part of breathing; it includes all structures from the skin to the parietal pleura."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

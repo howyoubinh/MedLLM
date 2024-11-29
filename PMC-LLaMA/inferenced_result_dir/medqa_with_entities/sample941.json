@@ -1,0 +1,226 @@
+{
+  "original_data": {
+    "question": "A 49-year-old man comes to the physician for a routine health maintenance examination. He feels well and has no history of serious illness. He has smoked one pack of cigarettes daily for the past 25 years and drinks two to three glasses of wine weekly. This patient should be counseled about increased risk for which of the following conditions?",
+    "options": {
+      "A": "Pancreatic adenocarcinoma",
+      "B": "Esophageal varices",
+      "C": "Porcelain gallbladder",
+      "D": "Hepatic steatosis"
+    }
+  },
+  "model_response": "This patient has a history of smoking and alcohol consumption and is at increased risk for the development of pancreatic adenocarcinoma. Smoking is also a risk factor for the development of esophageal varices, but this is more commonly associated with cirrhosis of the liver. A porcelain gallbladder is associated with gallbladder cancer, but this is a rare condition. Hepatic steatosis is associated with obesity and diabetes mellitus. This patient does not have any risk factors for the development of hepatocellular carcinoma.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "glasses",
+      "type": "T074",
+      "umls_id": "C0015421",
+      "score": 0.9843721389770508,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A pair of ophthalmic lenses in a frame or mounting which is supported by the nose and ears. The purpose is to aid or improve vision. It does not include goggles or nonprescription sun glasses for which EYE PROTECTIVE DEVICES is available."
+    },
+    {
+      "text": "wine",
+      "type": "T168",
+      "umls_id": "C0043188",
+      "score": 0.9571377635002136,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Fermented juice of fresh grapes or of other fruit or plant products used as a beverage."
+    },
+    {
+      "text": "weekly",
+      "type": "T079",
+      "umls_id": "C0332174",
+      "score": 0.9744841456413269,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every week."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "counseled",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "conditions",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.8423038721084595,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "49-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

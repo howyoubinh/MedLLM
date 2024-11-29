@@ -1,0 +1,400 @@
+{
+  "original_data": {
+    "question": "A 29-year-old woman comes to the physician with high-grade fever, headache, and muscle pain. A week ago, she returned from India, where she was working with an NGO to build houses in rural areas. The patient took one dose of chloroquine one week before her trip. She also took a further dose during her trip. She has no history of a serious illness. Her temperature is 39.3°C (102.7°F), pulse is 102/min, respirations are 22/min, and blood pressure is 112/78 mm Hg. Physical examination shows jaundice. The abdomen is soft and nontender. The remainder of the examination shows no abnormalities. Her hemoglobin concentration is 10 g/dL and a blood smear shows fragmented erythrocytes and occasional ring-shaped inclusion bodies within erythrocytes. Which of the following is the most likely cause of infection in this patient?",
+    "options": {
+      "A": "Plasmodium ovale",
+      "B": "Plasmodium falciparum",
+      "C": "Chikungunya virus",
+      "D": "Hepatitis A virus"
+    }
+  },
+  "model_response": "The patient has malaria, caused by Plasmodium falciparum. The ring-shaped inclusion bodies are called Maurer's dots. The dots are aggregates of the parasite's mitochondria. The parasite's erythrocyte membrane has a specialized knob that attaches to the membrane of the erythrocyte. The parasite then invaginates into the erythrocyte. The fever and muscle pain are typical of malaria. The headache is less typical. The chloroquine was taken before the trip and was effective in preventing malaria. The fever and jaundice are signs of hemolysis. The fragmented erythrocytes are called schizonts. The hepatitis A virus causes inflammation of the liver and is transmitted by the fecal-oral route. The Chikungunya virus causes a rash, joint pain, and fever. The Plasmodium ovale causes malaria.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "high-grade fever",
+      "type": "T033",
+      "umls_id": "C0239573",
+      "score": 0.8752332925796509,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Body temperature of 104 degrees Fahrenheit (40 degrees Celsius) or higher."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "muscle pain",
+      "type": "T184",
+      "umls_id": "C0231528",
+      "score": 0.9853911399841309,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the muscles."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "India",
+      "type": "T083",
+      "umls_id": "C0021201",
+      "score": 0.9903201460838318,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma and Pakistan. The capitol is New Delhi."
+    },
+    {
+      "text": "NGO",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "houses",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9849227666854858,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "rural areas",
+      "type": "T083",
+      "umls_id": "C0178837",
+      "score": 0.962750256061554,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A non-urbanized geographic area. \"Rural\" encompasses densely settled small towns with a residential population of less than 2,500 people, more sparsely populated areas, and remote areas."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "dose",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.9949097037315369,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "chloroquine",
+      "type": "T109",
+      "umls_id": "C0008269",
+      "score": 0.9628041386604309,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical antimalarial agent with a mechanism that is not well understood. It has also been used to treat rheumatoid arthritis, systemic lupus erythematosus, and in the systemic therapy of amebic liver abscesses."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "trip",
+      "type": "T116",
+      "umls_id": "C0077275",
+      "score": 0.9809439182281494,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH). Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion. After chronic, continuous administration, this agent effects sustained decreases in LH and FSH production and testicular and ovarian steroidogenesis. Serum testosterone concentrations may fall to levels typically observed in surgically castrated men. (NCI04)"
+    },
+    {
+      "text": "dose",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.9949097037315369,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "trip",
+      "type": "T116",
+      "umls_id": "C0077275",
+      "score": 0.9809439182281494,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH). Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion. After chronic, continuous administration, this agent effects sustained decreases in LH and FSH production and testicular and ovarian steroidogenesis. Serum testosterone concentrations may fall to levels typically observed in surgically castrated men. (NCI04)"
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "nontender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "blood smear",
+      "type": "T059",
+      "umls_id": "C2238079",
+      "score": 0.9947441816329956,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A sample of blood applied in a thin film to a microscope slide for study under a microscope."
+    },
+    {
+      "text": "erythrocytes",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.987351655960083,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "occasional",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.9617764949798584,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "ring-shaped inclusion bodies",
+      "type": "T026",
+      "umls_id": "C0007637",
+      "score": 0.7387628555297852,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "A generic term for any circumscribed mass of foreign (e.g., lead or viruses) or metabolically inactive materials (e.g., ceroid or MALLORY BODIES), within the cytoplasm or nucleus of a cell. Inclusion bodies are in cells infected with certain filtrable viruses, observed especially in nerve, epithelial, or endothelial cells. (Stedman, 25th ed)"
+    },
+    {
+      "text": "erythrocytes",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.987351655960083,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "infection",
+      "type": "T047",
+      "umls_id": "C0009450",
+      "score": 0.9619160294532776,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An illness caused by an infectious agent or its toxins that occurs through the direct or indirect transmission of the infectious agent or its products from an infected individual or via an animal, vector or the inanimate environment to a susceptible animal or human host."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

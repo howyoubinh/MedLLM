@@ -1,0 +1,228 @@
+{
+  "original_data": {
+    "question": "A 32-year-old man comes to the physician for a pre-employment examination. He recently traveled to Guatemala. He feels well but has not seen a physician in several years, and his immunization records are unavailable. Physical examination shows no abnormalities. Serum studies show:\nAnti-HAV IgM Positive\nAnti-HAV IgG Negative\nHBsAg Negative\nAnti-HBs Positive\nHBcAg Negative\nAnti-HBc Negative\nHBeAg Negative\nAnti-HBe Negative\nAnti-HCV Negative\nWhich of the following best explains this patient's laboratory findings?\"",
+    "options": {
+      "A": "Active hepatitis A infection",
+      "B": "Previous hepatitis A infection",
+      "C": "Chronic hepatitis B infection",
+      "D": "Chronic hepatitis C infection"
+    }
+  },
+  "model_response": "This patient has evidence of past infection with hepatitis B virus (HBsAg negative, anti-HBs positive), but no current infection (HBeAg negative, anti-HBe positive). The presence of anti-HCV indicates that he has not been infected with the hepatitis C virus. The presence of anti-HAV IgM indicates that this patient has had a recent hepatitis A infection.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "pre-employment",
+      "type": "T080",
+      "umls_id": "C0014003",
+      "score": 0.7176916003227234,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The state of being engaged in an activity or service for wages or salary."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Guatemala",
+      "type": "T083",
+      "umls_id": "C0018367",
+      "score": 0.9845284819602966,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in CENTRAL AMERICA bordering the North Pacific Ocean, between EL SALVADOR and MEXICO, and bordering the Gulf of Honduras (Caribbean Sea) between HONDURAS and BELIZE."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "immunization records",
+      "type": "T061",
+      "umls_id": "C0020971",
+      "score": 0.7614030838012695,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Deliberate stimulation of the host's immune response. ACTIVE IMMUNIZATION involves administration of ANTIGENS or IMMUNOLOGIC ADJUVANTS. PASSIVE IMMUNIZATION involves administration of IMMUNE SERA or LYMPHOCYTES or their extracts (e.g., transfer factor, immune RNA) or transplantation of immunocompetent cell producing tissue (thymus or bone marrow)."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Serum studies",
+      "type": "T091",
+      "umls_id": "C0036745",
+      "score": 0.9744794964790344,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of serum, especially of antigen-antibody reactions in vitro."
+    },
+    {
+      "text": "Anti-HAV IgM",
+      "type": "T116",
+      "umls_id": "C0062524",
+      "score": 0.803012490272522,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "An antibody produced by B lymphocytes in response to hepatitis A enteroviral infection."
+    },
+    {
+      "text": "Positive\n",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Anti-HAV IgG",
+      "type": "T116",
+      "umls_id": "C0062524",
+      "score": 0.803012490272522,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "An antibody produced by B lymphocytes in response to hepatitis A enteroviral infection."
+    },
+    {
+      "text": "Negative\nHBsAg Negative\nAnti-HBs Positive\nHBcAg",
+      "type": "T034",
+      "umls_id": "C0919711",
+      "score": 0.7654164433479309,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "An indication that the hepatitis B virus surface protein antigen has not been detected in a sample."
+    },
+    {
+      "text": "Negative\nAnti-HBc Negative\nHBeAg Negative\nAnti-HBe",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.8015057444572449,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Negative\nAnti-HCV",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

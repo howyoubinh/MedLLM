@@ -1,0 +1,553 @@
+{
+  "original_data": {
+    "question": "A 68-year-old woman presents to the emergency room with chest pain. She reports sudden severe and crushing substernal chest pain that started 1 hour ago. Her past medical history is notable for hypertension, hyperlipidemia, diabetes mellitus, obesity, and a prior myocardial infarction requiring a coronary artery bypass graft 2 years ago. She takes aspirin, metoprolol, lisinopril, spironolactone, atorvastatin, and insulin. She is retired and lives a sedentary lifestyle at home. Her temperature is 98.8°F (37.1°C), blood pressure is 109/68 mmHg, pulse is 118/min, and respirations are 24/min. Before being able to start the physical examination, the patient loses consciousness. Her pulse is palpable but weak. Her blood pressure is now 88/50 mmHg and pulse is 130/min. Her skin is pale, cold, and clammy. An electrocardiogram demonstrates ST elevations in leads I, aVL, V3, V4, V5, and V6. A medication that primarily stimulates which of the following receptors would be most appropriate to improve the hemodynamic status of this patient?",
+    "options": {
+      "A": "Alpha-2 adrenergic receptor",
+      "B": "Beta-1 adrenergic receptor",
+      "C": "Beta-2 adrenergic receptor",
+      "D": "D2 receptor"
+    }
+  },
+  "model_response": "This patient is experiencing a ventricular arrhythmia, most likely ventricular tachycardia or ventricular fibrillation, which is causing her hemodynamic compromise. The initial treatment for unstable patients with ventricular arrhythmias includes defibrillation, followed by intravenous medications to maintain stability. Amiodarone is a medication that primarily stimulates the beta-1 adrenergic receptor, but also has alpha-1 and beta-2 adrenergic receptor stimulating properties. Amiodarone decreases the automaticity of the ventricle, increases the refractory period of myocardial tissue, and decreases conduction through the AV node. It is the most effective medication available for terminating and preventing recurrent ventricular arrhythmias.\n\nThe beta-1 adrenergic receptor is located primarily in the heart, where it mediates the effects of epinephrine and norepinephrine on the heart. Stimulation of the beta-1 adrenergic receptor increases the force of contraction of the heart, increases the heart rate, and leads to a positive inotropic effect. The beta-2 adrenergic receptor is located primarily in the lungs, where it mediates bronchial smooth muscle relaxation and increased airway caliber. The alpha-2 adrenergic receptor is located in the central nervous system and on peripheral nerves, where it mediates sedation and analgesia, and decreases sympathetic outflow. The D2 receptor is located in the central nervous system, where it mediates the effects of dopamine.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "sudden severe",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "substernal chest",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "started 1",
+      "type": "T079",
+      "umls_id": "C2348002",
+      "score": 0.7518979907035828,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The age of a person at the start of a specific event."
+    },
+    {
+      "text": "hour",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9982005953788757,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "obesity",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9890912771224976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "myocardial infarction",
+      "type": "T047",
+      "umls_id": "C0027051",
+      "score": 0.952881395816803,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "NECROSIS of the MYOCARDIUM caused by an obstruction of the blood supply to the heart (CORONARY CIRCULATION)."
+    },
+    {
+      "text": "coronary artery bypass graft",
+      "type": "T061",
+      "umls_id": "C0010055",
+      "score": 0.9830958843231201,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical therapy of ischemic coronary artery disease achieved by grafting a section of saphenous vein, internal mammary artery, or other substitute between the aorta and the obstructed coronary artery distal to the obstructive lesion."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "metoprolol",
+      "type": "T109",
+      "umls_id": "C0025859",
+      "score": 0.9727950692176819,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective adrenergic beta-1 blocking agent that is commonly used to treat ANGINA PECTORIS; HYPERTENSION; and CARDIAC ARRHYTHMIAS."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "spironolactone",
+      "type": "T109",
+      "umls_id": "C0037982",
+      "score": 0.9798396825790405,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)"
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "insulin",
+      "type": "T116",
+      "umls_id": "C0021641",
+      "score": 0.9696833491325378,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A 51-amino acid pancreatic hormone that plays a major role in the regulation of glucose metabolism, directly by suppressing endogenous glucose production (GLYCOGENOLYSIS; GLUCONEOGENESIS) and indirectly by suppressing GLUCAGON secretion and LIPOLYSIS. Native insulin is a globular protein comprised of a zinc-coordinated hexamer. Each insulin monomer containing two chains, A (21 residues) and B (30 residues), linked by two disulfide bonds. Insulin is used as a drug to control insulin-dependent diabetes mellitus (DIABETES MELLITUS, TYPE 1)."
+    },
+    {
+      "text": "retired",
+      "type": "T033",
+      "umls_id": "C0035345",
+      "score": 0.9851624965667725,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state of being retired from one's position or occupation."
+    },
+    {
+      "text": "sedentary lifestyle",
+      "type": "T033",
+      "umls_id": "C1532253",
+      "score": 0.9750271439552307,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A type of lifestyle that lacks physical exercise, characterized by sitting, reading, watching television or using a computer for much of the day without vigorous physical exertion."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient loses",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7507762908935547,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "weak",
+      "type": "T080",
+      "umls_id": "C1762617",
+      "score": 0.9965013265609741,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having strength, power, or intensity less than average or expected."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "clammy",
+      "type": "T033",
+      "umls_id": "C0392162",
+      "score": 0.9517245292663574,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "electrocardiogram",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.9919003248214722,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "ST",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "elevations",
+      "type": "T082",
+      "umls_id": "C0702240",
+      "score": 0.9656992554664612,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The condition of being elevated."
+    },
+    {
+      "text": "aVL",
+      "type": "T082",
+      "umls_id": "C0449216",
+      "score": 0.9851011037826538,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "An augmented unipolar electrocardiogram limb lead in which the positive (black) electrode is situated on the left thoracic limb and the negative electrode is a combination of the right thoracic limb (white) electrode and the left pelvic limb (red) electrode. Measures the electrical activity of the electrode on the left thoracic limb."
+    },
+    {
+      "text": "V3",
+      "type": "T023",
+      "umls_id": "C0507236",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Segmental pulmonary vein, each instance of which drains the anterior segment of the superior lobe of some lung."
+    },
+    {
+      "text": "V5",
+      "type": "T029",
+      "umls_id": "C0449219",
+      "score": 0.8133421540260315,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "A unipolar electrocardiogram lead site; the electrode is placed on the anterior chest wall level with lead V4 at the left anterior axillary line. In large animals it is placed on the sixth ICS on the right side of the thorax along a line parallel to the level of the point of the shoulder corresponding to the electrical center of the heart (central terminal)."
+    },
+    {
+      "text": "V6",
+      "type": "T023",
+      "umls_id": "C0507239",
+      "score": 0.9999991059303284,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "stimulates",
+      "type": "T070",
+      "umls_id": "C1948023",
+      "score": 0.8006531596183777,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Any physical thing or event that acts to arouse action."
+    },
+    {
+      "text": "receptors",
+      "type": "T116",
+      "umls_id": "C0597357",
+      "score": 0.9883051514625549,
+      "semantic_types": [
+        "T116",
+        "T192"
+      ],
+      "definition": "A protein located on the cell surface, or in the cytoplasm, that binds to a specific signaling factor, such as a hormone, antigen, or neurotransmitter, causing a conformational and functional change in the receptor molecule. The ligand-bound receptor then alters its interaction with target molecules, which leads to changes in cellular physiology through modification of the activity of one or more signal transduction pathways."
+    },
+    {
+      "text": "hemodynamic",
+      "type": "T042",
+      "umls_id": "C0019010",
+      "score": 0.9716514348983765,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The movement and the forces involved in the movement of the blood through the CARDIOVASCULAR SYSTEM."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "68-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

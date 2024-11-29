@@ -1,0 +1,256 @@
+{
+  "original_data": {
+    "question": "A 65-year old man presents with gradually worsening rigidity of his arms and legs and slowness in performing tasks. He says he has also noticed hand tremors, which increase at rest and decrease with focused movements. On examination, the patient does not swing his arms while walking and has a shortened, shuffling gait. An antiviral drug is prescribed which alleviates the patient’s symptoms. Which of the following drugs was most likely prescribed to this patient?",
+    "options": {
+      "A": "Amantadine",
+      "B": "Ribavirin",
+      "C": "Levodopa",
+      "D": "Zidovudine"
+    }
+  },
+  "model_response": "The patient’s symptoms are consistent with Parkinson’s disease. Amantadine is an antiviral drug that is also used in the treatment of early Parkinson’s disease. It is thought to work by increasing the release of dopamine and by inhibiting its reuptake. Ribavirin is an antiviral drug used to treat hepatitis C. Levodopa is used in the treatment of Parkinson’s disease. Zidovudine is an antiviral drug used in the treatment of HIV.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rigidity",
+      "type": "T184",
+      "umls_id": "C0026837",
+      "score": 0.9781013131141663,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Continuous involuntary sustained muscle contraction which is often a manifestation of BASAL GANGLIA DISEASES. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from MUSCLE SPASTICITY. (From Adams et al., Principles of Neurology, 6th ed, p73)"
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "slowness",
+      "type": "T184",
+      "umls_id": "C0233565",
+      "score": 0.7080402374267578,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Slow movement."
+    },
+    {
+      "text": "tasks",
+      "type": "T074",
+      "umls_id": "C0024861",
+      "score": 0.7007325291633606,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices that cover the nose and mouth to maintain aseptic conditions often for the prevention of the spread of infections (e.g. COVID19) or to administer inhaled anesthetics or other gases."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hand tremors",
+      "type": "T184",
+      "umls_id": "C0239842",
+      "score": 0.9889622330665588,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unintentional, oscillating to-and-fro muscle movement affecting the hand. []"
+    },
+    {
+      "text": "increase",
+      "type": "T169",
+      "umls_id": "C0442805",
+      "score": 0.9789021015167236,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A process of becoming larger, more numerous, more important, or more likely."
+    },
+    {
+      "text": "rest",
+      "type": "T056",
+      "umls_id": "C0035253",
+      "score": 0.9951050877571106,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Freedom from activity."
+    },
+    {
+      "text": "decrease",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.9790282249450684,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "shortened",
+      "type": "T080",
+      "umls_id": "C1282927",
+      "score": 0.9875069856643677,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shuffling gait",
+      "type": "T033",
+      "umls_id": "C0231688",
+      "score": 0.9502318501472473,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A type of gait (walking) characterized by by dragging one's feet along or without lifting the feet fully from the ground. []"
+    },
+    {
+      "text": "antiviral drug",
+      "type": "T121",
+      "umls_id": "C0003451",
+      "score": 0.972694993019104,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Agents used in the prophylaxis or therapy of VIRUS DISEASES. Some of the ways they may act include preventing viral replication by inhibiting viral DNA polymerase; binding to specific cell-surface receptors and inhibiting viral penetration or uncoating; inhibiting viral protein synthesis; or blocking late stages of virus assembly."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "65-year old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "original_data": {
+    "question": "A 25-year-old female presents to urgent care with complaints of one day of burning and pain with urination, urgency, and frequency. She denies having a fever but has experienced intermittent chills. She is sexually active and inconsistently uses condoms. The patient has no past medical history. She is allergic to sulfa drugs. Physical examination of the genitalia is normal. Urinalysis shows positive leukocyte esterase and nitrites. The urine culture demonstrates gram-negative rods that form pink colonies on MacConkey agar. She is treated with an antibiotic and her symptoms quickly improve. The mechanism of the antibiotic she was most likely treated with is which of the following?",
+    "options": {
+      "A": "Inhibits cell wall synthesis",
+      "B": "Binds D-ala D-ala in the cell wall",
+      "C": "Inhibits initiation complex",
+      "D": "Inhibits sterol synthesis"
+    }
+  },
+  "model_response": "The patient was treated with an antibiotic that inhibits cell wall synthesis. This mechanism of action is effective against gram-negative rods that form pink colonies on MacConkey agar, which is indicative of lactose fermentation. The most common of these gram-negative rods is Escherichia coli. The most common antibiotics that inhibit cell wall synthesis are beta-lactam antibiotics, such as penicillins and cephalosporins. The other choices are mechanisms of action of antibiotics that are effective against other types of bacteria.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "urgent care",
+      "type": "T073",
+      "umls_id": "C2362545",
+      "score": 0.9831750392913818,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "burning",
+      "type": "T184",
+      "umls_id": "C0085624",
+      "score": 0.9737390279769897,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of stinging or heat, not necessarily accompanied by redness or physical signs of irritation."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9745711088180542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "urgency",
+      "type": "T080",
+      "umls_id": "C0439609",
+      "score": 0.988447368144989,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The pressing importance of something."
+    },
+    {
+      "text": "frequency",
+      "type": "T079",
+      "umls_id": "C0376249",
+      "score": 0.9909980297088623,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "intermittent chills",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.7908692955970764,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "sexually active",
+      "type": "T033",
+      "umls_id": "C0241028",
+      "score": 0.9596645832061768,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is or was sexually active."
+    },
+    {
+      "text": "condoms",
+      "type": "T074",
+      "umls_id": "C0009653",
+      "score": 0.9629577398300171,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A sheath that is worn over the penis during sexual behavior in order to prevent pregnancy or spread of sexually transmitted disease."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "allergic",
+      "type": "T169",
+      "umls_id": "C0700624",
+      "score": 0.9894912242889404,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Pertaining to, caused by, affected with or of the nature of allergy."
+    },
+    {
+      "text": "sulfa",
+      "type": "T121",
+      "umls_id": "C0749139",
+      "score": 0.9735721945762634,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "a kind of antibiotics"
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "genitalia",
+      "type": "T023",
+      "umls_id": "C0017420",
+      "score": 0.9955528378486633,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external and internal organs involved in the functions of REPRODUCTION."
+    },
+    {
+      "text": "Urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "leukocyte esterase",
+      "type": "T116",
+      "umls_id": "C0125619",
+      "score": 0.9710195064544678,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nitrites",
+      "type": "T121",
+      "umls_id": "C0028137",
+      "score": 0.9893783926963806,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T197"
+      ],
+      "definition": "Salts of nitrous acid or compounds containing the group NO2-. The inorganic nitrites of the type MNO2 (where M=metal) are all insoluble, except the alkali nitrites. The organic nitrites may be isomeric, but not identical with the corresponding nitro compounds. (Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "urine culture",
+      "type": "T059",
+      "umls_id": "C0430404",
+      "score": 0.9748582243919373,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gram-negative rods",
+      "type": "T007",
+      "umls_id": "C0314752",
+      "score": 0.9587842226028442,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "Any rod shaped bacteria that contains low levels of peptidoglycan in its cell wall and stains pink with the Gram staining technique."
+    },
+    {
+      "text": "pink",
+      "type": "T080",
+      "umls_id": "C0332585",
+      "score": 0.9921752214431763,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Any of a group of colors reddish in hue, of medium to high lightness, and of low to moderate saturation."
+    },
+    {
+      "text": "colonies",
+      "type": "T081",
+      "umls_id": "C0439158",
+      "score": 0.9714995622634888,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "MacConkey agar",
+      "type": "T109",
+      "umls_id": "C1443890",
+      "score": 0.9725705981254578,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T130"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "antibiotic",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.9741758108139038,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "improve",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.9731999635696411,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "antibiotic",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.9741758108139038,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "original_data": {
+    "question": "A 5-year-old male presents to the pediatrician with a 10-day history of cough that is worse at night. The patient has a history of mild intermittent asthma and has been using his albuterol inhaler without relief. He has also been complaining of headache and sore throat, and his mother has noticed worsening rhinorrhea. The patient’s past medical history is otherwise unremarkable, and he has no known drug allergies. In the office, his temperature is 101.8°F (38.8°C), blood pressure is 88/65 mmHg, pulse is 132/min, and respirations are 16/min. The patient has purulent mucus draining from the nares, and his face is tender to palpation over the maxillary sinuses. His pharynx is erythematous with symmetric swelling of the tonsils. On lung exam, he has moderate bilateral expiratory wheezing.\n\nWhich of the following is the best next step in management?",
+    "options": {
+      "A": "Amoxicillin",
+      "B": "Amoxicillin-clavulanic acid",
+      "C": "Clindamycin",
+      "D": "Levofloxacin"
+    }
+  },
+  "model_response": "The patient’s clinical presentation suggests the diagnosis of acute bacterial sinusitis with a secondary complication of pneumonia. The presence of purulent mucus, facial tenderness, and sinus pain are typical of acute sinusitis. The patient’s fever, respiratory rate, and pulse are consistent with a moderate degree of airway obstruction. The patient’s history of mild intermittent asthma may contribute to his respiratory symptoms, but it is less likely to be the primary cause of his acute illness. The patient should be treated with an appropriate antibiotic to cover the most likely pathogens, including Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis. Amoxicillin is effective against these pathogens, but the increasing prevalence of beta-lactamase-producing strains of H. influenzae and M. catarrhalis may require the use of amoxicillin-clavulanic acid. Clindamycin is active against most strains of MRSA and would be a good choice if the patient had risk factors for MRSA (eg, recent hospitalization, recent antibiotic therapy, living in a community with a high incidence of MRSA). However, clindamycin does not provide adequate coverage for the likely pathogens in this patient. Levofloxacin is a broad-spectrum antibiotic that is often used for sinusitis and pneumonia. However, it is not recommended as first-line therapy for sinusitis in children because of the potential for cartilage damage.\n\nThe patient should also receive a bucolic to help break up the mucus, a cough suppressant to help control the cough, and an antihistamine to help relieve his symptoms of rhinitis. In addition, the patient should be placed on a short course of systemic steroids to help decrease the inflammation in his sinuses and lungs.\n\nThe patient’s respiratory distress and fever suggest that he may require hospitalization for his illness. However, if he responds quickly to therapy, he may be able to be treated as an outpatient.\n\n### Suggested answers: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intermittent asthma",
+      "type": "T047",
+      "umls_id": "C1740754",
+      "score": 0.9615601301193237,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "inhaler",
+      "type": "T074",
+      "umls_id": "C0021461",
+      "score": 0.9644812345504761,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A device by means of which a medicinal product can be administered by inspiration through the nose or the mouth."
+    },
+    {
+      "text": "relief",
+      "type": "T033",
+      "umls_id": "C0564405",
+      "score": 0.9670310616493225,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "sore throat",
+      "type": "T047",
+      "umls_id": "C0031350",
+      "score": 0.9937487840652466,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammation of the throat (PHARYNX)."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rhinorrhea",
+      "type": "T184",
+      "umls_id": "C1260880",
+      "score": 0.9908851385116577,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A discharge of fluid from the nose."
+    },
+    {
+      "text": "patient’s",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9292125701904297,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "drug allergies",
+      "type": "T046",
+      "umls_id": "C0013182",
+      "score": 0.97962486743927,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Immunologically mediated adverse reactions to medicinal substances used legally or illegally."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "purulent",
+      "type": "T080",
+      "umls_id": "C0439665",
+      "score": 0.9691332578659058,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nares",
+      "type": "T030",
+      "umls_id": "C0595944",
+      "score": 0.9881142377853394,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "One of the two channels of the nose, from the point where they divide to the external opening."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "maxillary sinuses",
+      "type": "T030",
+      "umls_id": "C0024957",
+      "score": 0.9843360781669617,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The air space located in the body of the MAXILLARY BONE near each cheek. Each maxillary sinus communicates with the middle passage (meatus) of the NASAL CAVITY on the same side."
+    },
+    {
+      "text": "His pharynx",
+      "type": "T023",
+      "umls_id": "C0031354",
+      "score": 0.8198385238647461,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A funnel-shaped fibromuscular tube that conducts food to the ESOPHAGUS, and air to the LARYNX and LUNGS. It is located posterior to the NASAL CAVITY; ORAL CAVITY; and LARYNX, and extends from the SKULL BASE to the inferior border of the CRICOID CARTILAGE anteriorly and to the inferior border of the C6 vertebra posteriorly. It is divided into the NASOPHARYNX; OROPHARYNX; and HYPOPHARYNX (laryngopharynx)."
+    },
+    {
+      "text": "erythematous",
+      "type": "T169",
+      "umls_id": "C0332476",
+      "score": 0.9739061594009399,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "symmetric swelling",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tonsils",
+      "type": "T023",
+      "umls_id": "C0040421",
+      "score": 0.9841078519821167,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A round-to-oval mass of lymphoid tissue embedded in the lateral wall of the PHARYNX. There is one on each side of the oropharynx in the fauces between the anterior and posterior pillars of the SOFT PALATE."
+    },
+    {
+      "text": "lung exam",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "expiratory wheezing",
+      "type": "T184",
+      "umls_id": "C0231875",
+      "score": 0.9602701663970947,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "5-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

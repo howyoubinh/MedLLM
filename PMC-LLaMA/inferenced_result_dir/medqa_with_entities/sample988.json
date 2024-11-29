@@ -1,0 +1,185 @@
+{
+  "original_data": {
+    "question": "A researcher hypothesizes that low birth weight is related to obesity later in life. He conducts a study with a 95% confidence interval with a p-value of 0.049 to disprove his null hypothesis. He rejects his null hypothesis and concludes that low birth weight is associated with obesity. Which of the following statements best associates with his study?",
+    "options": {
+      "A": "Confidence interval should have been 90%.",
+      "B": "A type 2 error is not possible in this case.",
+      "C": "A type 2 error has been made.",
+      "D": "A type 1 error has been made."
+    }
+  },
+  "model_response": "The researcher has made a type 1 error. A type 1 error is the rejection of a null hypothesis that is actually true. In this case, the researcher has concluded that low birth weight is associated with obesity when it is not. The confidence interval should have been 95% and not 99.5%. A type 2 error is not possible in this case because the researcher is trying to prove that low birth weight is associated with obesity, not the other way around.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "birth weight",
+      "type": "T032",
+      "umls_id": "C0005612",
+      "score": 0.9691290855407715,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "obesity",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9890912771224976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "life",
+      "type": "T078",
+      "umls_id": "C0376558",
+      "score": 0.9778754115104675,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state that distinguishes organisms from inorganic matter, manifested by growth, metabolism, reproduction, and adaptation. It includes the course of existence, the sum of experiences, the mode of existing, or the fact of being. Over the centuries inquiries into the nature of life have crossed the boundaries from philosophy to biology, forensic medicine, anthropology, etc., in creative as well as scientific literature. (Random House Unabridged Dictionary, 2d ed; Dr. James H. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "conducts",
+      "type": "T053",
+      "umls_id": "C0004927",
+      "score": 0.9746460318565369,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "The observable response of a man or animal to a situation."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "confidence interval",
+      "type": "T081",
+      "umls_id": "C0009667",
+      "score": 0.9567792415618896,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A range of values for a variable of interest, e.g., a rate, constructed so that this range has a specified probability of including the true value of the variable."
+    },
+    {
+      "text": "p-value",
+      "type": "T081",
+      "umls_id": "C1709380",
+      "score": 0.9620128870010376,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A measure of the probability that a result happened by chance. The lower the p-value, the more likely it is that the result was caused by phenomenon of interest."
+    },
+    {
+      "text": "null hypothesis",
+      "type": "T081",
+      "umls_id": "C4684719",
+      "score": 0.9862359762191772,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A statistical method to test if observations are significant or due to chance. It proposes that no statistical significance exists in a set of given observations and attempts to show that no variation exists between variables or that a single variable is no different than its mean. It is presumed to be true until statistical evidence nullifies it for an alternative hypothesis."
+    },
+    {
+      "text": "rejects",
+      "type": "T080",
+      "umls_id": "C1548437",
+      "score": 0.7504658102989197,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having been judged unacceptable."
+    },
+    {
+      "text": "null hypothesis",
+      "type": "T081",
+      "umls_id": "C4684719",
+      "score": 0.9862359762191772,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A statistical method to test if observations are significant or due to chance. It proposes that no statistical significance exists in a set of given observations and attempts to show that no variation exists between variables or that a single variable is no different than its mean. It is presumed to be true until statistical evidence nullifies it for an alternative hypothesis."
+    },
+    {
+      "text": "concludes",
+      "type": "T109",
+      "umls_id": "C0917903",
+      "score": 0.9665554761886597,
+      "semantic_types": [
+        "T109",
+        "T122"
+      ],
+      "definition": null
+    },
+    {
+      "text": "birth weight",
+      "type": "T032",
+      "umls_id": "C0005612",
+      "score": 0.9691290855407715,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "obesity",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9890912771224976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "statements",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.8483113050460815,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "associates with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.8670824766159058,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    }
+  ]
+}

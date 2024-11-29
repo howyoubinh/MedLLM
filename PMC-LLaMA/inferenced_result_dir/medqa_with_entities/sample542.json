@@ -1,0 +1,282 @@
+{
+  "original_data": {
+    "question": "A 32-year-old primigravid woman at 16 weeks' gestation comes to the physician for a routine prenatal visit. She is asymptomatic and has no history of serious illness. Her only medication is a prenatal vitamin. Her temperature is 37.2°C (99°F) and blood pressure is 108/60 mm Hg. Pelvic examination shows a uterus consistent in size with a 16-week gestation. A quadruple screening test shows maternal serum AFP of 3 times the median and normal levels of serum β-hCG, estriol, and inhibin A. Which of the following is most likely to account for these findings?",
+    "options": {
+      "A": "Partial molar pregnancy",
+      "B": "Neural tube defect",
+      "C": "Trisomy 18",
+      "D": "Trisomy 21"
+    }
+  },
+  "model_response": "This patient has an elevated maternal serum α-fetoprotein (MSAFP) level, which is associated with a number of fetal conditions. The four most common are neural tube defects, trisomy 21 (Down syndrome), trisomy 18, and trisomy 13. The association of an elevated MSAFP level with a normal level of estriol suggests the diagnosis of trisomy 21. The level of hCG is not helpful in this case.\n\nThe quadruple screening test is a maternal blood test that is performed in the second trimester to screen for chromosomal abnormalities and neural tube defects. The test has four components: MSAFP, hCG, estriol, and inhibin A. Each of the first three components are produced by the fetal liver, placenta, and yolk sac. Inhibin A is produced by the corpus luteum of the ovary. Each of the first three components are decreased in the presence of a trisomy. Inhibin A is increased in the presence of a trisomy.\n\nA partial molar pregnancy would be associated with an elevated hCG level and low levels of the other three components. A neural tube defect would be associated with an elevated hCG level and normal levels of the other three components. A trisomy 18 and a trisomy 13 would be associated with low levels of all four components.\n\nTrisomy 21 is the most common chromosomal abnormality found in patients with an elevated MSAFP level. Down syndrome occurs in 1 of 800 live births and is most commonly associated with trisomy 21 (47, XX+21). It is the most common chromosomal abnormality in the fetus after an abnormal quadruple screening test.\n\nNeural tube defects occur in 1 of 1000 live births. They are associated with maternal folic acid deficiency and are most common in the lumbosacral region. They are the most common fetal abnormality after an abnormal quadruple screening test.\n\nTrisomy 18 occurs in 1 of 5000 live births and is associated with decreased levels of all four components. Trisomy 13 occurs in 1 of 15,000 live births and is associated with decreased levels of all four components.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "primigravid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "prenatal visit",
+      "type": "T058",
+      "umls_id": "C1827763",
+      "score": 0.9857678413391113,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "prenatal",
+      "type": "T100",
+      "umls_id": "C0678804",
+      "score": 0.9826273322105408,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vitamin",
+      "type": "T109",
+      "umls_id": "C0042890",
+      "score": 0.9876216053962708,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "Organic substances that are required in small amounts for maintenance and growth, but which cannot be manufactured by the human body."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "quadruple screening test",
+      "type": "T058",
+      "umls_id": "C0871311",
+      "score": 0.7588008046150208,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A test whose operational purpose is to determine the presence or absence of a substance, organism, or condition."
+    },
+    {
+      "text": "maternal",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9798679351806641,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "AFP",
+      "type": "T116",
+      "umls_id": "C0002210",
+      "score": 0.9815931916236877,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "The first alpha-globulins to appear in mammalian sera during FETAL DEVELOPMENT and the dominant serum proteins in early embryonic life."
+    },
+    {
+      "text": "median",
+      "type": "T082",
+      "umls_id": "C0549183",
+      "score": 0.9902540445327759,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A medial line, especially the medial line or medial plane of the body (or some part of the body)."
+    },
+    {
+      "text": "serum β-hCG",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.7009264230728149,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "estriol",
+      "type": "T109",
+      "umls_id": "C0014927",
+      "score": 0.9913448095321655,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A hydroxylated metabolite of ESTRADIOL or ESTRONE that has a hydroxyl group at C3, 16-alpha, and 17-beta position. Estriol is a major urinary estrogen. During PREGNANCY, a large amount of estriol is produced by the PLACENTA. Isomers with inversion of the hydroxyl group or groups are called epiestriol."
+    },
+    {
+      "text": "inhibin",
+      "type": "T116",
+      "umls_id": "C0021463",
+      "score": 0.9670846462249756,
+      "semantic_types": [
+        "T116",
+        "T125"
+      ],
+      "definition": "Glycoproteins that inhibit pituitary FOLLICLE STIMULATING HORMONE secretion. Inhibins are secreted by the Sertoli cells of the testes, the granulosa cells of the ovarian follicles, the placenta, and other tissues. Inhibins and ACTIVINS are modulators of FOLLICLE STIMULATING HORMONE secretions; both groups belong to the TGF-beta superfamily, as the TRANSFORMING GROWTH FACTOR BETA. Inhibins consist of a disulfide-linked heterodimer with a unique alpha linked to either a beta A or a beta B subunit to form inhibin A or inhibin B, respectively"
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

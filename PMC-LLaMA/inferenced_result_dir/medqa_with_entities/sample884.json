@@ -1,0 +1,139 @@
+{
+  "original_data": {
+    "question": "The ribosome is an essential organelle that plays an important role in the synthesis of new proteins. The location of the ribosome within the cell can vary and provides a clue to the function of the particular cell. What ribosome location is essential for protein-secreting cells?",
+    "options": {
+      "A": "Rough endoplasmic reticulum",
+      "B": "Smooth endoplasmic reticulum",
+      "C": "Cytosol",
+      "D": "Nucleus"
+    }
+  },
+  "model_response": "The rough endoplasmic reticulum (RER) is the site of protein synthesis. Ribosomes bind to the RER and begin protein synthesis. Proteins are made in this organelle and then sent to the Golgi apparatus for packaging. The RER is only found in cells that synthesize proteins, such as protein-secreting cells. The smooth endoplasmic reticulum (SER) is involved in lipid synthesis and detoxification. The SER is found in all cells. The cytosol is the fluid component of the cytoplasm. The nucleus is the control center of the cell and contains the genetic material.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "ribosome",
+      "type": "T026",
+      "umls_id": "C0035553",
+      "score": 0.9928097128868103,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "Multicomponent ribonucleoprotein structures found in the CYTOPLASM of all cells, and in MITOCHONDRIA, and PLASTIDS. They function in PROTEIN BIOSYNTHESIS via GENETIC TRANSLATION."
+    },
+    {
+      "text": "organelle",
+      "type": "T026",
+      "umls_id": "C0029219",
+      "score": 0.9925987124443054,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "Specific particles of membrane-bound organized living substances present in eukaryotic cells, such as the MITOCHONDRIA; the GOLGI APPARATUS; ENDOPLASMIC RETICULUM; LYSOSOMES; PLASTIDS; and VACUOLES."
+    },
+    {
+      "text": "synthesis",
+      "type": "T038",
+      "umls_id": "C0220781",
+      "score": 0.9892545938491821,
+      "semantic_types": [
+        "T038"
+      ],
+      "definition": "The chemical reactions and pathways resulting in the formation of substances; typically the energy-requiring part of metabolism in which simpler substances are transformed into more complex ones. [GOC:curators, ISBN:0198547684]"
+    },
+    {
+      "text": "proteins",
+      "type": "T116",
+      "umls_id": "C0033684",
+      "score": 0.9877250790596008,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein."
+    },
+    {
+      "text": "location",
+      "type": "T082",
+      "umls_id": "C0450429",
+      "score": 0.9696084260940552,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A position, site, or point in space where something can be found."
+    },
+    {
+      "text": "ribosome",
+      "type": "T026",
+      "umls_id": "C0035553",
+      "score": 0.9928097128868103,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "Multicomponent ribonucleoprotein structures found in the CYTOPLASM of all cells, and in MITOCHONDRIA, and PLASTIDS. They function in PROTEIN BIOSYNTHESIS via GENETIC TRANSLATION."
+    },
+    {
+      "text": "cell",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.995521068572998,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "clue",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "function",
+      "type": "T039",
+      "umls_id": "C0031843",
+      "score": 0.9618273973464966,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "Used with organs, tissues, and cells of unicellular and multicellular organisms for normal function. It is used also with biochemical substances, endogenously produced, for their physiologic role."
+    },
+    {
+      "text": "cell",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.995521068572998,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "ribosome",
+      "type": "T026",
+      "umls_id": "C0035553",
+      "score": 0.9928097128868103,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "Multicomponent ribonucleoprotein structures found in the CYTOPLASM of all cells, and in MITOCHONDRIA, and PLASTIDS. They function in PROTEIN BIOSYNTHESIS via GENETIC TRANSLATION."
+    },
+    {
+      "text": "location",
+      "type": "T082",
+      "umls_id": "C0450429",
+      "score": 0.9696084260940552,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A position, site, or point in space where something can be found."
+    },
+    {
+      "text": "protein-secreting cells",
+      "type": "T025",
+      "umls_id": "C0524983",
+      "score": 0.7403718829154968,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A gastrin-producing enteroendocrine cell that is located in the gastric antrum."
+    }
+  ]
+}

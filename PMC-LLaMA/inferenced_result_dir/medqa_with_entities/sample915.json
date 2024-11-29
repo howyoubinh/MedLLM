@@ -1,0 +1,264 @@
+{
+  "original_data": {
+    "question": "A 28-year-old G1P0 woman at 12 weeks estimated gestational age presents with malaise, joint pain, fever, and chills for the past 3 days. Physical examination reveals a mild lace-like rash and arthritis. The patient mentions her friend who is a medical student told her that her symptoms are suggestive of a parvovirus B19 infection which may adversely affect her baby. Which of the following statements regarding the effect of parvovirus B19 infection in this pregnant patient is correct?",
+    "options": {
+      "A": "It can lead to hydrops fetalis secondary to fetal anemia.",
+      "B": "It can cause aplastic crisis in the neonate.",
+      "C": "Fetal loss occurs in more than 40% of primary infections.",
+      "D": "The neonate may be born with a typical slapped-cheek rash."
+    }
+  },
+  "model_response": "This patient is infected with parvovirus B19. The virus has an affinity for erythroid progenitor cells and can lyse them. In the fetus, this can lead to aplastic crisis with severe anemia. The risk of fetal loss is less than 5% and hydrops fetalis is rare. The slapped-cheek appearance is seen in about 50% of adults infected with parvovirus B19. Neonates may be infected in utero and may have a similar rash.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "G1P0",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestational age",
+      "type": "T032",
+      "umls_id": "C0017504",
+      "score": 0.9733827710151672,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The age of the conceptus, beginning from the time of FERTILIZATION. In clinical obstetrics, the gestational age is often estimated from the onset of the last MENSTRUATION which is about 2 weeks before OVULATION and fertilization. It is also estimated to begin from fertilization, estrus, coitus, or artificial insemination."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "joint pain",
+      "type": "T184",
+      "umls_id": "C0003862",
+      "score": 0.9798861742019653,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the joint."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chills",
+      "type": "T184",
+      "umls_id": "C0085593",
+      "score": 0.9896153211593628,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden sensation of being cold. It may be accompanied by SHIVERING."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mild lace-like rash",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "arthritis",
+      "type": "T047",
+      "umls_id": "C0003864",
+      "score": 0.9881516098976135,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Acute or chronic inflammation of JOINTS."
+    },
+    {
+      "text": "patient mentions",
+      "type": "T101",
+      "umls_id": "C0025360",
+      "score": 0.7331658601760864,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Persons with psychiatric illnesses or diseases, particularly psychotic and severe mood disorders."
+    },
+    {
+      "text": "friend",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9789092540740967,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "medical",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.991391122341156,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "told",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "parvovirus",
+      "type": "T005",
+      "umls_id": "C0086776",
+      "score": 0.9566671848297119,
+      "semantic_types": [
+        "T005"
+      ],
+      "definition": "A genus of the family PARVOVIRIDAE, subfamily PARVOVIRINAE, infecting a variety of vertebrates including humans. Parvoviruses are responsible for a number of important diseases but also can be non-pathogenic in certain hosts. The type species is MINUTE VIRUS OF MICE."
+    },
+    {
+      "text": "B19 infection",
+      "type": "T047",
+      "umls_id": "C0009450",
+      "score": 0.8330437541007996,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An illness caused by an infectious agent or its toxins that occurs through the direct or indirect transmission of the infectious agent or its products from an infected individual or via an animal, vector or the inanimate environment to a susceptible animal or human host."
+    },
+    {
+      "text": "baby",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9707297086715698,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "statements",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.8483113050460815,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "effect",
+      "type": "T080",
+      "umls_id": "C1280500",
+      "score": 0.9828534126281738,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A phenomenon that follows and is caused by some previous phenomenon."
+    },
+    {
+      "text": "parvovirus",
+      "type": "T005",
+      "umls_id": "C0086776",
+      "score": 0.9566671848297119,
+      "semantic_types": [
+        "T005"
+      ],
+      "definition": "A genus of the family PARVOVIRIDAE, subfamily PARVOVIRINAE, infecting a variety of vertebrates including humans. Parvoviruses are responsible for a number of important diseases but also can be non-pathogenic in certain hosts. The type species is MINUTE VIRUS OF MICE."
+    },
+    {
+      "text": "infection",
+      "type": "T047",
+      "umls_id": "C0009450",
+      "score": 0.9619160294532776,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An illness caused by an infectious agent or its toxins that occurs through the direct or indirect transmission of the infectious agent or its products from an infected individual or via an animal, vector or the inanimate environment to a susceptible animal or human host."
+    },
+    {
+      "text": "pregnant patient",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.972635805606842,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

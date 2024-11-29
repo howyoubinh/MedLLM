@@ -1,0 +1,457 @@
+{
+  "original_data": {
+    "question": "A 51-year-old man presents to his primary care provider for intermittent shaking of his hands. He reports that for the last several years he has noticed this \"shaking\" when he brushes his teeth and prepares a cup of coffee in the morning. The shaking then gradually improves over the course of the day. His past medical history is otherwise notable for hypertension and hyperlipidemia. His only home medication is pravastatin. The patient smokes half a pack per day of cigarettes and drinks 2-3 beers throughout the day. His family history is significant for Parkinson disease in his father. On physical exam, his blood pressure is 159/84, pulse is 74/min, and respirations are 12/min. He has a high frequency bilateral hand tremor elicited on finger-to-nose testing. His neurological exam is otherwise unremarkable. This patient should be started on which of the following medications?",
+    "options": {
+      "A": "Alprazolam",
+      "B": "Primidone",
+      "C": "Propranolol",
+      "D": "Trihexyphenidyl"
+    }
+  },
+  "model_response": "The patient's tremor is likely essential tremor, which is the most common movement disorder. It is characterized by a high-frequency tremor that is typically bilateral and symmetric. The tremor is most often noted in the hands, although it can also occur in the head, voice, and tongue. The differential diagnosis includes dystonic tremor, which is typically a low-frequency tremor that is also more prominent with targeted movements, and parkinsons disease, which is characterized by other findings such as bradykinesia and rigidity. The most common treatment for essential tremor is propranolol, typically in doses of 20-80 mg/day. Other therapies that have been used include primidone, alprazolam, gabapentin, and topiramate. Botulinum toxin injections have also been used with some success. There is no definitive surgical therapy for essential tremor.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "intermittent shaking",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.7697757482528687,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "shaking",
+      "type": "T184",
+      "umls_id": "C0040822",
+      "score": 0.9520995020866394,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Cyclical movement of a body part that can represent either a physiologic process or a manifestation of disease. Intention or action tremor, a common manifestation of CEREBELLAR DISEASES, is aggravated by movement. In contrast, resting tremor is maximal when there is no attempt at voluntary movement, and occurs as a relatively frequent manifestation of PARKINSON DISEASE."
+    },
+    {
+      "text": "brushes",
+      "type": "T073",
+      "umls_id": "C0179445",
+      "score": 0.9713331460952759,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Device consisting of hairs or bristles set into a handle or holder, especially one that conducts current between the rotating and stationary parts of a generator or motor."
+    },
+    {
+      "text": "teeth",
+      "type": "T023",
+      "umls_id": "C0040426",
+      "score": 0.9633482694625854,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of a set of bone-like structures in the mouth used for biting and chewing."
+    },
+    {
+      "text": "prepares",
+      "type": "T052",
+      "umls_id": "C1521827",
+      "score": 0.8048738241195679,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act or process of making something ready."
+    },
+    {
+      "text": "cup",
+      "type": "T074",
+      "umls_id": "C0180231",
+      "score": 0.9943552613258362,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Any part of a device that resembles a bowl-shaped container."
+    },
+    {
+      "text": "coffee",
+      "type": "T168",
+      "umls_id": "C0009237",
+      "score": 0.9724447727203369,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A beverage made from ground COFFEA beans (SEEDS) infused in hot water. It generally contains CAFFEINE and THEOPHYLLINE unless it is decaffeinated."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "shaking",
+      "type": "T184",
+      "umls_id": "C0040822",
+      "score": 0.9520995020866394,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Cyclical movement of a body part that can represent either a physiologic process or a manifestation of disease. Intention or action tremor, a common manifestation of CEREBELLAR DISEASES, is aggravated by movement. In contrast, resting tremor is maximal when there is no attempt at voluntary movement, and occurs as a relatively frequent manifestation of PARKINSON DISEASE."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "course",
+      "type": "T079",
+      "umls_id": "C0750729",
+      "score": 0.9768689870834351,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Passage through time; duration; a systematic or/and orderly succession; a sequence, e.g. course of treatment; a mode of action or behavior; natural development, typical manner of proceeding."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "home medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8332118391990662,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "pravastatin",
+      "type": "T109",
+      "umls_id": "C0085542",
+      "score": 0.9654203057289124,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antilipemic fungal metabolite isolated from cultures of Nocardia autotrophica. It acts as a competitive inhibitor of HMG CoA reductase (HYDROXYMETHYLGLUTARYL COA REDUCTASES)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pack",
+      "type": "T081",
+      "umls_id": "C1704710",
+      "score": 0.9868183135986328,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A dosing unit equal to the amount of active ingredient(s) contained in a package."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beers",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9762206673622131,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "Parkinson disease",
+      "type": "T047",
+      "umls_id": "C0030567",
+      "score": 0.9666261076927185,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative neurologic disease characterized by a TREMOR that is maximal at rest, retropulsion (i.e. a tendency to fall backwards), rigidity, stooped posture, slowness of voluntary movements, and a masklike facial expression. Pathologic features include loss of melanin containing neurons in the substantia nigra and other pigmented nuclei of the brainstem. LEWY BODIES are present in the substantia nigra and locus coeruleus but may also be found in a related condition (LEWY BODY DISEASE, DIFFUSE) characterized by dementia in combination with varying degrees of parkinsonism. (Adams et al., Principles of Neurology, 6th ed, p1059, pp1067-75)"
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "frequency",
+      "type": "T079",
+      "umls_id": "C0376249",
+      "score": 0.9909980297088623,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "hand tremor",
+      "type": "T184",
+      "umls_id": "C0239842",
+      "score": 0.990945041179657,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unintentional, oscillating to-and-fro muscle movement affecting the hand. []"
+    },
+    {
+      "text": "finger-to-nose testing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "neurological exam",
+      "type": "T080",
+      "umls_id": "C0205494",
+      "score": 0.8487394452095032,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to nerves or the nervous system."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "51-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

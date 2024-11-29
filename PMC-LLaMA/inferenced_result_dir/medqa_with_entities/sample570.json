@@ -1,0 +1,328 @@
+{
+  "original_data": {
+    "question": "A 13-year-old boy is brought to the emergency department because of pain in his right knee for the past week. The pain is exacerbated by jogging and climbing up stairs. He has no history of trauma to the knee. He is otherwise healthy. He is an active member of his school's gymnastics team. His vital signs are within normal limits. Examination of the right knee shows a tender swelling at the proximal tibia; range of motion is full. Knee extension against resistance causes pain in the anterior proximal tibia. The remainder of the examinations shows no abnormalities. X-ray of the right knee shows anterior tibial soft tissue swelling with fragmentation of the tibial tuberosity. Which of the following is the most appropriate next step?",
+    "options": {
+      "A": "Administration of oral ketorolac",
+      "B": "Perform joint aspiration",
+      "C": "Open reduction of the tuberosity",
+      "D": "Application of a lower leg cast\n\""
+    }
+  },
+  "model_response": "The clinical and radiographic features are consistent with Osgood-Schlatter disease. This is a traction apophysitis of the tibial tuberosity. Treatment is usually nonoperative and involves rest, ice, and anti-inflammatory medications. Aspiration is not indicated because there is no joint involvement. Open reduction is not necessary because the tuberosity is not dislocated. A cast is not required because the patient is skeletally mature.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "right knee",
+      "type": "T023",
+      "umls_id": "C0230431",
+      "score": 0.9811345934867859,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "exacerbated",
+      "type": "T033",
+      "umls_id": "C0436331",
+      "score": 0.9704954028129578,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**The source act is aggravated by the target act. (Example \"chest pain\" EXACBY \"exercise\")</p>"
+    },
+    {
+      "text": "jogging",
+      "type": "T056",
+      "umls_id": "C0022400",
+      "score": 0.9288299083709717,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Running at a low rate of speed. It can be done as a means of conditioning or for general health and well being."
+    },
+    {
+      "text": "climbing",
+      "type": "T033",
+      "umls_id": "C0561942",
+      "score": 0.9798669219017029,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "trauma",
+      "type": "T037",
+      "umls_id": "C0043251",
+      "score": 0.9664932489395142,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Damage inflicted on the body as the direct or indirect result of an external force, with or without disruption of structural continuity."
+    },
+    {
+      "text": "knee",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9991382360458374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "school's",
+      "type": "T073",
+      "umls_id": "C0036375",
+      "score": 0.7316235303878784,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Educational institutions."
+    },
+    {
+      "text": "gymnastics team",
+      "type": "T056",
+      "umls_id": "C0018409",
+      "score": 0.819421112537384,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A system of exercise using the weight of the body and specific apparatus to promote strength and grace of carriage."
+    },
+    {
+      "text": "right knee",
+      "type": "T023",
+      "umls_id": "C0230431",
+      "score": 0.9811345934867859,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tender swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.7213703393936157,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "proximal tibia",
+      "type": "T023",
+      "umls_id": "C0588198",
+      "score": 0.9696909189224243,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Knee extension",
+      "type": "T169",
+      "umls_id": "C0231448",
+      "score": 0.8171302676200867,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To increase in length or duration."
+    },
+    {
+      "text": "resistance",
+      "type": "T041",
+      "umls_id": "C0237834",
+      "score": 0.995758056640625,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "anterior",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.984691858291626,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "examinations",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9696931838989258,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "X-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "right knee",
+      "type": "T023",
+      "umls_id": "C0230431",
+      "score": 0.9811345934867859,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anterior",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.984691858291626,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "tibial",
+      "type": "T023",
+      "umls_id": "C0040184",
+      "score": 0.9712221026420593,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The second longest bone of the skeleton. It is located on the medial side of the lower leg, articulating with the FIBULA laterally, the TALUS distally, and the FEMUR proximally."
+    },
+    {
+      "text": "soft tissue",
+      "type": "T024",
+      "umls_id": "C0225317",
+      "score": 0.9827156066894531,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "A general term comprising tissue that is not hardened or calcified; including muscle, fat, blood vessels, nerves, tendons, ligaments and fascia."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "fragmentation",
+      "type": "T190",
+      "umls_id": "C0332472",
+      "score": 0.9538877010345459,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tibial tuberosity",
+      "type": "T023",
+      "umls_id": "C0223896",
+      "score": 0.9848470687866211,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "13-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

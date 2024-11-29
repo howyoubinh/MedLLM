@@ -1,0 +1,510 @@
+{
+  "original_data": {
+    "question": "An asymptomatic 65-year-old woman is found to have T-score of -2.6 SD on routine bone mineral density screening. She has a 10-year history of hypertension and an esophageal stricture due to severe gastroesophageal reflux disease. She was diagnosed with endometrial hyperplasia 20 years ago and treated with medroxyprogesterone. Menarche started at 11 years of age and her last menstrual period was 8 years ago. Her last mammography and PAP smear 6 months ago showed no abnormalities. Her mother died of breast cancer at the age of 45 years. The patient does not have any children. Current medications include lansoprazole and hydrochlorothiazide. Her blood pressure is 135/85 mm Hg. Physical examination shows no abnormalities. Treatment is begun with a drug that prevents further bone resorption and reduces her risk of developing breast cancer. This drug puts her at an increased risk of which of the following adverse effects?",
+    "options": {
+      "A": "Skin infections",
+      "B": "Osteosarcoma",
+      "C": "Hypercholesterolemia",
+      "D": "Deep vein thrombosis\n\""
+    }
+  },
+  "model_response": "The patient's T-score of -2.6 places her in the osteoporotic range. The drug she was started on is alendronate, a bisphosphonate. One of the side effects of these medications is esophageal irritation and even ulceration. The patient should be instructed to take the medication with a full glass of water and remain upright for at least 30 minutes after taking the dose. The other side effect of concern in this patient is the increased risk of osteosarcoma. This is a rare malignancy, but one associated with osteoporosis and treatment with bisphosphonates. The other choices are not complications of bisphosphonate therapy.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "T-score",
+      "type": "T081",
+      "umls_id": "C3854607",
+      "score": 0.9699141979217529,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A method for converting an individual score into a standard form. While similar to a z-score, t-score is used when the conversion is made without knowledge of the population standard deviation and mean."
+    },
+    {
+      "text": "SD",
+      "type": "T083",
+      "umls_id": "C0037717",
+      "score": 0.9978004693984985,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by North Dakota, on the east by Minnesota, on the south by Nebraska, and on the west by Montana and Wyoming."
+    },
+    {
+      "text": "bone",
+      "type": "T024",
+      "umls_id": "C0005931",
+      "score": 0.9878895282745361,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "A specialized CONNECTIVE TISSUE that is the main constituent of the SKELETON. The principal cellular component of bone is comprised of OSTEOBLASTS; OSTEOCYTES; and OSTEOCLASTS, while FIBRILLAR COLLAGENS and hydroxyapatite crystals form the BONE MATRIX."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "esophageal stricture",
+      "type": "T047",
+      "umls_id": "C4551650",
+      "score": 0.980888843536377,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Narrowing of the lumen of the esophagus."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "gastroesophageal reflux disease",
+      "type": "T047",
+      "umls_id": "C0017168",
+      "score": 0.9646492600440979,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Retrograde flow of gastric juice (GASTRIC ACID) and/or duodenal contents (BILE ACIDS; PANCREATIC JUICE) into the distal ESOPHAGUS, commonly due to incompetence of the LOWER ESOPHAGEAL SPHINCTER."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "endometrial hyperplasia",
+      "type": "T047",
+      "umls_id": "C0014173",
+      "score": 0.984104335308075,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Benign proliferation of the ENDOMETRIUM in the UTERUS. Endometrial hyperplasia is classified by its cytology and glandular tissue. There are simple, complex (adenomatous without atypia), and atypical hyperplasia representing also the ascending risk of becoming malignant."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medroxyprogesterone",
+      "type": "T109",
+      "umls_id": "C0025147",
+      "score": 0.9644389152526855,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A synthetic progestational hormone used in veterinary practice as an estrus regulator."
+    },
+    {
+      "text": "Menarche",
+      "type": "T040",
+      "umls_id": "C0025274",
+      "score": 0.9847201704978943,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The first MENSTRUAL CYCLE marked by the initiation of MENSTRUATION."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "mammography",
+      "type": "T060",
+      "umls_id": "C0024671",
+      "score": 0.9881499409675598,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Radiographic examination of the breast."
+    },
+    {
+      "text": "PAP",
+      "type": "T033",
+      "umls_id": "C0428642",
+      "score": 0.9757630228996277,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blood pressure in the pulmonary artery."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "breast cancer",
+      "type": "T191",
+      "umls_id": "C0006142",
+      "score": 0.9908878803253174,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "lansoprazole",
+      "type": "T109",
+      "umls_id": "C0050940",
+      "score": 0.9882189035415649,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A 2,2,2-trifluoroethoxypyridyl derivative of timoprazole that is used in the therapy of STOMACH ULCERS and ZOLLINGER-ELLISON SYNDROME. The drug inhibits H(+)-K(+)-EXCHANGING ATPASE which is found in GASTRIC PARIETAL CELLS. Lansoprazole is a racemic mixture of (R)- and (S)-isomers."
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "prevents",
+      "type": "T169",
+      "umls_id": "C1292733",
+      "score": 0.9819349050521851,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bone resorption",
+      "type": "T042",
+      "umls_id": "C0005974",
+      "score": 0.949954092502594,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Bone loss due to osteoclastic activity."
+    },
+    {
+      "text": "reduces",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.7290320992469788,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "breast cancer",
+      "type": "T191",
+      "umls_id": "C0006142",
+      "score": 0.9908878803253174,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males."
+    },
+    {
+      "text": "drug puts",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.7038416862487793,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "adverse effects",
+      "type": "T169",
+      "umls_id": "C0001688",
+      "score": 0.9806696176528931,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with drugs, chemicals, or biological agents in accepted dosage - or with physical agents or manufactured products in normal usage - when intended for diagnostic, therapeutic, prophylactic, or anesthetic purposes. It is used also for adverse effects or complications of diagnostic, therapeutic, prophylactic, anesthetic, surgical, or other procedures."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

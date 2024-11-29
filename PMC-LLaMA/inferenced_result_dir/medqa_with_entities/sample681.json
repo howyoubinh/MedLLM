@@ -1,0 +1,390 @@
+{
+  "original_data": {
+    "question": "A 29-year-old female presents to her primary care provider with an aching pain in her left leg that has progressively gotten worse over several days. She recently had an unfortunate sporting incident resulting in large bruises along both legs and lower thighs. An X-ray after the event was negative for fracture. Past medical history is positive for systemic lupus erythematosus. She also has a history of one spontaneous abortion at 12 weeks gestation. Today, her heart rate is 90/min, respiratory rate is 17/min, blood pressure is 119/80 mm Hg, and temperature is 37.0°C (98.6°F). On physical examination, her left leg appears pink and slightly swollen. Homan’s sign is positive. A Doppler ultrasound reveals a thrombus in the left popliteal vein. Her lab results are as follows:\nPlatelets 250,000/mm3\nProthrombin Time 14 sec\nPartial Thromboplastin Time 90 sec\nMixing study (PTT) 89 sec\nWhat is the most likely cause of the patient’s condition?",
+    "options": {
+      "A": "Antibodies directed against platelet glycoprotein IIb/IIIa",
+      "B": "Antibodies directed against phospholipids",
+      "C": "Antibodies directed against endothelial cells",
+      "D": "Vitamin K deficiency"
+    }
+  },
+  "model_response": "The patient’s laboratory results are consistent with a hypercoagulable state. The mixing study is prolonged, suggesting a coagulation factor deficiency. The patient has a history of systemic lupus erythematosus, which is associated with antiphospholipid syndrome. This syndrome is associated with antibodies directed against phospholipids. These antibodies can cause thrombosis, including deep venous thrombosis, pulmonary embolism, and arterial thrombosis. The antibodies can also cause miscarriages. The treatment for deep venous thrombosis in a patient with antiphospholipid syndrome is heparin.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "aching pain",
+      "type": "T184",
+      "umls_id": "C0234238",
+      "score": 0.983189582824707,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull persistent (usually moderately intense) pain."
+    },
+    {
+      "text": "left leg",
+      "type": "T023",
+      "umls_id": "C0230443",
+      "score": 0.9720625281333923,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the left side of the body."
+    },
+    {
+      "text": "gotten",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "unfortunate",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "sporting",
+      "type": "T056",
+      "umls_id": "C0038039",
+      "score": 0.9786437153816223,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Activities or games, usually involving physical effort or skill. Reasons for engagement in sports include pleasure, competition, and/or financial reward."
+    },
+    {
+      "text": "incident",
+      "type": "T067",
+      "umls_id": "C1551358",
+      "score": 0.9689064025878906,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A patient safety event that reached the patient, whether or not the patient was harmed."
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "thighs",
+      "type": "T029",
+      "umls_id": "C0039866",
+      "score": 0.9411934018135071,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the lower extremity between the HIP and the KNEE."
+    },
+    {
+      "text": "X-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "event",
+      "type": "T051",
+      "umls_id": "C0441471",
+      "score": 0.9657253623008728,
+      "semantic_types": [
+        "T051"
+      ],
+      "definition": "Something that happens at a given place and time."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "fracture",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9908431768417358,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "systemic lupus erythematosus",
+      "type": "T047",
+      "umls_id": "C0024141",
+      "score": 0.9638178944587708,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "abortion",
+      "type": "T033",
+      "umls_id": "C0156543",
+      "score": 0.9643089771270752,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The unintentional or intentional loss of a pregnancy before 22 weeks gestation."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "left leg",
+      "type": "T023",
+      "umls_id": "C0230443",
+      "score": 0.9720625281333923,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the left side of the body."
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "Homan’s sign",
+      "type": "T033",
+      "umls_id": "C0311392",
+      "score": 0.7015012502670288,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Objective evidence of disease perceptible to the examining healthcare provider."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Doppler ultrasound",
+      "type": "T060",
+      "umls_id": "C0162481",
+      "score": 0.9812173843383789,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonography applying the Doppler effect, with frequency-shifted ultrasound reflections produced by moving targets (usually red blood cells) in the bloodstream along the ultrasound axis in direct proportion to the velocity of movement of the targets, to determine both direction and velocity of blood flow. (Stedman, 25th ed)"
+    },
+    {
+      "text": "thrombus",
+      "type": "T046",
+      "umls_id": "C0087086",
+      "score": 0.9640316367149353,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left popliteal vein",
+      "type": "T023",
+      "umls_id": "C0835016",
+      "score": 0.977344810962677,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lab results",
+      "type": "T170",
+      "umls_id": "C3244125",
+      "score": 0.9653475880622864,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>Lab Results Attachment"
+    },
+    {
+      "text": "PTT",
+      "type": "T059",
+      "umls_id": "C0030605",
+      "score": 0.9858034253120422,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The time required for the appearance of FIBRIN strands following the mixing of PLASMA with phospholipid platelet substitute (e.g., crude cephalins, soybean phosphatides). It is a test of the intrinsic pathway (factors VIII, IX, XI, and XII) and the common pathway (fibrinogen, prothrombin, factors V and X) of BLOOD COAGULATION. It is used as a screening test and to monitor HEPARIN therapy."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

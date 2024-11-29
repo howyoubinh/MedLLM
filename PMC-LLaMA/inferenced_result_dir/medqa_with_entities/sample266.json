@@ -1,0 +1,472 @@
+{
+  "original_data": {
+    "question": "A 60-year-old man presents with a 2-day history of increasing difficulty in breathing with a productive cough. He reports having shortness of breath over the last 6 months, but he has felt worse since he contracted a cold that has been traveling around his office. Today, he reports body aches, headache, and fever along with this chronic cough. His past medical history is significant for prediabetes, which he controls with exercise and diet. He has a 30-pack-year smoking history. His blood pressure is 130/85 mmHg, pulse rate is 90/min, temperature is 36.9°C (98.5°F), and respiratory rate is 18/min. Physical examination reveals diminished breath sounds bilateral, a barrel-shaped chest, and measured breathing through pursed lips. A chest X-ray reveals a flattened diaphragm and no signs of consolidation. Pulmonary function testing reveals FEV1/FVC ratio of 60%. Arterial blood gases (ABG) of this patient are most likely to reveal which of the following?",
+    "options": {
+      "A": "Primary respiratory acidosis",
+      "B": "Primary respiratory alkalosis",
+      "C": "Compensatory respiratory acidosis",
+      "D": "Anion gap metabolic acidosis with respiratory alkalosis"
+    }
+  },
+  "model_response": "The ABG reveals a pH of 7.32 (acidemia), PaCO2 of 50 mm Hg (respiratory acidosis), and PaO2 of 60 mm Hg (hypoxemia). The patient has type II respiratory failure with an elevated PaCO2 and decreased PaO2. The patient has compensatory respiratory acidosis. The patient does not have a primary metabolic acidosis because the pH is decreased (acidemia) and the bicarbonate level is decreased (16 mEq/L). The patient does not have a primary metabolic alkalosis because the pH is decreased (acidemia) and the bicarbonate level is decreased (16 mEq/L). The patient does not have an anion gap metabolic acidosis with respiratory alkalosis because the chloride level is not increased.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "2-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "productive cough",
+      "type": "T033",
+      "umls_id": "C0239134",
+      "score": 0.9714952111244202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A cough accompanied by expectorated secretions."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "traveling",
+      "type": "T056",
+      "umls_id": "C0040802",
+      "score": 0.9737841486930847,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "MOVEMENT across different GEOGRAPHIC LOCATIONS."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "body aches",
+      "type": "T184",
+      "umls_id": "C0741585",
+      "score": 0.8011318445205688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Body ache is a complaint that is often used to denote vague symptoms of mild fatigue, lethargy, or dull aches. We will define it here to mean a dull and poorly localizable pain that is described by the affected individual to affect multiple joints or body parts or even the entire body. []"
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chronic cough",
+      "type": "T184",
+      "umls_id": "C0010201",
+      "score": 0.9742904305458069,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "prediabetes",
+      "type": "T047",
+      "umls_id": "C0362046",
+      "score": 0.9756605625152588,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The time period before the development of symptomatic diabetes. For example, certain risk factors can be observed in subjects who subsequently develop INSULIN RESISTANCE as in type 2 diabetes (DIABETES MELLITUS, TYPE 2)."
+    },
+    {
+      "text": "controls",
+      "type": "T064",
+      "umls_id": "C0010176",
+      "score": 0.8613802194595337,
+      "semantic_types": [
+        "T064"
+      ],
+      "definition": "The containment, regulation, or restraint of costs. Costs are said to be contained when the value of resources committed to an activity is not considered excessive. This determination is frequently subjective and dependent upon the specific geographic area of the activity being measured. (From Dictionary of Health Services Management, 2d ed)"
+    },
+    {
+      "text": "exercise",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9731677770614624,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse rate",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9629671573638916,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "diminished",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9759602546691895,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "breath sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9867587685585022,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "barrel-shaped chest",
+      "type": "T033",
+      "umls_id": "C0264172",
+      "score": 0.9720242619514465,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A rounded, bulging chest that resembles the shape of a barrel. That is, there is an increased anteroposterior diameter and usually some degree of kyphosis. [HPO:probinson]"
+    },
+    {
+      "text": "measured",
+      "type": "T080",
+      "umls_id": "C0444706",
+      "score": 0.9881680607795715,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having been determined by measurement."
+    },
+    {
+      "text": "breathing",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9880034327507019,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "pursed lips",
+      "type": "T033",
+      "umls_id": "C1832130",
+      "score": 0.985011637210846,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormality of the appearance of the face caused by constant contraction of the lips leading to a puckered or pursed appearance. [HPO:probinson]"
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "X-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "diaphragm",
+      "type": "T023",
+      "umls_id": "C0011980",
+      "score": 0.983341634273529,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The musculofibrous partition that separates the THORACIC CAVITY from the ABDOMINAL CAVITY. Contraction of the diaphragm increases the volume of the thoracic cavity aiding INHALATION."
+    },
+    {
+      "text": "consolidation",
+      "type": "T047",
+      "umls_id": "C0521530",
+      "score": 0.963352620601654,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chest X-ray finding indicating the presence of a radio-opaque area in the lung. The opacification is caused by fluid or solid material within the airways or lung parenchyma."
+    },
+    {
+      "text": "Pulmonary function testing",
+      "type": "T060",
+      "umls_id": "C0024119",
+      "score": 0.976783275604248,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A broad range of tests that are performed to assess how well lungs inhale and exhale air and how efficiently they transfer oxygen into the blood."
+    },
+    {
+      "text": "FEV1/FVC ratio",
+      "type": "T033",
+      "umls_id": "C4280729",
+      "score": 0.8461078405380249,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally low FEV1/FVC (FEV1 - forced expiratory volume in 1 second; FVC forced vital capacity). [NIHR:ldaugherty, PMID:22347750, PMID:24695507]"
+    },
+    {
+      "text": "Arterial blood gases",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9809128046035767,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "ABG",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9532551169395447,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "60-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

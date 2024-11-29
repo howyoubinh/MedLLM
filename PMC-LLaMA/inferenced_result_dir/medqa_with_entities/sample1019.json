@@ -1,0 +1,282 @@
+{
+  "original_data": {
+    "question": "A 40-year-old obese man presents to his primary care provider with a history of excessive daytime somnolence and easy fatigability. Upon further questioning, it is found that although his sleeping hours are adequate, he does not feel refreshed in the morning. His wife complains that he snores loudly all night. After ruling out common medical disorders and possible drug abuse, he is advised an overnight polysomnogram that records 12 episodes of apnea and 30 episodes of hypopnea during a 7-hour sleep. Which of the following statements best describes this patient’s condition?",
+    "options": {
+      "A": "This patient's apnea-hypopnea index (AHI) is more than 5.",
+      "B": "Episodes of apnea and hypopnea are more likely to occur during deeper stages of non-rapid eye movement sleep.",
+      "C": "Mouth opening during sleep breaks the seal between the tongue and the teeth and relieves airway obstruction.",
+      "D": "Gynoid obesity is associated with apnea and hypopnea more frequently as compared to android obesity."
+    }
+  },
+  "model_response": "The patient’s apnea-hypopnea index (AHI) is 27.5 (12 + 30). Episodes of apnea and hypopnea are more likely to occur during lighter stages of non-rapid eye movement sleep. Mouth opening during sleep breaks the seal between the tongue and the teeth and relieves airway obstruction. Gynoid obesity is associated with apnea and hypopnea more frequently as compared to android obesity.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "obese",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9816532731056213,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "excessive",
+      "type": "T080",
+      "umls_id": "C0442802",
+      "score": 0.9763246774673462,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Beyond normal limits; unrestrained."
+    },
+    {
+      "text": "daytime somnolence",
+      "type": "T033",
+      "umls_id": "C2219848",
+      "score": 0.9695001840591431,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigability",
+      "type": "T184",
+      "umls_id": "C0231230",
+      "score": 0.9780797362327576,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "questioning",
+      "type": "T041",
+      "umls_id": "C0876928",
+      "score": 0.9653850197792053,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Used to describe an individual who is unsure of their sexual orientation."
+    },
+    {
+      "text": "sleeping hours",
+      "type": "T033",
+      "umls_id": "C2937255",
+      "score": 0.9786444902420044,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "adequate",
+      "type": "T080",
+      "umls_id": "C0205410",
+      "score": 0.9565691947937012,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Meeting a quantitative or qualitative measure necessary for a requirement; enough to meet the needs of a situation."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "snores",
+      "type": "T184",
+      "umls_id": "C0037384",
+      "score": 0.9593457579612732,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Rough, noisy breathing during sleep, due to vibration of the uvula and soft palate."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "medical disorders",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.7453358173370361,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "drug abuse",
+      "type": "T048",
+      "umls_id": "C0013146",
+      "score": 0.983315646648407,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of a drug for a reason other than which it was intended or in a manner or in quantities other than directed."
+    },
+    {
+      "text": "overnight",
+      "type": "T079",
+      "umls_id": "C0439583",
+      "score": 0.9877410531044006,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring between nightfall and dawn."
+    },
+    {
+      "text": "polysomnogram",
+      "type": "T060",
+      "umls_id": "C0162701",
+      "score": 0.9797776341438293,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Simultaneous and continuous monitoring of several parameters during sleep to study normal and abnormal sleep. The study includes monitoring of brain waves, to assess sleep stages, and other physiological variables such as breathing, eye movements, and blood oxygen levels which exhibit a disrupted pattern with sleep disturbances."
+    },
+    {
+      "text": "records",
+      "type": "T170",
+      "umls_id": "C0034869",
+      "score": 0.9666364192962646,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Works on authentic evidence, of something having legal importance. The concept includes certificates of birth, death, etc., as well as hospital, medical, and other institutional records."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "apnea",
+      "type": "T184",
+      "umls_id": "C0003578",
+      "score": 0.9765510559082031,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A transient absence of spontaneous respiration."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "hypopnea",
+      "type": "T033",
+      "umls_id": "C0235546",
+      "score": 0.97679603099823,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Hypopnea is referring to breathing that is abnormally shallow. []"
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "statements",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.8483113050460815,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "40-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

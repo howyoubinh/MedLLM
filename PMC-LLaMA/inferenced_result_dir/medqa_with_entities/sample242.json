@@ -1,0 +1,524 @@
+{
+  "original_data": {
+    "question": "A 5-year-old female presents to the pediatrician for a routine office visit. The patient is in kindergarten and doing well in school. She is learning to read and is able to write her first name. Her teacher has no concerns. The patient’s mother is concerned that the patient is a picky eater and often returns home from school with most of her packed lunch uneaten. The patient’s past medical history is significant for moderate persistent asthma, which has required three separate week-long courses of prednisone over the last year and recently diagnosed myopia. The patient’s mother is 5’7”, and the patient’s father is 5’10”. The patient’s weight and height are in the 55th and 5th percentile, respectively, which is consistent with her growth curve. On physical exam, the patient has a low hairline and a broad chest. Her lungs are clear with a mild expiratory wheeze. The patient’s abdomen is soft, non-tender, and non-distended. She has Tanner stage I breast development and pubic hair.\n\nThis patient is most likely to have which of the following additional findings?",
+    "options": {
+      "A": "Absent Barr bodies on buccal smear",
+      "B": "Elevated serum alkaline phosphatase level",
+      "C": "Elevated serum TSH level",
+      "D": "Mass in the sella turcica"
+    }
+  },
+  "model_response": "The patient’s presentation is most consistent with a diagnosis of Turner syndrome. Turner syndrome is the most common karyotypic abnormality causing gonadal failure and primary hypogonadism in females. It is characterized by primary hypogonadism, short stature, webbed neck, low hairline, shield-shaped chest, wide chest, short fourth metacarpal, and cubitus valgus. Cardiac (30% have coarctation of the aorta) and renal (especially horseshoe kidney) abnormalities are also associated with Turner syndrome. Short stature is often associated with other skeletal abnormalities, including short fourth metacarpal and cubitus valgus. Barr bodies are normally present in the cytoplasm of normal female somatic cells, and their absence suggests an abnormal karyotype. An elevated serum alkaline phosphatase level is associated with rickets, hepatobiliary disease, and pregnancy. An elevated serum TSH level is associated with primary hypothyroidism. A mass in the sella turcica is associated with pituitary adenoma.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "office visit",
+      "type": "T058",
+      "umls_id": "C0028900",
+      "score": 0.9790380001068115,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Visits made by patients to health service providers' offices for diagnosis, treatment, and follow-up."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "doing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "school",
+      "type": "T073",
+      "umls_id": "C0036375",
+      "score": 0.9851418733596802,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Educational institutions."
+    },
+    {
+      "text": "read",
+      "type": "T056",
+      "umls_id": "C0034754",
+      "score": 0.978941023349762,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Acquiring information from text."
+    },
+    {
+      "text": "teacher",
+      "type": "T097",
+      "umls_id": "C0221457",
+      "score": 0.9791581034660339,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "One who instructs or educates others."
+    },
+    {
+      "text": "no concerns",
+      "type": "T170",
+      "umls_id": "C3641842",
+      "score": 0.9670842289924622,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An answer indicative of no worries."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "picky",
+      "type": "T055",
+      "umls_id": "C5197784",
+      "score": 0.802428662776947,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Patterns associated with eating including modes of feeding, rhythmic patterns of eating, and time intervals."
+    },
+    {
+      "text": "returns",
+      "type": "T080",
+      "umls_id": "C0332156",
+      "score": 0.7276451587677002,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "To give something back, or the getting back thereof."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "school",
+      "type": "T073",
+      "umls_id": "C0036375",
+      "score": 0.9851418733596802,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Educational institutions."
+    },
+    {
+      "text": "patient’s",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9292125701904297,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "moderate",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.9828923940658569,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "persistent",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.981314480304718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "courses",
+      "type": "T079",
+      "umls_id": "C0750729",
+      "score": 0.9780688285827637,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Passage through time; duration; a systematic or/and orderly succession; a sequence, e.g. course of treatment; a mode of action or behavior; natural development, typical manner of proceeding."
+    },
+    {
+      "text": "prednisone",
+      "type": "T109",
+      "umls_id": "C0032952",
+      "score": 0.954511821269989,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A synthetic anti-inflammatory glucocorticoid derived from CORTISONE. It is biologically inert and converted to PREDNISOLONE in the liver."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "myopia",
+      "type": "T047",
+      "umls_id": "C0027092",
+      "score": 0.973886251449585,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A refractive error in which rays of light entering the EYE parallel to the optic axis are brought to a focus in front of the RETINA when accommodation (ACCOMMODATION, OCULAR) is relaxed. This results from an overly curved CORNEA or from the eyeball being too long from front to back. It is also called nearsightedness."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "patient’s weight",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.7492727041244507,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "percentile",
+      "type": "T081",
+      "umls_id": "C1264641",
+      "score": 0.97263103723526,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "growth curve",
+      "type": "T040",
+      "umls_id": "C0018270",
+      "score": 0.7264636754989624,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Gradual increase in the number, the size, and the complexity of cells of an individual. Growth generally results in increase in ORGAN WEIGHT; BODY WEIGHT; and BODY HEIGHT."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hairline",
+      "type": "T029",
+      "umls_id": "C4250606",
+      "score": 0.9419971108436584,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Bona fide anatomical line delineating hair from face."
+    },
+    {
+      "text": "broad chest",
+      "type": "T033",
+      "umls_id": "C1839248",
+      "score": 0.9860190153121948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "mild expiratory wheeze",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "non-tender",
+      "type": "T080",
+      "umls_id": "C0520960",
+      "score": 0.9690245389938354,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "non-distended",
+      "type": "T033",
+      "umls_id": "C0700124",
+      "score": 0.7428629994392395,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The condition of being dilated or stretched."
+    },
+    {
+      "text": "Tanner stage I",
+      "type": "T079",
+      "umls_id": "C2826146",
+      "score": 0.9409476518630981,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A scale of physical development in children, adolescents and adults based on external primary and secondary sex characteristics, such as the size of the breasts, genitalia, and development of pubic hair."
+    },
+    {
+      "text": "breast development",
+      "type": "T033",
+      "umls_id": "C0518181",
+      "score": 0.9740135073661804,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pubic",
+      "type": "T023",
+      "umls_id": "C0034014",
+      "score": 0.971836268901825,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A bone that forms the lower and anterior part of each side of the hip bone."
+    },
+    {
+      "text": "hair",
+      "type": "T023",
+      "umls_id": "C0018494",
+      "score": 0.9951649904251099,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A filament-like structure consisting of a shaft which projects to the surface of the SKIN from a root which is softer than the shaft and lodges in the cavity of a HAIR FOLLICLE. It is found on most surfaces of the body."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "5-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

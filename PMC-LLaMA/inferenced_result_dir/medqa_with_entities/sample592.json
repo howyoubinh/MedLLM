@@ -1,0 +1,247 @@
+{
+  "original_data": {
+    "question": "A 44-year-old man comes to the clinic because of a 6-month history of progressive fatigue. He has a history of intravenous heroin use. Physical examination shows scleral icterus. A serum study is positive for hepatitis C RNA. Therapy with interferon-α is initiated in combination with a second drug. The expected beneficial effect of the additional drug is most likely due to inhibition of which of the following enzymes?",
+    "options": {
+      "A": "Inosine monophosphate dehydrogenase",
+      "B": "DNA-dependent RNA polymerase",
+      "C": "DNA gyrase",
+      "D": "Dihydroorotate dehydrogenase"
+    }
+  },
+  "model_response": "The second drug added to the interferon-α is ribavirin, which inhibits inosine monophosphate dehydrogenase, reducing the availability of guanosine triphosphate for viral RNA and protein synthesis. Ribavirin is used in the treatment of chronic hepatitis C infection. The other choices are not appropriate for treating hepatitis C.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "intravenous",
+      "type": "T082",
+      "umls_id": "C0348016",
+      "score": 0.9687822461128235,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "heroin",
+      "type": "T109",
+      "umls_id": "C0011892",
+      "score": 0.9867653250694275,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "A narcotic analgesic that may be habit-forming. It is a controlled substance (opium derivative) listed in the U.S. Code of Federal Regulations, Title 21 Parts 329.1, 1308.11 (1987). Sale is forbidden in the United States by Federal statute. (Merck Index, 11th ed)"
+    },
+    {
+      "text": "use",
+      "type": "T169",
+      "umls_id": "C0042153",
+      "score": 0.9852904677391052,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with equipment, facilities, programs, services, and health personnel for discussions, usually with data, of how much they are used. It includes discussions of overuse and underuse."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "serum study",
+      "type": "T091",
+      "umls_id": "C0036745",
+      "score": 0.9386362433433533,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of serum, especially of antigen-antibody reactions in vitro."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "hepatitis C RNA",
+      "type": "T059",
+      "umls_id": "C0855840",
+      "score": 0.9819462895393372,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "interferon-α",
+      "type": "T116",
+      "umls_id": "C0021747",
+      "score": 0.8946530818939209,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Proteins secreted by vertebrate cells in response to a wide variety of inducers. They confer resistance against many different viruses, inhibit proliferation of normal and malignant cells, impede multiplication of intracellular parasites, enhance macrophage and granulocyte phagocytosis, augment natural killer cell activity, and show several other immunomodulatory functions."
+    },
+    {
+      "text": "combination",
+      "type": "T080",
+      "umls_id": "C0205195",
+      "score": 0.9625633358955383,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Made or joined or united into one or involving the joint activity of two or more."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "inhibition",
+      "type": "T041",
+      "umls_id": "C0021467",
+      "score": 0.9534496068954468,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The interference with or prevention of a behavioral or verbal response even though the stimulus for that response is present; in psychoanalysis the unconscious restraining of an instinctual process."
+    },
+    {
+      "text": "enzymes",
+      "type": "T116",
+      "umls_id": "C0014442",
+      "score": 0.9777827262878418,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Biological molecules that possess catalytic activity. They may occur naturally or be synthetically created. Enzymes are usually proteins, however CATALYTIC RNA and CATALYTIC DNA molecules have also been identified."
+    },
+    {
+      "text": "44-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

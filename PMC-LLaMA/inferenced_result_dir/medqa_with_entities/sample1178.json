@@ -1,0 +1,186 @@
+{
+  "original_data": {
+    "question": "A 6-year-old Russian boy who recently immigrated to the United States presents to your office with fever and dyspnea. On examination of the oropharynx, you note a grayish-white pseudomembrane and uneven elevation of the soft palate. The patient displays marked enlargement of the cervical lymph nodes. Which of the following describes the organism responsible for this patient's disease?",
+    "options": {
+      "A": "Yeast with pseudohyphae",
+      "B": "Gram-positive bacteria producing exotoxin that acts via ADP ribosylation",
+      "C": "Gram-positive cocci with hyaluronic acid capsule",
+      "D": "Gram-negative encapsulated bacteria producing IgA protease"
+    }
+  },
+  "model_response": "This patient's presentation is most consistent with infection with Corynebacterium diphtheriae, which produces a toxin that inhibits protein synthesis via ADP ribosylation. The pseudomembrane seen in the oropharynx is the result of the necrotizing effect of the toxin. The organism is a gram-positive bacillus that characteristically appears in Chinese letter or cuneiform arrangement. The pseudohyphae described in the first choice are a characteristic of Candida species. The second choice describes the effect of the toxin produced by C. botulinum. The third choice describes the organism responsible for a form of pneumonia in the newborn. The fourth choice describes the organism responsible for a form of pneumonia in the elderly.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Russian",
+      "type": "T171",
+      "umls_id": "C0035967",
+      "score": 0.9871448874473572,
+      "semantic_types": [
+        "T171"
+      ],
+      "definition": "An East Slavic language spoken as an official language in Russia, Belarus, Kazakhstan, and Kyrgyzstan."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "immigrated",
+      "type": "T052",
+      "umls_id": "C0020942",
+      "score": 0.7641684412956238,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Migration into a foreign country to live permanently there."
+    },
+    {
+      "text": "United States",
+      "type": "T083",
+      "umls_id": "C0041703",
+      "score": 0.9899754524230957,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA between CANADA and MEXICO."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "oropharynx",
+      "type": "T029",
+      "umls_id": "C0521367",
+      "score": 0.9782379865646362,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The middle portion of the pharynx that lies posterior to the mouth, inferior to the SOFT PALATE, and superior to the base of the tongue and EPIGLOTTIS. It has a digestive function as food passes from the mouth into the oropharynx before entering ESOPHAGUS."
+    },
+    {
+      "text": "grayish-white pseudomembrane",
+      "type": "T046",
+      "umls_id": "C0240821",
+      "score": 0.712529718875885,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Formation of membrane-like structures consisting of coagulated exudate that is loosely adherent to an inflamed tissue."
+    },
+    {
+      "text": "elevation",
+      "type": "T061",
+      "umls_id": "C0439775",
+      "score": 0.9518306851387024,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "soft palate",
+      "type": "T023",
+      "umls_id": "C0030219",
+      "score": 0.9706506133079529,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A movable fold suspended from the posterior border of the hard palate. The uvula hangs from the middle of the lower border."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "enlargement",
+      "type": "T046",
+      "umls_id": "C0020564",
+      "score": 0.9555201530456543,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "General increase in bulk of a part or organ due to CELL ENLARGEMENT and accumulation of FLUIDS AND SECRETIONS, not due to tumor formation, nor to an increase in the number of cells (HYPERPLASIA)."
+    },
+    {
+      "text": "cervical lymph nodes",
+      "type": "T023",
+      "umls_id": "C0588054",
+      "score": 0.9776642322540283,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Lymph node groups found within the seven levels and sublevels of the neck. (AJCC 8th ed.)"
+    },
+    {
+      "text": "organism",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9949436187744141,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "patient's disease",
+      "type": "T047",
+      "umls_id": "C0878681",
+      "score": 0.7448202967643738,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "X-linked recessive NEPHROLITHIASIS characterized by HYPERCALCIURIA; HYPOPHOSPHATEMIA; NEPHROCALCINOSIS; and PROTEINURIA. It is associated with mutations in the voltage-gated chloride channel, CLC-5 (Dent Disease I). Another group of mutations associated with this disease is in phosphatidylinositol 4,5-bisphosphate-5-phosphatase gene."
+    },
+    {
+      "text": "6-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

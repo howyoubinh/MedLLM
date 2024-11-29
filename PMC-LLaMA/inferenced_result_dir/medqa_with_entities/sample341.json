@@ -1,0 +1,331 @@
+{
+  "original_data": {
+    "question": "A 28-year-old primigravid woman at 39 weeks gestation is admitted to the hospital in active labor. On examination, the cervix is 100% effaced and 10 cm dilated. After 5 minutes of pushing, there is a prolonged deceleration of the fetal heart rate to 90/min. A decision to perform an episiotomy is made to expedite vaginal delivery. The anesthesiologist locates the ischial spines by palpating the posterolateral vaginal sidewall and administers an anesthetic. Three minutes later, pinching the posterior vulva does not provoke pain. The anesthetized nerve most likely also supplies which of the following structures?",
+    "options": {
+      "A": "Skin of the lateral thigh",
+      "B": "External anal sphincter",
+      "C": "Skin of the mons pubis",
+      "D": "Detrusor muscle"
+    }
+  },
+  "model_response": "The anesthetized nerve is the pudendal nerve, which supplies the external anal sphincter, the skin of the perineum and vulva, and the skin of the medial thigh. The detrusor muscle is supplied by the pelvic splanchnic nerves. The skin of the mons pubis and labia majora is supplied by the anterior cutaneous branches of the ilioinguinal nerve. The skin of the medial thigh is supplied by the anterior cutaneous branches of the femoral nerve.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "primigravid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "active labor",
+      "type": "T040",
+      "umls_id": "C0233081",
+      "score": 0.9785270690917969,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "cervix",
+      "type": "T023",
+      "umls_id": "C0007874",
+      "score": 0.9750297665596008,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The neck portion of the UTERUS between the lower isthmus and the VAGINA forming the cervical canal."
+    },
+    {
+      "text": "effaced",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "dilated",
+      "type": "T033",
+      "umls_id": "C0700124",
+      "score": 0.9801392555236816,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The condition of being dilated or stretched."
+    },
+    {
+      "text": "pushing",
+      "type": "T033",
+      "umls_id": "C1276425",
+      "score": 0.9691979289054871,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Describes a tumor border with an expanding and smooth configuration."
+    },
+    {
+      "text": "prolonged",
+      "type": "T079",
+      "umls_id": "C0439590",
+      "score": 0.9630876779556274,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to an abnormality whose duration is extended over a longer period of time than is expected or usual (e.g., prolonged fever lasts longer than one usually sees with an infection). []"
+    },
+    {
+      "text": "deceleration",
+      "type": "T070",
+      "umls_id": "C0011100",
+      "score": 0.9703159928321838,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "A decrease in the rate of speed."
+    },
+    {
+      "text": "fetal",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.9629625082015991,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "episiotomy",
+      "type": "T061",
+      "umls_id": "C0014586",
+      "score": 0.990295946598053,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An incision of the posterior vaginal wall and a portion of the pudenda which enlarges the vaginal introitus to facilitate delivery and prevent lacerations."
+    },
+    {
+      "text": "expedite",
+      "type": "T033",
+      "umls_id": "C4296983",
+      "score": 0.9701030254364014,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anesthesiologist",
+      "type": "T097",
+      "umls_id": "C0334910",
+      "score": 0.9797477126121521,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Physicians specializing in ANESTHESIOLOGY."
+    },
+    {
+      "text": "ischial",
+      "type": "T184",
+      "umls_id": "C0036396",
+      "score": 0.8097454905509949,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A condition characterized by pain radiating from the back into the buttock and posterior/lateral aspects of the leg. Sciatica may be a manifestation of SCIATIC NEUROPATHY; RADICULOPATHY (involving the SPINAL NERVE ROOTS; L4, L5, S1, or S2, often associated with INTERVERTEBRAL DISK DISPLACEMENT); or lesions of the CAUDA EQUINA."
+    },
+    {
+      "text": "spines",
+      "type": "T023",
+      "umls_id": "C0037949",
+      "score": 0.9731451869010925,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The spinal or vertebral column."
+    },
+    {
+      "text": "palpating",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.7265623807907104,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "posterolateral vaginal",
+      "type": "T023",
+      "umls_id": "C3495330",
+      "score": 0.7079992294311523,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Fasciculus of spinal cord, each instance of which is a group of nerve fibers in the lateral funiculus of some spinal cord immediately external to the posterior horn, composed in part of primary pain and temperature fibers which enter some spinal cord, travel the distance of a few segments in the dorsolateral tract, and then synapse in the posterior horn."
+    },
+    {
+      "text": "administers",
+      "type": "T169",
+      "umls_id": "C1621583",
+      "score": 0.8566544055938721,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To dispense, apply, or tender something to another, such as administering a medicine."
+    },
+    {
+      "text": "anesthetic",
+      "type": "T121",
+      "umls_id": "C0002932",
+      "score": 0.9801878333091736,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Agents capable of inducing a total or partial loss of sensation, especially tactile sensation and pain. They may act to induce general ANESTHESIA, in which an unconscious state is achieved, or may act locally to induce numbness or lack of sensation at a targeted site."
+    },
+    {
+      "text": "pinching",
+      "type": "T037",
+      "umls_id": "C0418416",
+      "score": 0.9869588017463684,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "posterior",
+      "type": "T082",
+      "umls_id": "C0205095",
+      "score": 0.9869295358657837,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Pertaining to the back or upper surface of the body; opposite of ventral."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "anesthetized",
+      "type": "T033",
+      "umls_id": "C1720436",
+      "score": 0.9706106781959534,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nerve",
+      "type": "T023",
+      "umls_id": "C0027740",
+      "score": 0.9954278469085693,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Part of the peripheral nervous system composed of bundles of nerve fibers running to various organs and tissues of the body using chemical and electrical signals to transmit sensory and motor information from one body part to another."
+    },
+    {
+      "text": "supplies",
+      "type": "T073",
+      "umls_id": "C0038848",
+      "score": 0.9799001812934875,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Goods for the support and maintenance of some endeavor."
+    },
+    {
+      "text": "structures",
+      "type": "T082",
+      "umls_id": "C0678594",
+      "score": 0.9937869906425476,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The components and their relationship and manner of arrangement in constituting a whole."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

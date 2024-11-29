@@ -1,0 +1,441 @@
+{
+  "original_data": {
+    "question": "A 55-year-old man presents with bloody nasal secretions and shortness of breath. He reports he has lost 4 kg (8.8 lb) in the last two months with no changes in his diet. He has also been suffering from mild to moderate joint pain in the left knee for the last year. His past medical history is unremarkable. His vitals include: blood pressure 120/70 mm Hg, temperature 37.0℃ (98.6℉), pulse 70/min, respiratory rate 14/min. Physical examination is significant for nasal ulcers. Diffuse crackles are present over all lobes of the lung bilaterally. Laboratory findings are significant for the following:\nHemoglobin 12.9 g/dL\nHematocrit 37.7%\nLeukocyte count 5500/mm3\nNeutrophils 65%\nLymphocytes 30%\nMonocytes 5%\nMean corpuscular volume 82.2 μm3\nPlatelet count 190,000/mm3\nErythrocyte sedimentation rate 35 mm/h\nC-reactive protein 14 mg/dL\nCreatinine 3.09 mg/dL\nThe patient is prescribed a corticosteroid nasal spray and oral antibiotics but returns in 2 weeks without any clinical improvement. Which of the following would most likely confirm the diagnosis in this patient?",
+    "options": {
+      "A": "Anti-citrullinated protein antibodies",
+      "B": "Erythrocyte sedimentation rate",
+      "C": "Anti-histone bodies",
+      "D": "Antineutrophil cytoplasmic antibodies"
+    }
+  },
+  "model_response": "The patient’s clinical presentation is consistent with granulomatosis with polyangiitis (formerly known as Wegener’s). The diagnosis is confirmed by the presence of antineutrophil cytoplasmic antibodies (ANCA). ANCA are a type of autoantibody directed against certain proteins in the cytoplasmic granules of neutrophils and monocytes. ANCA are present in up to 95% of patients with granulomatosis with polyangiitis. The antibodies can be detected by immunofluorescence or enzyme-linked immunosorbent assay (ELISA). The ELISA can be used to determine the specific antigen target of the ANCA (i.e., whether it is c-ANCA or p-ANCA).\n\nOption A: Anti-citrullinated protein antibodies are associated with rheumatoid arthritis.\n\nOption B: The erythrocyte sedimentation rate (ESR) is a nonspecific marker of inflammation. It is elevated in this patient due to his underlying disease process.\n\nOption C: Anti-histone bodies are associated with drug-induced lupus.\n\nOption D: Anti-neutrophil cytoplasmic antibodies (ANCA) are associated with granulomatosis with polyangiitis (formerly known as Wegener’s).\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "bloody nasal secretions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "suffering",
+      "type": "T048",
+      "umls_id": "C0683278",
+      "score": 0.940387487411499,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "State of severe distress associated with events that threaten the intactness of the person, can be physical, mental, or emotional."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "joint pain",
+      "type": "T184",
+      "umls_id": "C0003862",
+      "score": 0.9798861742019653,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the joint."
+    },
+    {
+      "text": "left knee",
+      "type": "T023",
+      "umls_id": "C0230432",
+      "score": 0.979669988155365,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "℃",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pulse 70/min",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "nasal ulcers",
+      "type": "T047",
+      "umls_id": "C0264267",
+      "score": 0.9753124117851257,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An open sore of the nasal mucosa. [PMID:11314863, PMID:25441476, PMID:26657735]"
+    },
+    {
+      "text": "Diffuse crackles",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lobes",
+      "type": "T023",
+      "umls_id": "C0796494",
+      "score": 0.9748649001121521,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A portion of an organ, such as the liver, lung, breast, or brain."
+    },
+    {
+      "text": "lung",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9809418320655823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Monocytes",
+      "type": "T025",
+      "umls_id": "C0026473",
+      "score": 0.9890480041503906,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Large, phagocytic mononuclear leukocytes produced in the vertebrate BONE MARROW and released into the BLOOD; contain a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles."
+    },
+    {
+      "text": "Erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "sedimentation",
+      "type": "T059",
+      "umls_id": "C0597428",
+      "score": 0.9737226366996765,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The act or process of settling particles by mechanical means from a state of suspension in air or water."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "Creatinine",
+      "type": "T109",
+      "umls_id": "C0010294",
+      "score": 0.9871318340301514,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The breakdown product of creatine, a constituent of muscle tissue, that is excreted by the kidney and whose serum level is used to evaluate kidney function."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "corticosteroid",
+      "type": "T109",
+      "umls_id": "C0001617",
+      "score": 0.9879324436187744,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "HORMONES produced by the ADRENAL CORTEX, including both steroid and peptide hormones. The major hormones produced are HYDROCORTISONE and ALDOSTERONE."
+    },
+    {
+      "text": "nasal spray",
+      "type": "T074",
+      "umls_id": "C0461725",
+      "score": 0.96241295337677,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A spray intended for administration to the mucosa of the nose."
+    },
+    {
+      "text": "oral antibiotics",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.8297341465950012,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "returns",
+      "type": "T080",
+      "umls_id": "C0332156",
+      "score": 0.7276451587677002,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "To give something back, or the getting back thereof."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "clinical improvement",
+      "type": "T089",
+      "umls_id": "C2827061",
+      "score": 0.7519210577011108,
+      "semantic_types": [
+        "T089"
+      ],
+      "definition": "A Federal law establishing quality standards for all laboratory testing to ensure the accuracy, reliability and timeliness of patient test results regardless of where the test was performed and also to determine if laboratories are achieving those standards."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

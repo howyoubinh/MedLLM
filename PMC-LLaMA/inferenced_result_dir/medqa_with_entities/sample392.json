@@ -1,0 +1,496 @@
+{
+  "original_data": {
+    "question": "A previously healthy 60-year-old man comes to his physician because of progressively worsening shortness of breath for the past 2 months. He does not experience shortness of breath at rest. He also occasionally has a dry cough. He has not had fever, chills, or night sweats. He has smoked a pack of cigarettes daily for the past 40 years. He drinks a beer daily and occasionally more on weekends. He does not use illicit drugs. He is 183 cm (6 ft 0 in) tall and weighs 66 kg (145 lbs); BMI is 19.7 kg/m2. His temperature is 37°C (98.6°F), pulse is 94/min, respirations are 21/min, and blood pressure is 136/88 mm Hg. Lung auscultation reveals a prolonged expiratory phase and end-expiratory wheezing. Spirometry shows an FEV1:FVC ratio of 62%, an FEV1 of 60% of predicted, and a total lung capacity of 125% of predicted. The diffusion capacity of the lung (DLCO) is decreased. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Interstitial lung disease",
+      "B": "Hypersensitivity pneumonitis",
+      "C": "Chronic obstructive pulmonary disease",
+      "D": "Bronchiectasis"
+    }
+  },
+  "model_response": "The man has evidence of both obstructive and restrictive ventilatory defects, which are most consistent with a diagnosis of chronic obstructive pulmonary disease (COPD). The history of cigarette smoking is typical for this condition. The decreased DLCO is consistent with emphysema, a component of COPD. The man's FEV1:FVC ratio is well below the lower limit of normal (70%) for this test, and the FEV1 is below the lower limit of normal (80% of predicted) for the forced expiratory volume in 1 second. The total lung capacity is normal.\n\nHypersensitivity pneumonitis is an immune-mediated lung disease that is caused by exposure to organic dusts, most commonly mold or bird droppings. Symptoms include fever, chills, shortness of breath, and cough. The man's symptoms of cough and shortness of breath are present, but he does not have fever or chills. The spirometry results are not consistent with restrictive lung disease.\n\nInterstitial lung disease is a general term that refers to a large number of disorders that cause scarring of the lung. Symptoms include shortness of breath and nonproductive cough. The man's symptoms of cough and shortness of breath are present, but he does not have a nonproductive cough. The spirometry results are not consistent with restrictive lung disease.\n\nBronchiectasis is a condition in which there is permanent dilation of bronchi. It is most commonly caused by recurrent or chronic infections. Symptoms include cough with daily production of large amounts of mucopurulent sputum, shortness of breath, and wheezing. The man does not have a daily cough with production of large amounts of sputum, and his wheezing is only evident on physical examination. The spirometry results are not consistent with restrictive lung disease.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "rest",
+      "type": "T056",
+      "umls_id": "C0035253",
+      "score": 0.9951050877571106,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Freedom from activity."
+    },
+    {
+      "text": "dry cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9643693566322327,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chills",
+      "type": "T184",
+      "umls_id": "C0085593",
+      "score": 0.9896153211593628,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden sensation of being cold. It may be accompanied by SHIVERING."
+    },
+    {
+      "text": "night sweats",
+      "type": "T184",
+      "umls_id": "C0028081",
+      "score": 0.9751355051994324,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Perspiration experienced nocturnally that is unrelated to environmental temperature."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beer",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9465650916099548,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "weekends",
+      "type": "T079",
+      "umls_id": "C0680190",
+      "score": 0.9821826219558716,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period comprising Saturday and Sunday, and sometimes considered to include Friday night."
+    },
+    {
+      "text": "illicit drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.9839807748794556,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "tall",
+      "type": "T033",
+      "umls_id": "C4314520",
+      "score": 0.9990716576576233,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weighs",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7179433107376099,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Lung auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.8337677121162415,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "prolonged",
+      "type": "T079",
+      "umls_id": "C0439590",
+      "score": 0.9630876779556274,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to an abnormality whose duration is extended over a longer period of time than is expected or usual (e.g., prolonged fever lasts longer than one usually sees with an infection). []"
+    },
+    {
+      "text": "expiratory phase",
+      "type": "T040",
+      "umls_id": "C0231800",
+      "score": 0.7921705842018127,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Expelling modified air from the lungs; breathing out."
+    },
+    {
+      "text": "end-expiratory",
+      "type": "T039",
+      "umls_id": "C0442700",
+      "score": 0.9533605575561523,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wheezing",
+      "type": "T184",
+      "umls_id": "C0043144",
+      "score": 0.9590449929237366,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+    },
+    {
+      "text": "Spirometry",
+      "type": "T060",
+      "umls_id": "C0037981",
+      "score": 0.9782983660697937,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Measurement of volume of air inhaled or exhaled by the lung."
+    },
+    {
+      "text": "FEV1:FVC ratio",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "FEV1",
+      "type": "T201",
+      "umls_id": "C0802965",
+      "score": 0.9727987051010132,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "predicted",
+      "type": "T078",
+      "umls_id": "C0681842",
+      "score": 0.9828162789344788,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "An extrapolation of given data into the future."
+    },
+    {
+      "text": "lung capacity",
+      "type": "T042",
+      "umls_id": "C0086571",
+      "score": 0.9823943376541138,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "predicted",
+      "type": "T078",
+      "umls_id": "C0681842",
+      "score": 0.9828162789344788,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "An extrapolation of given data into the future."
+    },
+    {
+      "text": "diffusion",
+      "type": "T070",
+      "umls_id": "C0012222",
+      "score": 0.9565539956092834,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "The tendency of a gas or solute to pass from a point of higher pressure or concentration to a point of lower pressure or concentration and to distribute itself throughout the available space. Diffusion, especially FACILITATED DIFFUSION, is a major mechanism of BIOLOGICAL TRANSPORT."
+    },
+    {
+      "text": "capacity",
+      "type": "T081",
+      "umls_id": "C1516240",
+      "score": 0.9838575720787048,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The amount that can be contained. It can refer to the volume that can be held, such as lung capacity, or the number of people that can be contained in a room or building."
+    },
+    {
+      "text": "lung (",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.8773810863494873,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "DLCO",
+      "type": "T060",
+      "umls_id": "C5204350",
+      "score": 0.7849934101104736,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The lung carbon monoxide diffusing capability test assessment predictive percentage value."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "60-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

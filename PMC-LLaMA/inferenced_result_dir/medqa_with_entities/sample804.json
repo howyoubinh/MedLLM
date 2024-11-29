@@ -1,0 +1,457 @@
+{
+  "original_data": {
+    "question": "A 45-year-old man presents to the emergency department with weakness. He states that it started yesterday and has been progressively worsening. Initially, he noticed blurry vision and some trouble speaking and swallowing but thought he was just coming down with a cold. He then noticed weakness of his facial muscles and shortness of breath. The patient works as a farmer and harvests and cans his own foods. He has had diarrhea recently and a cough prior to these symptoms of weakness. His temperature is 97.9°F (36.6°C), blood pressure is 144/94 mmHg, pulse is 87/min, respirations are 18/min, and oxygen saturation is 94% on room air. Physical exam is notable for a man who seems unable to smile with dysarthric speech. He takes shallow and weak breaths on pulmonary exam. The patient demonstrates 3/5 strength with diminished reflexes in his upper extremities. The patient is subsequently intubated. Which of the following is the best treatment for this patient?",
+    "options": {
+      "A": "Antitoxin",
+      "B": "Neostigmine",
+      "C": "Plasmapheresis",
+      "D": "Riluzole"
+    }
+  },
+  "model_response": "The patient has the classic presentation of Guillain-Barre syndrome (GBS). The initial symptoms are due to a motor neuropathy. Paresthesias may be seen early but are usually not a prominent feature. Subsequently, the patient develops weakness that begins in the lower extremities and progresses to the trunk, upper extremities, and finally the bulbar muscles. In severe cases, respiratory muscles may be involved early. The disease process usually spreads over 7 days. The initial symptoms are usually followed by a plateau of about 7 days, with recovery beginning 1-2 weeks following the initial symptoms. The diagnosis is usually confirmed by an elevated cerebrospinal fluid (CSF) protein with a normal cell count. The CSF is usually obtained via a lumbar spinal puncture. The treatment of choice is usually intravenous immunoglobulin (IVIg). Plasmapheresis is also used in severe cases. Corticosteroids have not been shown to be effective. Antitoxin is not used because of the presumed immune-mediated pathogenesis of the disease. Riluzole is not indicated because it is not known to be effective in Guillain-Barre syndrome.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "yesterday",
+      "type": "T079",
+      "umls_id": "C4526583",
+      "score": 0.8228368163108826,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period consisting of the current day and the preceding day."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blurry vision",
+      "type": "T033",
+      "umls_id": "C0344232",
+      "score": 0.9578902125358582,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blurred vision is the loss of visual acuity (sharpness of vision) resulting in a loss of ability to see small details. (from MedlinePlus Medical Encyclopedia)"
+    },
+    {
+      "text": "speaking",
+      "type": "T055",
+      "umls_id": "C0234856",
+      "score": 0.9446115493774414,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To communicate using verbal language."
+    },
+    {
+      "text": "swallowing",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.967613935470581,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "facial muscles",
+      "type": "T023",
+      "umls_id": "C0015460",
+      "score": 0.9863722920417786,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Muscles of facial expression or mimetic muscles that include the numerous muscles supplied by the facial nerve that are attached to and move the skin of the face. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "farmer",
+      "type": "T097",
+      "umls_id": "C0221460",
+      "score": 0.9725760817527771,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A person who produces food by growing plants or tending animals."
+    },
+    {
+      "text": "harvests",
+      "type": "T061",
+      "umls_id": "C1512335",
+      "score": 0.8144338726997375,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Remove from a culture or a living or dead body, as for the purposes of transplantation."
+    },
+    {
+      "text": "cans",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "foods",
+      "type": "T168",
+      "umls_id": "C0016452",
+      "score": 0.9770956039428711,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Substances taken in by the body to provide nourishment."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "smile",
+      "type": "T054",
+      "umls_id": "C0037363",
+      "score": 0.9880068302154541,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "A facial expression which may denote feelings of pleasure, affection, amusement, etc."
+    },
+    {
+      "text": "dysarthric speech",
+      "type": "T048",
+      "umls_id": "C0013362",
+      "score": 0.9647867679595947,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Disorders of speech articulation caused by imperfect coordination of pharynx, larynx, tongue, or face muscles. This may result from CRANIAL NERVE DISEASES; NEUROMUSCULAR DISEASES; CEREBELLAR DISEASES; BASAL GANGLIA DISEASES; BRAIN STEM diseases; or diseases of the corticobulbar tracts (see PYRAMIDAL TRACTS). The cortical language centers are intact in this condition. (From Adams et al., Principles of Neurology, 6th ed, p489)"
+    },
+    {
+      "text": "shallow",
+      "type": "T033",
+      "umls_id": "C4698035",
+      "score": 0.9926853775978088,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weak",
+      "type": "T080",
+      "umls_id": "C1762617",
+      "score": 0.9965013265609741,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having strength, power, or intensity less than average or expected."
+    },
+    {
+      "text": "breaths",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9711499810218811,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "pulmonary exam",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.8213385343551636,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.9718086123466492,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "diminished reflexes",
+      "type": "T033",
+      "umls_id": "C0700078",
+      "score": 0.7981548309326172,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Reduction of neurologic reflexes such as the knee-jerk reaction. [HPO:probinson]"
+    },
+    {
+      "text": "upper extremities",
+      "type": "T023",
+      "umls_id": "C1140618",
+      "score": 0.9906526207923889,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the upper limb in animals, extending from the deltoid region to the HAND, and including the ARM; AXILLA; and SHOULDER."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "intubated",
+      "type": "T033",
+      "umls_id": "C4698386",
+      "score": 0.9586788415908813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "original_data": {
+    "question": "A 38-year-old woman is brought to the emergency department because of three 1-hour episodes of severe, sharp, penetrating abdominal pain in the right upper quadrant. During these episodes, she has had nausea and vomiting. She has no diarrhea, dysuria, or hematuria and is asymptomatic between episodes. She has hypertension and hyperlipidemia. Seven years ago, she underwent resection of the terminal ileum because of severe Crohn's disease. She is 155 cm (5 ft 2 in) tall and weighs 79 kg (175 lb); BMI is 32 kg/m2. Her temperature is 36.9°C (98.5°F), pulse is 80/min, and blood pressure is 130/95 mm Hg. There is mild scleral icterus. Cardiopulmonary examination shows no abnormalities. The abdomen is soft, and there is tenderness to palpation of the right upper quadrant without guarding or rebound. Bowel sounds are normal. The stool is brown, and test for occult blood is negative. Laboratory studies show:\nHemoglobin 12.5 g/dL\nLeukocyte count 9,500 mm3\nPlatelet count 170,000 mm3\nSerum\nTotal bilirubin 4.1 mg/dL\nAlkaline phosphatase 348 U/L\nAST 187 U/L\nALT 260 U/L\nAbdominal ultrasonography shows a normal liver, a common bile duct caliber of 10 mm (normal < 6 mm) and a gallbladder with multiple gallstones and no wall thickening or pericholecystic fluid. Which of the following is the most likely cause of these findings?\"",
+    "options": {
+      "A": "Acute hepatitis A",
+      "B": "Choledocholithiasis",
+      "C": "Cholecystitis",
+      "D": "Pancreatitis\n\""
+    }
+  },
+  "model_response": "The patient's history of severe Crohn's disease, with resection of the terminal ileum, and the multiple episodes of abdominal pain suggest a high probability of recurrent cholecystitis. The multiple gallstones are a risk factor for cholecystitis. The absence of abdominal wall rigidity, distention, or tenderness makes acute pancreatitis unlikely. The liver function tests are normal, and the absence of fever and right upper quadrant tenderness make acute hepatitis unlikely. The elevated alkaline phosphatase suggests biliary tract disease. The leukocyte count is normal, ruling out cholangitis.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "1-hour",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "sharp",
+      "type": "T033",
+      "umls_id": "C1444775",
+      "score": 0.9891087412834167,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Applied to pain that is described as sharp, i.e., sudden and severe. []"
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "right upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.9763540029525757,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "no diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.879436731338501,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "dysuria",
+      "type": "T184",
+      "umls_id": "C0013428",
+      "score": 0.9521861672401428,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful URINATION. It is often associated with infections of the lower URINARY TRACT."
+    },
+    {
+      "text": "hematuria",
+      "type": "T047",
+      "umls_id": "C0018965",
+      "score": 0.9939060807228088,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Presence of blood in the urine."
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "resection",
+      "type": "T061",
+      "umls_id": "C0015252",
+      "score": 0.972225546836853,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The surgical removal of an organ or a part of an organ."
+    },
+    {
+      "text": "terminal",
+      "type": "T080",
+      "umls_id": "C0205088",
+      "score": 0.973429262638092,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ileum",
+      "type": "T023",
+      "umls_id": "C0020885",
+      "score": 0.982799232006073,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal and narrowest portion of the SMALL INTESTINE, between the JEJUNUM and the ILEOCECAL VALVE of the LARGE INTESTINE."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "Crohn's disease",
+      "type": "T047",
+      "umls_id": "C0010346",
+      "score": 0.9476101994514465,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic transmural inflammation that may involve any part of the DIGESTIVE TRACT from MOUTH to ANUS, mostly found in the ILEUM, the CECUM, and the COLON. In Crohn disease, the inflammation, extending through the intestinal wall from the MUCOSA to the serosa, is characteristically asymmetric and segmental. Epithelioid GRANULOMAS may be seen in some patients."
+    },
+    {
+      "text": "tall",
+      "type": "T033",
+      "umls_id": "C4314520",
+      "score": 0.9990716576576233,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weighs",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7179433107376099,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Cardiopulmonary examination",
+      "type": "T029",
+      "umls_id": "C0553534",
+      "score": 0.7492822408676147,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Pertaining to both the heart and the lungs."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "right upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.9763540029525757,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rebound",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232693",
+      "score": 0.9843449592590332,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stool",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9800705909729004,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "brown",
+      "type": "T080",
+      "umls_id": "C0678579",
+      "score": 0.9920192360877991,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Any of a group of colors between red and yellow in hue that are medium to low in lightness and low to moderate in saturation."
+    },
+    {
+      "text": "test",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9994137287139893,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "occult",
+      "type": "T078",
+      "umls_id": "C0028794",
+      "score": 0.9953896403312683,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The belief in or study of practices and knowledge of magical, mystical, or supernatural powers. ALCHEMY, astrology, and many RELIGIOUS PHILOSOPHIES are based upon occult principles."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ALT",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9907079935073853,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "normal liver",
+      "type": "T033",
+      "umls_id": "C0577059",
+      "score": 0.9799964427947998,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bile duct",
+      "type": "T023",
+      "umls_id": "C0005400",
+      "score": 0.9901331663131714,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The channels that collect and transport the bile secretion from the BILE CANALICULI, the smallest branch of the BILIARY TRACT in the LIVER, through the bile ductules, the bile ducts out the liver, and to the GALLBLADDER for storage."
+    },
+    {
+      "text": "caliber",
+      "type": "T081",
+      "umls_id": "C1301886",
+      "score": 0.9522850513458252,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference."
+    },
+    {
+      "text": "gallbladder",
+      "type": "T023",
+      "umls_id": "C0016976",
+      "score": 0.9696239233016968,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A storage reservoir for BILE secretion. Gallbladder allows the delivery of bile acids at a high concentration and in a controlled manner, via the CYSTIC DUCT to the DUODENUM, for degradation of dietary lipid."
+    },
+    {
+      "text": "no wall",
+      "type": "T073",
+      "umls_id": "C0677535",
+      "score": 0.8085578680038452,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A layer of material that encloses space or that encloses a structure."
+    },
+    {
+      "text": "pericholecystic fluid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "original_data": {
+    "question": "A 25-year-old man presents to his primary care physician for pain in his back. The patient describes the pain as feeling worse in the morning. He says it is a general stiffness that improves when he goes to the gym and lifts weights. He also states that his symptoms seem to improve when he leans forward or when he is cycling. The patient is a current smoker and is sexually active. He admits to having unprotected sex with many different partners this past year. The patient has no significant past medical history and is not currently taking any medications. On physical exam, the patient demonstrates notable kyphosis of the thoracic spine and decreased mobility of the back in all 4 directions. The patient’s strength is 5/5 in his upper and lower extremities. The rest of his physical exam is within normal limits. Which of the following findings is associated with this patient’s presentation?",
+    "options": {
+      "A": "Diminished pulses in the lower extremity",
+      "B": "Narrowing of the spinal canal when standing upright",
+      "C": "Pain with elevation of his leg while laying down",
+      "D": "Punctate bleeding spots when dermatologic scales are removed"
+    }
+  },
+  "model_response": "The patient’s presentation is most consistent with ankylosing spondylitis. Ankylosing spondylitis is a chronic inflammatory disorder that affects the axial skeleton. It most commonly affects the sacroiliac joints and the spinal column. The patient’s symptoms of pain and stiffness in the back are worse in the morning and improve with physical activity. The kyphotic deformity of the spine is characteristic of ankylosing spondylitis. The patient’s age, sex, and smoking history are all risk factors for ankylosing spondylitis. The patient’s symptoms of pain with elevation of his leg while laying down is called a positive Gower’s sign and is indicative of extra-articular disease. The other choices are not associated with ankylosing spondylitis. Diminished pulses in the lower extremity would suggest vascular disease. Narrowing of the spinal canal when standing upright would suggest spinal stenosis. Pain with passive range of motion of the hip would suggest hip pathology. Punctate bleeding spots when dermatologic scales are removed would suggest vasculitis.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "general stiffness",
+      "type": "T033",
+      "umls_id": "C4025238",
+      "score": 0.7183276414871216,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sensation of stiffness in the joints that occurs following waking up in the morning. [HPO:curators]"
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "gym",
+      "type": "T073",
+      "umls_id": "C0600623",
+      "score": 0.9902501106262207,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities having programs intended to promote and maintain a state of physical well-being for optimal performance and health."
+    },
+    {
+      "text": "lifts weights",
+      "type": "T056",
+      "umls_id": "C0043095",
+      "score": 0.7833064198493958,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A sport in which weights are lifted competitively or as an exercise."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "leans",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cycling",
+      "type": "T056",
+      "umls_id": "C0005377",
+      "score": 0.9798401594161987,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "The use of a bicycle for transportation or recreation. It does not include the use of a bicycle in studying the body's response to physical exertion (BICYCLE ERGOMETRY TEST see EXERCISE TEST)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "smoker",
+      "type": "T033",
+      "umls_id": "C0337664",
+      "score": 0.972935140132904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A person who inhales or has inhaled combustible products of organic material during their lifetime."
+    },
+    {
+      "text": "sexually active",
+      "type": "T033",
+      "umls_id": "C0241028",
+      "score": 0.9596645832061768,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is or was sexually active."
+    },
+    {
+      "text": "unprotected",
+      "type": "T055",
+      "umls_id": "C0556482",
+      "score": 0.8107202649116516,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Sexual intercourse without the use of precautions to prevent conception or the transmission of sexually transmitted diseases."
+    },
+    {
+      "text": "sex",
+      "type": "T040",
+      "umls_id": "C0009253",
+      "score": 0.9687879681587219,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sexual union of a male and a female, a term used for human only."
+    },
+    {
+      "text": "partners",
+      "type": "T099",
+      "umls_id": "C0682323",
+      "score": 0.9586177468299866,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A gender-neutral term for a person's partner in an intimate or romantic relationship without disclosing or presuming marital status or sexual orientation."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "kyphosis",
+      "type": "T190",
+      "umls_id": "C0022821",
+      "score": 0.9389683604240417,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": "Deformities of the SPINE characterized by an exaggerated convexity of the vertebral column. The forward bending of the thoracic region usually is more than 40 degrees. This deformity sometimes is called round back or hunchback."
+    },
+    {
+      "text": "thoracic spine",
+      "type": "T023",
+      "umls_id": "C0581269",
+      "score": 0.9796615839004517,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The vertebrae of the thoracic spine, numbered one through twelve in man."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "mobility",
+      "type": "T201",
+      "umls_id": "C0080078",
+      "score": 0.9903540015220642,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The distance and direction to which a bone joint can be extended. Range of motion is a function of the condition of the joints, muscles, and connective tissues involved. Joint flexibility can be improved through appropriate MUSCLE STRETCHING EXERCISES."
+    },
+    {
+      "text": "directions",
+      "type": "T082",
+      "umls_id": "C0439755",
+      "score": 0.9643269777297974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient’s strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.7346182465553284,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "patient’s presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.8203365802764893,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

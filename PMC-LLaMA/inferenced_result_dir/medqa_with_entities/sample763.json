@@ -1,0 +1,245 @@
+{
+  "original_data": {
+    "question": "A 42-year-old chronic alcoholic man was admitted to the hospital for inappropriate behavior and disturbed memory. He presents with severe retrograde memory loss, confusion, and confabulation. Neurologic examination showed horizontal nystagmus. He also has bilateral pretibial pitting edema and perioral erythema. CT studies of the brain were normal. The duty physician suspects the patient may be vitamin deficient. Which of the following reactions does the deficient vitamin mediate?",
+    "options": {
+      "A": "Alpha-Ketoglutarate + NAD+ + CoA <=> Succinyl-CoA + CO2 + NADH",
+      "B": "Succinate + FAD (enzyme bound) <=> Fumarate + FADH2",
+      "C": "Isocitrate + NAD+ <=> Alpha-Ketoglutarate + CO2 + NADH",
+      "D": "Succinyl-CoA + Pi + GDP <=> Succinate + GTP + CoA"
+    }
+  },
+  "model_response": "The patient has Wernicke-Korsakoff syndrome, which is due to thiamine (vitamin B1) deficiency. Thiamine is a cofactor for enzymes involved in the tricarboxylic acid cycle and the pentose phosphate pathway. The enzymes involved in the tricarboxylic acid cycle are: a-ketoglutarate dehydrogenase, succinyl-CoA synthetase, and malate dehydrogenase. The enzymes involved in the pentose phosphate pathway are glucose-6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase. The other vitamins listed are not involved in these reactions.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "chronic alcoholic man",
+      "type": "T048",
+      "umls_id": "C0001973",
+      "score": 0.7608045935630798,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A primary, chronic disease with genetic, psychosocial, and environmental factors influencing its development and manifestations. The disease is often progressive and fatal. It is characterized by impaired control over drinking, preoccupation with the drug alcohol, use of alcohol despite adverse consequences, and distortions in thinking, most notably denial. Each of these symptoms may be continuous or periodic. (Morse & Flavin for the Joint Commission of the National Council on Alcoholism and Drug Dependence and the American Society of Addiction Medicine to Study the Definition and Criteria for the Diagnosis of Alcoholism: in JAMA 1992;268:1012-4)"
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "inappropriate behavior",
+      "type": "T048",
+      "umls_id": "C0233522",
+      "score": 0.9714022874832153,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "disturbed memory",
+      "type": "T048",
+      "umls_id": "C0233794",
+      "score": 0.7207706570625305,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Deterioration in memory function."
+    },
+    {
+      "text": "retrograde",
+      "type": "T082",
+      "umls_id": "C0439784",
+      "score": 0.9917757511138916,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Moving in a direction contrary to the usual one."
+    },
+    {
+      "text": "memory loss",
+      "type": "T048",
+      "umls_id": "C0002622",
+      "score": 0.9881773591041565,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Pathologic partial or complete loss of the ability to recall past experiences (AMNESIA, RETROGRADE) or to form new memories (AMNESIA, ANTEROGRADE). This condition may be of organic or psychologic origin. Organic forms of amnesia are usually associated with dysfunction of the DIENCEPHALON or HIPPOCAMPUS. (From Adams et al., Principles of Neurology, 6th ed, pp426-7)"
+    },
+    {
+      "text": "confusion",
+      "type": "T048",
+      "umls_id": "C0009676",
+      "score": 0.9526641964912415,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A mental state characterized by bewilderment, emotional disturbance, lack of clear thinking, and perceptual disorientation."
+    },
+    {
+      "text": "confabulation",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Neurologic examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9734473824501038,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "horizontal",
+      "type": "T082",
+      "umls_id": "C0205126",
+      "score": 0.9761564135551453,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Parallel to or in the plane of the horizon."
+    },
+    {
+      "text": "nystagmus",
+      "type": "T047",
+      "umls_id": "C0028738",
+      "score": 0.9543820023536682,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Involuntary movements of the eye that are divided into two types, jerk and pendular. Jerk nystagmus has a slow phase in one direction followed by a corrective fast phase in the opposite direction, and is usually caused by central or peripheral vestibular dysfunction. Pendular nystagmus features oscillations that are of equal velocity in both directions and this condition is often associated with visual loss early in life. (Adams et al., Principles of Neurology, 6th ed, p272)"
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "pretibial pitting",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "perioral erythema",
+      "type": "T033",
+      "umls_id": "C1855458",
+      "score": 0.9755978584289551,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Erythema (Redness of the skin caused by hyperemia of the capillaries in the lower layers of the skin) localized to the region surrounding the mouth. []"
+    },
+    {
+      "text": "CT studies",
+      "type": "T170",
+      "umls_id": "C0085973",
+      "score": 0.7330287098884583,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An uncontrolled observational study containing a detailed report of the diagnosis, treatment, and follow-up of an individual patient. Case reports also contain some demographic information about the patient (for example, age, gender, ethnic origin)."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "duty physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.8291797041893005,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "suspects",
+      "type": "T078",
+      "umls_id": "C0750491",
+      "score": 0.9773206114768982,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Believed likely."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "vitamin deficient",
+      "type": "T047",
+      "umls_id": "C0042870",
+      "score": 0.9092816114425659,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A nutritional condition produced by a deficiency of VITAMIN D in the diet, insufficient production of vitamin D in the skin, inadequate absorption of vitamin D from the diet, or abnormal conversion of vitamin D to its bioactive metabolites. It is manifested clinically as RICKETS in children and OSTEOMALACIA in adults. (From Cecil Textbook of Medicine, 19th ed, p1406)"
+    },
+    {
+      "text": "reactions",
+      "type": "T033",
+      "umls_id": "C0442740",
+      "score": 0.8679612278938293,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**Patient exhibits no reaction to the challenge agent.</p>"
+    },
+    {
+      "text": "deficient",
+      "type": "T169",
+      "umls_id": "C0011155",
+      "score": 0.9761103391647339,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vitamin mediate",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

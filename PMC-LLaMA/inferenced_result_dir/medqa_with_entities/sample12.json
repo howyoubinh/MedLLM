@@ -1,0 +1,292 @@
+{
+  "original_data": {
+    "question": "A 20-year-old man comes to the physician because of worsening gait unsteadiness and bilateral hearing loss for 1 month. He has had intermittent tingling sensations on both cheeks over this time period. He has no history of serious medical illness and takes no medications. Audiometry shows bilateral sensorineural hearing loss. Genetic evaluation shows a mutation of a tumor suppressor gene on chromosome 22 that encodes merlin. This patient is at increased risk for which of the following conditions?",
+    "options": {
+      "A": "Renal cell carcinoma",
+      "B": "Meningioma",
+      "C": "Astrocytoma",
+      "D": "Vascular malformations"
+    }
+  },
+  "model_response": "The patient has neurofibromatosis type 2, which is characterized by bilateral tumors of the vestibular nerve (acoustic neuromas) and meningiomas. Acoustic neuromas are schwannomas that arise from the vestibular nerve. They may cause tinnitus, unilateral or bilateral hearing loss, or problems with balance. Meningiomas are tumors that arise from the dura mater and may cause seizures or focal neurologic deficits. Renal cell carcinoma is associated with von Hippel-Lindau disease. Astrocytoma is associated with tuberous sclerosis. Vascular malformations are associated with Sturge-Weber syndrome.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gait unsteadiness",
+      "type": "T033",
+      "umls_id": "C0231686",
+      "score": 0.70997554063797,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A shaky or wobbly manner of walking."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "hearing loss",
+      "type": "T033",
+      "umls_id": "C0011053",
+      "score": 0.9876301884651184,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A general term for the complete loss of the ability to hear from both ears."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "tingling sensations",
+      "type": "T184",
+      "umls_id": "C2242996",
+      "score": 0.9592028260231018,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation as of repetitive pin pricks, caused by cold or by striking a nerve, or as a result of various diseases of the central or peripheral nervous system."
+    },
+    {
+      "text": "cheeks",
+      "type": "T029",
+      "umls_id": "C0007966",
+      "score": 0.9744594693183899,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of the face that is below the eye and to the side of the nose and mouth."
+    },
+    {
+      "text": "time period",
+      "type": "T079",
+      "umls_id": "C1948053",
+      "score": 0.9859554767608643,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "An interval of time."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "medical illness",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.7010193467140198,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "Audiometry",
+      "type": "T060",
+      "umls_id": "C0004286",
+      "score": 0.9853391051292419,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The testing of the acuity of the sense of hearing to determine the thresholds of the lowest intensity levels at which an individual can hear a set of tones. The frequencies between 125 and 8000 Hz are used to test air conduction thresholds and the frequencies between 250 and 4000 Hz are used to test bone conduction thresholds."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "sensorineural hearing loss",
+      "type": "T047",
+      "umls_id": "C0018784",
+      "score": 0.9833806157112122,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hearing loss resulting from damage to the COCHLEA and the sensorineural elements which lie internally beyond the oval and round windows. These elements include the AUDITORY NERVE and its connections in the BRAINSTEM."
+    },
+    {
+      "text": "Genetic evaluation",
+      "type": "T058",
+      "umls_id": "C0846617",
+      "score": 0.9551740288734436,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mutation",
+      "type": "T045",
+      "umls_id": "C0026882",
+      "score": 0.964189887046814,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Any detectable and heritable change in the genetic material that causes a change in the GENOTYPE and which is transmitted to daughter cells and to succeeding generations."
+    },
+    {
+      "text": "tumor suppressor gene",
+      "type": "T028",
+      "umls_id": "C0079427",
+      "score": 0.9857006072998047,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "Genes that inhibit expression of the tumorigenic phenotype. They are normally involved in holding cellular growth in check. When tumor suppressor genes are inactivated or lost, a barrier to normal proliferation is removed and unregulated growth is possible."
+    },
+    {
+      "text": "chromosome",
+      "type": "T026",
+      "umls_id": "C0008633",
+      "score": 0.9940280914306641,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "In a prokaryotic cell or in the nucleus of a eukaryotic cell, a structure consisting of or containing DNA which carries the genetic information essential to the cell. (From Singleton & Sainsbury, Dictionary of Microbiology and Molecular Biology, 2d ed)"
+    },
+    {
+      "text": "encodes",
+      "type": "T052",
+      "umls_id": "C2700640",
+      "score": 0.7858449816703796,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "To assign a code to represent data."
+    },
+    {
+      "text": "merlin",
+      "type": "T028",
+      "umls_id": "C0085114",
+      "score": 0.9450704455375671,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "Tumor suppressor genes located on the long arm of human chromosome 22. Mutation or loss of these genes causes NEUROFIBROMATOSIS 2."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "conditions",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.8423038721084595,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "20-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

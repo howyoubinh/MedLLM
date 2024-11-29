@@ -1,0 +1,404 @@
+{
+  "original_data": {
+    "question": "A 27-year-old woman presents to the office with concerns about her long struggle with her physical appearance since adolescence. She says she has always been \"large\" and was constantly targeted by her classmates and coworkers for being so. Her main concern at the moment is her acne and unwanted facial hair on her upper lip, for which she often visits a local spa. She has tried numerous diet plans, exercise regimens, and cosmetic products with little to no effect. Recently, she underwent a glucose tolerance test that showed a plasma glucose level of 160 mg/dL (8.9 mmol/L) after 2 hours of a 75 g dose of oral glucose. She has a family history of type 2 diabetes mellitus and a menstrual cycle that occurs every 45 days. Her pulse is 72/min and the blood pressure is 138/80 mm Hg. On physical examination, her height is 160 cm (5 ft 3 in) and her weight is 85 kg (187 lb), and she has severe inflammatory acne over the cheeks and forehead and dark coarse hairs on the back. What is the most likely diagnosis of this patient?",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Idiopathic hirsutism",
+      "C": "Polycystic ovarian syndrome (PCOS)",
+      "D": "Ovarian hyperthecosis"
+    }
+  },
+  "model_response": "The most likely diagnosis of this patient is polycystic ovarian syndrome (PCOS). PCOS is a common endocrine disorder that affects 5% to 10% of women of reproductive age. It is characterized by chronic anovulation and hyperandrogenemia. The clinical features include menstrual irregularities (most often oligomenorrhea and amenorrhea), infertility, hirsutism, obesity, and glucose intolerance. The diagnosis is made on the basis of clinical and laboratory findings. The Rotterdam 2003 criteria require two of the following three to make the diagnosis: oligo/anovulation, clinical and/or biochemical signs of hyperandrogenism, and polycystic ovaries on ultrasonography. The presence of polycystic ovaries on ultrasonography is not necessary for the diagnosis and is not included in the criteria. This patient has irregular menses, hirsutism, and glucose intolerance. The presence of obesity and acne are less specific for PCOS. The normal serum luteinizing hormone (LH) level suggests that this patient does not have PCOS associated with a pituitary LH-secreting tumor. The elevated serum testosterone level is consistent with PCOS. The normal serum DHEA-S level makes an adrenal source of hyperandrogenism less likely. The normal serum estradiol level makes an ovarian source of hyperandrogenism less likely. The normal serum FSH level makes an ovarian source of hyperandrogenism less likely. The normal serum prolactin and TSH levels are not helpful in making the diagnosis. The most common cause of glucose intolerance in patients with PCOS is insulin resistance. The management of PCOS includes weight loss, oral contraceptive agents, insulin sensitizers, glucose lowering agents, and surgery. Weight loss improves insulin sensitivity and lowers androgen levels. Oral contraceptive agents suppress ovarian androgen production and reduce testosterone, free androgen, and DHEA levels. They also reduce acne and the risk of endometrial cancer. Insulin sensitizers such as metformin reduce insulin resistance, lower plasma glucose and insulin levels, and reduce androgen levels. Glucose lowering agents are not typically used in women with PCOS who are not diabetic. Surgery is typically not used as a first-line treatment for PCOS.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "concerns",
+      "type": "T170",
+      "umls_id": "C3641842",
+      "score": 0.8830092549324036,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An answer indicative of no worries."
+    },
+    {
+      "text": "long struggle",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physical appearance",
+      "type": "T184",
+      "umls_id": "C0750731",
+      "score": 0.9822710156440735,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Externally visible physical characteristics of a body."
+    },
+    {
+      "text": "adolescence",
+      "type": "T079",
+      "umls_id": "C0001578",
+      "score": 0.9900736808776855,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A human life stage that begins at twelve years of age and continues until twenty-one complete years of age, generally marked by the beginning of puberty and lasting to the beginning of adulthood."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "targeted",
+      "type": "T043",
+      "umls_id": "C0599894",
+      "score": 0.9854716658592224,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "The process of directing an agent to a specific anatomic location."
+    },
+    {
+      "text": "classmates",
+      "type": "T098",
+      "umls_id": "C0871683",
+      "score": 0.8474053740501404,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A member of the same class at school."
+    },
+    {
+      "text": "coworkers",
+      "type": "T098",
+      "umls_id": "C0681088",
+      "score": 0.9667876362800598,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "moment",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "acne",
+      "type": "T047",
+      "umls_id": "C0001144",
+      "score": 0.9494155049324036,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic disorder of the pilosebaceous apparatus associated with an increase in sebum secretion. It is characterized by open comedones (blackheads), closed comedones (whiteheads), and pustular nodules. The cause is unknown, but heredity and age are predisposing factors."
+    },
+    {
+      "text": "facial hair",
+      "type": "T023",
+      "umls_id": "C0221980",
+      "score": 0.9797656536102295,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "upper lip",
+      "type": "T023",
+      "umls_id": "C0458582",
+      "score": 0.979850709438324,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Lip, each instance of which is the fleshy margin of the mouth that bounds superiorly some oral orifice."
+    },
+    {
+      "text": "visits",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9925670623779297,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "diet plans",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "exercise regimens",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cosmetic products",
+      "type": "T073",
+      "umls_id": "C0010164",
+      "score": 0.9689506888389587,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Substances intended to be applied to the human body for cleansing, beautifying, promoting attractiveness, or altering the appearance without affecting the body's structure or functions. Included in this definition are skin creams, lotions, perfumes, lipsticks, fingernail polishes, eye and facial makeup preparations, permanent waves, hair colors, toothpastes, and deodorants, as well as any material intended for use as a component of a cosmetic product. (U.S. Food & Drug Administration Center for Food Safety & Applied Nutrition Office of Cosmetics Fact Sheet (web page) Feb 1995)"
+    },
+    {
+      "text": "no effect",
+      "type": "T033",
+      "umls_id": "C1301751",
+      "score": 0.9790349006652832,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A subjective response indicating that something has or had no effect."
+    },
+    {
+      "text": "glucose tolerance test",
+      "type": "T059",
+      "umls_id": "C0017741",
+      "score": 0.9919087290763855,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A test to determine the ability of an individual to maintain HOMEOSTASIS of BLOOD GLUCOSE. It includes measuring blood glucose levels in a fasting state, and at prescribed intervals before and after oral glucose intake (75 or 100 g) or intravenous infusion (0.5 g/kg)."
+    },
+    {
+      "text": "plasma glucose",
+      "type": "T059",
+      "umls_id": "C0202042",
+      "score": 0.9923005104064941,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Glucose Plasma Concentration (GPC) measurement is an essential diagnostic modality for different types of carbohydrate metabolism derangements including diabetes mellitus. The disordered carbohydrate metabolism that underlies diabetes manifests as hyperglycemia. Plasma glucose concentrations in healthy individuals vary with age. Normal fasting plasma glucose intervals (in the morning after an overnight fast) in children are 3.3 - 5.6 mmol/L (60-100 mg/dL); adult range - 4.1- 5.9 mmol/L (74-106 mg/dL). GPCs are approximately 11% higher than whole blood if the hematocrit is normal. Glucose concentrations in heparinized plasma are reported to be 5% lower than in serum."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "dose",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.9949097037315369,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "oral glucose",
+      "type": "T109",
+      "umls_id": "C0017725",
+      "score": 0.7914372086524963,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T123"
+      ],
+      "definition": "A primary source of energy for living organisms. It is naturally occurring and is found in fruits and other parts of plants in its free state. It is used therapeutically in fluid and nutrient replacement."
+    },
+    {
+      "text": "family history of type 2 diabetes mellitus",
+      "type": "T033",
+      "umls_id": "C2316287",
+      "score": 0.9824051856994629,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "menstrual cycle",
+      "type": "T040",
+      "umls_id": "C0025329",
+      "score": 0.9570977687835693,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The period from onset of one menstrual bleeding (MENSTRUATION) to the next in an ovulating woman or female primate. The menstrual cycle is regulated by endocrine interactions of the HYPOTHALAMUS; the PITUITARY GLAND; the ovaries; and the genital tract. The menstrual cycle is divided by OVULATION into two phases. Based on the endocrine status of the OVARY, there is a FOLLICULAR PHASE and a LUTEAL PHASE. Based on the response in the ENDOMETRIUM, the menstrual cycle is divided into a proliferative and a secretory phase."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "inflammatory",
+      "type": "T169",
+      "umls_id": "C0333348",
+      "score": 0.983461856842041,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Relating to inflammation."
+    },
+    {
+      "text": "acne",
+      "type": "T047",
+      "umls_id": "C0001144",
+      "score": 0.9494155049324036,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic disorder of the pilosebaceous apparatus associated with an increase in sebum secretion. It is characterized by open comedones (blackheads), closed comedones (whiteheads), and pustular nodules. The cause is unknown, but heredity and age are predisposing factors."
+    },
+    {
+      "text": "cheeks",
+      "type": "T029",
+      "umls_id": "C0007966",
+      "score": 0.9744594693183899,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of the face that is below the eye and to the side of the nose and mouth."
+    },
+    {
+      "text": "forehead",
+      "type": "T029",
+      "umls_id": "C0016540",
+      "score": 0.9761003255844116,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of the face above the eyes."
+    },
+    {
+      "text": "coarse hairs",
+      "type": "T033",
+      "umls_id": "C0277959",
+      "score": 0.8332070112228394,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Hair shafts are rough in texture. [HPO:probinson]"
+    },
+    {
+      "text": "back",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9834582209587097,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

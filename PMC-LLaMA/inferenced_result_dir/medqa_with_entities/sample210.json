@@ -1,0 +1,246 @@
+{
+  "original_data": {
+    "question": "An investigator is studying the effect of drug X on the retinoblastoma (Rb) gene on chromosome 13 in endometrial cells. Endometrial cells obtained from study participants are plated on growth media and the distribution of cell cycle phase is measured with flow cytometry. Drug X, which is known to activate cyclin-dependent kinase 4, is administered to all the cells, and the distribution of cell cycle phase is measured again 1 hour later. Which of the following is most likely to result from the action of drug X on the Rb gene?",
+    "options": {
+      "A": "G1 phase arrest",
+      "B": "Prophase I arrest",
+      "C": "Initiation of S phase",
+      "D": "Completion of G2 phase"
+    }
+  },
+  "model_response": "The G1 checkpoint is regulated by the Rb gene product, which binds to the transcription factor E2F and prevents the cell from entering the S phase of the cell cycle. Activation of cyclin-dependent kinase 4 will phosphorylate the Rb protein, releasing E2F and allowing the cell to enter the S phase. Therefore, administration of drug X will most likely result in a decrease in the number of cells in G1 phase and an increase in the number of cells in S phase.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "investigator",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9776015877723694,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "effect",
+      "type": "T080",
+      "umls_id": "C1280500",
+      "score": 0.9828534126281738,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A phenomenon that follows and is caused by some previous phenomenon."
+    },
+    {
+      "text": "drug X",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8902970552444458,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "retinoblastoma",
+      "type": "T191",
+      "umls_id": "C0035335",
+      "score": 0.9841662645339966,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A malignant tumor arising from the nuclear layer of the retina that is the most common primary tumor of the eye in children. The tumor tends to occur in early childhood or infancy and may be present at birth. The majority are sporadic, but the condition may be transmitted as an autosomal dominant trait. Histologic features include dense cellularity, small round polygonal cells, and areas of calcification and necrosis. An abnormal pupil reflex (leukokoria); NYSTAGMUS, PATHOLOGIC; STRABISMUS; and visual loss represent common clinical characteristics of this condition. (From DeVita et al., Cancer: Principles and Practice of Oncology, 5th ed, p2104)"
+    },
+    {
+      "text": "chromosome 13",
+      "type": "T026",
+      "umls_id": "C0008655",
+      "score": 0.9893439412117004,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "A specific pair of GROUP D CHROMOSOMES of the human chromosome classification."
+    },
+    {
+      "text": "endometrial cells",
+      "type": "T082",
+      "umls_id": "C0227843",
+      "score": 0.8210243582725525,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Relating to or composed of endometrium."
+    },
+    {
+      "text": "Endometrial cells",
+      "type": "T082",
+      "umls_id": "C0227843",
+      "score": 0.8210243582725525,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Relating to or composed of endometrium."
+    },
+    {
+      "text": "study participants",
+      "type": "T096",
+      "umls_id": "C0681850",
+      "score": 0.9014186263084412,
+      "semantic_types": [
+        "T096"
+      ],
+      "definition": "A matter or an individual that is observed, analyzed, examined, investigated, experimented upon, or/and treated in the course of a particular study."
+    },
+    {
+      "text": "growth media",
+      "type": "T130",
+      "umls_id": "C0010454",
+      "score": 0.9679182171821594,
+      "semantic_types": [
+        "T130"
+      ],
+      "definition": "Any liquid or solid preparation made specifically for the growth, storage, or transport of microorganisms or other types of cells. The variety of media that exist allow for the culturing of specific microorganisms and cell types, such as differential media, selective media, test media, and defined media. Solid media consist of liquid media that have been solidified with an agent such as AGAR or GELATIN."
+    },
+    {
+      "text": "distribution",
+      "type": "T082",
+      "umls_id": "C0037775",
+      "score": 0.9691138863563538,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The placement, arrangement of instance of entities within a space."
+    },
+    {
+      "text": "cell cycle phase",
+      "type": "T043",
+      "umls_id": "C1516337",
+      "score": 0.9862802624702454,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "One of the distinct periods or stages into which the cell cycle is divided. Each phase is characterized by the occurrence of specific biochemical and morphological events. [GOC:mtg_cell_cycle]"
+    },
+    {
+      "text": "flow cytometry",
+      "type": "T059",
+      "umls_id": "C0016263",
+      "score": 0.9919036626815796,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Technique using an instrument system for making, processing, and displaying one or more measurements on individual cells obtained from a cell suspension. Cells are usually stained with one or more fluorescent dyes specific to cell components of interest, e.g., DNA, and fluorescence of each cell is measured as it rapidly transverses the excitation beam (laser or mercury arc lamp). Fluorescence provides a quantitative measure of various biochemical and biophysical properties of the cell, as well as a basis for cell sorting. Other measurable optical parameters include light absorption and light scattering, the latter being applicable to the measurement of cell size, shape, density, granularity, and stain uptake."
+    },
+    {
+      "text": "Drug X",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8902970552444458,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "activate",
+      "type": "T169",
+      "umls_id": "C1515877",
+      "score": 0.9819180965423584,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cyclin-dependent kinase 4",
+      "type": "T116",
+      "umls_id": "C0246957",
+      "score": 0.9775693416595459,
+      "semantic_types": [
+        "T116",
+        "T126",
+        "T129"
+      ],
+      "definition": "Cyclin-dependent kinase 4 is a key regulator of G1 PHASE of the CELL CYCLE. It partners with CYCLIN D to phosphorylate RETINOBLASTOMA PROTEIN. CDK4 activity is inhibited by CYCLIN-DEPENDENT KINASE INHIBITOR P16."
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "distribution",
+      "type": "T082",
+      "umls_id": "C0037775",
+      "score": 0.9691138863563538,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The placement, arrangement of instance of entities within a space."
+    },
+    {
+      "text": "cell cycle phase",
+      "type": "T043",
+      "umls_id": "C1516337",
+      "score": 0.9862802624702454,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "One of the distinct periods or stages into which the cell cycle is divided. Each phase is characterized by the occurrence of specific biochemical and morphological events. [GOC:mtg_cell_cycle]"
+    },
+    {
+      "text": "measured",
+      "type": "T080",
+      "umls_id": "C0444706",
+      "score": 0.9881680607795715,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having been determined by measurement."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drug X",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8902970552444458,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "Rb gene",
+      "type": "T028",
+      "umls_id": "C0079424",
+      "score": 0.9325256943702698,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "Tumor suppressor genes located on human chromosome 13 in the region 13q14 and coding for a family of phosphoproteins with molecular weights ranging from 104 kDa to 115 kDa. One copy of the wild-type Rb gene is necessary for normal retinal development. Loss or inactivation of both alleles at this locus results in retinoblastoma."
+    }
+  ]
+}

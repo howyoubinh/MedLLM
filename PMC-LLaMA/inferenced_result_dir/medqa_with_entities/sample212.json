@@ -1,0 +1,509 @@
+{
+  "original_data": {
+    "question": "In order to assess the feasibility and evaluate the outcomes of cerclage wiring as a supportive approach to osteosynthesis in femur fractures, a group of orthopedic surgeons studied 14 patients with primary and periprosthetic fractures of the thigh bone. Parameters such as patient demographic, type of implant, number of wires used, fracture union rate, and potential complications were thoroughly recorded and analyzed in all the patients, with a mean duration of patient follow-up of 16 months. Union was achieved in all patients with a mean duration of 90 days, and there were no complications found in patients included in the study. The authors were satisfied with their findings and, due to the prospective nature of their research, submitted their study to a journal as a cohort study (which they noted in the study title as well). However, the journal editor returned the article, suggesting that it should be submitted as a case series instead. The editor made this suggestion to the authors for which of the following reasons?",
+    "options": {
+      "A": "No prevalence assessment",
+      "B": "Low number of patients",
+      "C": "Ascertainment bias",
+      "D": "Lack of risk calculation"
+    }
+  },
+  "model_response": "The editor was correct in suggesting that the study should be submitted as a case series. The main reason for this is that the study did not include a prevalence assessment. Without this assessment, the authors cannot claim that femur fractures with cerclage wiring are a distinct group of patients, as they have not demonstrated that this treatment approach is actually needed for a certain proportion of patients. Therefore, the study cannot be classified as a cohort study, as it lacks this crucial component. The other reasons mentioned by the editor are not valid reasons for classifying the study as a case series, as they do not relate to the absence of a prevalence assessment.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "feasibility",
+      "type": "T080",
+      "umls_id": "C5235660",
+      "score": 0.9770531058311462,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The state or degree of being easily or conveniently done, used, made, or dealt with."
+    },
+    {
+      "text": "evaluate",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9732716083526611,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "outcomes",
+      "type": "T081",
+      "umls_id": "C0086749",
+      "score": 0.8418219089508057,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "<p>**Description:**Operational activities conducted for the purposes of assessing the results of an activity, product, or service</p>"
+    },
+    {
+      "text": "cerclage",
+      "type": "T061",
+      "umls_id": "C1292825",
+      "score": 0.968424379825592,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "supportive approach",
+      "type": "T077",
+      "umls_id": "C1521721",
+      "score": 0.7328199744224548,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Moral, psychological, physical, or financial aid or assistance; approval."
+    },
+    {
+      "text": "osteosynthesis",
+      "type": "T061",
+      "umls_id": "C0016642",
+      "score": 0.9828829169273376,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of internal devices (metal plates, nails, rods, etc.) to hold the position of a fracture in proper alignment."
+    },
+    {
+      "text": "femur fractures",
+      "type": "T037",
+      "umls_id": "C0015802",
+      "score": 0.9781646132469177,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Fractures of the femur."
+    },
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "orthopedic surgeons",
+      "type": "T097",
+      "umls_id": "C0334891",
+      "score": 0.9776745438575745,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Physicians specializing in medical, surgical, and physical methods used to treat and correct deformities, diseases, and injuries to the skeletal system, its articulations, and associated structures."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "primary",
+      "type": "T080",
+      "umls_id": "C0205225",
+      "score": 0.9869162440299988,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Occurring first in time or sequence; original; of greatest rank or importance or value."
+    },
+    {
+      "text": "periprosthetic",
+      "type": "T037",
+      "umls_id": "C2609162",
+      "score": 0.7877852916717529,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Fractures around joint replacement prosthetics or implants. They can occur intraoperatively or postoperatively."
+    },
+    {
+      "text": "fractures",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9890090227127075,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "bone",
+      "type": "T024",
+      "umls_id": "C0005931",
+      "score": 0.9878895282745361,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "A specialized CONNECTIVE TISSUE that is the main constituent of the SKELETON. The principal cellular component of bone is comprised of OSTEOBLASTS; OSTEOCYTES; and OSTEOCLASTS, while FIBRILLAR COLLAGENS and hydroxyapatite crystals form the BONE MATRIX."
+    },
+    {
+      "text": "Parameters",
+      "type": "T033",
+      "umls_id": "C0449381",
+      "score": 0.9871498942375183,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient demographic",
+      "type": "T090",
+      "umls_id": "C0011298",
+      "score": 0.7684610486030579,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Statistical interpretation and description of a population with reference to distribution, composition, or structure."
+    },
+    {
+      "text": "implant",
+      "type": "T074",
+      "umls_id": "C0021102",
+      "score": 0.9848165512084961,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A prosthesis placed permanently in tissue."
+    },
+    {
+      "text": "wires",
+      "type": "T074",
+      "umls_id": "C0005978",
+      "score": 0.9371843338012695,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Steel wires, often threaded through the skin, soft tissues, and bone, used to fix broken bones. Kirschner wires or apparatus also includes the application of traction to the healing bones through the wires."
+    },
+    {
+      "text": "fracture union",
+      "type": "T046",
+      "umls_id": "C0016665",
+      "score": 0.9192602038383484,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A fracture in which union fails to occur, the ends of the bone becoming rounded and eburnated, and a false joint occurs. (Stedman, 25th ed)"
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "potential",
+      "type": "T080",
+      "umls_id": "C3245505",
+      "score": 0.972382128238678,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The likelihood or possibility that a specific state or condition will exist or that an action will occur."
+    },
+    {
+      "text": "complications",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9766035676002502,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "analyzed",
+      "type": "T062",
+      "umls_id": "C0936012",
+      "score": 0.9374892115592957,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Examination and interpretation; the process of identifying an issue to be understood and addressed, modelling the issue, investigating the model results, interpreting the results, and possibly making a recommendation. The concept also refers to the examination and study of a whole in terms of the parts composing it."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "duration",
+      "type": "T079",
+      "umls_id": "C0449238",
+      "score": 0.9706485271453857,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period of time during which something continues."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "Union",
+      "type": "T185",
+      "umls_id": "C2825217",
+      "score": 0.9546780586242676,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A set containing all and only the members of two or more given sets."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "duration",
+      "type": "T079",
+      "umls_id": "C0449238",
+      "score": 0.9706485271453857,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period of time during which something continues."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "complications",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9766035676002502,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "authors",
+      "type": "T097",
+      "umls_id": "C3812881",
+      "score": 0.993265688419342,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "The writer of a book, article, or other text."
+    },
+    {
+      "text": "satisfied",
+      "type": "T041",
+      "umls_id": "C0242428",
+      "score": 0.9379556775093079,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The feeling of being pleased and content."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "research",
+      "type": "T062",
+      "umls_id": "C0035168",
+      "score": 0.985704243183136,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Critical and exhaustive investigation or experimentation, having for its aim the discovery of new facts and their correct interpretation, the revision of accepted conclusions, theories, or laws in the light of newly discovered facts, or the practical application of such new or revised conclusions, theories, or laws. (Webster, 3d ed)"
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "journal",
+      "type": "T073",
+      "umls_id": "C0162443",
+      "score": 0.9317007660865784,
+      "semantic_types": [
+        "T073",
+        "T170"
+      ],
+      "definition": "A periodical dedicated to a particular subject."
+    },
+    {
+      "text": "cohort study",
+      "type": "T081",
+      "umls_id": "C0009247",
+      "score": 0.9756929874420166,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Studies in which subsets of a defined population are identified. These groups may or may not be exposed to factors hypothesized to influence the probability of the occurrence of a particular disease or other outcome. Cohorts are defined populations which, as a whole, are followed in an attempt to determine distinguishing subgroup characteristics."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "journal editor",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "article",
+      "type": "T170",
+      "umls_id": "C1706852",
+      "score": 0.9872909188270569,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Nonfictional prose forming an independent part of a publication."
+    },
+    {
+      "text": "case series",
+      "type": "T062",
+      "umls_id": "C0150093",
+      "score": 0.9784182906150818,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A series of patients with a defined disorder. Usually, the term is used to describe a study reporting on a consecutive collection of patients treated in a similar manner, without a concurrent control group. For example, a surgeon might describe the characteristics of and outcomes for 100 consecutive patients with cerebral ischemia who received a revascularization procedure. See also CONSECUTIVE SAMPLE."
+    },
+    {
+      "text": "editor",
+      "type": "T090",
+      "umls_id": "C1707883",
+      "score": 0.9728101491928101,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "A person who edits material for publication; a person having managerial and sometimes policy-making responsibility for the editorial part of a publishing firm or of a newspaper, magazine, or other publication; the supervisor or conductor of a department of a newspaper, magazine, etc."
+    },
+    {
+      "text": "suggestion",
+      "type": "T078",
+      "umls_id": "C0038659",
+      "score": 0.9081194996833801,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The uncritical acceptance of an idea or plan of action."
+    },
+    {
+      "text": "authors",
+      "type": "T097",
+      "umls_id": "C3812881",
+      "score": 0.993265688419342,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "The writer of a book, article, or other text."
+    },
+    {
+      "text": "reasons",
+      "type": "T078",
+      "umls_id": "C0392360",
+      "score": 0.9860044717788696,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "An explanation of the cause of some phenomenon or action."
+    }
+  ]
+}

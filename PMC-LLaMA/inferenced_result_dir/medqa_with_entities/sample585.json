@@ -1,0 +1,345 @@
+{
+  "original_data": {
+    "question": "A 55-year-old man is brought to the emergency department 12 hours after the sudden onset of shortness of breath and substernal chest pain at rest; the pain is increased by inspiration. He has also had a nonproductive cough, fever, and malaise for the past 5 days. He does not smoke or use illicit drugs. His temperature is 38°C (100.4°F), pulse is 125/min, respirations are 32/min, and blood pressure is 85/45 mm Hg. Physical examination shows distended neck veins. Auscultation of the chest discloses bilateral basilar rales and muffled heart sounds. An ECG shows sinus tachycardia, diffuse ST segment elevation, low voltage QRS complexes, and fluctuating R wave amplitude. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Kawasaki disease",
+      "B": "Rheumatic fever",
+      "C": "Infective endocarditis",
+      "D": "Cardiac tamponade"
+    }
+  },
+  "model_response": "The clinical manifestations of cardiac tamponade are the result of reduced cardiac output and increased venous pressure. The most common causes of tamponade are neoplastic disease, idiopathic pericarditis, and renal failure. The accumulation of fluid in the pericardial space can be slow, allowing time for the development of a thickened, fibrotic pericardium that can accommodate 2 L of fluid without causing tamponade. In this case, the rapid accumulation of fluid in a previously normal pericardium results in acute tamponade. The characteristic ECG changes of tamponade include low voltage QRS complexes and fluctuating R wave amplitude. The diffuse ST segment elevation and the tachycardia are secondary to tamponade. Kawasaki disease is an acute febrile illness that occurs predominantly in children and young adults; it is characterized by nonsuppurative cervical adenitis and changes in the skin and mucous membranes such as edema; congested conjunctivae; erythema of the oral cavity, lips, and palms; and desquamation of the skin of the fingeips. The illness is often complicated by coronary artery aneurysms. Rheumatic fever is an acute, immunologically mediated, multisystem inflammatory disease that occurs after group A b-hemolytic streptococcal infections. The most serious complication is carditis, which may be manifested by intermittent fever, ahralgias, and a new heart murmur. Infective endocarditis is an infection of the endocardium that is usually caused by bacteria; it may occur on previously normal valves, but more often it occurs in the setting of preexisting valvular heart disease. The clinical manifestations include fever, ahralgias, and a new heart murmur.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department 12 hours",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.8319216370582581,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "sudden onset",
+      "type": "T170",
+      "umls_id": "C1272517",
+      "score": 0.9585756063461304,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "substernal chest pain",
+      "type": "T184",
+      "umls_id": "C0151826",
+      "score": 0.9822160005569458,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rest",
+      "type": "T056",
+      "umls_id": "C0035253",
+      "score": 0.9951050877571106,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Freedom from activity."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "inspiration",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9656476974487305,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "nonproductive cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9491277933120728,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "illicit drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.9839807748794556,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "neck veins",
+      "type": "T023",
+      "umls_id": "C0226542",
+      "score": 0.9874321222305298,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "chest discloses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "basilar rales",
+      "type": "T033",
+      "umls_id": "C0240859",
+      "score": 0.9863897562026978,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation only in the bases of the lungs. They indicate inflammation, fluid, or infection in the air sacs of the lung."
+    },
+    {
+      "text": "muffled heart sounds",
+      "type": "T033",
+      "umls_id": "C0425614",
+      "score": 0.9583259224891663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "sinus tachycardia",
+      "type": "T047",
+      "umls_id": "C0039239",
+      "score": 0.9745782017707825,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Simple rapid heartbeats caused by rapid discharge of impulses from the SINOATRIAL NODE, usually between 100 and 180 beats/min in adults. It is characterized by a gradual onset and termination. Sinus tachycardia is common in infants, young children, and adults during strenuous physical activities."
+    },
+    {
+      "text": "ST",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "segment elevation",
+      "type": "T033",
+      "umls_id": "C0520886",
+      "score": 0.9142675399780273,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An electrocardiographic finding of ST segment elevation above the baseline."
+    },
+    {
+      "text": "low voltage QRS",
+      "type": "T033",
+      "umls_id": "C2349945",
+      "score": 0.9609128832817078,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An electrocardiographic finding of a QRS amplitude less than or equal to 0.5 mV in the limb leads or QRS amplitude less than or equal to 1 mV in the precordial leads. (CDISC)"
+    },
+    {
+      "text": "fluctuating R wave amplitude",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

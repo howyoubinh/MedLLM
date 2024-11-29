@@ -1,0 +1,362 @@
+{
+  "original_data": {
+    "question": "A 55-year-old truck driver is brought to a physician by his wife. She states that her husband developed a fever and began feeling weak 3 days ago, but has refused medical help. He has been unable to go to work because of his symptoms. The patient has been previously hospitalized for a tricuspid valve replacement surgery 1 year ago and takes aspirin daily. The medical history is also relevant for myocardial infarction 3 years ago and hypertension for the past 10 years, for which he takes lisinopril. His blood pressure is 140/80 mm Hg, the pulse is 82/min, the respirations are 18/minute, and the temperature is 37.2°C (98.9°F). On examination, several hemorrhages are noted on the nail beds of several fingers. Which of the following findings would be most helpful in establishing a diagnosis?",
+    "options": {
+      "A": "Bicuspid valve",
+      "B": "Friable irregular masses attached to the valve",
+      "C": "Papillary muscle rupture",
+      "D": "Annular calcification"
+    }
+  },
+  "model_response": "The presence of papillary muscle rupture would be most helpful in establishing a diagnosis of infective endocarditis in this patient. The rupture of a papillary muscle leads to acute mitral regurgitation and can cause acute heart failure with cardiogenic shock. The other choices are not characteristic of infective endocarditis. A bicuspid valve is a congenital anomaly that predisposes the individual to endocarditis, but the finding of friable irregular masses attached to the valve is more characteristic of non-bacterial thrombotic endocarditis (NBTE), which is usually seen in patients with a hypercoagulable state or a debilitating disease. Annular calcification is a feature of age-related mitral valve degeneration and is not specific for infective endocarditis. Vegetations are the characteristic lesions of infective endocarditis, but the finding of friable irregular masses attached to the valve is more characteristic of NBTE.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "truck",
+      "type": "T073",
+      "umls_id": "C0557776",
+      "score": 0.9714018702507019,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "driver",
+      "type": "T098",
+      "umls_id": "C0684312",
+      "score": 0.9752979874610901,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "weak",
+      "type": "T080",
+      "umls_id": "C1762617",
+      "score": 0.9965013265609741,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having strength, power, or intensity less than average or expected."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "refused medical help",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hospitalized",
+      "type": "T033",
+      "umls_id": "C0701159",
+      "score": 0.9830934405326843,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tricuspid valve replacement surgery",
+      "type": "T061",
+      "umls_id": "C0190119",
+      "score": 0.867526113986969,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgery performed with the purpose of replacing a degenerated, calcified, malformed, dysfunctional, etc. tricuspid valve with bioprosthetic, homograft or autograft valve."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "myocardial infarction",
+      "type": "T047",
+      "umls_id": "C0027051",
+      "score": 0.952881395816803,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "NECROSIS of the MYOCARDIUM caused by an obstruction of the blood supply to the heart (CORONARY CIRCULATION)."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "His blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.8905147314071655,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "18/minute",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hemorrhages",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9853298664093018,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "nail beds",
+      "type": "T023",
+      "umls_id": "C0221997",
+      "score": 0.986993134021759,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fingers",
+      "type": "T023",
+      "umls_id": "C0016129",
+      "score": 0.990062415599823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Four or five slender jointed digits in humans and primates, attached to each HAND."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

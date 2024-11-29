@@ -1,0 +1,251 @@
+{
+  "original_data": {
+    "question": "A 24-year-old woman comes to the physician’s office with concerns about a recent pregnancy. She and her boyfriend had intercourse for the first time a few weeks ago. Two weeks ago she missed her menstrual period. She took several over the counter pregnancy tests that confirmed her pregnancy. She is tearful about the pregnancy and is very concerned. After extensive conversations with her physician and counseling, she decides she wants to medically abort her 6-week pregnancy. Which of the following drugs should be administered to this patient for this purpose?",
+    "options": {
+      "A": "Tamoxifen",
+      "B": "Terbutaline",
+      "C": "Mifepristone",
+      "D": "Copper intrauterine device"
+    }
+  },
+  "model_response": "The correct answer is Mifepristone. This medication is a progesterone receptor antagonist that is used for medical abortion. The medication is given orally and after 48 hours the patient takes Misoprostol which is a prostaglandin analogue. This medication is given orally or intravaginally and causes uterine contractions that aid in expulsion of the products of conception. Tamoxifen is a medication used in the treatment of breast cancer. It is a selective estrogen receptor modulator. Terbutaline is a medication that is used for preterm labor. It is a beta-2 adrenergic agonist. The Copper T is an intrauterine device that is used for long-term reversible birth control. It is not used for medical abortion.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician’s office",
+      "type": "T073",
+      "umls_id": "C0031834",
+      "score": 0.957046389579773,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "The room or rooms in which the physician and staff provide patient care. The offices include all rooms in the physician's office suite."
+    },
+    {
+      "text": "concerns",
+      "type": "T170",
+      "umls_id": "C3641842",
+      "score": 0.8830092549324036,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An answer indicative of no worries."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "boyfriend",
+      "type": "T098",
+      "umls_id": "C0521319",
+      "score": 0.9161818623542786,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A boy or man who is the lover of a girl or woman."
+    },
+    {
+      "text": "intercourse",
+      "type": "T040",
+      "umls_id": "C0009253",
+      "score": 0.9695603847503662,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sexual union of a male and a female, a term used for human only."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "counter pregnancy tests",
+      "type": "T060",
+      "umls_id": "C0032976",
+      "score": 0.801647424697876,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tests to determine whether or not an individual is pregnant."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "extensive",
+      "type": "T080",
+      "umls_id": "C0205231",
+      "score": 0.9903686046600342,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Large in quantity, range, or spatial extent."
+    },
+    {
+      "text": "conversations",
+      "type": "T054",
+      "umls_id": "C0871703",
+      "score": 0.9629482626914978,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "counseling",
+      "type": "T058",
+      "umls_id": "C0010210",
+      "score": 0.9811550974845886,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The giving of advice and assistance to individuals with educational or personal problems."
+    },
+    {
+      "text": "decides",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "wants",
+      "type": "T204",
+      "umls_id": "C0003455",
+      "score": 0.7134813070297241,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "Insects of the family Formicidae, very common and widespread, probably the most successful of all the insect groups. All ants are social insects, and most colonies contain three castes, queens, males, and workers. Their habits are often very elaborate and a great many studies have been made of ant behavior. Ants produce a number of secretions that function in offense, defense, and communication. (From Borror, et al., An Introduction to the Study of Insects, 4th ed, p676)"
+    },
+    {
+      "text": "abort",
+      "type": "T169",
+      "umls_id": "C1611646",
+      "score": 0.9943481683731079,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

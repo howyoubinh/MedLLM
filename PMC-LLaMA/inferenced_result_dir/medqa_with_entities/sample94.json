@@ -1,0 +1,378 @@
+{
+  "original_data": {
+    "question": "A 24-year-old man is brought to the emergency department 15 minutes after he sustained a stab wound to the left chest just below the clavicle. On arrival, he has rapid, shallow breathing and appears anxious. His pulse is 135/min, respirations are 30/min and shallow, and palpable systolic blood pressure is 80 mm Hg. He is intubated and mechanically ventilated. Infusion of 0.9% saline is begun. Five minutes later, his pulse is 133/min and blood pressure is 82/45 mm Hg. Examination shows no active external bleeding. There is a 2.5-cm single stab wound to the left chest at the 4th intercostal space at the midclavicular line. Cardiovascular examination shows muffled heart sounds and jugular venous distention. Breath sounds are normal. Further evaluation of this patient is most likely to show which of the following findings?",
+    "options": {
+      "A": "Tracheal deviation toward the right side",
+      "B": "Hemoptysis",
+      "C": "A drop in systolic blood pressure of 14 mmHg during inspiration",
+      "D": "Paradoxical motion of part of the chest with breathing\n\""
+    }
+  },
+  "model_response": "{'A': 'Tracheal deviation toward the right side', 'B': 'Hemoptysis', 'C': 'A drop in systolic blood pressure of 14 mmHg during inspiration', 'D': 'Paradoxical motion of part of the chest with breathing\\n\"'}\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "sustained",
+      "type": "T169",
+      "umls_id": "C0443318",
+      "score": 0.9774273037910461,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stab",
+      "type": "T037",
+      "umls_id": "C0418391",
+      "score": 0.9907931089401245,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wound",
+      "type": "T037",
+      "umls_id": "C0043250",
+      "score": 0.9788071513175964,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "bodily injury caused by physical means, with disruption of the normal continuity of structures."
+    },
+    {
+      "text": "left chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.7401260733604431,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "clavicle",
+      "type": "T023",
+      "umls_id": "C0008913",
+      "score": 0.9903795123100281,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A bone on the ventral side of the shoulder girdle, which in humans is commonly called the collar bone."
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "shallow breathing",
+      "type": "T184",
+      "umls_id": "C0221161",
+      "score": 0.9883038997650146,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "shallow",
+      "type": "T033",
+      "umls_id": "C4698035",
+      "score": 0.9926853775978088,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "systolic blood pressure",
+      "type": "T201",
+      "umls_id": "C0488055",
+      "score": 0.9900684356689453,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intubated",
+      "type": "T033",
+      "umls_id": "C4698386",
+      "score": 0.9586788415908813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mechanically ventilated",
+      "type": "T061",
+      "umls_id": "C0199470",
+      "score": 0.8301063776016235,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A method to mechanically assist or replace spontaneous breathing in patients by use of a powered device that forces oxygenated air into the lungs."
+    },
+    {
+      "text": "Infusion",
+      "type": "T061",
+      "umls_id": "C0574032",
+      "score": 0.9552825093269348,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Any form of treatment that is introduced into the body via a blood vessel, a muscle, or the spinal cord."
+    },
+    {
+      "text": "saline",
+      "type": "T121",
+      "umls_id": "C0036082",
+      "score": 0.989200234413147,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A crystalloid solution that contains 9.0g of SODIUM CHLORIDE per liter of water. It has a variety of uses, including: as a CONTACT LENS SOLUTION, in OPHTHALMIC SOLUTIONS and NASAL LAVAGE, in wound irrigation, and for FLUID THERAPY."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "stab",
+      "type": "T037",
+      "umls_id": "C0418391",
+      "score": 0.9907931089401245,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wound",
+      "type": "T037",
+      "umls_id": "C0043250",
+      "score": 0.9788071513175964,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "bodily injury caused by physical means, with disruption of the normal continuity of structures."
+    },
+    {
+      "text": "left chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.7401260733604431,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "4th intercostal space",
+      "type": "T030",
+      "umls_id": "C0230136",
+      "score": 0.887347936630249,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Space of compartment of trunk bounded by the upper and lower surfaces of two consecutive ribs."
+    },
+    {
+      "text": "midclavicular line",
+      "type": "T029",
+      "umls_id": "C0458098",
+      "score": 0.9353896379470825,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "sense organ found in aquatic vertebrates consisting of cutaneous mechanoreceptors called neuromasts; in advanced species the neuromasts are located in a longitudinal canal; used for detecting prey, obstacle avoidance, and in schooling behavior."
+    },
+    {
+      "text": "Cardiovascular examination",
+      "type": "T058",
+      "umls_id": "C3854344",
+      "score": 0.9708307981491089,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Tests and assessments pertaining to the cardiovascular system."
+    },
+    {
+      "text": "muffled heart sounds",
+      "type": "T033",
+      "umls_id": "C0425614",
+      "score": 0.9583259224891663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "jugular",
+      "type": "T023",
+      "umls_id": "C0022427",
+      "score": 0.8375517129898071,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Veins in the neck which drain the brain, face, and neck into the brachiocephalic or subclavian veins."
+    },
+    {
+      "text": "venous distention",
+      "type": "T033",
+      "umls_id": "C0241668",
+      "score": 0.9768679141998291,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Breath sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9867587685585022,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

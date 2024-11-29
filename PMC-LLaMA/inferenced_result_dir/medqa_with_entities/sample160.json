@@ -1,0 +1,485 @@
+{
+  "original_data": {
+    "question": "A 5-year-old boy of African descent is presented to the emergency department by his parents. The child is clutching his abdomen and crying about pain in his belly. His mother reports intermittent episodes of jaundice with joint and bone pain since he was 5 months old. At presentation, the patient’s vital signs are within normal limits. Physical examination reveals slight jaundice and pale conjunctiva. The spleen is tender and easily palpable. After a complete blood count with differential and an abdominal ultrasound, the patient is found to have sickle-cell disease with splenic infarct. A partial splenectomy is performed. After the operation, the physician provides vaccines against Neisseria meningitidis, Haemophilus influenzae, and Streptococcus pneumoniae. The picture shows a slide obtained from the resected portion of the patient’s spleen. Dysfunction of the zone marked with which number predisposes the patient to the aforementioned infections?",
+    "options": {
+      "A": "2 only",
+      "B": "1 only",
+      "C": "1 and 2",
+      "D": "1, 2, and 3"
+    }
+  },
+  "model_response": "The correct answer is D. The patient has sickle-cell disease, which affects the spleen and the RBCs. The spleen is responsible for clearing encapsulated bacteria (eg, pneumococcus, meningococcus, and H influenzae) from the blood. The spleen is also responsible for producing IgM antibodies. The lack of these functions predisposes the patient to the aforementioned infections. The other choices are not related to the function of the spleen. Diagnosis: Sickle-cell disease\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "African descent",
+      "type": "T098",
+      "umls_id": "C0422771",
+      "score": 0.7291235327720642,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Denotes a person of African ancestral origins whose family settled in the Caribbean region."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "clutching",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "crying",
+      "type": "T055",
+      "umls_id": "C0010399",
+      "score": 0.9587244987487793,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To utter an inarticulate, characteristic sound in order to communicate or express a feeling, or desire for attention."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "belly",
+      "type": "T023",
+      "umls_id": "C0224086",
+      "score": 0.9835448861122131,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Region of organ component of muscle betwen the head of muscle and distal part of muscle."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "jaundice with",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.7735992670059204,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "joint",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9836658835411072,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "bone pain",
+      "type": "T184",
+      "umls_id": "C0151825",
+      "score": 0.9806250929832458,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the bones."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "patient’s vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.7892900109291077,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "conjunctiva",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.9722147583961487,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "spleen",
+      "type": "T023",
+      "umls_id": "C0037993",
+      "score": 0.95802241563797,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An encapsulated lymphatic organ through which venous blood filters."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "palpable",
+      "type": "T080",
+      "umls_id": "C0522499",
+      "score": 0.9560360908508301,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Capable of being handled or touched or felt."
+    },
+    {
+      "text": "blood count",
+      "type": "T059",
+      "umls_id": "C0005771",
+      "score": 0.8614948391914368,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of LEUKOCYTES and ERYTHROCYTES per unit volume in a sample of venous BLOOD. A complete blood count (CBC) also includes measurement of the HEMOGLOBIN; HEMATOCRIT; and ERYTHROCYTE INDICES."
+    },
+    {
+      "text": "differential",
+      "type": "T080",
+      "umls_id": "C0443199",
+      "score": 0.971472978591919,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdominal ultrasound",
+      "type": "T060",
+      "umls_id": "C2348813",
+      "score": 0.9747382998466492,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A method of ultrasound imaging in which the ultrasound probe is pressed against the skin of the abdomen in order to create an image of the abdominal organs."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "sickle-cell disease",
+      "type": "T047",
+      "umls_id": "C0002895",
+      "score": 0.97007817029953,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease characterized by chronic hemolytic anemia, episodic painful crises, and pathologic involvement of many organs. It is the clinical expression of homozygosity for hemoglobin S."
+    },
+    {
+      "text": "splenic infarct",
+      "type": "T047",
+      "umls_id": "C0037998",
+      "score": 0.9593555331230164,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Insufficiency of arterial or venous blood supply to the spleen due to emboli, thrombi, vascular torsion, or pressure that produces a macroscopic area of necrosis. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "partial splenectomy",
+      "type": "T061",
+      "umls_id": "C0193997",
+      "score": 0.9794568419456482,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "operation",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9866542220115662,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "vaccines",
+      "type": "T116",
+      "umls_id": "C0042210",
+      "score": 0.9808231592178345,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa), antigenic proteins, synthetic constructs, or other bio-molecular derivatives, administered for the prevention, amelioration, or treatment of infectious and other diseases."
+    },
+    {
+      "text": "Neisseria meningitidis",
+      "type": "T007",
+      "umls_id": "C0027575",
+      "score": 0.9727660417556763,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A species of gram-negative, aerobic BACTERIA. It is a commensal and pathogen only of humans, and can be carried asymptomatically in the NASOPHARYNX. When found in cerebrospinal fluid it is the causative agent of cerebrospinal meningitis (MENINGITIS, MENINGOCOCCAL). It is also found in venereal discharges and blood. There are at least 13 serogroups based on antigenic differences in the capsular polysaccharides; the ones causing most meningitis infections being A, B, C, Y, and W-135. Each serogroup can be further classified by serotype, serosubtype, and immunotype."
+    },
+    {
+      "text": "Haemophilus influenzae",
+      "type": "T007",
+      "umls_id": "C0018483",
+      "score": 0.9730981588363647,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A species of HAEMOPHILUS found on the mucous membranes of humans and a variety of animals. The species is further divided into biotypes I through VIII."
+    },
+    {
+      "text": "Streptococcus pneumoniae",
+      "type": "T007",
+      "umls_id": "C0038410",
+      "score": 0.984706699848175,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A gram-positive organism found in the upper respiratory tract, inflammatory exudates, and various body fluids of normal and/or diseased humans and, rarely, domestic animals."
+    },
+    {
+      "text": "picture",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9875263571739197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "slide",
+      "type": "T073",
+      "umls_id": "C1705201",
+      "score": 0.961337149143219,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A flat rectangular piece of glass on which specimens can be mounted for microscopic study."
+    },
+    {
+      "text": "resected",
+      "type": "T061",
+      "umls_id": "C0015252",
+      "score": 0.9864831566810608,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The surgical removal of an organ or a part of an organ."
+    },
+    {
+      "text": "portion",
+      "type": "T082",
+      "umls_id": "C0449719",
+      "score": 0.976689338684082,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "One of the portions into which something is regarded as divided and which together constitute a whole."
+    },
+    {
+      "text": "patient’s spleen",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Dysfunction",
+      "type": "T169",
+      "umls_id": "C0031847",
+      "score": 0.9437708854675293,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs and diseases for disordered function in disease states."
+    },
+    {
+      "text": "zone",
+      "type": "T082",
+      "umls_id": "C1710706",
+      "score": 0.9554620981216431,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "An area or region distinguished from adjacent parts by a distinctive feature or characteristic."
+    },
+    {
+      "text": "predisposes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "aforementioned infections",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "5-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

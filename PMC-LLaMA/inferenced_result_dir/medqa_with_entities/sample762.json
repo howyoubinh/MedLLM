@@ -1,0 +1,194 @@
+{
+  "original_data": {
+    "question": "A 57-year-old man presents to his primary care physician for follow-up of his diabetes. He was diagnosed with type 2 diabetes 3 months ago and has been started on metformin and lifestyle modifications. The patient does not have any current complaints except for occasional numbness in both hands and feet. His HbA1C is 8.5% and serum glucose is 240 mg/dL. Which of the following is the best next step in this patient’s condition?",
+    "options": {
+      "A": "Start basal-bolus insulin",
+      "B": "Continue metformin monotherapy",
+      "C": "Add a sulfonylurea",
+      "D": "Add a thiazolidinedione"
+    }
+  },
+  "model_response": "The patient’s HbA1C of 8.5% indicates poor glycemic control and the need for additional therapy. The patient’s symptoms of numbness are likely a result of hyperglycemia. Therefore, the best next step in this patient’s condition would be to add a second medication to his treatment regimen. Since he has only been on his current regimen for 3 months, it would be reasonable to wait before starting basal-bolus insulin or switching to an alternative oral medication. Therefore, option B, continuing metformin monotherapy, is the best choice.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "type 2 diabetes 3 months",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.7939685583114624,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "lifestyle",
+      "type": "T054",
+      "umls_id": "C0023676",
+      "score": 0.9781678318977356,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "Typical way of life or manner of living characteristic of an individual or group. (From APA, Thesaurus of Psychological Index Terms, 8th ed)"
+    },
+    {
+      "text": "modifications",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.8755733370780945,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "occasional numbness",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.7168658971786499,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "HbA1C",
+      "type": "T116",
+      "umls_id": "C0019018",
+      "score": 0.9943989515304565,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Products of non-enzymatic reactions between GLUCOSE and HEMOGLOBIN A, occurring as a minor fraction of the hemoglobin components of human erythrocytes. Hemoglobin A1c is hemoglobin A with glucose covalently bound to the terminal VALINE of the beta chain. Glycated hemoglobin A is used as an index of the average blood sugar level over a lifetime of erythrocytes."
+    },
+    {
+      "text": "serum glucose",
+      "type": "T059",
+      "umls_id": "C0202041",
+      "score": 0.9888039827346802,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of glucose present in a sample of serum."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "57-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

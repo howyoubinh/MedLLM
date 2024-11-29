@@ -1,0 +1,314 @@
+{
+  "original_data": {
+    "question": "A 47-year-old female presents to her primary physician for follow up after an ED visit for nephrolithiasis 1 week prior. CT scan in the ED revealed a 4-mm stone occluding the right ureter. She was able to pass the stone without assistance over the course of 5 hours. Pathology report on the stone states it was composed of calcium oxalate. She says that the pain of passing the stone was excruciating and asks how she can prevent kidney stones in the future. Which of the following interventions is most likely to prevent renal calculi formation in the future for this patient?",
+    "options": {
+      "A": "Decreasing calcium intake",
+      "B": "Decreasing sodium intake",
+      "C": "Increasing consumption of nuts and seeds",
+      "D": "Urine acidification with cranberry juice"
+    }
+  },
+  "model_response": "This patient's stone was composed of calcium oxalate, which comprises approximately 80% of all kidney stones. Dietary measures are recommended to prevent future stone formation. The most effective dietary intervention for preventing calcium oxalate stones is restricting dietary oxalate. Sources of oxalate include rhubarb, spinach, strawberries, chocolate, peanuts, and almonds. Therefore, decreasing calcium intake (Option A) would actually increase oxalate absorption and increase the risk of stone formation. Decreasing sodium intake (Option B) would decrease the amount of calcium in the urine, which would decrease the likelihood of stone formation. Increasing consumption of nuts and seeds (Option C) would actually increase oxalate intake and increase the risk of stone formation. Urine acidification with cranberry juice (Option D) would increase the likelihood of stone formation.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary physician",
+      "type": "T097",
+      "umls_id": "C1508823",
+      "score": 0.9923287034034729,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ED",
+      "type": "T047",
+      "umls_id": "C0242350",
+      "score": 0.953866720199585,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "nephrolithiasis 1 week",
+      "type": "T047",
+      "umls_id": "C0022650",
+      "score": 0.854804277420044,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Stones in the KIDNEY, usually formed in the urine-collecting area of the kidney (KIDNEY PELVIS). Their sizes vary and most contains CALCIUM OXALATE."
+    },
+    {
+      "text": "prior",
+      "type": "T079",
+      "umls_id": "C0332152",
+      "score": 0.9819955825805664,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Earlier in time or order."
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "ED",
+      "type": "T047",
+      "umls_id": "C0242350",
+      "score": 0.953866720199585,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction."
+    },
+    {
+      "text": "stone",
+      "type": "T031",
+      "umls_id": "C0006736",
+      "score": 0.984788715839386,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "An abnormal concretion occurring mostly in the urinary and biliary tracts, usually composed of mineral salts. Also called stones."
+    },
+    {
+      "text": "right ureter",
+      "type": "T023",
+      "umls_id": "C0227682",
+      "score": 0.9855768084526062,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The ureter connecting the right kidney to the bladder."
+    },
+    {
+      "text": "stone",
+      "type": "T031",
+      "umls_id": "C0006736",
+      "score": 0.984788715839386,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "An abnormal concretion occurring mostly in the urinary and biliary tracts, usually composed of mineral salts. Also called stones."
+    },
+    {
+      "text": "assistance",
+      "type": "T054",
+      "umls_id": "C0018896",
+      "score": 0.9982620477676392,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "Behaviors associated with the giving of assistance or aid to individuals."
+    },
+    {
+      "text": "course",
+      "type": "T079",
+      "umls_id": "C0750729",
+      "score": 0.9768689870834351,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Passage through time; duration; a systematic or/and orderly succession; a sequence, e.g. course of treatment; a mode of action or behavior; natural development, typical manner of proceeding."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "Pathology report",
+      "type": "T170",
+      "umls_id": "C0807321",
+      "score": 0.9908676147460938,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A report that provides a description of the gross and microscopic examination of the specimen and is used to make a diagnosis and to determine treatment. It defines which structures and organs of the body are involved by the tumor, verifies the primary site of the cancer and describes the extent to which it has spread."
+    },
+    {
+      "text": "stone",
+      "type": "T031",
+      "umls_id": "C0006736",
+      "score": 0.984788715839386,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "An abnormal concretion occurring mostly in the urinary and biliary tracts, usually composed of mineral salts. Also called stones."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "calcium",
+      "type": "T121",
+      "umls_id": "C0006675",
+      "score": 0.9657427072525024,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "A basic element found in nearly all tissues. It is a member of the alkaline earth family of metals with the atomic symbol Ca, atomic number 20, and atomic weight 40. Calcium is the most abundant mineral in the body and combines with phosphorus to form calcium phosphate in the bones and teeth. It is essential for the normal functioning of nerves and muscles and plays a role in blood coagulation (as factor IV) and in many enzymatic processes."
+    },
+    {
+      "text": "oxalate",
+      "type": "T109",
+      "umls_id": "C0029988",
+      "score": 0.9660443663597107,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Derivatives of OXALIC ACID. Included under this heading are a broad variety of acid forms, salts, esters, and amides that are derived from the ethanedioic acid structure."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "passing",
+      "type": "T184",
+      "umls_id": "C0016204",
+      "score": 0.7892358303070068,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Production or presence of gas in the gastrointestinal tract which may be expelled through the anus."
+    },
+    {
+      "text": "stone",
+      "type": "T031",
+      "umls_id": "C0006736",
+      "score": 0.984788715839386,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "An abnormal concretion occurring mostly in the urinary and biliary tracts, usually composed of mineral salts. Also called stones."
+    },
+    {
+      "text": "excruciating",
+      "type": "T080",
+      "umls_id": "C4055051",
+      "score": 0.9524596929550171,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Intensely painful."
+    },
+    {
+      "text": "kidney stones",
+      "type": "T047",
+      "umls_id": "C0022650",
+      "score": 0.9754000902175903,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Stones in the KIDNEY, usually formed in the urine-collecting area of the kidney (KIDNEY PELVIS). Their sizes vary and most contains CALCIUM OXALATE."
+    },
+    {
+      "text": "future",
+      "type": "T079",
+      "umls_id": "C0016884",
+      "score": 0.9395012855529785,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time that is yet to come."
+    },
+    {
+      "text": "interventions",
+      "type": "T058",
+      "umls_id": "C0886296",
+      "score": 0.9759423732757568,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "investigations by nurses designed to test a hypothesized cause effect relation by modifying the supposed causal factor in the study population."
+    },
+    {
+      "text": "renal calculi",
+      "type": "T047",
+      "umls_id": "C0022650",
+      "score": 0.9617006182670593,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Stones in the KIDNEY, usually formed in the urine-collecting area of the kidney (KIDNEY PELVIS). Their sizes vary and most contains CALCIUM OXALATE."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "47-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

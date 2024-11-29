@@ -1,0 +1,351 @@
+{
+  "original_data": {
+    "question": "A 62-year-old man comes to the physician because of worsening involuntary movements of both arms for the past 7 months. He reports that certain daily activities have become more difficult to perform. His father had a similar condition that was treated with medications. The patient appears anxious. Vital signs are within normal limits. Examination shows a low-amplitude tremor bilaterally when the arms are outstretched that worsens when reaching out to grab a pen. Muscle strength and tone is normal bilaterally. Deep tendon reflexes are 2+ bilaterally. On mental status examination, his mood is good. His speech is normal in rate and rhythm. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Deep brain stimulation",
+      "B": "Thalamotomy",
+      "C": "Levodopa and carbidopa therapy",
+      "D": "Propranolol therapy"
+    }
+  },
+  "model_response": "The clinical vignette describes a case of essential tremor, which is the most common movement disorder. The condition is usually familial and is characterized by a low-frequency tremor (5-8 Hz) that is most prominent in the upper extremities when they are in a position of postural maintenance or action. The condition is generally bilateral and symmetric. The differential diagnosis includes dystonic cranial-cervical tremor, which is usually a manifestation of a basal ganglia lesion, and physiologic tremor, which is generally higher in frequency (8-12 Hz) and is usually exacerbated by anxiety. Essential tremor is generally responsive to beta blockers, but the degree of improvement is highly variable. Levodopa is generally not effective. Thalamotomy and deep brain stimulation are reserved for severe, drug-resistant cases.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "involuntary",
+      "type": "T077",
+      "umls_id": "C2986385",
+      "score": 0.980906069278717,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": null
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "daily activities",
+      "type": "T056",
+      "umls_id": "C0871707",
+      "score": 0.9752006530761719,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": null
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "low-amplitude tremor",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "worsens",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9901487231254578,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pen",
+      "type": "T109",
+      "umls_id": "C0070220",
+      "score": 0.9987946152687073,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic derivative of pyrimidine with antineoplastic activity. Penclomedine alkylates and crosslinks DNA, resulting in DNA strand breaks and inhibition of DNA and RNA synthesis. This agent is more active against tumor cells that are defective in p53 function. (NCI04)"
+    },
+    {
+      "text": "Muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.9795353412628174,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "tone",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Deep tendon reflexes",
+      "type": "T201",
+      "umls_id": "C0489815",
+      "score": 0.9582180380821228,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Contraction of a muscle triggered by a signal from a muscle spindle in response to a stimulus applied to a specific trigger point on the body. The strength of the response can provide insight into central and peripheral nerve performance."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "mood",
+      "type": "T041",
+      "umls_id": "C0026516",
+      "score": 0.976134181022644,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A relatively temporary state of feeling."
+    },
+    {
+      "text": "His speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.771579384803772,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "rhythm",
+      "type": "T033",
+      "umls_id": "C0871269",
+      "score": 0.9861499667167664,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

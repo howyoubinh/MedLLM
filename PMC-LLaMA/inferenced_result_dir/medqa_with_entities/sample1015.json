@@ -1,0 +1,262 @@
+{
+  "original_data": {
+    "question": "A 2-year-old girl is brought in to the office by her parents. They state that their daughter has recently been more irritable than usual, and she occasionally becomes pale and blue. Her parents note that she was diagnosed with a heart murmur, but it was never treated. Physical examination reveals a small child in distress. She is laying on the examination table with her knees drawn to her chest. Cardiac auscultation reveals a harsh, systolic ejection murmur that is best heard at the upper left sternal border. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Tetralogy of Fallot",
+      "B": "Transposition of great vessels",
+      "C": "Pulmonary hypoplasia",
+      "D": "Atrial septal defect"
+    }
+  },
+  "model_response": "This patient most likely has tetralogy of Fallot, which is the most common cyanotic congenital heart defect. It is characterized by four anatomical changes: pulmonary stenosis, ventricular septal defect, overriding aorta, and right ventricular hypertrophy. The cyanosis that develops in these patients is due to a combination of decreased pulmonary blood flow and mixing of oxygenated and deoxygenated blood in the left ventricle.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "usual",
+      "type": "T080",
+      "umls_id": "C3538928",
+      "score": 0.949625551700592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "That which is considered customary."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "blue",
+      "type": "T080",
+      "umls_id": "C1260957",
+      "score": 0.9847831130027771,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The hue of that portion of the visible spectrum lying between green and indigo, evoked in the human observer by radiant energy with wavelengths of approximately 420 to 490 nanometers; any of a group of colors that may vary in lightness and saturation, whose hue is that of a clear daytime sky."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "heart murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9799702763557434,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "distress",
+      "type": "T041",
+      "umls_id": "C0231303",
+      "score": 0.9963557124137878,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of physiological or psychological stress that cannot be compensated for by normal adaptive measures."
+    },
+    {
+      "text": "knees",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9716548919677734,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "Cardiac auscultation",
+      "type": "T060",
+      "umls_id": "C0018793",
+      "score": 0.9719285368919373,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the heart."
+    },
+    {
+      "text": "harsh",
+      "type": "T033",
+      "umls_id": "C4068826",
+      "score": 0.9746283888816833,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A heart murmur that has an auditory quality in which the flow sounds highly turbulent."
+    },
+    {
+      "text": "systolic ejection",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7026140689849854,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "upper left sternal border",
+      "type": "T184",
+      "umls_id": "C5238649",
+      "score": 0.747838020324707,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The location of the chest pain is along the left upper border of the sternum."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "2-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

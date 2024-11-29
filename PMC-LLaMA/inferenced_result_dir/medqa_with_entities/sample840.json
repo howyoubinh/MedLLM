@@ -1,0 +1,132 @@
+{
+  "original_data": {
+    "question": "Candida is injected into the skin of a 38-year-old female patient. Forty-eight hours later, there is a 14 mm raised, slightly hardened area at the injection site. What type of hypersensitivity reaction has occurred and what cell type plays a role?",
+    "options": {
+      "A": "Type I hypersensitivty; eosinophils",
+      "B": "Type IV hypersensitivity; mast cells",
+      "C": "Type III hypersensitivity; CD4+ T cells",
+      "D": "Type IV hypersensitivity; CD4+ T cells"
+    }
+  },
+  "model_response": "{'A': 'Type I hypersensitivty; eosinophils' is the correct answer.}\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Candida",
+      "type": "T004",
+      "umls_id": "C0006836",
+      "score": 0.9834083914756775,
+      "semantic_types": [
+        "T004"
+      ],
+      "definition": "A genus of yeast-like mitosporic Saccharomycetales fungi characterized by producing yeast cells, mycelia, pseudomycelia, and blastophores. It is commonly part of the normal flora of the skin, mouth, intestinal tract, and vagina, but can cause a variety of infections, including CANDIDIASIS; ONYCHOMYCOSIS; VULVOVAGINAL CANDIDIASIS; and CANDIDIASIS, ORAL (THRUSH)."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Forty-eight hours",
+      "type": "T079",
+      "umls_id": "C1275553",
+      "score": 0.8701165914535522,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "To be done at regular intervals of every 48 hours."
+    },
+    {
+      "text": "hardened",
+      "type": "T033",
+      "umls_id": "C0702118",
+      "score": 0.9861679673194885,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "area",
+      "type": "T083",
+      "umls_id": "C0017446",
+      "score": 0.9954435229301453,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "The continents and countries situated on those continents; the UNITED STATES and each of the constituent states arranged by region; CANADA and each of its provinces; AUSTRALIA and each of its states; the major bodies of water and major islands on both hemispheres; and selected major cities."
+    },
+    {
+      "text": "injection site",
+      "type": "T037",
+      "umls_id": "C0221208",
+      "score": 0.9734974503517151,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hypersensitivity reaction",
+      "type": "T046",
+      "umls_id": "C0020517",
+      "score": 0.979861319065094,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen."
+    },
+    {
+      "text": "occurred",
+      "type": "T052",
+      "umls_id": "C1709305",
+      "score": 0.9877275824546814,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Come to pass."
+    },
+    {
+      "text": "cell type",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9947261810302734,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

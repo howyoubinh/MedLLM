@@ -1,0 +1,424 @@
+{
+  "original_data": {
+    "question": "A 27-year-old man presents to the emergency room complaining of left shoulder pain for several weeks. He says that the pain often worsens when he tries to sleep on his left side. Although he tried several pain medications, none of the pain medications helped. He is an amateur tennis player who practices on weekends. He denies any trauma during his practice sessions. On examination of the shoulder joint, severe tenderness was present localized to the greater tuberosity of the left shoulder joint along with biceps tendon tenderness over the bicipital groove. The range of motion was limited to the left side. An X-ray of the joint showed narrowing of the acromiohumeral space with sclerosis and spurring of the acromion. Routine blood test results are normal except for the rheumatoid factor, which is positive. What is the most likely diagnosis?",
+    "options": {
+      "A": "Trauma",
+      "B": "Rheumatoid arthritis",
+      "C": "Osteoarthritis",
+      "D": "Rotator cuff injury"
+    }
+  },
+  "model_response": "This patient's clinical presentation is consistent with a diagnosis of osteoarthritis of the shoulder. Osteoarthritis is a degenerative joint disease that most commonly affects the weight-bearing joints such as the knees, hips, and spine. However, it can also affect the shoulders, especially in patients who overuse their shoulders. In the shoulder, osteoarthritis most commonly affects the shoulder joint, but it can also affect the acromioclavicular joint. The patient's clinical presentation is consistent with osteoarthritis because he has tenderness localized to the greater tuberosity and biceps tendon, along with limited range of motion. The X-ray findings of narrowing of the acromiohumeral space with sclerosis and spurring of the acromion further support the diagnosis of osteoarthritis. The positive rheumatoid factor in this patient is not likely related to the osteoarthritis, as rheumatoid arthritis primarily affects the small joints of the hands and feet. Trauma and rotator cuff injury would likely be associated with a history of injury, which this patient does not have. Rotator cuff injury would also be associated with weakness of shoulder abduction and external rotation, which this patient has.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "left shoulder pain",
+      "type": "T184",
+      "umls_id": "C0241039",
+      "score": 0.974542498588562,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "worsens",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9901487231254578,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tries",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "pain medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8422669172286987,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "pain medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8422669172286987,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "amateur",
+      "type": "T097",
+      "umls_id": "C0681644",
+      "score": 0.9837870597839355,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "player",
+      "type": "T062",
+      "umls_id": "C1879662",
+      "score": 0.7601269483566284,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Summarizes probe sets using the 'player out' statistical algorithm. Defined in the documents available at http://bioconductor.org/packages/1.9/bioc/html/affy.html."
+    },
+    {
+      "text": "practices",
+      "type": "T041",
+      "umls_id": "C0237607",
+      "score": 0.9818465113639832,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weekends",
+      "type": "T079",
+      "umls_id": "C0680190",
+      "score": 0.9821826219558716,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period comprising Saturday and Sunday, and sometimes considered to include Friday night."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "trauma",
+      "type": "T037",
+      "umls_id": "C0043251",
+      "score": 0.9664932489395142,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Damage inflicted on the body as the direct or indirect result of an external force, with or without disruption of structural continuity."
+    },
+    {
+      "text": "practice sessions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "shoulder joint",
+      "type": "T030",
+      "umls_id": "C0037009",
+      "score": 0.9761164784431458,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The articulation between the head of the HUMERUS and the glenoid cavity of the SCAPULA."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "localized",
+      "type": "T082",
+      "umls_id": "C0392752",
+      "score": 0.9746999740600586,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being confined or restricted to a particular location. [HPO:probinson]"
+    },
+    {
+      "text": "tuberosity",
+      "type": "T023",
+      "umls_id": "C1184741",
+      "score": 0.9930313229560852,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left shoulder joint",
+      "type": "T030",
+      "umls_id": "C0818494",
+      "score": 0.9775069952011108,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "biceps tendon",
+      "type": "T023",
+      "umls_id": "C0448540",
+      "score": 0.9781297445297241,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "bicipital groove",
+      "type": "T030",
+      "umls_id": "C0559884",
+      "score": 0.9629361629486084,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "X-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "joint",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9836658835411072,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "narrowing",
+      "type": "T082",
+      "umls_id": "C0332463",
+      "score": 0.9746022820472717,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "acromiohumeral space",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "sclerosis",
+      "type": "T046",
+      "umls_id": "C0036429",
+      "score": 0.99137282371521,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A pathological process consisting of hardening or fibrosis of an anatomical structure, often a vessel or a nerve."
+    },
+    {
+      "text": "spurring",
+      "type": "T190",
+      "umls_id": "C4477019",
+      "score": 0.7080397009849548,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": "A bony projection (spur, osteophyte) originating from the tibia. []"
+    },
+    {
+      "text": "acromion",
+      "type": "T023",
+      "umls_id": "C0001209",
+      "score": 0.9533407092094421,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The lateral extension of the spine of the SCAPULA and the highest point of the SHOULDER."
+    },
+    {
+      "text": "Routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "blood test",
+      "type": "T059",
+      "umls_id": "C0018941",
+      "score": 0.9961088299751282,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Tests used in the analysis of the hemic system."
+    },
+    {
+      "text": "rheumatoid factor",
+      "type": "T116",
+      "umls_id": "C0035448",
+      "score": 0.9754005074501038,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Autoantibodies found in adult RHEUMATOID ARTHRITIS patients that are directed against GAMMA-CHAIN IMMUNOGLOBULINS."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

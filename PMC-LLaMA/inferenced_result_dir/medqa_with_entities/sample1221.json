@@ -1,0 +1,269 @@
+{
+  "original_data": {
+    "question": "A 49-year-old female with a history of alcoholism was found lying unconscious on a bench at a local park and rushed to the emergency department. Upon arrival, the patient regained consciousness and complained of intense bilateral flank pain and a recent decrease in urination. Urine microscopy demonstrated abundant square crystals of calcium oxalate that looked like “folded envelopes.\" Which of the following findings is most likely to be seen in this patient:",
+    "options": {
+      "A": "Anion gap metabolic acidosis",
+      "B": "Non-anion gap metabolic acidosis",
+      "C": "Respiratory acidosis",
+      "D": "Respiratory alkalosis"
+    }
+  },
+  "model_response": "The presence of crystals in the urine suggests that the patient has a stone in the kidney. The stone causes obstruction of urine flow leading to the formation of hydronephrosis. The distended renal pelvis stretches the renal capsule and activates the nerve endings leading to pain. The pain is referred to the flank. The stone also causes obstruction to the flow of urine leading to decreased urine output. The stone is usually made up of calcium oxalate. The most common type of stone is the calcium oxalate stone. The stone is seen in patients with hypercalcemia. Alcoholism is associated with hypercalcemia due to increased production of vitamin D. The increased production of vitamin D is due to increased activity of the enzyme ALP (alkaline phosphatase) which hydrolyzes vitamin D. The increased ALP is due to the effect of alcohol on the liver. The increased ALP leads to increased production of vitamin D leading to hypercalcemia. The hypercalcemia leads to calcium oxalate stones. The metabolic acidosis is due to decreased excretion of hydrogen ions by the kidney. The decreased excretion of hydrogen ions is due to decreased effective arterial blood volume (EABV) caused by the dehydration due to the poor urine output. The decreased EABV leads to decreased glomerular filtration rate (GFR) leading to decreased hydrogen ion excretion. The metabolic acidosis is called an anion gap metabolic acidosis because the acidosis is caused by the accumulation of endogenous acids (hydrogen ions) in the body. The accumulation of hydrogen ions is caused by the decreased excretion of hydrogen ions by the kidney. The accumulation of hydrogen ions is caused by the decreased EABV due to dehydration. The decreased EABV leads to decreased GFR leading to decreased hydrogen ion excretion. The non-anion gap metabolic acidosis is caused by the loss of bicarbonate from the body. The loss of bicarbonate from the body is caused by the poor urine output. The poor urine output leads to decreased excretion of bicarbonate leading to non-anion gap metabolic acidosis. The respiratory acidosis is caused by the accumulation of carbon dioxide in the body due to the decreased respiratory rate. The decreased respiratory rate is caused by the depression of the respiratory center by the alcohol. The respiratory alkalosis is caused by the increased respiratory rate. The increased respiratory rate is caused by the stimulation of the respiratory center by the alcohol.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "alcoholism",
+      "type": "T048",
+      "umls_id": "C0001973",
+      "score": 0.9889821410179138,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A primary, chronic disease with genetic, psychosocial, and environmental factors influencing its development and manifestations. The disease is often progressive and fatal. It is characterized by impaired control over drinking, preoccupation with the drug alcohol, use of alcohol despite adverse consequences, and distortions in thinking, most notably denial. Each of these symptoms may be continuous or periodic. (Morse & Flavin for the Joint Commission of the National Council on Alcoholism and Drug Dependence and the American Society of Addiction Medicine to Study the Definition and Criteria for the Diagnosis of Alcoholism: in JAMA 1992;268:1012-4)"
+    },
+    {
+      "text": "lying",
+      "type": "T082",
+      "umls_id": "C0038846",
+      "score": 0.9385496973991394,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The posture of an individual lying face up."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "bench",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "local park",
+      "type": "T082",
+      "umls_id": "C0205276",
+      "score": 0.7252281308174133,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or belonging to a restricted area or locality."
+    },
+    {
+      "text": "rushed",
+      "type": "T080",
+      "umls_id": "C0443052",
+      "score": 0.9731309413909912,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complained",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7599999308586121,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "decrease",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.9790282249450684,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9745711088180542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "Urine microscopy",
+      "type": "T059",
+      "umls_id": "C0430397",
+      "score": 0.9890297055244446,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abundant",
+      "type": "T080",
+      "umls_id": "C2346714",
+      "score": 0.9752829670906067,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Relative degree of plentifulness."
+    },
+    {
+      "text": "square",
+      "type": "T082",
+      "umls_id": "C0205120",
+      "score": 0.9755367636680603,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A plane rectangle with four equal sides and four right angles; a four-sided regular polygon."
+    },
+    {
+      "text": "crystals",
+      "type": "T031",
+      "umls_id": "C0427896",
+      "score": 0.9867997765541077,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "calcium",
+      "type": "T121",
+      "umls_id": "C0006675",
+      "score": 0.9657427072525024,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "A basic element found in nearly all tissues. It is a member of the alkaline earth family of metals with the atomic symbol Ca, atomic number 20, and atomic weight 40. Calcium is the most abundant mineral in the body and combines with phosphorus to form calcium phosphate in the bones and teeth. It is essential for the normal functioning of nerves and muscles and plays a role in blood coagulation (as factor IV) and in many enzymatic processes."
+    },
+    {
+      "text": "oxalate",
+      "type": "T109",
+      "umls_id": "C0029988",
+      "score": 0.9660443663597107,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Derivatives of OXALIC ACID. Included under this heading are a broad variety of acid forms, salts, esters, and amides that are derived from the ethanedioic acid structure."
+    },
+    {
+      "text": "folded envelopes",
+      "type": "T073",
+      "umls_id": "C4528946",
+      "score": 0.755351722240448,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Flat paper containers used to protect objects or paperwork during storage or transport. Items are placed inside the envelope, which is then typically sealed shut using adhesive or another mechanism that secures the contents inside. Envelopes may be reusable or disposable."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "49-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

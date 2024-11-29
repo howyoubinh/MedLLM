@@ -1,0 +1,400 @@
+{
+  "original_data": {
+    "question": "A 47-year-old man presents with hemoptysis, diffuse muscle pain, and shortness of breath. He has had these symptoms before but did not seek treatment. His past medical history is not known as he is not typically followed by a doctor and is homeless. His temperature is 99.0°F (37.2°C), blood pressure is 154/94 mmHg, pulse is 89/min, respirations are 22/min, and oxygen saturation is 90% on room air. Physical examination is notable for crackles noted in the bases of the lungs bilaterally. Labs values are ordered as seen below.\n\nSerum:\nNa+: 140 mEq/L\nCl-: 103 mEq/L\nK+: 5.8 mEq/L\nHCO3-: 21 mEq/L\nBUN: 33 mg/dL\nGlucose: 129 mg/dL\nCreatinine: 2.6 mg/dL\n\nUrine:\nColor: Amber\nProtein: Positive\nBlood: Positive\n\nWhich of the following is the most appropriate treatment for this patient?",
+    "options": {
+      "A": "Methylprednisolone",
+      "B": "Methylprednisolone and cyclophosphamide",
+      "C": "Methylprednisolone, plasmapheresis, and cyclophosphamide",
+      "D": "Plasmapheresis and cyclophosphamide"
+    }
+  },
+  "model_response": "The patient's clinical presentation is consistent with a diagnosis of Wegener granulomatosis. The patient has clinical findings of renal disease (elevated creatinine), pulmonary disease (bilateral lung infiltrates), and systemic disease (fever, anemia, and elevated ESR). The patient also has a positive urine for blood. The most appropriate treatment for this patient is a combination of methylprednisolone and cyclophosphamide.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "hemoptysis",
+      "type": "T184",
+      "umls_id": "C0019079",
+      "score": 0.9599552750587463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Expectoration or spitting of blood originating from any part of the RESPIRATORY TRACT, usually from hemorrhage in the lung parenchyma (PULMONARY ALVEOLI) and the BRONCHIAL ARTERIES."
+    },
+    {
+      "text": "diffuse muscle pain",
+      "type": "T184",
+      "umls_id": "C0231528",
+      "score": 0.7557605504989624,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the muscles."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "doctor",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.985679030418396,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "homeless",
+      "type": "T098",
+      "umls_id": "C0019863",
+      "score": 0.9968299269676208,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons without adequate housing or without permanent residence. The concept excludes nomadic peoples."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "bases",
+      "type": "T120",
+      "umls_id": "C0178499",
+      "score": 0.9777577519416809,
+      "semantic_types": [
+        "T120"
+      ],
+      "definition": "A substance that dissociates to give hydroxide ions in aqueous solutions; a substance capable of donating a pair of electrons (to an acid) for the formation of a coordinate covalent bond; a substance whose molecule or ion can combine with a proton (hydrogen ion); a substance that combines with acids to form salts."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "Na+",
+      "type": "T196",
+      "umls_id": "C0597484",
+      "score": 0.9633213877677917,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "chief cation of the extracellular body fluids."
+    },
+    {
+      "text": "Cl-",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "K+",
+      "type": "T121",
+      "umls_id": "C0597277",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "atom of potassium having a positive charge; potassium is the chief cation of muscle and most other cells (intracellular fluid)."
+    },
+    {
+      "text": "HCO3-",
+      "type": "T116",
+      "umls_id": "C0106269",
+      "score": 0.7160655856132507,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Electroneutral chloride bicarbonate exchangers that allow the exchange of BICARBONATE IONS exchange for CHLORIDE IONS across the cellular membrane. The action of specific antiporters in this class serve important functions such as allowing the efficient exchange of bicarbonate across red blood cell membranes as they passage through capillaries and the reabsorption of bicarbonate ions by the kidney."
+    },
+    {
+      "text": "BUN",
+      "type": "T059",
+      "umls_id": "C0005845",
+      "score": 0.9844024777412415,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The urea concentration of the blood stated in terms of nitrogen content. Serum (plasma) urea nitrogen is approximately 12% higher than blood urea nitrogen concentration because of the greater protein content of red blood cells. Increases in blood or serum urea nitrogen are referred to as azotemia and may have prerenal, renal, or postrenal causes. (From Saunders Dictionary & Encyclopedia of Laboratory Medicine and Technology, 1984)"
+    },
+    {
+      "text": "Creatinine",
+      "type": "T109",
+      "umls_id": "C0010294",
+      "score": 0.9871318340301514,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The breakdown product of creatine, a constituent of muscle tissue, that is excreted by the kidney and whose serum level is used to evaluate kidney function."
+    },
+    {
+      "text": "Urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "Color",
+      "type": "T080",
+      "umls_id": "C0009393",
+      "score": 0.9914202690124512,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The visually perceived property of objects created by absorption or reflection of specific wavelengths of light."
+    },
+    {
+      "text": "Amber\nProtein",
+      "type": "T116",
+      "umls_id": "C0033684",
+      "score": 0.7601302266120911,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein."
+    },
+    {
+      "text": "Positive\n",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "Positive\n\n",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "47-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "original_data": {
+    "question": "A 67-year-old man is hospitalized after several days of fever and increasing shortness of breath. Respiratory viral panel returns positive for influenza A and the patient is started on a standard five day course of oseltamivir. Despite therapy, his shortness of breath continues to worsen and his oxygen saturation decreases to the point where ICU transfer and intubation are required. Chest radiograph shows bilateral infiltrates. Clinical criteria are consistent with development of Acute Respiratory Distress Syndrome (ARDS). After several weeks of supportive therapy, the patient improves with lung function returning to near normal. Which of the following processes is involved in the regeneration of alveolar lining after damage to alveoli occurs?",
+    "options": {
+      "A": "Sweeping of debris out of the alveoli by ciliated cells",
+      "B": "Excess mucus production by goblet cells",
+      "C": "Proliferation of surfactant-secreting cells",
+      "D": "Proliferation of club cells"
+    }
+  },
+  "model_response": "The normal alveolar lining contains type I and II pneumocytes, which are responsible for gas exchange, and club cells, which secrete surfactant. In ARDS, there is damage to alveoli, and the normal alveolar lining is replaced by a layer of fibrous tissue. With resolution of the alveolar damage and resulting in regeneration of the alveolar lining, type I and II pneumocytes will replicate to replenish the alveolar lining. Club cells will not replicate, but will undergo hyperplasia in response to the damage. Ciliated cells will also undergo hyperplasia in response to the damage. Goblet cells are not involved in the regeneration of the alveolar lining, but will undergo hyperplasia in response to the damage.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "hospitalized",
+      "type": "T033",
+      "umls_id": "C0701159",
+      "score": 0.9830934405326843,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "Respiratory viral panel returns positive",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "influenza A",
+      "type": "T047",
+      "umls_id": "C2062441",
+      "score": 0.9824301600456238,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "standard",
+      "type": "T080",
+      "umls_id": "C1442989",
+      "score": 0.9781592488288879,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Regularly and widely used."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "oseltamivir",
+      "type": "T109",
+      "umls_id": "C0874161",
+      "score": 0.9780334830284119,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An acetamido cyclohexene that is a structural homolog of SIALIC ACID and inhibits NEURAMINIDASE."
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "worsen",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9884297251701355,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "decreases",
+      "type": "T033",
+      "umls_id": "C0442797",
+      "score": 0.9786321520805359,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ICU transfer",
+      "type": "T078",
+      "umls_id": "C1555583",
+      "score": 0.8348215222358704,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "<p>Transfer of ownership for a product.</p>"
+    },
+    {
+      "text": "intubation",
+      "type": "T061",
+      "umls_id": "C0021925",
+      "score": 0.9354424476623535,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Introduction of a tube into a hollow organ to restore or maintain patency if obstructed. It is differentiated from CATHETERIZATION in that the insertion of a catheter is usually performed for the introducing or withdrawing of fluids from the body."
+    },
+    {
+      "text": "Chest radiograph",
+      "type": "T060",
+      "umls_id": "C3842377",
+      "score": 0.9901647567749023,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilateral infiltrates",
+      "type": "T046",
+      "umls_id": "C0332448",
+      "score": 0.7228401303291321,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The process of the diffusion or accumulation in a tissue or cells of a substance not normal to it or in amounts above normal. (NCI)"
+    },
+    {
+      "text": "Clinical criteria",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "development",
+      "type": "T169",
+      "umls_id": "C0243107",
+      "score": 0.9674524664878845,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Acute Respiratory Distress Syndrome",
+      "type": "T047",
+      "umls_id": "C0035222",
+      "score": 0.9907777309417725,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Progressive and life-threatening pulmonary distress in the absence of an underlying pulmonary condition, usually following major trauma or surgery. Cases of neonatal respiratory distress syndrome are not included in this definition."
+    },
+    {
+      "text": "ARDS",
+      "type": "T047",
+      "umls_id": "C0035222",
+      "score": 0.9718163013458252,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Progressive and life-threatening pulmonary distress in the absence of an underlying pulmonary condition, usually following major trauma or surgery. Cases of neonatal respiratory distress syndrome are not included in this definition."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "supportive therapy",
+      "type": "T058",
+      "umls_id": "C0344211",
+      "score": 0.9835165143013,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Supportive care is that which helps the patient and their family to cope with cancer and treatment of it from pre-diagnosis, through the process of diagnosis and treatment, to cure, continuing illness or death and into bereavement. It helps the patient to maximize the benefits of treatment and to live as well as possible with the effects of the disease. Supportive therapy may provide a patient with friendship, encouragement, practical advice such as access to community resources or how to develop a more active social life, vocational counseling, suggestions for minimizing friction with family members, and, above all, hope that the life of the patient may be improved. In all situations, supportive therapy involves the teaching of such life skills as managing medication, learning to socialize, handling finances, and getting a job."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "lung function",
+      "type": "T039",
+      "umls_id": "C0035245",
+      "score": 0.964290976524353,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "Physiological processes and properties of the RESPIRATORY SYSTEM as a whole or of any of its parts."
+    },
+    {
+      "text": "normal",
+      "type": "T080",
+      "umls_id": "C0205307",
+      "score": 0.9803991317749023,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In pathology, a term that is used to describe a tissue specimen that has a normal appearance."
+    },
+    {
+      "text": "processes",
+      "type": "T041",
+      "umls_id": "C0025361",
+      "score": 0.8121208548545837,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Conceptual functions or thinking in all its forms."
+    },
+    {
+      "text": "regeneration",
+      "type": "T042",
+      "umls_id": "C0034963",
+      "score": 0.961481511592865,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The physiological renewal, repair, or replacement of tissue."
+    },
+    {
+      "text": "alveolar lining",
+      "type": "T023",
+      "umls_id": "C1440080",
+      "score": 0.7376778721809387,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Of or relating to the alveoli."
+    },
+    {
+      "text": "damage",
+      "type": "T037",
+      "umls_id": "C0010957",
+      "score": 0.9869447946548462,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "alveoli",
+      "type": "T023",
+      "umls_id": "C1515933",
+      "score": 0.9834444522857666,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the terminal sacs in the lungs through which gas exchange takes place with the pulmonary capillary blood."
+    },
+    {
+      "text": "occurs",
+      "type": "T079",
+      "umls_id": "C3242296",
+      "score": 0.7854450941085815,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "<p>A relationship in which the source act's effective time is wholly within the target act's effective time (including end points, as defined in the act's effective times)</p><i>UsageNote:</i>Inverse code is<b>SBSEAE</b>"
+    },
+    {
+      "text": "67-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

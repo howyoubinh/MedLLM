@@ -1,0 +1,261 @@
+{
+  "original_data": {
+    "question": "A 28-year-old woman comes to the obstetrics and gynecology clinic because she has been unsuccessfully trying to conceive with her husband for the last 2 years. He has had 2 children from a previous marriage and has been tested for causes of male infertility. She has had prior abdominal surgery as well as a family history of endocrine abnormalities. Based on this history, a panel of tests are obtained and treatment is started. This treatment will be administered intermittently one week before her normal menstrual cycle. If the most likely drug prescribed in this case was administered in a different manner, which of the following conditions may also be treated by this drug?",
+    "options": {
+      "A": "Diabetes",
+      "B": "Parkinson disease",
+      "C": "Polycystic ovarian syndrome",
+      "D": "Prostate cancer"
+    }
+  },
+  "model_response": "The most likely drug prescribed in this case is clomiphene citrate, which is used to induce ovulation in women who are infertile because of anovulation. Clomiphene is thought to have effects primarily at the hypothalamus, where it increases GnRH pulse amplitude and frequency. This stimulates pituitary secretion of gonadotropins, which induces ovulation. Clomiphene is also used in the treatment of polycystic ovarian syndrome (PCOS). PCOS is a common cause of infertility in young women. The chronic anovulation and hyperandrogenism characteristic of PCOS are associated with insulin resistance and compensatory hyperinsulinemia. Insulin resistance may be a contributing factor in the abnormal ovarian and endometrial function seen in PCOS. Women with PCOS have a high risk for developing type 2 diabetes mellitus. Treatment of PCOS includes weight loss and insulin-sensitizing drugs such as metformin. Clomiphene is also used in the treatment of infertility resulting from impaired hypothalamic or pituitary function. This includes the treatment of hypothalamic amenorrhea and pituitary failure. Hypothalamic amenorrhea is a condition in which there is a deficiency of GnRH, causing hypogonadotropic hypogonadism and amenorrhea. Pituitary failure can be caused by tumors, surgery, radiation, infection, or genetic defects. Clomiphene is not used in the treatment of diabetes mellitus. Clomiphene is not used in the treatment of Parkinson disease. Clomiphene is not used in the treatment of prostate cancer.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "obstetrics",
+      "type": "T091",
+      "umls_id": "C0028773",
+      "score": 0.9835548400878906,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "A medical-surgical specialty concerned with management and care of women during pregnancy, parturition, and the puerperium."
+    },
+    {
+      "text": "gynecology clinic",
+      "type": "T073",
+      "umls_id": "C3839674",
+      "score": 0.9783515930175781,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": null
+    },
+    {
+      "text": "conceive",
+      "type": "T040",
+      "umls_id": "C0015895",
+      "score": 0.7012333869934082,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The capacity to conceive or to induce conception. It may refer to either the male or female."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "marriage",
+      "type": "T033",
+      "umls_id": "C0024841",
+      "score": 0.9866358637809753,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The social institution involving legal and/or religious sanction whereby individuals are joined together."
+    },
+    {
+      "text": "tested",
+      "type": "T169",
+      "umls_id": "C0039593",
+      "score": 0.9954845309257507,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something."
+    },
+    {
+      "text": "male infertility",
+      "type": "T047",
+      "umls_id": "C0021364",
+      "score": 0.9901052713394165,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The inability of the male to effect FERTILIZATION of an OVUM after a specified period of unprotected intercourse. Male sterility is permanent infertility."
+    },
+    {
+      "text": "abdominal surgery",
+      "type": "T101",
+      "umls_id": "C5206630",
+      "score": 0.8427442908287048,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "A person who is undergoing an abdominal surgical procedure."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "endocrine abnormalities",
+      "type": "T033",
+      "umls_id": "C5393845",
+      "score": 0.9822739958763123,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9838898777961731,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "drug prescribed",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "case",
+      "type": "T169",
+      "umls_id": "C0868928",
+      "score": 0.9685807228088379,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "conditions",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.8423038721084595,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "original_data": {
+    "question": "A routine newborn screening test for phenylketonuria in a male neonate shows a serum phenylalanine concentration of 44 mg/dL (N < 20). He is started on a special diet and the hyperphenylalaninemia resolves. At a routine well-child examination 4 months later, the physician notices that he has persistent head lag. On examination, he has blue eyes, pale skin, blonde hair, and generalized hypotonia. His serum prolactin level is markedly elevated. Supplementation of which of the following substances is most likely to prevent further complications of this patient's condition?",
+    "options": {
+      "A": "Tyrosine",
+      "B": "Pyridoxine",
+      "C": "Thiamine",
+      "D": "Tetrahydrobiopterin"
+    }
+  },
+  "model_response": "This patient has type I tyrosinemia, which is due to a deficiency of the enzyme fumarylacetoacetate hydrolase. The accumulation of fumarylacetoacetate and its metabolites leads to liver and kidney damage, and may cause mental retardation. The main pathway affected is the tyrosine degradation pathway, which produces the pigment melanin. This explains the blue eyes, pale skin, and blonde hair. The main metabolite of phenylalanine is tyrosine, so phenylalanine accumulates and leads to the inhibition of the enzyme phenylalanine hydroxylase, which leads to a high level of serum phenylalanine. The high serum phenylalanine also inhibits the enzyme tyrosine transaminase, which leads to a low level of serum tyrosine. The low serum tyrosine leads to low synthesis of melanin, which explains the albinism. The high serum phenylalanine also stimulates the release of the pituitary hormone prolactin, which explains the persistent head lag and the elevated serum prolactin level. Supplementation with niacin, a precursor of NAD, which is required for the synthesis of melanin, will prevent further complications. Pyridoxine, thiamine, and tetrahydrobiopterin are all cofactors required for tyrosine degradation, but their deficiencies do not lead to the symptoms described.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "newborn screening test",
+      "type": "T061",
+      "umls_id": "C0027617",
+      "score": 0.8660763502120972,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The identification of selected parameters in newborn infants by various tests, examinations, or other procedures. Screening may be performed by clinical or laboratory measures. A screening test is designed to sort out healthy neonates (INFANT, NEWBORN) from those not well, but the screening test is not intended as a diagnostic device, rather instead as epidemiologic."
+    },
+    {
+      "text": "phenylketonuria",
+      "type": "T047",
+      "umls_id": "C0031485",
+      "score": 0.9608445167541504,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A group of autosomal recessive disorders marked by a deficiency of the hepatic enzyme PHENYLALANINE HYDROXYLASE or less frequently by reduced activity of DIHYDROPTERIDINE REDUCTASE (i.e., atypical phenylketonuria). Classical phenylketonuria is caused by a severe deficiency of phenylalanine hydroxylase and presents in infancy with developmental delay; SEIZURES; skin HYPOPIGMENTATION; ECZEMA; and demyelination in the central nervous system. (From Adams et al., Principles of Neurology, 6th ed, p952)."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "neonate",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9807762503623962,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "special diet",
+      "type": "T061",
+      "umls_id": "C0184626",
+      "score": 0.9672644734382629,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Actions performed to support the ingestion of food and nutrients prescribed for a specific purpose"
+    },
+    {
+      "text": "hyperphenylalaninemia",
+      "type": "T047",
+      "umls_id": "C0751435",
+      "score": 0.9855006337165833,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "any of several autosomal recessive defects in the hydroxylation of phenylalanine resulting in accumulation and excretion of dietary phenylalanine; most commonly the defect is in the enzyme phenylalanine 4-monooxygenase; the most severe manifestation of this is classic PHENYLKETONURIA, but two benign forms also occur; rarely the defect is one of tetrahydrobiopterin metabolism."
+    },
+    {
+      "text": "resolves",
+      "type": "T077",
+      "umls_id": "C2699488",
+      "score": 0.8033813834190369,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A means of finding a solution to a problem, or a means of finding agreement or harmony."
+    },
+    {
+      "text": "well-child examination",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "notices",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "persistent",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.981314480304718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "head lag",
+      "type": "T033",
+      "umls_id": "C1141883",
+      "score": 0.9891721606254578,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The Premie-Neuro and the Dubowitz Neurological Examination score head lag in the same manner. Scoring for both is as follows: 0 = head drops and stays back, 1 = tries to lift head but drops it back, 2 = able to lift head slightly, 3 = lifts head in line with body, and 4 = head in front of body. This term applies if head lag persists beyond an expected age at a level of 0 or 1. Persistent head lag beyond age 4 mo has been linked to poor outcomes. [PMID:26709421]"
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "blue eyes",
+      "type": "T033",
+      "umls_id": "C0578626",
+      "score": 0.9786185622215271,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A markedly blue coloration of the iris. [HPO:probinson]"
+    },
+    {
+      "text": "pale skin",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9806790351867676,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "blonde hair",
+      "type": "T033",
+      "umls_id": "C1849221",
+      "score": 0.9946423172950745,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A human hair color characterized by low levels of eumelanin."
+    },
+    {
+      "text": "generalized hypotonia",
+      "type": "T033",
+      "umls_id": "C1858120",
+      "score": 0.9786893725395203,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Generalized muscular hypotonia (abnormally low muscle tone). [HPO:curators]"
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "prolactin level",
+      "type": "T034",
+      "umls_id": "C0428411",
+      "score": 0.9745287299156189,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "Supplementation",
+      "type": "T061",
+      "umls_id": "C0242297",
+      "score": 0.9718977808952332,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The addition of one or more elements and/or chemical compounds that are either absent or deficient in an individual's daily diet."
+    },
+    {
+      "text": "substances",
+      "type": "T167",
+      "umls_id": "C0439861",
+      "score": 0.9935278296470642,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical."
+    },
+    {
+      "text": "complications",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9766035676002502,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    }
+  ]
+}

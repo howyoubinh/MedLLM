@@ -1,0 +1,398 @@
+{
+  "original_data": {
+    "question": "A 6-month-old boy presents to his pediatrician for a wellness examination. The mother reports that her child has difficulty rolling from his back to his front and sitting unsupported. The patient is able to smile and furrow his brow normally, but she has noticed that he has a weak cry and suck. He was born at 38 weeks gestation via a spontaneous vaginal delivery without any complications. The mother said that the patient appeared \"normal\" until the past few weeks. On physical exam, his extraocular muscle movements are intact, and a symmetric smile is seen. He has symmetric flaccid weakness of both his upper and lower extremities. He also has a bell-shaped chest. Deep tendon reflexes are diminished. Which of the following is the most likely cause of this patient's symptoms?",
+    "options": {
+      "A": "Anterior horn cell degeneration",
+      "B": "Axonal demyelination",
+      "C": "Decreased acetylcholine receptor density",
+      "D": "Myonecrosis"
+    }
+  },
+  "model_response": "Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "wellness",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9672972559928894,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "rolling",
+      "type": "T184",
+      "umls_id": "C0751564",
+      "score": 0.7513505816459656,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A type of resting tremor characterized by simultaneous rubbing movements of thumb and index fingers against each other. []"
+    },
+    {
+      "text": "front",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.9881469011306763,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "sitting",
+      "type": "T033",
+      "umls_id": "C0277814",
+      "score": 0.9747529029846191,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state or act of one who sits; the posture of one who occupies a seat."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "smile",
+      "type": "T054",
+      "umls_id": "C0037363",
+      "score": 0.9880068302154541,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "A facial expression which may denote feelings of pleasure, affection, amusement, etc."
+    },
+    {
+      "text": "furrow his brow",
+      "type": "T026",
+      "umls_id": "C3893556",
+      "score": 0.7842996716499329,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "A furrow that may be found on the cell surface. Examples include the cingulum and sulcus found in some dinoflagellates. [GOC:pr]"
+    },
+    {
+      "text": "weak",
+      "type": "T080",
+      "umls_id": "C1762617",
+      "score": 0.9965013265609741,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having strength, power, or intensity less than average or expected."
+    },
+    {
+      "text": "cry",
+      "type": "T055",
+      "umls_id": "C0010399",
+      "score": 0.9857836961746216,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To utter an inarticulate, characteristic sound in order to communicate or express a feeling, or desire for attention."
+    },
+    {
+      "text": "suck",
+      "type": "T039",
+      "umls_id": "C0233927",
+      "score": 0.9655277132987976,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": null
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complications",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9766035676002502,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "extraocular muscle",
+      "type": "T023",
+      "umls_id": "C0028863",
+      "score": 0.9707997441291809,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The muscles that move the eye. Included in this group are the medial rectus, lateral rectus, superior rectus, inferior rectus, inferior oblique, superior oblique, musculus orbitalis, and levator palpebrae superioris."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "symmetric smile",
+      "type": "T077",
+      "umls_id": "C2699744",
+      "score": 0.766258716583252,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A binary relation such that if a is related to b then b is related to a."
+    },
+    {
+      "text": "symmetric flaccid",
+      "type": "T077",
+      "umls_id": "C2699744",
+      "score": 0.7167694568634033,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A binary relation such that if a is related to b then b is related to a."
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "bell-shaped chest",
+      "type": "T033",
+      "umls_id": "C1865186",
+      "score": 0.9700968265533447,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The rib cage has the shape of a wide mouthed bell. That is, the superior portion of the rib cage is constricted, followed by a convex region, and the inferior portion of the rib cage expands again to have a large diameter. [HPO:probinson]"
+    },
+    {
+      "text": "Deep tendon reflexes",
+      "type": "T201",
+      "umls_id": "C0489815",
+      "score": 0.9582180380821228,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Contraction of a muscle triggered by a signal from a muscle spindle in response to a stimulus applied to a specific trigger point on the body. The strength of the response can provide insight into central and peripheral nerve performance."
+    },
+    {
+      "text": "diminished",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9759602546691895,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    }
+  ]
+}

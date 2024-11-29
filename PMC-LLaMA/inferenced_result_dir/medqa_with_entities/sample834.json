@@ -1,0 +1,170 @@
+{
+  "original_data": {
+    "question": "While on a teaching sabbatical in Uruguay, a pathologist examined the excised liver of an 18-year-old otherwise healthy female who passed away due to massive hepatic necrosis 5 days after she underwent general anesthesia to repair a fractured femur. Which of the following is a general anesthetic most likely responsible for her death?",
+    "options": {
+      "A": "Lidocaine",
+      "B": "Midazolam",
+      "C": "Halothane",
+      "D": "Desflurane"
+    }
+  },
+  "model_response": "{'A': 'Lidocaine is a local anesthetic.', 'B': 'Midazolam is a benzodiazepine.', 'C': 'Halothane is a volatile inhalational anesthetic.', 'D': 'Desflurane is an inhalational anesthetic. Halothane is a volatile inhalational anesthetic. It is not commonly used in developed countries due to its unstable cardiovascular effects and potential for hepatotoxicity. Desflurane is an inhalational anesthetic. It is not commonly associated with hepatotoxicity. Lidocaine is a local anesthetic. It is not commonly associated with hepatotoxicity. Midazolam is a benzodiazepine. It is not commonly associated with hepatotoxicity.}\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "teaching",
+      "type": "T065",
+      "umls_id": "C0039401",
+      "score": 0.9777827858924866,
+      "semantic_types": [
+        "T065"
+      ],
+      "definition": "A formal and organized process of transmitting knowledge to a person or group."
+    },
+    {
+      "text": "sabbatical",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Uruguay",
+      "type": "T083",
+      "umls_id": "C0042113",
+      "score": 0.9776498079299927,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in southern South America, bordering the South Atlantic Ocean, located between Argentina and Brazil."
+    },
+    {
+      "text": "pathologist",
+      "type": "T097",
+      "umls_id": "C0334866",
+      "score": 0.9820916652679443,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Physicians who assess changes in cellular or tissue structure and function to diagnose disease processes."
+    },
+    {
+      "text": "excised",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "massive",
+      "type": "T080",
+      "umls_id": "C0522501",
+      "score": 0.9863406419754028,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hepatic necrosis",
+      "type": "T047",
+      "umls_id": "C0151798",
+      "score": 0.9799517393112183,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A necrotic process affecting the hepatic parenchyma."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "general anesthesia",
+      "type": "T061",
+      "umls_id": "C0002915",
+      "score": 0.9791886806488037,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Procedure in which patients are induced into an unconscious state through use of various medications so that they do not feel pain during surgery."
+    },
+    {
+      "text": "repair",
+      "type": "T040",
+      "umls_id": "C0043240",
+      "score": 0.9861677885055542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Restoration of integrity to traumatized tissue."
+    },
+    {
+      "text": "fractured femur",
+      "type": "T037",
+      "umls_id": "C0015802",
+      "score": 0.885400116443634,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Fractures of the femur."
+    },
+    {
+      "text": "anesthetic",
+      "type": "T121",
+      "umls_id": "C0002932",
+      "score": 0.9801878333091736,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Agents capable of inducing a total or partial loss of sensation, especially tactile sensation and pain. They may act to induce general ANESTHESIA, in which an unconscious state is achieved, or may act locally to induce numbness or lack of sensation at a targeted site."
+    },
+    {
+      "text": "death",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.9843130111694336,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "18-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

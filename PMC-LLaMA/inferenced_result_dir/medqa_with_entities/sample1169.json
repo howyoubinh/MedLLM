@@ -1,0 +1,314 @@
+{
+  "original_data": {
+    "question": "A 35-year-old man comes to the physician because of episodes of difficulty swallowing for the past 3 months. He feels solid food getting stuck in his chest behind the sternum when he eats. Drinking does not cause any difficulty swallowing. He has no coughing or nasal regurgitation. He has no hoarseness or weight loss. He has had heartburn for 2 years with no response to high-dose omeprazole. His past medical history is also significant for asthma and eczema. He takes no medications except for omeprazole. His vital signs are within normal limits. Physical examination shows no abnormal findings. Which of the following best explains these findings?",
+    "options": {
+      "A": "Achalasia",
+      "B": "Diffuse esophageal spasm",
+      "C": "Eosinophilic esophagitis",
+      "D": "Esophageal reflux disease"
+    }
+  },
+  "model_response": "Diffuse esophageal spasm is a disorder characterized by intermittent, nonperistaltic contractions of the esophagus that occur either as a primary disorder or secondary to other disease processes, such as GERD. Patients with diffuse esophageal spasm experience dysphagia and chest pain. The dysphagia is nonprogressive and is often associated with the ingestion of certain foods or liquids. The chest pain is usually non-exertional and can be burning or squeezing. The diagnosis is made by esophageal manometry studies. Treatment is often difficult and includes dietary modification, sedatives, and anticholinergic agents. Nitrates, calcium channel blockers, and botulinum toxin have also been used with success. Achalasia is a motor disorder of the esophagus characterized by impaired relaxation of the lower esophageal sphincter with distal esophageal dilation. It is a rare disorder that can be caused by either primary muscle disease or secondary to Chagas' disease. The dysphagia of achalasia is progressive and is associated with the ingestion of both solids and liquids. The diagnosis is made by esophageal manometry studies. Treatment options include calcium channel blockers, nitrates, botulinum toxin, and surgical myotomy. Eosinophilic esophagitis is an inflammatory disorder of the esophagus characterized by eosinophilic infiltration of the esophageal mucosa. It is an increasingly recognized disorder that can be either idiopathic or secondary to other diseases, such as asthma or GERD. Patients with eosinophilic esophagitis experience dysphagia and chest pain. The diagnosis is made by esophageal biopsy. Treatment includes dietary modification and the use of anti-inflammatory agents, such as corticosteroids. Esophageal reflux disease is a common condition characterized by the backward flow of gastric contents into the esophagus. It is often associated with heaburn and regurgitation. Dysphagia is not a common symptom of GERD. The diagnosis is made by upper endoscopy with biopsy. Treatment includes lifestyle modification, high-dose proton pump inhibitors, and, in some cases, surgical intervention.\n\n### Gerard J. Criner, MD</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "episodes of",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.881741464138031,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "difficulty swallowing",
+      "type": "T047",
+      "umls_id": "C0011168",
+      "score": 0.9734892249107361,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Difficulty in SWALLOWING which may result from neuromuscular disorder or mechanical obstruction. Dysphagia is classified into two distinct types: oropharyngeal dysphagia due to malfunction of the PHARYNX and UPPER ESOPHAGEAL SPHINCTER; and esophageal dysphagia due to malfunction of the ESOPHAGUS."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "solid food",
+      "type": "T168",
+      "umls_id": "C0453855",
+      "score": 0.9931538105010986,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "sternum",
+      "type": "T023",
+      "umls_id": "C0038293",
+      "score": 0.9604005217552185,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A long, narrow, and flat bone commonly known as BREASTBONE occurring in the midsection of the anterior thoracic segment or chest region, which stabilizes the rib cage and serves as the point of origin for several muscles that move the arms, head, and neck."
+    },
+    {
+      "text": "eats",
+      "type": "T168",
+      "umls_id": "C0025017",
+      "score": 0.74507075548172,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "The edible portions of any animal used for food including cattle, swine, goats/sheep, poultry, fish, shellfish, and game."
+    },
+    {
+      "text": "Drinking",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.9639207720756531,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "difficulty swallowing",
+      "type": "T047",
+      "umls_id": "C0011168",
+      "score": 0.9734892249107361,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Difficulty in SWALLOWING which may result from neuromuscular disorder or mechanical obstruction. Dysphagia is classified into two distinct types: oropharyngeal dysphagia due to malfunction of the PHARYNX and UPPER ESOPHAGEAL SPHINCTER; and esophageal dysphagia due to malfunction of the ESOPHAGUS."
+    },
+    {
+      "text": "nasal regurgitation",
+      "type": "T184",
+      "umls_id": "C0232608",
+      "score": 0.954617977142334,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Regurgitation of milk through the nose. [DDD:ncarter]"
+    },
+    {
+      "text": "hoarseness",
+      "type": "T184",
+      "umls_id": "C0019825",
+      "score": 0.9738039374351501,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unnaturally deep or rough quality of voice."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "no response",
+      "type": "T033",
+      "umls_id": "C3844738",
+      "score": 0.985079824924469,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "No apparent change or worsening in lesion staging classification."
+    },
+    {
+      "text": "high-dose",
+      "type": "T061",
+      "umls_id": "C4682703",
+      "score": 0.7876459360122681,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A regimen consisting of high-dose (HD) methotrexate (MTX) plus HD cytarabine (AraC) that can be used in the treatment of central nervous system (CNS) lymphoma and refractory or relapsed (RR) non-Hodgkin lymphoma (NHL)."
+    },
+    {
+      "text": "omeprazole",
+      "type": "T109",
+      "umls_id": "C0028978",
+      "score": 0.9803848266601562,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A 4-methoxy-3,5-dimethylpyridyl, 5-methoxybenzimidazole derivative of timoprazole that is used in the therapy of STOMACH ULCERS and ZOLLINGER-ELLISON SYNDROME. The drug inhibits an H(+)-K(+)-EXCHANGING ATPASE which is found in GASTRIC PARIETAL CELLS."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "eczema",
+      "type": "T047",
+      "umls_id": "C0013595",
+      "score": 0.9661315083503723,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A pruritic papulovesicular dermatitis occurring as a reaction to many endogenous and exogenous agents (Dorland, 27th ed)."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "omeprazole",
+      "type": "T109",
+      "umls_id": "C0028978",
+      "score": 0.9803848266601562,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A 4-methoxy-3,5-dimethylpyridyl, 5-methoxybenzimidazole derivative of timoprazole that is used in the therapy of STOMACH ULCERS and ZOLLINGER-ELLISON SYNDROME. The drug inhibits an H(+)-K(+)-EXCHANGING ATPASE which is found in GASTRIC PARIETAL CELLS."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

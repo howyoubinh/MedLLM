@@ -1,0 +1,411 @@
+{
+  "original_data": {
+    "question": "A 16-year-old girl is brought to the emergency department with constant abdominal pain over the past 8 hours. The pain is in her right lower quadrant (RLQ), which is also where it began. She has had no nausea or vomiting despite eating a snack 2 hours ago. She had a similar episode last month which resolved on its own. Her menstrual cycles are 28–30 days apart with 3–5 days of vaginal bleeding. Her last menses ended 9 days ago. Her blood pressure is 125/75 mm Hg, the pulse is 78/min, the respirations are 15/min, and the temperature is 37.2°C (99.0°F). Abdominal examination shows moderate pain on direct pressure over the RLQ which decreases with the release of pressure. The remainder of the physical examination shows no abnormalities. Laboratory studies show:\nHemoglobin 12.5 mg/dL\nLeukocyte count 6000/mm3\nSegmented neutrophils 55%\nLymphocytes 39%\nPlatelet count 260,000/mm3\nSerum  \nC-reactive protein 5 mg/L (N < 8 mg/L)\nUrine  \nRBC 1-2 phf\nWBC None\nWhich of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Methotrexate",
+      "B": "Nitrofurantoin",
+      "C": "Reassurance",
+      "D": "Referral for surgery"
+    }
+  },
+  "model_response": "The patient's clinical presentation is consistent with acute appendicitis. The leukocyte count is at the upper limit of normal, but the left shift is only mild. The C-reactive protein is also at the upper limit of normal. The patient's symptoms and laboratory studies are consistent with an inflammatory process. The patient should be referred for surgery.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "constant",
+      "type": "T170",
+      "umls_id": "C1720529",
+      "score": 0.9768766760826111,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "right lower quadrant",
+      "type": "T029",
+      "umls_id": "C0230178",
+      "score": 0.9780491590499878,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right inguinal ligament."
+    },
+    {
+      "text": "RLQ",
+      "type": "T029",
+      "umls_id": "C0230178",
+      "score": 0.9902524352073669,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right inguinal ligament."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "snack 2 hours",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "cycles",
+      "type": "T079",
+      "umls_id": "C1511572",
+      "score": 0.988165557384491,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "An event or sequence of events that constitute a round or succession of observable phenomena, recurring usually at regular or approximately regular time intervals and in the same sequence."
+    },
+    {
+      "text": "28–30",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "vaginal bleeding",
+      "type": "T046",
+      "umls_id": "C2979982",
+      "score": 0.966633677482605,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Vaginal bleeding unrelated to normal menstruation."
+    },
+    {
+      "text": "menses",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9790869355201721,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "moderate pain",
+      "type": "T184",
+      "umls_id": "C0278139",
+      "score": 0.9804279804229736,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Score 4-5"
+    },
+    {
+      "text": "pressure",
+      "type": "T067",
+      "umls_id": "C0033095",
+      "score": 0.9924325942993164,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A type of stress exerted uniformly in all directions. Its measure is the force exerted per unit area. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "RLQ",
+      "type": "T029",
+      "umls_id": "C0230178",
+      "score": 0.9902524352073669,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right inguinal ligament."
+    },
+    {
+      "text": "decreases",
+      "type": "T033",
+      "umls_id": "C0442797",
+      "score": 0.9786321520805359,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "release",
+      "type": "T058",
+      "umls_id": "C0030685",
+      "score": 0.9913164377212524,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The administrative process of discharging the patient, alive or dead, from hospitals or other health facilities."
+    },
+    {
+      "text": "pressure",
+      "type": "T067",
+      "umls_id": "C0033095",
+      "score": 0.9924325942993164,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A type of stress exerted uniformly in all directions. Its measure is the force exerted per unit area. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "RBC",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9998649954795837,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "WBC",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9993834495544434,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "16-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "original_data": {
+    "question": "A 17-year-old girl is brought to the pediatrician by her father for evaluation. He is concerned that she has not undergone puberty yet, while all of her classmates at school have. The patient herself feels well overall, with no specific complaints. Examination shows vital signs of T 98.9, HR 71, and BP 137/92. The physician notes undeveloped breasts and normal external and internal female genitalia in Tanner I stage of development. Her body mass index is within normal limits, she is in the 40th percentile for height, and she is agreeable and pleasant during the interview. Which of the following additional findings is likely present in this patient?",
+    "options": {
+      "A": "Aromatase enzyme deficiency",
+      "B": "Hypokalemia",
+      "C": "XY karyotype",
+      "D": "Hypercortisolism"
+    }
+  },
+  "model_response": "The patient has constitutional delay of puberty. This is a diagnosis of exclusion, and no laboratory or imaging studies are necessary. The patient should be reassured that she will likely begin puberty within the normal age range. Aromatase enzyme deficiency would lead to increased androgen levels, which would lead to virilization. Hypokalemia would lead to weakness and/or polyuria. An XY karyotype would lead to ambiguous genitalia. Hypercortisolism would lead to weight gain, hypertension, and/or bruising.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "puberty",
+      "type": "T039",
+      "umls_id": "C0034011",
+      "score": 0.9787506461143494,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "A period in the human life in which the development of the hypothalamic-pituitary-gonadal system takes place and reaches full maturity. The onset of synchronized endocrine events in puberty lead to the capacity for reproduction (FERTILITY), development of secondary SEX CHARACTERISTICS, and other changes seen in ADOLESCENT DEVELOPMENT."
+    },
+    {
+      "text": "classmates",
+      "type": "T098",
+      "umls_id": "C0871683",
+      "score": 0.8474053740501404,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A member of the same class at school."
+    },
+    {
+      "text": "school",
+      "type": "T073",
+      "umls_id": "C0036375",
+      "score": 0.9851418733596802,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Educational institutions."
+    },
+    {
+      "text": "patient herself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "HR",
+      "type": "T033",
+      "umls_id": "C0332167",
+      "score": 0.9999390244483948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "BP",
+      "type": "T058",
+      "umls_id": "C0005824",
+      "score": 0.9979794025421143,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Techniques used for measuring BLOOD PRESSURE."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "notes",
+      "type": "T170",
+      "umls_id": "C1317574",
+      "score": 0.988599419593811,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A brief written record."
+    },
+    {
+      "text": "undeveloped",
+      "type": "T080",
+      "umls_id": "C0011750",
+      "score": 0.7975446581840515,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Countries in the process of change with economic growth, that is, an increase in production, per capita consumption, and income. The process of economic growth involves better utilization of natural and human resources, which results in a change in the social, political, and economic structures."
+    },
+    {
+      "text": "breasts",
+      "type": "T023",
+      "umls_id": "C0006141",
+      "score": 0.9821754693984985,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "In humans, one of the paired regions in the anterior portion of the THORAX. The breasts consist of the MAMMARY GLANDS, the SKIN, the MUSCLES, the ADIPOSE TISSUE, and the CONNECTIVE TISSUES."
+    },
+    {
+      "text": "internal female genitalia",
+      "type": "T023",
+      "umls_id": "C0227748",
+      "score": 0.9832158088684082,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Tanner I stage",
+      "type": "T079",
+      "umls_id": "C2826146",
+      "score": 0.9409476518630981,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A scale of physical development in children, adolescents and adults based on external primary and secondary sex characteristics, such as the size of the breasts, genitalia, and development of pubic hair."
+    },
+    {
+      "text": "development",
+      "type": "T169",
+      "umls_id": "C0243107",
+      "score": 0.9674524664878845,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "body mass index",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9860285520553589,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "agreeable",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pleasant",
+      "type": "T041",
+      "umls_id": "C2987187",
+      "score": 0.9801642894744873,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Feeling friendly, kind, or good-natured."
+    },
+    {
+      "text": "interview",
+      "type": "T052",
+      "umls_id": "C0021822",
+      "score": 0.9563084244728088,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Works about conversations with an individual or individuals held in order to obtain information about their background and other personal biographical data, their attitudes and opinions, etc. It includes works about school admission or job interviews."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "17-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

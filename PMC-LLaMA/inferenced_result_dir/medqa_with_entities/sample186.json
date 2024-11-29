@@ -1,0 +1,184 @@
+{
+  "original_data": {
+    "question": "A laboratory primarily involved with studying cellular proofreading mechanisms is investigating the question of whether the ribosome can recognize a mischarged amino acid and still be incorporated into the growing peptide. In order to do so, they biochemically charge a Lys-tRNA with valine instead of lysine and insert the tRNA into the cell. They design an mRNA sequence that contains only codons for lysine. Which of the following will most likely occur?",
+    "options": {
+      "A": "The ribosome will recognize the mischarged tRNA and prevent its incorporation by removing the valine",
+      "B": "The mischarged tRNA with valine will be incorporated in the codons that specificy for lysine",
+      "C": "The mischarged tRNA will be degraded by the proteasome",
+      "D": "The mischarged tRNA will be removed by the lysyl-tRNA synthetase"
+    }
+  },
+  "model_response": "The ribosome will recognize the mischarged tRNA and prevent its incorporation by removing the valine. The ribosome binds to the charged tRNA and transfers it to the correct position on the mRNA sequence. The ribosome will recognize that the tRNA is mischarged and will not allow the valine to be incorporated into the growing peptide. The tRNA will be removed from the ribosome and either degraded or recycled. The lysyl-tRNA synthetase is responsible for attaching the correct amino acid to the tRNA, and would not be involved in removing a mischarged tRNA. The proteasome is a degradative enzyme complex and would not be involved in the initial recognition of a mischarged tRNA.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "laboratory",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.9852399826049805,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "cellular",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9825922846794128,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "proofreading mechanisms",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "investigating",
+      "type": "T169",
+      "umls_id": "C1292732",
+      "score": 0.9692246317863464,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ribosome",
+      "type": "T026",
+      "umls_id": "C0035553",
+      "score": 0.9928097128868103,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "Multicomponent ribonucleoprotein structures found in the CYTOPLASM of all cells, and in MITOCHONDRIA, and PLASTIDS. They function in PROTEIN BIOSYNTHESIS via GENETIC TRANSLATION."
+    },
+    {
+      "text": "recognize",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "amino acid",
+      "type": "T116",
+      "umls_id": "C0002520",
+      "score": 0.9965375661849976,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T123"
+      ],
+      "definition": "Organic compounds that generally contain an amino (-NH2) and a carboxyl (-COOH) group. Twenty alpha-amino acids are the subunits which are polymerized to form proteins."
+    },
+    {
+      "text": "growing peptide",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "biochemically",
+      "type": "T169",
+      "umls_id": "C0205474",
+      "score": 0.8458917737007141,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Of or relating to biochemistry; involving chemical processes in living organisms."
+    },
+    {
+      "text": "Lys-tRNA",
+      "type": "T116",
+      "umls_id": "C0024376",
+      "score": 0.8193939924240112,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that activates lysine with its specific transfer RNA. EC 6.1.1.6."
+    },
+    {
+      "text": "valine",
+      "type": "T116",
+      "umls_id": "C0042285",
+      "score": 0.9865255355834961,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "A branched-chain essential amino acid that has stimulant activity. It promotes muscle growth and tissue repair. It is a precursor in the penicillin biosynthetic pathway."
+    },
+    {
+      "text": "lysine",
+      "type": "T116",
+      "umls_id": "C0024337",
+      "score": 0.9807116389274597,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "An essential amino acid. It is often added to animal feed."
+    },
+    {
+      "text": "insert",
+      "type": "T058",
+      "umls_id": "C0441587",
+      "score": 0.9853471517562866,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The act of putting one thing into another."
+    },
+    {
+      "text": "tRNA",
+      "type": "T114",
+      "umls_id": "C0035711",
+      "score": 0.9650183916091919,
+      "semantic_types": [
+        "T114",
+        "T123"
+      ],
+      "definition": "The small RNA molecules, 73-80 nucleotides long, that function during translation (TRANSLATION, GENETIC) to align AMINO ACIDS at the RIBOSOMES in a sequence determined by the mRNA (RNA, MESSENGER). There are about 30 different transfer RNAs. Each recognizes a specific CODON set on the mRNA through its own ANTICODON and as aminoacyl tRNAs (RNA, TRANSFER, AMINO ACYL), each carries a specific amino acid to the ribosome to add to the elongating peptide chains."
+    },
+    {
+      "text": "cell",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.995521068572998,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "mRNA sequence",
+      "type": "T086",
+      "umls_id": "C0162327",
+      "score": 0.84698486328125,
+      "semantic_types": [
+        "T086"
+      ],
+      "definition": "The sequence of nucleotide residues along an RNA chain."
+    },
+    {
+      "text": "codons",
+      "type": "T086",
+      "umls_id": "C0009221",
+      "score": 0.9851058125495911,
+      "semantic_types": [
+        "T086"
+      ],
+      "definition": "A set of three nucleotides in a protein coding sequence that specifies individual amino acids or a termination signal (CODON, TERMINATOR). Most codons are universal, but some organisms do not produce the transfer RNAs (RNA, TRANSFER) complementary to all codons. These codons are referred to as unassigned codons (CODONS, NONSENSE)."
+    },
+    {
+      "text": "lysine",
+      "type": "T116",
+      "umls_id": "C0024337",
+      "score": 0.9807116389274597,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "An essential amino acid. It is often added to animal feed."
+    }
+  ]
+}

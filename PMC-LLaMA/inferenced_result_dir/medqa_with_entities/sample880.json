@@ -1,0 +1,340 @@
+{
+  "original_data": {
+    "question": "A 21-year-old woman presents with sudden onset of high blood pressure. She is concerned about her health especially after her colleagues noticed that her face gets red at times while at work. She has even started to use blankets to cover her feet, even on the warmest days in the summer, even though her hands feel warm to the touch. She is a student who exercises and eats a well-balanced diet every day. There is no family history of hypertension or other metabolic syndromes. On examination, her blood pressure is 145/92 mm Hg, respirations are 19/min, pulse is 64/min, and temperature is 36.7°C (98.0°F). An echocardiogram is ordered for investigation. This patient is likely affected by a condition which is associated with which of the following options?",
+    "options": {
+      "A": "Fibromuscular dysplasia",
+      "B": "Marfan syndrome",
+      "C": "Turner syndrome",
+      "D": "Takayasu's arteritis"
+    }
+  },
+  "model_response": "The patient's age, gender, and blood pressure are suggestive of secondary hypertension. The presence of facial flushing suggests the possibility of a hyperthyroid state. The presence of hyperthyroidism along with facial flushing is suggestive of carcinoid syndrome. The echocardiogram is likely to show a normal heart, ruling out the possibility of pheochromocytoma. The presence of hyperthyroidism along with facial flushing is suggestive of carcinoid syndrome. Carcinoid syndrome is associated with fibromuscular dysplasia.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "sudden onset",
+      "type": "T170",
+      "umls_id": "C1272517",
+      "score": 0.9585756063461304,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "high blood pressure",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.983839750289917,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "colleagues",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "blankets",
+      "type": "T073",
+      "umls_id": "C0179330",
+      "score": 0.9865267872810364,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Large pieces of woven fabric or other appropriate material used for body covering or wrapping."
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "summer",
+      "type": "T079",
+      "umls_id": "C0241301",
+      "score": 0.952972412109375,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The season between the summer solstice and the autumnal equinox."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "touch",
+      "type": "T061",
+      "umls_id": "C0152054",
+      "score": 0.9727063179016113,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Placing of the hands of the healer upon the person to be cured with the intent of spiritual energetic healing."
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "exercises",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9747228622436523,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "eats",
+      "type": "T168",
+      "umls_id": "C0025017",
+      "score": 0.74507075548172,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "The edible portions of any animal used for food including cattle, swine, goats/sheep, poultry, fish, shellfish, and game."
+    },
+    {
+      "text": "well-balanced diet",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "family history of",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9852851629257202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "metabolic syndromes",
+      "type": "T047",
+      "umls_id": "C0524620",
+      "score": 0.9872345328330994,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A combination of medical conditions that when present, increase the risk of heart attack, stroke, and diabetes mellitus. It includes the following medical conditions: increased blood pressure, central obesity, dyslipidemia, impaired glucose tolerance, and insulin resistance."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "echocardiogram",
+      "type": "T060",
+      "umls_id": "C0013516",
+      "score": 0.9934785962104797,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonic recording of the size, motion, and composition of the heart and surrounding tissues. The standard approach is transthoracic."
+    },
+    {
+      "text": "investigation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9573497176170349,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "affected",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.980024516582489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "options",
+      "type": "T169",
+      "umls_id": "C1518601",
+      "score": 0.9799401760101318,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Alternative choices or actions."
+    },
+    {
+      "text": "21-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

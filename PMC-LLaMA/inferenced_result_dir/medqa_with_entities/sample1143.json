@@ -1,0 +1,330 @@
+{
+  "original_data": {
+    "question": "A 27-year-old man and his wife come to the physician for preconception genetic counseling. The patient and his wife are asymptomatic and have no history of serious illness. The patient's older brother died at age 13 from heart failure and his 6-year-old nephew currently has severe muscle weakness. Genetic testing in the patient's family shows that his mother is not a carrier of the mutation that is responsible for the disease in his relatives. A pedigree chart of the patient's family is shown. Which of the following is the most likely explanation for the patient not being affected?",
+    "options": {
+      "A": "Variable expressivity",
+      "B": "Maternal uniparental disomy",
+      "C": "Gonadal mosaicism",
+      "D": "Incomplete penetrance"
+    }
+  },
+  "model_response": "The patient is an example of a person with germline mosaicism. His somatic cells carry two different populations of gametes, one carrying the normal allele and the other carrying the mutant allele. Because the mutation is not present in the normal allele, the patient is unaffected. The disease in his nephew is due to a somatic mutation in a cell in which both alleles are mutant. The disease in the patient's brother is due to homozygosity for the mutation, since the mutation is present in both alleles of the gene.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "preconception",
+      "type": "T201",
+      "umls_id": "C2982736",
+      "score": 0.9773499965667725,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The time period prior to conception."
+    },
+    {
+      "text": "genetic counseling",
+      "type": "T061",
+      "umls_id": "C0017382",
+      "score": 0.9821028113365173,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An educational process that provides information and advice to individuals or families about a genetic condition that may affect them. The purpose is to help individuals make informed decisions about marriage, reproduction, and other health management issues based on information about the genetic disease, the available diagnostic tests, and management programs. Psychosocial support is usually offered."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "older brother",
+      "type": "T099",
+      "umls_id": "C0337537",
+      "score": 0.974068820476532,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": null
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "heart failure",
+      "type": "T047",
+      "umls_id": "C0018801",
+      "score": 0.9767115712165833,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inability of the heart to pump blood at an adequate rate to meet tissue metabolic requirements. Clinical symptoms of heart failure include: unusual dyspnea on light exertion, recurrent dyspnea occurring in the supine position, fluid retention or rales, jugular venous distension, pulmonary edema on physical exam, or pulmonary edema on chest x-ray presumed to be cardiac dysfunction."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "muscle weakness",
+      "type": "T047",
+      "umls_id": "C0030552",
+      "score": 0.9723703265190125,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A general term referring to a mild to moderate degree of muscular weakness, occasionally used as a synonym for PARALYSIS (severe or complete loss of motor function). In the older literature, paresis often referred specifically to paretic neurosyphilis (see NEUROSYPHILIS). \"General paresis\" and \"general paralysis\" may still carry that connotation. Bilateral lower extremity paresis is referred to as PARAPARESIS."
+    },
+    {
+      "text": "Genetic testing",
+      "type": "T059",
+      "umls_id": "C0393006",
+      "score": 0.9895012974739075,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Analyzing DNA to look for a genetic alteration that may indicate an increased risk for developing a cancer."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "carrier",
+      "type": "T033",
+      "umls_id": "C0007294",
+      "score": 0.976212739944458,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An individual who carries an inheritable genetic mutation without manifestation of the associated condition."
+    },
+    {
+      "text": "mutation",
+      "type": "T045",
+      "umls_id": "C0026882",
+      "score": 0.964189887046814,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Any detectable and heritable change in the genetic material that causes a change in the GENOTYPE and which is transmitted to daughter cells and to succeeding generations."
+    },
+    {
+      "text": "disease",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9868216514587402,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "relatives",
+      "type": "T099",
+      "umls_id": "C0080103",
+      "score": 0.9811273813247681,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A person related by blood or marriage."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "explanation",
+      "type": "T170",
+      "umls_id": "C0681841",
+      "score": 0.9418625831604004,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of statements describing a group of facts that clarifies the cause, context and/or consequence of those facts."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "affected",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.980024516582489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    },
+    {
+      "text": "6-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "original_data": {
+    "question": "A 28-year-old woman, gravida 2, para 1, at 40 weeks of gestation is admitted to the hospital in active labor. The patient has attended many prenatal appointments and followed her physician's advice about screening for diseases, laboratory testing, diet, and exercise. Her pregnancy has been uncomplicated. She has no history of a serious illness. Her first child was delivered via normal vaginal delivery. Her vital signs are within normal limits. Cervical examination shows 100% effacement and 10 cm dilation. A cardiotocograph is shown. Which of the following is the most appropriate initial step in management?",
+    "options": {
+      "A": "Amnioinfusion",
+      "B": "Induced vaginal delivery",
+      "C": "Reassurance",
+      "D": "Repositioning"
+    }
+  },
+  "model_response": "This cardiotocograph shows variable decelerations. The decelerations are abrupt in decline and return to baseline, and they are not associated with uterine contractions. The initial step in management of this situation is repositioning the patient. The patient should be placed in a lateral decubitus position. If the pattern persists, then amnioinfusion with normal saline should be considered. Amnioinfusion with a dilute solution of uterine relaxant, such as ritodrine, can be used if the pattern persists despite repositioning and oxygen administration. If the pattern persists despite amnioinfusion, then immediate delivery is indicated.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gravida 2",
+      "type": "T033",
+      "umls_id": "C0232997",
+      "score": 0.9864724278450012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "para",
+      "type": "T033",
+      "umls_id": "C0030563",
+      "score": 0.9971686005592346,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of offspring a female has borne. It is contrasted with GRAVIDITY, which refers to the number of pregnancies, regardless of outcome."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "active labor",
+      "type": "T040",
+      "umls_id": "C0233081",
+      "score": 0.9785270690917969,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "prenatal appointments",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.751394510269165,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "physician's",
+      "type": "T054",
+      "umls_id": "C0031829",
+      "score": 0.8685715794563293,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The expected function of a member of the medical profession."
+    },
+    {
+      "text": "screening",
+      "type": "T060",
+      "umls_id": "C0199230",
+      "score": 0.9829955697059631,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures performed on people to identify those who have NEOPLASMS or PRENEOPLASTIC CONDITIONS."
+    },
+    {
+      "text": "diseases",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9835971593856812,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "laboratory testing",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9850475788116455,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "exercise",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9731677770614624,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "normal vaginal delivery",
+      "type": "T061",
+      "umls_id": "C1541822",
+      "score": 0.8191161155700684,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Birth of the fetus through the vagina."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Cervical examination",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.7370351552963257,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "effacement",
+      "type": "T042",
+      "umls_id": "C0233157",
+      "score": 0.7868624925613403,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "A shortening and thinning of cervix due to the action of uterine contractions during active labor to allow for fetal descent."
+    },
+    {
+      "text": "dilation",
+      "type": "T046",
+      "umls_id": "C0012359",
+      "score": 0.9621376395225525,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being dilated beyond normal dimensions."
+    },
+    {
+      "text": "cardiotocograph",
+      "type": "T074",
+      "umls_id": "C0179625",
+      "score": 0.9881150126457214,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

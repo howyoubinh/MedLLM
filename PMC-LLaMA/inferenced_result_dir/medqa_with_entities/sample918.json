@@ -1,0 +1,597 @@
+{
+  "original_data": {
+    "question": "A 66-year-old woman presents with urinary incontinence, difficulty urinating, incomplete voiding, and dull pain in the suprapubic region. She reports that she has not urinated for the past 2 days and that the urine leakage occurs during both day and night and is not associated with physical exertion. The medical history is significant for arterial hypertension and poorly controlled type 2 diabetes mellitus for 8 years, and depression for 3 years. She is prescribed amlodipine, valsartan, atorvastatin, metformin, and amitriptyline. Her weight is 75 kg (165 lb) and her height is 166 cm (5 ft 40 in). Her vital signs are as follows: blood pressure, 120/80 mm Hg; heart rate, 91/min; respiratory rate, 13/min; and temperature, 36.4℃ (97.5℉). The physical examination reveals lower abdominal tenderness with a distended urinary bladder that is palpated in the suprapubic region. The neurological examination shows decreased Achilles reflexes bilaterally, and diminished fine touch and vibratory sensation. On gynecologic examination, the cervix was normally positioned, mobile, and without any visible lesions. Bulging of the posterior vaginal wall was noted. The adnexa were not palpable. An ultrasound examination showed an overdistended urinary bladder with no structural abnormalities. Which of the following is  the next step in managing this patient?",
+    "options": {
+      "A": "Installing a vaginal pessary",
+      "B": "Bladder catheterization",
+      "C": "Cystostomy",
+      "D": "Prescribing prostaglandin E2"
+    }
+  },
+  "model_response": "The patient’s clinical presentation is consistent with urinary retention due to bladder outlet obstruction. The most common cause of bladder outlet obstruction in women is pelvic organ prolapse with a cystocele. In this case, the cystocele is large enough to obstruct the bladder outlet. The initial management of this condition is usually performed by transurethral bladder catheterization. However, this procedure may be difficult due to the distended bladder and the presence of a cystocele. In such cases, the placement of a vaginal pessary is the first step to facilitate the transurethral bladder catheterization. If the bladder catheterization fails, clean intermittent self-catheterization is initiated. If the patient fails to empty the bladder, a suprapubic cystostomy may be required.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "urinary incontinence",
+      "type": "T046",
+      "umls_id": "C0042024",
+      "score": 0.9851688146591187,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Involuntary loss of URINE, such as leaking of urine. It is a symptom of various underlying pathological processes. Major types of incontinence include URINARY URGE INCONTINENCE and URINARY STRESS INCONTINENCE."
+    },
+    {
+      "text": "difficulty urinating",
+      "type": "T184",
+      "umls_id": "C0241705",
+      "score": 0.9722999930381775,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "incomplete",
+      "type": "T080",
+      "umls_id": "C0205257",
+      "score": 0.9878632426261902,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not whole; lacking some necessary part or detail; unfinished."
+    },
+    {
+      "text": "voiding",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9533208012580872,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "dull pain",
+      "type": "T184",
+      "umls_id": "C0278144",
+      "score": 0.9791367650032043,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort or distress that is non-specific or without clear boundaries."
+    },
+    {
+      "text": "suprapubic region",
+      "type": "T029",
+      "umls_id": "C0230189",
+      "score": 0.9604706168174744,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The lowest central region of the abdomen, below the umbilical region and between the two iliac regions."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "leakage",
+      "type": "T046",
+      "umls_id": "C0015376",
+      "score": 0.9561432600021362,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The leakage of body fluid or cells from the vascular system to the surrounding tissues. This process occurs either by force or as a result of a pathologic reaction (e.g., inflammation). This process may sometimes allow cancer cells to migrate from capillaries to adjacent tissues, initiating micro-metastases."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "physical exertion",
+      "type": "T040",
+      "umls_id": "C0031807",
+      "score": 0.9543241262435913,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Expenditure of energy during PHYSICAL ACTIVITY. Intensity of exertion may be measured by rate of OXYGEN CONSUMPTION; HEAT produced, or HEART RATE. Perceived exertion, a psychological measure of exertion, is included."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "arterial hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9835175275802612,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "poorly controlled type 2 diabetes mellitus",
+      "type": "T033",
+      "umls_id": "C2732402",
+      "score": 0.9381394982337952,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Type I diabetes mellitus in which the blood glucose levels over time exceed levels such that tests that reflect long-term variation of blood glucose, such as HbA1c, exceed limits that are expected to be achieved by available therapies."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "amlodipine",
+      "type": "T109",
+      "umls_id": "C0051696",
+      "score": 0.9584440588951111,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION."
+    },
+    {
+      "text": "valsartan",
+      "type": "T109",
+      "umls_id": "C0216784",
+      "score": 0.9761476516723633,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An orally active nonpeptide triazole-derived antagonist of angiotensin (AT) II with antihypertensive properties. Valsartan selectively and competitively blocks the binding of angiotensin II to the AT1 subtype receptor in vascular smooth muscle and the adrenal gland, preventing AT II-mediated vasoconstriction, aldosterone synthesis and secretion, and renal reabsorption of sodium, and resulting in vasodilation, increased excretion of sodium and water, a reduction in plasma volume, and a reduction in blood pressure."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "amitriptyline",
+      "type": "T109",
+      "umls_id": "C0002600",
+      "score": 0.9732427597045898,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Tricyclic antidepressant with anticholinergic and sedative properties. It appears to prevent the re-uptake of norepinephrine and serotonin at nerve terminals, thus potentiating the action of these neurotransmitters. Amitriptyline also appears to antagonize cholinergic and alpha-1 adrenergic responses to bioactive amines."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abdominal tenderness",
+      "type": "T184",
+      "umls_id": "C0232498",
+      "score": 0.9800974726676941,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urinary",
+      "type": "T023",
+      "umls_id": "C0042027",
+      "score": 0.9912776947021484,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The duct which coveys URINE from the pelvis of the KIDNEY through the URETERS, BLADDER, and URETHRA."
+    },
+    {
+      "text": "bladder",
+      "type": "T023",
+      "umls_id": "C0005682",
+      "score": 0.9762340784072876,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A musculomembranous sac along the URINARY TRACT. URINE flows from the KIDNEYS into the bladder via the ureters (URETER), and is held there until URINATION."
+    },
+    {
+      "text": "suprapubic region",
+      "type": "T029",
+      "umls_id": "C0230189",
+      "score": 0.9604706168174744,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The lowest central region of the abdomen, below the umbilical region and between the two iliac regions."
+    },
+    {
+      "text": "neurological examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9707840085029602,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "Achilles reflexes",
+      "type": "T023",
+      "umls_id": "C0001074",
+      "score": 0.7263607978820801,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Tendon that connects the muscles in the back of the calf to the HEEL BONE."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "diminished",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9759602546691895,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "touch",
+      "type": "T061",
+      "umls_id": "C0152054",
+      "score": 0.9727063179016113,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Placing of the hands of the healer upon the person to be cured with the intent of spiritual energetic healing."
+    },
+    {
+      "text": "vibratory sensation",
+      "type": "T040",
+      "umls_id": "C0234198",
+      "score": 0.9660110473632812,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gynecologic examination",
+      "type": "T058",
+      "umls_id": "C0200044",
+      "score": 0.9591938853263855,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Inspection and PALPATATION of female breasts, abdomen, and GENITALIA, as well as obtaining a gynecological history. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "cervix",
+      "type": "T023",
+      "umls_id": "C0007874",
+      "score": 0.9750297665596008,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The neck portion of the UTERUS between the lower isthmus and the VAGINA forming the cervical canal."
+    },
+    {
+      "text": "mobile",
+      "type": "T169",
+      "umls_id": "C0231435",
+      "score": 0.985097348690033,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Moving or capable of moving readily."
+    },
+    {
+      "text": "visible lesions",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.8828912973403931,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "posterior vaginal wall",
+      "type": "T190",
+      "umls_id": "C0205792",
+      "score": 0.7270309329032898,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": "An intestinal HERNIA."
+    },
+    {
+      "text": "adnexa",
+      "type": "T023",
+      "umls_id": "C0001575",
+      "score": 0.9848832488059998,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Appendages of the UTERUS which include the FALLOPIAN TUBES, the OVARY, and the supporting ligaments of the uterus (BROAD LIGAMENT; ROUND LIGAMENT)."
+    },
+    {
+      "text": "ultrasound examination",
+      "type": "T060",
+      "umls_id": "C0948501",
+      "score": 0.9668760895729065,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "overdistended",
+      "type": "T033",
+      "umls_id": "C0700124",
+      "score": 0.7428629994392395,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The condition of being dilated or stretched."
+    },
+    {
+      "text": "urinary",
+      "type": "T023",
+      "umls_id": "C0042027",
+      "score": 0.9912776947021484,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The duct which coveys URINE from the pelvis of the KIDNEY through the URETERS, BLADDER, and URETHRA."
+    },
+    {
+      "text": "bladder",
+      "type": "T023",
+      "umls_id": "C0005682",
+      "score": 0.9762340784072876,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A musculomembranous sac along the URINARY TRACT. URINE flows from the KIDNEYS into the bladder via the ureters (URETER), and is held there until URINATION."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "66-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

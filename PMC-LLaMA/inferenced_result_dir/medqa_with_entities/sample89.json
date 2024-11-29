@@ -1,0 +1,402 @@
+{
+  "original_data": {
+    "question": "A 26-year-old G1P0 woman presents to her primary care physician’s office with feelings of anxiety and trouble with sleep. She finds it difficult initiating sleep, occasionally has palpitations, and feels fatigued. She denies having similar symptoms in the past or starting any new medications or illicit drugs. She is currently 10 weeks pregnant and is closely followed by her obstetrician. Her temperature is 98.6°F (37°C), blood pressure is 125/70 mmHg, pulse is 105/min, and respirations are 18/min. On physical exam, the patient is mildly diaphoretic. The skin is warm and the thyroid gland is diffusely enlarged with thyroid bruits. Laboratory studies are significant for a thyroid-stimulating hormone level of 0.01 µU/mL (normal is 0.5-5.0 µU/mL) and an elevated free thyroxine (FT4) that is inappropriate for her pregnancy. Which of the following is the best treatment option for this patient?",
+    "options": {
+      "A": "Methimazole",
+      "B": "Propylthiouracil",
+      "C": "Radioiodine therapy",
+      "D": "Thyroidectomy"
+    }
+  },
+  "model_response": "The patient’s clinical presentation is consistent with hyperthyroidism. The elevated thyroid-stimulating hormone level and inappropriately elevated FT4 level confirm the diagnosis. The patient’s symptoms, along with her physical exam findings, indicate that she has a hyperfunctioning thyroid gland, most likely Graves’ disease. The treatment of choice for hyperthyroidism in pregnancy is a thionamide. Both propylthiouracil and methimazole cross the placenta and can be used. However, propylthiouracil is the preferred agent because its greater protein binding allows less transfer to the fetus. Radioactive iodine is contraindicated during pregnancy because it can destroy the fetal thyroid tissue. Surgery is rarely indicated during pregnancy, and usually only for patients with large goiters who have had thyroid cancer.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "G1P0",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "’s office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feelings",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9701847434043884,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "anxiety",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9637579321861267,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "initiating sleep",
+      "type": "T047",
+      "umls_id": "C0021603",
+      "score": 0.7132524251937866,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Disorders characterized by impairment of the ability to initiate or maintain sleep. This may occur as a primary disorder or in association with another medical or psychiatric condition."
+    },
+    {
+      "text": "occasionally",
+      "type": "T079",
+      "umls_id": "C1998882",
+      "score": 0.9744722247123718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "From time to time, but not continually or always."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "feels fatigued",
+      "type": "T170",
+      "umls_id": "C3463815",
+      "score": 0.8572210669517517,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual feels or felt fatigued."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "illicit drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.9839807748794556,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "obstetrician",
+      "type": "T097",
+      "umls_id": "C0334897",
+      "score": 0.9912969470024109,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in OBSTETRICS."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diaphoretic",
+      "type": "T080",
+      "umls_id": "C1707737",
+      "score": 0.9853863716125488,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to, characterized by, or promoting sweating, e.g. procedure or an agent that promotes sweating."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "warm",
+      "type": "T033",
+      "umls_id": "C0582051",
+      "score": 0.995954692363739,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "thyroid gland",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9855895638465881,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "diffusely",
+      "type": "T082",
+      "umls_id": "C0205219",
+      "score": 0.7759100198745728,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Widely spread; not localized or confined."
+    },
+    {
+      "text": "thyroid bruits",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.7266260385513306,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "thyroid-stimulating hormone",
+      "type": "T116",
+      "umls_id": "C0040160",
+      "score": 0.964798629283905,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A glycoprotein hormone secreted by the adenohypophysis (PITUITARY GLAND, ANTERIOR). Thyrotropin stimulates THYROID GLAND by increasing the iodide transport, synthesis and release of thyroid hormones (THYROXINE and TRIIODOTHYRONINE). Thyrotropin consists of two noncovalently linked subunits, alpha and beta. Within a species, the alpha subunit is common in the pituitary glycoprotein hormones (TSH; LUTEINIZING HORMONE and FSH), but the beta subunit is unique and confers its biological specificity."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "free thyroxine",
+      "type": "T059",
+      "umls_id": "C0202225",
+      "score": 0.9807252287864685,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the amount of free thyroxine present in a sample."
+    },
+    {
+      "text": "FT4",
+      "type": "T059",
+      "umls_id": "C0202024",
+      "score": 0.8205509185791016,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A measurement of the thyroid status (function, disease diagnosis, or therapy effectiveness) in a biological specimen. This is calculated by a mathematical formula that takes into account the total thyroxine and unbound thyroxine binding globulins."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

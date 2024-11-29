@@ -1,0 +1,390 @@
+{
+  "original_data": {
+    "question": "A 7-year-old boy is brought to a pediatrician by his parents for evaluation of frequent bed wetting during the night. A detailed history reveals that there has been no history of urinary incontinence during the day since the boy was 4 years of age, but that he has never been dry at night continuously for 1 week. There is no history of urinary tract infections, urgency, frequency, or hesitancy. On physical examination, the boy’s vital signs are stable. His neurologic and abdominal examinations are completely normal. His laboratory investigations are as follows:\nUrine-specific gravity (first-morning sample) 1.035\nUrine red blood cells Absent\nUrine pus cells Absent\nUrine culture Negative\nWhich of the following is the next step in the management of this patient?",
+    "options": {
+      "A": "Magnetic resonance imaging (MRI) of the spine",
+      "B": "Reassuring the parents and use of an enuresis alarm",
+      "C": "Treatment with oral oxybutynin",
+      "D": "Treatment with oral imipramine"
+    }
+  },
+  "model_response": "This patient’s history and laboratory results are most consistent with primary nocturnal enuresis, which is defined as the repeated and involuntary voiding of urine during sleep beyond the age of 5 years. Primary nocturnal enuresis is a common problem, affecting 7% of 5-year-old children and 3% of 10-year-old children. The evaluation of a child with primary nocturnal enuresis includes a thorough history and physical examination. The history should focus on the duration and frequency of the enuresis, the presence of nocturnal incontinence, and the presence of daytime symptoms. The physical examination should include an assessment of the neurologic and genitourinary systems. Laboratory studies are generally unnecessary, but a urinalysis and urine culture are indicated if the history suggests a urinary tract infection. An MRI of the spine is indicated if there are signs of spinal cord abnormalities, such as leg weakness or foot deformities. The use of an enuresis alarm is the most appropriate next step in the management of this patient. Enuresis alarms are available in a variety of styles; the most popular are those that sound a tone when a small quantity of urine is detected on a sensing pad. The success of this form of therapy is enhanced when the child is motivated to remain dry and when the parents provide positive reinforcement for the child’s efforts. The use of oral medications (oxybutynin or imipramine) is controversial. Although these medications can be effective in some cases, they are generally not recommended as first-line therapy because of their potential side effects and the limited duration of their effect.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "bed wetting",
+      "type": "T048",
+      "umls_id": "C0270327",
+      "score": 0.948235034942627,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Involuntary discharge of URINE during sleep at night after expected age of completed development of urinary control."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "urinary incontinence",
+      "type": "T046",
+      "umls_id": "C0042024",
+      "score": 0.9851688146591187,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Involuntary loss of URINE, such as leaking of urine. It is a symptom of various underlying pathological processes. Major types of incontinence include URINARY URGE INCONTINENCE and URINARY STRESS INCONTINENCE."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "urinary tract infections",
+      "type": "T047",
+      "umls_id": "C0042029",
+      "score": 0.9816406965255737,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammatory responses of the epithelium of the URINARY TRACT to microbial invasions. They are often bacterial infections with associated BACTERIURIA and PYURIA."
+    },
+    {
+      "text": "urgency",
+      "type": "T080",
+      "umls_id": "C0439609",
+      "score": 0.988447368144989,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The pressing importance of something."
+    },
+    {
+      "text": "frequency",
+      "type": "T079",
+      "umls_id": "C0376249",
+      "score": 0.9909980297088623,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hesitancy",
+      "type": "T184",
+      "umls_id": "C0152032",
+      "score": 0.9907257556915283,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficulty in initiating urination."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "boy’s vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.8716703057289124,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "stable",
+      "type": "T080",
+      "umls_id": "C0205360",
+      "score": 0.996412992477417,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of being free from change or variation or not taking part readily in chemical change."
+    },
+    {
+      "text": "His neurologic",
+      "type": "T080",
+      "umls_id": "C0205494",
+      "score": 0.8671948313713074,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to nerves or the nervous system."
+    },
+    {
+      "text": "abdominal examinations",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.920524537563324,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "normal",
+      "type": "T080",
+      "umls_id": "C0205307",
+      "score": 0.9803991317749023,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In pathology, a term that is used to describe a tissue specimen that has a normal appearance."
+    },
+    {
+      "text": "laboratory investigations",
+      "type": "T058",
+      "umls_id": "C1261322",
+      "score": 0.7384226322174072,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The act or process of a systematic and thorough examination; research, study; the process of inquiring into or following up, intended to develop facts."
+    },
+    {
+      "text": "Urine-specific gravity",
+      "type": "T081",
+      "umls_id": "C0037786",
+      "score": 0.8020821213722229,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The ratio of the density of a material to the density of some standard material, such as water or air, at a specified temperature."
+    },
+    {
+      "text": "sample",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9872499108314514,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "Urine red",
+      "type": "T033",
+      "umls_id": "C0858862",
+      "score": 0.9808139801025391,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormal red color of the urine. []"
+    },
+    {
+      "text": "Absent\n",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "Urine pus cells",
+      "type": "T033",
+      "umls_id": "C0034359",
+      "score": 0.9757203459739685,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The presence of white blood cells (LEUKOCYTES) in the urine. It is often associated with bacterial infections of the urinary tract. Pyuria without BACTERIURIA can be caused by TUBERCULOSIS, stones, or cancer."
+    },
+    {
+      "text": "Absent\n",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "Urine culture",
+      "type": "T059",
+      "umls_id": "C0430404",
+      "score": 0.9748582243919373,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "7-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

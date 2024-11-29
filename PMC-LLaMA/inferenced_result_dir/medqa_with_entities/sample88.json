@@ -1,0 +1,468 @@
+{
+  "original_data": {
+    "question": "A 26-year-old woman is brought to the emergency department 20 minutes after being involved in a high-speed motor vehicle collision in which she was a restrained passenger. On arrival, she is lethargic and incoherent. She has severe facial lacerations and is in respiratory distress. Her pulse is 130/min, respirations are 29/min, and blood pressure is 90/58 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 70%. Examination shows multiple facial lacerations. There is dullness to percussion and decreased breath sounds over the left lung base. Abdominal examination shows diffuse tenderness with no guarding or rebound. Bowel sounds are normal. The remainder of the examination shows no abnormalities. Her hemoglobin concentration is 12.1 g/dL. An x-ray of the chest shows a fractured left second rib, depression of the left mainstem bronchus, deviation of the nasogastric tube to the right, and a widened mediastinum. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Diaphragmatic rupture",
+      "B": "Traumatic bronchial rupture",
+      "C": "Thoracic aortic rupture",
+      "D": "Tension pneumothorax"
+    }
+  },
+  "model_response": "The presence of a fractured left second rib, depression of the left mainstem bronchus, deviation of the nasogastric tube to the right, and a widened mediastinum are all consistent with a traumatic bronchial rupture. The bronchus is relatively mobile in its distal portion, and with a fractured rib, it can be deviated laterally. The other choices do not explain the findings of a widened mediastinum and deviation of the nasogastric tube.\n\nTraumatic bronchial rupture is most commonly seen in motor vehicle crashes in which the patient is in the front seat and the chest strikes the steering wheel. It can also be seen in falls and blasts. The bronchus is relatively fixed at the level of the carina, and with sufficient force, it can rupture, leading to a bronchopleural fistula. This can result in a very difficult-to-manage pneumothorax on the ipsilateral side.\n\nDiaphragmatic rupture can occur with sufficient blunt force to the abdomen, but it would not cause deviation of the nasogastric tube. The other findings on chest x-ray would not be present.\n\nThoracic aortic rupture is seen after sufficient deceleration injury, such as a motor vehicle crash in which the patient's chest strikes the steering wheel. The findings on chest x-ray would be those of a widened mediastinum and deviation of the trachea to the right. The nasogastric tube would not be deviated.\n\nTension pneumothorax can occur with sufficient penetrating or blunt injury to the chest. It would cause deviation of the trachea to the opposite side and hyperresonance on percussion of the ipsilateral chest. The nasogastric tube would not be deviated.\n\nDiagnosis: Traumatic bronchial rupture\n\n\n\n\nThis 26-year-old woman was involved in a motor vehicle collision in which she was a restrained passenger. On arrival in the emergency department, she was lethargic and incoherent. She had severe facial lacerations and was in respiratory distress. Her pulse was elevated, and her blood pressure was low. Pulse oximetry on room air showed an oxygen saturation of 70%. Examination showed multiple facial lacerations. There was dullness to percussion and decreased breath sounds over the left lung base. Abdominal examination showed diffuse tenderness with no guarding or rebound. Bowel sounds were normal. The remainder of the examination showed no abnormalities. Her hemoglobin concentration was 12.1 g/dL. An x-ray of the chest showed a fractured left second rib, depression of the left mainstem bronchus, deviation of the nasogastric tube to the right, and a widened mediastinum. The most likely diagnosis is traumatic bronchial rupture.\n\n\nTraumatic bronchial rupture is most commonly seen in motor vehicle crashes in which the patient is in the front seat and the chest strikes the steering wheel. It can also be seen in falls and blasts. The bronchus is relatively fixed at the level of the carina, and with sufficient force, it can rupture, leading to a bronchopleural fistula. This can result in a very difficult-to-manage pneumothorax on the ipsilateral side.\n\nDiaphragmatic rupture can occur with sufficient blunt force to the abdomen, but it would not cause deviation of the nasogastric tube. The other findings on chest x-ray would not be present.\n\nThoracic aortic rupture is seen after sufficient deceleration injury, such as a motor vehicle crash in which the patient's chest strikes the steering wheel. The findings on chest x-ray would be those of a widened mediastinum and deviation of the trachea to the right. The nasogastric tube would not be deviated.\n\nTension pneumothorax can occur with sufficient penetrating or blunt injury to the chest. It would cause deviation of the trachea to the opposite side and",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "motor vehicle",
+      "type": "T073",
+      "umls_id": "C0175845",
+      "score": 0.9630305171012878,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "AUTOMOBILES, trucks, buses, or similar engine-driven conveyances. (From Random House Unabridged Dictionary, 2d ed)"
+    },
+    {
+      "text": "passenger",
+      "type": "T098",
+      "umls_id": "C0450048",
+      "score": 0.9857192635536194,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "incoherent",
+      "type": "T033",
+      "umls_id": "C0542044",
+      "score": 0.9665210843086243,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Unintelligibility of verbal or written communication due to a lack of clarity or connectedness."
+    },
+    {
+      "text": "facial lacerations",
+      "type": "T037",
+      "umls_id": "C1299982",
+      "score": 0.9843134880065918,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "respiratory distress",
+      "type": "T184",
+      "umls_id": "C0476273",
+      "score": 0.9905274510383606,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A pathological increase in the effort and frequency of breathing movements."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "facial lacerations",
+      "type": "T037",
+      "umls_id": "C1299982",
+      "score": 0.9843134880065918,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dullness",
+      "type": "T033",
+      "umls_id": "C0541911",
+      "score": 0.974902331829071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "percussion",
+      "type": "T060",
+      "umls_id": "C0030987",
+      "score": 0.9690043926239014,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of striking a part with short, sharp blows as an aid in diagnosing the condition beneath the sound obtained."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "breath sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9867587685585022,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "left lung base",
+      "type": "T029",
+      "umls_id": "C0225732",
+      "score": 0.9799090623855591,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "diffuse",
+      "type": "T082",
+      "umls_id": "C0205219",
+      "score": 0.9735197424888611,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Widely spread; not localized or confined."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "rebound",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232693",
+      "score": 0.9843449592590332,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "fractured",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9881904721260071,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "left second",
+      "type": "T081",
+      "umls_id": "C0205436",
+      "score": 0.7630907297134399,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Coming next after the first in position in space or time or degree or magnitude."
+    },
+    {
+      "text": "rib",
+      "type": "T023",
+      "umls_id": "C0035561",
+      "score": 0.9843501448631287,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A set of twelve curved bones which connect to the vertebral column posteriorly, and terminate anteriorly as costal cartilage. Together, they form a protective cage around the internal thoracic organs."
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "left mainstem",
+      "type": "T023",
+      "umls_id": "C1261082",
+      "score": 0.8555971384048462,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A coronary artery that arises from the aorta and bifurcates into the left anterior descending artery and the left circumflex artery."
+    },
+    {
+      "text": "bronchus",
+      "type": "T023",
+      "umls_id": "C0006255",
+      "score": 0.9819592237472534,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The larger air passages of the lungs arising from the terminal bifurcation of the TRACHEA. They include the largest two primary bronchi which branch out into secondary bronchi, and tertiary bronchi which extend into BRONCHIOLES and PULMONARY ALVEOLI."
+    },
+    {
+      "text": "deviation",
+      "type": "T082",
+      "umls_id": "C0012727",
+      "score": 0.9693431854248047,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nasogastric tube",
+      "type": "T074",
+      "umls_id": "C0085678",
+      "score": 0.9736019372940063,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A hollow tube that is directed into the stomach from the nose."
+    },
+    {
+      "text": "right",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9998472332954407,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "mediastinum",
+      "type": "T029",
+      "umls_id": "C0025066",
+      "score": 0.9793151021003723,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "A membrane in the midline of the THORAX of mammals. It separates the lungs between the STERNUM in front and the VERTEBRAL COLUMN behind. It also surrounds the HEART, TRACHEA, ESOPHAGUS, THYMUS, and LYMPH NODES."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

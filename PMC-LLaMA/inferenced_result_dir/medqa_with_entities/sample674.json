@@ -1,0 +1,180 @@
+{
+  "original_data": {
+    "question": "An experimental new drug in the treatment of diabetes mellitus type 2 was found to increase the levels of incretins by preventing their degradation at the endothelium. This further increased glucose-dependent insulin production. Which of the following drugs has a mechanism of action most similar to this new experimental drug?",
+    "options": {
+      "A": "Sitagliptin",
+      "B": "Glimepiride",
+      "C": "Canagliflozin",
+      "D": "Pioglitazone"
+    }
+  },
+  "model_response": "{'A': 'Sitagliptin', 'B': 'Glimepiride', 'C': 'Canagliflozin', 'D': 'Pioglitazone'}[?]Incretins are peptides released from the gastrointestinal tract in response to nutrient ingestion. They then act on the pancreas to cause an increase in insulin secretion. Two important incretins are glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP). GLP-1 has a number of effects that increase insulin secretion, including closing potassium channels, opening calcium channels, and increasing the sensitivity of the pancreatic b cells to glucose. It is normally rapidly degraded by the enzyme dipeptidly peptidase-4 (DPP-4). Sitagliptin is a DPP-4 inhibitor that prevents the degradation of GLP-1, thus increasing the levels of GLP-1 and the insulin response.Glimepiride is a sulfonylurea that acts by stimulating insulin secretion.Canagliflozin is a sodium-glucose cotranspo-2 (SGLT-2) inhibitor that inhibits glucose reabsorption in the kidney, leading to increased urinary glucose excretion.Pioglitazone is a thiazolidinedione that acts by decreasing insulin resistance.</s><s>",
+  "question_entities": [
+    {
+      "text": "experimental",
+      "type": "T080",
+      "umls_id": "C1517586",
+      "score": 0.9515872597694397,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In the process of being studied; experimental."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "diabetes mellitus type 2",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "increase",
+      "type": "T169",
+      "umls_id": "C0442805",
+      "score": 0.9789021015167236,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A process of becoming larger, more numerous, more important, or more likely."
+    },
+    {
+      "text": "levels",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882259964942932,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "incretins",
+      "type": "T116",
+      "umls_id": "C1562292",
+      "score": 0.9861208200454712,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "Peptides which stimulate INSULIN release from the PANCREATIC BETA CELLS following oral nutrient ingestion, or postprandially."
+    },
+    {
+      "text": "preventing",
+      "type": "T061",
+      "umls_id": "C0199176",
+      "score": 0.7525025606155396,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Therapeutic, nutritional, environmental, social and/or behavioral interventions at the societal, community, organizational or individual levels to reduce, modify or stop the course of a disease."
+    },
+    {
+      "text": "degradation",
+      "type": "T040",
+      "umls_id": "C0243125",
+      "score": 0.9515697956085205,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": null
+    },
+    {
+      "text": "endothelium",
+      "type": "T024",
+      "umls_id": "C0014257",
+      "score": 0.9803416132926941,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "A layer of epithelium that lines the heart, blood vessels (ENDOTHELIUM, VASCULAR), lymph vessels (ENDOTHELIUM, LYMPHATIC), and the serous cavities of the body."
+    },
+    {
+      "text": "glucose-dependent",
+      "type": "T116",
+      "umls_id": "C0017132",
+      "score": 0.7031669020652771,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A gastrointestinal peptide hormone of about 43-amino acids. It is found to be a potent stimulator of INSULIN secretion and a relatively poor inhibitor of GASTRIC ACID secretion."
+    },
+    {
+      "text": "insulin",
+      "type": "T116",
+      "umls_id": "C0021641",
+      "score": 0.9696833491325378,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A 51-amino acid pancreatic hormone that plays a major role in the regulation of glucose metabolism, directly by suppressing endogenous glucose production (GLYCOGENOLYSIS; GLUCONEOGENESIS) and indirectly by suppressing GLUCAGON secretion and LIPOLYSIS. Native insulin is a globular protein comprised of a zinc-coordinated hexamer. Each insulin monomer containing two chains, A (21 residues) and B (30 residues), linked by two disulfide bonds. Insulin is used as a drug to control insulin-dependent diabetes mellitus (DIABETES MELLITUS, TYPE 1)."
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "experimental drug",
+      "type": "T121",
+      "umls_id": "C0304229",
+      "score": 0.9604276418685913,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": null
+    }
+  ]
+}

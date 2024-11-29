@@ -1,0 +1,364 @@
+{
+  "original_data": {
+    "question": "A 22-year-old primigravida presents for a regular prenatal visit at 16 weeks gestation. She is concerned about the results of a dipstick test she performed at home, which showed 1+ glucose. She does not know  if her liquid consumption has increased, but she urinates more frequently than before. The course of her pregnancy has been unremarkable and she has no significant co-morbidities. The BMI is 25.6 kg/cm2 and she has gained 3 kg (6.72 lb) during the pregnancy. The blood pressure is 110/80 mm Hg, the heart rate is 82/min, the respiratory rate is 14/min, and the temperature is 36.6℃ (97.9℉). The lungs are clear to auscultation, the heart sounds are normal with no murmurs, and there is no abdominal or costovertebral angle tenderness. The laboratory tests show the following results:\nFasting glucose 97 mg/L\nALT 12 IU/L\nAST 14 IU/L\nTotal bilirubin 0.8 mg/dL(15 µmol/L)\nPlasma creatinine 0.7 mg/dL (61.9 µmol/L)\nWhich of the following tests are indicated to determine the cause of the abnormal dipstick test results?",
+    "options": {
+      "A": "HbA1c measurement",
+      "B": "No tests required",
+      "C": "Urinalysis",
+      "D": "Oral glucose tolerance test"
+    }
+  },
+  "model_response": "The patient’s history and laboratory results are consistent with gestational diabetes mellitus (GDM). The American College of Obstetricians and Gynecologists (2017a) recommends screening for GDM between 24 and 28 weeks using a 1-hour 50-g oral glucose challenge test (GCT) with a loading dose of 50 g of glucose. If the GCT is positive (>140 mg/dL), then a 3-hour diagnostic oral glucose tolerance test (OGTT) using a 100-g glucose load is performed. The HbA1c is not recommended for screening because it is less sensitive than the GCT. The dipstick test is not a reliable screening test for GDM because it does not differentiate between the different forms of glucose in the urine (glucose, ketones, and/or sugar alcohols). The urinalysis is not indicated because there are no clinical signs or symptoms of a urinary tract infection.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "primigravida",
+      "type": "T033",
+      "umls_id": "C0860096",
+      "score": 0.9788661003112793,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "prenatal visit",
+      "type": "T058",
+      "umls_id": "C1827763",
+      "score": 0.9857678413391113,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "test",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9994137287139893,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "glucose",
+      "type": "T109",
+      "umls_id": "C0017725",
+      "score": 0.9921190142631531,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T123"
+      ],
+      "definition": "A primary source of energy for living organisms. It is naturally occurring and is found in fruits and other parts of plants in its free state. It is used therapeutically in fluid and nutrient replacement."
+    },
+    {
+      "text": "liquid consumption",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urinates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "co-morbidities",
+      "type": "T033",
+      "umls_id": "C0009488",
+      "score": 0.8146767020225525,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The presence of co-existing or additional diseases with reference to an initial diagnosis or with reference to the index condition that is the subject of study. Comorbidity may affect the ability of affected individuals to function and also their survival; it may be used as a prognostic indicator for length of hospital stay, cost factors, and outcome or survival."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "kg/cm2",
+      "type": "T081",
+      "umls_id": "C1688650",
+      "score": 0.7629877328872681,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A unit of area density defined as a spread rate at which one milligram of a substance is spread over the area of one square centimeter. The unit is also used as a dose calculation unit."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "heart sounds",
+      "type": "T042",
+      "umls_id": "C0018820",
+      "score": 0.9864314794540405,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The sounds heard over the cardiac region produced by the functioning of the heart. There are four distinct sounds: the first occurs at the beginning of SYSTOLE and is heard as a \"lubb\" sound; the second is produced by the closing of the AORTIC VALVE and PULMONARY VALVE and is heard as a \"dupp\" sound; the third is produced by vibrations of the ventricular walls when suddenly distended by the rush of blood from the HEART ATRIA; and the fourth is produced by atrial contraction and ventricular filling."
+    },
+    {
+      "text": "no murmurs",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.8949203491210938,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "costovertebral angle",
+      "type": "T030",
+      "umls_id": "C0224681",
+      "score": 0.7304818034172058,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The synovial joints that attach the heads of the ribs to the bodies of the thoracic vertebrae."
+    },
+    {
+      "text": "laboratory tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9844176769256592,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "ALT",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9907079935073853,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "IU/L",
+      "type": "T081",
+      "umls_id": "C0439457",
+      "score": 0.9975888133049011,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Unit of arbitrary substance concentration (biologic activity concentration) defined as the concentration of one international unit per one liter of the system volume."
+    },
+    {
+      "text": "Total bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9635241627693176,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "Plasma creatinine",
+      "type": "T059",
+      "umls_id": "C1278055",
+      "score": 0.9894852042198181,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9838898777961731,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "cause",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9771540760993958,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "22-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

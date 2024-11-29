@@ -1,0 +1,327 @@
+{
+  "original_data": {
+    "question": "A 59-year-old man presents to his primary care provider with fatigue. He has been seen in the emergency room 5 times in the past 2 years for acute alcohol intoxication. His past medical history is notable for diabetes mellitus and gout. He takes metformin, glyburide, and allopurinol. His temperature is 98.6°F (37°C), blood pressure is 130/85 mmHg, pulse is 86/min, and respirations are 16/min. He is in no acute distress. A positive fluid wave is noted. The dorsal surface of the tongue is depapillated, and there are erythematous swollen patches at the oral commissures. A complete blood count and iron studies are reported below:\n\nHemoglobin: 12.1 g/dL\nHematocrit: 36%\nLeukocyte count: 6,000/mm^3 with normal differential\nPlatelet count: 170,000/mm^3\n\nMean corpuscular volume: 70 um^3\nIron: 250 ug/dL\nFerritin: 300 ng/mL\nTotal iron binding capacity: 200 mcg/dL^3\n\nWhich of the following findings is most likely to be seen in this patient?",
+    "options": {
+      "A": "Erythroblasts with mitochondrial iron deposits",
+      "B": "Erythrocytes lacking central pallor",
+      "C": "Erythrocytes with a ring of relative pallor",
+      "D": "Inclusions of denatured hemoglobin"
+    }
+  },
+  "model_response": "{'A': 'Erythroblasts with mitochondrial iron deposits', 'B': 'Erythrocytes lacking central pallor', 'C': 'Erythrocytes with a ring of relative pallor', 'D': 'Inclusions of denatured hemoglobin'}\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "emergency room 5 times",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.8147686123847961,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "acute alcohol intoxication",
+      "type": "T048",
+      "umls_id": "C0001969",
+      "score": 0.9662082195281982,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An acute brain syndrome which results from the excessive ingestion of ETHANOL or ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "gout",
+      "type": "T047",
+      "umls_id": "C0018099",
+      "score": 0.9994637370109558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of URIC ACID calculi."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "glyburide",
+      "type": "T109",
+      "umls_id": "C0017628",
+      "score": 0.9625511169433594,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antidiabetic sulfonylurea derivative with actions like those of chlorpropamide"
+    },
+    {
+      "text": "allopurinol",
+      "type": "T109",
+      "umls_id": "C0002144",
+      "score": 0.9888184666633606,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A XANTHINE OXIDASE inhibitor that decreases URIC ACID production. It also acts as an antimetabolite on some simpler organisms."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "acute distress",
+      "type": "T041",
+      "umls_id": "C0231303",
+      "score": 0.7816057205200195,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of physiological or psychological stress that cannot be compensated for by normal adaptive measures."
+    },
+    {
+      "text": "positive fluid",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.7817904949188232,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "dorsal surface",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tongue",
+      "type": "T023",
+      "umls_id": "C0040408",
+      "score": 0.9851449131965637,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscular organ in the mouth that is covered with pink tissue called mucosa, tiny bumps called papillae, and thousands of taste buds. The tongue is anchored to the mouth and is vital for chewing, swallowing, and for speech."
+    },
+    {
+      "text": "depapillated",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "erythematous",
+      "type": "T169",
+      "umls_id": "C0332476",
+      "score": 0.9739061594009399,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "oral commissures",
+      "type": "T030",
+      "umls_id": "C0226924",
+      "score": 0.8722123503684998,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The junction of the upper and lower lips at the corner of the mouth."
+    },
+    {
+      "text": "iron studies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "Hematocrit",
+      "type": "T059",
+      "umls_id": "C0018935",
+      "score": 0.9932670593261719,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value."
+    },
+    {
+      "text": "6,000/mm^3 with",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Total iron binding",
+      "type": "T044",
+      "umls_id": "C1148613",
+      "score": 0.8077538013458252,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": "Binding to an iron (Fe) ion. [GOC:ai]"
+    },
+    {
+      "text": "mcg/dL^3",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "59-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

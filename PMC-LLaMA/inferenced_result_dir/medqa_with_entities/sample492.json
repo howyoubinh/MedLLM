@@ -1,0 +1,381 @@
+{
+  "original_data": {
+    "question": "A 38-year-old nursing home worker presents to the clinic with complaints of fever, loss of appetite, fatigue, and productive cough for the past couple of months. His fever is low-grade and sputum is often blood-tinged. He has lost 6.8 kg (15.0 lb) during this period and complains of profound night sweats. A plain radiograph of the patient’s chest shows consolidation in the apical part of the right lung. Baseline investigations show the following:\nComplete blood count\nHemoglobin 11 g/dL\nWhite blood cells  \nTotal count 16,000/mm3\nDifferential count  \nNeutrophils 35%\nLymphocytes 54%\nEosinophils 11%\nErythrocyte sedimentation rate 84 mm\nThe physician suspects that the patient is suffering from a chronic lung infection. Which of the following statements best describes the type of lung inflammation in this patient?",
+    "options": {
+      "A": "There are small granulomas with few epithelioid cells along with fibrosis.",
+      "B": "It has a granuloma with Anitchov cells around a core of fibrinoid collagen necrosis.",
+      "C": "It consists of a largely circumscribed granuloma with epithelioid cells with Langhans cells.",
+      "D": "This type of granulomatous inflammation is also seen in histoplasmosis."
+    }
+  },
+  "model_response": "The patient is suffering from pulmonary tuberculosis. The granuloma in tuberculosis is characterized by the presence of small granulomas with few epithelioid cells and multinucleated giant cells along with fibrosis. The granuloma in sarcoidosis has a granuloma with an asteroid body around a core of fibrinoid collagen necrosis. The granuloma in histoplasmosis consists of a largely circumscribed granuloma with epithelioid cells with Langhans cells. The granuloma in coccidioidomycosis is characterized by the presence of a large number of epithelioid cells and giant cells.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "nursing home worker",
+      "type": "T058",
+      "umls_id": "C0019860",
+      "score": 0.7889464497566223,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Nursing care given to an individual in the home. The care may be provided by a family member or a friend. Home nursing as care by a non-professional is differentiated from HOME CARE SERVICES provided by professionals: visiting nurse, home health agencies, hospital, or other organized community group."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "loss of appetite",
+      "type": "T047",
+      "umls_id": "C0003123",
+      "score": 0.9806925654411316,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The lack or loss of APPETITE accompanied by an aversion to food and the inability to eat. It is the defining characteristic of the disorder ANOREXIA NERVOSA."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "productive cough",
+      "type": "T033",
+      "umls_id": "C0239134",
+      "score": 0.9714952111244202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A cough accompanied by expectorated secretions."
+    },
+    {
+      "text": "couple",
+      "type": "T099",
+      "umls_id": "C0010222",
+      "score": 0.9695232510566711,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "low-grade",
+      "type": "T191",
+      "umls_id": "C1518005",
+      "score": 0.8834829926490784,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A precancerous neoplastic process that affects the cervical squamous epithelium without evidence of invasion. It is usually associated with human papillomavirus infection. It is characterized by the presence of mild atypia in the superficial epithelial layer that may be associated with koilocytosis. Maturation is present in the upper two thirds of the epithelium. Mitotic figures are not numerous and are present in the basal third of the epithelium."
+    },
+    {
+      "text": "sputum",
+      "type": "T031",
+      "umls_id": "C0038056",
+      "score": 0.9385208487510681,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Material coughed up from the lungs and expectorated via the mouth. It contains MUCUS, cellular debris, and microorganisms. It may also contain blood or pus."
+    },
+    {
+      "text": "blood-tinged",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "profound",
+      "type": "T080",
+      "umls_id": "C0439808",
+      "score": 0.9547708630561829,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having an extremely high degree of severity. For quantitative traits, a deviation of more than five standard deviations from the appropriate population mean. [HPO:probinson]"
+    },
+    {
+      "text": "night sweats",
+      "type": "T184",
+      "umls_id": "C0028081",
+      "score": 0.9751355051994324,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Perspiration experienced nocturnally that is unrelated to environmental temperature."
+    },
+    {
+      "text": "plain radiograph",
+      "type": "T060",
+      "umls_id": "C1306645",
+      "score": 0.886698305606842,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An image produced on a radiosensitive surface by x-ray radiation that has penetrated and passed through a structure."
+    },
+    {
+      "text": "patient’s chest",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "apical part",
+      "type": "T026",
+      "umls_id": "C1166646",
+      "score": 0.7942085862159729,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "The region of a polarized cell that forms a tip or is distal to a base. For example, in a polarized epithelial cell, the apical region has an exposed surface and lies opposite to the basal lamina that separates the epithelium from other tissue. [GOC:mah, ISBN:0815316194]"
+    },
+    {
+      "text": "right lung",
+      "type": "T023",
+      "umls_id": "C0225706",
+      "score": 0.9838702082633972,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The 3-lobed lung located on the right side of the body."
+    },
+    {
+      "text": "Baseline",
+      "type": "T122",
+      "umls_id": "C0168634",
+      "score": 0.9804818034172058,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": null
+    },
+    {
+      "text": "investigations",
+      "type": "T058",
+      "umls_id": "C1261322",
+      "score": 0.96682208776474,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The act or process of a systematic and thorough examination; research, study; the process of inquiring into or following up, intended to develop facts."
+    },
+    {
+      "text": "Complete blood count\nHemoglobin 11 g/dL\n",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.734061062335968,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "White blood cells",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9866698980331421,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "Neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "sedimentation",
+      "type": "T059",
+      "umls_id": "C0597428",
+      "score": 0.9737226366996765,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The act or process of settling particles by mechanical means from a state of suspension in air or water."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "physician suspects",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.725096583366394,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "suffering",
+      "type": "T048",
+      "umls_id": "C0683278",
+      "score": 0.940387487411499,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "State of severe distress associated with events that threaten the intactness of the person, can be physical, mental, or emotional."
+    },
+    {
+      "text": "chronic lung infection",
+      "type": "T047",
+      "umls_id": "C3163798",
+      "score": 0.9001995325088501,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An increased susceptibility to lower respiratory tract infections as manifested by a history of recurrent lower respiratory tract infections. [HPO:probinson]"
+    },
+    {
+      "text": "statements",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.8483113050460815,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "lung inflammation",
+      "type": "T047",
+      "umls_id": "C0032285",
+      "score": 0.9624013304710388,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Infection of the lung often accompanied by inflammation."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

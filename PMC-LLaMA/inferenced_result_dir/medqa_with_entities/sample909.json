@@ -1,0 +1,221 @@
+{
+  "original_data": {
+    "question": "A 36-year-old G3P2 woman with no significant past medical history delivers a 3.7 kg (8 lb, 3 oz) baby boy following an uncomplicated pregnancy. On physical examination in the delivery room, the pediatrician notes that the baby has upslanting palpebral fissures, epicanthal folds, a flat facial profile, small ears, a single palmar crease, and hypotonia. When discussing the diagnosis with the parents, which of the following is this baby at an increased risk for having?",
+    "options": {
+      "A": "Tetralogy of Fallot",
+      "B": "Omphalocele",
+      "C": "Congenital cataracts",
+      "D": "Cleft lip"
+    }
+  },
+  "model_response": "This baby is at increased risk for Down syndrome (trisomy 21). The facial features described are typical of this condition. Other features include a single transverse palmar crease, a gap between the first and second toe (known as \"sandle gap\"), and in females, a wide and short neck. Children with Down syndrome are at increased risk for other conditions, including tetralogy of Fallot, congenital cataracts, and cleft lip. Omphalocele is a risk for in utero demise, not a condition associated with Down syndrome.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "G3P2",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "no significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "uncomplicated pregnancy",
+      "type": "T033",
+      "umls_id": "C4314562",
+      "score": 0.9832207560539246,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "delivery room",
+      "type": "T073",
+      "umls_id": "C0011212",
+      "score": 0.9765308499336243,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units equipped for childbirth."
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "baby",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9707297086715698,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "palpebral fissures",
+      "type": "T023",
+      "umls_id": "C0229244",
+      "score": 0.951565146446228,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The elliptical shaped curve of the bottom border of the upper eyelid, extending from the medial canthus to the lateral canthus."
+    },
+    {
+      "text": "epicanthal folds",
+      "type": "T023",
+      "umls_id": "C0229249",
+      "score": 0.9682607054710388,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "flat",
+      "type": "T082",
+      "umls_id": "C0205324",
+      "score": 0.9878820776939392,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "facial profile",
+      "type": "T033",
+      "umls_id": "C0424476",
+      "score": 0.96036696434021,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "palmar crease",
+      "type": "T033",
+      "umls_id": "C0424730",
+      "score": 0.9807416200637817,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hypotonia",
+      "type": "T033",
+      "umls_id": "C0026827",
+      "score": 0.988592267036438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A diminution of the skeletal muscle tone marked by a diminished resistance to passive stretching."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "baby",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9707297086715698,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

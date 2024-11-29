@@ -1,0 +1,632 @@
+{
+  "original_data": {
+    "question": "A 3-year-old boy presents with episodic diarrhea with malodorous stools, stunted growth, occasional abdominal cramps, and an itchy rash. His mother says that these symptoms developed approximately 2 years ago. The patient was exclusively breastfed up to the age of 7 months. Supplementary feeding was started with non-starchy vegetable followed by starchy vegetables, meat, fish, eggs, and bread. Bread and cookies were the last product to be introduced at the age of 12 months. The patient’s mother tried to withdraw dairy products from the patient’s diet because she heard that lactose can cause such symptoms, but it did not help. The patient’s vital signs include: blood pressure 90/55 mm Hg, heart rate 101/min, respiratory rate 19/min, and temperature 36.3℃ (97.3℉). His weight is 11 kg (24.2 lb, -2 SD) and height is 90 cm (2 ft 11 in, -1 SD). On physical examination, the patient’s skin is pale with a papulovesicular rash on his abdomen and back. There are a few aphthous ulcers in the oral cavity. The abdomen is distended but no tenderness to palpation. No hepatosplenomegaly. An immunological assay is performed and shows positive anti-transglutaminase and anti-endomysial antibodies. Which of the following changes would you most likely expect to see on intestinal biopsy in this patient?",
+    "options": {
+      "A": "Granulomas in the submucous tissue",
+      "B": "Crypt abscesses",
+      "C": "Villous atrophy and crypt hypertrophy",
+      "D": "Villous hyperplasia"
+    }
+  },
+  "model_response": "The patient’s clinical picture is consistent with celiac disease. The most characteristic histological finding in celiac disease is villous atrophy and crypt hyperplasia. The other options are not characteristic of celiac disease.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "episodic diarrhea",
+      "type": "T184",
+      "umls_id": "C0239181",
+      "score": 0.9813442826271057,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Repeated episodes of diarrhea separated by periods without diarrhea. []"
+    },
+    {
+      "text": "malodorous stools",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "stunted growth",
+      "type": "T046",
+      "umls_id": "C0018273",
+      "score": 0.9739493131637573,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Deviations from the average values for a specific age and sex in any or all of the following: height, weight, skeletal proportions, osseous development, or maturation of features. Included here are both acceleration and retardation of growth."
+    },
+    {
+      "text": "occasional abdominal cramps",
+      "type": "T184",
+      "umls_id": "C0000729",
+      "score": 0.7584238648414612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An involuntary muscular contraction involving a muscle of the abdomen or of a hollow organ within the abdomen."
+    },
+    {
+      "text": "itchy rash",
+      "type": "T047",
+      "umls_id": "C0033771",
+      "score": 0.9869619011878967,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A name applied to several itchy skin eruptions of unknown cause. The characteristic course is the formation of a dome-shaped papule with a small transient vesicle on top, followed by crusting over or lichenification. (From Dorland, 27th ed)"
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "breastfed",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9328805208206177,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "Supplementary feeding",
+      "type": "T061",
+      "umls_id": "C0038847",
+      "score": 0.9773399233818054,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "started with",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "non-starchy vegetable",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "starchy vegetables",
+      "type": "T168",
+      "umls_id": "C0042440",
+      "score": 0.7403431534767151,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A food group comprised of EDIBLE PLANTS or their parts."
+    },
+    {
+      "text": "meat",
+      "type": "T168",
+      "umls_id": "C0025017",
+      "score": 0.9887574911117554,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "The edible portions of any animal used for food including cattle, swine, goats/sheep, poultry, fish, shellfish, and game."
+    },
+    {
+      "text": "fish",
+      "type": "T013",
+      "umls_id": "C0016163",
+      "score": 0.9920558333396912,
+      "semantic_types": [
+        "T013"
+      ],
+      "definition": "A group of cold-blooded, aquatic vertebrates having gills, fins, a cartilaginous or bony endoskeleton, and elongated bodies covered with scales."
+    },
+    {
+      "text": "eggs",
+      "type": "T168",
+      "umls_id": "C0013710",
+      "score": 0.9870244860649109,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Animal reproductive bodies, or the contents thereof, used as food. The concept is differentiated from OVUM, the anatomic or physiologic entity."
+    },
+    {
+      "text": "bread",
+      "type": "T168",
+      "umls_id": "C0006138",
+      "score": 0.9927342534065247,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Baked food product made of flour or meal that is moistened, kneaded, and sometimes fermented. A major food since prehistoric times, it has been made in various forms using a variety of ingredients and methods."
+    },
+    {
+      "text": "Bread",
+      "type": "T168",
+      "umls_id": "C0006138",
+      "score": 0.9927342534065247,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Baked food product made of flour or meal that is moistened, kneaded, and sometimes fermented. A major food since prehistoric times, it has been made in various forms using a variety of ingredients and methods."
+    },
+    {
+      "text": "cookies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "withdraw",
+      "type": "T052",
+      "umls_id": "C2349954",
+      "score": 0.9625412225723267,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "To cease active participation in; remove from active use."
+    },
+    {
+      "text": "dairy products",
+      "type": "T168",
+      "umls_id": "C0010947",
+      "score": 0.9522926807403564,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Raw and processed or manufactured milk and milk-derived products. These are usually from cows (bovine) but are also from goats, sheep, reindeer, and water buffalo."
+    },
+    {
+      "text": "patient’s diet",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7197649478912354,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "lactose",
+      "type": "T109",
+      "umls_id": "C0022949",
+      "score": 0.989729106426239,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A disaccharide of GLUCOSE and GALACTOSE in human and cow milk. It is used in pharmacy for tablets, in medicine as a nutrient, and in industry."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "℃",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "His weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7963801026344299,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "SD",
+      "type": "T083",
+      "umls_id": "C0037717",
+      "score": 0.9978004693984985,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by North Dakota, on the east by Minnesota, on the south by Nebraska, and on the west by Montana and Wyoming."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "SD",
+      "type": "T083",
+      "umls_id": "C0037717",
+      "score": 0.9978004693984985,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by North Dakota, on the east by Minnesota, on the south by Nebraska, and on the west by Montana and Wyoming."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient’s skin",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7197649478912354,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "papulovesicular rash",
+      "type": "T033",
+      "umls_id": "C0234920",
+      "score": 0.9811015725135803,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An acute onset rash characterized by by multiple vesicles, which are circumscribed, fluid-containing, epidermal elevations with a diameter less than 10mm at the widest point, and by multiple papules, which are circumscribed, solid epidermal elevations with no visible fluid with a diameter less than 10mm at the widest point. [PMID:32579185]"
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "back",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9834582209587097,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "ulcers",
+      "type": "T046",
+      "umls_id": "C0041582",
+      "score": 0.9872905611991882,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A lesion on the surface of the skin or a mucous surface, produced by the sloughing of inflammatory necrotic tissue."
+    },
+    {
+      "text": "oral cavity",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9742333292961121,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "type": "T184",
+      "umls_id": "C0019214",
+      "score": 0.9937257170677185,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal enlargement of both the liver and spleen."
+    },
+    {
+      "text": "immunological",
+      "type": "T169",
+      "umls_id": "C0205470",
+      "score": 0.9793611764907837,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "assay",
+      "type": "T059",
+      "umls_id": "C0005507",
+      "score": 0.9868606328964233,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A method of measuring the effects of a biologically active substance using an intermediate in vivo or in vitro tissue or cell model under controlled conditions. It includes virulence studies in animal fetuses in utero, mouse convulsion bioassay of insulin, quantitation of tumor-initiator systems in mouse skin, calculation of potentiating effects of a hormonal factor in an isolated strip of contracting stomach muscle, etc."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "anti-transglutaminase",
+      "type": "T034",
+      "umls_id": "C5539875",
+      "score": 0.8581944108009338,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The presence of autoantibodies (immunoglobulins) in the blood circulation that react against transglutaminase 6. []"
+    },
+    {
+      "text": "anti-endomysial antibodies",
+      "type": "T116",
+      "umls_id": "C0003242",
+      "score": 0.7171916365623474,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Antibodies which react with the individual structural determinants (idiotopes) on the variable region of other antibodies."
+    },
+    {
+      "text": "changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9851773381233215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "intestinal biopsy",
+      "type": "T060",
+      "umls_id": "C0399943",
+      "score": 0.8212727904319763,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the small intestine for microscopic examination, using an endoscope."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

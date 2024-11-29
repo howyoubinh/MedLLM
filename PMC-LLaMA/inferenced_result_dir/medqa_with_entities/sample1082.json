@@ -1,0 +1,268 @@
+{
+  "original_data": {
+    "question": "An 81-year-old man patient recently moved into an assisted living facility and presents today with itchy blisters in his axilla. He attributes these to a poor diet. He also complains that the nurse practitioner at the facility started him on 4 new medications, in addition to his existing prescriptions. On physical examination, tense axillary bullae are noted that do not rupture with light, gloved touch. On direct immunofluorescence, linear C3 and IgG deposits are seen along the basement membrane. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Staphylococcal scalded skin syndrome",
+      "B": "Bullous pemphigoid",
+      "C": "Pemphigus vulgaris",
+      "D": "Cicatricial pemphigoid"
+    }
+  },
+  "model_response": "The correct answer is B. Bullous pemphigoid. This is a type of autoimmune blistering disease that typically affects the elderly. It is characterized by tense bullae that do not rupture with light, gloved touch. On direct immunofluorescence, linear C3 and IgG deposits are seen along the basement membrane. Staphylococcal scalded skin syndrome (SSSS) is caused by an exfoliative toxin produced by Staphylococcus aureus. It is characterized by widespread erythema and superficial, flaccid bullae that rupture easily. Pemphigus vulgaris is characterized by mucosal involvement, typically oral. Cicatricial pemphigoid is characterized by scarring and occurs in middle-aged women.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "moved",
+      "type": "T169",
+      "umls_id": "C1269909",
+      "score": 0.9783155918121338,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "assisted",
+      "type": "T080",
+      "umls_id": "C1269765",
+      "score": 0.9958474040031433,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The act of contributing to the fulfillment of a need or furtherance of an effort."
+    },
+    {
+      "text": "living facility",
+      "type": "T033",
+      "umls_id": "C2136015",
+      "score": 0.8344088196754456,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An indication that an individual is living in an assisted living facility."
+    },
+    {
+      "text": "itchy",
+      "type": "T184",
+      "umls_id": "C0033774",
+      "score": 0.9936997294425964,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An intense itching sensation that produces the urge to rub or scratch the skin to obtain relief."
+    },
+    {
+      "text": "axilla",
+      "type": "T029",
+      "umls_id": "C0004454",
+      "score": 0.9790811538696289,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Area of the human body underneath the SHOULDER JOINT, also known as the armpit or underarm."
+    },
+    {
+      "text": "attributes",
+      "type": "T078",
+      "umls_id": "C0449234",
+      "score": 0.851893961429596,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any of the properties, roles, or associations, that define a concept."
+    },
+    {
+      "text": "poor diet",
+      "type": "T033",
+      "umls_id": "C0588012",
+      "score": 0.963401198387146,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.9822375178337097,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "facility",
+      "type": "T073",
+      "umls_id": "C1547538",
+      "score": 0.9984559416770935,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Services and space and equipment provided for a particular purpose; a building or place that provides a particular service or is used for a particular industry."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "prescriptions",
+      "type": "T058",
+      "umls_id": "C0033080",
+      "score": 0.9755309224128723,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Directions written for the obtaining and use of PHARMACEUTICAL PREPARATIONS; MEDICAL DEVICES; corrective LENSES; and a variety of other medical remedies."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "tense",
+      "type": "T048",
+      "umls_id": "C0233494",
+      "score": 0.9933909773826599,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A feeling of mental or emotional strain or suspense."
+    },
+    {
+      "text": "axillary bullae",
+      "type": "T029",
+      "umls_id": "C0004454",
+      "score": 0.7653296589851379,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Area of the human body underneath the SHOULDER JOINT, also known as the armpit or underarm."
+    },
+    {
+      "text": "rupture with",
+      "type": "T037",
+      "umls_id": "C3203359",
+      "score": 0.7736600041389465,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Forcible or traumatic tear or break of an organ or other soft part of the body."
+    },
+    {
+      "text": "gloved touch",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "linear C3",
+      "type": "T082",
+      "umls_id": "C0205132",
+      "score": 0.855277955532074,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A mark that is long relative to its width; a length (straight or curved) without breadth or thickness; the trace of a moving point."
+    },
+    {
+      "text": "IgG",
+      "type": "T116",
+      "umls_id": "C0020852",
+      "score": 0.9985058903694153,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "The major immunoglobulin isotype class in normal human serum. There are several isotype subclasses of IgG, for example, IgG1, IgG2A, and IgG2B."
+    },
+    {
+      "text": "deposits",
+      "type": "T169",
+      "umls_id": "C0333562",
+      "score": 0.9851477742195129,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Accumulation of extraneous inorganic matter in tissues or cavities."
+    },
+    {
+      "text": "basement membrane",
+      "type": "T024",
+      "umls_id": "C0004799",
+      "score": 0.9739002585411072,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "A darkly stained mat-like EXTRACELLULAR MATRIX (ECM) that separates cell layers, such as EPITHELIUM from ENDOTHELIUM or a layer of CONNECTIVE TISSUE. The ECM layer that supports an overlying EPITHELIUM or ENDOTHELIUM is called basal lamina. Basement membrane (BM) can be formed by the fusion of either two adjacent basal laminae or a basal lamina with an adjacent reticular lamina of connective tissue. BM, composed mainly of TYPE IV COLLAGEN; glycoprotein LAMININ; and PROTEOGLYCAN, provides barriers as well as channels between interacting cell layers."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "81-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

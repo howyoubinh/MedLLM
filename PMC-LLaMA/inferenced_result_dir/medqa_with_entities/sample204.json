@@ -1,0 +1,142 @@
+{
+  "original_data": {
+    "question": "A 10-year-old Caucasian female with Turner's syndrome underwent an abdominal imaging study and was discovered that the poles of her kidneys were fused inferiorly. Normal ascension of kidney during embryological development would be prevented by which of the following anatomical structures?",
+    "options": {
+      "A": "Superior mesenteric artery",
+      "B": "Inferior mesenteric artery",
+      "C": "Celiac artery",
+      "D": "Splenic artery"
+    }
+  },
+  "model_response": "The superior mesenteric artery is the most inferior of the options provided that would prevent the normal ascension of the kidneys during embryological development. The superior mesenteric artery arises from the aorta, posterior to the neck of the pancreas and then descends behind the splenic vein and the body of the pancreas. The inferior mesenteric artery arises from the aorta, and passes to the left behind the horizontal duodenum and the left renal vein. The celiac artery arises from the aorta immediately below the aortic hiatus of the diaphragm at the level of T12/L1 vertebral bodies. The splenic artery arises from the celiac trunk, and passes horizontally to the left along the upper border of the pancreas.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Caucasian",
+      "type": "T098",
+      "umls_id": "C0007457",
+      "score": 0.982106626033783,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A group distinguished by classification according to physical features. This group, also called Europoid, centers around the Mediterranean Sea but includes other parts of Europe. (from Winick: Dictionary of Anthropology, 1972; American Heritage Dictionary, 2d College ed)"
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Turner's syndrome",
+      "type": "T047",
+      "umls_id": "C0041408",
+      "score": 0.9729669094085693,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A syndrome of defective gonadal development in phenotypic females associated with the karyotype 45,X (or 45,XO). Patients generally are of short stature with undifferentiated GONADS (streak gonads), SEXUAL INFANTILISM, HYPOGONADISM, webbing of the neck, cubitus valgus, elevated GONADOTROPINS, decreased ESTRADIOL level in blood, and CONGENITAL HEART DEFECTS. NOONAN SYNDROME (also called Pseudo-Turner Syndrome and Male Turner Syndrome) resembles this disorder; however, it occurs in males and females with a normal karyotype and is inherited as an autosomal dominant."
+    },
+    {
+      "text": "abdominal imaging study",
+      "type": "T060",
+      "umls_id": "C1881134",
+      "score": 0.7379555106163025,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A radiographic technique used to evaluate a specific anatomic location for a specific purpose."
+    },
+    {
+      "text": "poles",
+      "type": "T098",
+      "umls_id": "C0337815",
+      "score": 0.9892200827598572,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "kidneys",
+      "type": "T023",
+      "umls_id": "C0022646",
+      "score": 0.9909534454345703,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Body organ that filters blood for the secretion of URINE and that regulates ion concentrations."
+    },
+    {
+      "text": "fused",
+      "type": "T169",
+      "umls_id": "C0699952",
+      "score": 0.9891100525856018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A physical quality in which the entity or structure is physically attached or combined with another entity or structure to become a whole."
+    },
+    {
+      "text": "inferiorly",
+      "type": "T082",
+      "umls_id": "C0542339",
+      "score": 0.7879859209060669,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is lower."
+    },
+    {
+      "text": "kidney",
+      "type": "T023",
+      "umls_id": "C0022646",
+      "score": 0.9973283410072327,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Body organ that filters blood for the secretion of URINE and that regulates ion concentrations."
+    },
+    {
+      "text": "embryological development",
+      "type": "T042",
+      "umls_id": "C0013936",
+      "score": 0.9609989523887634,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process whose specific outcome is the progression of an embryo from its formation until the end of its embryonic life stage. The end of the embryonic stage is organism-specific. For example, for mammals, the process would begin with zygote formation and end with birth. For insects, the process would begin at zygote formation and end with larval hatching. For plant zygotic embryos, this would be from zygote formation to the end of seed dormancy. For plant vegetative embryos, this would be from the initial determination of the cell or group of cells to form an embryo until the point when the embryo becomes independent of the parent plant. [GOC:go_curators, GOC:isa_complete, GOC:mtg_sensu]"
+    },
+    {
+      "text": "prevented",
+      "type": "T121",
+      "umls_id": "C0309872",
+      "score": 0.7615223526954651,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "brand of veterinary medicine"
+    },
+    {
+      "text": "anatomical structures",
+      "type": "T017",
+      "umls_id": "C0700276",
+      "score": 0.9894734025001526,
+      "semantic_types": [
+        "T017"
+      ],
+      "definition": "tree section heading for anatomical, physiological, and related terms."
+    },
+    {
+      "text": "10-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

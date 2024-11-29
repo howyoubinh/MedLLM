@@ -1,0 +1,178 @@
+{
+  "original_data": {
+    "question": "An 18-month-old boy is brought to the physician by his mother because of a 2-day history of fever and a pruritic rash that started on his trunk and then progressed to his face and extremities. He has not received any childhood vaccinations because his parents believe that they are dangerous. His temperature is 38.0°C (100.4°F). A photograph of the rash is shown. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Nonbullous impetigo",
+      "B": "Varicella",
+      "C": "Rubella",
+      "D": "Erythema infectiosum"
+    }
+  },
+  "model_response": "The photograph shows a generalized pink-to-red maculopapular rash with some clear vesicles on the trunk and extremities. The most likely diagnosis is erythema infectiosum, or fifth disease, which is caused by human parvovirus B19. Nonbullous impetigo (staphylococcal scalded skin syndrome) is unlikely because it is characterized by a fiery-red rash that shears off with lateral pressure. Varicella (chickenpox) is unlikely because the rash of varicella is characterized by crops of fluid-filled vesicles that are usually quite pruritic. Rubella (German measles) is unlikely because the rash of rubella is characterized by a pink, blanching, morbilliform rash that usually starts on the face and then spreads to the trunk and extremities.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "2-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "pruritic rash",
+      "type": "T047",
+      "umls_id": "C0033771",
+      "score": 0.9597593545913696,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A name applied to several itchy skin eruptions of unknown cause. The characteristic course is the formation of a dome-shaped papule with a small transient vesicle on top, followed by crusting over or lichenification. (From Dorland, 27th ed)"
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "trunk",
+      "type": "T023",
+      "umls_id": "C0225442",
+      "score": 0.9839140772819519,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "childhood",
+      "type": "T079",
+      "umls_id": "C0231335",
+      "score": 0.9773955941200256,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time period that begins at the beginning of the human embryonic stage and continues until the end of adolescence."
+    },
+    {
+      "text": "vaccinations",
+      "type": "T061",
+      "umls_id": "C0042196",
+      "score": 0.9722127318382263,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Administration of vaccines to stimulate the host's immune response. This includes any preparation intended for active immunological prophylaxis."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "photograph",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9877880811691284,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "rash",
+      "type": "T184",
+      "umls_id": "C0015230",
+      "score": 0.9840058088302612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Diseases in which skin eruptions or rashes are a prominent manifestation. Classically, six such diseases were described with similar rashes; they were numbered in the order in which they were reported. Only the fourth (Duke's disease), fifth (ERYTHEMA INFECTIOSUM), and sixth (EXANTHEMA SUBITUM) numeric designations survive as occasional synonyms in current terminology."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "original_data": {
+    "question": "A 31-year-old G1-P0 woman at 28-weeks gestation presents with shortness of breath and nonspecific right-sided chest pain that is worse with inspiration. She works as a graduate student at the local university, and she informs you that she recently returned to the west coast from a trip to New York for an Economics conference. Her medical history is positive only for frequent bouts of sinusitis. She currently denies any smoking, drinks a glass of red wine/day, and she denies any past illicit drug use. The vital signs include: temperature 36.7°C (98.0°F), blood pressure 126/74 mm Hg, heart rate 87/min, and respiratory rate 23/min. Her physical examination shows decreased air movement throughout the right lung but otherwise clear lungs on auscultation, grade 2/6 holosystolic murmur, and a gravid uterus without acute findings. On physical examination, she is afebrile, tachycardic to 121/min, normotensive, and demonstrates an O2 saturation of 92%. Which of the following is the best next step in the evaluation of the most likely diagnosis for this patient?",
+    "options": {
+      "A": "ECG",
+      "B": "Chest radiography",
+      "C": "V/Q scan",
+      "D": "CT pulmonary angiogram"
+    }
+  },
+  "model_response": "The clinical presentation of this patient is most consistent with a pulmonary embolism. The risk factors include the recent travel, the recent conference, and the fact that she is post-partum (and thus at risk for osteoporosis and subsequent deep venous thrombosis). The physical examination is remarkable for decreased air movement throughout the right lung, which is consistent with a right-sided pulmonary embolism. The murmur is likely an early diastolic murmur of tricuspid regurgitation. The next step in the evaluation of a patient with suspected pulmonary embolism includes obtaining a chest radiograph, which is normal in this case. An ECG is indicated if there is concern for an acute coronary syndrome, which is not present in this patient. A V/Q scan is indicated if there is concern for a pulmonary embolism, but the patient has a normal chest radiograph. A CT pulmonary angiogram is the best test to evaluate for a pulmonary embolism, but it is not indicated as the first step in the evaluation. The best initial test is a D-dimer assay, which is a sensitive but not specific test for a pulmonary embolism.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "28-weeks",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "nonspecific",
+      "type": "T078",
+      "umls_id": "C0750540",
+      "score": 0.9915021061897278,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right-sided chest pain",
+      "type": "T082",
+      "umls_id": "C0444532",
+      "score": 0.7030929923057556,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Pertaining to the physical area of an object that is located to the right of its center."
+    },
+    {
+      "text": "inspiration",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9656476974487305,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "graduate",
+      "type": "T098",
+      "umls_id": "C0588053",
+      "score": 0.966830849647522,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "local university",
+      "type": "T073",
+      "umls_id": "C0041740",
+      "score": 0.8022308945655823,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Educational institutions providing facilities for teaching and research and authorized to grant academic degrees."
+    },
+    {
+      "text": "informs",
+      "type": "T170",
+      "umls_id": "C0009797",
+      "score": 0.7626709342002869,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Documents describing a medical treatment or research project, including proposed procedures, risks, and alternatives, that are to be signed by an individual, or the individual's proxy, to indicate his/her understanding of the document and a willingness to undergo the treatment or to participate in the research."
+    },
+    {
+      "text": "west coast",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "New York",
+      "type": "T083",
+      "umls_id": "C0027976",
+      "score": 0.9825548529624939,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Lake Ontario and Canada, on the east by Vermont, Massachusetts, and Connecticut, on the south by the Atlantic Ocean, New Jersey, and Pennsylvania, and on the west by Pennsylvania, Lake Erie, and Canada."
+    },
+    {
+      "text": "Economics",
+      "type": "T090",
+      "umls_id": "C0013556",
+      "score": 0.984192430973053,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "The science of utilization, distribution, and consumption of services and materials."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "bouts",
+      "type": "T079",
+      "umls_id": "C0741605",
+      "score": 0.9669517278671265,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sinusitis",
+      "type": "T047",
+      "umls_id": "C0037199",
+      "score": 0.9929776191711426,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammation of the NASAL MUCOSA in one or more of the PARANASAL SINUSES."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "smoking",
+      "type": "T055",
+      "umls_id": "C0037369",
+      "score": 0.963042676448822,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Willful or deliberate act of inhaling and exhaling SMOKE from burning substances or agents held by hand."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "glass",
+      "type": "T073",
+      "umls_id": "C0017596",
+      "score": 0.9900928735733032,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Hard, amorphous, brittle, inorganic, usually transparent, polymerous silicate of basic oxides, usually potassium or sodium. It is used in the form of hard sheets, vessels, tubing, fibers, ceramics, beads, etc."
+    },
+    {
+      "text": "red wine/day",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "illicit drug use",
+      "type": "T048",
+      "umls_id": "C0281875",
+      "score": 0.9898788928985596,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "air",
+      "type": "T167",
+      "umls_id": "C0001861",
+      "score": 0.9960078597068787,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "The mixture of gases present in the earth's atmosphere consisting of oxygen, nitrogen, carbon dioxide, and small amounts of other gases."
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "right lung",
+      "type": "T023",
+      "umls_id": "C0225706",
+      "score": 0.9838702082633972,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The 3-lobed lung located on the right side of the body."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "grade",
+      "type": "T185",
+      "umls_id": "C0441800",
+      "score": 0.9976638555526733,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A position on a scale of intensity or amount or quality."
+    },
+    {
+      "text": "holosystolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7172870635986328,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "gravid uterus",
+      "type": "T023",
+      "umls_id": "C0227812",
+      "score": 0.9692326784133911,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "acute findings",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "afebrile",
+      "type": "T033",
+      "umls_id": "C0277797",
+      "score": 0.9714973568916321,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tachycardic",
+      "type": "T033",
+      "umls_id": "C0039231",
+      "score": 0.8416175842285156,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally rapid heartbeat, usually with a HEART RATE above 100 beats per minute for adults. Tachycardia accompanied by disturbance in the cardiac depolarization (cardiac arrhythmia) is called tachyarrhythmia."
+    },
+    {
+      "text": "normotensive",
+      "type": "T033",
+      "umls_id": "C2712122",
+      "score": 0.98537278175354,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "O2",
+      "type": "T121",
+      "umls_id": "C0030054",
+      "score": 0.997958779335022,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element with atomic symbol O, atomic number 8, and atomic weight [15.99903; 15.99977]. It is the most abundant element on earth and essential for respiration."
+    },
+    {
+      "text": "saturation",
+      "type": "T070",
+      "umls_id": "C0522534",
+      "score": 0.9675852656364441,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Impregnation of one substance by another to the greatest possible extent; that concentration of a dissolved substance that cannot be exceeded."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "31-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

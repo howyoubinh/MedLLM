@@ -1,0 +1,396 @@
+{
+  "original_data": {
+    "question": "A 39-year-old man is brought to the physician by his wife because of personality changes over the past year. He has become increasingly irritable, loud, aggressive, and impulsive. His wife also reports jerky movements of his limbs and trunk for the past few months. His father had dementia in his mid-40s, but the details of his condition are unclear. The patient appears restless. Examination shows irregular movements of the extremities and twitching of the face and tongue. Mental status examination shows impaired memory. This patient's condition is most likely associated with which of the following changes on MRI?",
+    "options": {
+      "A": "Reduced hippocampal volume",
+      "B": "Multiple cortical and subcortical infarctions",
+      "C": "Degeneration of the frontal and temporal lobes",
+      "D": "Atrophy of the striatum"
+    }
+  },
+  "model_response": "The presence of personality changes along with involuntary movements (i.e., dyskinesias) suggests a possibility of Huntington disease (HD). HD is a genetic disorder characterized by autosomal dominant inheritance. The mutation is a CAG repeat expansion in the HD gene, which codes for the protein huntingtin. The disease usually manifests in the fourth decade of life but can present at any age. MRI reveals atrophy of the caudate nucleus and, to a lesser extent, the putamen. The putamen and globus pallidus are also atrophic in Parkinson disease, but the caudate nucleus is spared. In addition, Parkinson disease presents with a characteristic tremor and is usually not associated with personality changes. Multiple cortical and subcortical infarctions (choice B) could be seen in a patient with hypertension or diabetes.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "personality changes",
+      "type": "T048",
+      "umls_id": "C0240735",
+      "score": 0.9840993285179138,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A noticeable change in a person's behavior and thinking. Causes include depression, drug or alcohol abuse, brain injuries, brain tumors, and Alzheimer's disease."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "loud",
+      "type": "T080",
+      "umls_id": "C0178733",
+      "score": 0.9728363752365112,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "sound intensity; the relative extent to which a sound can be heard."
+    },
+    {
+      "text": "aggressive",
+      "type": "T055",
+      "umls_id": "C0001807",
+      "score": 0.9705483317375183,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behavior which may be manifested by destructive and attacking action which is verbal or physical, by covert attitudes of hostility or by obstructionism."
+    },
+    {
+      "text": "impulsive",
+      "type": "T048",
+      "umls_id": "C0021125",
+      "score": 0.9822477698326111,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An act performed without delay, reflection, voluntary direction or obvious control in response to a stimulus."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "jerky",
+      "type": "T028",
+      "umls_id": "C1416531",
+      "score": 0.9914403557777405,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": null
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "limbs",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9794425964355469,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "trunk",
+      "type": "T023",
+      "umls_id": "C0225442",
+      "score": 0.9839140772819519,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "dementia",
+      "type": "T048",
+      "umls_id": "C0011265",
+      "score": 0.9702528119087219,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The presence of dementia in an individual younger than age sixty five."
+    },
+    {
+      "text": "mid-40s",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "details",
+      "type": "T080",
+      "umls_id": "C1522508",
+      "score": 0.9788448214530945,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Particulars considered individually and in relation to a whole."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "unclear",
+      "type": "T099",
+      "umls_id": "C0337577",
+      "score": 0.7016674280166626,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "The brother of your father or mother; the husband of your aunt."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "twitching",
+      "type": "T033",
+      "umls_id": "C0231530",
+      "score": 0.9584506154060364,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The occurrence of a single contraction or a series of contractions of a muscle."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "tongue",
+      "type": "T023",
+      "umls_id": "C0040408",
+      "score": 0.9851449131965637,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscular organ in the mouth that is covered with pink tissue called mucosa, tiny bumps called papillae, and thousands of taste buds. The tongue is anchored to the mouth and is vital for chewing, swallowing, and for speech."
+    },
+    {
+      "text": "Mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "memory",
+      "type": "T041",
+      "umls_id": "C0025260",
+      "score": 0.9859048128128052,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Complex mental function having four distinct phases: (1) memorizing or learning, (2) retention, (3) recall, and (4) recognition. Clinically, it is usually subdivided into immediate, recent, and remote memory."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9851773381233215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "MRI",
+      "type": "T060",
+      "umls_id": "C0024485",
+      "score": 0.9940130114555359,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Non-invasive method of demonstrating internal anatomy based on the principle that atomic nuclei in a strong magnetic field absorb pulses of radiofrequency energy and emit them as radiowaves which can be reconstructed into computerized images. The concept includes proton spin tomographic techniques."
+    },
+    {
+      "text": "39-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "original_data": {
+    "question": "A 38-year-old woman undergoes a partial thyroidectomy for an enlarged thyroid gland compressing the trachea. During surgery, a young surgeon ligates the inferior thyroid arteries as close to the poles as possible to prevent intraoperative hemorrhage. 2 weeks later, the patient presents to the outpatient clinic with hoarseness. What could be the most likely cause of her hoarseness?",
+    "options": {
+      "A": "Internal laryngeal nerve injury",
+      "B": "Recurrent laryngeal nerve injury",
+      "C": "External laryngeal nerve injury",
+      "D": "Laryngeal edema"
+    }
+  },
+  "model_response": "The recurrent laryngeal nerve innervates all intrinsic muscles of the larynx, with the exception of the cricothyroid muscle. The external branch of the superior laryngeal nerve innervates the cricothyroid muscle. The inferior thyroid arteries are located near the poles of the thyroid gland and are at risk of being ligated during thyroidectomy. The recurrent laryngeal nerve runs near the inferior thyroid arteries and can be injured during ligation of these vessels. The symptoms of recurrent laryngeal nerve injury include hoarseness and paralysis of the intrinsic muscles of the larynx. The cricothyroid muscle is responsible for tensing the vocal cords, thus increasing pitch during speech. Paralysis of this muscle would result in a decrease in vocal cord tension and a lower pitch during speech. The internal laryngeal nerve is a branch of the superior laryngeal nerve and supplies sensory innervation to the larynx above the vocal cords. The external laryngeal nerve is a branch of the superior laryngeal nerve and supplies sensory innervation to the larynx below the vocal cords. Laryngeal edema would present with stridor and difficulty breathing.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "undergoes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "partial",
+      "type": "T081",
+      "umls_id": "C0728938",
+      "score": 0.9840030670166016,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Being or affecting only a part of something."
+    },
+    {
+      "text": "thyroidectomy",
+      "type": "T061",
+      "umls_id": "C0040145",
+      "score": 0.9876305460929871,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical removal of the thyroid gland. (Dorland, 28th ed)"
+    },
+    {
+      "text": "thyroid gland",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9855895638465881,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "trachea",
+      "type": "T023",
+      "umls_id": "C0040578",
+      "score": 0.993364155292511,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The cartilaginous and membranous tube descending from the larynx and branching into the right and left main bronchi."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "young surgeon",
+      "type": "T097",
+      "umls_id": "C0582175",
+      "score": 0.731239914894104,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Medical practitioners qualified to practice surgery."
+    },
+    {
+      "text": "ligates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "inferior thyroid arteries",
+      "type": "T023",
+      "umls_id": "C0226264",
+      "score": 0.8501982092857361,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of the three branches of the thyroid axis that supplies the thyroid gland and branches to form the ascending cervical, esophageal, inferior laryngeal, muscular and tracheal arteries."
+    },
+    {
+      "text": "poles",
+      "type": "T098",
+      "umls_id": "C0337815",
+      "score": 0.9892200827598572,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intraoperative",
+      "type": "T079",
+      "umls_id": "C0456904",
+      "score": 0.9455119967460632,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring during the course of a surgical procedure."
+    },
+    {
+      "text": "hemorrhage",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9902756810188293,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "outpatient clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.962144672870636,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "hoarseness",
+      "type": "T184",
+      "umls_id": "C0019825",
+      "score": 0.9738039374351501,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unnaturally deep or rough quality of voice."
+    },
+    {
+      "text": "hoarseness",
+      "type": "T184",
+      "umls_id": "C0019825",
+      "score": 0.9738039374351501,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unnaturally deep or rough quality of voice."
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

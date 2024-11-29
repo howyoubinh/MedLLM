@@ -1,0 +1,468 @@
+{
+  "original_data": {
+    "question": "A 20-year-old woman is brought in for a psychiatric consultation by her mother who is concerned because of her daughter’s recent bizarre behavior. The patient’s father died from lung cancer 1 week ago. Though this has been stressful for the whole family, the daughter has been hearing voices and having intrusive thoughts ever since. These voices have conversations about her and how she should have been the one to die and they encourage her to kill herself. She has not been able to concentrate at work or at school. She has no other history of medical or psychiatric illness. She denies recent use of any medication. Today, her heart rate is 90/min, respiratory rate is 17/min, blood pressure is 110/65 mm Hg, and temperature is 36.9°C (98.4°F). On physical exam, she appears gaunt and anxious. Her heart has a regular rate and rhythm and her lungs are clear to auscultation bilaterally. CMP, CBC, and TSH are normal. A urine toxicology test is negative. What is the patient’s most likely diagnosis?",
+    "options": {
+      "A": "Brief psychotic disorder",
+      "B": "Adjustment disorder",
+      "C": "Schizophrenia",
+      "D": "Bereavement"
+    }
+  },
+  "model_response": "The patient’s symptoms of auditory hallucinations, thought broadcasting, and delusions of guilt over the death of her father and the need to die are characteristic of brief psychotic disorder. This disorder is characterized by the sudden onset of psychotic symptoms that last for a brief period of time (less than 1 month) and are often preceded by a severe psychosocial stressor. The symptoms of this disorder are similar to schizophrenia but are more sudden in onset and have a more favorable prognosis. The symptoms of adjustment disorder are not as severe and usually occur within 3 months of a stressor. The symptoms of bereavement can include depressed mood, poor concentration, and even hallucinations but do not usually include delusions or thought broadcasting. The symptoms of schizophrenia are usually more chronic and are not limited to a brief period of time.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "psychiatric consultation",
+      "type": "T073",
+      "umls_id": "C1548378",
+      "score": 0.9684959650039673,
+      "semantic_types": [
+        "T073",
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "daughter’s",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.9367947578430176,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "bizarre behavior",
+      "type": "T033",
+      "umls_id": "C0474407",
+      "score": 0.9649107456207275,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "lung cancer",
+      "type": "T191",
+      "umls_id": "C0242379",
+      "score": 0.977493166923523,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the lung."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "stressful",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "whole family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.7337980270385742,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "hearing",
+      "type": "T039",
+      "umls_id": "C0018767",
+      "score": 0.9906299114227295,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The ability or act of sensing and transducing ACOUSTIC STIMULATION to the CENTRAL NERVOUS SYSTEM. It is also called audition."
+    },
+    {
+      "text": "voices",
+      "type": "T040",
+      "umls_id": "C0042939",
+      "score": 0.9642200469970703,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sounds produced by humans by the passage of air through the LARYNX and over the VOCAL CORDS, and then modified by the resonance organs, the NASOPHARYNX, and the MOUTH."
+    },
+    {
+      "text": "intrusive thoughts",
+      "type": "T048",
+      "umls_id": "C0558066",
+      "score": 0.9639915227890015,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An unwelcome and persistent idea, image or thought that is upsetting to an individual."
+    },
+    {
+      "text": "voices",
+      "type": "T040",
+      "umls_id": "C0042939",
+      "score": 0.9642200469970703,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sounds produced by humans by the passage of air through the LARYNX and over the VOCAL CORDS, and then modified by the resonance organs, the NASOPHARYNX, and the MOUTH."
+    },
+    {
+      "text": "conversations",
+      "type": "T054",
+      "umls_id": "C0871703",
+      "score": 0.9629482626914978,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "die",
+      "type": "T079",
+      "umls_id": "C0556984",
+      "score": 0.7854388952255249,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Three times per day."
+    },
+    {
+      "text": "kill",
+      "type": "T054",
+      "umls_id": "C0162388",
+      "score": 0.9759586453437805,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "herself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "concentrate",
+      "type": "T122",
+      "umls_id": "C1880165",
+      "score": 0.9880443215370178,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A solution or suspension composed of active and/or inert ingredient(s) with increased strength in a reduced volume, which is usually diluted prior to administration."
+    },
+    {
+      "text": "school",
+      "type": "T073",
+      "umls_id": "C0036375",
+      "score": 0.9851418733596802,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Educational institutions."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "medical",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.991391122341156,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "psychiatric illness",
+      "type": "T048",
+      "umls_id": "C0004936",
+      "score": 0.9734365344047546,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Psychiatric illness or diseases manifested by breakdowns in the adaptational process expressed primarily as abnormalities of thought, feeling, and behavior producing either distress or impairment of function."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "heart",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9954424500465393,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "regular rate",
+      "type": "T080",
+      "umls_id": "C0205272",
+      "score": 0.7905575633049011,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Customary, usual, or at fixed intervals; conforming to a standard or pattern."
+    },
+    {
+      "text": "rhythm",
+      "type": "T033",
+      "umls_id": "C0871269",
+      "score": 0.9861499667167664,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "CMP",
+      "type": "T114",
+      "umls_id": "C0010729",
+      "score": 0.9963287115097046,
+      "semantic_types": [
+        "T114"
+      ],
+      "definition": "Cytidine (dihydrogen phosphate). A cytosine nucleotide containing one phosphate group esterified to the sugar moiety in the 2', 3' or 5' position."
+    },
+    {
+      "text": "CBC",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.9881873726844788,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "TSH",
+      "type": "T116",
+      "umls_id": "C0040160",
+      "score": 0.9899538159370422,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A glycoprotein hormone secreted by the adenohypophysis (PITUITARY GLAND, ANTERIOR). Thyrotropin stimulates THYROID GLAND by increasing the iodide transport, synthesis and release of thyroid hormones (THYROXINE and TRIIODOTHYRONINE). Thyrotropin consists of two noncovalently linked subunits, alpha and beta. Within a species, the alpha subunit is common in the pituitary glycoprotein hormones (TSH; LUTEINIZING HORMONE and FSH), but the beta subunit is unique and confers its biological specificity."
+    },
+    {
+      "text": "urine toxicology test",
+      "type": "T091",
+      "umls_id": "C0040541",
+      "score": 0.7177949547767639,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The science concerned with the detection, chemical composition, and biological action of toxic substances or poisons and the treatment and prevention of toxic manifestations."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "20-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

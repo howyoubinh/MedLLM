@@ -1,0 +1,340 @@
+{
+  "original_data": {
+    "question": "A 75-year-old man presents to his physician with a 1-year history of dysphagia for solids. His more recent complaints include dysphagia for liquids as well. The patient states that he has no difficulty initiating swallowing but occasionally food is stuck in his throat. He does not complain of pain while swallowing but has noticed minor unintentional weight loss. The patient has no history of speech-related pain or nasal regurgitation. His family history is unremarkable. During the examination, the patient appears ill, malnourished, and slightly pale. He is not jaundiced nor cyanotic. Physical examination is unremarkable. A swallowing study reveals a small outpouching in the posterior neck (see image). Which nerve is most likely involved in this patient’s symptoms?",
+    "options": {
+      "A": "CN X",
+      "B": "CN VII",
+      "C": "CN IX",
+      "D": "CN V"
+    }
+  },
+  "model_response": "The patient’s symptoms are most consistent with a Zenker’s diverticulum, which is an outpouching of the posterior pharyngeal wall through the Killian’s dehiscence, an area between the thyropharyngeus (oblique fibers) and cricopharyngeus (transverse fibers) of the inferior pharyngeal constrictor muscle. This is a false diverticulum since it does not include all of the layers of the esophageal wall. Zenker’s diverticulum is usually caused by neuromuscular incoordination in this region, leading to the outpouching. The most common nerve involved is CN X (vagus nerve). This nerve supplies the motor fibers to the inferior pharyngeal constrictor muscle. CN VII (facial nerve) innervates the muscles of facial expression. CN IX (glossopharyngeal nerve) provides motor fibers to the stylopharyngeus muscle, which is involved in elevation of the pharynx during swallowing. CN V (trigeminal nerve) innervates the muscles of mastication.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-year history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "dysphagia",
+      "type": "T047",
+      "umls_id": "C0011168",
+      "score": 0.980331540107727,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Difficulty in SWALLOWING which may result from neuromuscular disorder or mechanical obstruction. Dysphagia is classified into two distinct types: oropharyngeal dysphagia due to malfunction of the PHARYNX and UPPER ESOPHAGEAL SPHINCTER; and esophageal dysphagia due to malfunction of the ESOPHAGUS."
+    },
+    {
+      "text": "solids",
+      "type": "T080",
+      "umls_id": "C0205208",
+      "score": 0.9864081740379333,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The state in which a substance has no tendency to flow under moderate stress; resists forces (such as compression) that tend to deform it; and retains a definite size and shape."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "dysphagia",
+      "type": "T047",
+      "umls_id": "C0011168",
+      "score": 0.980331540107727,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Difficulty in SWALLOWING which may result from neuromuscular disorder or mechanical obstruction. Dysphagia is classified into two distinct types: oropharyngeal dysphagia due to malfunction of the PHARYNX and UPPER ESOPHAGEAL SPHINCTER; and esophageal dysphagia due to malfunction of the ESOPHAGUS."
+    },
+    {
+      "text": "liquids",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9911609888076782,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "food",
+      "type": "T168",
+      "umls_id": "C0016452",
+      "score": 0.991826593875885,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Substances taken in by the body to provide nourishment."
+    },
+    {
+      "text": "complain",
+      "type": "T033",
+      "umls_id": "C0277786",
+      "score": 0.8713775277137756,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The primary reason for a patient visit."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "swallowing",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.967613935470581,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "unintentional weight loss",
+      "type": "T033",
+      "umls_id": "C2363736",
+      "score": 0.9674159288406372,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "speech-related pain",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "nasal regurgitation",
+      "type": "T184",
+      "umls_id": "C0232608",
+      "score": 0.954617977142334,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Regurgitation of milk through the nose. [DDD:ncarter]"
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "ill",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9888160228729248,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "malnourished",
+      "type": "T047",
+      "umls_id": "C0162429",
+      "score": 0.9646760821342468,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An imbalanced nutritional status resulting from insufficient intake of nutrients to meet normal physiological requirement."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "cyanotic",
+      "type": "T169",
+      "umls_id": "C0332580",
+      "score": 0.9792381525039673,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "swallowing study",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.7900535464286804,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "outpouching",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "posterior neck",
+      "type": "T029",
+      "umls_id": "C0581758",
+      "score": 0.8382574319839478,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "subdivision of neck, each instance of which is demarcated from the front of the neck by the prevertebral fascia; it has as its constitutional part some complete set of cervical vertebral arches (C1-C7); together with the front of the neck, it constitutes the neck. Examples: There is only one back of neck."
+    },
+    {
+      "text": "image",
+      "type": "T170",
+      "umls_id": "C1696103",
+      "score": 0.9951585531234741,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>A characteristic representing a single file reference that contains two or more views of the same dosage form of the product; in most cases this should represent front and back views of the dosage form, but occasionally additional views might be needed in order to capture all of the important physical characteristics of the dosage form. Any imprint and/or symbol should be clearly identifiable, and the viewer should not normally need to rotate the image in order to read it. Images that are submitted with SPL should be included in the same directory as the SPL file."
+    },
+    {
+      "text": "nerve",
+      "type": "T023",
+      "umls_id": "C0027740",
+      "score": 0.9954278469085693,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Part of the peripheral nervous system composed of bundles of nerve fibers running to various organs and tissues of the body using chemical and electrical signals to transmit sensory and motor information from one body part to another."
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "75-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

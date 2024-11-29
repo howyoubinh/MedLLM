@@ -1,0 +1,581 @@
+{
+  "original_data": {
+    "question": "A 62-year-old man presents to the emergency department for evaluation of a low-grade fever, worsening fatigue, and mild intermittent abdominal pain that is not affected by eating. He reports that over the last 6 months he slept a lot more than usual and lost 14.9 kg (33 lbs) without trying to lose weight. He also complains of chest pain and shortness of breath that is worse when he is working and in the yard. There is no significant family history. His long-standing male partner passed away 2 years ago in a fatal car accident. His blood pressure is 145/75 mm Hg, the pulse is 90/min, the respiratory rate is 23/min, and the temperature is 38°C (100.5°F). On physical examination, he has pale mucous membranes, conjunctival hemorrhages, and petechiae on his lower extremities. There is a new-onset high-pitched blowing diastolic murmur best heard over the right upper sternal border. His head bobs with each heartbeat. There are small, painless, red macules on both palms. His spleen is palpable 3 cm below the left costal margin. His laboratory results are shown below.\nHemoglobin 8.4 g/dL\nMean corpuscular volume 72 µm3\nPlatelet count 400,000/mm3\nLeukocytes 6,000/mm3\nSerum ferritin 8 ng/mL\nSerum iron 27 µg/dL\nTotal iron-binding capacity 450 µg/dL\nColonoscopy with biopsy is later performed showing a neoplastic growth in the descending colon. Which of the following is the most likely explanation for his cardiac findings?",
+    "options": {
+      "A": "Treponema pallidum",
+      "B": "Malignant colonic neoplasm",
+      "C": "Collagen vascular disease",
+      "D": "Group D streptococci"
+    }
+  },
+  "model_response": "The patient has infective endocarditis complicating his malignant colonic neoplasm. The murmur is a new-onset diastolic murmur indicative of tricuspid valve dysfunction. The splenomegaly is secondary to extramedullary hematopoiesis. His laboratory results show a microcytic anemia indicative of iron deficiency anemia. The biopsy results show a mucosal growth consistent with adenocarcinoma. The cardiac findings are due to septic emboli from the colonic neoplasm.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "low-grade",
+      "type": "T191",
+      "umls_id": "C1518005",
+      "score": 0.8834829926490784,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A precancerous neoplastic process that affects the cervical squamous epithelium without evidence of invasion. It is usually associated with human papillomavirus infection. It is characterized by the presence of mild atypia in the superficial epithelial layer that may be associated with koilocytosis. Maturation is present in the upper two thirds of the epithelium. Mitotic figures are not numerous and are present in the basal third of the epithelium."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "mild intermittent abdominal pain",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "eating",
+      "type": "T040",
+      "umls_id": "C0013470",
+      "score": 0.9728949666023254,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The consumption of edible substances."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "usual",
+      "type": "T080",
+      "umls_id": "C3538928",
+      "score": 0.949625551700592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "That which is considered customary."
+    },
+    {
+      "text": "lost",
+      "type": "T169",
+      "umls_id": "C0745777",
+      "score": 0.9972493052482605,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Parted with; no longer held or possessed; incapable of being recovered or regained."
+    },
+    {
+      "text": "trying",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lose weight",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9754317402839661,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "working",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.9615688323974609,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "yard",
+      "type": "T081",
+      "umls_id": "C0439205",
+      "score": 0.9808650016784668,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A traditional unit of length equal to 3 feet, or 36 inches, or 0.9144 meter."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "fatal car",
+      "type": "T080",
+      "umls_id": "C1302234",
+      "score": 0.7660968899726868,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Bringing death."
+    },
+    {
+      "text": "accident",
+      "type": "T067",
+      "umls_id": "C0000924",
+      "score": 0.9794917702674866,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Unexpected and unintentional events, typically resulting in ACCIDENTAL INJURIES."
+    },
+    {
+      "text": "His blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.8905147314071655,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "conjunctival hemorrhages",
+      "type": "T046",
+      "umls_id": "C0009760",
+      "score": 0.9745316505432129,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A hemorrhage occurring in the conjunctiva of the eye."
+    },
+    {
+      "text": "petechiae",
+      "type": "T047",
+      "umls_id": "C0031256",
+      "score": 0.9828585982322693,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Purple or red hemorrhagic pinpoint spots in the skin or mucous membranes."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "diastolic",
+      "type": "T201",
+      "umls_id": "C0012000",
+      "score": 0.9848455190658569,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Post-systolic relaxation of the HEART, especially the HEART VENTRICLES."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "right upper sternal border",
+      "type": "T184",
+      "umls_id": "C5238653",
+      "score": 0.7561132311820984,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The location of the chest pain is along the right upper border of the sternum."
+    },
+    {
+      "text": "head bobs",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.7022645473480225,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "heartbeat",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9336593151092529,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "painless",
+      "type": "T169",
+      "umls_id": "C0234226",
+      "score": 0.9535903930664062,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not causing physical or psychological misery, pain or distress."
+    },
+    {
+      "text": "red macules",
+      "type": "T033",
+      "umls_id": "C0332573",
+      "score": 0.8246744275093079,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A flat lesion characterized by change in the skin color."
+    },
+    {
+      "text": "palms",
+      "type": "T002",
+      "umls_id": "C0682477",
+      "score": 0.9612276554107666,
+      "semantic_types": [
+        "T002"
+      ],
+      "definition": "The palm family of order Arecales, subclass Arecidae, class Liliopsida."
+    },
+    {
+      "text": "His spleen",
+      "type": "T023",
+      "umls_id": "C0037993",
+      "score": 0.7822220921516418,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An encapsulated lymphatic organ through which venous blood filters."
+    },
+    {
+      "text": "left costal margin",
+      "type": "T029",
+      "umls_id": "C0502461",
+      "score": 0.9842795729637146,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "laboratory results",
+      "type": "T034",
+      "umls_id": "C1254595",
+      "score": 0.9686997532844543,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Leukocytes",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.978119432926178,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "Serum ferritin 8",
+      "type": "T033",
+      "umls_id": "C0241012",
+      "score": 0.7623249292373657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally reduced concentration of ferritin, a ubiquitous intracellular protein that stores iron, in the blood. [HPO:probinson]"
+    },
+    {
+      "text": "Total iron-binding capacity",
+      "type": "T059",
+      "umls_id": "C1283048",
+      "score": 0.8993905782699585,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the saturation of iron binding sites on serum transferrin proteins."
+    },
+    {
+      "text": "Colonoscopy",
+      "type": "T060",
+      "umls_id": "C0009378",
+      "score": 0.9911046028137207,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination, therapy or surgery of the luminal surface of the colon."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "neoplastic growth",
+      "type": "T191",
+      "umls_id": "C0027651",
+      "score": 0.9765269160270691,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "New abnormal growth of tissue. Malignant neoplasms show a greater degree of anaplasia and have the properties of invasion and metastasis, compared to benign neoplasms."
+    },
+    {
+      "text": "descending colon",
+      "type": "T023",
+      "umls_id": "C0227389",
+      "score": 0.9816551804542542,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The segment of LARGE INTESTINE between TRANSVERSE COLON and the SIGMOID COLON."
+    },
+    {
+      "text": "explanation",
+      "type": "T170",
+      "umls_id": "C0681841",
+      "score": 0.9418625831604004,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of statements describing a group of facts that clarifies the cause, context and/or consequence of those facts."
+    },
+    {
+      "text": "cardiac findings",
+      "type": "T033",
+      "umls_id": "C0232269",
+      "score": 0.7103161811828613,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical finding in which humming vibration; accompanying a loud, harsh or rumbling murmur felt during palpation of the precordium or over the blood vessels. (ACC-AHA)"
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "original_data": {
+    "question": "A clinical trial is conducted to test the efficacy of a new drug, A, to treat tinea versicolor. A total of 500 participants are recruited for the study and are randomized into 2 groups in equal numbers. Group 1, the study treatment group, is given drug A, while group 2, the control group, is given the current standard antifungal therapy. After the completion of therapy, 190 participants from the study treatment group and 165 participants from the control group are cured. Which calculation below represents the number needed to treat for the new drug?",
+    "options": {
+      "A": "25/250",
+      "B": "250/25",
+      "C": "190/250",
+      "D": "355/500"
+    }
+  },
+  "model_response": "The number needed to treat (NNT) for the new drug is calculated by dividing the number of people who were cured by the new drug (190) by the number of people who were cured by the standard therapy (250), giving us a ratio of 190/250. The NNT is then calculated by taking the reciprocal of this ratio, which is 190/250*1/190 = 250/190. Therefore, option B is the correct answer.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "clinical trial",
+      "type": "T062",
+      "umls_id": "C0008976",
+      "score": 0.9740465879440308,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Works about pre-planned studies of the safety, efficacy, or optimum dosage schedule (if appropriate) of one or more diagnostic, therapeutic, or prophylactic drugs, devices, or techniques selected according to predetermined criteria of eligibility and observed for predefined evidence of favorable and unfavorable effects. This concept includes clinical trials conducted both in the U.S. and in other countries."
+    },
+    {
+      "text": "efficacy",
+      "type": "T080",
+      "umls_id": "C1280519",
+      "score": 0.981176495552063,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The capacity to bring about a desired effect."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "A",
+      "type": "T023",
+      "umls_id": "C0227089",
+      "score": 1.0,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "<p>Deciduous maxillary right second molar tooth; Universal designation A; ISO designation 55</p>"
+    },
+    {
+      "text": "treat",
+      "type": "T169",
+      "umls_id": "C1292734",
+      "score": 0.9973037838935852,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The use of a particular medical device, medication or treatment to treat a pre-existing disease or condition."
+    },
+    {
+      "text": "tinea versicolor",
+      "type": "T047",
+      "umls_id": "C0040262",
+      "score": 0.9888723492622375,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A common chronic, noninflammatory and usually symptomless disorder, characterized by the occurrence of multiple macular patches of all sizes and shapes, and varying in pigmentation from fawn-colored to brown. It is seen most frequently in hot, humid, tropical regions and is mostly caused by MALASSEZIA FURFUR (formerly Pityrosporum orbiculare)."
+    },
+    {
+      "text": "participants",
+      "type": "T098",
+      "umls_id": "C0679646",
+      "score": 0.9811772108078003,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Someone who takes part in an activity."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "randomized",
+      "type": "T062",
+      "umls_id": "C0034656",
+      "score": 0.9530943632125854,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A process involving chance used in therapeutic trials or other research endeavor for allocating experimental subjects, human or animal, between treatment and control groups, or among treatment groups. It may also apply to experiments on inanimate objects."
+    },
+    {
+      "text": "groups",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9801599979400635,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "numbers",
+      "type": "T081",
+      "umls_id": "C0237753",
+      "score": 0.9990096092224121,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A numeral or string of numerals expressing value, quantity, or identification."
+    },
+    {
+      "text": "Group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "treatment group",
+      "type": "T098",
+      "umls_id": "C5205742",
+      "score": 0.9781675934791565,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A study population that receives an intervention(s) within a trial. This could include the investigational product(s) or a comparator (e.g., placebo or an approved intervention)."
+    },
+    {
+      "text": "drug A",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8902970552444458,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "group 2",
+      "type": "T170",
+      "umls_id": "C0441865",
+      "score": 0.9973951578140259,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "control group",
+      "type": "T096",
+      "umls_id": "C0009932",
+      "score": 0.9884956479072571,
+      "semantic_types": [
+        "T096"
+      ],
+      "definition": "Groups that serve as a standard for comparison in experimental studies. They are similar in relevant characteristics to the experimental group but do not receive the experimental intervention."
+    },
+    {
+      "text": "antifungal therapy",
+      "type": "T061",
+      "umls_id": "C0678026",
+      "score": 0.9652878642082214,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Drug treatment to destroy or inhibit the growth or multiplication of fungi."
+    },
+    {
+      "text": "completion",
+      "type": "T080",
+      "umls_id": "C0205197",
+      "score": 0.9767038226127625,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "To possess every necessary or normal part or component or step; having come or been brought to a conclusion."
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "participants",
+      "type": "T098",
+      "umls_id": "C0679646",
+      "score": 0.9811772108078003,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Someone who takes part in an activity."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "treatment group",
+      "type": "T098",
+      "umls_id": "C5205742",
+      "score": 0.9781675934791565,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A study population that receives an intervention(s) within a trial. This could include the investigational product(s) or a comparator (e.g., placebo or an approved intervention)."
+    },
+    {
+      "text": "participants",
+      "type": "T098",
+      "umls_id": "C0679646",
+      "score": 0.9811772108078003,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Someone who takes part in an activity."
+    },
+    {
+      "text": "control group",
+      "type": "T096",
+      "umls_id": "C0009932",
+      "score": 0.9884956479072571,
+      "semantic_types": [
+        "T096"
+      ],
+      "definition": "Groups that serve as a standard for comparison in experimental studies. They are similar in relevant characteristics to the experimental group but do not receive the experimental intervention."
+    },
+    {
+      "text": "cured",
+      "type": "T077",
+      "umls_id": "C1880198",
+      "score": 0.9811081886291504,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Serving or tending to restore health; a remedy."
+    },
+    {
+      "text": "calculation",
+      "type": "T052",
+      "umls_id": "C1441506",
+      "score": 0.9492443799972534,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The procedure or activity of determining something by mathematical or logical methods."
+    },
+    {
+      "text": "treat",
+      "type": "T169",
+      "umls_id": "C1292734",
+      "score": 0.9973037838935852,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The use of a particular medical device, medication or treatment to treat a pre-existing disease or condition."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    }
+  ]
+}

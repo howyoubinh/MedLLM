@@ -1,0 +1,355 @@
+{
+  "original_data": {
+    "question": "A 5-year-old Syrian immigrant and her family present for an immigration physical. Her mother describes photophobia, bilateral lacrimation, eye itching, and eyelid swelling for the last week. She is known to have an allergy to cephalosporins. She was born at 39 weeks gestation via spontaneous vaginal delivery. She has met all of her developmental milestones and most of her vaccines. Her vital signs are as follows: blood pressure 105/60 mm Hg, heart rate 98/min, respiratory rate 18/min, and temperature 37.0°C (98.6°F). The physical examination is mostly normal except for her eye exam as presented in the image below. Which of the following statements is true regarding treatment of this patient’s condition?",
+    "options": {
+      "A": "A third-generation cephalosporin would be the best treatment option in case the child did not have an actual allergy.",
+      "B": "The child should be treated with topical bacitracin.",
+      "C": "The best treatment option is oral tetracycline.",
+      "D": "The child should be administered a single dose of oral azithromycin."
+    }
+  },
+  "model_response": "The child should be treated with topical bacitracin.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Syrian",
+      "type": "T015",
+      "umls_id": "C0018561",
+      "score": 0.9824968576431274,
+      "semantic_types": [
+        "T015"
+      ],
+      "definition": "All Syrian hamsters in captivity are derived from a mother and eight pups that were captured in the wild in Aleppo, Syria by Dr. Israel Aharoni in 1930. Syrian Hamsters exhibit multiple coat colors, gold being the most common, and have a life span of about two to three years. Syrian hamsters are extremely territorial and are prone to attacking other hamsters so cannot be housed together under most circumstances. Females come into estrus every four days and embryo gestation is 16-18 days long. Syrian hamsters may exhibit diarrhea, neoplasms, amyloidosis, polycystic disease, and pregnancy-associated toxemia."
+    },
+    {
+      "text": "immigrant",
+      "type": "T098",
+      "umls_id": "C0282163",
+      "score": 0.966589629650116,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "An individual who changes his place of residency from one country to another."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "immigration",
+      "type": "T052",
+      "umls_id": "C0020942",
+      "score": 0.9434778690338135,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Migration into a foreign country to live permanently there."
+    },
+    {
+      "text": "physical",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9765394330024719,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "photophobia",
+      "type": "T184",
+      "umls_id": "C0085636",
+      "score": 0.9786372780799866,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Abnormal sensitivity to light. This may occur as a manifestation of EYE DISEASES; MIGRAINE; SUBARACHNOID HEMORRHAGE; MENINGITIS; and other disorders. Photophobia may also occur in association with DEPRESSION and other MENTAL DISORDERS."
+    },
+    {
+      "text": "bilateral lacrimation",
+      "type": "T033",
+      "umls_id": "C0423153",
+      "score": 0.7197319269180298,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Tearing; excessive shedding of tears."
+    },
+    {
+      "text": "eye",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9994997978210449,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "itching",
+      "type": "T184",
+      "umls_id": "C0033774",
+      "score": 0.9587393403053284,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An intense itching sensation that produces the urge to rub or scratch the skin to obtain relief."
+    },
+    {
+      "text": "eyelid swelling",
+      "type": "T184",
+      "umls_id": "C0560024",
+      "score": 0.9703212976455688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "allergy",
+      "type": "T091",
+      "umls_id": "C0002111",
+      "score": 0.9904248714447021,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cephalosporins",
+      "type": "T109",
+      "umls_id": "C3536856",
+      "score": 0.9958676695823669,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A group of broad-spectrum antibiotics first isolated from the Mediterranean fungus ACREMONIUM. They contain the beta-lactam moiety thia-azabicyclo-octenecarboxylic acid also called 7-aminocephalosporanic acid."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "developmental milestones",
+      "type": "T077",
+      "umls_id": "C2983568",
+      "score": 0.9234495759010315,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Physical or behavioral signs of maturation or skills gained by a developing child, which should be achieved by a given age that provide important information regarding the child's development. The milestones are different for each age range. Failure to achieve a particular milestone by a given age is indicative of developmental delay."
+    },
+    {
+      "text": "vaccines",
+      "type": "T116",
+      "umls_id": "C0042210",
+      "score": 0.9808231592178345,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa), antigenic proteins, synthetic constructs, or other bio-molecular derivatives, administered for the prevention, amelioration, or treatment of infectious and other diseases."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "eye exam",
+      "type": "T061",
+      "umls_id": "C0200149",
+      "score": 0.9924830794334412,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A test performed by an ophthalmologist or optometrist assessing vision and ability to focus on and discern objects, as well as other tests and examinations pertaining to the eyes."
+    },
+    {
+      "text": "image",
+      "type": "T170",
+      "umls_id": "C1696103",
+      "score": 0.9951585531234741,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>A characteristic representing a single file reference that contains two or more views of the same dosage form of the product; in most cases this should represent front and back views of the dosage form, but occasionally additional views might be needed in order to capture all of the important physical characteristics of the dosage form. Any imprint and/or symbol should be clearly identifiable, and the viewer should not normally need to rotate the image in order to read it. Images that are submitted with SPL should be included in the same directory as the SPL file."
+    },
+    {
+      "text": "statements",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.8483113050460815,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "5-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "original_data": {
+    "question": "A 58-year-old woman comes to the physician because of intermittent painful retrosternal dullness for 4 weeks. The pain is recurrent and occurs when she exerts herself or when she is outside during cold weather. She also experiences shortness of breath and palpitations during these episodes. The symptoms resolve spontaneously when she stops or sits down for a while. Over the past few days, the episodes have increased in frequency. She has hypertension, type 2 diabetes mellitus, and osteoarthritis. Her left leg was amputated below the knee after a motorcycle accident 25 years ago. She is currently waiting for a new prosthesis and walks with crutches. Current medications include captopril, glyburide, and ibuprofen. She does not smoke or drink alcohol. Her pulse is 88/min, respirations are 20/min, and blood pressure is 144/90 mm Hg. Cardiac examination shows no abnormalities. An x-ray of the chest shows no abnormalities. An ECG shows a normal sinus rhythm without any signs of ischemia. Serum cardiac markers are within the reference range. Which of the following is the most appropriate next step in diagnosis?",
+    "options": {
+      "A": "Myocardial perfusion scan under pharmacological stress",
+      "B": "Upper endoscopy",
+      "C": "Coronary angiography",
+      "D": "Echocardiography at rest"
+    }
+  },
+  "model_response": "The patient's symptoms are suggestive of stable angina pectoris. The next step in the diagnosis of coronary artery disease (CAD) is to perform a myocardial perfusion scan under pharmacological stress. This test has a sensitivity of 85% and a specificity of 95% for detecting significant CAD. The sensitivity of this test is highest for single-vessel disease and lowest for triple-vessel disease. The specificity is highest for a normal study and lowest for a study showing multivessel disease. The sensitivity and specificity of an exercise ECG are lower than those of a myocardial perfusion scan. An exercise ECG is preferred in patients who are unable to walk or to walk as fast as required for the pharmacological stress test. An echocardiogram is not a good screening test for CAD because it has a low sensitivity and specificity. An upper endoscopy is not indicated because the patient's symptoms are suggestive of CAD and not of esophageal disease. Coronary angiography is not indicated as the first step in the diagnosis of CAD because it is an invasive procedure.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "retrosternal dullness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "exerts",
+      "type": "T040",
+      "umls_id": "C0015264",
+      "score": 0.9745756983757019,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Physical or mental energy; hard work."
+    },
+    {
+      "text": "herself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cold weather",
+      "type": "T070",
+      "umls_id": "C0337005",
+      "score": 0.9691506624221802,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": null
+    },
+    {
+      "text": "experiences",
+      "type": "T041",
+      "umls_id": "C0596545",
+      "score": 0.9647354483604431,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The accumulation of knowledge or skill that results from direct participation in events or activities."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spontaneously",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.8442990779876709,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "stops",
+      "type": "T073",
+      "umls_id": "C0450446",
+      "score": 0.9902483820915222,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sits",
+      "type": "T109",
+      "umls_id": "C0037216",
+      "score": 0.9922419786453247,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T130"
+      ],
+      "definition": "A non-penetrating amino reagent (commonly called SITS) which acts as an inhibitor of anion transport in erythrocytes and other cells."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "frequency",
+      "type": "T079",
+      "umls_id": "C0376249",
+      "score": 0.9909980297088623,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "osteoarthritis",
+      "type": "T047",
+      "umls_id": "C0029408",
+      "score": 0.9689512848854065,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative joint disease, the most common form of arthritis, especially in older persons. The disease is thought to result not from the aging process but from biochemical changes and biomechanical stresses affecting articular cartilage. In the foreign literature it is often called osteoarthrosis deformans."
+    },
+    {
+      "text": "left leg",
+      "type": "T023",
+      "umls_id": "C0230443",
+      "score": 0.9720625281333923,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the left side of the body."
+    },
+    {
+      "text": "knee",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9991382360458374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "motorcycle",
+      "type": "T073",
+      "umls_id": "C0026616",
+      "score": 0.9661967158317566,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Two-wheeled, engine-driven vehicles."
+    },
+    {
+      "text": "accident",
+      "type": "T067",
+      "umls_id": "C0000924",
+      "score": 0.9794917702674866,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Unexpected and unintentional events, typically resulting in ACCIDENTAL INJURIES."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "waiting",
+      "type": "T170",
+      "umls_id": "C0043010",
+      "score": 0.8034902215003967,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Prospective patient listings for appointments or treatments."
+    },
+    {
+      "text": "prosthesis",
+      "type": "T074",
+      "umls_id": "C0175649",
+      "score": 0.975396454334259,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A device which is an artificial substitute for a missing body part or function; used for functional or cosmetic reasons, or both."
+    },
+    {
+      "text": "walks",
+      "type": "T033",
+      "umls_id": "C0600108",
+      "score": 0.9780822396278381,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "crutches",
+      "type": "T074",
+      "umls_id": "C0010397",
+      "score": 0.9689925312995911,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Wooden or metal staffs designed to aid a person in walking. (UMDNS,1999)"
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "captopril",
+      "type": "T116",
+      "umls_id": "C0006938",
+      "score": 0.9880793690681458,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "A potent and specific inhibitor of PEPTIDYL-DIPEPTIDASE A. It blocks the conversion of ANGIOTENSIN I to ANGIOTENSIN II, a vasoconstrictor and important regulator of arterial blood pressure. Captopril acts to suppress the RENIN-ANGIOTENSIN SYSTEM and inhibits pressure responses to exogenous angiotensin."
+    },
+    {
+      "text": "glyburide",
+      "type": "T109",
+      "umls_id": "C0017628",
+      "score": 0.9625511169433594,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antidiabetic sulfonylurea derivative with actions like those of chlorpropamide"
+    },
+    {
+      "text": "ibuprofen",
+      "type": "T109",
+      "umls_id": "C0020740",
+      "score": 0.9725996851921082,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties"
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drink",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9850457310676575,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Cardiac examination",
+      "type": "T060",
+      "umls_id": "C5238613",
+      "score": 0.8230605125427246,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A physical examination focusing on areas of interest other than the heart."
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "ischemia",
+      "type": "T046",
+      "umls_id": "C0022116",
+      "score": 0.9904429316520691,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A hypoperfusion of the BLOOD through an organ or tissue caused by a PATHOLOGIC CONSTRICTION or obstruction of its BLOOD VESSELS, or an absence of BLOOD CIRCULATION."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "cardiac markers",
+      "type": "T059",
+      "umls_id": "C1271630",
+      "score": 0.9829367995262146,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

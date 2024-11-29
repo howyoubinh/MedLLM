@@ -1,0 +1,230 @@
+{
+  "original_data": {
+    "question": "A 2-year-old boy is brought to the physician because of decreased appetite and abdominal pain for the last several weeks. Physical examination shows a well-appearing toddler with a palpable left-sided abdominal mass that does not cross the midline. A CT of the abdomen shows a large, necrotic tumor on the left kidney. Histological examination of the kidney mass shows primitive blastemal cells and immature tubules and glomeruli. This tissue is most likely derived from the same embryological structure as which of the following?",
+    "options": {
+      "A": "Adrenal medulla",
+      "B": "Thyroid gland",
+      "C": "Papillary muscles",
+      "D": "Anterior pituitary\n\""
+    }
+  },
+  "model_response": "The kidney is derived from the metanephros, which is the most cranial of the three embryonic renal structures. The other embryonic renal structures are the pronephros and mesonephros. The pronephros is rudimentary in humans, but is the forerunner of the mesonephric kidney in other species. The mesonephros is the site of urine formation in the early embryo, but regresses before birth. The anterior pituitary is derived from an outgrowth of the diencephalon, as are the adrenal medulla and thyroid gland. Papillary muscles are derived from the myocardium.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "appetite",
+      "type": "T040",
+      "umls_id": "C0003618",
+      "score": 0.9883872270584106,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Natural recurring desire for food. Alterations may be induced by APPETITE DEPRESSANTS or APPETITE STIMULANTS."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "well-appearing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "toddler",
+      "type": "T100",
+      "umls_id": "C0682053",
+      "score": 0.9541666507720947,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An age group comprised of individuals between 12 and 18 months of age."
+    },
+    {
+      "text": "left-sided abdominal mass",
+      "type": "T033",
+      "umls_id": "C0000734",
+      "score": 0.7340617179870605,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormal growth in the abdomen."
+    },
+    {
+      "text": "midline",
+      "type": "T082",
+      "umls_id": "C0549183",
+      "score": 0.9231401681900024,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A medial line, especially the medial line or medial plane of the body (or some part of the body)."
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "necrotic tumor",
+      "type": "T191",
+      "umls_id": "C1300818",
+      "score": 0.9829114079475403,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A neoplasm characterized by focal or diffuse tumor cell necrosis."
+    },
+    {
+      "text": "left kidney",
+      "type": "T023",
+      "umls_id": "C0227614",
+      "score": 0.9782150387763977,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A bean-shaped retroperitoneal organ situated below the diaphragm and posterior to the spleen."
+    },
+    {
+      "text": "Histological examination",
+      "type": "T091",
+      "umls_id": "C0677043",
+      "score": 0.7518596053123474,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The microscopic study of characteristic tissue abnormalities by employing various cytochemical and immunocytochemical stains."
+    },
+    {
+      "text": "kidney mass",
+      "type": "T033",
+      "umls_id": "C0262613",
+      "score": 0.9823378920555115,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormal growth in the kidney."
+    },
+    {
+      "text": "blastemal cells",
+      "type": "T025",
+      "umls_id": "C1879883",
+      "score": 0.8697404265403748,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "An embryonic undifferentiated cell that can grow and differentiate into organs or body parts."
+    },
+    {
+      "text": "immature tubules",
+      "type": "T080",
+      "umls_id": "C0205252",
+      "score": 0.723986804485321,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In an early period of life or development or growth."
+    },
+    {
+      "text": "glomeruli",
+      "type": "T047",
+      "umls_id": "C0268731",
+      "score": 0.7825360894203186,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Chronic degenerative changes in the glomeruli characterized by loss of cellularity of glomerular capillary tufts and acellular deposition of immunoglobulins."
+    },
+    {
+      "text": "tissue",
+      "type": "T024",
+      "umls_id": "C0040300",
+      "score": 0.9971153736114502,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Collections of differentiated CELLS, such as EPITHELIUM; CONNECTIVE TISSUE; MUSCLES; and NERVE TISSUE. Tissues are cooperatively arranged to form organs with specialized functions such as RESPIRATION; DIGESTION; REPRODUCTION; MOVEMENT; and others."
+    },
+    {
+      "text": "embryological structure",
+      "type": "T018",
+      "umls_id": "C0013948",
+      "score": 0.9638872146606445,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The anatomical parts that make up an organism in the early stages of development."
+    },
+    {
+      "text": "2-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

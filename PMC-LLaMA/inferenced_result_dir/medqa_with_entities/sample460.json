@@ -1,0 +1,407 @@
+{
+  "original_data": {
+    "question": "A 32-year-old man comes to the physician because of a progressive development of tender breast tissue over the past 18 months. He used to ride his bicycle for exercise 4 times a week but stopped after he had an accident and injured his left testicle 3 months ago. He has gained 5 kg (11 lb) during this period. For the last 10 years, he drinks one to two beers daily and sometimes more on weekends. He occasionally takes pantoprazole for heartburn. He is 171 cm (5 ft 7 in) tall and weighs 87 kg (192 lb); BMI is 30 kg/m2. Vital signs are within normal limits. Examination shows bilaterally symmetrical, mildly tender gynecomastia. A nontender 1.5-cm mass is palpated in the left testis; transillumination test is negative. The remainder of the examination shows no abnormalities. Which of the following is the most likely underlying cause of these findings?",
+    "options": {
+      "A": "Leydig cell tumor",
+      "B": "Obesity",
+      "C": "Klinefelter syndrome",
+      "D": "Trauma to testis"
+    }
+  },
+  "model_response": "The patient's obesity and alcohol intake are associated with an increased risk for development of gynecomastia. Testicular trauma can result in a hematoma that mimics the more common gynecomastia. The hematoma resolves spontaneously. Testicular tumors are more common in obese men, but the presentation is usually a testicular mass. Klinefelter syndrome is associated with gynecomastia, but the patient is too old for this condition.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "development",
+      "type": "T169",
+      "umls_id": "C0243107",
+      "score": 0.9674524664878845,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "breast tissue",
+      "type": "T023",
+      "umls_id": "C0444070",
+      "score": 0.9946627616882324,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "ride",
+      "type": "T052",
+      "umls_id": "C3831191",
+      "score": 0.7652357816696167,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A journey in an automobile."
+    },
+    {
+      "text": "bicycle",
+      "type": "T073",
+      "umls_id": "C0005375",
+      "score": 0.9783806204795837,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "exercise",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9731677770614624,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "accident",
+      "type": "T067",
+      "umls_id": "C0000924",
+      "score": 0.9794917702674866,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Unexpected and unintentional events, typically resulting in ACCIDENTAL INJURIES."
+    },
+    {
+      "text": "injured",
+      "type": "T169",
+      "umls_id": "C0332664",
+      "score": 0.9671863317489624,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left testicle 3",
+      "type": "T023",
+      "umls_id": "C0227998",
+      "score": 0.9526681900024414,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The testis on the left side of the body."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beers",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9762206673622131,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "weekends",
+      "type": "T079",
+      "umls_id": "C0680190",
+      "score": 0.9821826219558716,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period comprising Saturday and Sunday, and sometimes considered to include Friday night."
+    },
+    {
+      "text": "pantoprazole",
+      "type": "T109",
+      "umls_id": "C0081876",
+      "score": 0.9860872626304626,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "2-pyridinylmethylsulfinylbenzimidazole proton pump inhibitor that is used in the treatment of GASTROESOPHAGEAL REFLUX and PEPTIC ULCER."
+    },
+    {
+      "text": "heartburn",
+      "type": "T184",
+      "umls_id": "C0018834",
+      "score": 0.948246419429779,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Substernal pain or burning sensation, usually associated with regurgitation of gastric juice into the esophagus."
+    },
+    {
+      "text": "tall",
+      "type": "T033",
+      "umls_id": "C4314520",
+      "score": 0.9990716576576233,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weighs",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7179433107376099,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "symmetrical",
+      "type": "T077",
+      "umls_id": "C2699744",
+      "score": 0.8027674555778503,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A binary relation such that if a is related to b then b is related to a."
+    },
+    {
+      "text": "mildly tender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gynecomastia",
+      "type": "T047",
+      "umls_id": "C0018418",
+      "score": 0.973443329334259,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Enlargement of the BREAST in the males, caused by an excess of ESTROGENS. Physiological gynecomastia is normally observed in NEWBORNS; ADOLESCENT; and AGING males."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "left testis",
+      "type": "T023",
+      "umls_id": "C0227998",
+      "score": 0.9965028166770935,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The testis on the left side of the body."
+    },
+    {
+      "text": "transillumination test",
+      "type": "T060",
+      "umls_id": "C0040706",
+      "score": 0.8786259293556213,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Passage of light through body tissues or cavities for examination of internal structures."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

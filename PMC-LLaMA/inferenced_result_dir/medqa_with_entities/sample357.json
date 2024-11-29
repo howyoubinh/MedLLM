@@ -1,0 +1,288 @@
+{
+  "original_data": {
+    "question": "A 24-year-old man is brought to the emergency department by the police. He was found unconscious and covered in bruises outside of a local bar. The patient has a past medical history of polysubstance abuse, depression, multiple suicide attempts, neuropathic pain, and schizophrenia. As part of the patient’s initial workup, a head CT is performed which is unremarkable, and an arterial blood gas is performed as seen below:\n\npH: 7.29\nPaCO2: 95 mm Hg\nPaO2: 70 mm Hg\nBicarbonate: 24 mEq/L\n\nWhich of the following is the most likely etiology of this patient’s current presentation?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Cocaine",
+      "C": "Ethylene glycol",
+      "D": "Heroin"
+    }
+  },
+  "model_response": "The patient’s acid-base status is consistent with metabolic acidosis. The low bicarbonate level suggests that there is an underlying primary metabolic acidosis. The patient’s history of schizophrenia is being treated with olanzapine, a medication that can cause weight gain, diabetes, and metabolic acidosis. The patient’s history of polysubstance abuse raises the possibility of toxic ingestions, including ethylene glycol, but the absence of an osmolar gap makes this less likely. The patient’s history of suicide attempts and depression raises the possibility of medications such as amitriptyline, which can cause seizures and lactic acidosis. However, the patient’s low bicarbonate level makes this less likely. The patient’s history of neuropathic pain raises the possibility of medications such as gabapentin or pregabalin, which can cause cytopathic toxicity and metabolic acidosis. However, the absence of a clear explanation for the metabolic acidosis makes this less likely. The patient’s history of cocaine use raises the possibility of rhabdomyolysis and subsequent acute kidney injury, which can cause metabolic acidosis. However, the absence of an elevated creatine kinase level makes this less likely. The patient’s history of schizophrenia and polysubstance abuse raises the possibility of heroin use, which can cause respiratory depression and subsequent hypoxia and hypercarbia, leading to metabolic acidosis. However, the absence of elevated pulmonary findings on the head CT makes this less likely.\n\nThe correct answer is D: Heroin.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "police",
+      "type": "T097",
+      "umls_id": "C0085098",
+      "score": 0.9958091974258423,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Agents of the law charged with the responsibility of maintaining and enforcing law and order among the citizenry."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "bruises",
+      "type": "T037",
+      "umls_id": "C0009938",
+      "score": 0.9686753153800964,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Injuries resulting in hemorrhage, usually manifested in the skin."
+    },
+    {
+      "text": "local bar",
+      "type": "T082",
+      "umls_id": "C0205276",
+      "score": 0.7692205905914307,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or belonging to a restricted area or locality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "polysubstance abuse",
+      "type": "T048",
+      "umls_id": "C0747752",
+      "score": 0.969124972820282,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "suicide attempts",
+      "type": "T037",
+      "umls_id": "C0038663",
+      "score": 0.960286557674408,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "The unsuccessful attempt to kill oneself."
+    },
+    {
+      "text": "neuropathic pain",
+      "type": "T184",
+      "umls_id": "C0027796",
+      "score": 0.9849191904067993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Intense or aching pain that occurs along the course or distribution of a peripheral or cranial nerve."
+    },
+    {
+      "text": "schizophrenia",
+      "type": "T048",
+      "umls_id": "C0036341",
+      "score": 0.9816023111343384,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "workup",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "head CT",
+      "type": "T060",
+      "umls_id": "C0202691",
+      "score": 0.9920718669891357,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "arterial blood gas",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9828471541404724,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "PaCO2",
+      "type": "T059",
+      "umls_id": "C0201931",
+      "score": 0.7244967818260193,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A measurement of the partial pressure of carbon dioxide in a sample."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "PaO2",
+      "type": "T059",
+      "umls_id": "C1283004",
+      "score": 0.9576822519302368,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the pressure of oxygen dissolved in the blood and how well oxygen is able to move from the airspace of the lungs into the blood."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Bicarbonate",
+      "type": "T121",
+      "umls_id": "C0005367",
+      "score": 0.9807897806167603,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "Inorganic salts that contain the -HCO3 radical. They are an important factor in determining the pH of the blood and the concentration of bicarbonate ions is regulated by the kidney. Levels in the blood are an index of the alkali reserve or buffering capacity."
+    },
+    {
+      "text": "etiology",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9827702641487122,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

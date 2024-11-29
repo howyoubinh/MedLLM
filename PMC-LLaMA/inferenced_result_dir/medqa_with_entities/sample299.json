@@ -1,0 +1,183 @@
+{
+  "original_data": {
+    "question": "A 72-year-old woman is admitted to the hospital for treatment of unstable angina. Cardiac catheterization shows occlusion that has caused a 50% reduction in the diameter of the left circumflex artery. Resistance to blood flow in this vessel has increased by what factor relative to a vessel with no occlusion?",
+    "options": {
+      "A": "64",
+      "B": "16",
+      "C": "8",
+      "D": "4"
+    }
+  },
+  "model_response": ":\nThe relationship between pressure and flow in a vessel is given by Poiseuille's law:\n\nwhere P is the pressure difference across the vessel, r is the radius, L is the length, and n is the viscosity.\n\nBecause the vessel diameter has decreased by 50%, the resistance to flow (R) has increased by the factor 4/50 or 16.\n\nNote that the resistance to flow in a vessel is inversely proportional to the fourth power of the radius. Therefore, even a small decrease in the diameter of a vessel can have a large effect on resistance.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "unstable angina",
+      "type": "T047",
+      "umls_id": "C0002965",
+      "score": 0.9840850830078125,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Precordial pain at rest, which may precede a MYOCARDIAL INFARCTION."
+    },
+    {
+      "text": "Cardiac catheterization",
+      "type": "T060",
+      "umls_id": "C0018795",
+      "score": 0.9672349095344543,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures in which placement of CARDIAC CATHETERS is performed for therapeutic or diagnostic procedures."
+    },
+    {
+      "text": "occlusion",
+      "type": "T020",
+      "umls_id": "C0001168",
+      "score": 0.965436577796936,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reduction",
+      "type": "T070",
+      "umls_id": "C0301630",
+      "score": 0.9768530130386353,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "A chemical reaction that results in a gain of electrons by one of the chemical species involved in the reaction."
+    },
+    {
+      "text": "diameter",
+      "type": "T081",
+      "umls_id": "C1301886",
+      "score": 0.9675867557525635,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference."
+    },
+    {
+      "text": "left circumflex artery",
+      "type": "T023",
+      "umls_id": "C0226037",
+      "score": 0.962175190448761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An artery arising from the bifurcation of the left coronary artery that runs along the coronary grove with branches supplying the atria and ventricles."
+    },
+    {
+      "text": "Resistance",
+      "type": "T041",
+      "umls_id": "C0237834",
+      "score": 0.995758056640625,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood flow",
+      "type": "T039",
+      "umls_id": "C0005775",
+      "score": 0.9972584247589111,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The movement of the BLOOD as it is pumped through the CARDIOVASCULAR SYSTEM."
+    },
+    {
+      "text": "vessel",
+      "type": "T023",
+      "umls_id": "C0005847",
+      "score": 0.9961130619049072,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "factor",
+      "type": "T169",
+      "umls_id": "C1521761",
+      "score": 0.9910856485366821,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Anything that contributes causally to a result."
+    },
+    {
+      "text": "vessel",
+      "type": "T023",
+      "umls_id": "C0005847",
+      "score": 0.9961130619049072,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+    },
+    {
+      "text": "72-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

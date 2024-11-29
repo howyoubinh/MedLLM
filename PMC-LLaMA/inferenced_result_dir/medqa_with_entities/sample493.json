@@ -1,0 +1,433 @@
+{
+  "original_data": {
+    "question": "A 16-year-old boy presents to the emergency department with shortness of breath after prolonged exposure to cold air during a recent hike with his friends. He informs the physician that he is asthmatic, but does not use inhalers regularly because he does not like using medications. He is a non-smoker and occasionally drinks alcohol. On physical examination, the temperature is 37.0°C (98.6°F), the pulse is 120/min, the blood pressure is 114/76 mm Hg, and the respiratory rate is 32/min. Auscultation of the chest reveals bilateral wheezing. The physician asks the nurse to administer nebulized albuterol; however, the boy declines nebulized albuterol because of a history of palpitations that he experienced previously. The physician then prescribes nebulized ipratropium bromide, which results in significant clinical improvement. Which of the following second messenger systems is affected by the drug that improved the boy's symptoms?",
+    "options": {
+      "A": "Cyclic guanosine monophosphate (cGMP) system",
+      "B": "Arachidonic acid system",
+      "C": "Phosphoinositol system",
+      "D": "Tyrosine kinase system"
+    }
+  },
+  "model_response": "Ipratropium bromide is an anticholinergic drug that blocks the effects of acetylcholine at muscarinic receptors. The muscarinic receptors in the lung are mainly of the M3 subtype, which are responsible for bronchoconstriction. Ipratropium bromide is an inhalational anticholinergic bronchodilator that acts by inhibiting the effects of acetylcholine at the M3 receptors on bronchial smooth muscle. This results in bronchodilation and relieves the symptoms of asthma. The cyclic guanosine monophosphate (cGMP) system is activated by nitric oxide (NO). NO activates guanylyl cyclase, which leads to an increase in cGMP. cGMP is an important second messenger in many cell types. It activates protein kinase G (PKG), which can phosphorylate proteins, leading to their activation or inactivation. The arachidonic acid system is important in the inflammatory response. Arachidonic acid is a 20-carbon polyunsaturated fatty acid that is derived from dietary sources or is synthesized from the essential fatty acid linoleic acid. Arachidonic acid is converted into prostaglandins, thromboxanes, and leukotrienes by the action of various enzymes, including cyclooxygenases (COX-1 and -2) and lipoxygenases. The phosphoinositol system is important in the regulation of many cellular processes, including smooth muscle contraction, cell growth, and the release of calcium from intracellular stores. This system is activated by a group of hormones that bind to specific receptors on the cell membrane. The hormone-receptor complex activates an enzyme called phospholipase C, which hydrolyzes phosphatidylinositol 4,5-bisphosphate to produce diacylglycerol and the second messenger inositol 1,4,5-triphosphate (IP3). IP3 releases calcium from internal stores, which can activate protein kinases and other enzymes. Tyrosine kinase receptors are a class of cell surface receptors that are involved in the regulation of cell growth, differentiation, and survival. These receptors contain an intrinsic tyrosine kinase domain in their intracellular region. Upon binding of a ligand, such as epidermal growth factor (EGF), the tyrosine kinase receptor is activated, and autophosphorylates tyrosine residues on its cytoplasmic domain. Autophosphorylation of the receptor activates other tyrosine kinases, including Janus kinase 2 (JAK2). JAK2 phosphorylates a number of substrates, leading to cellular responses.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "prolonged",
+      "type": "T079",
+      "umls_id": "C0439590",
+      "score": 0.9630876779556274,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to an abnormality whose duration is extended over a longer period of time than is expected or usual (e.g., prolonged fever lasts longer than one usually sees with an infection). []"
+    },
+    {
+      "text": "exposure to",
+      "type": "T080",
+      "umls_id": "C0332157",
+      "score": 0.9658212065696716,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The act of subjecting someone or something to an influencing experience."
+    },
+    {
+      "text": "cold air",
+      "type": "T070",
+      "umls_id": "C0450029",
+      "score": 0.9784919023513794,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": null
+    },
+    {
+      "text": "friends",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9840391874313354,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "asthmatic",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.9538339972496033,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "inhalers",
+      "type": "T074",
+      "umls_id": "C0021461",
+      "score": 0.9790717363357544,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A device by means of which a medicinal product can be administered by inspiration through the nose or the mouth."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "non-smoker",
+      "type": "T033",
+      "umls_id": "C0337672",
+      "score": 0.9623507857322693,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "Auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "wheezing",
+      "type": "T184",
+      "umls_id": "C0043144",
+      "score": 0.9590449929237366,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.9822375178337097,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "nebulized",
+      "type": "T029",
+      "umls_id": "C1549531",
+      "score": 0.9735028743743896,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "nebulized",
+      "type": "T029",
+      "umls_id": "C1549531",
+      "score": 0.9735028743743896,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "prescribes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "nebulized",
+      "type": "T029",
+      "umls_id": "C1549531",
+      "score": 0.9735028743743896,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ipratropium bromide",
+      "type": "T109",
+      "umls_id": "C0700580",
+      "score": 0.965274453163147,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The bromide salt form of ipratropium, a synthetic derivative of the alkaloid atropine with anticholinergic properties. Ipratropium antagonizes the actions of acetylcholine at parasympathetic, postganglionic, effector-cell junctions. When inhaled, ipratropium binds competitively to cholinergic receptors in the bronchial smooth muscle thereby blocking the bronchoconstrictor actions of the acetylcholine mediated vagal impulses. Inhibition of the vagal tone leads to dilation of the large central airways resulting in bronchodilation."
+    },
+    {
+      "text": "clinical improvement",
+      "type": "T089",
+      "umls_id": "C2827061",
+      "score": 0.7519210577011108,
+      "semantic_types": [
+        "T089"
+      ],
+      "definition": "A Federal law establishing quality standards for all laboratory testing to ensure the accuracy, reliability and timeliness of patient test results regardless of where the test was performed and also to determine if laboratories are achieving those standards."
+    },
+    {
+      "text": "messenger systems",
+      "type": "T044",
+      "umls_id": "C0036522",
+      "score": 0.8467139005661011,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": "Systems in which an intracellular signal is generated in response to an intercellular primary messenger such as a hormone or neurotransmitter. They are intermediate signals in cellular processes such as metabolism, secretion, contraction, phototransduction, and cell growth. Examples of second messenger systems are the adenyl cyclase-cyclic AMP system, the phosphatidylinositol diphosphate-inositol triphosphate system, and the cyclic GMP system."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "improved",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.9708120822906494,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "boy's",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "16-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

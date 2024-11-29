@@ -1,0 +1,69 @@
+{
+  "original_data": {
+    "question": "Current recommendations state that a single hemoglobin A1c value of greater than 6.5% is diagnostic of diabetes mellitus. If this 6.5% cut-off is to be increased to 7.0%, which of the following would be true?",
+    "options": {
+      "A": "Increase in false negative test results",
+      "B": "Increase in false positive test results",
+      "C": "Decrease in true negative test results",
+      "D": "Increase in true positive test results"
+    }
+  },
+  "model_response": "If the cut-off for diagnosing diabetes mellitus is increased from 6.5% to 7.0%, there would be a decrease in true positive test results. This is because an increase in the cut-off value means that a higher value is required to classify a patient as diabetic. Consequently, patients who previously tested positive at 6.5% would now test negative at 7.0%. Therefore, there would be a decrease in true positive test results. There would be no change in false negative, false positive, true negative, or false positive test results.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "recommendations state",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.8369168639183044,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "single hemoglobin A1c",
+      "type": "T116",
+      "umls_id": "C0019018",
+      "score": 0.7916394472122192,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Products of non-enzymatic reactions between GLUCOSE and HEMOGLOBIN A, occurring as a minor fraction of the hemoglobin components of human erythrocytes. Hemoglobin A1c is hemoglobin A with glucose covalently bound to the terminal VALINE of the beta chain. Glycated hemoglobin A is used as an index of the average blood sugar level over a lifetime of erythrocytes."
+    },
+    {
+      "text": "diagnostic",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9788362979888916,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "cut-off",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    }
+  ]
+}

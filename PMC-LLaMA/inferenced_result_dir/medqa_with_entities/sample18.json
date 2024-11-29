@@ -1,0 +1,444 @@
+{
+  "original_data": {
+    "question": "A 29-year-old man presents to the emergency department due to central chest pain over the past 3 days which is constant and unrelated to exertion. The pain is sharp, severe, increases when lying down, and improves with leaning forward. The pain also radiates to his shoulders and neck. The patient has no past medical history. He has smoked 10 cigarettes per day for the past 7 years and occasionally drinks alcohol. He presents with vital signs: blood pressure 110/70 mm Hg, regular radial pulse of 95/min, and temperature 37.3°C (99.1°F). On physical exam, a scratching sound of to-and-from character is audible over the left sternal border at end-expiration with the patient leaning forward. His chest X-ray is normal and ECG is shown in the picture. Which of the following is the optimal therapy for this patient?",
+    "options": {
+      "A": "Indomethacin +/- omeprazole",
+      "B": "Ibuprofen + colchicine +/- omeprazole",
+      "C": "Pericardiocentesis",
+      "D": "Pericardiectomy"
+    }
+  },
+  "model_response": "The ECG shows sinus rhythm at 60/min with a normal QRS axis and voltage. There is a 1-mm ST segment elevation in the anterior leads V2-V5 with a concave upward shape. The PR segment is notched in the precordial leads. The differential diagnosis of chest pain and ECG changes includes angina, pericarditis, and Prinzmetal's angina. In this case, the scratching sound suggests pericarditis. The pain characteristics and the ECG changes are consistent with pericarditis. The presence of a friction rub suggests an inflammatory process. The pain is not typical of angina, and the ECG changes are not consistent with Prinzmetal's angina. Pericarditis is more common in men than in women. The most common causes of pericarditis are idiopathic, but also can be caused by infection (including tuberculosis), metabolic diseases, neoplasms, trauma, and collagen vascular diseases. The most common viral cause is Coxsackievirus. The most common bacterial cause is Streptococcus. The most common ECG changes in pericarditis are ST segment elevation, which can have a concave upward shape as seen in this case. PR segment depression can also be seen. The treatment of pericarditis is anti-inflammatory, and the drug of choice is indomethacin. Other nonsteroidal anti-inflammatory drugs (NSAIDs) can be used, including ibuprofen and aspirin. Colchicine can be added if there is doubt about the diagnosis or if the patient does not respond to NSAIDs. Omeprazole is used to reduce gastrointestinal damage from NSAIDs. Pericardiocentesis is indicated if there is tamponade, but it is not the optimal therapy for this patient. Pericardiectomy is indicated if there is recurrent pericarditis or constrictive pericarditis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "central chest pain",
+      "type": "T184",
+      "umls_id": "C0423634",
+      "score": 0.9805945754051208,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "constant",
+      "type": "T170",
+      "umls_id": "C1720529",
+      "score": 0.9768766760826111,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "exertion",
+      "type": "T040",
+      "umls_id": "C0015264",
+      "score": 0.9380931258201599,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Physical or mental energy; hard work."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "sharp",
+      "type": "T033",
+      "umls_id": "C1444775",
+      "score": 0.9891087412834167,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Applied to pain that is described as sharp, i.e., sudden and severe. []"
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "increases",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9777454733848572,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lying",
+      "type": "T082",
+      "umls_id": "C0038846",
+      "score": 0.9385496973991394,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The posture of an individual lying face up."
+    },
+    {
+      "text": "down",
+      "type": "T082",
+      "umls_id": "C0205104",
+      "score": 0.9915993809700012,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "leaning forward",
+      "type": "T033",
+      "umls_id": "C1830710",
+      "score": 0.9497641921043396,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The act of bending one's back forward from the waist on down."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "radiates",
+      "type": "T169",
+      "umls_id": "C0332301",
+      "score": 0.9913275837898254,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shoulders",
+      "type": "T029",
+      "umls_id": "C0037004",
+      "score": 0.9912119507789612,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Part of the body in humans and primates where the arms connect to the trunk. The shoulder has five joints; ACROMIOCLAVICULAR joint, CORACOCLAVICULAR joint, GLENOHUMERAL joint, scapulathoracic joint, and STERNOCLAVICULAR joint."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "radial pulse",
+      "type": "T042",
+      "umls_id": "C0232142",
+      "score": 0.965937077999115,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "sound",
+      "type": "T070",
+      "umls_id": "C0037709",
+      "score": 0.9809352159500122,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "A type of non-ionizing radiation in which energy is transmitted through solid, liquid, or gas as compression waves. Sound (acoustic or sonic) radiation with frequencies above the audible range is classified as ultrasonic. Sound radiation below the audible range is classified as infrasonic."
+    },
+    {
+      "text": "character",
+      "type": "T041",
+      "umls_id": "C0007952",
+      "score": 0.9832411408424377,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "In current usage, approximately equivalent to personality. The sum of the relatively fixed personality traits and habitual modes of response of an individual."
+    },
+    {
+      "text": "left sternal border",
+      "type": "T030",
+      "umls_id": "C4068813",
+      "score": 0.9832053184509277,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "end-expiration",
+      "type": "T040",
+      "umls_id": "C0231800",
+      "score": 0.717601478099823,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Expelling modified air from the lungs; breathing out."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "X-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "picture",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9875263571739197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "optimal",
+      "type": "T080",
+      "umls_id": "C2698651",
+      "score": 0.9846187829971313,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The best or most suitable; the greatest degree attainable."
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

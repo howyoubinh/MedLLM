@@ -1,0 +1,257 @@
+{
+  "original_data": {
+    "question": "A 23-year-old man comes to the clinic for yellowing of his eyes. The patient has been relatively healthy and just recently started “intermittent fasting” to try to lose weight. He recalls a similar episode 4 years ago when he was recovering from an emergency appendectomy. The patient denies smoking but endorses an episode of binge drinking 2 days ago. He is sexually active with both men and women. His physical examination is unremarkable besides scleral icterus. What is the most likely explanation for this patient’s symptoms?",
+    "options": {
+      "A": "Autoimmune-mediated fibrosis of biliary tract",
+      "B": "Chronic viral infection of the liver",
+      "C": "Decreased activity of UDP-glucuronosyltransferase",
+      "D": "Defective bilirubin excretion"
+    }
+  },
+  "model_response": "The correct answer is C. This patient's symptoms are consistent with Gilbert's syndrome, which is a common inherited disorder that affects approximately 3-5% of the population. It is caused by a mutation in the UGT1A1 gene, which encodes the enzyme UDP-glucuronosyltransferase 1A1. This enzyme is responsible for conjugating bilirubin in the liver. Patients with Gilbert's syndrome have a decreased activity of this enzyme, which leads to unconjugated hyperbilirubinemia. The disorder is usually asymptomatic, but fasting, illness, stress, and alcohol can precipitate jaundice. The syndrome is benign and requires no treatment.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intermittent fasting",
+      "type": "T055",
+      "umls_id": "C4704881",
+      "score": 0.9720049500465393,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Any eating plan that alternates between fasting and non-fasting periods. Different types of intermittent fasting include complete alternate-day fasting, modified fasting regimens, and time-restricted feeding."
+    },
+    {
+      "text": "lose weight",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9754317402839661,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "episode 4",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.925693690776825,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "emergency appendectomy",
+      "type": "T061",
+      "umls_id": "C0399997",
+      "score": 0.9911790490150452,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient denies",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213225364685059,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "endorses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "binge drinking 2",
+      "type": "T055",
+      "umls_id": "C0556346",
+      "score": 0.9322608709335327,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Drinking an excessive amount of ALCOHOLIC BEVERAGES in a short period of time."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "sexually active",
+      "type": "T033",
+      "umls_id": "C0241028",
+      "score": 0.9596645832061768,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is or was sexually active."
+    },
+    {
+      "text": "men",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9959114789962769,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "women",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9381546378135681,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "explanation",
+      "type": "T170",
+      "umls_id": "C0681841",
+      "score": 0.9418625831604004,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of statements describing a group of facts that clarifies the cause, context and/or consequence of those facts."
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "23-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

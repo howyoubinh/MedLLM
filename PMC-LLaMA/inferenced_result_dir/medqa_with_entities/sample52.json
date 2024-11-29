@@ -1,0 +1,215 @@
+{
+  "original_data": {
+    "question": "A 65-year-old man comes to the physician because of a 1-week history of yellowish discoloration of his skin and generalized pruritus. Examination shows jaundice of the skin and scleral icterus. Urinalysis shows an elevated concentration of bilirubin and a low concentration of urobilinogen. Which of the following is the most likely underlying cause of these findings?",
+    "options": {
+      "A": "Absent UDP-glucuronosyltransferase activity",
+      "B": "Increased hemoglobin breakdown",
+      "C": "Increased intestinal bilirubin reabsorption",
+      "D": "Defective hepatic bile excretion"
+    }
+  },
+  "model_response": "The absence of UDP-glucuronosyltransferase activity would lead to the accumulation of unconjugated bilirubin in the blood and tissues, resulting in jaundice. Increased hemoglobin breakdown, as in hemolytic anemias, would lead to an increase in unconjugated bilirubin in the blood and tissues, resulting in jaundice. Increased intestinal bilirubin reabsorption would lead to an increase in conjugated bilirubin in the blood and tissues, resulting in jaundice. Defective hepatic bile excretion, as in biliary obstruction, would lead to an increase in conjugated bilirubin in the blood and tissues, resulting in jaundice.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-week history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "yellowish",
+      "type": "T109",
+      "umls_id": "C0014448",
+      "score": 0.8153505921363831,
+      "semantic_types": [
+        "T109",
+        "T120"
+      ],
+      "definition": "A versatile red dye used in cosmetics, pharmaceuticals, textiles, etc., and as tissue stain, vital stain, and counterstain with HEMATOXYLIN. It is also used in special culture media."
+    },
+    {
+      "text": "discoloration",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.979123592376709,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "generalized pruritus",
+      "type": "T184",
+      "umls_id": "C0475858",
+      "score": 0.9589359760284424,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "Urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9655847549438477,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "low",
+      "type": "T080",
+      "umls_id": "C0205251",
+      "score": 0.9944548606872559,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A minimum level or position or degree; less than normal in degree, intensity or amount."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "urobilinogen",
+      "type": "T109",
+      "umls_id": "C0042052",
+      "score": 0.9926277995109558,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A colorless compound formed in the intestines by the reduction of bilirubin. Some is excreted in the feces where it is oxidized to urobilin. Some is reabsorbed and re-excreted in the bile as bilirubin. At times, it is re-excreted in the urine, where it may be later oxidized to urobilin."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

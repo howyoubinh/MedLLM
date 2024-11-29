@@ -1,0 +1,410 @@
+{
+  "original_data": {
+    "question": "A 46-year-old man comes to the physician with a 1-week history of yellowish discoloration of his eyes, generalized fatigue, and pruritus. He was diagnosed with ulcerative colitis 7 years ago. At the time of diagnosis, a pANCA test was also positive. Physical examination shows scleral icterus and multiple scratch marks on the trunk and extremities. Abdominal examination is unremarkable. Serum studies show a total bilirubin concentration of 3.2 mg/dL, direct bilirubin concentration of 2.5 mg/dL, and alkaline phosphatase level of 450 U/L. Magnetic resonance cholangiopancreatography shows focal areas of intrahepatic bile duct strictures alternating with areas of dilation. Histologic examination of a liver biopsy specimen is most likely to show which of the following findings?",
+    "options": {
+      "A": "Periductal concentric scarring and fibrosis",
+      "B": "Periportal lymphocytic infiltration and piecemeal necrosis",
+      "C": "Irregular ductal glands lined by atypical and pleomorphic cells",
+      "D": "Ductopenia and fibrotic degeneration of periportal hepatocytes"
+    }
+  },
+  "model_response": "The clinical and histologic findings are consistent with primary sclerosing cholangitis (PSC). PSC is a chronic cholestatic disease that is characterized by diffuse inflammation and fibrosis involving the entire biliary tree, leading to chronic cholestasis. PSC is strongly associated with inflammatory bowel disease, particularly ulcerative colitis. The disease most commonly presents in the fourth through fifth decades of life. The diagnosis is made by demonstrating characteristic changes in the intrahepatic and extrahepatic bile ducts. Histologic changes include a chronic inflammatory infiltrate in the portal tracts, periportal piecemeal necrosis, and fibrotic obliteration of bile ducts. The lumen of the bile ducts may be completely obliterated, leaving just a solid cord scar with few inflammatory cells. The other choices are not characteristic of PSC.Diagnosis: Primary sclerosing cholangitis\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-week history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "yellowish",
+      "type": "T109",
+      "umls_id": "C0014448",
+      "score": 0.8153505921363831,
+      "semantic_types": [
+        "T109",
+        "T120"
+      ],
+      "definition": "A versatile red dye used in cosmetics, pharmaceuticals, textiles, etc., and as tissue stain, vital stain, and counterstain with HEMATOXYLIN. It is also used in special culture media."
+    },
+    {
+      "text": "discoloration",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.979123592376709,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "generalized fatigue",
+      "type": "T184",
+      "umls_id": "C0241898",
+      "score": 0.9676313996315002,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pruritus",
+      "type": "T184",
+      "umls_id": "C0033774",
+      "score": 0.9500237107276917,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An intense itching sensation that produces the urge to rub or scratch the skin to obtain relief."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "ulcerative colitis",
+      "type": "T047",
+      "umls_id": "C0009324",
+      "score": 0.9720373153686523,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammation of the COLON that is predominantly confined to the MUCOSA. Its major symptoms include DIARRHEA, rectal BLEEDING, the passage of MUCUS, and ABDOMINAL PAIN."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "pANCA test",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "scratch marks",
+      "type": "T037",
+      "umls_id": "C1384489",
+      "score": 0.970569372177124,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "trunk",
+      "type": "T023",
+      "umls_id": "C0225442",
+      "score": 0.9839140772819519,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "Serum studies",
+      "type": "T091",
+      "umls_id": "C0036745",
+      "score": 0.9744794964790344,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of serum, especially of antigen-antibody reactions in vitro."
+    },
+    {
+      "text": "bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9655847549438477,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9655847549438477,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "alkaline phosphatase",
+      "type": "T116",
+      "umls_id": "C0002059",
+      "score": 0.9689714908599854,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of an orthophosphoric monoester and water to an alcohol and orthophosphate. EC 3.1.3.1."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "Magnetic resonance cholangiopancreatography",
+      "type": "T060",
+      "umls_id": "C0994163",
+      "score": 0.9879293441772461,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive procedure in which magnetic resonance imaging is used to visualize the intrahepatic and extrahepatic bile ducts, the pancreatic duct, and the surrounding parenchyma."
+    },
+    {
+      "text": "focal areas",
+      "type": "T082",
+      "umls_id": "C0205146",
+      "score": 0.7040404081344604,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The extent of a 2-dimensional surface enclosed within a boundary."
+    },
+    {
+      "text": "intrahepatic bile duct",
+      "type": "T023",
+      "umls_id": "C0005401",
+      "score": 0.9663692712783813,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Passages within the liver for the conveyance of bile. Includes right and left hepatic ducts even though these may join outside the liver to form the common hepatic duct."
+    },
+    {
+      "text": "strictures",
+      "type": "T046",
+      "umls_id": "C1261287",
+      "score": 0.9863806366920471,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being constricted beyond normal dimensions."
+    },
+    {
+      "text": "alternating",
+      "type": "T169",
+      "umls_id": "C0332270",
+      "score": 0.9739123582839966,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dilation",
+      "type": "T046",
+      "umls_id": "C0012359",
+      "score": 0.9621376395225525,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being dilated beyond normal dimensions."
+    },
+    {
+      "text": "Histologic examination",
+      "type": "T091",
+      "umls_id": "C0677043",
+      "score": 0.8181730508804321,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The microscopic study of characteristic tissue abnormalities by employing various cytochemical and immunocytochemical stains."
+    },
+    {
+      "text": "liver biopsy",
+      "type": "T060",
+      "umls_id": "C0193388",
+      "score": 0.973344087600708,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the liver for microscopic examination."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "46-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

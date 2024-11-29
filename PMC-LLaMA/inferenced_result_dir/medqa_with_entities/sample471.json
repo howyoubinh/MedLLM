@@ -1,0 +1,372 @@
+{
+  "original_data": {
+    "question": "A 48-year-old female presents with an enlargement of her anterior neck which made swallowing very difficult for 2 weeks now. She has had constipation for the past 6 weeks and overall fatigue. She also had heavy menstrual bleeding; and often feels extremely cold at home. On the other hand, she has well-controlled asthma and spring allergies. On examination, the thyroid is stony hard, tender and asymmetrically enlarged. There is also pain associated with swallowing. Laboratory studies show a serum T4 level of 4.4 μg/dL and a TSH level of 6.3 mU/L. A radionuclide thyroid scanning indicates that the nodule has low radioactive iodine uptake. Which of the following is the most likely pathology to be found in this patient?",
+    "options": {
+      "A": "Anaplastic carcinoma",
+      "B": "Medullary carcinoma",
+      "C": "Reidel thyroiditis",
+      "D": "Silent thyroiditis"
+    }
+  },
+  "model_response": "This patient’s presentation is most consistent with Reidel thyroiditis. This is an uncommon inflammatory condition of the thyroid that is characterized by extensive fibrosis. The fibrosis can extend beyond the thyroid gland and involve the extrathyroidal soft tissues of the neck. The fibrosis can also entrap and destroy the thyroid parenchyma, leading to hypothyroidism. The thyroid enlargement is usually asymmetric and can extend laterally to involve the carotid arteries. The firm or hard consistency of the thyroid can make it difficult to swallow. The thyroid is also tender. The thyroid parenchyma is typically cold in silent thyroiditis, but this condition is usually associated with a normal TSH and free T4. Anaplastic carcinoma is a highly aggressive malignancy that usually presents with a painless, rapidly enlarging mass. Medullary carcinoma is a neuroendocrine tumor that presents with symptoms related to the secretion of calcitonin. Silent thyroiditis is characterized by thyroid pain and a slightly enlarged thyroid that is usually not tender.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "enlargement",
+      "type": "T046",
+      "umls_id": "C0020564",
+      "score": 0.9555201530456543,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "General increase in bulk of a part or organ due to CELL ENLARGEMENT and accumulation of FLUIDS AND SECRETIONS, not due to tumor formation, nor to an increase in the number of cells (HYPERPLASIA)."
+    },
+    {
+      "text": "anterior",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.984691858291626,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "swallowing",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.967613935470581,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "constipation",
+      "type": "T184",
+      "umls_id": "C0009806",
+      "score": 0.953432559967041,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Infrequent or difficult evacuation of FECES. These symptoms are associated with a variety of causes, including low DIETARY FIBER intake, emotional or nervous disturbances, systemic and structural disorders, drug-induced aggravation, and infections."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "overall",
+      "type": "T170",
+      "umls_id": "C0282416",
+      "score": 0.9813348054885864,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A single citation covering papers or abstracts presented at a meeting. The publication type may be used for a single citation with or without the additional indexing or cataloging of individual papers. The individual papers, however, are not labeled OVERALL."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "heavy menstrual bleeding",
+      "type": "T046",
+      "umls_id": "C0025323",
+      "score": 0.9477884769439697,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Excessive uterine bleeding during MENSTRUATION."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "extremely",
+      "type": "T080",
+      "umls_id": "C0205403",
+      "score": 0.991232693195343,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The highest degree of severity."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "well-controlled",
+      "type": "T169",
+      "umls_id": "C2587213",
+      "score": 0.7448491454124451,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "spring",
+      "type": "T079",
+      "umls_id": "C0241232",
+      "score": 0.9485805630683899,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The season between the vernal equinox and the summer solstice."
+    },
+    {
+      "text": "allergies",
+      "type": "T046",
+      "umls_id": "C0020517",
+      "score": 0.9737498760223389,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "thyroid",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9902244210243225,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "stony hard",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "asymmetrically enlarged",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "swallowing",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.967613935470581,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "TSH",
+      "type": "T116",
+      "umls_id": "C0040160",
+      "score": 0.9899538159370422,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A glycoprotein hormone secreted by the adenohypophysis (PITUITARY GLAND, ANTERIOR). Thyrotropin stimulates THYROID GLAND by increasing the iodide transport, synthesis and release of thyroid hormones (THYROXINE and TRIIODOTHYRONINE). Thyrotropin consists of two noncovalently linked subunits, alpha and beta. Within a species, the alpha subunit is common in the pituitary glycoprotein hormones (TSH; LUTEINIZING HORMONE and FSH), but the beta subunit is unique and confers its biological specificity."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "radionuclide thyroid",
+      "type": "T196",
+      "umls_id": "C0034595",
+      "score": 0.7819003462791443,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "Isotopes that exhibit radioactivity and undergo radioactive decay. (From Grant & Hackh's Chemical Dictionary, 5th ed & McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "nodule",
+      "type": "T020",
+      "umls_id": "C0028259",
+      "score": 0.984438419342041,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": "A small lump, swelling or collection of tissue."
+    },
+    {
+      "text": "radioactive",
+      "type": "T070",
+      "umls_id": "C0034553",
+      "score": 0.9776660203933716,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "The spontaneous transformation of a nuclide into one or more different nuclides, accompanied by either the emission of particles from the nucleus, nuclear capture or ejection of orbital electrons, or fission. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "iodine uptake",
+      "type": "T059",
+      "umls_id": "C0853274",
+      "score": 0.9719371199607849,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pathology",
+      "type": "T091",
+      "umls_id": "C0030664",
+      "score": 0.9942872524261475,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "A specialty concerned with the nature and cause of disease as expressed by changes in cellular or tissue structure and function caused by the disease process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "48-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

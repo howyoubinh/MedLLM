@@ -1,0 +1,212 @@
+{
+  "original_data": {
+    "question": "A one-week-old, full-term infant born by uncomplicated vaginal delivery is brought to a pediatrician by his mother, who notes that her daughter's skin appears yellow. She reports that the child cries several times per day and sleeps 7-8 hours at night, uninterrupted. She has been breastfeeding exclusively and feels that he has been feeding well. Which of the following is the best treatment for this condition?",
+    "options": {
+      "A": "Phenobarbital administration",
+      "B": "Plasma exchange",
+      "C": "Switch from breast milk to formula",
+      "D": "Continue normal breast feeding"
+    }
+  },
+  "model_response": "This is a case of physiologic jaundice. The child is presenting with unconjugated hyperbilirubinemia, which is a common condition in newborns. It occurs due to the breakdown of fetal hemoglobin and the initiation of red blood cell production. The liver is not yet capable of handling the increased load of bilirubin, and thus it accumulates in the tissues, causing the yellow color. The condition is usually mild and self-limiting, and resolves within the first 2 weeks of life. No treatment is necessary, and the mother should be reassured that her baby is normal. Breastfeeding should not be discontinued, as breast milk provides important immunologic protection for the infant. Phenobarbital administration, plasma exchange, and switching from breast milk to formula are unnecessary in this case.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "one-week-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "full-term",
+      "type": "T033",
+      "umls_id": "C3814420",
+      "score": 0.7106741070747375,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Birth at 39 weeks and 0 days through 40 weeks and 6 days."
+    },
+    {
+      "text": "infant",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9474613070487976,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "daughter's",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.783778727054596,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "cries",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "sleeps",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9984138607978821,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "uninterrupted",
+      "type": "T033",
+      "umls_id": "C5668303",
+      "score": 0.8280477523803711,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An indication that a uniform margin was obtained around the entire excised lesion."
+    },
+    {
+      "text": "breastfeeding",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9370194673538208,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "feeding",
+      "type": "T058",
+      "umls_id": "C0204695",
+      "score": 0.9637535214424133,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    }
+  ]
+}

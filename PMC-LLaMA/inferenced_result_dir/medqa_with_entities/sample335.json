@@ -1,0 +1,242 @@
+{
+  "original_data": {
+    "question": "A 23-year-old man presents with sudden loss of consciousness while pitching in a baseball game. There is no history of injury. Consciousness is regained after cardiopulmonary resuscitation. Past medical history is negative for any neurological and cardiovascular problems. Physical examination reveals a prominent A wave on the jugular venous pulse and a double apical impulse. There are no audible murmurs. An S4 is present. What is the most likely diagnosis?",
+    "options": {
+      "A": "Hypertrophic cardiomyopathy",
+      "B": "Aortic stenosis",
+      "C": "Takotsubo cardiomyopathy",
+      "D": "Restrictive cardiomyopathy"
+    }
+  },
+  "model_response": "The patient's history of sudden loss of consciousness while playing baseball, with the subsequent recovery after cardiopulmonary resuscitation, is suggestive of sudden cardiac death. The presence of a prominent A wave on the jugular venous pulse, a double apical impulse and an S4 indicates the presence of left ventricular hyperophy. Hypertrophic cardiomyopathy is the most common cause of sudden cardiac death in young athletes.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "sudden loss",
+      "type": "T033",
+      "umls_id": "C0011057",
+      "score": 0.8547257781028748,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Sensorineural hearing loss which develops suddenly over a period of hours or a few days. It varies in severity from mild to total deafness. Sudden deafness can be due to head trauma, vascular diseases, infections, or can appear without obvious cause or warning."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pitching",
+      "type": "T109",
+      "umls_id": "C0137137",
+      "score": 0.9665404558181763,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": null
+    },
+    {
+      "text": "baseball game",
+      "type": "T056",
+      "umls_id": "C0004795",
+      "score": 0.9784454107284546,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A competitive nine-member team sport including softball."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "injury",
+      "type": "T037",
+      "umls_id": "C3263722",
+      "score": 0.9709476828575134,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Disorder resulting from physical damage to the body"
+    },
+    {
+      "text": "Consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cardiopulmonary resuscitation",
+      "type": "T061",
+      "umls_id": "C0007203",
+      "score": 0.9738895297050476,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The artificial substitution of heart and lung action as indicated for HEART ARREST resulting from electric shock, DROWNING, respiratory arrest, or other causes. The two major components of cardiopulmonary resuscitation are artificial ventilation (RESPIRATION, ARTIFICIAL) and closed-chest CARDIAC MASSAGE."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "neurological",
+      "type": "T080",
+      "umls_id": "C0205494",
+      "score": 0.9800400137901306,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to nerves or the nervous system."
+    },
+    {
+      "text": "cardiovascular problems",
+      "type": "T184",
+      "umls_id": "C0850760",
+      "score": 0.9780721664428711,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "wave",
+      "type": "T070",
+      "umls_id": "C0678544",
+      "score": 0.9773618578910828,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": null
+    },
+    {
+      "text": "jugular",
+      "type": "T023",
+      "umls_id": "C0022427",
+      "score": 0.8375517129898071,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Veins in the neck which drain the brain, face, and neck into the brachiocephalic or subclavian veins."
+    },
+    {
+      "text": "venous pulse",
+      "type": "T042",
+      "umls_id": "C1278768",
+      "score": 0.9656411409378052,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "apical",
+      "type": "T082",
+      "umls_id": "C0205111",
+      "score": 0.9688657522201538,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Relating to or located at the tip (an apex)."
+    },
+    {
+      "text": "impulse",
+      "type": "T061",
+      "umls_id": "C0443235",
+      "score": 0.9797325730323792,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "audible murmurs",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.7420287132263184,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "S4",
+      "type": "T033",
+      "umls_id": "C0425593",
+      "score": 0.9999139904975891,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The fourth heart sound (S4) is a low-pitched sound that occurs just before the first heart sound (S1) when the atria contract to force blood into the left ventricle, that is, coincident with late diastolic filling of the ventricle due to atrial contraction. []"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "23-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

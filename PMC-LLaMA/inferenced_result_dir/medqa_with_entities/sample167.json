@@ -1,0 +1,333 @@
+{
+  "original_data": {
+    "question": "A 43-year-old woman is brought to the emergency department by her brother for severe chest pain. The patient recently lost her husband in a car accident and is still extremely shocked by the event. On physical examination, her blood pressure is 105/67 mm Hg, the heart rate is 96/min and regular, breathing rate is 23/min, and the pulse oximetry is 96%. An S3 heart sound and rales in the lower right and left lung lobes are heard. A 12-lead ECG shows no significant findings. Echocardiography shows an enlarged left ventricle and left atrium. The patient is stabilized and informed about the diagnosis and possible treatment options. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Atrial fibrillation",
+      "B": "Constrictive pericarditis",
+      "C": "Takotsubo cardiomyopathy",
+      "D": "Restrictive cardiomyopathy"
+    }
+  },
+  "model_response": "The patient's history of sudden emotional stress, enlarged left heart chambers, and rales suggest acute pulmonary edema. The absence of ST-T wave changes on the ECG and the presence of an S3 heart sound suggest acute left ventricular failure. The most common cause of acute left ventricular failure is acute myocardial infarction. However, in this case, the absence of ECG changes and the presence of rales suggest acute pulmonary edema due to acute mitral valve regurgitation. Acute mitral valve regurgitation is most commonly caused by papillary muscle rupture, which is usually caused by an acute myocardial infarction involving the posteromedial papillary muscle. The other choices are not associated with acute pulmonary edema.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "brother",
+      "type": "T099",
+      "umls_id": "C0337527",
+      "score": 0.9884945750236511,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male sibling."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "lost",
+      "type": "T169",
+      "umls_id": "C0745777",
+      "score": 0.9972493052482605,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Parted with; no longer held or possessed; incapable of being recovered or regained."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "car",
+      "type": "T073",
+      "umls_id": "C0004381",
+      "score": 0.9980294704437256,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A usually four-wheeled automotive vehicle designed for passenger transportation."
+    },
+    {
+      "text": "accident",
+      "type": "T067",
+      "umls_id": "C0000924",
+      "score": 0.9794917702674866,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Unexpected and unintentional events, typically resulting in ACCIDENTAL INJURIES."
+    },
+    {
+      "text": "event",
+      "type": "T051",
+      "umls_id": "C0441471",
+      "score": 0.9657253623008728,
+      "semantic_types": [
+        "T051"
+      ],
+      "definition": "Something that happens at a given place and time."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "breathing rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9877393245697021,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "S3 heart sound",
+      "type": "T033",
+      "umls_id": "C0232237",
+      "score": 0.9628316164016724,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The third heart sound (S3) is related to rapid filling in diastole. S3 can be a normal finding in children and adolescents but suggests heart failure in older patients. []"
+    },
+    {
+      "text": "rales",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9883856773376465,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "lower right",
+      "type": "T023",
+      "umls_id": "C1261075",
+      "score": 0.8230735063552856,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The lobe of the right lung situated below the oblique fissure."
+    },
+    {
+      "text": "left lung lobes",
+      "type": "T023",
+      "umls_id": "C1285107",
+      "score": 0.8284671306610107,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the two (upper or lower) lobes that comprise the left lung."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Echocardiography",
+      "type": "T060",
+      "umls_id": "C0013516",
+      "score": 0.993293821811676,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonic recording of the size, motion, and composition of the heart and surrounding tissues. The standard approach is transthoracic."
+    },
+    {
+      "text": "enlarged left ventricle",
+      "type": "T047",
+      "umls_id": "C0149721",
+      "score": 0.9649216532707214,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Enlargement of the LEFT VENTRICLE of the heart. This increase in ventricular mass is attributed to sustained abnormal pressure or volume loads and is a contributor to cardiovascular morbidity and mortality."
+    },
+    {
+      "text": "left atrium",
+      "type": "T023",
+      "umls_id": "C0225860",
+      "score": 0.9907193779945374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of four chambers of the heart, which receives blood from the pulmonary veins and pumps blood through the mitral valve into the left ventricle."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "stabilized",
+      "type": "T033",
+      "umls_id": "C0184512",
+      "score": 0.9797994494438171,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition did not change and required not further care to maintain condition"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "treatment options",
+      "type": "T033",
+      "umls_id": "C0683525",
+      "score": 0.9734469056129456,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "43-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

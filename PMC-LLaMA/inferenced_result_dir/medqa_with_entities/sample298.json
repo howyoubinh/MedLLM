@@ -1,0 +1,405 @@
+{
+  "original_data": {
+    "question": "An 18-month-old girl is brought to the pediatrician by her mother for vaginal bleeding. The mother states that she noticed the bleeding today, which appeared as brown discharge with clots in the patient’s diaper. The mother denies frequent nosebleeds or easy bruising. She also denies any known trauma. She does mention that the patient has been limping and complaining of left leg pain since a fall 2 months ago. On physical exam, there are multiple 2-3 cm hyperpigmented patches on the patient’s trunk. There is bilateral enlargement of the breasts but no pubic hair. The vaginal orifice is normal and clear with an intact hymen. A plain radiograph of the left lower leg shows patchy areas of lytic bone and sclerosis within the femoral metaphysis. Which of the following is associated with the patient’s most likely diagnosis?",
+    "options": {
+      "A": "Bitemporal hemianopsia",
+      "B": "Hypertension",
+      "C": "Pheochromocytoma",
+      "D": "Polyostotic fibrous dysplasia"
+    }
+  },
+  "model_response": "The patient’s presentation is consistent with McCune-Albright syndrome. The classic triad includes precocious puberty, cafe-au-lait spots, and polyostotic fibrous dysplasia. The fibrous dysplasia can affect many bones, including the femur, which can lead to leg length discrepancy and pain. The bone lesions can also be associated with pathologic fractures. McCune-Albright syndrome is caused by mutations in the GNAS gene. Bitemporal hemianopsia and hypertension are associated with Cushing syndrome. Pheochromocytoma and polyostotic fibrous dysplasia are associated with von Recklinghausen disease (neurofibromatosis type 1).\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "vaginal bleeding",
+      "type": "T046",
+      "umls_id": "C2979982",
+      "score": 0.966633677482605,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Vaginal bleeding unrelated to normal menstruation."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9680540561676025,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "today",
+      "type": "T109",
+      "umls_id": "C0310367",
+      "score": 0.9852661490440369,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": null
+    },
+    {
+      "text": "brown discharge",
+      "type": "T031",
+      "umls_id": "C0012621",
+      "score": 0.793994665145874,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The pouring forth of a fluid."
+    },
+    {
+      "text": "clots",
+      "type": "T046",
+      "umls_id": "C0302148",
+      "score": 0.9772307872772217,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "An aggregation of blood factors, primarily platelets and fibrin with entrapment of cellular elements, frequently causing vascular obstruction at the point of its formation."
+    },
+    {
+      "text": "patient’s diaper",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mother denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "nosebleeds",
+      "type": "T046",
+      "umls_id": "C0014591",
+      "score": 0.9647216200828552,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding from the nose."
+    },
+    {
+      "text": "bruising",
+      "type": "T037",
+      "umls_id": "C0009938",
+      "score": 0.9562113285064697,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Injuries resulting in hemorrhage, usually manifested in the skin."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "trauma",
+      "type": "T037",
+      "umls_id": "C0043251",
+      "score": 0.9664932489395142,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Damage inflicted on the body as the direct or indirect result of an external force, with or without disruption of structural continuity."
+    },
+    {
+      "text": "mention",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "left leg pain",
+      "type": "T184",
+      "umls_id": "C0564822",
+      "score": 0.9723818302154541,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hyperpigmented patches",
+      "type": "T033",
+      "umls_id": "C3552759",
+      "score": 0.9676926136016846,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient’s trunk",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "enlargement",
+      "type": "T046",
+      "umls_id": "C0020564",
+      "score": 0.9555201530456543,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "General increase in bulk of a part or organ due to CELL ENLARGEMENT and accumulation of FLUIDS AND SECRETIONS, not due to tumor formation, nor to an increase in the number of cells (HYPERPLASIA)."
+    },
+    {
+      "text": "breasts",
+      "type": "T023",
+      "umls_id": "C0006141",
+      "score": 0.9821754693984985,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "In humans, one of the paired regions in the anterior portion of the THORAX. The breasts consist of the MAMMARY GLANDS, the SKIN, the MUSCLES, the ADIPOSE TISSUE, and the CONNECTIVE TISSUES."
+    },
+    {
+      "text": "pubic",
+      "type": "T023",
+      "umls_id": "C0034014",
+      "score": 0.971836268901825,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A bone that forms the lower and anterior part of each side of the hip bone."
+    },
+    {
+      "text": "hair",
+      "type": "T023",
+      "umls_id": "C0018494",
+      "score": 0.9951649904251099,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A filament-like structure consisting of a shaft which projects to the surface of the SKIN from a root which is softer than the shaft and lodges in the cavity of a HAIR FOLLICLE. It is found on most surfaces of the body."
+    },
+    {
+      "text": "vaginal orifice",
+      "type": "T030",
+      "umls_id": "C0458952",
+      "score": 0.9749723076820374,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "hymen",
+      "type": "T023",
+      "umls_id": "C0020412",
+      "score": 0.9845946431159973,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A thin fold of MUCOUS MEMBRANE situated at the orifice of the vagina."
+    },
+    {
+      "text": "plain radiograph",
+      "type": "T060",
+      "umls_id": "C1306645",
+      "score": 0.886698305606842,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An image produced on a radiosensitive surface by x-ray radiation that has penetrated and passed through a structure."
+    },
+    {
+      "text": "left lower",
+      "type": "T023",
+      "umls_id": "C0230443",
+      "score": 0.8257896304130554,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the left side of the body."
+    },
+    {
+      "text": "leg",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.971088171005249,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "lytic bone",
+      "type": "T046",
+      "umls_id": "C0024348",
+      "score": 0.7228525280952454,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Tissue structure disintegration and destruction due to action of endogenous or/and exogenous lytic substances which include but not limited to naturally occurring or laboratory designed proteolytic enzymes, glycosidases, detergents, pore-forming proteins, immune complexes, etc. Tissue lysis plays role in pathogenesis of a number of conditions e.g. protozoal infections, ischemic tissue injury, and autoimmune disorders. It is also used as a basis for non-surgical treatment modality to remove or minimize presence of abnormal tissue, e.g. adhesions."
+    },
+    {
+      "text": "sclerosis",
+      "type": "T046",
+      "umls_id": "C0036429",
+      "score": 0.99137282371521,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A pathological process consisting of hardening or fibrosis of an anatomical structure, often a vessel or a nerve."
+    },
+    {
+      "text": "femoral metaphysis",
+      "type": "T023",
+      "umls_id": "C0824856",
+      "score": 0.9793564081192017,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    }
+  ]
+}

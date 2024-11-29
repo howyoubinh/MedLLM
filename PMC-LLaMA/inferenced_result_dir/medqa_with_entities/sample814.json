@@ -1,0 +1,176 @@
+{
+  "original_data": {
+    "question": "An 11-month-old boy is brought to the physician for a well-child examination. He is growing along with the 75th percentile and meeting all milestones. Physical examination shows a poorly rugated scrotum. The palpation of the scrotum shows only 1 testicle. A 2nd testicle is palpated in the inguinal canal. The examination of the penis shows a normal urethral meatus. The remainder of the physical examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Chorionic gonadotropin therapy",
+      "B": "Exploratory laparoscopy",
+      "C": "Orchiectomy",
+      "D": "Orchiopexy"
+    }
+  },
+  "model_response": "This is a case of an undescended testis. The first step in the management of this condition is to determine the location of the testis. An examination by a pediatric surgeon is indicated. If the testis is palpated in the inguinal canal, then orchidopexy is indicated. If the testis is not palpable, then chorionic gonadotropin therapy is indicated. If the testis is not located in the inguinal canal or the testis is atrophic, then orchiectomy is indicated.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "well-child examination",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "percentile",
+      "type": "T081",
+      "umls_id": "C1264641",
+      "score": 0.97263103723526,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."
+    },
+    {
+      "text": "milestones",
+      "type": "T077",
+      "umls_id": "C2347129",
+      "score": 0.866582453250885,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "An important event in the progress, development, or history of something or in someone's life."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "rugated",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "scrotum",
+      "type": "T023",
+      "umls_id": "C0036471",
+      "score": 0.9797568917274475,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A cutaneous pouch of skin containing the testicles and spermatic cords."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "scrotum",
+      "type": "T023",
+      "umls_id": "C0036471",
+      "score": 0.9797568917274475,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A cutaneous pouch of skin containing the testicles and spermatic cords."
+    },
+    {
+      "text": "testicle",
+      "type": "T023",
+      "umls_id": "C0039597",
+      "score": 0.9894344806671143,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The male gonad containing two functional parts: the SEMINIFEROUS TUBULES for the production and transport of male germ cells (SPERMATOGENESIS) and the interstitial compartment containing LEYDIG CELLS that produce ANDROGENS."
+    },
+    {
+      "text": "2nd testicle",
+      "type": "T023",
+      "umls_id": "C0039597",
+      "score": 0.8437926173210144,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The male gonad containing two functional parts: the SEMINIFEROUS TUBULES for the production and transport of male germ cells (SPERMATOGENESIS) and the interstitial compartment containing LEYDIG CELLS that produce ANDROGENS."
+    },
+    {
+      "text": "inguinal canal",
+      "type": "T029",
+      "umls_id": "C0021445",
+      "score": 0.9585648775100708,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The tunnel in the lower anterior ABDOMINAL WALL through which the SPERMATIC CORD, in the male; ROUND LIGAMENT, in the female; nerves; and vessels pass. Its internal end is at the deep inguinal ring and its external end is at the superficial inguinal ring."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "penis",
+      "type": "T023",
+      "umls_id": "C0030851",
+      "score": 0.9940736293792725,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external reproductive organ of males. It is composed of a mass of erectile tissue enclosed in three cylindrical fibrous compartments. Two of the three compartments, the corpus cavernosa, are placed side-by-side along the upper part of the organ. The third compartment below, the corpus spongiosum, houses the urethra."
+    },
+    {
+      "text": "urethral meatus",
+      "type": "T030",
+      "umls_id": "C0227744",
+      "score": 0.9738699197769165,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    }
+  ]
+}

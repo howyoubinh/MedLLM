@@ -1,0 +1,369 @@
+{
+  "original_data": {
+    "question": "A 51-year-old woman presents to her primary care physician complaining of months of dry mouth and dry eyes. She says the dryness has become so severe that she has difficulty swallowing food. She has a history of hypertension, for which she takes hydrochlorothiazide (HCTZ), but she has no other medical problems. Family history is significant for her grandmother having systemic lupus erythematosus. The vital signs include: blood pressure 118/76 mm Hg, heart rate 78/min, and respiratory rate 15/min. On physical exam, she has tender parotid glands bilaterally and dries mucous membranes. The presence of serum anti-Ro and anti-La autoantibodies is confirmed at high titers. In addition to her primary diagnosis, which of the following is this patient most at risk for developing in the future?",
+    "options": {
+      "A": "Gastric carcinoma",
+      "B": "Non-Hodgkin lymphoma",
+      "C": "Invasive ductal carcinoma of the breast",
+      "D": "Adenocarcinoma of the lung"
+    }
+  },
+  "model_response": "This patient has Sjogren syndrome, which is characterized by dry eyes and dry mouth secondary to immunologically mediated destruction of the lacrimal and salivary glands. Anti-Ro and anti-La autoantibodies are present in as many as 95% of patients with primary Sjogren syndrome. These patients are at increased risk for developing lymphomas, including low-grade marginal zone lymphomas (MALT lymphomas). The gastric mucosa-associated lymphoid tissue (MALT) is the most common site of involvement, followed by the salivary glands, conjunctiva, and lungs. The development of gastric carcinoma is more typical of patients with atrophic gastritis and pernicious anemia. Invasive ductal carcinoma of the breast is not associated with Sjogren syndrome. Adenocarcinoma of the lung is not associated with Sjogren syndrome.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "mouth",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9870113730430603,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "dry eyes",
+      "type": "T047",
+      "umls_id": "C0013238",
+      "score": 0.9696711897850037,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Corneal and conjunctival dryness due to deficient tear production, predominantly in menopausal and post-menopausal women. Filamentary keratitis or erosion of the conjunctival and corneal epithelium may be caused by these disorders. Sensation of the presence of a foreign body in the eye and burning of the eyes may occur."
+    },
+    {
+      "text": "dryness",
+      "type": "T080",
+      "umls_id": "C1512080",
+      "score": 0.9833777546882629,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The lack of natural or normal moisture."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "difficulty swallowing food",
+      "type": "T033",
+      "umls_id": "C0566362",
+      "score": 0.9761199951171875,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9823688864707947,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "HCTZ",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9921373724937439,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "medical problems",
+      "type": "T033",
+      "umls_id": "C1254481",
+      "score": 0.8567705750465393,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An issue is based on the patient."
+    },
+    {
+      "text": "Family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "systemic lupus erythematosus",
+      "type": "T047",
+      "umls_id": "C0024141",
+      "score": 0.9638178944587708,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "parotid glands",
+      "type": "T023",
+      "umls_id": "C0030580",
+      "score": 0.9804365038871765,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The largest of the three pairs of SALIVARY GLANDS. They lie on the sides of the FACE immediately below and in front of the EAR."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "dries",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "anti-La autoantibodies",
+      "type": "T116",
+      "umls_id": "C0443933",
+      "score": 0.8166846036911011,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "An antinuclear antibody directed against a 47 kDa RNA-binding protein in the nucleus. They can be associated with Sjogren syndrome and system lupus erythematosus. Maternal anti-La antibody positivity can be associated with neonatal lupus."
+    },
+    {
+      "text": "high",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9880231022834778,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "titers",
+      "type": "T081",
+      "umls_id": "C0475208",
+      "score": 0.7500576376914978,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Concentration of a substance in a solution as determined by the quantitative reaction with added measured volume(s) of a solution of the precisely known concentration(s) of a standard reagent."
+    },
+    {
+      "text": "primary diagnosis",
+      "type": "T080",
+      "umls_id": "C0332137",
+      "score": 0.9830060005187988,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "future",
+      "type": "T079",
+      "umls_id": "C0016884",
+      "score": 0.9395012855529785,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time that is yet to come."
+    },
+    {
+      "text": "51-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

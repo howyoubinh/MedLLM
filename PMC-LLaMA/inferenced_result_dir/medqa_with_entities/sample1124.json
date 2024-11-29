@@ -1,0 +1,401 @@
+{
+  "original_data": {
+    "question": "A 22-year-old woman comes to the physician because of yellow vaginal discharge, pruritus, and pain with urination for the past 6 days. Three weeks ago, she had an episode of acute bacterial rhinosinusitis that was treated with a 10-day course of amoxicillin. She has been sexually active with multiple male partners over the past year and uses condoms inconsistently; she has been taking an oral contraceptive for the past 2 years. She has no previous history of serious illness or sexually transmitted diseases. Her temperature is 37°C (98.6°F), pulse is 75/min, respirations are 12/min, and blood pressure is 122/82 mm Hg. Pelvic examination shows erythema of the vulva and vagina and foul-smelling, frothy, yellow-green vaginal discharge. The pH of the discharge is 5.8. Bimanual examination is unremarkable. Further evaluation of this patient's vaginal discharge is most likely to show which of the following findings?",
+    "options": {
+      "A": "Gram-negative diplococci",
+      "B": "Positive whiff test",
+      "C": "Pseudohyphae",
+      "D": "Flagellated protozoa"
+    }
+  },
+  "model_response": "{'A': 'Gram-negative diplococci' is the most likely finding in this patient with symptoms of acute bacterial cervicitis. The positive whiff test is a finding in bacterial vaginosis, which is characterized by a foul-smelling, thin, gray vaginal discharge. Pseudohyphae are seen in vaginal candidiasis, which is characterized by a curdy, white, cottage-cheese like vaginal discharge. Both trichomoniasis and bacterial vaginosis are associated with a history of multiple sexual partners and inconsistent use of condoms. Trichomoniasis is associated with the finding of motile, pear-shaped, flagellated protozoa on a wet mount of the vaginal discharge. Acute bacterial cervicitis is most commonly caused by Neisseria gonorrhoeae or Chlamydia trachomatis. The vaginal discharge in gonorrhea often has a greenish color and the whiff test is positive. In chlamydial infection, the vaginal discharge is often clear or slightly white and the whiff test is negative. Vaginal candidiasis is caused by Candida albicans and produces a white, curdy discharge. Patients with acute bacterial cervicitis are at high risk for ascending infection and should be treated with antibiotics. Patients with symptoms of vaginal candidiasis can be treated with topical or oral antifungal agents. Patients with trichomoniasis should be treated with metronidazole. Patients with bacterial vaginosis should be treated with metronidazole or clindamycin.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "yellow vaginal discharge",
+      "type": "T033",
+      "umls_id": "C0241632",
+      "score": 0.9793267846107483,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pruritus",
+      "type": "T184",
+      "umls_id": "C0033774",
+      "score": 0.9500237107276917,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An intense itching sensation that produces the urge to rub or scratch the skin to obtain relief."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9745711088180542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "acute",
+      "type": "T079",
+      "umls_id": "C0205178",
+      "score": 0.9880385994911194,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Having a severe and rapid onset of symptoms with short duration."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "amoxicillin",
+      "type": "T109",
+      "umls_id": "C0002645",
+      "score": 0.9741423726081848,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A broad-spectrum semisynthetic antibiotic similar to AMPICILLIN except that its resistance to gastric acid permits higher serum levels with oral administration."
+    },
+    {
+      "text": "sexually active",
+      "type": "T033",
+      "umls_id": "C0241028",
+      "score": 0.9596645832061768,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is or was sexually active."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "condoms",
+      "type": "T074",
+      "umls_id": "C0009653",
+      "score": 0.9629577398300171,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A sheath that is worn over the penis during sexual behavior in order to prevent pregnancy or spread of sexually transmitted disease."
+    },
+    {
+      "text": "oral",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9887835383415222,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "contraceptive",
+      "type": "T121",
+      "umls_id": "C0009871",
+      "score": 0.9942039847373962,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Chemical substances that prevent or reduce the probability of CONCEPTION."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "sexually transmitted diseases",
+      "type": "T047",
+      "umls_id": "C0036916",
+      "score": 0.968315601348877,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Diseases due to or propagated by sexual contact."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "erythema",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9885126948356628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "vulva",
+      "type": "T023",
+      "umls_id": "C0042993",
+      "score": 0.9987573623657227,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external genitalia of the female. It includes the CLITORIS, the labia, the vestibule, and its glands."
+    },
+    {
+      "text": "vagina",
+      "type": "T023",
+      "umls_id": "C0042232",
+      "score": 0.9829220771789551,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The genital canal in the female, extending from the UTERUS to the VULVA. (Stedman, 25th ed)"
+    },
+    {
+      "text": "foul-smelling",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "frothy",
+      "type": "T033",
+      "umls_id": "C4069284",
+      "score": 0.9892798662185669,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "yellow-green vaginal discharge",
+      "type": "T033",
+      "umls_id": "C0227791",
+      "score": 0.7402247786521912,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A common gynecologic disorder characterized by an abnormal, nonbloody discharge from the genital tract."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "discharge",
+      "type": "T031",
+      "umls_id": "C0012621",
+      "score": 0.990285336971283,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The pouring forth of a fluid."
+    },
+    {
+      "text": "Bimanual examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.7314515113830566,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "vaginal discharge",
+      "type": "T033",
+      "umls_id": "C0227791",
+      "score": 0.9792253375053406,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A common gynecologic disorder characterized by an abnormal, nonbloody discharge from the genital tract."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "22-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

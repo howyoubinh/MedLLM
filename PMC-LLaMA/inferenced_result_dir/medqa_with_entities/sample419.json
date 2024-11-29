@@ -1,0 +1,341 @@
+{
+  "original_data": {
+    "question": "A 78-year-old man is brought to the emergency department because of a 1-day history of painful enlarging bruises and skin ulceration over his thighs and external genitalia. He has type 2 diabetes mellitus, mitral regurgitation, and atrial fibrillation. Three days ago, he was started on treatment with warfarin. His only other medications are metformin and lisinopril. His temperature is 37.8°C (100.0°F), pulse is 108/min and irregularly irregular, and blood pressure is 155/89 mm Hg. Examination of the skin shows large purpura, hemorrhagic bullae, and areas of skin necrosis over his anterior legs, gluteal region, and penis. This patient is most likely to benefit from treatment with which of the following?",
+    "options": {
+      "A": "Hyperbaric oxygen",
+      "B": "Protein C concentrate",
+      "C": "Argatroban",
+      "D": "Tranexamic acid"
+    }
+  },
+  "model_response": "The patient is experiencing a warfarin-induced \"purple toe\" syndrome, which can occur 3 to 10 days after initiation of therapy. It is due to cholesterol embolization from disruption of the endothelium. Treatment is suppoive, and in most cases, the disorder clears within several weeks as the warfarin is metabolized. In severe cases, exchange transfusion or plasmapheresis may be indicated. Warfarin should be withheld and replaced with heparin. Unfractionated heparin is preferred because it can be discontinued quickly if bleeding complications develop. Warfarin should not be restarted for at least 1 week. Hyperbaric oxygen may be beneficial in severe cases. Protein C concentrate is used in the treatment of thrombosis. Argatroban is a direct thrombin inhibitor used in the treatment of thrombosis. Tranexamic acid is an antifibrinolytic agent used to control bleeding.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "1-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "painful enlarging",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "skin ulceration",
+      "type": "T047",
+      "umls_id": "C0037299",
+      "score": 0.9509980082511902,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An ULCER of the skin and underlying tissues."
+    },
+    {
+      "text": "thighs",
+      "type": "T029",
+      "umls_id": "C0039866",
+      "score": 0.9411934018135071,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the lower extremity between the HIP and the KNEE."
+    },
+    {
+      "text": "external genitalia",
+      "type": "T023",
+      "umls_id": "C0042993",
+      "score": 0.986659586429596,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external genitalia of the female. It includes the CLITORIS, the labia, the vestibule, and its glands."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "mitral regurgitation",
+      "type": "T047",
+      "umls_id": "C0026266",
+      "score": 0.9553792476654053,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Backflow of blood from the LEFT VENTRICLE into the LEFT ATRIUM due to imperfect closure of the MITRAL VALVE. This can lead to mitral valve regurgitation."
+    },
+    {
+      "text": "atrial fibrillation",
+      "type": "T047",
+      "umls_id": "C0004238",
+      "score": 0.968174934387207,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "warfarin",
+      "type": "T109",
+      "umls_id": "C0043031",
+      "score": 0.9623537063598633,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "An anticoagulant that acts by inhibiting the synthesis of vitamin K-dependent coagulation factors. Warfarin is indicated for the prophylaxis and/or treatment of venous thrombosis and its extension, pulmonary embolism, and atrial fibrillation with embolization. It is also used as an adjunct in the prophylaxis of systemic embolism after myocardial infarction. Warfarin is also used as a rodenticide."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "irregularly",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.8068513870239258,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "purpura",
+      "type": "T047",
+      "umls_id": "C0034150",
+      "score": 0.985437273979187,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Purplish or brownish red discoloration, easily visible through the epidermis, caused by hemorrhage into the tissues. When the size of the discolorization is >2-3 cm it is generally called Ecchymoses (ECCHYMOSIS)."
+    },
+    {
+      "text": "hemorrhagic bullae",
+      "type": "T080",
+      "umls_id": "C0333275",
+      "score": 0.7924360632896423,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A morphologic finding indicating a change in a tissue due to vascular injury or leakage."
+    },
+    {
+      "text": "skin necrosis",
+      "type": "T046",
+      "umls_id": "C0151799",
+      "score": 0.9803048372268677,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Death of one or more layers of skin."
+    },
+    {
+      "text": "anterior legs",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.8039975762367249,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "gluteal region",
+      "type": "T029",
+      "umls_id": "C0282082",
+      "score": 0.9695916771888733,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "penis",
+      "type": "T023",
+      "umls_id": "C0030851",
+      "score": 0.9940736293792725,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external reproductive organ of males. It is composed of a mass of erectile tissue enclosed in three cylindrical fibrous compartments. Two of the three compartments, the corpus cavernosa, are placed side-by-side along the upper part of the organ. The third compartment below, the corpus spongiosum, houses the urethra."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "benefit",
+      "type": "T081",
+      "umls_id": "C0814225",
+      "score": 0.9704387187957764,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The positive effects of something."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "78-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

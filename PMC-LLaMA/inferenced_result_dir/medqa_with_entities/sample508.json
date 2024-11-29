@@ -1,0 +1,325 @@
+{
+  "original_data": {
+    "question": "A 21-year-old old college student is brought to the emergency department by his roommates because he has been \"acting strangely.\" Over the last 7 months, he has claimed to hear voices telling him that he must prepare for the end of the world. He used to be a straight A student but started failing exams recently due to his erratic behavior. Furthermore, there are periods of time where he does not sleep for several days and redecorates the entire apartment. During those times he spends huge amounts of money on online shopping. These periods usually last for about 2 weeks and happen every other month. On physical exam, he appears unkept and irritated. He seems to respond to invisible stimuli, and he jumps from topic to topic without clear focus. Which of the following is most consistent with this patient's presentation?",
+    "options": {
+      "A": "Brief psychotic disorder",
+      "B": "Schizoaffective disorder",
+      "C": "Schizophreniform disorder",
+      "D": "Schizotypal personality disorder"
+    }
+  },
+  "model_response": "###Rationale: The patient's erratic behavior, periods of elated mood, disorganized speech and failure of social and occupational functioning are all consistent with a diagnosis of schizophreniform disorder. This disorder is characterized by all of the symptoms of schizophrenia but lasting between 1 and 6 months. The other diagnoses listed do not fit as well with the patient's symptoms. Brief psychotic disorder is characterized by the sudden onset of psychosis, but it does not have the chronic course of schizophreniform disorder. Schizoaffective disorder is characterized by a combination of psychotic symptoms and mood disorder symptoms, but the patient does not exhibit any mood symptoms. Schizotypal personality disorder is characterized by eccentric behavior and odd beliefs, but it does not cause the severe functional impairment seen in this patient.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "roommates",
+      "type": "T098",
+      "umls_id": "C0682338",
+      "score": 0.8340931534767151,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "<p>One who shares living quarters with the subject.</p>"
+    },
+    {
+      "text": "acting strangely",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "hear",
+      "type": "T039",
+      "umls_id": "C0018767",
+      "score": 0.9966755509376526,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The ability or act of sensing and transducing ACOUSTIC STIMULATION to the CENTRAL NERVOUS SYSTEM. It is also called audition."
+    },
+    {
+      "text": "voices",
+      "type": "T040",
+      "umls_id": "C0042939",
+      "score": 0.9642200469970703,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sounds produced by humans by the passage of air through the LARYNX and over the VOCAL CORDS, and then modified by the resonance organs, the NASOPHARYNX, and the MOUTH."
+    },
+    {
+      "text": "prepare",
+      "type": "T052",
+      "umls_id": "C1521827",
+      "score": 0.9900115132331848,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act or process of making something ready."
+    },
+    {
+      "text": "world",
+      "type": "T098",
+      "umls_id": "C2700280",
+      "score": 0.9805686473846436,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "People in general considered as a whole."
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "erratic behavior",
+      "type": "T053",
+      "umls_id": "C0004927",
+      "score": 0.7163028717041016,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "The observable response of a man or animal to a situation."
+    },
+    {
+      "text": "periods",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9520259499549866,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "redecorates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "apartment",
+      "type": "T073",
+      "umls_id": "C0457933",
+      "score": 0.9560219645500183,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A room or suite of rooms designed as a residence and generally located in a building occupied by more than one household used as an element of an address."
+    },
+    {
+      "text": "spends",
+      "type": "T081",
+      "umls_id": "C0680968",
+      "score": 0.9561561942100525,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "money",
+      "type": "T073",
+      "umls_id": "C0870909",
+      "score": 0.9727538228034973,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "The official currency issued by a government or national bank."
+    },
+    {
+      "text": "online shopping",
+      "type": "T056",
+      "umls_id": "C0150768",
+      "score": 0.7334620356559753,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "The act of searching for or buying goods or services."
+    },
+    {
+      "text": "periods",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9520259499549866,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "happen",
+      "type": "T052",
+      "umls_id": "C1709305",
+      "score": 0.9858132004737854,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Come to pass."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "unkept",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "irritated",
+      "type": "T033",
+      "umls_id": "C5419847",
+      "score": 0.7723471522331238,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual's skin is irritated."
+    },
+    {
+      "text": "invisible",
+      "type": "T080",
+      "umls_id": "C0205398",
+      "score": 0.9622085094451904,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stimuli",
+      "type": "T067",
+      "umls_id": "C0234402",
+      "score": 0.9854758381843567,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "An environmental event, agent, act, or influence that can be detected by a receptor in the body and will invariably produce a reaction in a living organism, e.g. change in the behavior, functional or trophic reaction."
+    },
+    {
+      "text": "jumps",
+      "type": "T033",
+      "umls_id": "C0560453",
+      "score": 0.9879688024520874,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "21-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

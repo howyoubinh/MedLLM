@@ -1,0 +1,555 @@
+{
+  "original_data": {
+    "question": "A 6-year-old boy is brought to the emergency department by his mother for worsening wheezing and shortness of breath over the past day. He has not had a fever, cough, vomiting, or diarrhea. He has asthma and eczema. He uses a glucocorticoid inhaler and an albuterol inhaler but has missed his medications for the past week while on vacation. He appears uncomfortable. His temperature is 36°C (96.8°F), pulse is 120/min, respirations are 40/min, and blood pressure is 100/80. Expiratory and inspiratory wheezing is heard throughout both lung fields. There are moderate intercostal and subcostal retractions and a decreased inspiratory to expiratory ratio. Nebulized albuterol and ipratropium treatments and intravenous methylprednisolone are given in the emergency department for a presumed asthma exacerbation. One hour later, the child is limp and lethargic. Magnesium sulfate is administered. His temperature is 36°C (96.8°F), pulse is 150/min, respirations are 22/min, and blood pressure is 100/70. No wheezing is heard on repeat pulmonary examination. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Intubate with mechanical ventilation",
+      "B": "Perform needle thoracostomy at the 2nd intercostal space",
+      "C": "Perform bronchoscopy",
+      "D": "Provide additional dose of methylprednisolone"
+    }
+  },
+  "model_response": "The child has developed respiratory failure and is now a candidate for mechanical ventilation. In addition, methylprednisolone is unlikely to be effective at this point. Needle thoracostomy is not indicated because there are no signs of tension pneumothorax. Bronchoscopy is not indicated at this point unless there is concern about foreign body aspiration.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wheezing",
+      "type": "T184",
+      "umls_id": "C0043144",
+      "score": 0.9590449929237366,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "cough",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9633718132972717,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "eczema",
+      "type": "T047",
+      "umls_id": "C0013595",
+      "score": 0.9661315083503723,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A pruritic papulovesicular dermatitis occurring as a reaction to many endogenous and exogenous agents (Dorland, 27th ed)."
+    },
+    {
+      "text": "glucocorticoid",
+      "type": "T109",
+      "umls_id": "C0017710",
+      "score": 0.9902300834655762,
+      "semantic_types": [
+        "T109",
+        "T125"
+      ],
+      "definition": "A group of CORTICOSTEROIDS that affect carbohydrate metabolism (GLUCONEOGENESIS, liver glycogen deposition, elevation of BLOOD SUGAR), inhibit ADRENOCORTICOTROPIC HORMONE secretion, and possess pronounced anti-inflammatory activity. They also play a role in fat and protein metabolism, maintenance of arterial blood pressure, alteration of the connective tissue response to injury, reduction in the number of circulating lymphocytes, and functioning of the central nervous system."
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "inhaler",
+      "type": "T074",
+      "umls_id": "C0021461",
+      "score": 0.9644812345504761,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A device by means of which a medicinal product can be administered by inspiration through the nose or the mouth."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "vacation",
+      "type": "T056",
+      "umls_id": "C0680199",
+      "score": 0.9553497433662415,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Leisure time away from work devoted to rest or pleasure."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Expiratory",
+      "type": "T040",
+      "umls_id": "C0231800",
+      "score": 0.9702067971229553,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Expelling modified air from the lungs; breathing out."
+    },
+    {
+      "text": "inspiratory",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9872371554374695,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "wheezing",
+      "type": "T184",
+      "umls_id": "C0043144",
+      "score": 0.9590449929237366,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+    },
+    {
+      "text": "lung fields",
+      "type": "T029",
+      "umls_id": "C0225759",
+      "score": 0.9756964445114136,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intercostal",
+      "type": "T082",
+      "umls_id": "C5686136",
+      "score": 0.9726449251174927,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "subcostal retractions",
+      "type": "T033",
+      "umls_id": "C0425470",
+      "score": 0.7445317506790161,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The marked inward movement of the muscles between the ribs during inhalation, indicating that there is reduced pressure in the thoracic cavity, and which can be a sign of breathing difficulties."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "inspiratory",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9872371554374695,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "expiratory ratio",
+      "type": "T040",
+      "umls_id": "C0231800",
+      "score": 0.8017345666885376,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Expelling modified air from the lungs; breathing out."
+    },
+    {
+      "text": "Nebulized",
+      "type": "T029",
+      "umls_id": "C1549531",
+      "score": 0.9735028743743896,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "ipratropium",
+      "type": "T109",
+      "umls_id": "C0027235",
+      "score": 0.9573537707328796,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A muscarinic antagonist structurally related to ATROPINE but often considered safer and more effective for inhalation use. It is used for various bronchial disorders, in rhinitis, and as an antiarrhythmic."
+    },
+    {
+      "text": "treatments",
+      "type": "T061",
+      "umls_id": "C0087111",
+      "score": 0.9774671196937561,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Procedures concerned with the remedial treatment or prevention of diseases."
+    },
+    {
+      "text": "intravenous methylprednisolone",
+      "type": "T109",
+      "umls_id": "C0025815",
+      "score": 0.7597253918647766,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A PREDNISOLONE derivative with similar anti-inflammatory action."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "asthma exacerbation",
+      "type": "T033",
+      "umls_id": "C0349790",
+      "score": 0.9541956782341003,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "limp",
+      "type": "T033",
+      "umls_id": "C0311395",
+      "score": 0.98828125,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "leg pain and weakness brought on by walking"
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "Magnesium sulfate",
+      "type": "T121",
+      "umls_id": "C0024480",
+      "score": 0.9765406847000122,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A small colorless crystal used as an anticonvulsant, a cathartic, and an electrolyte replenisher in the treatment of pre-eclampsia and eclampsia. It causes direct inhibition of action potentials in myometrial muscle cells. Excitation and contraction are uncoupled, which decreases the frequency and force of contractions. (From AMA Drug Evaluations Annual, 1992, p1083)"
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "No wheezing",
+      "type": "T184",
+      "umls_id": "C0043144",
+      "score": 0.8577958941459656,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "pulmonary examination",
+      "type": "T042",
+      "umls_id": "C1373189",
+      "score": 0.7425879836082458,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The discharge of substances from the pulmonary capillary blood into the alveolar space to be exhaled or removed by MUCOCILIARY CLEARANCE."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "6-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

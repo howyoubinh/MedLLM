@@ -1,0 +1,276 @@
+{
+  "original_data": {
+    "question": "A 32-year-old G1P1 patient presents to her obstetrician after having a positive pregnancy test at home. She reports that she and her husband had been trying to have a child for the past three months. She has no history of sexually transmitted disease, intravenous drug use, or blood transfusions, and she has never traveled outside of the United States. She was up-to-date on all immunizations before her pregnancy. Ultrasound is consistent with an 8-week gestational sac. The patient requests as few tests as possible, although she does not want to compromise the health of her fetus. Which of the following screening tests should be performed on all pregnant women?",
+    "options": {
+      "A": "HIV, syphilis, and hepatitis B",
+      "B": "HIV, syphilis, and N. gonorrhea",
+      "C": "HIV, hepatitis B, and hepatitis C",
+      "D": "HIV, syphilis, hepatitis B, N. gonorrhea, and C. trachomatis"
+    }
+  },
+  "model_response": "Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "G1P1",
+      "type": "T028",
+      "umls_id": "C1412215",
+      "score": 0.9881881475448608,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "This gene plays a role in the metabolism of double-stranded RNA."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "obstetrician",
+      "type": "T097",
+      "umls_id": "C0334897",
+      "score": 0.9912969470024109,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in OBSTETRICS."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "pregnancy test",
+      "type": "T060",
+      "umls_id": "C0032976",
+      "score": 0.9833260774612427,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tests to determine whether or not an individual is pregnant."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "trying",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "sexually transmitted disease",
+      "type": "T047",
+      "umls_id": "C0036916",
+      "score": 0.9676005244255066,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Diseases due to or propagated by sexual contact."
+    },
+    {
+      "text": "intravenous drug use",
+      "type": "T055",
+      "umls_id": "C0699778",
+      "score": 0.9740137457847595,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood transfusions",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9784174561500549,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "United States",
+      "type": "T083",
+      "umls_id": "C0041703",
+      "score": 0.9899754524230957,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA between CANADA and MEXICO."
+    },
+    {
+      "text": "immunizations",
+      "type": "T061",
+      "umls_id": "C0020971",
+      "score": 0.9687795042991638,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Deliberate stimulation of the host's immune response. ACTIVE IMMUNIZATION involves administration of ANTIGENS or IMMUNOLOGIC ADJUVANTS. PASSIVE IMMUNIZATION involves administration of IMMUNE SERA or LYMPHOCYTES or their extracts (e.g., transfer factor, immune RNA) or transplantation of immunocompetent cell producing tissue (thymus or bone marrow)."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "gestational sac",
+      "type": "T018",
+      "umls_id": "C0553498",
+      "score": 0.9660133123397827,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The sac that envelops the embryo. It is composed of extraembryonic membranes."
+    },
+    {
+      "text": "patient requests",
+      "type": "T169",
+      "umls_id": "C0332153",
+      "score": 0.8689320683479309,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>To perform one or more operations on information in response to a patient's request.</p>"
+    },
+    {
+      "text": "tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9838898777961731,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "fetus",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.965303361415863,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "screening tests",
+      "type": "T058",
+      "umls_id": "C0871311",
+      "score": 0.9828503131866455,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A test whose operational purpose is to determine the presence or absence of a substance, organism, or condition."
+    },
+    {
+      "text": "pregnant women",
+      "type": "T098",
+      "umls_id": "C0033011",
+      "score": 0.9519895315170288,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females who are pregnant, as cultural, psychological, or sociological entities."
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

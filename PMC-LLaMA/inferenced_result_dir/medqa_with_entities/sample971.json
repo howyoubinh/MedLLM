@@ -1,0 +1,289 @@
+{
+  "original_data": {
+    "question": "Two hours after undergoing open cholecystectomy for complicated cholecystitis, a 48-year-old woman develops dizziness, lethargy, abdominal pain, and nausea. She has systemic lupus erythematosus and hypertension. Prior to hospitalization, her medications included nifedipine and prednisolone. Her pulse is 112/min and blood pressure is 90/64 mm Hg. Examination shows central obesity. The abdomen is soft and non-tender, and the laparoscopic incisions have no discharge. Her serum cortisol and serum ACTH are decreased. Which of the following additional findings is most likely in this patient?",
+    "options": {
+      "A": "Normal anion gap metabolic acidosis",
+      "B": "Hyperkalemia",
+      "C": "Hyperglycemia",
+      "D": "Hyponatremia"
+    }
+  },
+  "model_response": "This patient has adrenal insufficiency secondary to a water-soluble contrast agent (iohexol) that was used during the operative procedure. Adrenal insufficiency in this setting is usually secondary to bilateral adrenal hemorrhage. The incidence of adrenal insufficiency in patients receiving iodinated contrast agents is 0.01%. Signs and symptoms of adrenal insufficiency include fever, abdominal pain, and circulatory collapse. Laboratory findings include hyponatremia, hyperkalemia, and metabolic acidosis.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "open cholecystectomy",
+      "type": "T061",
+      "umls_id": "C0742390",
+      "score": 0.9837386608123779,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complicated cholecystitis",
+      "type": "T047",
+      "umls_id": "C0008325",
+      "score": 0.720904529094696,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammation of the GALLBLADDER; generally caused by impairment of BILE flow, GALLSTONES in the BILIARY TRACT, infections, or other diseases."
+    },
+    {
+      "text": "woman develops dizziness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lethargy",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9868770837783813,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "systemic lupus erythematosus",
+      "type": "T047",
+      "umls_id": "C0024141",
+      "score": 0.9638178944587708,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hospitalization",
+      "type": "T058",
+      "umls_id": "C0019993",
+      "score": 0.9668473601341248,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The confinement of a patient in a hospital."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "nifedipine",
+      "type": "T109",
+      "umls_id": "C0028066",
+      "score": 0.9604309797286987,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A potent vasodilator agent with calcium antagonistic action. It is a useful anti-anginal agent that also lowers blood pressure."
+    },
+    {
+      "text": "prednisolone",
+      "type": "T109",
+      "umls_id": "C0032950",
+      "score": 0.9601304531097412,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A glucocorticoid with the general properties of the corticosteroids. It is the drug of choice for all conditions in which routine systemic corticosteroid therapy is indicated, except adrenal deficiency states."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "central obesity",
+      "type": "T033",
+      "umls_id": "C0311277",
+      "score": 0.9727542996406555,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition of having excess fat in the abdomen. Abdominal obesity is typically defined as waist circumferences of 40 inches or more in men and 35 inches or more in women. Abdominal obesity raises the risk of developing disorders, such as DIABETES; HYPERTENSION; and METABOLIC SYNDROME."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "non-tender",
+      "type": "T080",
+      "umls_id": "C0520960",
+      "score": 0.9690245389938354,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "laparoscopic incisions",
+      "type": "T060",
+      "umls_id": "C0031150",
+      "score": 0.7433111667633057,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A procedure in which a laparoscope (LAPAROSCOPES) is inserted through a small incision near the navel to examine the abdominal and pelvic organs in the PERITONEAL CAVITY. If appropriate, biopsy or surgery can be performed during laparoscopy."
+    },
+    {
+      "text": "serum cortisol",
+      "type": "T109",
+      "umls_id": "C0729349",
+      "score": 0.9929467439651489,
+      "semantic_types": [
+        "T109",
+        "T125"
+      ],
+      "definition": null
+    },
+    {
+      "text": "serum ACTH",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.7388414144515991,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "48-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

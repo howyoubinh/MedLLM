@@ -1,0 +1,264 @@
+{
+  "original_data": {
+    "question": "A 36-year-old woman comes to the physician because of a painless lump on her neck for 3 months that has increased in size. She appears healthy. Examination shows a 2.5-cm (1-in) firm, irregular swelling on the left side of the neck that moves with swallowing. There is painless cervical lymphadenopathy. Ultrasound of the neck shows a solitary left lobe thyroid mass with increased vascularity and hyperechogenic punctate regions. A fine needle aspiration biopsy is scheduled for the following week. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Follicular carcinoma of the thyroid",
+      "B": "Hürthle cell carcinoma of the thyroid",
+      "C": "Papillary carcinoma of the thyroid",
+      "D": "Anaplastic carcinoma of the thyroid"
+    }
+  },
+  "model_response": "The clinical presentation is most consistent with papillary carcinoma of the thyroid. The increased vascularity and punctate echogenic regions are suspicious for malignancy. The other choices are not associated with painless cervical lymphadenopathy.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "painless lump",
+      "type": "T169",
+      "umls_id": "C0234226",
+      "score": 0.7786033153533936,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not causing physical or psychological misery, pain or distress."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "firm",
+      "type": "T080",
+      "umls_id": "C0205233",
+      "score": 0.9878337383270264,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a structure or consistency that strongly resists stress or pressure."
+    },
+    {
+      "text": "irregular swelling",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.7130400538444519,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "moves",
+      "type": "T033",
+      "umls_id": "C0578671",
+      "score": 0.9804561138153076,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "swallowing",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.967613935470581,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "cervical lymphadenopathy",
+      "type": "T047",
+      "umls_id": "C0235592",
+      "score": 0.9820212125778198,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Enlargement of the cervical lymph nodes usually due to infections or involvement by malignant neoplasms."
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "solitary left lobe thyroid mass",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vascularity",
+      "type": "T033",
+      "umls_id": "C4068833",
+      "score": 0.9908884167671204,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hyperechogenic punctate regions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "needle aspiration",
+      "type": "T074",
+      "umls_id": "C0181959",
+      "score": 0.9589203596115112,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Needles designed for aspirating fluids from cavities, cysts, and wounds. These devices typically consist of long, hollow needles, either with sharp or blunt tips, and opposite ends that include a female Luer slip or Luer-lock hub for connection to a syringe or other collection/aspiration device."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

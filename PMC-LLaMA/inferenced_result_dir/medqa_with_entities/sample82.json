@@ -1,0 +1,246 @@
+{
+  "original_data": {
+    "question": "A 44-year-old African-American woman comes to the physician for a routine examination. She is concerned about cancer because her uncle died of metastatic melanoma 1 year ago. She has no history of serious illness and does not take any medication. She has been working in a law firm for the past 20 years and travels to the Carribean regularly with her husband. Examination of her skin shows no abnormal moles or warts. This woman is at greatest risk of which of the following types of melanoma?",
+    "options": {
+      "A": "Desmoplastic",
+      "B": "Nodular",
+      "C": "Acral lentiginous",
+      "D": "Superficial spreading"
+    }
+  },
+  "model_response": "Desmoplastic melanoma is the most common type of melanoma in elderly individuals, but it is rare in young patients. Superficial spreading melanoma is the most common type of melanoma in young patients, especially if they have a history of significant sun exposure. Nodular melanoma is the most malignant form of melanoma and is more common in older patients. Acral lentiginous melanoma is the least common type of melanoma and is most common on the palms, soles, and nail beds.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "African-American",
+      "type": "T098",
+      "umls_id": "C0085756",
+      "score": 0.9695146679878235,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Denotes a person of African ancestral origins whose family settled in America."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "cancer",
+      "type": "T191",
+      "umls_id": "C0006826",
+      "score": 0.9914878010749817,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas, Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas."
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "metastatic melanoma",
+      "type": "T191",
+      "umls_id": "C0278883",
+      "score": 0.9849045872688293,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A melanoma that has spread from its primary site to another anatomic site. Melanomas frequently metastasize to lymph nodes, liver, lungs, and brain."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "travels",
+      "type": "T056",
+      "umls_id": "C0040802",
+      "score": 0.9817608594894409,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "MOVEMENT across different GEOGRAPHIC LOCATIONS."
+    },
+    {
+      "text": "Carribean regularly",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "moles",
+      "type": "T191",
+      "umls_id": "C0027960",
+      "score": 0.9905787110328674,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A circumscribed stable malformation of the skin and occasionally of the oral mucosa, which is not due to external causes and therefore presumed to be of hereditary origin."
+    },
+    {
+      "text": "warts",
+      "type": "T028",
+      "umls_id": "C1367460",
+      "score": 0.975521981716156,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "This gene is involved in the maintenance of genomic stability."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "melanoma",
+      "type": "T191",
+      "umls_id": "C0025202",
+      "score": 0.9899238348007202,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A malignant neoplasm derived from cells that are capable of forming melanin, which may occur in the skin of any part of the body, in the eye, or, rarely, in the mucous membranes of the genitalia, anus, oral cavity, or other sites. It occurs mostly in adults and may originate de novo or from a pigmented nevus or malignant lentigo. Melanomas frequently metastasize widely, and the regional lymph nodes, liver, lungs, and brain are likely to be involved. The incidence of malignant skin melanomas is rising rapidly in all parts of the world. (Stedman, 25th ed; from Rook et al., Textbook of Dermatology, 4th ed, p2445)"
+    },
+    {
+      "text": "44-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

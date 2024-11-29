@@ -1,0 +1,295 @@
+{
+  "original_data": {
+    "question": "A 29-year-old woman presents to the clinic after several months of weight loss. She noticed a 6.8 kg (15 lb) unintentional weight loss over the preceding several months. She has not changed her diet or exercise habits. She also reports feuding with her boyfriend over the temperature of their shared apartment, as she always feels warmer than he does. The vital signs include: heart rate 110/min and blood pressure 146/78 mm Hg. The physical exam is notable for warm and slightly moist skin. She also exhibits a fine tremor in her hands when her arms are outstretched. The urine pregnancy test is negative. Which of the following is the best single treatment option for this patient?",
+    "options": {
+      "A": "Glucocorticoids",
+      "B": "Methimazole",
+      "C": "Propranolol",
+      "D": "Radioiodine therapy"
+    }
+  },
+  "model_response": "The patient has Graves' disease, which is the most common cause of hyperthyroidism. The initial treatment of choice is usually a beta blocker to control the symptoms of hyperthyroidism, such as tachycardia and tremor. It is also helpful in controlling the symptoms of anxiety that many of these patients experience. In addition, patients are often treated with a small dose of glucocorticoids, such as prednisone, to help control the underlying thyroid disease. Propranolol is a non-selective beta blocker that is effective in controlling the symptoms of hyperthyroidism. It is contraindicated in patients with asthma, chronic obstructive pulmonary disease (COPD), or heart block. Methimazole is an antithyroid medication that is effective in treating Graves' disease. It is contraindicated in pregnancy, as it can cross the placenta and cause fetal aplasia cutis. Radioactive iodine is also an effective treatment for Graves' disease. It is usually reserved for patients over 40 years of age, or for patients who have contraindications to antithyroid medications. It is also contraindicated in pregnancy, as it can cross the placenta and affect the fetal thyroid. Thyroidectomy is usually reserved for patients who have had multiple relapses after medical treatment, or for patients who have a very large thyroid gland that is compressing on vital structures, such as the trachea or esophagus.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "exercise habits",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "feuding",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "boyfriend",
+      "type": "T098",
+      "umls_id": "C0521319",
+      "score": 0.9161818623542786,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A boy or man who is the lover of a girl or woman."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "shared apartment",
+      "type": "T073",
+      "umls_id": "C0457933",
+      "score": 0.7405313849449158,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A room or suite of rooms designed as a residence and generally located in a building occupied by more than one household used as an element of an address."
+    },
+    {
+      "text": "feels warmer",
+      "type": "T074",
+      "umls_id": "C0184348",
+      "score": 0.7230711579322815,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices that use some heating element (e.g., electric resistor, radiant energy) or system to warm a substance, air, material, fluid, or device or to regulate body temperature. Warming units typically contain a power supply (either using internal batteries or a connection to the power line), the heating element, and a way to transfer the heat or circulate a warm fluid (e.g., blowers, coils, tubing, etc.) They may be stationary units, movable (on casters or wheels) or portable devices."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "warm",
+      "type": "T033",
+      "umls_id": "C0582051",
+      "score": 0.995954692363739,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "moist",
+      "type": "T080",
+      "umls_id": "C0205381",
+      "score": 0.9777016639709473,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tremor",
+      "type": "T184",
+      "umls_id": "C0040822",
+      "score": 0.9931923747062683,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Cyclical movement of a body part that can represent either a physiologic process or a manifestation of disease. Intention or action tremor, a common manifestation of CEREBELLAR DISEASES, is aggravated by movement. In contrast, resting tremor is maximal when there is no attempt at voluntary movement, and occurs as a relatively frequent manifestation of PARKINSON DISEASE."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "outstretched",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "urine pregnancy test",
+      "type": "T059",
+      "umls_id": "C0430056",
+      "score": 0.9804611802101135,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

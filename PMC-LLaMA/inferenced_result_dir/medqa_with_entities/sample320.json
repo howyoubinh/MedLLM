@@ -1,0 +1,237 @@
+{
+  "original_data": {
+    "question": "A 32-year-old woman comes to the emergency department because a 5-week history of abdominal pain and bloody diarrhea that has worsened in the past 24 hours. She was diagnosed with ulcerative colitis 1 year ago but has had difficulty complying with her drug regimen. Her temperature is 38.2°C (100.8°F), pulse is 120/min, and blood pressure is 92/56 mm Hg. Examination shows a distended, rigid abdomen and hypoactive bowel sounds. Fluid resuscitation is initiated. In addition to complete bowel rest, which of the following is the most appropriate next step in management of this patient?",
+    "options": {
+      "A": "Abdominal CT scan with contrast",
+      "B": "CT angiography",
+      "C": "Abdominal x-ray",
+      "D": "Colonoscopy"
+    }
+  },
+  "model_response": "The patient's presentation is consistent with toxic megacolon, a complication of ulcerative colitis that is often precipitated by electrolyte abnormalities and medication noncompliance. The most important initial step in management is fluid resuscitation. The patient should be placed on bowel rest and nasogastric decompression. If the patient does not respond to bowel rest and fluid resuscitation, colectomy should be performed. An abdominal CT scan with contrast would be the most appropriate next step in management to assess for toxic megacolon and the need for emergent surgical intervention.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "bloody diarrhea",
+      "type": "T047",
+      "umls_id": "C0151594",
+      "score": 0.988936185836792,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Passage of many stools containing blood. []"
+    },
+    {
+      "text": "worsened",
+      "type": "T033",
+      "umls_id": "C1457868",
+      "score": 0.981609582901001,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "In an declined condition."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "ulcerative colitis",
+      "type": "T047",
+      "umls_id": "C0009324",
+      "score": 0.9720373153686523,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammation of the COLON that is predominantly confined to the MUCOSA. Its major symptoms include DIARRHEA, rectal BLEEDING, the passage of MUCUS, and ABDOMINAL PAIN."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "difficulty complying",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.7111804485321045,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "drug regimen",
+      "type": "T061",
+      "umls_id": "C0040808",
+      "score": 0.7725793719291687,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A treatment plan that specifies the dosage, the schedule, and the duration of treatment."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "rigid abdomen",
+      "type": "T184",
+      "umls_id": "C0159066",
+      "score": 0.9753071069717407,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Involuntary tightening of the abdominal musculature that occurs in response to touching the abdomen to avoid pain. Rigidity can occur in the presence of abdominal inflammation and usually involves only the inflamed area. []"
+    },
+    {
+      "text": "hypoactive bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232695",
+      "score": 0.9751814007759094,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An decreased amount of bowel sounds. [HPO:probinson]"
+    },
+    {
+      "text": "Fluid",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9930761456489563,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "bowel rest",
+      "type": "T023",
+      "umls_id": "C0021853",
+      "score": 0.7290394306182861,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The section of the alimentary canal from the STOMACH to the ANAL CANAL. It includes the LARGE INTESTINE and SMALL INTESTINE."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

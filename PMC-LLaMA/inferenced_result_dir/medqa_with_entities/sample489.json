@@ -1,0 +1,326 @@
+{
+  "original_data": {
+    "question": "A 62-year-old man with a history of chronic bronchitis comes to the physician because of a 1-month history of worsening shortness of breath and cough productive of thick sputum. He smoked one pack of cigarettes daily for 20 years but quit 5 years ago. Physical examination shows an increased anteroposterior chest diameter and coarse crackles in the lower lung fields bilaterally. Treatment with a drug that directly antagonizes the effects of vagal stimulation on the airways is begun. Which of the following drugs was most likely started?",
+    "options": {
+      "A": "Fluticasone",
+      "B": "Montelukast",
+      "C": "Tiotropium",
+      "D": "Cromolyn"
+    }
+  },
+  "model_response": "The symptoms described are those of COPD, and theophylline preparations, which directly antagonize the effects of vagal stimulation on the airways, are the most effective bronchodilators for this disease. The other listed drugs are used in the treatment of asthma, which is characterized by reversible airway obstruction.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "chronic bronchitis",
+      "type": "T047",
+      "umls_id": "C0008677",
+      "score": 0.9884354472160339,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A subcategory of CHRONIC OBSTRUCTIVE PULMONARY DISEASE. The disease is characterized by hypersecretion of mucus accompanied by a chronic (more than 3 months in 2 consecutive years) productive cough. Infectious agents are a major cause of chronic bronchitis."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "cough productive",
+      "type": "T033",
+      "umls_id": "C0239134",
+      "score": 0.9714952111244202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A cough accompanied by expectorated secretions."
+    },
+    {
+      "text": "thick sputum",
+      "type": "T033",
+      "umls_id": "C0457093",
+      "score": 0.9603296518325806,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anteroposterior",
+      "type": "T082",
+      "umls_id": "C2827723",
+      "score": 0.770727813243866,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Directed from front to back."
+    },
+    {
+      "text": "diameter",
+      "type": "T081",
+      "umls_id": "C1301886",
+      "score": 0.9675867557525635,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference."
+    },
+    {
+      "text": "coarse crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.734811544418335,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "lower",
+      "type": "T082",
+      "umls_id": "C0441994",
+      "score": 0.9887550473213196,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The bottom one of two."
+    },
+    {
+      "text": "lung fields",
+      "type": "T029",
+      "umls_id": "C0225759",
+      "score": 0.9756964445114136,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "effects",
+      "type": "T080",
+      "umls_id": "C1280500",
+      "score": 0.9853150844573975,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A phenomenon that follows and is caused by some previous phenomenon."
+    },
+    {
+      "text": "vagal stimulation",
+      "type": "T060",
+      "umls_id": "C1293903",
+      "score": 0.9594858288764954,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "airways",
+      "type": "T074",
+      "umls_id": "C0178987",
+      "score": 0.9906073212623596,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices designed to permit the passage of gases (e.g., air, oxygen) to the lungs while preventing obstruction of the patient's upper airway. These airways include a variety of devices according to the technique used to facilitate the passage of gases, the intended application, and the expected time of use. In emergency and/or for short-time use, esophageal obturation with one- or two-lumen tubes and oropharyngeal artificial airways are typically used. For a few days of intubation, nasopharyngeal artificial airways are the most commonly used devices, while for longer periods (up to three weeks) endotracheal tubes are the preferred devices. When long-term mechanical ventilation is needed, tracheostomy tubes are used. Artificial airways are available in a variety of configurations from newborn to adult sizes."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

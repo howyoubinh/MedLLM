@@ -1,0 +1,338 @@
+{
+  "original_data": {
+    "question": "A 24-year-old man is brought in to the emergency department by his parents who found him in his room barely responsive and with slurring speech. The patients’ parents say that a bottle of oxycodone was found at his bedside and was missing 15 pills. On physical examination, the patient appears drowsy and lethargic and is minimally responsive to stimuli. His respiratory rate is 8/min and shallow, blood pressure is 130/90 mm Hg, and pulse is 60/min. On physical examination, miosis is present, and the pupils appear pinpoint. The patient is given a drug to improve his symptoms. Which of the following is the mechanism of action of the drug that was most likely administered?",
+    "options": {
+      "A": "μ, κ, and ẟ receptor antagonist",
+      "B": "μ receptor agonist",
+      "C": "к receptor agonist and μ receptor antagonist",
+      "D": "μ receptor partial agonist and к receptor agonist"
+    }
+  },
+  "model_response": "{'A': 'Naloxone', 'B': 'Naltrexone', 'C': 'Buprenorphine', 'D': 'Butorphanol'}[?]Naloxone is an opioid antagonist that displaces the agonist from opioid receptors, thereby reversing the effects of the agonist. It is the treatment of choice for opioid overdose. Naltrexone is a long-acting opioid antagonist that can be used as therapy for opioid dependence. Buprenorphine is a partial agonist of the μ receptor and antagonist of the к receptor. It is used as therapy for opioid dependence. Butorphanol is an agonist of the μ receptor and antagonist of the к receptor. It is used as an analgesic.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "room",
+      "type": "T082",
+      "umls_id": "C1547120",
+      "score": 0.9864740967750549,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "slurring speech",
+      "type": "T033",
+      "umls_id": "C0234518",
+      "score": 0.9523265361785889,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal coordination of muscles involved in speech. [DDD:fmunitoni]"
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "parents say",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.8254037499427795,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "bottle",
+      "type": "T073",
+      "umls_id": "C0179376",
+      "score": 0.9718114137649536,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vessel with a narrow neck designed to accept a specific closure."
+    },
+    {
+      "text": "oxycodone",
+      "type": "T109",
+      "umls_id": "C0030049",
+      "score": 0.9789454936981201,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A semisynthetic derivative of CODEINE."
+    },
+    {
+      "text": "bedside",
+      "type": "T074",
+      "umls_id": "C0810484",
+      "score": 0.7926645278930664,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Scales designed to weigh prone or supine patients by placing them on either a weighboard or a sling attached to a moving unit that includes the weighing mechanism. Bedside scales usually have a weighing capacity of up to 200 kg (440 lb) and an accuracy of 100 g (0.25 lb). These scales may use mechanical, electromechanical, or electronic technologies; some of them are portable, battery-powered units, and other models are line powered as well. Most of these scales are used for periodic weight assessment of bedridden patients."
+    },
+    {
+      "text": "pills",
+      "type": "T122",
+      "umls_id": "C0994475",
+      "score": 0.9942100644111633,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A solid composed of a small, round object composed of active and/or inert ingredient(s)."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "drowsy",
+      "type": "T033",
+      "umls_id": "C0013144",
+      "score": 0.9555262327194214,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The sensation of struggling to remain awake."
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "minimally responsive",
+      "type": "T033",
+      "umls_id": "C4050513",
+      "score": 0.7230654358863831,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A finding indicating that there is an improvement in the measures of disease burden, meeting a predetermined threshold, but not meeting partial response criteria."
+    },
+    {
+      "text": "stimuli",
+      "type": "T067",
+      "umls_id": "C0234402",
+      "score": 0.9854758381843567,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "An environmental event, agent, act, or influence that can be detected by a receptor in the body and will invariably produce a reaction in a living organism, e.g. change in the behavior, functional or trophic reaction."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "shallow",
+      "type": "T033",
+      "umls_id": "C4698035",
+      "score": 0.9926853775978088,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "miosis",
+      "type": "T047",
+      "umls_id": "C0026205",
+      "score": 0.9641479849815369,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pupillary constriction. This may result from congenital absence of the dilatator pupillary muscle, defective sympathetic innervation, or irritation of the CONJUNCTIVA or CORNEA."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "pinpoint",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

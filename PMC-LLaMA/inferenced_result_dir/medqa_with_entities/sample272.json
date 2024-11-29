@@ -1,0 +1,248 @@
+{
+  "original_data": {
+    "question": "A 9-month-old boy is brought to the physician by his mother because of intermittent watery diarrhea for several months. Pregnancy and delivery were uncomplicated. He was diagnosed with eczematous dermatitis at 3 months old. His height and weight are below the 5th percentile. Immunologic evaluation shows a defect in activated regulatory T cells. A genetic analysis shows a mutation in the FOXP3 gene. This patient is at increased risk for which of the following?",
+    "options": {
+      "A": "Hemorrhagic diathesis",
+      "B": "Ocular telangiectasias",
+      "C": "Autoimmune endocrinopathy",
+      "D": "Retained primary teeth"
+    }
+  },
+  "model_response": "The patient has IPEX syndrome (immune dysregulation, polyendocrinopathy, enteropathy, X-linked) which is caused by mutations in the FOXP3 gene. The loss of function of regulatory T cells leads to autoimmune phenomena. The most common clinical manifestations are early-onset chronic diarrhea, autoimmune thyroiditis, and type 1 diabetes mellitus. Hemorrhagic diathesis is not a feature of IPEX syndrome. Ocular telangiectasias are a feature of ataxia telangiectasia. Autoimmune endocrinopathy can include adrenal insufficiency, type 1 diabetes mellitus, and thyroiditis. Retained primary teeth are not a feature of IPEX syndrome.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "intermittent watery",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.7914755344390869,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "Pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "delivery",
+      "type": "T061",
+      "umls_id": "C0011209",
+      "score": 0.9885228276252747,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Delivery of the FETUS and PLACENTA under the care of an obstetrician or a health worker. Obstetric deliveries may involve physical, psychological, medical, or surgical interventions."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "eczematous dermatitis",
+      "type": "T047",
+      "umls_id": "C0013595",
+      "score": 0.9460155367851257,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A pruritic papulovesicular dermatitis occurring as a reaction to many endogenous and exogenous agents (Dorland, 27th ed)."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "5th percentile",
+      "type": "T081",
+      "umls_id": "C1264641",
+      "score": 0.8530538082122803,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."
+    },
+    {
+      "text": "Immunologic",
+      "type": "T091",
+      "umls_id": "C0152036",
+      "score": 0.9891679286956787,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of the immune system and its reaction to pathogens, as well as its malfunctions (autoimmune diseases, allergies, rejection of organ transplants)."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "defect",
+      "type": "T169",
+      "umls_id": "C1457869",
+      "score": 0.9808286428451538,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A failing or deficiency."
+    },
+    {
+      "text": "activated",
+      "type": "T052",
+      "umls_id": "C1879547",
+      "score": 0.9826318621635437,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "To cause something to start or to stimulate activity."
+    },
+    {
+      "text": "genetic analysis",
+      "type": "T059",
+      "umls_id": "C0796344",
+      "score": 0.9830151796340942,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mutation",
+      "type": "T045",
+      "umls_id": "C0026882",
+      "score": 0.964189887046814,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Any detectable and heritable change in the genetic material that causes a change in the GENOTYPE and which is transmitted to daughter cells and to succeeding generations."
+    },
+    {
+      "text": "FOXP3 gene",
+      "type": "T028",
+      "umls_id": "C1416467",
+      "score": 0.9117415547370911,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "This gene is involved in transcription regulation and the immune response."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    }
+  ]
+}

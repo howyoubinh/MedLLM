@@ -1,0 +1,173 @@
+{
+  "original_data": {
+    "question": "A 34-year-old patient is brought to the emergency room after a motor vehicle accident. An EKG shows sinus tachycardia and chest radiograph reveals an enlarged cardiac silhouette. While observing sinus tachycardia on the patient's telemetry, you note that the radial pulse cannot be palpated during inspiration. What should be the next step in management of this patient?",
+    "options": {
+      "A": "Pericardiocentesis",
+      "B": "Chest CT scan",
+      "C": "Pericardial window",
+      "D": "Insert chest tube"
+    }
+  },
+  "model_response": "Pericardiocentesis is the next step in management of this patient. The clinical picture is suggestive of cardiac tamponade. The Beck's triad of cardiac tamponade includes hypotension, soft or absent hea sounds, and jugular venous distention with a prominent x descent but an absent y descent. The most appropriate initial diagnostic test is echocardiography. However, pericardiocentesis should be performed as soon as the diagnosis is made, even before echocardiography.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "motor vehicle accident",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.961533784866333,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "EKG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.9992800951004028,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "sinus tachycardia",
+      "type": "T047",
+      "umls_id": "C0039239",
+      "score": 0.9745782017707825,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Simple rapid heartbeats caused by rapid discharge of impulses from the SINOATRIAL NODE, usually between 100 and 180 beats/min in adults. It is characterized by a gradual onset and termination. Sinus tachycardia is common in infants, young children, and adults during strenuous physical activities."
+    },
+    {
+      "text": "chest radiograph",
+      "type": "T060",
+      "umls_id": "C3842377",
+      "score": 0.9901647567749023,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "enlarged",
+      "type": "T080",
+      "umls_id": "C0442800",
+      "score": 0.9600385427474976,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cardiac silhouette",
+      "type": "T029",
+      "umls_id": "C0507134",
+      "score": 0.9549819827079773,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sinus",
+      "type": "T190",
+      "umls_id": "C0016169",
+      "score": 0.980830729007721,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": "Abnormal communication most commonly seen between two internal organs, or between an internal organ and the surface of the body."
+    },
+    {
+      "text": "patient's telemetry",
+      "type": "T060",
+      "umls_id": "C0039451",
+      "score": 0.7012076377868652,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Transmission of the readings of instruments to a remote location by means of wires, radio waves, or other means. (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "radial",
+      "type": "T077",
+      "umls_id": "C0442038",
+      "score": 0.9838500022888184,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Arranged like rays or radii; radiating from a common center or moving in the direction of a radius; relating to or near the radius."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "inspiration",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9656476974487305,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

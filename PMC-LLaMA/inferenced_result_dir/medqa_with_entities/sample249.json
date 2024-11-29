@@ -1,0 +1,383 @@
+{
+  "original_data": {
+    "question": "A research group has developed a low-cost diagnostic retinal imaging device for cytomegalovirus retinitis in a population of HIV-infected patients. In a pilot study of 50 patients, the imaging test detected the presence of CMV retinitis in 50% of the patients. An ophthalmologist slit lamp examination, which was performed for each patient to serve as the gold standard for diagnosis, confirmed a diagnosis of CMV retinitis in 20 patients that were found to be positive through imaging, as well as 1 patient who tested negative with the device. If the prevalence of CMV retinitis in the population decreases due to increased access to antiretroviral therapy, how will positive predictive value and negative predictive value of the diagnostic test be affected?",
+    "options": {
+      "A": "PPV decreases, NPV decreases",
+      "B": "PPV decreases, NPV increases",
+      "C": "PPV increases, NPV decreases",
+      "D": "PPV unchanged, NPV unchanged"
+    }
+  },
+  "model_response": "The positive predictive value (PPV) of a screening test is the probability that a patient with a positive test result has, in fact, the disease in question. The negative predictive value (NPV) is the probability that a patient with a negative test result does not have the disease in question.\n\nIn this case, the PPV is directly related to the prevalence of the disease in the population. As the prevalence of CMV retinitis decreases due to increased access to antiretroviral therapy, the PPV of the imaging test will decrease. Conversely, the NPV is inversely related to the prevalence of the disease in the population. As the prevalence of CMV retinitis decreases, the NPV of the imaging test will increase.\n\nTherefore, the answer is Option A, PPV decreases and NPV decreases.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "research group",
+      "type": "T097",
+      "umls_id": "C1707252",
+      "score": 0.8685457706451416,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A collection of scientist and/or clinician users with a common research objective related to diagnosis and treatment of cancer."
+    },
+    {
+      "text": "low-cost",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "diagnostic retinal imaging device",
+      "type": "T060",
+      "umls_id": "C0011923",
+      "score": 0.7382946014404297,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Any visual display of structural or functional patterns of organs or tissues for diagnostic evaluation. It includes measuring physiologic and metabolic responses to physical and chemical stimuli, as well as ultramicroscopy."
+    },
+    {
+      "text": "cytomegalovirus retinitis",
+      "type": "T047",
+      "umls_id": "C0206178",
+      "score": 0.9821717739105225,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Infection of the retina by cytomegalovirus characterized by retinal necrosis, hemorrhage, vessel sheathing, and retinal edema. Cytomegalovirus retinitis is a major opportunistic infection in AIDS patients and can cause blindness."
+    },
+    {
+      "text": "population",
+      "type": "T081",
+      "umls_id": "C0032659",
+      "score": 0.9572107195854187,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The total number of individuals inhabiting a particular region or area."
+    },
+    {
+      "text": "HIV-infected",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pilot study",
+      "type": "T062",
+      "umls_id": "C0031928",
+      "score": 0.9878418445587158,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Small-scale tests of methods and procedures to be used on a larger scale if the pilot study demonstrates that these methods and procedures can work."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "imaging test",
+      "type": "T060",
+      "umls_id": "C0011923",
+      "score": 0.7846577167510986,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Any visual display of structural or functional patterns of organs or tissues for diagnostic evaluation. It includes measuring physiologic and metabolic responses to physical and chemical stimuli, as well as ultramicroscopy."
+    },
+    {
+      "text": "detected",
+      "type": "T033",
+      "umls_id": "C0442726",
+      "score": 0.9800583124160767,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>The measurement of the specified component / analyte, organism or clinical sign above the limit of detection of the performed test or procedure.</p>"
+    },
+    {
+      "text": "presence",
+      "type": "T061",
+      "umls_id": "C0392148",
+      "score": 0.9907425045967102,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "CMV",
+      "type": "T047",
+      "umls_id": "C0010823",
+      "score": 0.9955881834030151,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Infection with CYTOMEGALOVIRUS, characterized by enlarged cells bearing intranuclear inclusions. Infection may be in almost any organ, but the salivary glands are the most common site in children, as are the lungs in adults."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "ophthalmologist",
+      "type": "T097",
+      "umls_id": "C1704292",
+      "score": 0.9858466982841492,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals specializing in medical and surgical treatment of defects and diseases of the eye."
+    },
+    {
+      "text": "slit",
+      "type": "T061",
+      "umls_id": "C0184904",
+      "score": 0.9824644923210144,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lamp examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.8232213854789734,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "gold",
+      "type": "T121",
+      "umls_id": "C0018026",
+      "score": 0.98555588722229,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "A yellow metallic element with the atomic symbol Au, atomic number 79, and atomic weight 197. It is used in jewelry, goldplating of other metals, as currency, and in dental restoration. Many of its clinical applications, such as ANTIRHEUMATIC AGENTS, are in the form of its salts."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "CMV",
+      "type": "T047",
+      "umls_id": "C0010823",
+      "score": 0.9955881834030151,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Infection with CYTOMEGALOVIRUS, characterized by enlarged cells bearing intranuclear inclusions. Infection may be in almost any organ, but the salivary glands are the most common site in children, as are the lungs in adults."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "imaging",
+      "type": "T060",
+      "umls_id": "C0011923",
+      "score": 0.9836204648017883,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Any visual display of structural or functional patterns of organs or tissues for diagnostic evaluation. It includes measuring physiologic and metabolic responses to physical and chemical stimuli, as well as ultramicroscopy."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "device",
+      "type": "T074",
+      "umls_id": "C0025080",
+      "score": 0.9973019361495972,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Any physical object that is useful for prevention, diagnosis, monitoring, or treatment of disease or other conditions."
+    },
+    {
+      "text": "prevalence",
+      "type": "T081",
+      "umls_id": "C0033105",
+      "score": 0.9838968515396118,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The total number of cases of a given disease in a specified population at a designated time. It is differentiated from INCIDENCE, which refers to the number of new cases in the population at a given time."
+    },
+    {
+      "text": "CMV retinitis",
+      "type": "T047",
+      "umls_id": "C0206178",
+      "score": 0.9406931400299072,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Infection of the retina by cytomegalovirus characterized by retinal necrosis, hemorrhage, vessel sheathing, and retinal edema. Cytomegalovirus retinitis is a major opportunistic infection in AIDS patients and can cause blindness."
+    },
+    {
+      "text": "population",
+      "type": "T081",
+      "umls_id": "C0032659",
+      "score": 0.9572107195854187,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The total number of individuals inhabiting a particular region or area."
+    },
+    {
+      "text": "decreases",
+      "type": "T033",
+      "umls_id": "C0442797",
+      "score": 0.9786321520805359,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "access",
+      "type": "T082",
+      "umls_id": "C0444454",
+      "score": 0.9801592826843262,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The right to obtain or make use of or take advantage of something (as services or membership); the right to enter. Also, an act or means of approaching."
+    },
+    {
+      "text": "antiretroviral therapy",
+      "type": "T061",
+      "umls_id": "C1963724",
+      "score": 0.9783509373664856,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Treatment of retroviral infections with medications that target the virus directly, limiting the ability of infected cells to produce new virus particles."
+    },
+    {
+      "text": "negative predictive value",
+      "type": "T081",
+      "umls_id": "C1513918",
+      "score": 0.9846392869949341,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The probability that an individual is not affected with the condition when a negative test result is observed. This measure of accuracy should only be used if the data on the prevalence of condition of interest in given population is available. NPVDT can be determined by calculating: number of true negative results divided by the sum of true negative results plus number of false negative results."
+    },
+    {
+      "text": "diagnostic test",
+      "type": "T060",
+      "umls_id": "C0086143",
+      "score": 0.9840790033340454,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "heading term for tests not treed elsewhere under DIAGNOSIS."
+    },
+    {
+      "text": "affected",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.980024516582489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    }
+  ]
+}

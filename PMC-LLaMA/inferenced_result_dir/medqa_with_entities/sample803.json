@@ -1,0 +1,472 @@
+{
+  "original_data": {
+    "question": "A 75-year-old woman presents to the emergency department with 30 minutes of slurred speech and arm weakness. On the drive over to the hospital, her symptoms have resolved completely. The patient has a past medical history of hypertension, atrial fibrillation, diabetes, morbid obesity, gout, and vascular claudication. Her temperature is 99.0°F (37.2°C), blood pressure is 184/111 mmHg, pulse is 88/min, respirations are 15/min, and oxygen saturation is 98% on room air. Physical exam reveals cranial nerves II-XII as grossly intact with normal strength and sensation in the patient's upper and lower extremities. The patient's memory is intact and her speech seems normal and fluent. Her gait is stable with no ataxia. An initial head CT demonstrates diffuse atrophy which is consistent with previous head CT scans. Which of the following is the best next step in management?",
+    "options": {
+      "A": "CT angiogram",
+      "B": "Echocardiogram",
+      "C": "Heparin",
+      "D": "MRI"
+    }
+  },
+  "model_response": "The patient's symptoms are most consistent with a transient ischemic attack (TIA). The most common cause of TIA is atherosclerotic disease of the carotid arteries. The next best step in management is to obtain a CT angiogram to assess the patency of the carotid arteries. An echocardiogram is indicated if a cardiac source of emboli is suspected. Heparin is not indicated in the management of TIA. An MRI is not the best initial test for assessing the carotid arteries.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "slurred",
+      "type": "T033",
+      "umls_id": "C0234518",
+      "score": 0.974640965461731,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal coordination of muscles involved in speech. [DDD:fmunitoni]"
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "arm weakness",
+      "type": "T184",
+      "umls_id": "C0751409",
+      "score": 0.9742093682289124,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "completely",
+      "type": "T080",
+      "umls_id": "C0205197",
+      "score": 0.9873138070106506,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "To possess every necessary or normal part or component or step; having come or been brought to a conclusion."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "atrial fibrillation",
+      "type": "T047",
+      "umls_id": "C0004238",
+      "score": 0.968174934387207,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation."
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "morbid obesity",
+      "type": "T047",
+      "umls_id": "C0028756",
+      "score": 0.9880761504173279,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The condition of weighing two, three, or more times the ideal weight, so called because it is associated with many serious and life-threatening disorders. In the BODY MASS INDEX, morbid obesity is defined as having a BMI greater than 40.0 kg/m2."
+    },
+    {
+      "text": "gout",
+      "type": "T047",
+      "umls_id": "C0018099",
+      "score": 0.9994637370109558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of URIC ACID calculi."
+    },
+    {
+      "text": "vascular claudication",
+      "type": "T047",
+      "umls_id": "C0021775",
+      "score": 0.7371634244918823,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A symptom complex characterized by pain and weakness in SKELETAL MUSCLE group associated with exercise, such as leg pain and weakness brought on by walking. Such muscle limpness disappears after a brief rest and is often relates to arterial STENOSIS; muscle ISCHEMIA; and accumulation of LACTATE."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "cranial nerves",
+      "type": "T023",
+      "umls_id": "C0010268",
+      "score": 0.9829726815223694,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Twelve pairs of nerves that carry general afferent, visceral afferent, special afferent, somatic efferent, and autonomic efferent fibers."
+    },
+    {
+      "text": "II-XII",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "normal strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.7346182465553284,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "memory",
+      "type": "T041",
+      "umls_id": "C0025260",
+      "score": 0.9859048128128052,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Complex mental function having four distinct phases: (1) memorizing or learning, (2) retention, (3) recall, and (4) recognition. Clinically, it is usually subdivided into immediate, recent, and remote memory."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "normal",
+      "type": "T080",
+      "umls_id": "C0205307",
+      "score": 0.9803991317749023,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In pathology, a term that is used to describe a tissue specimen that has a normal appearance."
+    },
+    {
+      "text": "fluent",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gait",
+      "type": "T033",
+      "umls_id": "C0016928",
+      "score": 0.9804558157920837,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Manner or style of walking."
+    },
+    {
+      "text": "ataxia",
+      "type": "T184",
+      "umls_id": "C0004134",
+      "score": 0.9736708402633667,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Impairment of the ability to perform smoothly coordinated voluntary movements. This condition may affect the limbs, trunk, eyes, pharynx, larynx, and other structures. Ataxia may result from impaired sensory or motor function. Sensory ataxia may result from posterior column injury or PERIPHERAL NERVE DISEASES. Motor ataxia may be associated with CEREBELLAR DISEASES; CEREBRAL CORTEX diseases; THALAMIC DISEASES; BASAL GANGLIA DISEASES; injury to the RED NUCLEUS; and other conditions."
+    },
+    {
+      "text": "head CT",
+      "type": "T060",
+      "umls_id": "C0202691",
+      "score": 0.9920718669891357,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diffuse atrophy",
+      "type": "T046",
+      "umls_id": "C1265896",
+      "score": 0.9793661832809448,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "head CT",
+      "type": "T060",
+      "umls_id": "C0202691",
+      "score": 0.9920718669891357,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "75-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

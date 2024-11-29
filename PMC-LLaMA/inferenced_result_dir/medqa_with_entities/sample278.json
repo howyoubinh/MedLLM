@@ -1,0 +1,370 @@
+{
+  "original_data": {
+    "question": "A 62-year-old man presents to the emergency department with shortness of breath. The patient says he feels as if he is unable to take a deep breath. The patient has a past medical history of COPD and a 44-pack-year smoking history. The patient has been admitted before for a similar presentation. His temperature is 98.7°F (37.1°C), blood pressure is 177/118 mmHg, pulse is 123/min, respirations are 33/min, and oxygen saturation is 80% on room air. The patient is started on 100% oxygen, albuterol, ipratropium, magnesium, and prednisone. The patient claims he is still short of breath. Physical exam reveals bilateral wheezes and poor air movement. His oxygen saturation is 80%. Which of the following is the best next step in management?",
+    "options": {
+      "A": "BiPAP",
+      "B": "Chest tube placement",
+      "C": "Intubation",
+      "D": "Needle decompression"
+    }
+  },
+  "model_response": "The patient is in respiratory failure and is likely developing a pneumothorax. The next best step in management is to place a chest tube.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "patient says",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7841601967811584,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "deep breath",
+      "type": "T184",
+      "umls_id": "C1321587",
+      "score": 0.9760257005691528,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "COPD",
+      "type": "T047",
+      "umls_id": "C0024117",
+      "score": 0.9192933440208435,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "oxygen",
+      "type": "T121",
+      "umls_id": "C0030054",
+      "score": 0.9706076383590698,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element with atomic symbol O, atomic number 8, and atomic weight [15.99903; 15.99977]. It is the most abundant element on earth and essential for respiration."
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "ipratropium",
+      "type": "T109",
+      "umls_id": "C0027235",
+      "score": 0.9573537707328796,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A muscarinic antagonist structurally related to ATROPINE but often considered safer and more effective for inhalation use. It is used for various bronchial disorders, in rhinitis, and as an antiarrhythmic."
+    },
+    {
+      "text": "magnesium",
+      "type": "T123",
+      "umls_id": "C0024467",
+      "score": 0.9783968925476074,
+      "semantic_types": [
+        "T123",
+        "T196"
+      ],
+      "definition": "A metallic element that has the atomic symbol Mg, atomic number 12, and atomic weight 24.31. It is important for the activity of many enzymes, especially those involved in OXIDATIVE PHOSPHORYLATION."
+    },
+    {
+      "text": "prednisone",
+      "type": "T109",
+      "umls_id": "C0032952",
+      "score": 0.954511821269989,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A synthetic anti-inflammatory glucocorticoid derived from CORTISONE. It is biologically inert and converted to PREDNISOLONE in the liver."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "wheezes",
+      "type": "T184",
+      "umls_id": "C0043144",
+      "score": 0.9658972024917603,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+    },
+    {
+      "text": "poor air movement",
+      "type": "T070",
+      "umls_id": "C0001868",
+      "score": 0.8289197683334351,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "The motion of air currents."
+    },
+    {
+      "text": "His oxygen saturation",
+      "type": "T201",
+      "umls_id": "C0483415",
+      "score": 0.8813819885253906,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Extent to which HEMOGLOBIN is saturated with OXYGEN typically as measured in arterial blood. It can be measured by various methods (e.g., PULSE OXYMETER, blood gas analysis). A low blood oxygen saturation level indicates a condition called HYPOXEMIA."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

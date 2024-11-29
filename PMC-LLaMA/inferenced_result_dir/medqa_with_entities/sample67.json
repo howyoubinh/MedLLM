@@ -1,0 +1,358 @@
+{
+  "original_data": {
+    "question": "A 3-week-old male newborn is brought to the hospital because of poor weight gain since birth. He was born at 38 weeks' gestation via normal vaginal delivery. He weighed 3005 g (6 lb, 10 oz) at birth and currently weighs 2835 g (6 lb, 4 oz). He has been latching on and breastfeeding well since birth. His mother has a history of Graves' disease and underwent near-total thyroidectomy in the second trimester of her pregnancy after her symptoms could not be controlled with antithyroid drugs. She is currently receiving L-thyroxine therapy. The patient's temperature is 38.9°C (102°F), pulse is 176/min, and respirations are 42/min. He appears irritable. Examination shows a diaphoretic infant with a paucity of subcutaneous fat. There is swelling of the neck at the midline. Which of the following is the most likely cause?",
+    "options": {
+      "A": "Transplacental passage of thyroid peroxidase antibodies",
+      "B": "Transplacental passage of TSH receptor antibodies",
+      "C": "Transplacental viral infection",
+      "D": "Opiate use in the mother"
+    }
+  },
+  "model_response": "The newborn's symptoms are consistent with neonatal Graves' disease, which is caused by transplacental passage of thyroid peroxidase antibodies. The condition is characterized by thyrotoxicosis, which can present with tachycardia, diaphoresis, poor weight gain, and irritability. The swelling in the neck at the midline is due to diffuse goiter. Transplacental passage of TSH receptor antibodies causes neonatal Graves' disease, but this is less common. Transplacental viral infection can cause a variety of congenital anomalies, but not Graves' disease. Opiate use in the mother can cause neonatal withdrawal, but not Graves' disease.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "poor weight gain",
+      "type": "T033",
+      "umls_id": "C0231246",
+      "score": 0.9587045907974243,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Slower than normal rate of weight increase."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "normal vaginal delivery",
+      "type": "T061",
+      "umls_id": "C1541822",
+      "score": 0.8191161155700684,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Birth of the fetus through the vagina."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "latching",
+      "type": "T184",
+      "umls_id": "C0231617",
+      "score": 0.7559306621551514,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden pain, usually sharp, occurring during movement, or exacerbated by movement, and prompting cessation of movement"
+    },
+    {
+      "text": "breastfeeding",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9370194673538208,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9823688864707947,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "Graves' disease",
+      "type": "T047",
+      "umls_id": "C0018213",
+      "score": 0.9502441883087158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hyperthyroidism associated with diffuse hyperplasia of the thyroid gland (goiter), resulting from production of antibodies that are directed against the thyrotropin receptor complex of the follicular epithelial cells. As a result, the thyroid gland enlarges and secretes increased amounts of thyroid hormones."
+    },
+    {
+      "text": "near-total thyroidectomy",
+      "type": "T061",
+      "umls_id": "C0193788",
+      "score": 0.8285017013549805,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgery involving the complete excision of the thyroid gland."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "controlled",
+      "type": "T169",
+      "umls_id": "C2587213",
+      "score": 0.9838930368423462,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another."
+    },
+    {
+      "text": "antithyroid drugs",
+      "type": "T121",
+      "umls_id": "C0040125",
+      "score": 0.9733346104621887,
+      "semantic_types": [
+        "T121",
+        "T125"
+      ],
+      "definition": "Agents that are used to treat hyperthyroidism by reducing the excessive production of thyroid hormones."
+    },
+    {
+      "text": "L-thyroxine therapy",
+      "type": "T116",
+      "umls_id": "C0040165",
+      "score": 0.7587668299674988,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (MONOIODOTYROSINE) and the coupling of iodotyrosines (DIIODOTYROSINE) in the THYROGLOBULIN. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form TRIIODOTHYRONINE which exerts a broad spectrum of stimulatory effects on cell metabolism."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "diaphoretic infant",
+      "type": "T080",
+      "umls_id": "C1707737",
+      "score": 0.7926444411277771,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to, characterized by, or promoting sweating, e.g. procedure or an agent that promotes sweating."
+    },
+    {
+      "text": "paucity",
+      "type": "T047",
+      "umls_id": "C1855284",
+      "score": 0.7465885281562805,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Atresia in the intrahepatic bile duct. [HPO:probinson]"
+    },
+    {
+      "text": "subcutaneous fat",
+      "type": "T024",
+      "umls_id": "C0222331",
+      "score": 0.9752902984619141,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Adipose tissue located under the dermis. It binds underlying structures with the skin. The subcutis is important in the regulation of temperature of the skin itself and the body. The size of this layer varies throughout the body and from person to person."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "midline",
+      "type": "T082",
+      "umls_id": "C0549183",
+      "score": 0.9231401681900024,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A medial line, especially the medial line or medial plane of the body (or some part of the body)."
+    },
+    {
+      "text": "cause",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9771540760993958,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    }
+  ]
+}

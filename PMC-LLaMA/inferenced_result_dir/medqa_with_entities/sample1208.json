@@ -1,0 +1,75 @@
+{
+  "original_data": {
+    "question": "Which of the following patient presentations seen in a pediatric immunology clinic is most consistent with a diagnosis of Bruton's agammaglobulinemia?",
+    "options": {
+      "A": "A 15-month-old girl who has had repeated otitis media, pneumonia, and progressive clumsiness since beginning to walk in the past three months",
+      "B": "A 10-month-old boy who has had recurrent viral infections as well as hypocalcemia during neonatal period",
+      "C": "A 4-year-old girl who has had repeated oral candidasis in the past nine months",
+      "D": "A 9-month-old boy who has had recurrent otitis media and pneumococcal pneumonia in the past three months"
+    }
+  },
+  "model_response": "The clinical presentation of Bruton's agammaglobulinemia includes recurrent bacterial infections of the upper and lower respiratory tract, as well as increased susceptibility to viral infections. There is a failure to make an immune response to specific antigens, such as the pneumococcal polysaccharide. The other clinical scenarios described are not consistent with this diagnosis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "patient presentations",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.8073782324790955,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "pediatric immunology",
+      "type": "T091",
+      "umls_id": "C1690972",
+      "score": 0.9883537292480469,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": null
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "Bruton's agammaglobulinemia",
+      "type": "T047",
+      "umls_id": "C0221026",
+      "score": 0.9781644940376282,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "X-linked agammaglobulinemia. An immunodeficiency state characterized (usually) by profoundly low concentrations of serum immunoglobulins of all classes, although occasionally significant amounts of one or more isotypes can be found. The fundamental defect in XLA affects early lineage B cells."
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "original_data": {
+    "question": "A 55-year-old woman with no significant past medical history presents to her primary care doctor with fever, fatigue, and bleeding gums for the past 3 days. She denies any sick contacts. Her temperature is 101°F (38.3°C), blood pressure is 110/70 mmHg, pulse is 96/min, and respirations are 15/min. Physical exam reveals several oral mucosal petechiae, bleeding gums, bilateral submandibular lymphadenopathy, and hepatosplenomegaly. Initial laboratory workup shows the following:\n\nLeukocyte count and differential:\nLeukocyte count: 6,600/mm^3\nSegmented neutrophils: 60%\nBands: 20%\nEosinophils: 9%\nBasophils: 1%\nLymphocytes: 0%\nMonocytes: 10%\nPlatelet count: 99,000/mm^3\n\nHemoglobin: 8.1 g/dL\nHematocrit: 25%\n\nProthrombin time: 25 sec\nPartial thromboplastin time: 50 sec\nInternational normalized ratio: 1.6\nD-dimer: 2,000 µg/mL\nFibrinogen: 99 mg/dL\n\nA bone marrow biopsy demonstrates 34% myeloblasts with Auer rods that are myeloperoxidase positive. What is best treatment option?",
+    "options": {
+      "A": "Ascorbic acid",
+      "B": "Fresh frozen plasma",
+      "C": "Retinoic acid",
+      "D": "Zoledronic acid"
+    }
+  },
+  "model_response": "The correct answer is C (Retinoic acid). The patient's presentation is consistent with acute promyelocytic leukemia (APL) which is characterized by a gene rearrangement involving the retinoic acid receptor. The treatment of choice for APL is all-trans retinoic acid (ATRA).\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "no significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "primary care doctor",
+      "type": "T097",
+      "umls_id": "C2735026",
+      "score": 0.9863750338554382,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical professional who provides, coordinates, or helps a patient access a range of health care services. This is usually a medical doctor (MD), but may also be a Doctor of Osteopathic Medicine, nurse practitioner, clinical nurse specialist, or physician assistant, as allowed under state law."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "bleeding gums",
+      "type": "T046",
+      "umls_id": "C0017565",
+      "score": 0.9588984251022339,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The flowing of blood from the marginal gingival area, particularly the sulcus, seen in such conditions as GINGIVITIS, marginal PERIODONTITIS, injury, and ASCORBIC ACID DEFICIENCY."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "sick contacts",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "oral mucosal petechiae",
+      "type": "T023",
+      "umls_id": "C0026639",
+      "score": 0.7368344664573669,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Lining of the ORAL CAVITY, including mucosa on the GUMS; the PALATE; the LIP; the CHEEK; floor of the mouth; and other structures. The mucosa is generally a nonkeratinized stratified squamous EPITHELIUM covering muscle, bone, or glands but can show varying degree of keratinization at specific locations."
+    },
+    {
+      "text": "bleeding gums",
+      "type": "T046",
+      "umls_id": "C0017565",
+      "score": 0.9588984251022339,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The flowing of blood from the marginal gingival area, particularly the sulcus, seen in such conditions as GINGIVITIS, marginal PERIODONTITIS, injury, and ASCORBIC ACID DEFICIENCY."
+    },
+    {
+      "text": "bilateral submandibular lymphadenopathy",
+      "type": "T046",
+      "umls_id": "C1264056",
+      "score": 0.845411479473114,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Increased size of the lymph nodes that are located beneath the mandible (lower jaw). []"
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "type": "T184",
+      "umls_id": "C0019214",
+      "score": 0.9937257170677185,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal enlargement of both the liver and spleen."
+    },
+    {
+      "text": "laboratory workup",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.7789005637168884,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "Leukocyte count",
+      "type": "T059",
+      "umls_id": "C0023508",
+      "score": 0.9761701822280884,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of WHITE BLOOD CELLS per unit volume in venous BLOOD. A differential leukocyte count measures the relative numbers of the different types of white cells."
+    },
+    {
+      "text": "differential",
+      "type": "T080",
+      "umls_id": "C0443199",
+      "score": 0.971472978591919,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "6,600/mm^3\n",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Segmented",
+      "type": "T204",
+      "umls_id": "C0003096",
+      "score": 0.7587459683418274,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "A phylum of metazoan invertebrates comprising the segmented worms, and including marine annelids (POLYCHAETA), freshwater annelids, earthworms (OLIGOCHAETA), and LEECHES. Only the leeches are of medical interest. (Dorland, 27th ed)"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Bands",
+      "type": "T074",
+      "umls_id": "C0175723",
+      "score": 0.9705107808113098,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "device"
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Monocytes",
+      "type": "T025",
+      "umls_id": "C0026473",
+      "score": 0.9890480041503906,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Large, phagocytic mononuclear leukocytes produced in the vertebrate BONE MARROW and released into the BLOOD; contain a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles."
+    },
+    {
+      "text": "Hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "Hematocrit",
+      "type": "T059",
+      "umls_id": "C0018935",
+      "score": 0.9932670593261719,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value."
+    },
+    {
+      "text": "Prothrombin time",
+      "type": "T059",
+      "umls_id": "C0033707",
+      "score": 0.9805619120597839,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Clotting time of PLASMA recalcified in the presence of excess TISSUE THROMBOPLASTIN. Factors measured are FIBRINOGEN; PROTHROMBIN; FACTOR V; FACTOR VII; and FACTOR X. It is used for monitoring anticoagulant therapy with COUMARINS."
+    },
+    {
+      "text": "D-dimer",
+      "type": "T116",
+      "umls_id": "C0060323",
+      "score": 0.9543901085853577,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Fibrinogen",
+      "type": "T116",
+      "umls_id": "C0016006",
+      "score": 0.9869388341903687,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T123"
+      ],
+      "definition": "Plasma glycoprotein clotted by thrombin, composed of a dimer of three non-identical pairs of polypeptide chains (alpha, beta, gamma) held together by disulfide bonds. Fibrinogen clotting is a sol-gel change involving complex molecular arrangements: whereas fibrinogen is cleaved by thrombin to form polypeptides A and B, the proteolytic action of other enzymes yields different fibrinogen degradation products."
+    },
+    {
+      "text": "bone marrow biopsy",
+      "type": "T060",
+      "umls_id": "C0005954",
+      "score": 0.9757674336433411,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A biopsy involving the removal of a core tissue containing bone spicules and hematopoietic elements embedded in the marrow stroma. This procedure is done in the hip area mainly for the diagnosis and evaluation of neoplastic and non-neoplastic hematopoietic disorders (e.g. anemias, leukemias, lymphomas) and the evaluation of the spread of solid tumors (e.g. carcinomas, sarcomas) and lymphomas for therapeutic purposes."
+    },
+    {
+      "text": "myeloblasts",
+      "type": "T025",
+      "umls_id": "C0229633",
+      "score": 0.9862763285636902,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "An immature cell that represents the first stage in the granulocytic series of hematopoiesis. It is found in bone marrow and differentiates into a promyelocyte. Its nucleus is composed of very fine, evenly distributed chromatin with 2-5 nucleoli. The cytoplasm is basophilic and non-granular."
+    },
+    {
+      "text": "Auer rods",
+      "type": "T026",
+      "umls_id": "C4316798",
+      "score": 0.9608585834503174,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "Rod-shaped structures of uncertain nature in the cytoplasm of immature myeloid cells, especially myeloblasts, in acute myelocytic leukemia; may be an abnormal form of lysosomes; they contain peroxidase and acid phosphatase, and stain red by azure-eosin stains."
+    },
+    {
+      "text": "myeloperoxidase positive",
+      "type": "T034",
+      "umls_id": "C4725928",
+      "score": 0.9828816056251526,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "An indication that expression of MPO has been detected in a sample."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

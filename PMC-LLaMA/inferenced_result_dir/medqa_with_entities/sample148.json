@@ -1,0 +1,310 @@
+{
+  "original_data": {
+    "question": "A 65-year-old man presents to his primary care physician for a change in his behavior over the past few months. Initially, the patient was noted to be behaving inappropriately including using foul language and grabbing people unexpectedly. This has progressed to a worsening of his memory and trouble caring for himself. His temperature is 98.1°F (36.7°C), blood pressure is 162/103 mmHg, pulse is 83/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for an elderly man who laughs inappropriately at times and who is a poor historian. When he is engaged in conversation, he exhibits word finding difficulty and is rather inattentive. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Alzheimer dementia",
+      "B": "Frontotemporal dementia",
+      "C": "Kluver-Bucy syndrome",
+      "D": "Vascular dementia"
+    }
+  },
+  "model_response": "The most likely diagnosis is Kluver-Bucy syndrome. This is a syndrome that is characterized by inappropriate behavior, hypersexuality, hyper-oral tendencies, and memory loss. It is caused by bilateral lesions of the medial temporal lobes and is usually associated with traumatic brain injury. The other choices do not have the characteristic clinical features seen in this patient.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "behavior",
+      "type": "T053",
+      "umls_id": "C0004927",
+      "score": 0.9808380603790283,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "The observable response of a man or animal to a situation."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "inappropriately",
+      "type": "T080",
+      "umls_id": "C1548788",
+      "score": 0.8491087555885315,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not in keeping with what is correct or proper."
+    },
+    {
+      "text": "foul language",
+      "type": "T171",
+      "umls_id": "C0023008",
+      "score": 0.8000765442848206,
+      "semantic_types": [
+        "T171"
+      ],
+      "definition": "A verbal or nonverbal means of communicating ideas or feelings."
+    },
+    {
+      "text": "grabbing people",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "memory",
+      "type": "T041",
+      "umls_id": "C0025260",
+      "score": 0.9859048128128052,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Complex mental function having four distinct phases: (1) memorizing or learning, (2) retention, (3) recall, and (4) recognition. Clinically, it is usually subdivided into immediate, recent, and remote memory."
+    },
+    {
+      "text": "caring",
+      "type": "T055",
+      "umls_id": "C0150499",
+      "score": 0.9958973526954651,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": null
+    },
+    {
+      "text": "himself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "elderly man",
+      "type": "T100",
+      "umls_id": "C0524337",
+      "score": 0.9755951762199402,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "laughs",
+      "type": "T054",
+      "umls_id": "C0023133",
+      "score": 0.7243733406066895,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "An involuntary expression of merriment and pleasure; it includes the patterned motor responses as well as the inarticulate vocalization."
+    },
+    {
+      "text": "inappropriately",
+      "type": "T080",
+      "umls_id": "C1548788",
+      "score": 0.8491087555885315,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not in keeping with what is correct or proper."
+    },
+    {
+      "text": "times",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9879130721092224,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "historian",
+      "type": "T097",
+      "umls_id": "C0335115",
+      "score": 0.9957016110420227,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "conversation",
+      "type": "T054",
+      "umls_id": "C0871703",
+      "score": 0.9522320032119751,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "word finding",
+      "type": "T033",
+      "umls_id": "C0564225",
+      "score": 0.9785023927688599,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "inattentive",
+      "type": "T048",
+      "umls_id": "C0424101",
+      "score": 0.9775131344795227,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

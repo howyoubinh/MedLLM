@@ -1,0 +1,481 @@
+{
+  "original_data": {
+    "question": "A 31-year-old man with a history of schizophrenia is brought to the emergency department by police after being found agitated and attempting to steal from a grocery store. His past medical history is only notable for a recent office note from his primary care doctor for treatment of seasonal allergies. His temperature is 101°F (38.3°C), blood pressure is 173/97 mmHg, pulse is 105/min, respirations are 16/min, and oxygen saturation is 98% on room air. Physical exam is notable for a man who is very irritable and restless. He is not cooperative with exam or history and becomes combative requiring intramuscular medications and security restraining him. After this event, the rest of his exam is notable for 7 mm pupils which are equal and reactive to light, spontaneous movement of all limbs, normal sensation, and warm and sweaty skin. The patient is answering questions and states he wants to kill himself. Which of the following substances was most likely used by this patient?",
+    "options": {
+      "A": "Alcohol",
+      "B": "Cocaine",
+      "C": "Diphenhydramine",
+      "D": "Haloperidol"
+    }
+  },
+  "model_response": "This patient's symptoms are most consistent with an anticholinergic toxidrome. His agitation, delirium, and autonomic instability are classic features of this toxidrome. The mydriasis is also consistent with this diagnosis. The differential diagnosis includes intoxications with atropine, scopolamine, and diphenhydramine. The most likely substance in this case is diphenhydramine due to the recent office note. The other substances listed are not typically associated with these symptoms.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "schizophrenia",
+      "type": "T048",
+      "umls_id": "C0036341",
+      "score": 0.9816023111343384,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "police",
+      "type": "T097",
+      "umls_id": "C0085098",
+      "score": 0.9958091974258423,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Agents of the law charged with the responsibility of maintaining and enforcing law and order among the citizenry."
+    },
+    {
+      "text": "steal",
+      "type": "T055",
+      "umls_id": "C0039751",
+      "score": 0.9615797996520996,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Unlawful act of taking property."
+    },
+    {
+      "text": "grocery store",
+      "type": "T073",
+      "umls_id": "C0557778",
+      "score": 0.994798481464386,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Self-service retail markets selling groceries, fresh produce, meats and other foods."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "primary care doctor",
+      "type": "T097",
+      "umls_id": "C2735026",
+      "score": 0.9863750338554382,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical professional who provides, coordinates, or helps a patient access a range of health care services. This is usually a medical doctor (MD), but may also be a Doctor of Osteopathic Medicine, nurse practitioner, clinical nurse specialist, or physician assistant, as allowed under state law."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "seasonal allergies",
+      "type": "T047",
+      "umls_id": "C0018621",
+      "score": 0.9719552993774414,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Allergic rhinitis caused by outdoor allergens."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "restless",
+      "type": "T184",
+      "umls_id": "C0085631",
+      "score": 0.9626700282096863,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of restlessness associated with unpleasant feelings of irritability and tension. Causes include pain, stress, fever, alcohol and nicotine withdrawal, cocaine and hallucinogenic drugs use, depression, bipolar disorders, and schizophrenia."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "combative",
+      "type": "T048",
+      "umls_id": "C0241845",
+      "score": 0.9707460999488831,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intramuscular",
+      "type": "T082",
+      "umls_id": "C0442117",
+      "score": 0.980245053768158,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "security",
+      "type": "T077",
+      "umls_id": "C1519222",
+      "score": 0.9915784001350403,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Services provided to prevent, deter, detect and/or document crime, fire, disorder or violations of company rules."
+    },
+    {
+      "text": "restraining",
+      "type": "T039",
+      "umls_id": "C0442694",
+      "score": 0.8016325831413269,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of making a very hard effort, possibly at one's limit."
+    },
+    {
+      "text": "event",
+      "type": "T051",
+      "umls_id": "C0441471",
+      "score": 0.9657253623008728,
+      "semantic_types": [
+        "T051"
+      ],
+      "definition": "Something that happens at a given place and time."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "limbs",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9794425964355469,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "normal sensation",
+      "type": "T033",
+      "umls_id": "C0576709",
+      "score": 0.9575766921043396,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "warm",
+      "type": "T033",
+      "umls_id": "C0582051",
+      "score": 0.995954692363739,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sweaty skin",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "questions",
+      "type": "T170",
+      "umls_id": "C1522634",
+      "score": 0.8235301375389099,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine)."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "wants",
+      "type": "T204",
+      "umls_id": "C0003455",
+      "score": 0.7134813070297241,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "Insects of the family Formicidae, very common and widespread, probably the most successful of all the insect groups. All ants are social insects, and most colonies contain three castes, queens, males, and workers. Their habits are often very elaborate and a great many studies have been made of ant behavior. Ants produce a number of secretions that function in offense, defense, and communication. (From Borror, et al., An Introduction to the Study of Insects, 4th ed, p676)"
+    },
+    {
+      "text": "kill",
+      "type": "T054",
+      "umls_id": "C0162388",
+      "score": 0.9759586453437805,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "himself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "substances",
+      "type": "T167",
+      "umls_id": "C0439861",
+      "score": 0.9935278296470642,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "31-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

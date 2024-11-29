@@ -1,0 +1,408 @@
+{
+  "original_data": {
+    "question": "An 18-month-old boy is brought to his pediatrician because his mother is concerned about his walking. The boy was born at 37 weeks’ gestation and spent 1 night in the neonatal intensive care unit for respiratory distress. He otherwise has been healthy and started walking independently at 12 months. However, his mother reports that he has stopped walking and appears weaker than he was a few months ago. He also has started having brief convulsive episodes over the past week. His parents are both healthy with no medical conditions. On exam, the child demonstrates muscle rigidity and diffuse muscle wasting. He is unable to stand or sit up straight. His patellar, Achilles, and brachioradialis reflexes are absent. Fundoscopic examination is unremarkable. A urine sample demonstrates metachromic granules. This patient’s condition is caused by a defect in which of the following enzymes?",
+    "options": {
+      "A": "Alpha-galactosidase A",
+      "B": "Arylsulfatase A",
+      "C": "Beta-galactocerebrosidase",
+      "D": "Hexosaminidase A"
+    }
+  },
+  "model_response": "The patient’s symptoms are consistent with a diagnosis of Krabbe disease, which is caused by a deficiency of beta-galactocerebrosidase. The disorder is inherited in an autosomal recessive manner. The abnormal accumulation of galactocerebroside in the central and peripheral nervous systems leads to demyelination. The globoid cells found in the white matter of the brain are macrophages that contain undigested galactocerebroside. The other enzyme deficiencies listed are not associated with Krabbe disease.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "neonatal",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9764891862869263,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "respiratory distress",
+      "type": "T184",
+      "umls_id": "C0476273",
+      "score": 0.9905274510383606,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A pathological increase in the effort and frequency of breathing movements."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "appears weaker",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "convulsive",
+      "type": "T169",
+      "umls_id": "C0234531",
+      "score": 0.9580947160720825,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "medical conditions",
+      "type": "T033",
+      "umls_id": "C4745084",
+      "score": 0.898857057094574,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Any kind of illness or circumstance which requires medical monitoring."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "muscle rigidity",
+      "type": "T184",
+      "umls_id": "C0026837",
+      "score": 0.9829567074775696,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Continuous involuntary sustained muscle contraction which is often a manifestation of BASAL GANGLIA DISEASES. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from MUSCLE SPASTICITY. (From Adams et al., Principles of Neurology, 6th ed, p73)"
+    },
+    {
+      "text": "diffuse muscle",
+      "type": "T047",
+      "umls_id": "C1389113",
+      "score": 0.8183676600456238,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Generalized (diffuse, unlocalized) amyotrophy (muscle atrophy) affecting multiple muscles. [HPO:probinson]"
+    },
+    {
+      "text": "stand",
+      "type": "T033",
+      "umls_id": "C0596013",
+      "score": 0.9981156587600708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sit up straight",
+      "type": "T054",
+      "umls_id": "C0019421",
+      "score": 0.7404518723487854,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The sexual attraction or relationship between members of the opposite SEX."
+    },
+    {
+      "text": "His patellar",
+      "type": "T023",
+      "umls_id": "C0030647",
+      "score": 0.8464983105659485,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The flat, triangular bone situated at the anterior part of the KNEE."
+    },
+    {
+      "text": "Achilles",
+      "type": "T023",
+      "umls_id": "C0001074",
+      "score": 0.9934661984443665,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Tendon that connects the muscles in the back of the calf to the HEEL BONE."
+    },
+    {
+      "text": "brachioradialis reflexes",
+      "type": "T023",
+      "umls_id": "C0224264",
+      "score": 0.8020032048225403,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscle that originates from the proximal two-thirds of the lateral supracondylar ridge of the humerus and inserts into the styloid process of the radius; it enables flexion of the elbow and assists with pronation and supination of the forearm."
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "Fundoscopic examination",
+      "type": "T060",
+      "umls_id": "C0014245",
+      "score": 0.865857720375061,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures of applying ENDOSCOPES for disease diagnosis and treatment. Endoscopy involves passing an optical instrument through a small incision in the skin i.e., percutaneous; or through a natural orifice and along natural body pathways such as the digestive tract; and/or through an incision in the wall of a tubular structure or organ, i.e. transluminal, to examine or perform surgery on the interior parts of the body."
+    },
+    {
+      "text": "urine sample",
+      "type": "T031",
+      "umls_id": "C1610733",
+      "score": 0.9810126423835754,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "metachromic granules",
+      "type": "T026",
+      "umls_id": "C4082187",
+      "score": 0.786946177482605,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "An electron-dense acidic membrane-bounded organelle which contains a matrix of pyrophosphate and polyphosphates with bound calcium and other cations. [GOC:mb]"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "’s condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "defect",
+      "type": "T169",
+      "umls_id": "C1457869",
+      "score": 0.9808286428451538,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A failing or deficiency."
+    },
+    {
+      "text": "enzymes",
+      "type": "T116",
+      "umls_id": "C0014442",
+      "score": 0.9777827262878418,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Biological molecules that possess catalytic activity. They may occur naturally or be synthetically created. Enzymes are usually proteins, however CATALYTIC RNA and CATALYTIC DNA molecules have also been identified."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "original_data": {
+    "question": "A 34-year-old woman is assaulted and suffers a number of stab wounds to her abdomen. Bystanders call paramedics and she is subsequently taken to the nearest hospital. On arrival to the emergency department, her vitals are T: 36 deg C, HR: 110 bpm, BP: 100/60, RR: 12, SaO2: 99%. A FAST and abdominal CT are promptly obtained which are demonstrated in Figures A and B, respectively. Her chart demonstrates no other medical problems and vaccinations/boosters up to date. The patient is diagnosed with a Grade V splenic laceration and is immediately brought to the OR for emergent splenectomy. The splenectomy is successfully performed with removal of the damaged spleen (Figure C). Following the operation, the patient should receive which of the following vaccines: (I) H. influenzae (II) Tetanus (III) N. meningitidis (IV) S. pneumoniae (V) Hepatitis B",
+    "options": {
+      "A": "I, II",
+      "B": "I, III, IV",
+      "C": "I, V",
+      "D": "III, IV"
+    }
+  },
+  "model_response": "The patient should receive all of the vaccines listed in the answer choices. The patient should receive vaccination against H. influenzae, Tetanus, N. meningitidis, S. pneumoniae, and Hepatitis B. Haemophilus influenzae type b (Hib) conjugate vaccine is indicated for all patients aged 2 months and older. Tetanus immunoglobulin (TIG) should be given to unimmunized or incompletely immunized patients with wounds that are contaminated or grossly infected. The polyvalent vaccine against Neisseria meningitidis (serogroups A, C, Y, and W-135) is indicated for patients 1 to 29 years of age who are at increased risk of meningococcal disease. Pneumococcal conjugate vaccine (PCV) is indicated for all children younger than 2 years of age, as well as for adults 65 years or older and for patients 2 years of age or older at increased risk of pneumococcal disease. Hepatitis B vaccine is indicated for all infants as well as for children and adults 2 years of age or older at increased risk of hepatitis B disease.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "assaulted",
+      "type": "T037",
+      "umls_id": "C0004063",
+      "score": 0.7349611520767212,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A physical attack."
+    },
+    {
+      "text": "suffers",
+      "type": "T048",
+      "umls_id": "C0683278",
+      "score": 0.9672549962997437,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "State of severe distress associated with events that threaten the intactness of the person, can be physical, mental, or emotional."
+    },
+    {
+      "text": "stab wounds",
+      "type": "T037",
+      "umls_id": "C0043255",
+      "score": 0.9830124974250793,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Penetrating wounds caused by a pointed object."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "Bystanders",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "paramedics",
+      "type": "T097",
+      "umls_id": "C0030450",
+      "score": 0.9784836769104004,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "An individual trained and certified to provide all basic and intermediate life support measures in addition to using invasive medical procedures (including intravenous therapy, cardiac defibrillation, administering medications and solutions, and using ventilation devices) as dictated by state law and performed under medical control in case of medical emergencies, hazardous materials exposure, child birth, abuse, fires, flood, accidents, trauma, and psychiatric crises."
+    },
+    {
+      "text": "nearest hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.7176408171653748,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "T",
+      "type": "T023",
+      "umls_id": "C0227099",
+      "score": 1.0,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "<p>Deciduous mandibular right second molar tooth; Universal designation T; ISO designation 85</p>"
+    },
+    {
+      "text": "deg C",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "HR",
+      "type": "T033",
+      "umls_id": "C0332167",
+      "score": 0.9999390244483948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bpm",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "BP",
+      "type": "T058",
+      "umls_id": "C0005824",
+      "score": 0.9979794025421143,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Techniques used for measuring BLOOD PRESSURE."
+    },
+    {
+      "text": "RR",
+      "type": "T033",
+      "umls_id": "C4554402",
+      "score": 0.999627947807312,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "SaO2",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "FAST",
+      "type": "T033",
+      "umls_id": "C0015663",
+      "score": 0.9840474724769592,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abstaining from FOOD."
+    },
+    {
+      "text": "abdominal CT",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.8761495351791382,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "Figures A",
+      "type": "T016",
+      "umls_id": "C0242821",
+      "score": 0.7350470423698425,
+      "semantic_types": [
+        "T016"
+      ],
+      "definition": "The human being as a non-anatomical and non-zoological entity. The emphasis is on the philosophical or artistic treatment of the human being, and includes lay and social attitudes toward the body in history. (From J. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "B",
+      "type": "T023",
+      "umls_id": "C0227088",
+      "score": 1.0,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "<p>Deciduous maxillary right first molar tooth; Universal designation B; ISO designation 54</p>"
+    },
+    {
+      "text": "medical problems",
+      "type": "T033",
+      "umls_id": "C1254481",
+      "score": 0.8567705750465393,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An issue is based on the patient."
+    },
+    {
+      "text": "vaccinations/boosters",
+      "type": "T061",
+      "umls_id": "C0020975",
+      "score": 0.7639898657798767,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Any immunization following a primary immunization and involving exposure to the same or a closely related antigen."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "Grade V",
+      "type": "T185",
+      "umls_id": "C0441804",
+      "score": 0.9706920981407166,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "Too breathless to leave the house, or breathless when undressing"
+    },
+    {
+      "text": "splenic laceration",
+      "type": "T037",
+      "umls_id": "C0043246",
+      "score": 0.7535881400108337,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Torn, ragged, mangled wounds."
+    },
+    {
+      "text": "OR",
+      "type": "T083",
+      "umls_id": "C0029195",
+      "score": 0.9995278120040894,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Washington, on the east by Idaho, on the south by California and Nevada, and on the west by the Pacific Ocean."
+    },
+    {
+      "text": "emergent",
+      "type": "T078",
+      "umls_id": "C0750573",
+      "score": 0.9770050048828125,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "splenectomy",
+      "type": "T061",
+      "umls_id": "C0037995",
+      "score": 0.9791388511657715,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical procedure involving either partial or entire removal of the spleen."
+    },
+    {
+      "text": "splenectomy",
+      "type": "T061",
+      "umls_id": "C0037995",
+      "score": 0.9791388511657715,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical procedure involving either partial or entire removal of the spleen."
+    },
+    {
+      "text": "removal",
+      "type": "T061",
+      "umls_id": "C0015252",
+      "score": 0.9724442362785339,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The surgical removal of an organ or a part of an organ."
+    },
+    {
+      "text": "damaged spleen",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Figure C",
+      "type": "T016",
+      "umls_id": "C0242821",
+      "score": 0.7307867407798767,
+      "semantic_types": [
+        "T016"
+      ],
+      "definition": "The human being as a non-anatomical and non-zoological entity. The emphasis is on the philosophical or artistic treatment of the human being, and includes lay and social attitudes toward the body in history. (From J. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "operation",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9866542220115662,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "vaccines",
+      "type": "T116",
+      "umls_id": "C0042210",
+      "score": 0.9808231592178345,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa), antigenic proteins, synthetic constructs, or other bio-molecular derivatives, administered for the prevention, amelioration, or treatment of infectious and other diseases."
+    },
+    {
+      "text": "S. pneumoniae",
+      "type": "T007",
+      "umls_id": "C0038410",
+      "score": 0.9740576148033142,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A gram-positive organism found in the upper respiratory tract, inflammatory exudates, and various body fluids of normal and/or diseased humans and, rarely, domestic animals."
+    },
+    {
+      "text": "Hepatitis B",
+      "type": "T047",
+      "umls_id": "C0019163",
+      "score": 0.9801429510116577,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "INFLAMMATION of the LIVER in humans caused by a member of the ORTHOHEPADNAVIRUS genus, HEPATITIS B VIRUS. It is primarily transmitted by parenteral exposure, such as transfusion of contaminated blood or blood products, but can also be transmitted via sexual or intimate personal contact."
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

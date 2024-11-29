@@ -1,0 +1,484 @@
+{
+  "original_data": {
+    "question": "A 56-year-old woman presents to a physician with severe pain and swelling of the left inguinal area for 3 days. She has a fever and malaise. Last week she noted several painless red papules on her left thigh when she was on a summer trip to Madagascar. She has no history of serious illnesses and is on no medications. There has been no recent contact with any animals or pets. The temperature is 38.6℃ (101.5℉), the pulse is 78/min, the respiration rate is 12/min, and the blood pressure is 110/65 mm Hg. Swelling of the left inguinal area was noted; however, there were no skin changes. Several large, tense, and tender lymph nodes with a boggy consistency were palpated in the inguinal region. The right inguinal area is normal on physical exam. There was no lymphadenopathy in other areas. No abnormalities existed in the lungs, heart, and abdomen. Microscopic examination of pus from the inguinal lymph nodes revealed gram-negative Coccobacilli. Serum anti-F1 titers show a 4-fold rise. Which of the following is the most appropriate pharmacotherapy at this time?",
+    "options": {
+      "A": "Azithromycin",
+      "B": "Imipenem",
+      "C": "Streptomycin",
+      "D": "No pharmacotherapy"
+    }
+  },
+  "model_response": "The clinical picture is suggestive of bubonic plague caused by Yersinia pestis. The woman most likely acquired the infection while on her trip to Madagascar, where plague is endemic. The anti-F1 titers indicate prior exposure to Yersinia pestis. The drug of choice for treatment of plague is streptomycin. Alternative drugs include gentamicin, tetracycline, and chloramphenicol. Imipenem is a broad-spectrum β-lactam antibiotic that is effective against Yersinia pestis. Azithromycin is an alternative drug for the treatment of plague.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "left inguinal area",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "painless",
+      "type": "T169",
+      "umls_id": "C0234226",
+      "score": 0.9535903930664062,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not causing physical or psychological misery, pain or distress."
+    },
+    {
+      "text": "summer",
+      "type": "T079",
+      "umls_id": "C0241301",
+      "score": 0.952972412109375,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The season between the summer solstice and the autumnal equinox."
+    },
+    {
+      "text": "Madagascar",
+      "type": "T083",
+      "umls_id": "C0024443",
+      "score": 0.9768815636634827,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "One of the Indian Ocean Islands off the southeast coast of Africa. Its capital is Antananarivo. It was formerly called the Malagasy Republic. Discovered by the Portuguese in 1500, its history has been tied predominantly to the French, becoming a French protectorate in 1882, a French colony in 1896, and a territory within the French union in 1946. The Malagasy Republic was established in the French Community in 1958 but it achieved independence in 1960. Its name was changed to Madagascar in 1975. (From Webster's New Geographical Dictionary, 1988, p714)"
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illnesses",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9646346569061279,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "contact with",
+      "type": "T169",
+      "umls_id": "C0332158",
+      "score": 0.9908549189567566,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "animals",
+      "type": "T008",
+      "umls_id": "C0003062",
+      "score": 0.973741888999939,
+      "semantic_types": [
+        "T008"
+      ],
+      "definition": "Unicellular or multicellular, heterotrophic organisms, that have sensation and the power of voluntary movement. Under the older five kingdom paradigm, Animalia was one of the kingdoms. Under the modern three domain model, Animalia represents one of the many groups in the domain EUKARYOTA."
+    },
+    {
+      "text": "pets",
+      "type": "T008",
+      "umls_id": "C0031268",
+      "score": 0.97292560338974,
+      "semantic_types": [
+        "T008"
+      ],
+      "definition": "Animals kept by humans for companionship and enjoyment, as opposed to DOMESTIC ANIMALS such as livestock or farm animals, which are kept for economic reasons."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiration",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9668400883674622,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "left inguinal area",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "skin changes",
+      "type": "T170",
+      "umls_id": "C4084930",
+      "score": 0.8250342011451721,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual has or had noticed changes in their skin."
+    },
+    {
+      "text": "tense",
+      "type": "T048",
+      "umls_id": "C0233494",
+      "score": 0.9933909773826599,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A feeling of mental or emotional strain or suspense."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "lymph nodes",
+      "type": "T023",
+      "umls_id": "C0024204",
+      "score": 0.9857650399208069,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "They are oval or bean shaped bodies (1 - 30 mm in diameter) located along the lymphatic system."
+    },
+    {
+      "text": "boggy consistency",
+      "type": "T080",
+      "umls_id": "C0332529",
+      "score": 0.8184994459152222,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A description about the firmness, uniformity or make-up of an entity."
+    },
+    {
+      "text": "inguinal region",
+      "type": "T029",
+      "umls_id": "C0018246",
+      "score": 0.9563561081886292,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The external junctural region between the lower part of the abdomen and the thigh."
+    },
+    {
+      "text": "right inguinal area",
+      "type": "T029",
+      "umls_id": "C0230318",
+      "score": 0.7123182415962219,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The lower right zone of the abdomen containing parts of the small intestine, appendix, cecum, ascending colon, and the right ovary and fallopian tube in females."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "No abnormalities",
+      "type": "T033",
+      "umls_id": "C3809765",
+      "score": 0.9869627356529236,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "existed",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "heart",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9954424500465393,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "Microscopic examination",
+      "type": "T059",
+      "umls_id": "C0026018",
+      "score": 0.9787111282348633,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The use of instrumentation and techniques for visualizing material and details that cannot be seen by the unaided eye. It is usually done by enlarging images, transmitted by light or electron beams, with optical or magnetic lenses that magnify the entire image field. With scanning microscopy, images are generated by collecting output from the specimen in a point-by-point fashion, on a magnified scale, as it is scanned by a narrow beam of light or electrons, a laser, a conductive probe, or a topographical probe."
+    },
+    {
+      "text": "pus",
+      "type": "T031",
+      "umls_id": "C0034161",
+      "score": 0.9614027142524719,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A yellowish substance produced during bacterial inflammation. It contains necrotic cells and cells fighting the infection."
+    },
+    {
+      "text": "inguinal",
+      "type": "T029",
+      "umls_id": "C0018246",
+      "score": 0.95149827003479,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The external junctural region between the lower part of the abdomen and the thigh."
+    },
+    {
+      "text": "lymph nodes",
+      "type": "T023",
+      "umls_id": "C0024204",
+      "score": 0.9857650399208069,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "They are oval or bean shaped bodies (1 - 30 mm in diameter) located along the lymphatic system."
+    },
+    {
+      "text": "gram-negative Coccobacilli",
+      "type": "T007",
+      "umls_id": "C0314756",
+      "score": 0.8882136940956116,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "Any bacteria with a shape between that of a sphere and a rod that contains low levels of peptidoglycan in its cell wall and stains pink with the Gram staining technique."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "titers",
+      "type": "T081",
+      "umls_id": "C0475208",
+      "score": 0.7500576376914978,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Concentration of a substance in a solution as determined by the quantitative reaction with added measured volume(s) of a solution of the precisely known concentration(s) of a standard reagent."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "56-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

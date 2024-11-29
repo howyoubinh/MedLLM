@@ -1,0 +1,586 @@
+{
+  "original_data": {
+    "question": "A 22-year-old man presents to a psychiatrist complaining of mood fluctuations. He is accompanied by his mother who reports that the patient recently experienced a 5-day episode of minimal sleep and unusual levels of energy. The patient admits to spending $2,000 of his parent’s money, without asking, on a down payment for a motorcycle. The episode resolved after 5 days, at which point the patient felt guilty and upset. The patient’s medical history is notable for multiple month-long episodes in the past 2 years of feeling sad, sleeping more than usual, being uninterested in his hobbies, and feeling constantly tired and guilty. The patient has a history of severe meningoencephalitis at the age of 17 requiring four days in the intensive care unit. During that episode, he reported seeing monkeys in his hospital room. On exam, he is a well-appearing, cooperative male in no acute distress. He is alert and oriented with a normal affect. He states that he feels sad and guilty about what happens. He denies suicidal ideation. Which of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Bipolar II disorder",
+      "B": "Cyclothymic disorder",
+      "C": "Persistent depressive disorder",
+      "D": "Schizoaffective disorder"
+    }
+  },
+  "model_response": "This patient’s history is suggestive of cyclothymic disorder. The history of meningoencephalitis is noteworthy, as it may have contributed to the development of the mood disorder. The DSM-5 diagnostic criteria for cyclothymic disorder include numerous periods of both hypomanic and depressive symptoms that do not meet criteria for a major depressive episode, hypomanic episode, or manic episode, and that must have a duration of at least two years. The symptoms are not severe enough to meet full diagnostic criteria for a hypomanic episode or a major depressive episode. The patient’s history of feeling guilty and sad, as well as his spendthrift episode, are consistent with a hypomanic episode. The history of meningoencephalitis is noteworthy, as it may have contributed to the development of the mood disorder.\n\nBipolar II disorder is characterized by episodes of major depression and hypomania. The patient’s history does not include sufficient episodes of hypomania to meet criteria for Bipolar II disorder.\n\nPersistent depressive disorder (dysthymia) is characterized by a depressed mood that lasts for at least two years in adults. The patient’s history does not include sufficient periods of elevated mood to meet criteria for this diagnosis.\n\nSchizoaffective disorder is characterized by a combination of psychotic symptoms (delusions, hallucinations) and mood episodes. The patient’s history does not include psychotic symptoms that meet criteria for schizoaffective disorder.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "psychiatrist",
+      "type": "T097",
+      "umls_id": "C0033872",
+      "score": 0.9898248314857483,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "physician who specializes in the diagnosis and treatment of mental disorders using physical, chemical or psychological methods; includes those psychiatrists who work in mental hospitals, clinics, and private practice, as well as public mental health and research."
+    },
+    {
+      "text": "mood fluctuations",
+      "type": "T079",
+      "umls_id": "C0231241",
+      "score": 0.748363196849823,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "To be unstable, having ups and downs."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "minimal",
+      "type": "T080",
+      "umls_id": "C0547040",
+      "score": 0.9675829410552979,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<b>Description:</b>Provides more than identified, but not as much as universal. There are not expected to be many of these."
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "levels",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882259964942932,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "energy",
+      "type": "T033",
+      "umls_id": "C0424589",
+      "score": 0.984068751335144,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "spending",
+      "type": "T081",
+      "umls_id": "C0680968",
+      "score": 0.985158383846283,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "parent",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9846472144126892,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "’s money",
+      "type": "T073",
+      "umls_id": "C0870909",
+      "score": 0.9727538228034973,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "The official currency issued by a government or national bank."
+    },
+    {
+      "text": "asking",
+      "type": "T062",
+      "umls_id": "C0150108",
+      "score": 0.7605965733528137,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A characteristic of experiment design in which one or more groups involved (receiving, administering, or evaluating intervention) are unaware of which intervention any particular subject is receiving."
+    },
+    {
+      "text": "motorcycle",
+      "type": "T073",
+      "umls_id": "C0026616",
+      "score": 0.9661967158317566,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Two-wheeled, engine-driven vehicles."
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "guilty",
+      "type": "T041",
+      "umls_id": "C0018379",
+      "score": 0.9859310984611511,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Subjective feeling of having committed an error, offense or sin; unpleasant feeling of self-criticism. These result from acts, impulses, or thoughts contrary to one's personal conscience."
+    },
+    {
+      "text": "upset",
+      "type": "T041",
+      "umls_id": "C3887804",
+      "score": 0.971189558506012,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A feeling of worry and unhappiness."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "month-long episodes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "sad",
+      "type": "T048",
+      "umls_id": "C0085159",
+      "score": 0.968853771686554,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A syndrome characterized by depressions that recur annually at the same time each year, usually during the winter months. Other symptoms include anxiety, irritability, decreased energy, increased appetite (carbohydrate cravings), increased duration of sleep, and weight gain. SAD (seasonal affective disorder) can be treated by daily exposure to bright artificial lights (PHOTOTHERAPY), during the season of recurrence."
+    },
+    {
+      "text": "uninterested",
+      "type": "T041",
+      "umls_id": "C0543488",
+      "score": 0.832405686378479,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of curiosity or concern about or attention to something."
+    },
+    {
+      "text": "hobbies",
+      "type": "T056",
+      "umls_id": "C0019826",
+      "score": 0.9592575430870056,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Leisure activities engaged in for pleasure."
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "guilty",
+      "type": "T041",
+      "umls_id": "C0018379",
+      "score": 0.9859310984611511,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Subjective feeling of having committed an error, offense or sin; unpleasant feeling of self-criticism. These result from acts, impulses, or thoughts contrary to one's personal conscience."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "meningoencephalitis",
+      "type": "T047",
+      "umls_id": "C0025309",
+      "score": 0.9643715023994446,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An inflammatory process involving the brain (ENCEPHALITIS) and meninges (MENINGITIS), most often produced by pathogenic organisms which invade the central nervous system, and occasionally by toxins, autoimmune disorders, and other conditions."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "seeing monkeys",
+      "type": "T015",
+      "umls_id": "C0026447",
+      "score": 0.7084859013557434,
+      "semantic_types": [
+        "T015"
+      ],
+      "definition": "Any haplorhine primate not belonging to the family Tarsiidae, Hylobatidae, Pongidae, or Hominidae; this does not correspond to any taxon. This group is divided into Old World monkeys (Cercopithecidae) and New World monkeys (Callitrichidae and Cebidae). Many types are used as an experimental model for human disease and drug testing."
+    },
+    {
+      "text": "hospital room",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.8023467659950256,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "well-appearing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cooperative",
+      "type": "T079",
+      "umls_id": "C1882154",
+      "score": 0.7873753905296326,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring during or associated with a surgical procedure."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "acute distress",
+      "type": "T041",
+      "umls_id": "C0231303",
+      "score": 0.7816057205200195,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of physiological or psychological stress that cannot be compensated for by normal adaptive measures."
+    },
+    {
+      "text": "oriented",
+      "type": "T082",
+      "umls_id": "C1704322",
+      "score": 0.9877923130989075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Position or alignment relative to points of the compass or other specific directions."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "sad",
+      "type": "T048",
+      "umls_id": "C0085159",
+      "score": 0.968853771686554,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A syndrome characterized by depressions that recur annually at the same time each year, usually during the winter months. Other symptoms include anxiety, irritability, decreased energy, increased appetite (carbohydrate cravings), increased duration of sleep, and weight gain. SAD (seasonal affective disorder) can be treated by daily exposure to bright artificial lights (PHOTOTHERAPY), during the season of recurrence."
+    },
+    {
+      "text": "guilty",
+      "type": "T041",
+      "umls_id": "C0018379",
+      "score": 0.9859310984611511,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Subjective feeling of having committed an error, offense or sin; unpleasant feeling of self-criticism. These result from acts, impulses, or thoughts contrary to one's personal conscience."
+    },
+    {
+      "text": "happens",
+      "type": "T052",
+      "umls_id": "C1709305",
+      "score": 0.7885767817497253,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Come to pass."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "suicidal",
+      "type": "T033",
+      "umls_id": "C0424000",
+      "score": 0.7699427604675293,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Thoughts of taking one's own life."
+    },
+    {
+      "text": "ideation",
+      "type": "T041",
+      "umls_id": "C0392348",
+      "score": 0.9588123559951782,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "22-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

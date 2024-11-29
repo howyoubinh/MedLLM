@@ -1,0 +1,356 @@
+{
+  "original_data": {
+    "question": "A group of researchers decided to explore whether the estimates of incidence and prevalence rates of systemic lupus erythematosus (SLE) were influenced by the number of years it took to examine administrative data. These estimates were not only based on hospital discharges, but also on physician billing codes. For study purposes, the researchers labeled incident cases at the initial occurrence of SLE diagnosis in the hospital database, while prevalent cases were those that were coded as harboring SLE at any time, with patients maintaining their diagnosis until death. Which statement is true regarding the relationship between incidence and prevalence rates during the time period that might be chosen for this specific study?",
+    "options": {
+      "A": "Incidence rates will be higher during shorter time periods than longer periods.",
+      "B": "The prevalence of SLE during consecutively shorter time windows will be overestimated.",
+      "C": "The inclusion of attack rates would increase incidence estimates in longer time periods.",
+      "D": "The inclusion of attack rates would decrease incidence estimates in shorter time periods."
+    }
+  },
+  "model_response": "The incidence of SLE is higher during shorter time periods because there is less time for patients to be lost to follow-up. The prevalence of SLE during consecutively shorter time windows will be overestimated because patients do not remain in the population after their diagnosis. The inclusion of attack rates would increase incidence estimates in longer time periods because there would be more cases to choose from. The inclusion of attack rates would decrease incidence estimates in shorter time periods because there would be fewer cases to choose from.</s><s>",
+  "question_entities": [
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "researchers",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9888705015182495,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "estimates",
+      "type": "T081",
+      "umls_id": "C0750572",
+      "score": 0.9890454411506653,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "To calculate approximately."
+    },
+    {
+      "text": "incidence",
+      "type": "T081",
+      "umls_id": "C0021149",
+      "score": 0.980124831199646,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The number of new cases of a given disease during a given period in a specified population. It also is used for the rate at which new events occur in a defined population. It is differentiated from PREVALENCE, which refers to all cases in the population at a given time."
+    },
+    {
+      "text": "prevalence",
+      "type": "T081",
+      "umls_id": "C0033105",
+      "score": 0.9838968515396118,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The total number of cases of a given disease in a specified population at a designated time. It is differentiated from INCIDENCE, which refers to the number of new cases in the population at a given time."
+    },
+    {
+      "text": "rates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "systemic lupus erythematosus",
+      "type": "T047",
+      "umls_id": "C0024141",
+      "score": 0.9638178944587708,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow."
+    },
+    {
+      "text": "SLE",
+      "type": "T047",
+      "umls_id": "C0014060",
+      "score": 0.9721382856369019,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A viral encephalitis caused by the St. Louis encephalitis virus (ENCEPHALITIS VIRUS, ST. LOUIS), a FLAVIVIRUS. It is transmitted to humans and other vertebrates primarily by mosquitoes of the genus CULEX. The primary animal vectors are wild birds and the disorder is endemic to the midwestern and southeastern United States. Infections may be limited to an influenza-like illness or present as an ASEPTIC MENINGITIS or ENCEPHALITIS. Clinical manifestations of the encephalitic presentation may include SEIZURES, lethargy, MYOCLONUS, focal neurologic signs, COMA, and DEATH. (From Adams et al., Principles of Neurology, 6th ed, p750)"
+    },
+    {
+      "text": "influenced",
+      "type": "T077",
+      "umls_id": "C4054723",
+      "score": 0.8439550995826721,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "The power to have an effect on people, things, or events."
+    },
+    {
+      "text": "data",
+      "type": "T078",
+      "umls_id": "C1511726",
+      "score": 0.995295524597168,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collection or single item of factual information, derived from measurement or research, from which conclusions may be drawn."
+    },
+    {
+      "text": "estimates",
+      "type": "T081",
+      "umls_id": "C0750572",
+      "score": 0.9890454411506653,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "To calculate approximately."
+    },
+    {
+      "text": "hospital discharges",
+      "type": "T058",
+      "umls_id": "C0586003",
+      "score": 0.9826731085777283,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "billing codes",
+      "type": "T057",
+      "umls_id": "C2987582",
+      "score": 0.7546669840812683,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "The process of requesting payment of a debt for goods or services."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "researchers",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9888705015182495,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "incident",
+      "type": "T067",
+      "umls_id": "C1551358",
+      "score": 0.9689064025878906,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A patient safety event that reached the patient, whether or not the patient was harmed."
+    },
+    {
+      "text": "cases",
+      "type": "T169",
+      "umls_id": "C0868928",
+      "score": 0.9694790244102478,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "occurrence",
+      "type": "T169",
+      "umls_id": "C0243132",
+      "score": 0.9889344573020935,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "SLE",
+      "type": "T047",
+      "umls_id": "C0014060",
+      "score": 0.9721382856369019,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A viral encephalitis caused by the St. Louis encephalitis virus (ENCEPHALITIS VIRUS, ST. LOUIS), a FLAVIVIRUS. It is transmitted to humans and other vertebrates primarily by mosquitoes of the genus CULEX. The primary animal vectors are wild birds and the disorder is endemic to the midwestern and southeastern United States. Infections may be limited to an influenza-like illness or present as an ASEPTIC MENINGITIS or ENCEPHALITIS. Clinical manifestations of the encephalitic presentation may include SEIZURES, lethargy, MYOCLONUS, focal neurologic signs, COMA, and DEATH. (From Adams et al., Principles of Neurology, 6th ed, p750)"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "hospital database",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "prevalent",
+      "type": "T080",
+      "umls_id": "C5204628",
+      "score": 0.9728479385375977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Widespread, especially in a particular area or at a particular time."
+    },
+    {
+      "text": "cases",
+      "type": "T169",
+      "umls_id": "C0868928",
+      "score": 0.9694790244102478,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "SLE",
+      "type": "T047",
+      "umls_id": "C0014060",
+      "score": 0.9721382856369019,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A viral encephalitis caused by the St. Louis encephalitis virus (ENCEPHALITIS VIRUS, ST. LOUIS), a FLAVIVIRUS. It is transmitted to humans and other vertebrates primarily by mosquitoes of the genus CULEX. The primary animal vectors are wild birds and the disorder is endemic to the midwestern and southeastern United States. Infections may be limited to an influenza-like illness or present as an ASEPTIC MENINGITIS or ENCEPHALITIS. Clinical manifestations of the encephalitic presentation may include SEIZURES, lethargy, MYOCLONUS, focal neurologic signs, COMA, and DEATH. (From Adams et al., Principles of Neurology, 6th ed, p750)"
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "death",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.9843130111694336,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "statement",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.9911305904388428,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "relationship",
+      "type": "T080",
+      "umls_id": "C0439849",
+      "score": 0.9485417008399963,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of connectedness between people, objects, or events; to be associated or connected with something."
+    },
+    {
+      "text": "incidence",
+      "type": "T081",
+      "umls_id": "C0021149",
+      "score": 0.980124831199646,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The number of new cases of a given disease during a given period in a specified population. It also is used for the rate at which new events occur in a defined population. It is differentiated from PREVALENCE, which refers to all cases in the population at a given time."
+    },
+    {
+      "text": "prevalence",
+      "type": "T081",
+      "umls_id": "C0033105",
+      "score": 0.9838968515396118,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The total number of cases of a given disease in a specified population at a designated time. It is differentiated from INCIDENCE, which refers to the number of new cases in the population at a given time."
+    },
+    {
+      "text": "rates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "time period",
+      "type": "T079",
+      "umls_id": "C1948053",
+      "score": 0.9859554767608643,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "An interval of time."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    }
+  ]
+}

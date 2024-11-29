@@ -1,0 +1,242 @@
+{
+  "original_data": {
+    "question": "A 5-year-old boy is brought to the physician because of an irregular gait 3 days after receiving age-appropriate vaccinations. Examination of the lower extremities shows no redness or swelling. When the child stands on his right leg, his left leg drops and his pelvis tilts towards the left. Sensation to light touch is normal in both legs. This patient's symptoms are most likely due to the injection of the vaccine into which of the following locations?",
+    "options": {
+      "A": "Inferolateral quadrant of the right buttock",
+      "B": "Inferomedial quadrant of the right buttock",
+      "C": "Inferomedial quadrant of the left buttock",
+      "D": "Superomedial quadrant of the right buttock"
+    }
+  },
+  "model_response": "The patient has developed a right L5 nerve root lesion with resultant right-sided sciatic nerve involvement. This is a rare complication of vaccination, which occurs when the vaccine is injected into the wrong location. The vaccine is injected into the muscle, and the correct location is the inferolateral quadrant of the gluteal muscle. The other incorrect locations are either too superficial or too medial.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "irregular gait",
+      "type": "T033",
+      "umls_id": "C3670782",
+      "score": 0.973761796951294,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "age-appropriate",
+      "type": "T080",
+      "umls_id": "C1548788",
+      "score": 0.7068972587585449,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not in keeping with what is correct or proper."
+    },
+    {
+      "text": "vaccinations",
+      "type": "T061",
+      "umls_id": "C0042196",
+      "score": 0.9722127318382263,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Administration of vaccines to stimulate the host's immune response. This includes any preparation intended for active immunological prophylaxis."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "right leg",
+      "type": "T023",
+      "umls_id": "C0230415",
+      "score": 0.9768746495246887,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the right side of the body."
+    },
+    {
+      "text": "left leg",
+      "type": "T023",
+      "umls_id": "C0230443",
+      "score": 0.9720625281333923,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the left side of the body."
+    },
+    {
+      "text": "pelvis",
+      "type": "T023",
+      "umls_id": "C0030797",
+      "score": 0.9743636250495911,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The space or compartment surrounded by the pelvic girdle (bony pelvis). It is subdivided into the greater pelvis and LESSER PELVIS. The pelvic girdle is formed by the PELVIC BONES and SACRUM."
+    },
+    {
+      "text": "tilts",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "left",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9974963068962097,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "Sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "light touch",
+      "type": "T039",
+      "umls_id": "C0423553",
+      "score": 0.971267580986023,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": null
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "injection",
+      "type": "T061",
+      "umls_id": "C0021485",
+      "score": 0.9671467542648315,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vaccine",
+      "type": "T116",
+      "umls_id": "C0042210",
+      "score": 0.9752286672592163,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa), antigenic proteins, synthetic constructs, or other bio-molecular derivatives, administered for the prevention, amelioration, or treatment of infectious and other diseases."
+    },
+    {
+      "text": "locations",
+      "type": "T082",
+      "umls_id": "C0450429",
+      "score": 0.9778074026107788,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A position, site, or point in space where something can be found."
+    },
+    {
+      "text": "5-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

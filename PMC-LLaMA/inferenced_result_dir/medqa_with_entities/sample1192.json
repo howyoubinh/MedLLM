@@ -1,0 +1,294 @@
+{
+  "original_data": {
+    "question": "A 19-year-old woman is brought into the emergency department after collapsing during a cheerleading practice session. Her vitals taken by the emergency medical services (EMS) include blood pressure 88/55 mm Hg, pulse 55/min. She was given a liter of isotonic fluid while en route to the hospital. At the emergency department, she is alert and oriented and is noted to be anorexic. The patient fervently denies being underweight claiming that she is ‘a fatty’ and goes on to refuse any further intravenous fluid and later, even the hospital meals. Which of the following is the best option for long-term management of this patient’s condition?",
+    "options": {
+      "A": "Cognitive-behavioral therapy",
+      "B": "In-patient psychiatric therapy",
+      "C": "Antidepressants",
+      "D": "Appetite stimulants"
+    }
+  },
+  "model_response": "The patient is showing signs of anorexia nervosa (AN), which is characterized by self-imposed dietary restrictions leading to a significantly low body weight. The patient denies being underweight and insists that she is overweight. This is a common finding in AN. The patient also shows other features of AN such as fear of gaining weight and an intense desire to be thin. The patient’s behavior of refusing further intravenous fluids and meals is also consistent with AN. The most appropriate long-term management for this patient’s condition is cognitive-behavioral therapy (CBT). CBT is a type of psychotherapy that is used to treat a variety of disorders, including AN. It is a type of therapy that focuses on changing negative patterns of thinking and behavior that are causing the problem. The goal of CBT is to help the patient recognize and change maladaptive thoughts and behaviors. In-patient psychiatric therapy, antidepressants, and appetite stimulants are not appropriate for the long-term management of this patient’s condition. In-patient psychiatric therapy is reserved for patients who are suicidal, homicidal, or who are unable to care for themselves. Antidepressants are not indicated for the treatment of AN. Appetite stimulants are not recommended for the long-term management of AN.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "collapsing",
+      "type": "T033",
+      "umls_id": "C0344329",
+      "score": 0.976428210735321,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Failure of a physiologic function or system."
+    },
+    {
+      "text": "practice",
+      "type": "T041",
+      "umls_id": "C0237607",
+      "score": 0.9834331274032593,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "session",
+      "type": "T051",
+      "umls_id": "C1883016",
+      "score": 0.9755721092224121,
+      "semantic_types": [
+        "T051"
+      ],
+      "definition": "Time, period, or term devoted to some activity."
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "emergency medical services",
+      "type": "T058",
+      "umls_id": "C0013961",
+      "score": 0.9794006943702698,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Services specifically designed, staffed, and equipped for the emergency care of patients."
+    },
+    {
+      "text": "EMS",
+      "type": "T058",
+      "umls_id": "C0013961",
+      "score": 0.9990220665931702,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Services specifically designed, staffed, and equipped for the emergency care of patients."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "liter",
+      "type": "T081",
+      "umls_id": "C0475211",
+      "score": 0.9761205911636353,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The non-SI unit of volume accepted for use with the SI. One liter is equal to cubic decimeter, or one thousandth of cubic meter, or 1000 cubic centimeters, or approximately 61.023 744 cubic inches."
+    },
+    {
+      "text": "isotonic fluid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "alert",
+      "type": "T033",
+      "umls_id": "C0239110",
+      "score": 0.9975212812423706,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oriented",
+      "type": "T082",
+      "umls_id": "C1704322",
+      "score": 0.9877923130989075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Position or alignment relative to points of the compass or other specific directions."
+    },
+    {
+      "text": "anorexic",
+      "type": "T047",
+      "umls_id": "C0003123",
+      "score": 0.9689016938209534,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The lack or loss of APPETITE accompanied by an aversion to food and the inability to eat. It is the defining characteristic of the disorder ANOREXIA NERVOSA."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "underweight",
+      "type": "T033",
+      "umls_id": "C0041667",
+      "score": 0.9559847712516785,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "claiming",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fatty’",
+      "type": "T109",
+      "umls_id": "C0015684",
+      "score": 0.777087390422821,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Organic, monobasic acids derived from hydrocarbons by the equivalent of oxidation of a methyl group to an alcohol, aldehyde, and then acid. Fatty acids are saturated and unsaturated (FATTY ACIDS, UNSATURATED). (Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "goes",
+      "type": "T204",
+      "umls_id": "C1947959",
+      "score": 0.9558348655700684,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intravenous fluid",
+      "type": "T167",
+      "umls_id": "C1289919",
+      "score": 0.9754502177238464,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A sterile liquid preparation infused into a vein. IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances. In addition, IV fluids are used to administer blood products and medications such as chemotherapy. Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "meals",
+      "type": "T056",
+      "umls_id": "C1998602",
+      "score": 0.9765107035636902,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Any of the occasions for eating food that occur by custom or habit at more or less fixed times."
+    },
+    {
+      "text": "long-term",
+      "type": "T079",
+      "umls_id": "C0443252",
+      "score": 0.9621292948722839,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Involving or being in effect for a long time."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "19-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

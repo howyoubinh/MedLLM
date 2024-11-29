@@ -1,0 +1,473 @@
+{
+  "original_data": {
+    "question": "Five days after undergoing an emergency appendectomy under general inhalational anesthesia while on a trip to Haiti, a 43-year-old woman develops low-grade fever, vomiting, and abdominal pain. During the surgery, she received a transfusion of 1 unit of packed red blood cells. Three days after the surgery, she was stable enough to be transported back to the United States. She has no history of serious illness and takes no medications. Her temperature is 38.3°C (100.9°F), pulse is 80/min, and blood pressure is 138/76 mm Hg. Examination shows jaundice of the skin and conjunctivae. Abdominal examination shows moderate tenderness over the liver. The liver is palpated 2 to 3 cm below the right costal margin. Laboratory studies show:\nHemoglobin count 12.0 g/dL\nLeukocyte count 10,400 mm3\nSegmented neutrophils 55%\nBands 1%\nEosinophils 13%\nLymphocytes 28%\nMonocytes 3%\nPlatelet count 160,000 mm3\nSerum\nAlkaline phosphatase 102 U/L\nAspartate aminotransferase 760 U/L\nBilirubin\nTotal 3.8 mg/dL\nDirect 3.1 mg/dL\nAnti-HAV IgG positive\nAnti-HAV IgM negative\nAnti-HBs positive\nHBsAg negative\nAnti-HCV antibodies negative\nAbdominal ultrasonography shows an enlarged liver. A biopsy of the liver shows massive centrilobular necrosis. Which of the following is the most likely underlying cause of this patient's condition?\"",
+    "options": {
+      "A": "Adverse effect of anesthetic",
+      "B": "Gram negative bacteria in the bloodstream",
+      "C": "Acalculous inflammation of the gallbladder",
+      "D": "Excessive lysis of red blood cells"
+    }
+  },
+  "model_response": "This patient's fever, jaundice, and elevated liver enzymes are typical of acalculous cholecystitis, which is most often seen in critically ill patients in the ICU. In 50% of cases, no cause can be found. In the other 50% of cases, a bacterial infection of the gallbladder is found. The most common organisms are E. coli, Klebsiella, and Enterobacter. The other listed choices are unlikely to cause this constellation of findings.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "emergency appendectomy",
+      "type": "T061",
+      "umls_id": "C0399997",
+      "score": 0.9911790490150452,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "general inhalational anesthesia",
+      "type": "T061",
+      "umls_id": "C0002915",
+      "score": 0.7512553334236145,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Procedure in which patients are induced into an unconscious state through use of various medications so that they do not feel pain during surgery."
+    },
+    {
+      "text": "Haiti",
+      "type": "T083",
+      "umls_id": "C0018510",
+      "score": 0.97663414478302,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A republic in the Greater Antilles in the West Indies. Its capital is Port-au-Prince. With the Dominican Republic it forms the island of Hispaniola - Haiti occupying the western third and the Dominican Republic, the eastern two thirds. Haiti belonged to France from 1697 until its rule was challenged by slave insurrections from 1791. It became a republic in 1820. It was virtually an American protectorate from 1915 to 1934. It adopted its present constitution in 1964 and amended it in 1971. The name may represent either of two Caribbean words, haiti, mountain land, or jhaiti, nest. (From Webster's New Geographical Dictionary, 1988, p481 & Room, Brewer's Dictionary of Names, 1992, p225)"
+    },
+    {
+      "text": "woman develops",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "low-grade",
+      "type": "T191",
+      "umls_id": "C1518005",
+      "score": 0.8834829926490784,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A precancerous neoplastic process that affects the cervical squamous epithelium without evidence of invasion. It is usually associated with human papillomavirus infection. It is characterized by the presence of mild atypia in the superficial epithelial layer that may be associated with koilocytosis. Maturation is present in the upper two thirds of the epithelium. Mitotic figures are not numerous and are present in the basal third of the epithelium."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "transfusion",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9586660265922546,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "packed red blood cells",
+      "type": "T116",
+      "umls_id": "C2316467",
+      "score": 0.9755538105964661,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "The red blood cells from a unit of whole blood following removal of most of the plasma, leaving a unit with a hematocrit of about 60%."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "stable",
+      "type": "T080",
+      "umls_id": "C0205360",
+      "score": 0.996412992477417,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of being free from change or variation or not taking part readily in chemical change."
+    },
+    {
+      "text": "United States",
+      "type": "T083",
+      "umls_id": "C0041703",
+      "score": 0.9899754524230957,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA between CANADA and MEXICO."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "conjunctivae",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.8391914367675781,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "moderate",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.9828923940658569,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "right costal margin",
+      "type": "T029",
+      "umls_id": "C0502460",
+      "score": 0.9858113527297974,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Segmented",
+      "type": "T204",
+      "umls_id": "C0003096",
+      "score": 0.7587459683418274,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "A phylum of metazoan invertebrates comprising the segmented worms, and including marine annelids (POLYCHAETA), freshwater annelids, earthworms (OLIGOCHAETA), and LEECHES. Only the leeches are of medical interest. (Dorland, 27th ed)"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Monocytes",
+      "type": "T025",
+      "umls_id": "C0026473",
+      "score": 0.9890480041503906,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Large, phagocytic mononuclear leukocytes produced in the vertebrate BONE MARROW and released into the BLOOD; contain a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles."
+    },
+    {
+      "text": "Aspartate aminotransferase",
+      "type": "T116",
+      "umls_id": "C0004002",
+      "score": 0.9847971200942993,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Enzymes of the transferase class that catalyze the conversion of L-aspartate and 2-ketoglutarate to oxaloacetate and L-glutamate. EC 2.6.1.1."
+    },
+    {
+      "text": "Anti-HAV IgG",
+      "type": "T116",
+      "umls_id": "C0062524",
+      "score": 0.803012490272522,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "An antibody produced by B lymphocytes in response to hepatitis A enteroviral infection."
+    },
+    {
+      "text": "positive\nAnti-HAV IgM",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "enlarged liver",
+      "type": "T033",
+      "umls_id": "C0019209",
+      "score": 0.9591475129127502,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the liver."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "centrilobular necrosis",
+      "type": "T082",
+      "umls_id": "C0442080",
+      "score": 0.7729505896568298,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Located in the center of the secondary pulmonary lobules, which are the functional units of the lungs. []"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "43-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

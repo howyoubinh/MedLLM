@@ -1,0 +1,374 @@
+{
+  "original_data": {
+    "question": "A group of researchers conducted a study to determine whether there is an association between folic acid supplementation before pregnancy and autism spectrum disorder (ASD) in offspring. The researchers retrospectively surveyed 200 mothers with children diagnosed with ASD during the first 4 years of life and 200 mothers with healthy children. All participants were interviewed about their prenatal consumption of folic acid using standardized questionnaires. A 94% response rate was obtained from the surveys. The study ultimately found that folic acid supplementation was associated with lower rates of ASD in offspring (OR = 0.3, p < 0.01). Which of the following type of bias is most likely to have influenced these results?",
+    "options": {
+      "A": "Interviewer bias",
+      "B": "Latency period",
+      "C": "Recall bias",
+      "D": "Survival bias"
+    }
+  },
+  "model_response": "The correct answer is C. Recall bias. Recall bias occurs when cases and controls misreport past events, usually in a direction that is related to the outcome of interest. In this case, mothers of children with ASD may have been more likely to remember taking folic acid because it is recommended for fetal brain development. This type of bias is known as recall bias. Interviewer bias is unlikely to have influenced the results because interviewers were blind to the study hypothesis. The latency period is the time between exposure to a risk factor and the manifestation of a disease. In this case, the study did not have a latency period because the exposure (folic acid supplementation) and outcome (ASD) were both assessed at the same time. Survival bias occurs when the survival of patients with a disease influences the detection of that disease. This type of bias is not applicable to this study because the outcome (ASD) was assessed in both groups at the same time.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "researchers",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9888705015182495,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "association",
+      "type": "T041",
+      "umls_id": "C0004083",
+      "score": 0.9670478701591492,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A functional relationship between psychological phenomena of such nature that the presence of one tends to evoke the other; also, the process by which such a relationship is established."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "supplementation",
+      "type": "T061",
+      "umls_id": "C0242297",
+      "score": 0.9718977808952332,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The addition of one or more elements and/or chemical compounds that are either absent or deficient in an individual's daily diet."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "autism spectrum disorder",
+      "type": "T048",
+      "umls_id": "C0524528",
+      "score": 0.9845767617225647,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A category of developmental disorders characterized by impaired communication and socialization skills. The impairments are incongruent with the individual's developmental level or mental age. These disorders can be associated with general medical or genetic conditions."
+    },
+    {
+      "text": "ASD",
+      "type": "T019",
+      "umls_id": "C0018817",
+      "score": 0.9644922614097595,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Developmental abnormalities in any portion of the ATRIAL SEPTUM resulting in abnormal communications between the two upper chambers of the heart. Classification of atrial septal defects is based on location of the communication and types of incomplete fusion of atrial septa with the ENDOCARDIAL CUSHIONS in the fetal heart. They include ostium primum, ostium secundum, sinus venosus, and coronary sinus defects."
+    },
+    {
+      "text": "offspring",
+      "type": "T099",
+      "umls_id": "C0680063",
+      "score": 0.9184022545814514,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A first-generation, biological descendant of any age."
+    },
+    {
+      "text": "researchers",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9888705015182495,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "mothers",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9920557141304016,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "ASD",
+      "type": "T019",
+      "umls_id": "C0018817",
+      "score": 0.9644922614097595,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Developmental abnormalities in any portion of the ATRIAL SEPTUM resulting in abnormal communications between the two upper chambers of the heart. Classification of atrial septal defects is based on location of the communication and types of incomplete fusion of atrial septa with the ENDOCARDIAL CUSHIONS in the fetal heart. They include ostium primum, ostium secundum, sinus venosus, and coronary sinus defects."
+    },
+    {
+      "text": "mothers",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9920557141304016,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "healthy children",
+      "type": "T058",
+      "umls_id": "C0008078",
+      "score": 0.8166415691375732,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The concept covering the physical and mental conditions of CHILDREN."
+    },
+    {
+      "text": "participants",
+      "type": "T098",
+      "umls_id": "C0679646",
+      "score": 0.9811772108078003,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Someone who takes part in an activity."
+    },
+    {
+      "text": "interviewed",
+      "type": "T097",
+      "umls_id": "C0021821",
+      "score": 0.801474928855896,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "The person who manages an interview and asks the questions."
+    },
+    {
+      "text": "prenatal",
+      "type": "T100",
+      "umls_id": "C0678804",
+      "score": 0.9826273322105408,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "consumption",
+      "type": "T052",
+      "umls_id": "C0009830",
+      "score": 0.9460187554359436,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The using or using up of goods and services, especially the rate at which they are used."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "standardized questionnaires",
+      "type": "T170",
+      "umls_id": "C0034394",
+      "score": 0.7061842679977417,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Predetermined sets of questions used to collect data - clinical data, social status, occupational group, etc. The term is often applied to a self-completed survey instrument."
+    },
+    {
+      "text": "response rate",
+      "type": "T079",
+      "umls_id": "C0237629",
+      "score": 0.9838520288467407,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "surveys",
+      "type": "T170",
+      "umls_id": "C0038951",
+      "score": 0.9534350037574768,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A document used in a method of data collection that involves interviewing (or giving questionnaires to) a representative and often large group of people."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "supplementation",
+      "type": "T061",
+      "umls_id": "C0242297",
+      "score": 0.9718977808952332,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The addition of one or more elements and/or chemical compounds that are either absent or deficient in an individual's daily diet."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "rates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "ASD",
+      "type": "T019",
+      "umls_id": "C0018817",
+      "score": 0.9644922614097595,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Developmental abnormalities in any portion of the ATRIAL SEPTUM resulting in abnormal communications between the two upper chambers of the heart. Classification of atrial septal defects is based on location of the communication and types of incomplete fusion of atrial septa with the ENDOCARDIAL CUSHIONS in the fetal heart. They include ostium primum, ostium secundum, sinus venosus, and coronary sinus defects."
+    },
+    {
+      "text": "offspring",
+      "type": "T099",
+      "umls_id": "C0680063",
+      "score": 0.9184022545814514,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A first-generation, biological descendant of any age."
+    },
+    {
+      "text": "OR",
+      "type": "T083",
+      "umls_id": "C0029195",
+      "score": 0.9995278120040894,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Washington, on the east by Idaho, on the south by California and Nevada, and on the west by the Pacific Ocean."
+    },
+    {
+      "text": "bias",
+      "type": "T078",
+      "umls_id": "C0005346",
+      "score": 0.9760707020759583,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any deviation of results or inferences from the truth, or processes leading to such deviation. Bias can result from several sources: one-sided or systematic variations in measurement from the true value (systematic error); flaws in study design; deviation of inferences, interpretations, or analyses based on flawed data or data collection; etc. There is no sense of prejudice or subjectivity implied in the assessment of bias under these conditions."
+    },
+    {
+      "text": "influenced",
+      "type": "T077",
+      "umls_id": "C4054723",
+      "score": 0.8439550995826721,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "The power to have an effect on people, things, or events."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    }
+  ]
+}

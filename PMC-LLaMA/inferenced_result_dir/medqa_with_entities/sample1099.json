@@ -1,0 +1,197 @@
+{
+  "original_data": {
+    "question": "A 42-year-old woman comes to the clinic for a routine annual exam. She recently moved from New Jersey, and her medical records show a total colectomy. The patient reports that she has had annual colonoscopies since she was 10 years of age because her father had “a condition with his colon.” What is the genetic inheritance pattern of the patient’s disease?",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal recessive",
+      "C": "Multifactorial",
+      "D": "X-linked dominant"
+    }
+  },
+  "model_response": "The inheritance pattern of familial adenomatous polyposis (FAP) is autosomal dominant. The patient's history of annual colonoscopies since age 10 is consistent with this diagnosis. FAP is associated with a mutation in the adenomatous polyposis coli (APC) gene on chromosome 5. The colonic polyps are usually visible on sigmoidoscopy by age 15 and will progress to cancer if not removed.\n\nGardner syndrome and Turcot syndrome are variants of FAP that also have extracolonic manifestations. Gardner syndrome includes desmoid tumors, osteomas, epidermoid cysts, and congenital hyperophy of the retinal pigment epithelium. Turcot syndrome includes CNS tumors, such as medulloblastoma, glioblastoma multiforme, and gliomas.\n\nPolyposis of the stomach, or Peutz-Jeghers syndrome, is an autosomal dominant disorder characterized by hamartomatous gastrointestinal polyps. It is associated with melaenosis of the oral mucosa, lips, and digits. The mutation associated with this syndrome is located on chromosome 19.\n\nPolyposis of the colon and stomach is seen in patients with Cowden syndrome, which is characterized by multiple hamartomas and neoplasias of the skin, brain, and thyroid gland. The mutation associated with this syndrome is located on the PTEN gene on chromosome 10.\n\nFamilial juvenile polyposis is an autosomal recessive disorder characterized by multiple hamartomatous polyps of the colon. It is associated with a mutation on chromosome 19.\n\nMultifactorial inheritance refers to a condition that is caused by the effects of multiple genes and environmental factors. Examples include coronary artery disease, diabetes mellitus, and congenital heart defects.\n\nAn X-linked dominant inheritance pattern means that the mutation is located on the X chromosome. Hemophilia A and Duchenne muscular dystrophy are X-linked dominant disorders.\n\nImage source: 1. style=\"font-size: 1.04761904761905em; color: rgba(0, 0, 0, 1); font-family: Times New Roman, Times, serif; margin: 0 0 8pt\">\n\n### OPTION A: Autosomal dominant\n\nAutosomal dominant inheritance means that a mutation in a single copy of a given gene is sufficient to cause the disorder. In this pattern, an affected individual has a 50% chance of passing on the disease to each of their children. Examples include Huntington disease, Marfan syndrome, and hereditary nonpolyposis colorectal cancer.\n\n### OPTION B: Autosomal recessive\n\nAutosomal recessive inheritance means that a mutation in both copies of a given gene is required to cause the disorder. In this pattern, an affected individual has one chance in four of having an affected child with each pregnancy. Examples include cystic fibrosis, sickle cell anemia, and Tay-Sachs disease.\n\n### OPTION C: Multifactorial\n\nMultifactorial inheritance refers to a condition that is caused by the effects of multiple genes and environmental factors. Examples include coronary artery disease, diabetes mellitus, and congenital heart defects.\n\n### OPTION D: X-linked dominant\n\nAn X-linked dominant inheritance pattern means that the mutation is located on the X chromosome. Hemophilia A and Duchenne muscular dystrophy are X-linked dominant disorders.\n\n### OPTION E: Y-linked\n\nY-linked inheritance refers to a condition that is passed exclusively from father to son through the Y chromosome. This pattern is rare because males pass their Y chromosome to all of their sons and their daughters' fathers are not affected.\n\n### OPTION F: Mitochondrial\n\nMitochondrial inheritance refers to a condition that is caused by a mutation in the mitochond",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "annual",
+      "type": "T079",
+      "umls_id": "C0332181",
+      "score": 0.9425466656684875,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each year."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "moved",
+      "type": "T169",
+      "umls_id": "C1269909",
+      "score": 0.9783155918121338,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "New Jersey",
+      "type": "T083",
+      "umls_id": "C0027971",
+      "score": 0.9745670557022095,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by New York and Pennsylvania, on the east by New York and the Atlantic Ocean, on the south by Delaware Bay, and on the west by Pennsylvania."
+    },
+    {
+      "text": "medical records",
+      "type": "T170",
+      "umls_id": "C0025102",
+      "score": 0.9565836787223816,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Recording of pertinent information concerning patient's illness or illnesses."
+    },
+    {
+      "text": "colectomy",
+      "type": "T061",
+      "umls_id": "C0009274",
+      "score": 0.9884921312332153,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical resection of a portion of or the entire colon."
+    },
+    {
+      "text": "patient reports",
+      "type": "T170",
+      "umls_id": "C0747307",
+      "score": 0.9660993218421936,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An indication that the patient provides information about their vital signs, status, or subjective feelings. Some systems also consider information reported by the patient's family or guardian as patient-reported."
+    },
+    {
+      "text": "annual",
+      "type": "T079",
+      "umls_id": "C0332181",
+      "score": 0.9425466656684875,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each year."
+    },
+    {
+      "text": "colonoscopies",
+      "type": "T060",
+      "umls_id": "C0009378",
+      "score": 0.9790122509002686,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination, therapy or surgery of the luminal surface of the colon."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "colon",
+      "type": "T023",
+      "umls_id": "C0009368",
+      "score": 0.9798353910446167,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The segment of LARGE INTESTINE between the CECUM and the RECTUM. It includes the ASCENDING COLON; the TRANSVERSE COLON; the DESCENDING COLON; and the SIGMOID COLON."
+    },
+    {
+      "text": "genetic inheritance",
+      "type": "T169",
+      "umls_id": "C0728826",
+      "score": 0.9653234481811523,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pattern",
+      "type": "T082",
+      "umls_id": "C0449774",
+      "score": 0.9735379219055176,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "An arrangement of objects, facts, behaviors, or other things which have scientific, mathematical, geometric, statistical, or other meaning."
+    },
+    {
+      "text": "patient’s disease",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.7241291403770447,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

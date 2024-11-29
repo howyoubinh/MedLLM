@@ -1,0 +1,341 @@
+{
+  "original_data": {
+    "question": "A 26-year-old gravida 2 para 1 at 24 weeks gestation is admitted to the labor and delivery suite with mild abdominal cramps, uterine contractions, and a watery vaginal discharge. She has a history of preterm birth. The vital signs are as follows: blood pressure 125/80 mm Hg; heart rate 100/min; respiratory rate 13/min; and temperature 36.6℃ (97.9℉). The pelvic examination reveals cervical softening and shortening. Transvaginal ultrasound shows a cervical length of 12 mm, which is consistent with preterm labor. A tocolytic and a single dose of betamethasone are administered. Betamethasone stimulates which fetal cells?",
+    "options": {
+      "A": "Goblet cells",
+      "B": "Bronchial epithelial cells",
+      "C": "Type II pneumocytes",
+      "D": "Vascular smooth myocytes"
+    }
+  },
+  "model_response": "{'A': 'Goblet cells', 'B': 'Bronchial epithelial cells', 'C': 'Type II pneumocytes', 'D': 'Vascular smooth myocytes'}\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "gravida 2 para",
+      "type": "T033",
+      "umls_id": "C0600457",
+      "score": 0.7519651055335999,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of pregnancies, complete or incomplete, experienced by a female. It is different from PARITY, which is the number of offspring borne. (From Stedman, 26th ed)"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "labor",
+      "type": "T040",
+      "umls_id": "C0022864",
+      "score": 0.9818827509880066,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Uterine contractions resulting in cervical change (dilation and/or effacement). (reVITALize)"
+    },
+    {
+      "text": "delivery suite",
+      "type": "T073",
+      "umls_id": "C0011212",
+      "score": 0.9697725772857666,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units equipped for childbirth."
+    },
+    {
+      "text": "mild abdominal cramps",
+      "type": "T184",
+      "umls_id": "C0000729",
+      "score": 0.8632214069366455,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An involuntary muscular contraction involving a muscle of the abdomen or of a hollow organ within the abdomen."
+    },
+    {
+      "text": "uterine contractions",
+      "type": "T042",
+      "umls_id": "C0042130",
+      "score": 0.9740590453147888,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Contraction of the UTERINE MUSCLE."
+    },
+    {
+      "text": "watery",
+      "type": "T080",
+      "umls_id": "C0443350",
+      "score": 0.9556147456169128,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vaginal discharge",
+      "type": "T033",
+      "umls_id": "C0227791",
+      "score": 0.9792253375053406,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A common gynecologic disorder characterized by an abnormal, nonbloody discharge from the genital tract."
+    },
+    {
+      "text": "history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9823688864707947,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "preterm birth",
+      "type": "T046",
+      "umls_id": "C0151526",
+      "score": 0.9650300145149231,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Birth when a fetus is less than 37 weeks and 0 days gestational age."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "℃",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "cervical softening",
+      "type": "T033",
+      "umls_id": "C0238960",
+      "score": 0.9625381231307983,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortening",
+      "type": "T061",
+      "umls_id": "C0441636",
+      "score": 0.9892669916152954,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Transvaginal ultrasound",
+      "type": "T060",
+      "umls_id": "C0203418",
+      "score": 0.958451509475708,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A technique in which sound waves are sent out by an ultrasound probe that has been inserted in the vagina and a computer uses the ultrasound echoes to create an image of the female genital tract. The test can be performed to evaluate women with infertility problems, abnormal bleeding, sources of unexplained pain, congenital malformations of the uterus and ovaries, and possible tumors and infection."
+    },
+    {
+      "text": "cervical length",
+      "type": "T060",
+      "umls_id": "C1956055",
+      "score": 0.7761642336845398,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A parameter usually used in PRENATAL ULTRASONOGRAPHY to measure the length of the uterine neck (CERVIX UTERI). Cervical length or its shortening is used to identify and prevent early cervical opening and PRETERM BIRTH."
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "preterm labor",
+      "type": "T046",
+      "umls_id": "C0022876",
+      "score": 0.9775050282478333,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Regular uterine activity with associated cervical change prior to 37 weeks gestation."
+    },
+    {
+      "text": "tocolytic",
+      "type": "T121",
+      "umls_id": "C0040349",
+      "score": 0.979254424571991,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs that prevent preterm labor and immature birth by suppressing uterine contractions (TOCOLYSIS). Agents used to delay premature uterine activity include magnesium sulfate, beta-mimetics, oxytocin antagonists, calcium channel inhibitors, and adrenergic beta-receptor agonists. The use of intravenous alcohol as a tocolytic is now obsolete."
+    },
+    {
+      "text": "single dose",
+      "type": "T073",
+      "umls_id": "C1710088",
+      "score": 0.8483272790908813,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vial containing a single unit of a parenteral drug product."
+    },
+    {
+      "text": "betamethasone",
+      "type": "T109",
+      "umls_id": "C0005308",
+      "score": 0.9858385920524597,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)"
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "Betamethasone",
+      "type": "T109",
+      "umls_id": "C0005308",
+      "score": 0.9858385920524597,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A glucocorticoid given orally, parenterally, by local injection, by inhalation, or applied topically in the management of various disorders in which corticosteroids are indicated. Its lack of mineralocorticoid properties makes betamethasone particularly suitable for treating cerebral edema and congenital adrenal hyperplasia. (From Martindale, The Extra Pharmacopoeia, 30th ed, p724)"
+    },
+    {
+      "text": "stimulates",
+      "type": "T070",
+      "umls_id": "C1948023",
+      "score": 0.8006531596183777,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Any physical thing or event that acts to arouse action."
+    },
+    {
+      "text": "fetal cells",
+      "type": "T081",
+      "umls_id": "C0439170",
+      "score": 0.974016010761261,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

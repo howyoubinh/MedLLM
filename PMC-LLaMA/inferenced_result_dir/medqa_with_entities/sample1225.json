@@ -1,0 +1,483 @@
+{
+  "original_data": {
+    "question": "A 9-month-old boy is brought to his pediatrician by his mother for a routine health checkup. The boy was born at 39 weeks gestation via spontaneous vaginal delivery. He is up to date on all vaccines and is meeting all developmental milestones. He was breastfed for the first 3 months and then switched to cow’s milk and about two months ago she started giving him fruits and vegetables. Family history is noncontributory. Today, his heart rate is 120/min, respiratory rate is 40/min, blood pressure is 90/50 mm Hg, and temperature of 37.0°C (98.6°F). On examination, he has a heartbeat with a regular rate and rhythm and his lungs are clear to auscultation bilaterally. Generally, the boy looks pale. His weight and height fall within the expected range. A complete blood count (CBC) shows the following:\nHemoglobin (Hb): 9.1 g/dL\nMean corpuscular volume (MCV): 65 fL\nTotal iron binding capacity (TIBC): 550 μg/dL\nSerum iron: 45 µg/dL\nSerum lead: < 5 µg/dL\nWhat is the best treatment for this patient?",
+    "options": {
+      "A": "Iron supplementation only",
+      "B": "Proper diet and iron supplementation",
+      "C": "Multivitamins",
+      "D": "Proper diet only"
+    }
+  },
+  "model_response": "The patient’s laboratory results show that he has iron deficiency anemia. The MCV is low, which indicates microcytic anemia. The TIBC is high, which indicates that there is an increase in transferrin, which is a positive acute phase reactant. The serum iron is low, which indicates hypochromic microcytic anemia. The serum ferritin is low, which indicates iron deficiency anemia. The patient’s iron deficiency anemia is likely due to his diet. He was switched from breast milk to cow’s milk and then to fruits and vegetables. None of these foods are iron-rich. The best treatment for this patient is iron supplementation and proper diet.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "health checkup",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9481457471847534,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vaccines",
+      "type": "T116",
+      "umls_id": "C0042210",
+      "score": 0.9808231592178345,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa), antigenic proteins, synthetic constructs, or other bio-molecular derivatives, administered for the prevention, amelioration, or treatment of infectious and other diseases."
+    },
+    {
+      "text": "developmental",
+      "type": "T080",
+      "umls_id": "C0458003",
+      "score": 0.9649556875228882,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "milestones",
+      "type": "T077",
+      "umls_id": "C2347129",
+      "score": 0.866582453250885,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "An important event in the progress, development, or history of something or in someone's life."
+    },
+    {
+      "text": "breastfed",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9328805208206177,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "cow’s milk",
+      "type": "T168",
+      "umls_id": "C0349374",
+      "score": 0.8965719938278198,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A body substance containing proteins, fats, lactose, and various vitamins and minerals produced by the mammary glands of mature female bovines."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "giving",
+      "type": "T061",
+      "umls_id": "C0014268",
+      "score": 0.7563825845718384,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Insertion of a solution or compound through the RECTUM with the purpose of cleansing the COLON or for diagnostic procedures."
+    },
+    {
+      "text": "fruits",
+      "type": "T168",
+      "umls_id": "C0016767",
+      "score": 0.9856601357460022,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "The fleshy or dry ripened ovary of a plant, enclosing the seed or seeds."
+    },
+    {
+      "text": "vegetables",
+      "type": "T168",
+      "umls_id": "C0042440",
+      "score": 0.9652894735336304,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A food group comprised of EDIBLE PLANTS or their parts."
+    },
+    {
+      "text": "Family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "noncontributory",
+      "type": "T052",
+      "umls_id": "C1880177",
+      "score": 0.8284522891044617,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The part played by somebody or something in bringing about an end or result."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "heartbeat",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9336593151092529,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "regular rate",
+      "type": "T080",
+      "umls_id": "C0205272",
+      "score": 0.7905575633049011,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Customary, usual, or at fixed intervals; conforming to a standard or pattern."
+    },
+    {
+      "text": "rhythm",
+      "type": "T033",
+      "umls_id": "C0871269",
+      "score": 0.9861499667167664,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "boy looks",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "height fall",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.7558650374412537,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "complete blood count",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.9848464131355286,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "CBC",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.9881873726844788,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "Hb",
+      "type": "T116",
+      "umls_id": "C0019046",
+      "score": 0.9979146122932434,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "The oxygen-carrying proteins of ERYTHROCYTES. They are found in all vertebrates and some invertebrates. The number of globin subunits in the hemoglobin quaternary structure differs between species. Structures range from monomeric to a variety of multimeric arrangements."
+    },
+    {
+      "text": "MCV",
+      "type": "T061",
+      "umls_id": "C0285131",
+      "score": 0.982687771320343,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A chemotherapy regimen consisting of cisplatin, methotrexate and vinblastine that may be used in the treatment of certain bladder cancers."
+    },
+    {
+      "text": "fL\n",
+      "type": "T083",
+      "umls_id": "C0016253",
+      "score": 0.9481987953186035,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on east by the Atlantic Ocean, on the south by the Gulf of Mexico, on the west by Alabama and on the north by Alabama and Georgia."
+    },
+    {
+      "text": "Total iron binding capacity",
+      "type": "T201",
+      "umls_id": "C0700379",
+      "score": 0.974647581577301,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "TIBC",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Serum iron",
+      "type": "T059",
+      "umls_id": "C1318312",
+      "score": 0.9757445454597473,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    }
+  ]
+}

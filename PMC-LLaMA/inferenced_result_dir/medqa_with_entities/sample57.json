@@ -1,0 +1,248 @@
+{
+  "original_data": {
+    "question": "A 15-year-old woman presents with fever, altered mental status and a petechial rash on her lower extremities and back since yesterday evening. She also says she has been nauseous for the past 3 hours and has vomited twice. The patient mentions she has had heavy menstrual bleeding for the past few days. Her blood pressure is 95/80 mm Hg and her temperature is 40.0°C (104.0°F). On physical examination, the patient appears diaphoretic. A pelvic examination reveals a tampon in her vagina. Binding and activation of which of the following T cell receptors is responsible for this patient’s most likely condition?",
+    "options": {
+      "A": "B7 receptor",
+      "B": "Variable β-sequence of the T cell receptor",
+      "C": "CD3",
+      "D": "IgCAM"
+    }
+  },
+  "model_response": "The correct answer is Option C, CD3. This patient’s presentation is most consistent with toxic shock syndrome (TSS). TSS is a febrile illness characterized by multisystem involvement, including hypotension, hypoalbuminemia, and disseminated intravascular coagulation. It is associated with infection of the skin, mucosa, or other sites by toxic shock syndrome toxin (TSST)-producing Staphylococcus aureus. TSS typically occurs in menstruating women who use vaginal tampons. The tampon provides a site for bacterial growth, and the presence of the tampon may inhibit the normal clearance of bacteria from the vagina. TSS results from the binding and activation of the CD3 receptor on T cells by the variable β-sequence of the T cell receptor. The binding of the T cell receptor to the MHC-II molecule on the antigen-presenting cell results in the activation of the B7 receptor. The IgCAM is a cell adhesion molecule that binds to immunoglobulins and is not involved in the pathogenesis of TSS.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "mental status",
+      "type": "T033",
+      "umls_id": "C0278060",
+      "score": 0.982847273349762,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "petechial rash",
+      "type": "T047",
+      "umls_id": "C0031256",
+      "score": 0.9749998450279236,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Purple or red hemorrhagic pinpoint spots in the skin or mucous membranes."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "evening",
+      "type": "T079",
+      "umls_id": "C0587117",
+      "score": 0.9769662618637085,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between late afternoon and bedtime."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "nauseous",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9677346348762512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "patient mentions",
+      "type": "T101",
+      "umls_id": "C0025360",
+      "score": 0.7331658601760864,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Persons with psychiatric illnesses or diseases, particularly psychotic and severe mood disorders."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diaphoretic",
+      "type": "T080",
+      "umls_id": "C1707737",
+      "score": 0.9853863716125488,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to, characterized by, or promoting sweating, e.g. procedure or an agent that promotes sweating."
+    },
+    {
+      "text": "pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "vagina",
+      "type": "T023",
+      "umls_id": "C0042232",
+      "score": 0.9829220771789551,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The genital canal in the female, extending from the UTERUS to the VULVA. (Stedman, 25th ed)"
+    },
+    {
+      "text": "Binding",
+      "type": "T052",
+      "umls_id": "C1145667",
+      "score": 0.9884335398674011,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The action of attracting something and forming a bond with it."
+    },
+    {
+      "text": "activation",
+      "type": "T052",
+      "umls_id": "C1879547",
+      "score": 0.9738941192626953,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "To cause something to start or to stimulate activity."
+    },
+    {
+      "text": "T cell receptors",
+      "type": "T116",
+      "umls_id": "C0034790",
+      "score": 0.981046199798584,
+      "semantic_types": [
+        "T116",
+        "T129",
+        "T192"
+      ],
+      "definition": "Molecules on the surface of T-lymphocytes that recognize and combine with antigens. The receptors are non-covalently associated with a complex of several polypeptides collectively called CD3 antigens (CD3 COMPLEX). Recognition of foreign antigen and the major histocompatibility complex is accomplished by a single heterodimeric antigen-receptor structure, composed of either alpha-beta (RECEPTORS, ANTIGEN, T-CELL, ALPHA-BETA) or gamma-delta (RECEPTORS, ANTIGEN, T-CELL, GAMMA-DELTA) chains."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "15-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

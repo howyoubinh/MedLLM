@@ -1,0 +1,261 @@
+{
+  "original_data": {
+    "question": "A 68-year-old man from California presents for a routine checkup. He does not have any complaints. He says that he has tried to keep himself healthy and active by jogging and gardening since his retirement at age 50. He adds that he spends his mornings in the park and his afternoons in his garden. He has no significant medical history. The patient denies any smoking history and drinks alcohol occasionally. On physical examination, the following lesion is seen on his scalp (see image). Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Psoriasis",
+      "B": "Seborrheic keratosis",
+      "C": "Actinic keratosis",
+      "D": "Squamous cell carcinoma"
+    }
+  },
+  "model_response": "The lesion is an actinic keratosis. This is a rough, scaly, pink or gray plaque that develops on sun-exposed skin. It is most common on the scalp, face, neck, and hands. Actinic keratoses are considered precursors to squamous cell carcinoma. They are caused by DNA damage from UV radiation. Excessive sun exposure, fair skin, and immunosuppression are risk factors. Treatment is usually not necessary, but lesions can be removed with cryotherapy, curettage, or topical agents. Psoriasis is characterized by well-defined plaques with silvery scale. Seborrheic keratosis is a benign, pigmented, scaly lesion that is common on the face, scalp, and trunk. Bowen disease is an intraepithelial squamous cell carcinoma that presents as a slowly enlarging, erythematous, scaly plaque.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "California",
+      "type": "T083",
+      "umls_id": "C0006754",
+      "score": 0.980586051940918,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the east by Nevada and Arizona, on the south by Mexico and the Pacific Ocean on the south and west, and on the north by Oregon."
+    },
+    {
+      "text": "routine checkup",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "active",
+      "type": "T080",
+      "umls_id": "C0205177",
+      "score": 0.9973770380020142,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Exerting influence or producing an effect."
+    },
+    {
+      "text": "jogging",
+      "type": "T056",
+      "umls_id": "C0022400",
+      "score": 0.9288299083709717,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Running at a low rate of speed. It can be done as a means of conditioning or for general health and well being."
+    },
+    {
+      "text": "gardening",
+      "type": "T056",
+      "umls_id": "C0868963",
+      "score": 0.9831878542900085,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Cultivation of PLANTS; (FRUIT; VEGETABLES; MEDICINAL HERBS) on small plots of ground or in containers."
+    },
+    {
+      "text": "retirement",
+      "type": "T033",
+      "umls_id": "C0035345",
+      "score": 0.9822786450386047,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state of being retired from one's position or occupation."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "spends",
+      "type": "T081",
+      "umls_id": "C0680968",
+      "score": 0.9561561942100525,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "park",
+      "type": "T083",
+      "umls_id": "C0562547",
+      "score": 0.9710313677787781,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A piece of land set aside for public use."
+    },
+    {
+      "text": "afternoons",
+      "type": "T079",
+      "umls_id": "C0439550",
+      "score": 0.9671494960784912,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between noon and sunset."
+    },
+    {
+      "text": "garden",
+      "type": "T056",
+      "umls_id": "C0868963",
+      "score": 0.9882676005363464,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Cultivation of PLANTS; (FRUIT; VEGETABLES; MEDICINAL HERBS) on small plots of ground or in containers."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "patient denies",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213225364685059,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "lesion",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9757081866264343,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "scalp",
+      "type": "T023",
+      "umls_id": "C0036270",
+      "score": 0.9698323011398315,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The outer covering of the calvaria. It is composed of several layers: SKIN; subcutaneous connective tissue; the occipitofrontal muscle which includes the tendinous galea aponeurotica; loose connective tissue; and the pericranium (the PERIOSTEUM of the SKULL)."
+    },
+    {
+      "text": "image",
+      "type": "T170",
+      "umls_id": "C1696103",
+      "score": 0.9951585531234741,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>A characteristic representing a single file reference that contains two or more views of the same dosage form of the product; in most cases this should represent front and back views of the dosage form, but occasionally additional views might be needed in order to capture all of the important physical characteristics of the dosage form. Any imprint and/or symbol should be clearly identifiable, and the viewer should not normally need to rotate the image in order to read it. Images that are submitted with SPL should be included in the same directory as the SPL file."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "68-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

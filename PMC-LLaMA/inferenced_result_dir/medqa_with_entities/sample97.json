@@ -1,0 +1,259 @@
+{
+  "original_data": {
+    "question": "A 26-year-old male presents to his primary care physician with complaints of burning with urination, penile discharge, and intermittent fevers. A urethral smear shows gram negative diplococci within white blood cells. The organism grows well when cultured on Thayer-Martin agar. The patient is prescribed a course of ceftriaxone and the infection resolves without further complication. One year later, the patient returns with the same infection. Which of the following best explains this lack of lasting immunity?",
+    "options": {
+      "A": "Exotoxin release",
+      "B": "Antigenic variation",
+      "C": "Polysaccharide capsule",
+      "D": "Bruton's agammaglobulinemia"
+    }
+  },
+  "model_response": "The organism is Neisseria gonorrhoeae, and the patient has reinfection due to antigenic variation. N. gonorrhoeae is a gram-negative diplococcus that is the causative agent of gonorrhea. The organism is oxidase positive and aerobic. It is a fastidious organism that grows well on chocolate agar and Thayer-Martin agar. The latter contains vancomycin, which is effective against contaminating organisms. N. gonorrhoeae produces a protease that cleaves immunoglobulin A1 in the secretions, which may prevent attachment of the organism by host immunoglobulins. The organism also releases an endotoxin, which may contribute to the inflammatory response. N. gonorrhoeae is a non-spore-forming, non-capsulated organism. However, it does have a polysaccharide capsule on some strains, which may contribute to virulence. The polysaccharide capsule of Streptococcus pneumoniae is an example of a virulence factor related to capsule formation. Bruton's agammaglobulinemia is a congenital immunodeficiency that results in a lack of B-cells and immunoglobulins. This would not predispose the patient to reinfection with N. gonorrhoeae. The other choices are not relevant to gonococcal infection.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "burning",
+      "type": "T184",
+      "umls_id": "C0085624",
+      "score": 0.9737390279769897,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of stinging or heat, not necessarily accompanied by redness or physical signs of irritation."
+    },
+    {
+      "text": "urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9745711088180542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "penile discharge",
+      "type": "T184",
+      "umls_id": "C0232861",
+      "score": 0.9854956865310669,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intermittent fevers",
+      "type": "T033",
+      "umls_id": "C0277799",
+      "score": 0.9689397215843201,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Cycles of fever with intervening periods of normothermia."
+    },
+    {
+      "text": "urethral smear",
+      "type": "T023",
+      "umls_id": "C0041967",
+      "score": 0.7614350318908691,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A tube that transports URINE from the URINARY BLADDER to the outside of the body in both the sexes. It also has a reproductive function in the male by providing a passage for SPERM."
+    },
+    {
+      "text": "gram negative",
+      "type": "T007",
+      "umls_id": "C0314752",
+      "score": 0.8690240979194641,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "Any rod shaped bacteria that contains low levels of peptidoglycan in its cell wall and stains pink with the Gram staining technique."
+    },
+    {
+      "text": "diplococci",
+      "type": "T007",
+      "umls_id": "C1295730",
+      "score": 0.9845178127288818,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": null
+    },
+    {
+      "text": "white blood cells",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9866698980331421,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "organism",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9949436187744141,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "grows",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cultured",
+      "type": "T025",
+      "umls_id": "C0007635",
+      "score": 0.8282831907272339,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Cells propagated in vitro in special media conducive to their growth. Cultured cells are used to study developmental, morphologic, metabolic, physiologic, and genetic processes, among others."
+    },
+    {
+      "text": "Thayer-Martin agar",
+      "type": "T109",
+      "umls_id": "C1443928",
+      "score": 0.9633325934410095,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T130"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ceftriaxone",
+      "type": "T109",
+      "umls_id": "C0007561",
+      "score": 0.9359742999076843,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A broad-spectrum cephalosporin antibiotic and cefotaxime derivative with a very long half-life and high penetrability to meninges, eyes and inner ears."
+    },
+    {
+      "text": "infection resolves",
+      "type": "T046",
+      "umls_id": "C0205339",
+      "score": 0.7041115164756775,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Infection by the same infectious agent following a recovery. Reinfection may be by a different strain or the same strain."
+    },
+    {
+      "text": "complication",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9702832698822021,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "returns",
+      "type": "T080",
+      "umls_id": "C0332156",
+      "score": 0.7276451587677002,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "To give something back, or the getting back thereof."
+    },
+    {
+      "text": "infection",
+      "type": "T047",
+      "umls_id": "C0009450",
+      "score": 0.9619160294532776,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An illness caused by an infectious agent or its toxins that occurs through the direct or indirect transmission of the infectious agent or its products from an infected individual or via an animal, vector or the inanimate environment to a susceptible animal or human host."
+    },
+    {
+      "text": "lasting immunity",
+      "type": "T042",
+      "umls_id": "C0020964",
+      "score": 0.7283269166946411,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Nonsusceptibility to the invasive or pathogenic effects of foreign microorganisms or to the toxic effect of antigenic substances."
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

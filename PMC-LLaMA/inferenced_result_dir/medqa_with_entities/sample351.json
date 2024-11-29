@@ -1,0 +1,523 @@
+{
+  "original_data": {
+    "question": "A 26-year-old nurse comes to the physician because of a 2-month history of fatigue. She has had a lot of stress at work and has been on sick leave for 2 weeks, but states that she would like to return to work. She has had several episodes of lower abdominal pain. She says, \"\"I know I have cancer.\"\" She requests a diagnostic laparoscopy. She was diagnosed with peptic ulcer disease 6 months ago. Her only medication is omeprazole. The patient appears pale. Her temperature is 36.5° C (97.7° F), pulse is 120/min, and blood pressure is 90/65 mm Hg. On mental status examination she is tired and has a depressed mood. Physical examination shows pale conjunctivae and dry mucous membranes. There are numerous crusts along the course of her left arm veins. A grade 2/6 systolic ejection murmur is heard along the right-upper sternal border. Abdominal examination shows no abnormalities. There is generalized weakness of the proximal muscles. Laboratory studies show:\nHemoglobin 7.5 g/dL\nMean corpuscular volume 89 μm3\nReticulocyte count 13.3%\nSerum\nSodium 139 mEq/L\nPotassium 3.9 mEq/L\nCalcium 8.5 mg/dL\nTest of the stool for occult blood is negative. Abdominal ultrasonography show no abnormalities. Which of the following is the most likely diagnosis?\"",
+    "options": {
+      "A": "Factitious disorder",
+      "B": "Somatic symptom disorder",
+      "C": "Conversion disorder",
+      "D": "Acute small bowel hemorrhage"
+    }
+  },
+  "model_response": "{'R': 'Somatic symptom disorder', 'S': 'Factitious disorder', 'T': 'Conversion disorder', 'U': 'Acute small bowel hemorrhage'}\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.9822375178337097,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "stress",
+      "type": "T033",
+      "umls_id": "C0038435",
+      "score": 0.9958552122116089,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The negative mental, emotional, and physical reactions that occur when environmental stressors are perceived as exceeding the individual's adaptive capacities."
+    },
+    {
+      "text": "sick",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9954224824905396,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "return to work",
+      "type": "T033",
+      "umls_id": "C0425105",
+      "score": 0.9758062958717346,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Resumption of normal work routine following a hiatus or period of absence due to injury, disability, or other reasons."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cancer",
+      "type": "T191",
+      "umls_id": "C0006826",
+      "score": 0.9914878010749817,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas, Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas."
+    },
+    {
+      "text": "diagnostic laparoscopy",
+      "type": "T060",
+      "umls_id": "C0031150",
+      "score": 0.9829906225204468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A procedure in which a laparoscope (LAPAROSCOPES) is inserted through a small incision near the navel to examine the abdominal and pelvic organs in the PERITONEAL CAVITY. If appropriate, biopsy or surgery can be performed during laparoscopy."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "peptic ulcer disease",
+      "type": "T047",
+      "umls_id": "C0030920",
+      "score": 0.970623791217804,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Ulcer that occurs in the regions of the GASTROINTESTINAL TRACT which come into contact with GASTRIC JUICE containing PEPSIN and GASTRIC ACID. It occurs when there are defects in the MUCOSA barrier. The common forms of peptic ulcers are associated with HELICOBACTER PYLORI and the consumption of nonsteroidal anti-inflammatory drugs (NSAIDS)."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "omeprazole",
+      "type": "T109",
+      "umls_id": "C0028978",
+      "score": 0.9803848266601562,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A 4-methoxy-3,5-dimethylpyridyl, 5-methoxybenzimidazole derivative of timoprazole that is used in the therapy of STOMACH ULCERS and ZOLLINGER-ELLISON SYNDROME. The drug inhibits an H(+)-K(+)-EXCHANGING ATPASE which is found in GASTRIC PARIETAL CELLS."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "depressed mood",
+      "type": "T048",
+      "umls_id": "C0344315",
+      "score": 0.9759973883628845,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An emotional state characterized by feelings of sadness, emptiness, and/or tearfulness."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "conjunctivae",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.8391914367675781,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "dry mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.8913642764091492,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "crusts",
+      "type": "T020",
+      "umls_id": "C0205204",
+      "score": 0.9853023290634155,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": "A hard covering or layer of solid matter formed by dried bodily exudate or secretion."
+    },
+    {
+      "text": "course",
+      "type": "T079",
+      "umls_id": "C0750729",
+      "score": 0.9768689870834351,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Passage through time; duration; a systematic or/and orderly succession; a sequence, e.g. course of treatment; a mode of action or behavior; natural development, typical manner of proceeding."
+    },
+    {
+      "text": "left arm veins",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.7543299794197083,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "grade",
+      "type": "T185",
+      "umls_id": "C0441800",
+      "score": 0.9976638555526733,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A position on a scale of intensity or amount or quality."
+    },
+    {
+      "text": "systolic ejection",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7026140689849854,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "right-upper sternal border",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "generalized weakness",
+      "type": "T184",
+      "umls_id": "C0746674",
+      "score": 0.961841344833374,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A reduction in the strength of muscles in multiple anatomic sites."
+    },
+    {
+      "text": "proximal muscles",
+      "type": "T023",
+      "umls_id": "C2984223",
+      "score": 0.8859606981277466,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscle located close to the trunk of the body."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Reticulocyte",
+      "type": "T025",
+      "umls_id": "C0035286",
+      "score": 0.9877743124961853,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Immature ERYTHROCYTES. In humans, these are ERYTHROID CELLS that have just undergone extrusion of their CELL NUCLEUS. They still contain some organelles that gradually decrease in number as the cells mature. RIBOSOMES are last to disappear. Certain staining techniques cause components of the ribosomes to precipitate into characteristic \"reticulum\" (not the same as the ENDOPLASMIC RETICULUM), hence the name reticulocytes."
+    },
+    {
+      "text": "Serum\nSodium 139",
+      "type": "T059",
+      "umls_id": "C0523891",
+      "score": 0.8865927457809448,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of sodium present in a sample of serum."
+    },
+    {
+      "text": "Potassium",
+      "type": "T121",
+      "umls_id": "C0032821",
+      "score": 0.9785500764846802,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element in the alkali group of metals with an atomic symbol K, atomic number 19, and atomic weight 39.10. It is the chief cation in the intracellular fluid of muscle and other cells. Potassium ion is a strong electrolyte that plays a significant role in the regulation of fluid volume and maintenance of the WATER-ELECTROLYTE BALANCE."
+    },
+    {
+      "text": "stool",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9800705909729004,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "occult",
+      "type": "T078",
+      "umls_id": "C0028794",
+      "score": 0.9953896403312683,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The belief in or study of practices and knowledge of magical, mystical, or supernatural powers. ALCHEMY, astrology, and many RELIGIOUS PHILOSOPHIES are based upon occult principles."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Abdominal ultrasonography",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.7846372127532959,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "no abnormalities",
+      "type": "T033",
+      "umls_id": "C3809765",
+      "score": 0.9869627356529236,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "original_data": {
+    "question": "A 56-year-old man comes to the physician because of a 1-day history of sudden severe pain in his right great toe. Four months ago, he had an episode of severe joint pain involving his left knee that lasted several days and resolved with over-the-counter analgesics. He has a history of hypertension treated with hydrochlorothiazide and nephrolithiasis. Examination shows erythema, swelling, warmth, and tenderness of the right metatarsophalangeal joint; range of movement is limited by pain. His serum uric acid is 12 mg/dL. Arthrocentesis yields cloudy fluid with a leukocyte count of 18,500/mm3 (80% segmented neutrophils). Polarized light microscopy of the synovial fluid is shown. Which of the following is the mechanism of action of the most appropriate long-term pharmacotherapy for this patient's condition?",
+    "options": {
+      "A": "Increased conversion of uric acid to allantoin",
+      "B": "Inhibition of phospholipase A",
+      "C": "Inhibition of xanthine oxidase",
+      "D": "Increased renal excretion of urate"
+    }
+  },
+  "model_response": "The clinical and laboratory findings are most consistent with acute gouty arthritis. The synovial fluid findings are classic for urate crystal deposition. Uric acid is produced from the metabolism of purines and is eliminated by the kidneys. Increased production or decreased excretion can lead to hyperuricemia. The most common cause of hyperuricemia is decreased excretion. Drugs that inhibit uric acid synthesis (e.g., allopurinol) are used in the long-term management of gout. These agents increase conversion of uric acid to allantoin, a more soluble end product. Drugs that inhibit phospholipase A2 (e.g., indomethacin) are useful in the treatment of acute gout but are not appropriate for long-term management. Xanthine oxidase inhibitors (e.g., allopurinol) are used in the long-term management of gout. These agents inhibit the conversion of hypoxanthine and xanthine to uric acid. Drugs that increase renal excretion of urate (e.g., probenecid) are not used in the long-term management of gout. These agents may actually aggravate the condition by increasing the serum uric acid level.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "sudden severe pain",
+      "type": "T033",
+      "umls_id": "C0278140",
+      "score": 0.771974503993988,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Score 6-7"
+    },
+    {
+      "text": "right great toe",
+      "type": "T023",
+      "umls_id": "C0930961",
+      "score": 0.9855995178222656,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "joint pain",
+      "type": "T184",
+      "umls_id": "C0003862",
+      "score": 0.9798861742019653,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the joint."
+    },
+    {
+      "text": "left knee",
+      "type": "T023",
+      "umls_id": "C0230432",
+      "score": 0.979669988155365,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "analgesics",
+      "type": "T109",
+      "umls_id": "C0002771",
+      "score": 0.9707352519035339,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "Compounds capable of relieving pain without the loss of CONSCIOUSNESS."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "nephrolithiasis",
+      "type": "T047",
+      "umls_id": "C0022650",
+      "score": 0.9870428442955017,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Stones in the KIDNEY, usually formed in the urine-collecting area of the kidney (KIDNEY PELVIS). Their sizes vary and most contains CALCIUM OXALATE."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "erythema",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9885126948356628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "warmth",
+      "type": "T039",
+      "umls_id": "C0392197",
+      "score": 0.9567893743515015,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "Having a moderate degree of heat."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "right metatarsophalangeal joint",
+      "type": "T030",
+      "umls_id": "C0827035",
+      "score": 0.9839723706245422,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "uric acid",
+      "type": "T109",
+      "umls_id": "C0041980",
+      "score": 0.9921275973320007,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "An oxidation product, via XANTHINE OXIDASE, of oxypurines such as XANTHINE and HYPOXANTHINE. It is the final oxidation product of purine catabolism in humans and primates, whereas in most other mammals URATE OXIDASE further oxidizes it to ALLANTOIN."
+    },
+    {
+      "text": "Arthrocentesis",
+      "type": "T061",
+      "umls_id": "C0204854",
+      "score": 0.9921028017997742,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Puncture and aspiration of fluid (e.g., SYNOVIAL FLUID) from a joint cavity. It is used sometimes to irrigate or administer drugs into a joint cavity."
+    },
+    {
+      "text": "cloudy",
+      "type": "T080",
+      "umls_id": "C0205406",
+      "score": 0.9728391766548157,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fluid",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9930761456489563,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "leukocyte",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9799895286560059,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "segmented",
+      "type": "T204",
+      "umls_id": "C0003096",
+      "score": 0.7587459683418274,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "A phylum of metazoan invertebrates comprising the segmented worms, and including marine annelids (POLYCHAETA), freshwater annelids, earthworms (OLIGOCHAETA), and LEECHES. Only the leeches are of medical interest. (Dorland, 27th ed)"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Polarized light microscopy",
+      "type": "T059",
+      "umls_id": "C0026025",
+      "score": 0.9868080019950867,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Microscopy using polarized light in which phenomena due to the preferential orientation of optical properties with respect to the vibration plane of the polarized light are made visible and correlated parameters are made measurable."
+    },
+    {
+      "text": "synovial fluid",
+      "type": "T031",
+      "umls_id": "C0039097",
+      "score": 0.978934645652771,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear, viscous fluid secreted by the SYNOVIAL MEMBRANE. It contains mucin, albumin, fat, and mineral salts and serves to lubricate joints."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "long-term",
+      "type": "T079",
+      "umls_id": "C0443252",
+      "score": 0.9621292948722839,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Involving or being in effect for a long time."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "56-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

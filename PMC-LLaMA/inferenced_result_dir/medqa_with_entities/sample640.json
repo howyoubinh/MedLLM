@@ -1,0 +1,408 @@
+{
+  "original_data": {
+    "question": "A 4-year-old boy presents for a routine checkup. The patient’s parents say he was doing well until a few weeks ago at which time he started to complain of daily abdominal cramps and occasional muscle pains. His mother also noticed that he has been less active than usual. The parents deny any complaints of headaches or convulsions. The family lives together in a house built in 1950. The patient’s temperature is 36.8°C (98.2°F), blood pressure is 100/70 mm Hg, pulse is 100/min and respirations are 20/min. Abdominal exam shows mild diffuse tenderness to palpation and normal bowel sounds. The patient’s height, weight, and head circumference are normal. Laboratory results are as follows:\nHemoglobin 7 g/dL\nMean corpuscular volume (MCV) 72\nLead level (capillary blood) 15 mcg/dL\nLead level (venous blood) 60 mcg/dL\nFindings on a peripheral blood smear are shown in the image. Which of the following is the best treatment option for this patient?",
+    "options": {
+      "A": "Trientine",
+      "B": "Calcium disodium edetate (EDTA)",
+      "C": "Penicillamine",
+      "D": "Dimercaptosuccinic acid (DMSA), also known as succimer"
+    }
+  },
+  "model_response": "The findings are consistent with lead poisoning. The low hemoglobin and MCV, along with basophilic stippling of the red cells, are diagnostic of lead poisoning. The venous lead level is more accurate than the capillary level, but even the capillary level is significantly elevated and confirms the diagnosis. The best treatment option for this patient is EDTA. EDTA is a chelating agent that is very effective in removing lead from the body. It is given orally and is well tolerated. Trientine is another chelating agent that is less effective than EDTA but is given parenterally, which is an advantage over EDTA. Penicillamine is also a chelating agent, but it is not indicated for lead poisoning because it does not effectively remove lead from the body. DMSA is used to treat heavy metal poisoning due to arsenic, mercury, and copper, not lead.\n\n###QUERY: 263> Which of the following is the best treatment option for this patient?</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "routine checkup",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "parents say",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.8254037499427795,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "doing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "complain",
+      "type": "T033",
+      "umls_id": "C0277786",
+      "score": 0.8713775277137756,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The primary reason for a patient visit."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "abdominal cramps",
+      "type": "T184",
+      "umls_id": "C0000729",
+      "score": 0.9715237021446228,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An involuntary muscular contraction involving a muscle of the abdomen or of a hollow organ within the abdomen."
+    },
+    {
+      "text": "occasional muscle",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.7603511214256287,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "usual",
+      "type": "T080",
+      "umls_id": "C3538928",
+      "score": 0.949625551700592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "That which is considered customary."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "deny",
+      "type": "T052",
+      "umls_id": "C2700401",
+      "score": 0.9728723764419556,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Refuse to accept, recognize or acknowledge."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "convulsions",
+      "type": "T184",
+      "umls_id": "C0036572",
+      "score": 0.947310745716095,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical or subclinical disturbances of cortical function due to a sudden, abnormal, excessive, and disorganized discharge of brain cells. Clinical manifestations include abnormal motor, sensory and psychic phenomena. Recurrent seizures are usually referred to as EPILEPSY or \"seizure disorder.\""
+    },
+    {
+      "text": "family lives",
+      "type": "T033",
+      "umls_id": "C0557130",
+      "score": 0.8666861653327942,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>Living with family. Maps to PD1-2 Living arrangement (IS) 00742 \\[F\\]</p>"
+    },
+    {
+      "text": "house built",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "Abdominal exam",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.8482996821403503,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "normal bowel sounds",
+      "type": "T033",
+      "umls_id": "C0278005",
+      "score": 0.9752619862556458,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient’s height",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.7492727041244507,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "head circumference",
+      "type": "T201",
+      "umls_id": "C0262499",
+      "score": 0.9727798104286194,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "A circumferential measurement of the head at the widest point, which is traditionally above the eyebrows."
+    },
+    {
+      "text": "Laboratory results",
+      "type": "T034",
+      "umls_id": "C1254595",
+      "score": 0.9686997532844543,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "MCV",
+      "type": "T061",
+      "umls_id": "C0285131",
+      "score": 0.982687771320343,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A chemotherapy regimen consisting of cisplatin, methotrexate and vinblastine that may be used in the treatment of certain bladder cancers."
+    },
+    {
+      "text": "capillary blood",
+      "type": "T023",
+      "umls_id": "C0006901",
+      "score": 0.9902843832969666,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The minute vessels that connect arterioles and venules."
+    },
+    {
+      "text": "venous blood",
+      "type": "T031",
+      "umls_id": "C0229667",
+      "score": 0.9852524995803833,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "peripheral blood smear",
+      "type": "T031",
+      "umls_id": "C0229664",
+      "score": 0.8488079905509949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood."
+    },
+    {
+      "text": "image",
+      "type": "T170",
+      "umls_id": "C1696103",
+      "score": 0.9951585531234741,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>A characteristic representing a single file reference that contains two or more views of the same dosage form of the product; in most cases this should represent front and back views of the dosage form, but occasionally additional views might be needed in order to capture all of the important physical characteristics of the dosage form. Any imprint and/or symbol should be clearly identifiable, and the viewer should not normally need to rotate the image in order to read it. Images that are submitted with SPL should be included in the same directory as the SPL file."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "4-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

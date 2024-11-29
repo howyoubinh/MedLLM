@@ -1,0 +1,469 @@
+{
+  "original_data": {
+    "question": "A 56-year-old woman is brought to the emergency department by her husband because of increasing confusion, generalized fatigue, and irritability for the past week. She has been unable to recall her husband's name or their address. She has had insomnia and daytime sleepiness during this period. Her last bowel movement was 3 days ago. One month ago, she underwent a transjugular intrahepatic portal shunt (TIPS) placement. She has alcoholic liver cirrhosis. Current medications include spironolactone and furosemide. She used to drink over a pint of vodka daily but quit 2 months ago. She is oriented to place and person. Her temperature is 37.3°C (99.1°F), pulse is 88/min, and blood pressure is 102/64 mm Hg. Examination shows scleral icterus and jaundice. There are several telangiectasias over the chest and back. Palmar erythema is present. The abdomen is mildly distended and nontender. Shifting dullness is present. There is a flapping tremor of both hands when outstretched and dorsiflexed. Neurologic examination shows no other focal findings. She completes the number connection test slower than the age-normalized standard. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Reversal of TIPS",
+      "B": "Paracentesis",
+      "C": "Administer IV ceftriaxone",
+      "D": "Administer lactulose"
+    }
+  },
+  "model_response": "The clinical features described are consistent with hepatic encephalopathy in the setting of chronic liver disease. The precipitating factor in this case is likely the TIPS procedure. The elevated ammonia level is characteristic. The next step in management is to administer lactulose, a nonabsorbable disaccharide that acts as an osmotic laxative to reduce ammonia absorption in the gut. Poor performance on number connection tests is an early sign of encephalopathy. Reversal of the TIPS is unlikely to be helpful. The patient does not have spontaneous bacterial peritonitis, so there is no need for antibiotics.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "confusion",
+      "type": "T048",
+      "umls_id": "C0009676",
+      "score": 0.9526641964912415,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A mental state characterized by bewilderment, emotional disturbance, lack of clear thinking, and perceptual disorientation."
+    },
+    {
+      "text": "generalized fatigue",
+      "type": "T184",
+      "umls_id": "C0241898",
+      "score": 0.9676313996315002,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "irritability",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9875359535217285,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "husband's",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.7563127279281616,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "insomnia",
+      "type": "T184",
+      "umls_id": "C0917801",
+      "score": 0.9511995911598206,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sleep disorder characterized by difficulty in falling asleep and/or remaining asleep."
+    },
+    {
+      "text": "daytime sleepiness",
+      "type": "T033",
+      "umls_id": "C2219848",
+      "score": 0.9740692973136902,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "transjugular intrahepatic portal shunt",
+      "type": "T061",
+      "umls_id": "C0339897",
+      "score": 0.8387855291366577,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A type of surgical portasystemic shunt to reduce portal hypertension with associated complications of esophageal varices and ascites. It is performed percutaneously through the jugular vein and involves the creation of an intrahepatic shunt between the hepatic vein and portal vein. The channel is maintained by a metallic stent. The procedure can be performed in patients who have failed sclerotherapy and is an additional option to the surgical techniques of portocaval, mesocaval, and splenorenal shunts. It takes one to three hours to perform. (JAMA 1995;273(23):1824-30)"
+    },
+    {
+      "text": "placement",
+      "type": "T061",
+      "umls_id": "C0021107",
+      "score": 0.9827958345413208,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A surgical procedure that places something in the human body."
+    },
+    {
+      "text": "alcoholic liver cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023891",
+      "score": 0.9759313464164734,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "FIBROSIS of the hepatic parenchyma due to chronic excess ALCOHOL DRINKING."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "spironolactone",
+      "type": "T109",
+      "umls_id": "C0037982",
+      "score": 0.9798396825790405,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A potassium sparing diuretic that acts by antagonism of aldosterone in the distal renal tubules. It is used mainly in the treatment of refractory edema in patients with congestive heart failure, nephrotic syndrome, or hepatic cirrhosis. Its effects on the endocrine system are utilized in the treatments of hirsutism and acne but they can lead to adverse effects. (From Martindale, The Extra Pharmacopoeia, 30th ed, p827)"
+    },
+    {
+      "text": "furosemide",
+      "type": "T109",
+      "umls_id": "C0016860",
+      "score": 0.9867109060287476,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for EDEMA and chronic RENAL INSUFFICIENCY."
+    },
+    {
+      "text": "drink",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9850457310676575,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "vodka daily",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "telangiectasias",
+      "type": "T033",
+      "umls_id": "C0039446",
+      "score": 0.9796313047409058,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Permanent dilation of preexisting blood vessels (CAPILLARIES; ARTERIOLES; VENULES) creating small focal red lesions, most commonly in the skin or mucous membranes. It is characterized by the prominence of skin blood vessels, such as vascular spiders."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "back",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9834582209587097,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "Palmar erythema",
+      "type": "T033",
+      "umls_id": "C0014745",
+      "score": 0.9850231409072876,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "distended",
+      "type": "T033",
+      "umls_id": "C0700124",
+      "score": 0.9847769737243652,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The condition of being dilated or stretched."
+    },
+    {
+      "text": "nontender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "dullness",
+      "type": "T033",
+      "umls_id": "C0541911",
+      "score": 0.974902331829071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "flapping tremor",
+      "type": "T184",
+      "umls_id": "C0232766",
+      "score": 0.9765090346336365,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A tremor of the wrist that is observed when the wrist is extended."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "outstretched",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "dorsiflexed",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Neurologic examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9734473824501038,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "focal findings",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "number connection",
+      "type": "T082",
+      "umls_id": "C0449379",
+      "score": 0.7502790689468384,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "<p>An adjacency of two Entities held together by a bond which attaches to each of the two entities.</p><i>Examples:</i>biceps brachii muscle connected to the radius bone, port 3 on a network switch connected to port 5 on a patch panel.<i>UsageConstraints:</i>See Adjacency for the assignment of scoper (larger, more central) and player (smaller, more distant)."
+    },
+    {
+      "text": "age-normalized standard",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "56-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

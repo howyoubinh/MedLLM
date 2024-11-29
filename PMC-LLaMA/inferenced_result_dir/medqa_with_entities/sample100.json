@@ -1,0 +1,381 @@
+{
+  "original_data": {
+    "question": "A 2-day-old male newborn is brought to the physician because of yellowing of the skin and sclerae for 16 hours. He had previously been well. He was born at 38 weeks' gestation via uncomplicated vaginal delivery and weighed 3.1 kg (6 lb 13 oz). The mother has no medical insurance and did not receive prenatal care. The newborn's 4-year-old brother has sickle cell disease. Examination shows jaundice. The abdomen is mildly distended. The liver is palpated 1 cm below the right costal margin and the spleen tip is palpated just below the left costal margin. Laboratory studies show:\nHemoglobin 11 g/dL\nReticulocytes 9%\nLeukocytes 9,100/mm3\nPlatelets 244,000/mm3\nMaternal blood group 0, Rh-negative\nAnti-Rh antibody titer positive\nFetal blood group B, Rh-negative\nSerum\nBilirubin, total 11.3 mg/dL\nDirect 0.3 mg/dL\nWhich of the following is the most likely cause of this patient's condition?\"",
+    "options": {
+      "A": "RBC sickling",
+      "B": "Anti-D antibodies",
+      "C": "Biliary duct malformation",
+      "D": "Anti-B antibodies"
+    }
+  },
+  "model_response": "This newborn has erythroblastosis fetalis, also known as alloimmune hemolytic anemia. The mother is Rh-negative and the fetus is Rh-positive. The positive anti-Rh antibody titer in the mother's blood caused the destruction of fetal RBCs. The destruction of fetal RBCs caused an increase in fetal bilirubin, which crossed the placenta and caused jaundice in the newborn. The increased destruction of RBCs caused an increase in reticulocytes. The fetus developed anemia, which caused an increase in fetal erythropoietin and, therefore, an increase in the number of erythroblasts in the bone marrow. The liver and spleen enlargement are secondary to the anemia. The positive direct Coombs test result indicates that anti-Rh antibodies are on the surface of fetal RBCs. The positive anti-D antibody titer in the mother's blood is a result of the presence of anti-D antibodies in the mother's blood. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs.\n\nThe anti-B antibody titer in the mother's blood is not significant because the fetus is B-negative. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs.\n\nThe sickling of RBCs is not likely to be present in this newborn because the newborn has not yet developed sickling hemoglobin. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs.\n\n###end of question\n\n###comment:\n\nThis newborn has erythroblastosis fetalis, also known as alloimmune hemolytic anemia. The mother is Rh-negative and the fetus is Rh-positive. The positive anti-Rh antibody titer in the mother's blood caused the destruction of fetal RBCs. The destruction of fetal RBCs caused an increase in fetal bilirubin, which crossed the placenta and caused jaundice in the newborn. The increased destruction of RBCs caused an increase in reticulocytes. The fetus developed anemia, which caused an increase in fetal erythropoietin and, therefore, an increase in the number of erythroblasts in the bone marrow. The liver and spleen enlargement are secondary to the anemia. The positive direct Coombs test result indicates that anti-Rh antibodies are on the surface of fetal RBCs. The positive anti-D antibody titer in the mother's blood is a result of the presence of anti-D antibodies in the mother's blood. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The anti-B antibody titer in the mother's blood is not significant because the fetus is B-negative. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antibodies are on the surface of fetal RBCs. The positive direct Coombs test result indicates that these antib",
+  "question_entities": [
+    {
+      "text": "2-day-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "yellowing",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.7918382883071899,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sclerae",
+      "type": "T023",
+      "umls_id": "C0036410",
+      "score": 0.7827492356300354,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The white, opaque, fibrous, outer tunic of the eyeball, covering it entirely excepting the segment covered anteriorly by the cornea. It is essentially avascular but contains apertures for vessels, lymphatics, and nerves. It receives the tendons of insertion of the extraocular muscles and at the corneoscleral junction contains the CANAL OF SCHLEMM. (From Cline et al., Dictionary of Visual Science, 4th ed)"
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "medical insurance",
+      "type": "T033",
+      "umls_id": "C0481840",
+      "score": 0.9775274991989136,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "prenatal care",
+      "type": "T058",
+      "umls_id": "C0033052",
+      "score": 0.9855771064758301,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care provided the pregnant woman in order to prevent complications, and decrease the incidence of maternal and prenatal mortality."
+    },
+    {
+      "text": "newborn's",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.7446947693824768,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "brother",
+      "type": "T099",
+      "umls_id": "C0337527",
+      "score": 0.9884945750236511,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male sibling."
+    },
+    {
+      "text": "sickle cell disease",
+      "type": "T047",
+      "umls_id": "C0002895",
+      "score": 0.9725584983825684,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease characterized by chronic hemolytic anemia, episodic painful crises, and pathologic involvement of many organs. It is the clinical expression of homozygosity for hemoglobin S."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "right costal margin",
+      "type": "T029",
+      "umls_id": "C0502460",
+      "score": 0.9858113527297974,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spleen tip",
+      "type": "T023",
+      "umls_id": "C0037993",
+      "score": 0.7822220921516418,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An encapsulated lymphatic organ through which venous blood filters."
+    },
+    {
+      "text": "left costal margin",
+      "type": "T029",
+      "umls_id": "C0502461",
+      "score": 0.9842795729637146,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Reticulocytes",
+      "type": "T025",
+      "umls_id": "C0035286",
+      "score": 0.9870882034301758,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Immature ERYTHROCYTES. In humans, these are ERYTHROID CELLS that have just undergone extrusion of their CELL NUCLEUS. They still contain some organelles that gradually decrease in number as the cells mature. RIBOSOMES are last to disappear. Certain staining techniques cause components of the ribosomes to precipitate into characteristic \"reticulum\" (not the same as the ENDOPLASMIC RETICULUM), hence the name reticulocytes."
+    },
+    {
+      "text": "Leukocytes",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.978119432926178,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "Maternal",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9798679351806641,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "blood group 0",
+      "type": "T185",
+      "umls_id": "C0005810",
+      "score": 0.9515132904052734,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A classification of blood based on the presence or absence of inherited antigenic substances on the surface of erythrocytes."
+    },
+    {
+      "text": "Rh-negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.7404350638389587,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Anti-Rh antibody",
+      "type": "T116",
+      "umls_id": "C0003242",
+      "score": 0.8195208311080933,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Antibodies which react with the individual structural determinants (idiotopes) on the variable region of other antibodies."
+    },
+    {
+      "text": "titer",
+      "type": "T081",
+      "umls_id": "C0475208",
+      "score": 0.9780940413475037,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Concentration of a substance in a solution as determined by the quantitative reaction with added measured volume(s) of a solution of the precisely known concentration(s) of a standard reagent."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Fetal blood group B",
+      "type": "T034",
+      "umls_id": "C0427623",
+      "score": 0.8269392848014832,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "A blood group indicating the presence on erythrocytes of only the B form of the H Antigen."
+    },
+    {
+      "text": "Rh-negative\nSerum\nBilirubin",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "4-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

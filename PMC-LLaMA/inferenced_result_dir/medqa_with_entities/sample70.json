@@ -1,0 +1,508 @@
+{
+  "original_data": {
+    "question": "A 66-year-old man is brought to the emergency room by his wife due to abdominal distension and persistent somnolence for the past 2 weeks. The patient’s wife says that he has been sleeping much more than usual for the past 5 days. His bowel and bladder habit have not changed. His past medical history is significant for alcoholic liver cirrhosis. His vital signs include: pulse 76/min, respiratory rate 15/min, temperature 38.0°C (100.4°F) and blood pressure 122/75 mm Hg. On physical examination, the patient is altered and not responsive to commands. Oriented x 0. The abdomen is significantly distended. Shifting dullness is present and a positive fluid wave can be elicited. Hyperreflexia and asterixis are noted. Laboratory findings are significant for the following:\nLaboratory test\nSodium 140 mEq/L\nPotassium 3.5 mEq/L\nChloride 97 mEq/L\nGlucose 90 mg/dL\nAmmonia 100 µg/dL (ref: 19-60 µg/dL)\nArterial blood gas\npH 7.4\npCO2 40 mm Hg\npO2 90 mm Hg\nHCO3 26 mEq/L\nAn abdominal ultrasound shows surface nodularity compatible with cirrhosis but no other changes aside from ascites. An upper GI endoscopy is performed which shows gastric varices with no signs of active bleeding. An MRI of the brain is insignificant. What is the most likely precipitating factor that led to this patient’s condition?",
+    "options": {
+      "A": "Spontaneous bacterial peritonitis",
+      "B": "Metabolic alkalosis",
+      "C": "Portal vein thrombosis",
+      "D": "Hypoglycemia"
+    }
+  },
+  "model_response": "The patient’s altered mental status, abdominal distension, and positive fluid wave are consistent with a diagnosis of hepatic encephalopathy. The elevated ammonia level suggests that this patient’s encephalopathy is due to a gastrointestinal origin. The most common cause of hepatic encephalopathy is gastrointestinal bleeding. In this patient, the upper GI endoscopy showed gastric varices with no signs of active bleeding. The other common cause of hepatic encephalopathy is spontaneous bacterial peritonitis (SBP). The patient’s abdominal distension, positive fluid wave, and elevated white blood cell count with a left shift are consistent with SBP. The elevated ammonia level is not a feature of SBP. The other choices are not precipitating factors for hepatic encephalopathy.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "abdominal distension",
+      "type": "T033",
+      "umls_id": "C0000731",
+      "score": 0.9753097295761108,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling of the abdomen resulting from excessive food intake, malnutrition, liver disease, primary abdominal tumors, and tumors metastatic to the abdominal cavity."
+    },
+    {
+      "text": "persistent",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.981314480304718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "patient’s wife says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "His bowel",
+      "type": "T023",
+      "umls_id": "C0021853",
+      "score": 0.7732630968093872,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The section of the alimentary canal from the STOMACH to the ANAL CANAL. It includes the LARGE INTESTINE and SMALL INTESTINE."
+    },
+    {
+      "text": "bladder habit",
+      "type": "T023",
+      "umls_id": "C0005682",
+      "score": 0.7456111311912537,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A musculomembranous sac along the URINARY TRACT. URINE flows from the KIDNEYS into the bladder via the ureters (URETER), and is held there until URINATION."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "alcoholic liver cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023891",
+      "score": 0.9759313464164734,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "FIBROSIS of the hepatic parenchyma due to chronic excess ALCOHOL DRINKING."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "commands",
+      "type": "T185",
+      "umls_id": "C4521843",
+      "score": 0.7082507014274597,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A Commissioned Officer O5 is a Lieutenant Colonel in all US military branches except in the Coast Guard and Navy where it is a Commander."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "dullness",
+      "type": "T033",
+      "umls_id": "C0541911",
+      "score": 0.974902331829071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "positive fluid",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.7817904949188232,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "elicited",
+      "type": "T080",
+      "umls_id": "C0449265",
+      "score": 0.9908786416053772,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Hyperreflexia",
+      "type": "T033",
+      "umls_id": "C0151889",
+      "score": 0.978400707244873,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Autonomic nervous system overreaction to stimuli, most commonly after spinal cord injury at a T-5 level and above."
+    },
+    {
+      "text": "asterixis",
+      "type": "T184",
+      "umls_id": "C0232766",
+      "score": 0.9390121698379517,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A tremor of the wrist that is observed when the wrist is extended."
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Arterial blood gas",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9828471541404724,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "pCO2",
+      "type": "T034",
+      "umls_id": "C0391839",
+      "score": 0.996638834476471,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pO2",
+      "type": "T059",
+      "umls_id": "C1283004",
+      "score": 0.9435220956802368,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the pressure of oxygen dissolved in the blood and how well oxygen is able to move from the airspace of the lungs into the blood."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "HCO3",
+      "type": "T121",
+      "umls_id": "C0005367",
+      "score": 0.9921357035636902,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "Inorganic salts that contain the -HCO3 radical. They are an important factor in determining the pH of the blood and the concentration of bicarbonate ions is regulated by the kidney. Levels in the blood are an index of the alkali reserve or buffering capacity."
+    },
+    {
+      "text": "abdominal ultrasound",
+      "type": "T060",
+      "umls_id": "C2348813",
+      "score": 0.9747382998466492,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A method of ultrasound imaging in which the ultrasound probe is pressed against the skin of the abdomen in order to create an image of the abdominal organs."
+    },
+    {
+      "text": "surface",
+      "type": "T082",
+      "umls_id": "C0205148",
+      "score": 0.9766765832901001,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The extended two-dimensional outer boundary of a three-dimensional object."
+    },
+    {
+      "text": "nodularity",
+      "type": "T080",
+      "umls_id": "C0449579",
+      "score": 0.9876349568367004,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "compatible",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9705362915992737,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023890",
+      "score": 0.976765513420105,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Liver disease in which the normal microcirculation, the gross vascular anatomy, and the hepatic architecture have been variably destroyed and altered with fibrous septa surrounding regenerated or regenerating parenchymal nodules."
+    },
+    {
+      "text": "changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9851773381233215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "ascites",
+      "type": "T047",
+      "umls_id": "C0003962",
+      "score": 0.9889810681343079,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Accumulation or retention of free fluid within the peritoneal cavity."
+    },
+    {
+      "text": "upper GI endoscopy",
+      "type": "T060",
+      "umls_id": "C0079304",
+      "score": 0.9793772101402283,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An endoscopic procedure that visualizes the upper part of the gastrointestinal tract up to the duodenum."
+    },
+    {
+      "text": "gastric varices",
+      "type": "T047",
+      "umls_id": "C0017145",
+      "score": 0.990753710269928,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Extreme dilation of the submucusoal veins in the stomach. [HPO:probinson, PMID:24891929]"
+    },
+    {
+      "text": "active bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.7317800521850586,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "MRI",
+      "type": "T060",
+      "umls_id": "C0024485",
+      "score": 0.9940130114555359,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Non-invasive method of demonstrating internal anatomy based on the principle that atomic nuclei in a strong magnetic field absorb pulses of radiofrequency energy and emit them as radiowaves which can be reconstructed into computerized images. The concept includes proton spin tomographic techniques."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "insignificant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8140692114830017,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "precipitating factor",
+      "type": "T201",
+      "umls_id": "C0032930",
+      "score": 0.9761428833007812,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Factors associated with the definitive onset of a disease, illness, accident, behavioral response, or course of action. Usually one factor is more important or more obviously recognizable than others, if several are involved, and one may often be regarded as \"necessary\". Examples include exposure to specific disease; amount or level of an infectious organism, drug, or noxious agent, etc."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "66-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "original_data": {
+    "question": "A 14-year-old girl comes to the physician with her father for evaluation of her short stature. She feels well overall, but is concerned because all of her friends are taller than her. Her birth weight was normal. Her father reports he had a short stature during his teenage years; he is currently 177 cm (5 ft 10 in) tall. She is at the 2ndpercentile for height and 35th percentile for weight. Breast development is Tanner stage 2. Pubic and axillary hair is absent. An x-ray of the left hand and wrist shows a bone age of 11 years. Which of the following is the most appropriate next best step in management?",
+    "options": {
+      "A": "Pelvic ultrasound",
+      "B": "Measure serum dehydroepiandrosterone levels",
+      "C": "Reassurance and follow-up",
+      "D": "MRI of the brain"
+    }
+  },
+  "model_response": "The girl in the question has short stature, which is common in adolescents. Short stature in adolescents can be due to chronic disease, malnutrition, endocrine disorders, skeletal disorders, and normal variants. The normal variant is familial genetic short stature, which is most common. Familial short stature is a common cause of short stature in adolescents. It is most common in boys, and is thought to be due to decreased growth hormone secretion. In most cases, short stature is a result of normal variation; these children usually have a delay in bone maturation. In contrast, endocrine disorders such as hypothyroidism and growth hormone deficiency are usually associated with poor growth and weight gain, and the bone age is less than chronological age. In this case, the bone age is normal for chronological age. The girl in the question has no signs or symptoms of chronic disease. She has normal sexual development, which is consistent with a normal variant cause of short stature. Reassurance and follow-up is the most appropriate next step in management.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "short stature",
+      "type": "T047",
+      "umls_id": "C0013336",
+      "score": 0.9918065071105957,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A genetic or pathological condition that is characterized by short stature and undersize. Abnormal skeletal growth usually results in an adult who is significantly below the average height."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "friends",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9840391874313354,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "birth weight",
+      "type": "T032",
+      "umls_id": "C0005612",
+      "score": 0.9691290855407715,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "short stature",
+      "type": "T047",
+      "umls_id": "C0013336",
+      "score": 0.9918065071105957,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A genetic or pathological condition that is characterized by short stature and undersize. Abnormal skeletal growth usually results in an adult who is significantly below the average height."
+    },
+    {
+      "text": "teenage",
+      "type": "T079",
+      "umls_id": "C0001578",
+      "score": 0.9801867008209229,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A human life stage that begins at twelve years of age and continues until twenty-one complete years of age, generally marked by the beginning of puberty and lasting to the beginning of adulthood."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "tall",
+      "type": "T033",
+      "umls_id": "C4314520",
+      "score": 0.9990716576576233,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "Breast development",
+      "type": "T033",
+      "umls_id": "C0518181",
+      "score": 0.9740135073661804,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Tanner stage 2",
+      "type": "T079",
+      "umls_id": "C2826146",
+      "score": 0.9409476518630981,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A scale of physical development in children, adolescents and adults based on external primary and secondary sex characteristics, such as the size of the breasts, genitalia, and development of pubic hair."
+    },
+    {
+      "text": "Pubic",
+      "type": "T023",
+      "umls_id": "C0034014",
+      "score": 0.971836268901825,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A bone that forms the lower and anterior part of each side of the hip bone."
+    },
+    {
+      "text": "axillary hair",
+      "type": "T023",
+      "umls_id": "C0221984",
+      "score": 0.9837645292282104,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "left hand",
+      "type": "T023",
+      "umls_id": "C0230371",
+      "score": 0.9930857419967651,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wrist",
+      "type": "T029",
+      "umls_id": "C0043262",
+      "score": 0.9785857200622559,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the upper limb between the metacarpus and the FOREARM."
+    },
+    {
+      "text": "bone age",
+      "type": "T033",
+      "umls_id": "C0429620",
+      "score": 0.9875931143760681,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An indication of skeletal growth potential based on skeletal maturity indicators, such as radiologic imaging of growth plates."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "14-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

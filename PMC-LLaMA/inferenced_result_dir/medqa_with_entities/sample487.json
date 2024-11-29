@@ -1,0 +1,230 @@
+{
+  "original_data": {
+    "question": "A 70-year-old woman with no significant medical history begins to experience memory loss and personality changes. Over the next few months, her symptoms become more severe, as she experiences rapid mental deterioration. She also starts to have sudden, jerking movements in response to being startled and gait disturbances. Eventually, she lapses into a coma and dies eight months after the onset of symptoms. What process likely caused this woman's illness?",
+    "options": {
+      "A": "Loss of dopaminergic neurons in the substantia nigra pars compacta.",
+      "B": "Autoimmune inflammation and demyelination of the peripheral nervous system.",
+      "C": "Conversion of a protein from an a-helix to a ß-pleated form, which resists degradation.",
+      "D": "Frontotemporal atrophy and the accumulation of intracellular, aggregated tau protein."
+    }
+  },
+  "model_response": "The clinical presentation is characteristic of Creutzfeldt-Jakob disease (CJD), which is caused by the accumulation of intracellular, aggregated tau protein. CJD is a rare, degenerative, and invariably fatal brain disorder that is sporadic in about 85% of cases. The disease is associated with deposition of abnormal forms (i.e., ß-pleated sheets) of tau protein in the brain. Tau protein is a microtubule-associated protein that stabilizes the cytoskeleton by catalyzing the assembly and disassembly of microtubules. The accumulation of tau protein results in the formation of neurofibrillary tangles. CJD is associated with dementia, memory loss, and changes in personality, as well as with motor dysfunction (e.g., jerking movements, ataxia, and gait disturbances). The disease is fatal within a year of the onset of symptoms. None of the other choices are associated with the clinical presentation described.Diagnosis: Creutzfeldt-Jakob disease\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "no significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "memory loss",
+      "type": "T048",
+      "umls_id": "C0002622",
+      "score": 0.9881773591041565,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Pathologic partial or complete loss of the ability to recall past experiences (AMNESIA, RETROGRADE) or to form new memories (AMNESIA, ANTEROGRADE). This condition may be of organic or psychologic origin. Organic forms of amnesia are usually associated with dysfunction of the DIENCEPHALON or HIPPOCAMPUS. (From Adams et al., Principles of Neurology, 6th ed, pp426-7)"
+    },
+    {
+      "text": "personality changes",
+      "type": "T048",
+      "umls_id": "C0240735",
+      "score": 0.9840993285179138,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A noticeable change in a person's behavior and thinking. Causes include depression, drug or alcohol abuse, brain injuries, brain tumors, and Alzheimer's disease."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "mental deterioration",
+      "type": "T048",
+      "umls_id": "C0234985",
+      "score": 0.9712456464767456,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Loss of previously present mental abilities, generally in adults. [HPO:probinson]"
+    },
+    {
+      "text": "sudden",
+      "type": "T080",
+      "umls_id": "C5201090",
+      "score": 0.9393367171287537,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Marked by sudden change."
+    },
+    {
+      "text": "jerking",
+      "type": "T033",
+      "umls_id": "C0231530",
+      "score": 0.9481842517852783,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The occurrence of a single contraction or a series of contractions of a muscle."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "response",
+      "type": "T032",
+      "umls_id": "C0871261",
+      "score": 0.983574628829956,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "Any act or phenomena, or behavior, constituting a reply or reaction of a living organism or its part to some foregoing stimulus or agent."
+    },
+    {
+      "text": "startled",
+      "type": "T184",
+      "umls_id": "C5238871",
+      "score": 0.7911892533302307,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A quick involuntary movement in response to an alarm, surprise, or fright."
+    },
+    {
+      "text": "gait disturbances",
+      "type": "T033",
+      "umls_id": "C0575081",
+      "score": 0.9662371873855591,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A finding referring to walking difficulties."
+    },
+    {
+      "text": "lapses",
+      "type": "T047",
+      "umls_id": "C0033377",
+      "score": 0.7381114363670349,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The protrusion of an organ or part of an organ into a natural or artificial orifice."
+    },
+    {
+      "text": "coma",
+      "type": "T047",
+      "umls_id": "C0009421",
+      "score": 0.993932843208313,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A profound state of unconsciousness associated with depressed cerebral activity from which the individual cannot be aroused. Coma generally occurs when there is dysfunction or injury involving both cerebral hemispheres or the brain stem RETICULAR FORMATION."
+    },
+    {
+      "text": "dies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "onset of",
+      "type": "T080",
+      "umls_id": "C0332162",
+      "score": 0.9750663042068481,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The start, beginning, or early stages."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "woman's illness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "70-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "original_data": {
+    "question": "A 27-year-old male presents for emergency surgery to reattach his left arm, severed during a high-speed car accident, and has lost significant amounts of blood. His wife arrives within minutes to the hospital exclaiming that under no circumstance should he receive any blood transfusions during surgery. After reviewing his medical chart, you see also see an annotation indicating no blood transfusions for religious reasons. Knowing that he needs a blood transfusion to save his life, what do you do?",
+    "options": {
+      "A": "Administer a blood transfusion to save the patient's life",
+      "B": "Call the ethics board of the hospital to discuss the issue",
+      "C": "Respect the patient's written instructions and do not adminster a blood transfusion",
+      "D": "Convince the wife to administer a blood transfusion to her husband"
+    }
+  },
+  "model_response": "As a physician, your primary concern is to save the patient's life. In this scenario, the patient is unable to communicate his wishes and his wife has given consent to perform the surgery, but has requested that no blood transfusions be given. As a physician, you are obligated to provide necessary treatment to save the patient's life, even if it means going against the patient's written wishes. In this case, you should call the hospital ethics board to help guide you through this difficult situation.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "emergency surgery",
+      "type": "T033",
+      "umls_id": "C4264510",
+      "score": 0.9875143766403198,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left arm",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.98764967918396,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "high-speed car",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "accident",
+      "type": "T067",
+      "umls_id": "C0000924",
+      "score": 0.9794917702674866,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Unexpected and unintentional events, typically resulting in ACCIDENTAL INJURIES."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "hospital exclaiming",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "no circumstance",
+      "type": "T080",
+      "umls_id": "C0851364",
+      "score": 0.7105346322059631,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to the demographic and psychosocial environment in which a person lives."
+    },
+    {
+      "text": "blood transfusions",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9784174561500549,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "reviewing",
+      "type": "T170",
+      "umls_id": "C0282443",
+      "score": 0.9551421999931335,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An article or book published after examination of published material on a subject. It may be comprehensive to various degrees and the time range of material scrutinized may be broad or narrow, but the reviews most often desired are reviews of the current literature. The textual material examined may be equally broad and can encompass, in medicine specifically, clinical material as well as experimental research or case reports. State-of-the-art reviews tend to address more current matters. A review of the literature must be differentiated from HISTORICAL ARTICLE on the same subject, but a review of historical literature is also within the scope of this publication type."
+    },
+    {
+      "text": "medical chart",
+      "type": "T074",
+      "umls_id": "C0181795",
+      "score": 0.7671595811843872,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Holders designed to hold patients' medical charts in a convenient and organized fashion. These medical chart holders may be made of metal, wood, plastic, or a combination of these materials and have slots to hold one or more charts. Medical chart holders may be freestanding or mountable on a wall or other surface."
+    },
+    {
+      "text": "annotation",
+      "type": "T170",
+      "umls_id": "C1706814",
+      "score": 0.9501909613609314,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An explanatory or critical comment, or other in-context information (e.g., pattern, motif, link), that has been associated with data or other types of information."
+    },
+    {
+      "text": "blood transfusions",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9784174561500549,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "religious reasons",
+      "type": "T170",
+      "umls_id": "C1550442",
+      "score": 0.7456939816474915,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>**Description:**A name assumed as part of a religious vocation . e.g . Sister Mary Francis, Brother John</p>"
+    },
+    {
+      "text": "blood transfusion",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9712764620780945,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "save his life",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

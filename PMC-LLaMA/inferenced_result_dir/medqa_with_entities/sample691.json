@@ -1,0 +1,222 @@
+{
+  "original_data": {
+    "question": "A 29-year-old woman presents to her OB/GYN for a preconception visit. She wishes to become pregnant within the next several months. A thorough history reveals that the patient suffers from phenylketonuria (PKU). She recalls being instructed by prior physicians to follow a diet that avoids certain foods; however, she admits to not being complaint with these recommendations. Laboratory testing reveals a plasma phenylalanine level of 20.2 mg/dL (normal range <2 mg/dL). Which of the following is the most appropriate response to this patient?",
+    "options": {
+      "A": "Improved PKU treatment will decrease the risks of spontaneous abortion and intrauterine fetal death",
+      "B": "3 months prior to conception, begin a restricted diet to lower phenylalanine levels to below 6 mg/dL",
+      "C": "Begin a phenylalanine-restricted diet in your first trimester to reduce the risk of fetal morbidity",
+      "D": "Your current phenylalanine levels do not pose a risk to any future pregnancy"
+    }
+  },
+  "model_response": "{'A': 'False', 'B': 'False', 'C': 'False', 'D': 'False'}\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "preconception visit",
+      "type": "T201",
+      "umls_id": "C2982736",
+      "score": 0.8305877447128296,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The time period prior to conception."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "patient suffers",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "phenylketonuria",
+      "type": "T047",
+      "umls_id": "C0031485",
+      "score": 0.9608445167541504,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A group of autosomal recessive disorders marked by a deficiency of the hepatic enzyme PHENYLALANINE HYDROXYLASE or less frequently by reduced activity of DIHYDROPTERIDINE REDUCTASE (i.e., atypical phenylketonuria). Classical phenylketonuria is caused by a severe deficiency of phenylalanine hydroxylase and presents in infancy with developmental delay; SEIZURES; skin HYPOPIGMENTATION; ECZEMA; and demyelination in the central nervous system. (From Adams et al., Principles of Neurology, 6th ed, p952)."
+    },
+    {
+      "text": "PKU",
+      "type": "T047",
+      "umls_id": "C0031485",
+      "score": 0.9934558272361755,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A group of autosomal recessive disorders marked by a deficiency of the hepatic enzyme PHENYLALANINE HYDROXYLASE or less frequently by reduced activity of DIHYDROPTERIDINE REDUCTASE (i.e., atypical phenylketonuria). Classical phenylketonuria is caused by a severe deficiency of phenylalanine hydroxylase and presents in infancy with developmental delay; SEIZURES; skin HYPOPIGMENTATION; ECZEMA; and demyelination in the central nervous system. (From Adams et al., Principles of Neurology, 6th ed, p952)."
+    },
+    {
+      "text": "instructed",
+      "type": "T065",
+      "umls_id": "C0039401",
+      "score": 0.7304789423942566,
+      "semantic_types": [
+        "T065"
+      ],
+      "definition": "A formal and organized process of transmitting knowledge to a person or group."
+    },
+    {
+      "text": "physicians",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9971710443496704,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "avoids",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "foods",
+      "type": "T168",
+      "umls_id": "C0016452",
+      "score": 0.9770956039428711,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Substances taken in by the body to provide nourishment."
+    },
+    {
+      "text": "complaint",
+      "type": "T201",
+      "umls_id": "C3864418",
+      "score": 0.9737823009490967,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "recommendations",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.9663883447647095,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "Laboratory testing",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9850475788116455,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "plasma",
+      "type": "T031",
+      "umls_id": "C0032105",
+      "score": 0.9949913620948792,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The residual portion of BLOOD that is left after removal of BLOOD CELLS by CENTRIFUGATION without prior BLOOD COAGULATION."
+    },
+    {
+      "text": "phenylalanine",
+      "type": "T116",
+      "umls_id": "C0031453",
+      "score": 0.9819365739822388,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T123"
+      ],
+      "definition": "An essential aromatic amino acid that is a precursor of MELANIN; DOPAMINE; noradrenalin (NOREPINEPHRINE), and THYROXINE."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "response",
+      "type": "T032",
+      "umls_id": "C0871261",
+      "score": 0.983574628829956,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "Any act or phenomena, or behavior, constituting a reply or reaction of a living organism or its part to some foregoing stimulus or agent."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

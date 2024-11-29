@@ -1,0 +1,348 @@
+{
+  "original_data": {
+    "question": "A 27-year-old male presents to the psychiatrist requesting help with his compulsions as they are interfering with his life. He explains that he has this fear that something terrible will happen to his house if he does not check every appliance, outlet, window and door lock, faucet, and light fixture before he leaves. He states that he must check everything 7 times in a specific order and if he goes out of order he must start from the beginning and perform it all over. He has recently been fired from his job because he is always late and lost his fiancee as she could not deal with his habits anymore. The physician explained that cognitive-behavioral therapy may be of assistance and also prescribed clomipramine. Which of the following is the mechanism of reaction of clomipramine?",
+    "options": {
+      "A": "Decreases the degradation of norepinephrine and serotonin",
+      "B": "Increases the release of norepinephrine and serotonin by alpha 2 receptor antagonism",
+      "C": "Blocks only norepinephrine reuptake",
+      "D": "Blocks reuptake of norepinephrine and serotonin"
+    }
+  },
+  "model_response": "Clomipramine is a TCA that blocks reuptake of norepinephrine and serotonin. It is also very sedating and has a high incidence of anticholinergic side effects. It is not a good choice for patients with asthma or glaucoma.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "psychiatrist",
+      "type": "T097",
+      "umls_id": "C0033872",
+      "score": 0.9898248314857483,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "physician who specializes in the diagnosis and treatment of mental disorders using physical, chemical or psychological methods; includes those psychiatrists who work in mental hospitals, clinics, and private practice, as well as public mental health and research."
+    },
+    {
+      "text": "compulsions",
+      "type": "T048",
+      "umls_id": "C0600104",
+      "score": 0.9638528227806091,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The behavior of performing an act persistently and repetitively without it leading to reward or pleasure. The act is usually a small, circumscribed behavior, almost ritualistic, yet not pathologically disturbing. Examples of compulsive behavior include twirling of hair, checking something constantly, not wanting pennies in change, straightening tilted pictures, etc."
+    },
+    {
+      "text": "interfering with",
+      "type": "T169",
+      "umls_id": "C0521102",
+      "score": 0.8210407495498657,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of hindering or obstructing or impeding."
+    },
+    {
+      "text": "fear",
+      "type": "T041",
+      "umls_id": "C0015726",
+      "score": 0.9707980155944824,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The affective response to an actual current external danger which subsides with the elimination of the threatening condition."
+    },
+    {
+      "text": "terrible",
+      "type": "T080",
+      "umls_id": "C3827840",
+      "score": 0.9693337082862854,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Exceptionally bad or displeasing."
+    },
+    {
+      "text": "happen",
+      "type": "T052",
+      "umls_id": "C1709305",
+      "score": 0.9858132004737854,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Come to pass."
+    },
+    {
+      "text": "house",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9867501854896545,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "check",
+      "type": "T052",
+      "umls_id": "C1283174",
+      "score": 0.9828171133995056,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of inspecting or verifying."
+    },
+    {
+      "text": "appliance",
+      "type": "T073",
+      "umls_id": "C0243112",
+      "score": 0.9917605519294739,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "outlet",
+      "type": "T073",
+      "umls_id": "C1709362",
+      "score": 0.9735687971115112,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An opening in a device that allows something to exit, commonly used to refer to an electrical power receptacle."
+    },
+    {
+      "text": "window",
+      "type": "T073",
+      "umls_id": "C0557702",
+      "score": 0.9850911498069763,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A part of a computer screen that contains a display different from the rest of the screen."
+    },
+    {
+      "text": "door lock",
+      "type": "T073",
+      "umls_id": "C1704783",
+      "score": 0.7005962133407593,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A fastening device designed to hold, close, or secure."
+    },
+    {
+      "text": "faucet",
+      "type": "T030",
+      "umls_id": "C0926818",
+      "score": 0.7270063757896423,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The anatomical opening formed by the arch of the hard palate at the back of the mouth, where the oral cavity and pharynx meet."
+    },
+    {
+      "text": "light fixture",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "leaves",
+      "type": "T002",
+      "umls_id": "C0242724",
+      "score": 0.965368926525116,
+      "semantic_types": [
+        "T002"
+      ],
+      "definition": "Expanded structures, usually green, of vascular plants, characteristically consisting of a bladelike expansion attached to a stem, and functioning as the principal organ of photosynthesis and transpiration. (American Heritage Dictionary, 2d ed)"
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "check",
+      "type": "T052",
+      "umls_id": "C1283174",
+      "score": 0.9828171133995056,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of inspecting or verifying."
+    },
+    {
+      "text": "times",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9879130721092224,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "beginning",
+      "type": "T079",
+      "umls_id": "C0439659",
+      "score": 0.9608426690101624,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The place where something begins or comes from in either the sense of a physical location or a metaphysical source."
+    },
+    {
+      "text": "fired",
+      "type": "T033",
+      "umls_id": "C0014007",
+      "score": 0.9838417768478394,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "job",
+      "type": "T090",
+      "umls_id": "C0028811",
+      "score": 0.9788143038749695,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Crafts, trades, professions, or other means of earning a living."
+    },
+    {
+      "text": "late",
+      "type": "T079",
+      "umls_id": "C0205087",
+      "score": 0.995924174785614,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Being or occurring at an advanced period of time or after a usual or expected time."
+    },
+    {
+      "text": "lost",
+      "type": "T169",
+      "umls_id": "C0745777",
+      "score": 0.9972493052482605,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Parted with; no longer held or possessed; incapable of being recovered or regained."
+    },
+    {
+      "text": "habits",
+      "type": "T055",
+      "umls_id": "C0018464",
+      "score": 0.992205798625946,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Acquired or learned responses which are regularly manifested."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "cognitive-behavioral therapy",
+      "type": "T061",
+      "umls_id": "C0009244",
+      "score": 0.9065289497375488,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A type of psychotherapy utilized to treat different forms of mental disorders.The treatment involves the identification of unhelpful or destructive patterns of thinking and behaviors and the subsequent replacement with behaviors that are beneficial and constructive."
+    },
+    {
+      "text": "assistance",
+      "type": "T054",
+      "umls_id": "C0018896",
+      "score": 0.9982620477676392,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "Behaviors associated with the giving of assistance or aid to individuals."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "clomipramine",
+      "type": "T109",
+      "umls_id": "C0009010",
+      "score": 0.9707684516906738,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A tricyclic antidepressant similar to IMIPRAMINE that selectively inhibits the uptake of serotonin in the brain. It is readily absorbed from the gastrointestinal tract and demethylated in the liver to form its primary active metabolite, desmethylclomipramine."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "reaction",
+      "type": "T169",
+      "umls_id": "C0443286",
+      "score": 0.9618695378303528,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A response generated by a stimulus."
+    },
+    {
+      "text": "clomipramine",
+      "type": "T109",
+      "umls_id": "C0009010",
+      "score": 0.9707684516906738,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A tricyclic antidepressant similar to IMIPRAMINE that selectively inhibits the uptake of serotonin in the brain. It is readily absorbed from the gastrointestinal tract and demethylated in the liver to form its primary active metabolite, desmethylclomipramine."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

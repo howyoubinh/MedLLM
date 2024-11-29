@@ -1,0 +1,484 @@
+{
+  "original_data": {
+    "question": "A 62-year-old man is brought to his primary care physician by his wife who is concerned about the patient's frequent falls. Approximately 6 months ago, she started noticing that he was walking more slowly than usual. He has fallen more than 6 times in the past month, and she is worried that he will sustain a serious injury if he does not stop falling. The patient is a retired banking executive and was active as a triathlete until the age of 60. He does not smoke and drinks 2-3 alcoholic beverages per day. His family history is notable for normal pressure hydrocephalus in his mother and Alzheimer dementia in his father. His temperature is 97.8°F (36.6°C), blood pressure is 131/81 mmHg, pulse is 68/min, and respirations are 19/min. On exam, his movements appear slowed and forced. He shuffles his feet when he walks. Tone is increased in his upper and lower extremities bilaterally. This patient's condition is most strongly associated with which of the following histologic findings on brain autopsy?",
+    "options": {
+      "A": "Accumulations of beta-pleated sheets",
+      "B": "Atrophy of the caudate nucleus",
+      "C": "Intracellular inclusions of alpha-synuclein",
+      "D": "Intracellular inclusions of hyperphosphorylated tau"
+    }
+  },
+  "model_response": "The patient's clinical history is most consistent with Parkinson disease (PD). The combination of progressive gait disturbance, rigidity, and falls is typical for PD. Autopsy studies of patients with PD reveal loss of pigmented dopaminergic neurons in the substantia nigra pars compacta, and accumulations of beta-pleated sheets in the form of Lewy bodies. Lewy bodies are single or multiple, intra-neuronal, eosinophilic, round inclusions that have a dense core surrounded by a pale halo. They are composed by alpha-synuclein and are seen in PD, dementia with Lewy bodies, and pure autonomic failure. The other choices are not typically seen in PD. Choice B, atrophy of the caudate nucleus, is seen in Huntington disease. Choice C, intracellular inclusions of alpha-synuclein, is seen in multiple system atrophy. Choice D, intracellular inclusions of hyperphosphorylated tau, is seen in progressive supranuclear palsy and frontotemporal dementia. Choice E, Hirano bodies, is seen in Alzheimer disease. Diagnosis: Parkinson disease\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "falls",
+      "type": "T037",
+      "umls_id": "C0000921",
+      "score": 0.9861751198768616,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Falls due to slipping or tripping which may result in injury."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "noticing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "fallen",
+      "type": "T190",
+      "umls_id": "C0016202",
+      "score": 0.7573772072792053,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": "Anomaly in which one or more of the arches of the feet are flat."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "sustain",
+      "type": "T169",
+      "umls_id": "C0443318",
+      "score": 0.9782545566558838,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "injury",
+      "type": "T037",
+      "umls_id": "C3263722",
+      "score": 0.9709476828575134,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Disorder resulting from physical damage to the body"
+    },
+    {
+      "text": "stop falling",
+      "type": "T037",
+      "umls_id": "C0000921",
+      "score": 0.7763133645057678,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Falls due to slipping or tripping which may result in injury."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "retired banking",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "executive",
+      "type": "T097",
+      "umls_id": "C0871735",
+      "score": 0.9522563219070435,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcoholic beverages",
+      "type": "T168",
+      "umls_id": "C0001967",
+      "score": 0.9678465723991394,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Drinkable liquids containing ETHANOL."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "normal pressure hydrocephalus",
+      "type": "T047",
+      "umls_id": "C0020258",
+      "score": 0.988287627696991,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of compensated hydrocephalus characterized clinically by a slowly progressive gait disorder (see GAIT DISORDERS, NEUROLOGIC), progressive intellectual decline, and URINARY INCONTINENCE. Spinal fluid pressure tends to be in the high normal range. This condition may result from processes which interfere with the absorption of CSF including SUBARACHNOID HEMORRHAGE, chronic MENINGITIS, and other conditions. (From Adams et al., Principles of Neurology, 6th ed, pp631-3)"
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "Alzheimer dementia",
+      "type": "T047",
+      "umls_id": "C0002395",
+      "score": 0.9298648238182068,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)"
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "slowed",
+      "type": "T033",
+      "umls_id": "C0428977",
+      "score": 0.7155368328094482,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Cardiac arrhythmias that are characterized by excessively slow HEART RATE, usually below 50 beats per minute in human adults. They can be classified broadly into SINOATRIAL NODE dysfunction and ATRIOVENTRICULAR BLOCK."
+    },
+    {
+      "text": "forced",
+      "type": "T067",
+      "umls_id": "C0441722",
+      "score": 0.9733503460884094,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "The influence that produces a change in a physical quantity; physical energy or intensity."
+    },
+    {
+      "text": "shuffles",
+      "type": "T033",
+      "umls_id": "C0560464",
+      "score": 0.9552675485610962,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "walks",
+      "type": "T033",
+      "umls_id": "C0600108",
+      "score": 0.9780822396278381,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Tone",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "histologic findings",
+      "type": "T169",
+      "umls_id": "C0205462",
+      "score": 0.7373652458190918,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Pertaining to the combined microscopic physical features of cells and their surrounding extracellular environment in tissues."
+    },
+    {
+      "text": "brain autopsy",
+      "type": "T060",
+      "umls_id": "C0004398",
+      "score": 0.758405327796936,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Postmortem examination of the body."
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

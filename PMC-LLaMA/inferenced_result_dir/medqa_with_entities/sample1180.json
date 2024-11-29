@@ -1,0 +1,265 @@
+{
+  "original_data": {
+    "question": "A 62-year-old woman with a history of hypertension and type 2 diabetes mellitus comes to the physician for a routine health maintenance examination. She has smoked 1 pack of cigarettes daily for the last 15 years. Current medications include glyburide and amlodipine. The physician prescribes a medication that decreases the production of mevalonate. Which of the following changes to the serum is most likely to develop as an adverse effect of the prescribed drug?",
+    "options": {
+      "A": "Increased creatine kinase concentration",
+      "B": "Decreased glucose concentration",
+      "C": "Increased triglyceride concentration",
+      "D": "Increased bradykinin concentration"
+    }
+  },
+  "model_response": "This patient is most likely receiving a statin, such as lovastatin, which inhibits HMG-CoA reductase and decreases the synthesis of mevalonate. Elevated transaminases are common adverse effects. Lovastatin also can interfere with the metabolism of some drugs, including oral contraceptives, clofibrate, and niacin. The most common adverse effect of statins is myopathy, which should be suspected if creatine kinase concentration is elevated. Amlodipine is a calcium channel blocker and glyburide is a sulfonylurea, so these medications are not likely to be affected by statin therapy. Bradykinin is not affected by statin therapy.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "glyburide",
+      "type": "T109",
+      "umls_id": "C0017628",
+      "score": 0.9625511169433594,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antidiabetic sulfonylurea derivative with actions like those of chlorpropamide"
+    },
+    {
+      "text": "amlodipine",
+      "type": "T109",
+      "umls_id": "C0051696",
+      "score": 0.9584440588951111,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "decreases",
+      "type": "T033",
+      "umls_id": "C0442797",
+      "score": 0.9786321520805359,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "production",
+      "type": "T057",
+      "umls_id": "C0033268",
+      "score": 0.9784734845161438,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "The creation of goods and services by a manufacturing process."
+    },
+    {
+      "text": "mevalonate",
+      "type": "T109",
+      "umls_id": "C0677647",
+      "score": 0.9564703702926636,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "carboxylate precursor of sterols and other isoprenoids."
+    },
+    {
+      "text": "changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9851773381233215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "adverse effect",
+      "type": "T046",
+      "umls_id": "C0559546",
+      "score": 0.9797022938728333,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any noxious and unintended response(s) to a medical product or procedure, for which a causal relationship with this product or procedure is at least a reasonable possibility i.e., the relationship cannot be ruled out."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

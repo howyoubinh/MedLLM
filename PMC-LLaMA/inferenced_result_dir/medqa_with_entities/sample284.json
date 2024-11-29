@@ -1,0 +1,463 @@
+{
+  "original_data": {
+    "question": "An elderly man presents to his physician with complaints of difficulty breathing, easy fatigability, and bilateral leg swelling which began 2 months ago. His breathlessness worsens while walking, climbing the stairs, and lying flat on his back. He also finds it difficult to sleep well at night, as he often wakes up to catch his breath. His pulse is 98/min and blood pressure is 114/90 mm Hg. On examination, he has mild respiratory distress, distended neck veins, and bilateral pitting edema is evident on the lower third of his legs. His respiratory rate is 33/min, SpO2 is 93% in room air, and coarse crepitations are heard over the lung bases. On auscultation, the P2 component of his second heart sound is heard loudest at the second left intercostal space, and an S3 gallop rhythm is heard at the apex. Medication is prescribed for his symptoms which changes his cardiac physiology as depicted with the dashed line recorded post-medication. What is the mechanism of action of the prescribed medication?",
+    "options": {
+      "A": "Decrease in transmembrane sodium gradient",
+      "B": "Preferential dilatation of capacitance vessels",
+      "C": "Inhibition of aldosterone-mediated sodium reabsorption",
+      "D": "Reduction in myocardial contractility"
+    }
+  },
+  "model_response": "The man is suffering from heart failure with preserved ejection fraction (HFpEF). Loop diuretics are the mainstay of treatment for symptom relief in patients with HFpEF. Loop diuretics act by inhibiting the transmembrane sodium gradient, which results in decreased reabsorption of sodium and chloride in the ascending limb of the loop of Henle. This leads to increased excretion of sodium and water, which ultimately reduces blood volume and decreases preload.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "elderly man",
+      "type": "T100",
+      "umls_id": "C0524337",
+      "score": 0.9755951762199402,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "difficulty breathing",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.980121910572052,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "fatigability",
+      "type": "T184",
+      "umls_id": "C0231230",
+      "score": 0.9780797362327576,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilateral leg",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.848071813583374,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "breathlessness",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.959090530872345,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "worsens",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9901487231254578,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "climbing",
+      "type": "T033",
+      "umls_id": "C0561942",
+      "score": 0.9798669219017029,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stairs",
+      "type": "T033",
+      "umls_id": "C4300351",
+      "score": 0.9850608706474304,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lying flat",
+      "type": "T033",
+      "umls_id": "C4699589",
+      "score": 0.9518927335739136,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "catch",
+      "type": "T184",
+      "umls_id": "C0231617",
+      "score": 0.9706723690032959,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden pain, usually sharp, occurring during movement, or exacerbated by movement, and prompting cessation of movement"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mild respiratory distress",
+      "type": "T184",
+      "umls_id": "C0476273",
+      "score": 0.9078333377838135,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A pathological increase in the effort and frequency of breathing movements."
+    },
+    {
+      "text": "neck veins",
+      "type": "T023",
+      "umls_id": "C0226542",
+      "score": 0.9874321222305298,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilateral pitting edema",
+      "type": "T033",
+      "umls_id": "C0333243",
+      "score": 0.7378671765327454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling due to excessive accumulation of fluid under the skin defined by a persistent indentation when pressure is applied to the swollen area. Causes include systemic conditions (e.g., heart failure, liver failure, or kidney failure) and local conditions affecting the extremities."
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "SpO2",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "coarse crepitations",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.8003202676773071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "P2",
+      "type": "T129",
+      "umls_id": "C1384585",
+      "score": 0.9988806843757629,
+      "semantic_types": [
+        "T129"
+      ],
+      "definition": null
+    },
+    {
+      "text": "heart sound",
+      "type": "T042",
+      "umls_id": "C0018820",
+      "score": 0.986866295337677,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The sounds heard over the cardiac region produced by the functioning of the heart. There are four distinct sounds: the first occurs at the beginning of SYSTOLE and is heard as a \"lubb\" sound; the second is produced by the closing of the AORTIC VALVE and PULMONARY VALVE and is heard as a \"dupp\" sound; the third is produced by vibrations of the ventricular walls when suddenly distended by the rush of blood from the HEART ATRIA; and the fourth is produced by atrial contraction and ventricular filling."
+    },
+    {
+      "text": "S3 gallop rhythm",
+      "type": "T033",
+      "umls_id": "C0232200",
+      "score": 0.907874584197998,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "In the normal heart cycle, two heart sounds can be heard by auscultation per cycle: S1 and S2. A gallop rhythm refers to the presence of three or four heart sounds per cardiac cycle, which is said to resemble the gallop of a horse. [PMID:15886379]"
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "apex",
+      "type": "T116",
+      "umls_id": "C0140145",
+      "score": 0.9760937690734863,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "DNA-(apurinic or apyrimidinic site) lyase (318 aa, ~36 kDa) is encoded by the human APEX1 gene. This protein plays a role in both DNA repair and the regulation of transcription."
+    },
+    {
+      "text": "Medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9851773381233215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "cardiac physiology",
+      "type": "T060",
+      "umls_id": "C0430467",
+      "score": 0.7926439642906189,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The study of the electrical activity and characteristics of the HEART; MYOCARDIUM; and CARDIOMYOCYTES."
+    },
+    {
+      "text": "depicted",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "post-medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.7309588193893433,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    }
+  ]
+}

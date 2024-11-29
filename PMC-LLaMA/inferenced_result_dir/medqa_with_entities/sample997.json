@@ -1,0 +1,301 @@
+{
+  "original_data": {
+    "question": "A 47-year-old woman is brought to the emergency department by paramedics. She was found unconscious on a park bench by a bystander. Her history is unobtainable. Vitals include a pulse of 64/min, a respiratory rate of 7/min, and a blood pressure of 110/70 mm Hg. On examination, the patient is unresponsive to voice and touch but shows a flexor response to pain. Her breathing is shallow. The pupils are constricted, and a response to light cannot be determined. An arterial blood gas sample reveals:\npH 7.26\nPco2 70 mm Hg\nHCO3-  26 mEq/L\nWhich of the following could explain this patient's presentation?",
+    "options": {
+      "A": "Diabetic ketoacidosis",
+      "B": "Diuretic overdose",
+      "C": "Hyperventilation",
+      "D": "Opioid overdose"
+    }
+  },
+  "model_response": "This patient's blood pH is low (acidemia), respiratory rate is low (hypoventilation), and Pco2 is elevated (hypercapnia). These changes are incompatible with each other and suggest that the patient has a primary metabolic acidosis. The low bicarbonate level (HCO3-) supports this conclusion. The elevated Pco2 indicates that the patient has respiratory acidosis. The patient's acidemia is severe, and she is likely unconscious because of the severe acidosis. The elevated Pco2 is causing the obtundation (decreased response to stimuli). The elevated Pco2 is out of proportion to the decrease in HCO3- and thus represents a mixed disorder. The most likely disorder in this case is diabetic ketoacidosis. Diuretic overdose could cause a metabolic alkalosis, not an acidosis. Hyperventilation could cause a respiratory alkalosis, not an acidosis. Opioid overdose could cause a respiratory depression, but not a metabolic acidosis.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "paramedics",
+      "type": "T097",
+      "umls_id": "C0030450",
+      "score": 0.9784836769104004,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "An individual trained and certified to provide all basic and intermediate life support measures in addition to using invasive medical procedures (including intravenous therapy, cardiac defibrillation, administering medications and solutions, and using ventilation devices) as dictated by state law and performed under medical control in case of medical emergencies, hazardous materials exposure, child birth, abuse, fires, flood, accidents, trauma, and psychiatric crises."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "park",
+      "type": "T083",
+      "umls_id": "C0562547",
+      "score": 0.9710313677787781,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A piece of land set aside for public use."
+    },
+    {
+      "text": "bench",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bystander",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "Vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "voice",
+      "type": "T040",
+      "umls_id": "C0042939",
+      "score": 0.9692062735557556,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sounds produced by humans by the passage of air through the LARYNX and over the VOCAL CORDS, and then modified by the resonance organs, the NASOPHARYNX, and the MOUTH."
+    },
+    {
+      "text": "touch",
+      "type": "T061",
+      "umls_id": "C0152054",
+      "score": 0.9727063179016113,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Placing of the hands of the healer upon the person to be cured with the intent of spiritual energetic healing."
+    },
+    {
+      "text": "flexor response to pain",
+      "type": "T039",
+      "umls_id": "C1327614",
+      "score": 0.8214064240455627,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a pain stimulus. Pain stimuli cause activation of nociceptors, peripheral receptors for pain, include receptors which are sensitive to painful mechanical stimuli, extreme heat or cold, and chemical stimuli. [GOC:jid, PMID:10203867, PMID:12723742, PMID:12843304, Wikipedia:Pain]"
+    },
+    {
+      "text": "breathing",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9880034327507019,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "shallow",
+      "type": "T033",
+      "umls_id": "C4698035",
+      "score": 0.9926853775978088,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "constricted",
+      "type": "T033",
+      "umls_id": "C1444778",
+      "score": 0.9788075685501099,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "response to",
+      "type": "T043",
+      "umls_id": "C4327510",
+      "score": 0.9015359282493591,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a phosphatidylethanolamine stimulus. [GO_REF:0000071, GOC:TermGenie, PMID:1657995]"
+    },
+    {
+      "text": "arterial blood gas",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9828471541404724,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "Pco2",
+      "type": "T034",
+      "umls_id": "C0391839",
+      "score": 0.996638834476471,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "47-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

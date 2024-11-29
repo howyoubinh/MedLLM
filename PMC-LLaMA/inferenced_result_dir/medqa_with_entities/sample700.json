@@ -1,0 +1,377 @@
+{
+  "original_data": {
+    "question": "A 76-year-old woman visits a physician for a general medical examination. She is asymptomatic. Six months prior, she had a cerebral stroke with left hemiparesis, from which she has almost completely recovered with physiotherapy. She has a history of hypertension and atrial fibrillation (AF). She has no significant ischemic, valvular, or structural heart disease. She takes metoprolol, amlodipine, warfarin, and atorvastatin. Blood pressure is 125/70 mm Hg, pulse is 75/min with an irregular rhythm. Respirations are 13/min. She has a minor limp and weakness in her left arm and leg. Heart exam shows no abnormalities other than irregular beats. To assess adherence and therapeutic efficacy in this patient, which of the following studies should be ordered?",
+    "options": {
+      "A": "Echocardiogram",
+      "B": "International normalized ratio",
+      "C": "Partial thromboplastin time",
+      "D": "Serum drug levels"
+    }
+  },
+  "model_response": "The correct answer is D (Serum drug levels). This patient is receiving metoprolol, amlodipine, warfarin, and atorvastatin. The efficacy of these drugs can be assessed by measuring their serum levels. Echocardiography (A) is not necessary since there is no clinical evidence of structural or valvular heart disease. The INR (B) and PTT (C) are monitored in patients receiving warfarin and heparin, respectively, but these tests are not necessary in this patient since the question does not indicate that therapy is suboptimal.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman visits",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.7330593466758728,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "general medical examination",
+      "type": "T033",
+      "umls_id": "C0260860",
+      "score": 0.9708805680274963,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "prior",
+      "type": "T079",
+      "umls_id": "C0332152",
+      "score": 0.9819955825805664,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Earlier in time or order."
+    },
+    {
+      "text": "cerebral stroke",
+      "type": "T047",
+      "umls_id": "C0038454",
+      "score": 0.9611873030662537,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A group of pathological conditions characterized by sudden, non-convulsive loss of neurological function due to BRAIN ISCHEMIA or INTRACRANIAL HEMORRHAGES. Stroke is classified by the type of tissue NECROSIS, such as the anatomic location, vasculature involved, etiology, age of the affected individual, and hemorrhagic vs. non-hemorrhagic nature. (From Adams et al., Principles of Neurology, 6th ed, pp777-810)"
+    },
+    {
+      "text": "left hemiparesis",
+      "type": "T033",
+      "umls_id": "C0457436",
+      "score": 0.9787755012512207,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physiotherapy",
+      "type": "T091",
+      "umls_id": "C0699718",
+      "score": 0.987705647945404,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": null
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "atrial fibrillation",
+      "type": "T047",
+      "umls_id": "C0004238",
+      "score": 0.968174934387207,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation."
+    },
+    {
+      "text": "AF",
+      "type": "T047",
+      "umls_id": "C0004238",
+      "score": 0.9961768984794617,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation."
+    },
+    {
+      "text": "ischemic",
+      "type": "T169",
+      "umls_id": "C0475224",
+      "score": 0.9888247847557068,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "insufficient blood supply to a body part"
+    },
+    {
+      "text": "valvular",
+      "type": "T047",
+      "umls_id": "C1883524",
+      "score": 0.7751867771148682,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Narrowing of the opening of one or more of the four valves of the heart."
+    },
+    {
+      "text": "structural heart disease",
+      "type": "T047",
+      "umls_id": "C0018799",
+      "score": 0.7310454845428467,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pathological conditions involving the HEART including its structural and functional abnormalities."
+    },
+    {
+      "text": "metoprolol",
+      "type": "T109",
+      "umls_id": "C0025859",
+      "score": 0.9727950692176819,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective adrenergic beta-1 blocking agent that is commonly used to treat ANGINA PECTORIS; HYPERTENSION; and CARDIAC ARRHYTHMIAS."
+    },
+    {
+      "text": "amlodipine",
+      "type": "T109",
+      "umls_id": "C0051696",
+      "score": 0.9584440588951111,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION."
+    },
+    {
+      "text": "warfarin",
+      "type": "T109",
+      "umls_id": "C0043031",
+      "score": 0.9623537063598633,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "An anticoagulant that acts by inhibiting the synthesis of vitamin K-dependent coagulation factors. Warfarin is indicated for the prophylaxis and/or treatment of venous thrombosis and its extension, pulmonary embolism, and atrial fibrillation with embolization. It is also used as an adjunct in the prophylaxis of systemic embolism after myocardial infarction. Warfarin is also used as a rodenticide."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "Blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "irregular rhythm",
+      "type": "T047",
+      "umls_id": "C0003811",
+      "score": 0.8500912189483643,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Any disturbances of the normal rhythmic beating of the heart or MYOCARDIAL CONTRACTION. Cardiac arrhythmias can be classified by the abnormalities in HEART RATE, disorders of electrical impulse generation, or impulse conduction."
+    },
+    {
+      "text": "Respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "limp",
+      "type": "T033",
+      "umls_id": "C0311395",
+      "score": 0.98828125,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "leg pain and weakness brought on by walking"
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "left arm",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.98764967918396,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "leg",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.971088171005249,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "Heart exam",
+      "type": "T058",
+      "umls_id": "C0562319",
+      "score": 0.9886109232902527,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "irregular beats",
+      "type": "T033",
+      "umls_id": "C0237314",
+      "score": 0.8715215921401978,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical finding in which the rhythm of the heart is noted to be abnormal. (ACC-AHA)"
+    },
+    {
+      "text": "adherence",
+      "type": "T169",
+      "umls_id": "C1510802",
+      "score": 0.9777334928512573,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of abiding by a stated treatment plan or protocol."
+    },
+    {
+      "text": "therapeutic efficacy",
+      "type": "T080",
+      "umls_id": "C2348767",
+      "score": 0.9698105454444885,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The ability of a chemical agent or a device to treat a disease."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "studies",
+      "type": "T062",
+      "umls_id": "C0947630",
+      "score": 0.9763050079345703,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ordered",
+      "type": "T080",
+      "umls_id": "C1705176",
+      "score": 0.992306649684906,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A logical or comprehensible arrangement of separate elements; a condition of regular or proper arrangement."
+    },
+    {
+      "text": "76-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

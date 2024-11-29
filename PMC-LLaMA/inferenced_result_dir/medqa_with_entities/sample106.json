@@ -1,0 +1,418 @@
+{
+  "original_data": {
+    "question": "A 50-year-old man presents to his primary care doctor following an inguinal hernia repair. The patient reports no pain in his lower abdomen or groin, no constipation, and states that he enjoys his usual diet. He denies any use of alcohol, tobacco, or illicit drugs. He has returned to work as a cruise ship attendant. Preoperative workup included chest radiography which demonstrated an opacification in his right middle lobe. The patient agrees to undergo computed tomography (CT) of his chest without contrast for further evaluation. The radiologist reports an 8 mm nodule in the patient's peripheral right middle lobe that has regular margins and appears calcified. One year later, the patient obtains another chest CT without contrast that reports the nodule size as 10 mm with similar characteristics. What is the most appropriate next step in management?",
+    "options": {
+      "A": "CT chest without contrast in 24 months",
+      "B": "Positive emission tomography (PET) of chest now",
+      "C": "Right middle lobectomy now",
+      "D": "Bronchoscopy-guided biopsy now"
+    }
+  },
+  "model_response": "The patient's nodule has grown from 8 mm to 10 mm over the course of one year. The nodule is calcified, which makes malignancy less likely. However, the nodule is 10 mm, which necessitates a more aggressive approach. A CT scan of the chest with intravenous contrast is warranted to better delineate the nodule and its anatomic relationships. If the nodule is still 10 mm or larger, a biopsy should be performed. If the nodule is less than 10 mm, a follow-up scan in 24 months is acceptable. A PET scan is not indicated because it would not add any useful information to the management of this patient. The patient's symptoms and physical examination findings are not concerning enough to warrant bronchoscopy.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care doctor",
+      "type": "T097",
+      "umls_id": "C2735026",
+      "score": 0.9863750338554382,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical professional who provides, coordinates, or helps a patient access a range of health care services. This is usually a medical doctor (MD), but may also be a Doctor of Osteopathic Medicine, nurse practitioner, clinical nurse specialist, or physician assistant, as allowed under state law."
+    },
+    {
+      "text": "inguinal hernia repair",
+      "type": "T061",
+      "umls_id": "C0021446",
+      "score": 0.9717684388160706,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "no pain",
+      "type": "T033",
+      "umls_id": "C0234225",
+      "score": 0.9816871881484985,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Score 0"
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "groin",
+      "type": "T029",
+      "umls_id": "C0018246",
+      "score": 0.9815654754638672,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The external junctural region between the lower part of the abdomen and the thigh."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "enjoys",
+      "type": "T170",
+      "umls_id": "C5238518",
+      "score": 0.7768058180809021,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual's pet enjoys life."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "tobacco",
+      "type": "T109",
+      "umls_id": "C0040329",
+      "score": 0.9707451462745667,
+      "semantic_types": [
+        "T109",
+        "T131"
+      ],
+      "definition": "Substances and products derived from NICOTIANA TABACUM."
+    },
+    {
+      "text": "illicit drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.9839807748794556,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "ship",
+      "type": "T073",
+      "umls_id": "C0036971",
+      "score": 0.9971562623977661,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Large vessels propelled by power or sail used for transportation on rivers, seas, oceans, or other navigable waters. Boats are smaller vessels propelled by oars, paddles, sail, or power; they may or may not have a deck."
+    },
+    {
+      "text": "attendant",
+      "type": "T097",
+      "umls_id": "C0237485",
+      "score": 0.9803764820098877,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Preoperative workup",
+      "type": "T079",
+      "umls_id": "C0445204",
+      "score": 0.798904299736023,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Relating to or occurring during the period immediately before a surgical operation."
+    },
+    {
+      "text": "chest radiography",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.9930357933044434,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "opacification",
+      "type": "T080",
+      "umls_id": "C0449584",
+      "score": 0.9716125130653381,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right middle lobe",
+      "type": "T023",
+      "umls_id": "C4281590",
+      "score": 0.9822109341621399,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The smallest lobe of the right lung, situated above the oblique fissure and below the horizontal fissure."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "computed tomography",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.984857976436615,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "radiologist",
+      "type": "T097",
+      "umls_id": "C0260194",
+      "score": 0.9859700202941895,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Physicians specializing in the use of x-ray and other forms of radiant energy to diagnose and treat disease."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "nodule",
+      "type": "T020",
+      "umls_id": "C0028259",
+      "score": 0.984438419342041,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": "A small lump, swelling or collection of tissue."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "peripheral right middle lobe",
+      "type": "T023",
+      "umls_id": "C4281590",
+      "score": 0.7608173489570618,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The smallest lobe of the right lung, situated above the oblique fissure and below the horizontal fissure."
+    },
+    {
+      "text": "regular margins",
+      "type": "T033",
+      "umls_id": "C1836870",
+      "score": 0.7347835302352905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An alteration of the normally relatively smooth margins of the kneecap in radiographic images leading to an irregular contour. [HPO:probinson]"
+    },
+    {
+      "text": "calcified",
+      "type": "T080",
+      "umls_id": "C0175895",
+      "score": 0.9808046817779541,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having calcium deposited on or in an anatomic structure."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "obtains",
+      "type": "T169",
+      "umls_id": "C1301820",
+      "score": 0.8034836649894714,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To come into possession of something."
+    },
+    {
+      "text": "chest CT",
+      "type": "T060",
+      "umls_id": "C0202823",
+      "score": 0.9898857474327087,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "nodule",
+      "type": "T020",
+      "umls_id": "C0028259",
+      "score": 0.984438419342041,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": "A small lump, swelling or collection of tissue."
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "characteristics",
+      "type": "T080",
+      "umls_id": "C1521970",
+      "score": 0.9741553068161011,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The distinguishing qualities or prominent aspect of a person, object, action, process, or substance."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "50-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

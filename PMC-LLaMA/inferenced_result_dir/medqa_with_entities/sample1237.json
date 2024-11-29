@@ -1,0 +1,460 @@
+{
+  "original_data": {
+    "question": "A 57-year-old man comes to the physician because of a 1-year history of increasing shortness of breath on exertion and a cough productive of a small amount of grayish-white phlegm. The cough had been initially nonproductive. He has not had fever or chest pain. He is originally from China and visits his family there once every year. He has worked as a car salesman for 15 years and worked in a shipyard before that for 22 years. He smoked half a pack of cigarettes daily for 13 years but stopped 25 years ago. His temperature is 37.1°C (98.8°F), pulse is 86/min, respirations are 16/min, and blood pressure is 130/80 mm Hg. Fine expiratory crackles are heard at both lung bases. An x-ray of the chest shows patchy infiltrates and supradiaphragmatic pleural thickening in both lungs. A photomicrograph from a sputum sample is shown. Further evaluation of this patient is most likely to show which of the following findings?",
+    "options": {
+      "A": "Increased alveolar-arterial gradient",
+      "B": "Bloody pleural effusion",
+      "C": "Concave flow-volume loop",
+      "D": "Increased diffusing capacity (DLCO)"
+    }
+  },
+  "model_response": "The photomicrograph shows numerous macrophages with brown, coarse granules in the cytoplasm. These are called \"siderophages,\" and their presence indicates that there has been previous hemorrhage. The combination of a history of cigarette smoking, progressive shortness of breath, fine expiratory crackles, and the photomicrograph showing siderophages is most consistent with a diagnosis of pulmonary fibrosis. Pulmonary fibrosis is a restrictive lung disease that is characterized by a decrease in lung compliance. This results in an increased alveolar-arterial gradient (increased A-a gradient), which makes it difficult for oxygen to diffuse from the alveoli into the blood. The other choices are not characteristic of pulmonary fibrosis. A pleural effusion would be unusual in pulmonary fibrosis, and if it were bloody, it would suggest a different diagnosis. A convex flow-volume loop is seen in obstructive lung diseases, such as asthma or chronic obstructive pulmonary disease (COPD). A decreased diffusing capacity (DLCO) is also seen in COPD.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-year history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "exertion",
+      "type": "T040",
+      "umls_id": "C0015264",
+      "score": 0.9380931258201599,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Physical or mental energy; hard work."
+    },
+    {
+      "text": "cough productive",
+      "type": "T033",
+      "umls_id": "C0239134",
+      "score": 0.9714952111244202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A cough accompanied by expectorated secretions."
+    },
+    {
+      "text": "grayish-white phlegm",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cough",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9633718132972717,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "nonproductive",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.795103907585144,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "China",
+      "type": "T083",
+      "umls_id": "C0008115",
+      "score": 0.9921481013298035,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country spanning from central Asia to the Pacific Ocean."
+    },
+    {
+      "text": "visits",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9925670623779297,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "car salesman",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "worked",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.9796833395957947,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "shipyard",
+      "type": "T047",
+      "umls_id": "C0014493",
+      "score": 0.8585482835769653,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Keratoconjunctivitis resulting from infection by adenoviruses."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "expiratory crackles",
+      "type": "T033",
+      "umls_id": "C0577962",
+      "score": 0.9705770015716553,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Crackles that occur during expiration. [PMID:26229557]"
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "patchy infiltrates",
+      "type": "T046",
+      "umls_id": "C0332448",
+      "score": 0.7714297771453857,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The process of the diffusion or accumulation in a tissue or cells of a substance not normal to it or in amounts above normal. (NCI)"
+    },
+    {
+      "text": "supradiaphragmatic",
+      "type": "T082",
+      "umls_id": "C4726575",
+      "score": 0.9738065004348755,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Located or performed from above the diaphragm."
+    },
+    {
+      "text": "pleural thickening",
+      "type": "T047",
+      "umls_id": "C0264545",
+      "score": 0.9715498089790344,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An increase in the thickness of the pleura, generally related to scarring of the pleural tissue. [PMID:23287997]"
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "photomicrograph",
+      "type": "T059",
+      "umls_id": "C0031753",
+      "score": 0.895453155040741,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Photography of objects viewed under a microscope using ordinary photographic methods."
+    },
+    {
+      "text": "sputum sample",
+      "type": "T031",
+      "umls_id": "C0444159",
+      "score": 0.9595731496810913,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "57-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

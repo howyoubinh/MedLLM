@@ -1,0 +1,366 @@
+{
+  "original_data": {
+    "question": "A 35-year-old woman is brought into the clinic by a concerned neighbor who says that the patient is often seen setting up bear traps all around her property because of an impending ‘invasion of the mole people.’ The patient has come to the clinic wearing a garlic necklace. She vaguely explains that the necklace is to mask her scent from the moles tracking her. She has no past psychiatric history and she denies hearing voices or seeing objects. No significant past medical history. Although she has lived in the same community for years, she says she usually keeps to herself and does not have many friends. She holds a regular job at the local hardware store and lives alone. Which of the following is the best initial course of treatment for this patient?",
+    "options": {
+      "A": "Cognitive behavioral therapy (CBT)",
+      "B": "The patient does not require any intervention",
+      "C": "Electroconvulsive therapy (ECT)",
+      "D": "Refer to outpatient group therapy"
+    }
+  },
+  "model_response": "{'Rationale': 'This patient appears to be experiencing a delusion (belief in the ‘invasion of the mole people’) and has some associated magical thinking (wearing a garlic necklace to mask her scent). However, she does not have any other psychotic symptoms, such as hallucinations or disorganized speech/ behavior. She does not appear to be a danger to herself or to others. Therefore, the best initial course of treatment for this patient is cognitive behavioral therapy (CBT). CBT is a type of psychotherapy that helps patients understand and change negative patterns of thinking and behavior. It is a collaborative, structured, and goal-oriented intervention that targets core elements of a given disorder. CBT is considered the treatment of choice for a variety of disorders, including anxiety disorders, depression, and certain personality disorders. CBT is typically a brief intervention, with most patients showing improvement in 12-20 weekly sessions. The patient may be referred to outpatient group therapy for additional support. Electroconvulsive therapy (ECT) is typically reserved for patients with severe depression who have not responded to medications and psychotherapy. ECT may also be used in the treatment of certain types of psychosis, such as catatonia or mania. ECT involves the administration of a controlled electrical current to the brain under general anesthesia. It is generally a safe procedure with few side effects. However, because of the need for general anesthesia and the history of abuse of the procedure, it is typically reserved for treatment-resistant cases. The patient does not require any intervention (B) because she is not experiencing any hallucinations or delusions. She is not a danger to herself or to others (D), so outpatient psychiatric hospitalization is not indicated. She does not appear to meet criteria for schizophrenia (E), as she does not have any hallucinations or disorganized speech/behavior. }\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "neighbor",
+      "type": "T098",
+      "umls_id": "C1553702",
+      "score": 0.9510049819946289,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "<p>The player of the role lives near or next to the scoping person.</p>"
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "bear traps",
+      "type": "T047",
+      "umls_id": "C1275126",
+      "score": 0.7314742207527161,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Tumor necrosis factor receptor 1 associated periodic syndrome (TRAPS) is a periodic fever syndrome, characterized by recurrent fever, arthralgia, myalgia and tender skin lesions lasting for 1 to 3 weeks, associated with skin, joint, ocular and serosal inflammation and complicated by secondary amyloidosis (see this term)."
+    },
+    {
+      "text": "property",
+      "type": "T080",
+      "umls_id": "C0871161",
+      "score": 0.9494812488555908,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A basic or essential attribute shared by all members of a class."
+    },
+    {
+      "text": "impending",
+      "type": "T079",
+      "umls_id": "C0332190",
+      "score": 0.973855197429657,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "invasion",
+      "type": "T191",
+      "umls_id": "C1269955",
+      "score": 0.9435477256774902,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "The local spread of tumor cells of a malignant neoplasm through infiltration or destruction of adjacent tissue; for epithelial neoplasms, invasion signifies infiltration beneath the epithelial basement membrane."
+    },
+    {
+      "text": "mole",
+      "type": "T191",
+      "umls_id": "C0027960",
+      "score": 0.994164228439331,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A circumscribed stable malformation of the skin and occasionally of the oral mucosa, which is not due to external causes and therefore presumed to be of hereditary origin."
+    },
+    {
+      "text": "people",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9665451645851135,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "wearing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "garlic necklace",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "vaguely",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "necklace",
+      "type": "T170",
+      "umls_id": "C1547319",
+      "score": 0.9578869342803955,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mask",
+      "type": "T074",
+      "umls_id": "C0024861",
+      "score": 0.9698373079299927,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices that cover the nose and mouth to maintain aseptic conditions often for the prevention of the spread of infections (e.g. COVID19) or to administer inhaled anesthetics or other gases."
+    },
+    {
+      "text": "scent",
+      "type": "T123",
+      "umls_id": "C0031516",
+      "score": 0.9775645136833191,
+      "semantic_types": [
+        "T123"
+      ],
+      "definition": "Chemical substances, excreted by an organism into the environment, that elicit behavioral or physiological responses from other organisms of the same species. Perception of these chemical signals may be olfactory or by contact."
+    },
+    {
+      "text": "moles",
+      "type": "T191",
+      "umls_id": "C0027960",
+      "score": 0.9905787110328674,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A circumscribed stable malformation of the skin and occasionally of the oral mucosa, which is not due to external causes and therefore presumed to be of hereditary origin."
+    },
+    {
+      "text": "tracking",
+      "type": "T082",
+      "umls_id": "C0546881",
+      "score": 0.9637572765350342,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The act or process of following a person, animal, or object through space or time."
+    },
+    {
+      "text": "psychiatric history",
+      "type": "T091",
+      "umls_id": "C0033873",
+      "score": 0.7691364288330078,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The medical science that deals with the origin, diagnosis, prevention, and treatment of mental disorders."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hearing",
+      "type": "T039",
+      "umls_id": "C0018767",
+      "score": 0.9906299114227295,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The ability or act of sensing and transducing ACOUSTIC STIMULATION to the CENTRAL NERVOUS SYSTEM. It is also called audition."
+    },
+    {
+      "text": "voices",
+      "type": "T040",
+      "umls_id": "C0042939",
+      "score": 0.9642200469970703,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sounds produced by humans by the passage of air through the LARYNX and over the VOCAL CORDS, and then modified by the resonance organs, the NASOPHARYNX, and the MOUTH."
+    },
+    {
+      "text": "seeing objects",
+      "type": "T072",
+      "umls_id": "C0347997",
+      "score": 0.7233756184577942,
+      "semantic_types": [
+        "T072"
+      ],
+      "definition": "Something perceptible by one or more of the senses, especially by vision or touch; a material thing."
+    },
+    {
+      "text": "No significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "community",
+      "type": "T096",
+      "umls_id": "C0009462",
+      "score": 0.9882100820541382,
+      "semantic_types": [
+        "T096"
+      ],
+      "definition": "A set of people with some shared element. The substance of shared element varies widely, from geography to a situation to interest to lives and values. The term is widely used to evoke sense of collectivity."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "keeps",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "herself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "friends",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9840391874313354,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "job",
+      "type": "T090",
+      "umls_id": "C0028811",
+      "score": 0.9788143038749695,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Crafts, trades, professions, or other means of earning a living."
+    },
+    {
+      "text": "local hardware",
+      "type": "T073",
+      "umls_id": "C1523994",
+      "score": 0.7517747282981873,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A manufactured object that is used to perform diagnostic, therapeutic or research activities."
+    },
+    {
+      "text": "lives",
+      "type": "T033",
+      "umls_id": "C0595998",
+      "score": 0.979897141456604,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

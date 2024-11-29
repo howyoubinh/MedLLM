@@ -1,0 +1,524 @@
+{
+  "original_data": {
+    "question": "A 56-year-old man comes to the clinic for a check-up. He presents with a 1-year history of worsening shortness of breath and weight loss. He is a former construction worker, and worked in a steel mill when he was in high school. He is an active smoker with a 36-pack-year smoking history. The blood pressure is 130/78 mm Hg, pulse rate is 90/min, respiratory rate is 17/min, and the BMI is 31 kg/m2. The patient is afebrile and the oxygen saturation at rest is 95% on room air. The pulmonary examination reveals a mildly prolonged expiratory phase, and no wheezing or crackles are auscultated. A pulmonary function test is recommended for the patient, and 2 weeks later he returns with a report that shows an FEV1/FVC ratio of 60% and FEV1 of 50% of the predicted value. The lung volumes show a total lung capacity of 110% of predicted value, a residual volume of 115% of predicted value, and a DLCO of 60% of predicted value. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Asbestosis",
+      "B": "Idiopathic pulmonary fibrosis",
+      "C": "Bronchiectasis",
+      "D": "Chronic obstructive pulmonary disease"
+    }
+  },
+  "model_response": "The patient's spirometry results are consistent with a restrictive pattern. The increased total lung capacity suggests hyperinflation. The decreased DLCO suggests that gas exchange is impaired. The history of occupational exposure to asbestos and the presence of bilateral pleural plaques on chest radiograph support the diagnosis of asbestosis.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "check-up",
+      "type": "T058",
+      "umls_id": "C0598836",
+      "score": 0.9549977779388428,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Checkup is a general examination or inspection, especially one carried out by a doctor or dentist."
+    },
+    {
+      "text": "1-year history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "construction worker",
+      "type": "T097",
+      "umls_id": "C0403066",
+      "score": 0.9553373456001282,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "worked",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.9796833395957947,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "steel",
+      "type": "T122",
+      "umls_id": "C0038239",
+      "score": 0.9621648788452148,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A tough, malleable, iron-based alloy containing up to, but no more than, two percent carbon and often other metals. It is used in medicine and dentistry in implants and instrumentation."
+    },
+    {
+      "text": "mill",
+      "type": "T073",
+      "umls_id": "C0599997",
+      "score": 0.9971231818199158,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "high school",
+      "type": "T073",
+      "umls_id": "C0599395",
+      "score": 0.9862531423568726,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "A secondary school that usually includes grades 9 through 12."
+    },
+    {
+      "text": "active",
+      "type": "T080",
+      "umls_id": "C0205177",
+      "score": 0.9973770380020142,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Exerting influence or producing an effect."
+    },
+    {
+      "text": "smoker",
+      "type": "T033",
+      "umls_id": "C0337664",
+      "score": 0.972935140132904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A person who inhales or has inhaled combustible products of organic material during their lifetime."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse rate",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9629671573638916,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "afebrile",
+      "type": "T033",
+      "umls_id": "C0277797",
+      "score": 0.9714973568916321,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rest",
+      "type": "T056",
+      "umls_id": "C0035253",
+      "score": 0.9951050877571106,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Freedom from activity."
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "pulmonary examination",
+      "type": "T042",
+      "umls_id": "C1373189",
+      "score": 0.7425879836082458,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The discharge of substances from the pulmonary capillary blood into the alveolar space to be exhaled or removed by MUCOCILIARY CLEARANCE."
+    },
+    {
+      "text": "prolonged",
+      "type": "T079",
+      "umls_id": "C0439590",
+      "score": 0.9630876779556274,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to an abnormality whose duration is extended over a longer period of time than is expected or usual (e.g., prolonged fever lasts longer than one usually sees with an infection). []"
+    },
+    {
+      "text": "expiratory phase",
+      "type": "T040",
+      "umls_id": "C0231800",
+      "score": 0.7921705842018127,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Expelling modified air from the lungs; breathing out."
+    },
+    {
+      "text": "crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "auscultated",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.7872557640075684,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "pulmonary function test",
+      "type": "T060",
+      "umls_id": "C0024119",
+      "score": 0.978030264377594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A broad range of tests that are performed to assess how well lungs inhale and exhale air and how efficiently they transfer oxygen into the blood."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "returns",
+      "type": "T080",
+      "umls_id": "C0332156",
+      "score": 0.7276451587677002,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "To give something back, or the getting back thereof."
+    },
+    {
+      "text": "report",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9860576391220093,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "FEV1/FVC ratio",
+      "type": "T033",
+      "umls_id": "C4280729",
+      "score": 0.8461078405380249,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally low FEV1/FVC (FEV1 - forced expiratory volume in 1 second; FVC forced vital capacity). [NIHR:ldaugherty, PMID:22347750, PMID:24695507]"
+    },
+    {
+      "text": "FEV1",
+      "type": "T201",
+      "umls_id": "C0802965",
+      "score": 0.9727987051010132,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "predicted value",
+      "type": "T081",
+      "umls_id": "C1882327",
+      "score": 0.8054990768432617,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A unit of percentage measurement for quantitative evaluation of a forecasted or presumed value against the actual observation value."
+    },
+    {
+      "text": "lung",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9809418320655823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "volumes",
+      "type": "T081",
+      "umls_id": "C0449468",
+      "score": 0.9860562086105347,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The amount of three dimensional space occupied by an object or the capacity of a space or container."
+    },
+    {
+      "text": "lung capacity",
+      "type": "T042",
+      "umls_id": "C0086571",
+      "score": 0.9823943376541138,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "predicted",
+      "type": "T078",
+      "umls_id": "C0681842",
+      "score": 0.9828162789344788,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "An extrapolation of given data into the future."
+    },
+    {
+      "text": "residual",
+      "type": "T080",
+      "umls_id": "C1609982",
+      "score": 0.9523121118545532,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Remaining or left behind."
+    },
+    {
+      "text": "volume",
+      "type": "T081",
+      "umls_id": "C0449468",
+      "score": 0.9937787055969238,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The amount of three dimensional space occupied by an object or the capacity of a space or container."
+    },
+    {
+      "text": "predicted value",
+      "type": "T081",
+      "umls_id": "C1882327",
+      "score": 0.8054990768432617,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A unit of percentage measurement for quantitative evaluation of a forecasted or presumed value against the actual observation value."
+    },
+    {
+      "text": "DLCO",
+      "type": "T060",
+      "umls_id": "C5204350",
+      "score": 0.7849934101104736,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The lung carbon monoxide diffusing capability test assessment predictive percentage value."
+    },
+    {
+      "text": "predicted",
+      "type": "T078",
+      "umls_id": "C0681842",
+      "score": 0.9828162789344788,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "An extrapolation of given data into the future."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "56-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

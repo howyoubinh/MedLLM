@@ -1,0 +1,352 @@
+{
+  "original_data": {
+    "question": "A 30-year-old Japanese woman is brought to the emergency department after fainting at work. She says she was only unconscious for a moment and recovered quickly. She reports increasing fatigue and joint pain for the past 4 months. Her blood pressure is 90/60 mm Hg, and her temperature is 36.6°C (98.0°F). On physical examination, the patient is fully conscious. Her radial pulse is absent at her right wrist and 1+ at her left wrist. Laboratory findings are significant for the following:\nHemoglobin: 10.9 g/dL\nHematocrit: 34.7%\nLeukocyte count: 5,500/mm3\nNeutrophils: 65%\nLymphocytes: 30%\nMonocytes: 5%\nMean corpuscular volume: 78.2 μm3\nPlatelet count: 190,000/mm3\nErythrocyte sedimentation rate: 56 mm/h\nWhat complications is this patient at risk for?",
+    "options": {
+      "A": "Myocardial infarction",
+      "B": "Tongue infarction",
+      "C": "Palpable purpura",
+      "D": "Polyneuropathy"
+    }
+  },
+  "model_response": "The patient's hemoglobin level is low, and her leukocyte count is normal. The mean corpuscular volume is increased, suggesting microcytic anemia. The platelet count is normal. The leukocyte alkaline phosphatase level is low, suggesting a myelodysplastic syndrome. The patient is at risk for myocardial infarction, tongue infarction, palpable purpura, and polyneuropathy.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Japanese",
+      "type": "T171",
+      "umls_id": "C0376247",
+      "score": 0.9737203121185303,
+      "semantic_types": [
+        "T171"
+      ],
+      "definition": "An East Asian language spoken as the official language of Japan."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "fainting",
+      "type": "T184",
+      "umls_id": "C0039070",
+      "score": 0.9608953595161438,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A transient loss of consciousness and postural tone caused by diminished blood flow to the brain (i.e., BRAIN ISCHEMIA). Presyncope refers to the sensation of lightheadedness and loss of strength that precedes a syncopal event or accompanies an incomplete syncope. (From Adams et al., Principles of Neurology, 6th ed, pp367-9)"
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "moment",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "recovered",
+      "type": "T080",
+      "umls_id": "C0521108",
+      "score": 0.9774845242500305,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "joint pain",
+      "type": "T184",
+      "umls_id": "C0003862",
+      "score": 0.9798861742019653,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the joint."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "conscious",
+      "type": "T041",
+      "umls_id": "C0234421",
+      "score": 0.9591494798660278,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Sense of awareness of self and of the environment."
+    },
+    {
+      "text": "radial",
+      "type": "T077",
+      "umls_id": "C0442038",
+      "score": 0.9838500022888184,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Arranged like rays or radii; radiating from a common center or moving in the direction of a radius; relating to or near the radius."
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "right wrist",
+      "type": "T023",
+      "umls_id": "C0230365",
+      "score": 0.979472279548645,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left wrist",
+      "type": "T023",
+      "umls_id": "C0230366",
+      "score": 0.9770500063896179,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "Neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Monocytes",
+      "type": "T025",
+      "umls_id": "C0026473",
+      "score": 0.9890480041503906,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Large, phagocytic mononuclear leukocytes produced in the vertebrate BONE MARROW and released into the BLOOD; contain a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles."
+    },
+    {
+      "text": "Erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "sedimentation",
+      "type": "T059",
+      "umls_id": "C0597428",
+      "score": 0.9737226366996765,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The act or process of settling particles by mechanical means from a state of suspension in air or water."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "complications",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9766035676002502,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "30-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

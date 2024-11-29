@@ -1,0 +1,237 @@
+{
+  "original_data": {
+    "question": "A 75-year-old with hypertension and atrial fibrillation comes to the emergency department because of a 2-hour history of severe abdominal pain and nausea. He has smoked 1 pack of cigarettes daily for the past 45 years. The patient undergoes emergency laparotomy and is found to have dusky discoloration of the hepatic colonic flexure and an adjacent segment of the transverse colon. The most likely cause of his condition is occlusion of a branch of which of the following arteries?",
+    "options": {
+      "A": "Median sacral artery",
+      "B": "Inferior mesenteric artery",
+      "C": "Celiac artery",
+      "D": "Superior mesenteric artery"
+    }
+  },
+  "model_response": "The patient has ischemic colitis, which is usually the result of occlusion of a branch of the superior mesenteric artery. The splenic flexure of the colon is particularly vulnerable to ischemic injury because of the narrow caliber of the inferior mesenteric artery at this point and the tenuous blood supply. The median sacral artery is a small branch of the abdominal aorta that supplies the sacral region. The inferior mesenteric artery supplies the left one-third of the transverse colon, the descending colon, and the sigmoid colon. The celiac artery is the artery of origin of the abdominal branches of the aorta. The superior mesenteric artery arises from the aorta and supplies the midgut from the distal half of the duodenum through two-thirds of the transverse colon.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "atrial fibrillation",
+      "type": "T047",
+      "umls_id": "C0004238",
+      "score": 0.968174934387207,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "2-hour history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "emergency laparotomy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "discoloration",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.979123592376709,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "hepatic",
+      "type": "T029",
+      "umls_id": "C0205054",
+      "score": 0.9772234559059143,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Pertaining to, affecting, or associated with the liver."
+    },
+    {
+      "text": "colonic flexure",
+      "type": "T029",
+      "umls_id": "C0227387",
+      "score": 0.7884339690208435,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The bend at the junction of the transverse and descending colon."
+    },
+    {
+      "text": "adjacent",
+      "type": "T082",
+      "umls_id": "C0205117",
+      "score": 0.9330945014953613,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Next to or adjoining."
+    },
+    {
+      "text": "segment",
+      "type": "T082",
+      "umls_id": "C0441635",
+      "score": 0.9592607021331787,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "One of the parts into which something naturally divides."
+    },
+    {
+      "text": "transverse colon",
+      "type": "T023",
+      "umls_id": "C0227386",
+      "score": 0.9653737545013428,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The segment of LARGE INTESTINE between ASCENDING COLON and DESCENDING COLON. It passes from the RIGHT COLIC FLEXURE across the ABDOMEN, then turns sharply at the left colonic flexure into the descending colon."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "occlusion",
+      "type": "T020",
+      "umls_id": "C0001168",
+      "score": 0.965436577796936,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": null
+    },
+    {
+      "text": "branch",
+      "type": "T082",
+      "umls_id": "C1253959",
+      "score": 0.9961420893669128,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A part of a forking structure; a division or offshoot from a main stem."
+    },
+    {
+      "text": "arteries",
+      "type": "T023",
+      "umls_id": "C0003842",
+      "score": 0.9821686148643494,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The vessels carrying blood away from the heart."
+    },
+    {
+      "text": "75-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

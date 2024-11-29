@@ -1,0 +1,413 @@
+{
+  "original_data": {
+    "question": "A 16-year-old girl comes to the emergency department because of left wrist pain and swelling for 5 hours. She fell on an outstretched hand while playing basketball. She ignored it initially as she thought it was just a bruise, but the pain and swelling worsened throughout the day. The analgesic spray she used did not provide adequate relief. There is no family history of serious illness. Her only medication is an oral contraceptive pill. Her immunizations are up-to-date. She appears anxious. Her temperature is 37.1°C (99°F), pulse is 88/min, and blood pressure is 118/72 mm Hg. Examination shows a swollen and tender left wrist; range of motion is limited. The anatomical snuffbox is tender to palpation. The grip strength of the left hand is decreased. The thumb can be opposed towards the other fingers. Finkelstein's test is negative. X-rays of the wrist shows no abnormalities. Which of the following is the most appropriate next best step in management?",
+    "options": {
+      "A": "Corticosteroid injections",
+      "B": "Thumb spica cast and repeat x-rays in 2 weeks",
+      "C": "Rest, ice, and repeat x-rays in 2 weeks",
+      "D": "Percutaneous pinning\n\""
+    }
+  },
+  "model_response": "{'D': 'Percutaneous pinning\\n\"'}\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "left wrist pain",
+      "type": "T184",
+      "umls_id": "C0221785",
+      "score": 0.80694180727005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the wrist. [UToronto:chum]"
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "outstretched",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "basketball",
+      "type": "T056",
+      "umls_id": "C0004818",
+      "score": 0.9591218829154968,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A competitive team sport played on a rectangular court having a raised basket at each end."
+    },
+    {
+      "text": "bruise",
+      "type": "T037",
+      "umls_id": "C0009938",
+      "score": 0.9666627645492554,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Injuries resulting in hemorrhage, usually manifested in the skin."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "swelling worsened",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "analgesic spray",
+      "type": "T109",
+      "umls_id": "C0002771",
+      "score": 0.7697481513023376,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "Compounds capable of relieving pain without the loss of CONSCIOUSNESS."
+    },
+    {
+      "text": "adequate",
+      "type": "T080",
+      "umls_id": "C0205410",
+      "score": 0.9565691947937012,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Meeting a quantitative or qualitative measure necessary for a requirement; enough to meet the needs of a situation."
+    },
+    {
+      "text": "relief",
+      "type": "T033",
+      "umls_id": "C0564405",
+      "score": 0.9670310616493225,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "oral",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9887835383415222,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "immunizations",
+      "type": "T061",
+      "umls_id": "C0020971",
+      "score": 0.9687795042991638,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Deliberate stimulation of the host's immune response. ACTIVE IMMUNIZATION involves administration of ANTIGENS or IMMUNOLOGIC ADJUVANTS. PASSIVE IMMUNIZATION involves administration of IMMUNE SERA or LYMPHOCYTES or their extracts (e.g., transfer factor, immune RNA) or transplantation of immunocompetent cell producing tissue (thymus or bone marrow)."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "anatomical snuffbox",
+      "type": "T080",
+      "umls_id": "C0220784",
+      "score": 0.7343807816505432,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Relating to anatomy."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "grip strength",
+      "type": "T081",
+      "umls_id": "C0242959",
+      "score": 0.9778561592102051,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Force exerted when gripping or grasping."
+    },
+    {
+      "text": "left hand",
+      "type": "T023",
+      "umls_id": "C0230371",
+      "score": 0.9930857419967651,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "fingers",
+      "type": "T023",
+      "umls_id": "C0016129",
+      "score": 0.990062415599823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Four or five slender jointed digits in humans and primates, attached to each HAND."
+    },
+    {
+      "text": "Finkelstein's test",
+      "type": "T033",
+      "umls_id": "C0231669",
+      "score": 0.964860737323761,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "X-rays",
+      "type": "T060",
+      "umls_id": "C0043299",
+      "score": 0.996009886264801,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A radiographic procedure using the emission of x-rays to form an image of the structure penetrated by the radiation."
+    },
+    {
+      "text": "wrist",
+      "type": "T029",
+      "umls_id": "C0043262",
+      "score": 0.9785857200622559,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the upper limb between the metacarpus and the FOREARM."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "16-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

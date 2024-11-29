@@ -1,0 +1,210 @@
+{
+  "original_data": {
+    "question": "A 59-year-old woman comes to the physician 2 weeks after noticing a lump in her left breast. Examination of the left breast shows a firm, nontender mass close to the nipple. Mammography shows an irregular calcified mass. A core needle biopsy shows invasive ductal carcinoma. Genetic analysis of this patient's cancer cells is most likely to show overexpression of which of the following genes?",
+    "options": {
+      "A": "HER2",
+      "B": "BCR-ABL",
+      "C": "BRCA-2",
+      "D": "BCL-2"
+    }
+  },
+  "model_response": "The overexpression of the HER2 gene is associated with a poor prognosis. The BCR-ABL translocation is associated with chronic myelogenous leukemia. The BRCA-2 gene is associated with familial breast cancer. The BCL-2 gene is associated with the development of follicular lymphoma. The p53 gene is associated with Li-Fraumeni syndrome.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician 2 weeks",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.7719243168830872,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "lump",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.986535906791687,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "left breast",
+      "type": "T023",
+      "umls_id": "C0222601",
+      "score": 0.9939004778862,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hemispheric projection, including the mammary gland, located on the anterior portion of the chest, lateral to the midline, on the side of the body to the west when facing north."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "left breast",
+      "type": "T023",
+      "umls_id": "C0222601",
+      "score": 0.9939004778862,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hemispheric projection, including the mammary gland, located on the anterior portion of the chest, lateral to the midline, on the side of the body to the west when facing north."
+    },
+    {
+      "text": "firm",
+      "type": "T080",
+      "umls_id": "C0205233",
+      "score": 0.9878337383270264,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a structure or consistency that strongly resists stress or pressure."
+    },
+    {
+      "text": "nontender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "nipple",
+      "type": "T023",
+      "umls_id": "C0028109",
+      "score": 0.9814176559448242,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The conic organs which usually give outlet to milk from the mammary glands."
+    },
+    {
+      "text": "Mammography",
+      "type": "T060",
+      "umls_id": "C0024671",
+      "score": 0.9881499409675598,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Radiographic examination of the breast."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "calcified mass",
+      "type": "T080",
+      "umls_id": "C0175895",
+      "score": 0.816078782081604,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having calcium deposited on or in an anatomic structure."
+    },
+    {
+      "text": "needle biopsy",
+      "type": "T060",
+      "umls_id": "C0005560",
+      "score": 0.9723770022392273,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and examination of tissue obtained through a transdermal needle inserted into the specific region, organ, or tissue being analyzed."
+    },
+    {
+      "text": "invasive",
+      "type": "T080",
+      "umls_id": "C0205281",
+      "score": 0.9686405658721924,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Marked by a tendency to spread, especially into healthy surrounding tissue."
+    },
+    {
+      "text": "Genetic analysis",
+      "type": "T059",
+      "umls_id": "C0796344",
+      "score": 0.9830151796340942,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "cancer cells",
+      "type": "T025",
+      "umls_id": "C0334227",
+      "score": 0.984207034111023,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Cells of, or derived from, a malignant tumor."
+    },
+    {
+      "text": "overexpression",
+      "type": "T045",
+      "umls_id": "C1514559",
+      "score": 0.9630952477455139,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Synthesis of excess polypeptide within the cell. Overexpression is often due to the amplification or deregulation of the gene which encodes the gene product."
+    },
+    {
+      "text": "genes",
+      "type": "T028",
+      "umls_id": "C0017337",
+      "score": 0.9926673173904419,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "A category of nucleic acid sequences that function as units of heredity and which code for the basic instructions for the development, reproduction, and maintenance of organisms."
+    },
+    {
+      "text": "59-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "original_data": {
+    "question": "A 7-month-old boy is brought to the physician because of a 2-month history of fatigue, weakness, and difficulty feeding. He was delivered at term to a 32-year-old woman. He is not able to sit upright on his own. He is at the 75th percentile for height and 25th percentile for weight. His temperature is 37.7°C (99.8°F), blood pressure is 110/68 mm Hg, pulse is 150/min, and respirations are 50/min. His tongue protrudes beyond the teeth. Neck veins are distended. Crackles are heard at both lung bases. Cardiac examination shows an S3 gallop. The liver is palpated 2 cm below the right costal margin. Neurologic examination shows profound weakness in proximal and distal muscles of the upper and lower extremities. He has 2+ reflexes bilaterally. A chest x-ray shows cardiomegaly. Serum glucose is 105 mg/dL. Which of the following is the enzyme most likely to be defective in this patient?",
+    "options": {
+      "A": "Muscle glycogen phosphorylase",
+      "B": "Very-long-chain acyl-CoA dehydrogenase",
+      "C": "Lysosomal acid maltase",
+      "D": "Glycogen debranching enzyme"
+    }
+  },
+  "model_response": "The patient has Pompe disease, which is caused by deficiency of lysosomal acid maltase. The disease is characterized by accumulation of glycogen in lysosomes. The heart, skeletal muscles, liver, and nervous system are particularly affected. The disease is fatal in infancy or early childhood. The other enzymes listed are involved in glycogen metabolism, but their deficiency leads to different clinical syndromes.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "7-month-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "difficulty feeding",
+      "type": "T033",
+      "umls_id": "C0232466",
+      "score": 0.9724871516227722,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Interruption or disruption of the intake of food/nutrition."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "tongue",
+      "type": "T023",
+      "umls_id": "C0040408",
+      "score": 0.9851449131965637,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscular organ in the mouth that is covered with pink tissue called mucosa, tiny bumps called papillae, and thousands of taste buds. The tongue is anchored to the mouth and is vital for chewing, swallowing, and for speech."
+    },
+    {
+      "text": "protrudes",
+      "type": "T033",
+      "umls_id": "C0241442",
+      "score": 0.7130900621414185,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Tongue extending beyond the alveolar ridges or teeth at rest. [PMID:19125428]"
+    },
+    {
+      "text": "teeth",
+      "type": "T023",
+      "umls_id": "C0040426",
+      "score": 0.9633482694625854,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of a set of bone-like structures in the mouth used for biting and chewing."
+    },
+    {
+      "text": "Neck veins",
+      "type": "T023",
+      "umls_id": "C0226542",
+      "score": 0.9874321222305298,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "Cardiac examination",
+      "type": "T060",
+      "umls_id": "C5238613",
+      "score": 0.8230605125427246,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A physical examination focusing on areas of interest other than the heart."
+    },
+    {
+      "text": "S3 gallop",
+      "type": "T033",
+      "umls_id": "C0232278",
+      "score": 0.9715679287910461,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A finding which can be heard on auscultation of the heart in the setting of congestive heart failure. The sound of the S3 gallop, which immediately follows the second heart sound (S2) is thought to be produced by the sound of blood flowing into a noncompliant ventricle."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "right costal margin",
+      "type": "T029",
+      "umls_id": "C0502460",
+      "score": 0.9858113527297974,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Neurologic examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9734473824501038,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "profound weakness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "proximal",
+      "type": "T082",
+      "umls_id": "C0205107",
+      "score": 0.9636295437812805,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated nearest to a point of attachment or origin."
+    },
+    {
+      "text": "distal muscles",
+      "type": "T023",
+      "umls_id": "C2984224",
+      "score": 0.8773184418678284,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscle located away from the trunk of the body."
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "reflexes",
+      "type": "T042",
+      "umls_id": "C0034929",
+      "score": 0.959754467010498,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "An involuntary movement or exercise of function in a part, excited in response to a stimulus applied to the periphery and transmitted to the brain or spinal cord."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "chest x-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "cardiomegaly",
+      "type": "T033",
+      "umls_id": "C0018800",
+      "score": 0.9893979430198669,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the HEART, usually indicated by a cardiothoracic ratio above 0.50. Heart enlargement may involve the right, the left, or both HEART VENTRICLES or HEART ATRIA. Cardiomegaly is a nonspecific symptom seen in patients with chronic systolic heart failure (HEART FAILURE) or several forms of CARDIOMYOPATHIES."
+    },
+    {
+      "text": "Serum glucose",
+      "type": "T059",
+      "umls_id": "C0202041",
+      "score": 0.9888039827346802,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of glucose present in a sample of serum."
+    },
+    {
+      "text": "enzyme",
+      "type": "T116",
+      "umls_id": "C0014442",
+      "score": 0.9854337573051453,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Biological molecules that possess catalytic activity. They may occur naturally or be synthetically created. Enzymes are usually proteins, however CATALYTIC RNA and CATALYTIC DNA molecules have also been identified."
+    },
+    {
+      "text": "defective",
+      "type": "T169",
+      "umls_id": "C0332452",
+      "score": 0.979039192199707,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "original_data": {
+    "question": "A 3-year-old boy is brought to the physician for a well-child examination. Over the past 8 months, his mother reports difficulty understanding the boy's speech. On occasion during this period, she has noticed that he does not respond when called by name and cannot follow 1-step instructions. He has a history of recurrent ear infections treated with antibiotics since birth. He is at the 60th percentile for length and 50th percentile for weight. Vital signs are within normal limits. His speech is quiet and difficult to understand. Otoscopic examination shows retracted tympanic membranes bilaterally that are immobile on pneumatic otoscopy. Nasopharyngoscopy shows mild adenoid hypertrophy. Pure tone audiometry shows a conductive hearing loss of 26 dB on the right side and 28 dB on the left side. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Adenoidectomy",
+      "B": "Tympanostomy tube insertion",
+      "C": "Antihistamine therapy",
+      "D": "Corticosteroid therapy\n\""
+    }
+  },
+  "model_response": "The child's history of chronic ear infections, conductive hearing loss, and immobile tympanic membranes suggest that he has otitis media with effusion (OME) with adenoid hypertrophy. The most appropriate next step in management is to perform an adenoidectomy. Antihistamine therapy and corticosteroid therapy are not indicated in the management of OME. Tympanostomy tube insertion is an option for children with OME who fail medical management and have significant hearing loss. However, in this case, the child's hearing loss is mild and medical management (ie, another round of antibiotics) is not indicated.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "well-child examination",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "boy's",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "occasion",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.8330253958702087,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "name",
+      "type": "T170",
+      "umls_id": "C0027365",
+      "score": 0.9963099956512451,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Personal names, given or surname, as cultural characteristics, as ethnological or religious patterns, as indications of the geographic distribution of families and inbreeding, etc. Analysis of isonymy, the quality of having the same or similar names, is useful in the study of population genetics. NAMES is used also for the history of names or name changes of corporate bodies, such as medical societies, universities, hospitals, government agencies, etc."
+    },
+    {
+      "text": "instructions",
+      "type": "T170",
+      "umls_id": "C0302828",
+      "score": 0.9738863110542297,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A message describing how something is to be done."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "recurrent ear infections",
+      "type": "T033",
+      "umls_id": "C0743360",
+      "score": 0.9708566665649414,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Increased susceptibility to ear infections, as manifested by recurrent episodes of ear infections. [ORCID:0000-0001-5208-3432]"
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "antibiotics",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.9689207077026367,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "length",
+      "type": "T081",
+      "umls_id": "C1444754",
+      "score": 0.9718987345695496,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The linear extent in space from one end of something to the other end, or the extent of something from beginning to end."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "quiet",
+      "type": "T080",
+      "umls_id": "C0439654",
+      "score": 0.9662524461746216,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Otoscopic examination",
+      "type": "T060",
+      "umls_id": "C0014245",
+      "score": 0.8049940466880798,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures of applying ENDOSCOPES for disease diagnosis and treatment. Endoscopy involves passing an optical instrument through a small incision in the skin i.e., percutaneous; or through a natural orifice and along natural body pathways such as the digestive tract; and/or through an incision in the wall of a tubular structure or organ, i.e. transluminal, to examine or perform surgery on the interior parts of the body."
+    },
+    {
+      "text": "tympanic membranes",
+      "type": "T023",
+      "umls_id": "C0041445",
+      "score": 0.9737743735313416,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An oval semitransparent membrane separating the external EAR CANAL from the tympanic cavity (EAR, MIDDLE). It contains three layers: the skin of the external ear canal; the core of radially and circularly arranged collagen fibers; and the MUCOSA of the middle ear."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "immobile",
+      "type": "T033",
+      "umls_id": "C0231441",
+      "score": 0.9889448285102844,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is not mobile."
+    },
+    {
+      "text": "pneumatic otoscopy",
+      "type": "T061",
+      "umls_id": "C0444678",
+      "score": 0.9829768538475037,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Nasopharyngoscopy",
+      "type": "T060",
+      "umls_id": "C0189025",
+      "score": 0.9850590229034424,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination of the nasopharynx."
+    },
+    {
+      "text": "adenoid hypertrophy",
+      "type": "T047",
+      "umls_id": "C0149825",
+      "score": 0.9873210787773132,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tone",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "audiometry",
+      "type": "T060",
+      "umls_id": "C0004286",
+      "score": 0.9853391051292419,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The testing of the acuity of the sense of hearing to determine the thresholds of the lowest intensity levels at which an individual can hear a set of tones. The frequencies between 125 and 8000 Hz are used to test air conduction thresholds and the frequencies between 250 and 4000 Hz are used to test bone conduction thresholds."
+    },
+    {
+      "text": "conductive",
+      "type": "T074",
+      "umls_id": "C5237011",
+      "score": 0.8187376260757446,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A treatment system that combines hyperthermia with intravesical chemotherapy. A chemotherapy solution is heated externally and then instilled into and circulated through the bladder in a closed system."
+    },
+    {
+      "text": "hearing loss",
+      "type": "T033",
+      "umls_id": "C0011053",
+      "score": 0.9876301884651184,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A general term for the complete loss of the ability to hear from both ears."
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

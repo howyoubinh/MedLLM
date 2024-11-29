@@ -1,0 +1,102 @@
+{
+  "original_data": {
+    "question": "A 65-year-old male is treated for anal carcinoma with therapy including external beam radiation. How does radiation affect cancer cells?",
+    "options": {
+      "A": "Induces the formation of thymidine dimers",
+      "B": "Induces the formation of disulfide bonds",
+      "C": "Induces deamination of cytosine",
+      "D": "Induces breaks in double-stranded DNA"
+    }
+  },
+  "model_response": "The correct answer is A. Radiation therapy for cancer works by damaging the DNA within the tumor cells. This can be done through a direct action, where the radiation is absorbed within the tumor cells, or an indirect action, where the radiation is absorbed within surrounding tissues, leading to the formation of free radicals that can damage the DNA within the tumor cells. The most common lesions produced by radiation are single- and double-stranded breaks in the sugar-phosphate backbone of the DNA molecules. This can result in mutations and the inability of the cell to divide. Thymidine dimers are produced by UV radiation and are a common form of DNA damage within the cell. Disulfide bonds are a type of covalent bond that can be formed between two cysteine residues. This type of bond is not directly affected by radiation therapy. Cytosine deamination is a chemical reaction that can occur spontaneously or be induced by certain chemicals. In this reaction, cytosine is converted to uracil. This can result in a mutation if the cell attempts to replicate the DNA strand. However, this type of DNA damage is not directly caused by radiation therapy.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "anal carcinoma",
+      "type": "T191",
+      "umls_id": "C0279637",
+      "score": 0.9844577312469482,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A carcinoma that arises from the anus. Anal carcinomas include the anal canal and perianal area (anal margin) carcinomas. Perianal carcinomas are staged separately as skin carcinomas in AJCC v6 and v7 editions. The AJCC v8 edition staging system applies to all carcinomas arising in the anal canal, including carcinomas that arise within anorectal fistulas and those arising in the perianal area (anal margin)."
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "external",
+      "type": "T082",
+      "umls_id": "C0205101",
+      "score": 0.9765971899032593,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Happening or arising or located outside or beyond some limits, or especially, some surface."
+    },
+    {
+      "text": "beam radiation",
+      "type": "T061",
+      "umls_id": "C3846444",
+      "score": 0.9645617008209229,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "radiation",
+      "type": "T070",
+      "umls_id": "C0034519",
+      "score": 0.973841667175293,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Waves of oscillating electric and MAGNETIC FIELDS which move at right angles to each other and outward from the source."
+    },
+    {
+      "text": "cancer cells",
+      "type": "T025",
+      "umls_id": "C0334227",
+      "score": 0.984207034111023,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Cells of, or derived from, a malignant tumor."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

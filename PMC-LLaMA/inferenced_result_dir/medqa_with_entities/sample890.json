@@ -1,0 +1,426 @@
+{
+  "original_data": {
+    "question": "A 51-year-old Caucasian woman presents to the physician for a routine health maintenance examination. She had a Colles' fracture 2 years ago. The rest of her past medical history is unremarkable. She has a sedentary lifestyle. She has been smoking 1 pack of cigarettes daily for 30 years. She drinks alcohol moderately. Her mother had a fracture of the wrist when she was in her late 60s. The physical examination shows no abnormal findings. Dual-energy X-ray absorptiometry (DEXA scan) shows a T-score of -3.2 standard deviations (SDs) in the hip. The patient is educated regarding her risk of falls. Exercise regimen and smoking cessation assistance are provided. Appropriate diet is indicated, as well as supplements with calcium and vitamin D. Which of the following is the most appropriate next step in pharmacotherapy?",
+    "options": {
+      "A": "Alendronate",
+      "B": "Calcitonin",
+      "C": "Estrogen",
+      "D": "Tamoxifen"
+    }
+  },
+  "model_response": "The patient has osteoporosis with a fragility fracture. The first-line therapy for osteoporosis is a bisphosphonate. Alendronate is the preferred choice because of its efficacy in reducing fracture risk and relatively low cost. Risedronate, another first-line therapy, is not given as a choice. Calcitonin has been shown to be effective for acute treatment of osteoporosis, but it is not given as a first-line therapy. Estrogen is also not given as a first-line therapy because of the increased risk of breast and endometrial cancer. Tamoxifen is used in the treatment of breast cancer.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Caucasian",
+      "type": "T098",
+      "umls_id": "C0007457",
+      "score": 0.982106626033783,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A group distinguished by classification according to physical features. This group, also called Europoid, centers around the Mediterranean Sea but includes other parts of Europe. (from Winick: Dictionary of Anthropology, 1972; American Heritage Dictionary, 2d College ed)"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Colles' fracture",
+      "type": "T037",
+      "umls_id": "C0009353",
+      "score": 0.9454063773155212,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Fracture of the lower end of the radius in which the lower fragment is displaced posteriorly."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "sedentary lifestyle",
+      "type": "T033",
+      "umls_id": "C1532253",
+      "score": 0.9750271439552307,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A type of lifestyle that lacks physical exercise, characterized by sitting, reading, watching television or using a computer for much of the day without vigorous physical exertion."
+    },
+    {
+      "text": "smoking",
+      "type": "T055",
+      "umls_id": "C0037369",
+      "score": 0.963042676448822,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Willful or deliberate act of inhaling and exhaling SMOKE from burning substances or agents held by hand."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol moderately",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.7508320212364197,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "fracture",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9908431768417358,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "wrist",
+      "type": "T029",
+      "umls_id": "C0043262",
+      "score": 0.9785857200622559,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the upper limb between the metacarpus and the FOREARM."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Dual-energy X-ray absorptiometry",
+      "type": "T060",
+      "umls_id": "C1510486",
+      "score": 0.971208930015564,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A technique for scanning bone and measuring bone mineral density (BMD). A DXA scanner produces 2 X-ray beams, each with different energy levels. One beam is high energy while the other is low energy. The amount of x-rays that pass through the bone is measured for each beam. This will vary depending on the thickness of the bone. Based on the difference between the 2 beams, the bone density can be measured."
+    },
+    {
+      "text": "DEXA scan",
+      "type": "T060",
+      "umls_id": "C1510486",
+      "score": 0.9754157066345215,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A technique for scanning bone and measuring bone mineral density (BMD). A DXA scanner produces 2 X-ray beams, each with different energy levels. One beam is high energy while the other is low energy. The amount of x-rays that pass through the bone is measured for each beam. This will vary depending on the thickness of the bone. Based on the difference between the 2 beams, the bone density can be measured."
+    },
+    {
+      "text": "T-score",
+      "type": "T081",
+      "umls_id": "C3854607",
+      "score": 0.9699141979217529,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A method for converting an individual score into a standard form. While similar to a z-score, t-score is used when the conversion is made without knowledge of the population standard deviation and mean."
+    },
+    {
+      "text": "standard deviations",
+      "type": "T081",
+      "umls_id": "C0871420",
+      "score": 0.9748567938804626,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean."
+    },
+    {
+      "text": "SDs",
+      "type": "T047",
+      "umls_id": "C0272170",
+      "score": 0.977990448474884,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A rare, autosomal recessive disorder characterized by exocrine pancreas insufficiency, skeletal abnormalities, bone marrow dysfunction, and an increased incidence of leukemia."
+    },
+    {
+      "text": "hip",
+      "type": "T023",
+      "umls_id": "C0019552",
+      "score": 0.9965716600418091,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The projecting part on each side of the body, formed by the side of the pelvis and the top portion of the femur."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "falls",
+      "type": "T037",
+      "umls_id": "C0000921",
+      "score": 0.9861751198768616,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Falls due to slipping or tripping which may result in injury."
+    },
+    {
+      "text": "Exercise regimen",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.7107012867927551,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "smoking cessation",
+      "type": "T055",
+      "umls_id": "C0085134",
+      "score": 0.951284646987915,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Discontinuing the habit of SMOKING."
+    },
+    {
+      "text": "assistance",
+      "type": "T054",
+      "umls_id": "C0018896",
+      "score": 0.9982620477676392,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "Behaviors associated with the giving of assistance or aid to individuals."
+    },
+    {
+      "text": "Appropriate",
+      "type": "T080",
+      "umls_id": "C1548787",
+      "score": 0.9857112169265747,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "supplements",
+      "type": "T168",
+      "umls_id": "C0242295",
+      "score": 0.8616480827331543,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Products in capsule, tablet or liquid form that provide dietary ingredients, and that are intended to be taken by mouth to increase the intake of nutrients. Dietary supplements can include macronutrients, such as proteins, carbohydrates, and fats; and/or MICRONUTRIENTS, such as VITAMINS; MINERALS; and PHYTOCHEMICALS."
+    },
+    {
+      "text": "calcium",
+      "type": "T121",
+      "umls_id": "C0006675",
+      "score": 0.9657427072525024,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "A basic element found in nearly all tissues. It is a member of the alkaline earth family of metals with the atomic symbol Ca, atomic number 20, and atomic weight 40. Calcium is the most abundant mineral in the body and combines with phosphorus to form calcium phosphate in the bones and teeth. It is essential for the normal functioning of nerves and muscles and plays a role in blood coagulation (as factor IV) and in many enzymatic processes."
+    },
+    {
+      "text": "vitamin D.",
+      "type": "T109",
+      "umls_id": "C0042890",
+      "score": 0.8710002899169922,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "Organic substances that are required in small amounts for maintenance and growth, but which cannot be manufactured by the human body."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "51-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

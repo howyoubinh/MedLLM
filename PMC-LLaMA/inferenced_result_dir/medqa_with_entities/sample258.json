@@ -1,0 +1,422 @@
+{
+  "original_data": {
+    "question": "A 36-year-old nursing home worker presents to the clinic with the complaints of breathlessness, cough, and night sweats for the past 2 months. She further expresses her concerns about the possibility of contracting tuberculosis as one of the patients under her care is being treated for tuberculosis. A PPD skin test is done and reads 11 mm on day 3. Chest X-ray demonstrates a cavitary lesion in the right upper lobe. The standard anti-tuberculosis medication regimen is started. At a follow-up appointment 3 months later the patient presents with fatigue. She has also been experiencing occasional dizziness, weakness, and numbness in her feet. Physical exam is positive for conjunctival pallor. Lab work is significant for a hemoglobin level of 10 g/dL and mean corpuscular volume of 68 fl. What is the most likely cause of her current symptoms?",
+    "options": {
+      "A": "Inhibition of ferrochelatase",
+      "B": "Increased homocysteine degradation",
+      "C": "Increased GABA production",
+      "D": "Decreased ALA synthesis"
+    }
+  },
+  "model_response": "The patient's symptoms of fatigue, dizziness, weakness, and numbness in the feet are consistent with anemia. The low hemoglobin level and mean corpuscular volume indicate microcytic anemia. The low hemoglobin level is also consistent with a hypochromic, normocytic anemia. The patient's occupation in a nursing home places her at risk for occupational exposure to ethanol. Ethanol ingestion inhibits ferrochelatase, which catalyzes the insertion of iron into protoporphyrin IX to form heme. This results in a microcytic, hypochromic anemia. The patient's symptoms of fatigue, dizziness, weakness, and numbness in the feet are consistent with anemia. The low hemoglobin level and mean corpuscular volume indicate microcytic anemia. The low hemoglobin level is also consistent with a hypochromic, normocytic anemia. The patient's occupation in a nursing home places her at risk for occupational exposure to ethanol. Ethanol ingestion inhibits ferrochelatase, which catalyzes the insertion of iron into protoporphyrin IX to form heme. This results in a microcytic, hypochromic anemia.\n\nOption B: Increased homocysteine degradation: Increased homocysteine degradation is associated with folate deficiency, which can cause megaloblastic anemia. This patient's anemia is microcytic, not megaloblastic.\n\nOption C: Increased GABA production: Increased GABA production is not associated with any specific disease or condition.\n\nOption D: Decreased ALA synthesis: Decreased ALA synthesis is associated with lead poisoning. Lead poisoning can cause anemia, but it is typically associated with basophilic stippling of red blood cells, not microcytic anemia.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "nursing home worker",
+      "type": "T058",
+      "umls_id": "C0019860",
+      "score": 0.7889464497566223,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Nursing care given to an individual in the home. The care may be provided by a family member or a friend. Home nursing as care by a non-professional is differentiated from HOME CARE SERVICES provided by professionals: visiting nurse, home health agencies, hospital, or other organized community group."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "breathlessness",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.959090530872345,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "cough",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9633718132972717,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "night sweats",
+      "type": "T184",
+      "umls_id": "C0028081",
+      "score": 0.9751355051994324,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Perspiration experienced nocturnally that is unrelated to environmental temperature."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "expresses",
+      "type": "T045",
+      "umls_id": "C0017262",
+      "score": 0.7818364500999451,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "The phenotypic manifestation of a gene or genes by the processes of GENETIC TRANSCRIPTION and GENETIC TRANSLATION."
+    },
+    {
+      "text": "concerns",
+      "type": "T170",
+      "umls_id": "C3641842",
+      "score": 0.8830092549324036,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An answer indicative of no worries."
+    },
+    {
+      "text": "contracting",
+      "type": "T170",
+      "umls_id": "C0332522",
+      "score": 0.9943081140518188,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Agreements between two or more parties, especially those that are written and enforceable by law (American Heritage Dictionary of the English Language, 4th ed). It is sometimes used to characterize the nature of the professional-patient relationship."
+    },
+    {
+      "text": "tuberculosis",
+      "type": "T047",
+      "umls_id": "C0041296",
+      "score": 0.9882162809371948,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Any of the infectious diseases of man and other animals caused by species of MYCOBACTERIUM TUBERCULOSIS."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "care",
+      "type": "T052",
+      "umls_id": "C1947933",
+      "score": 0.9914361834526062,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The work of attending to someone or something."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "tuberculosis",
+      "type": "T047",
+      "umls_id": "C0041296",
+      "score": 0.9882162809371948,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Any of the infectious diseases of man and other animals caused by species of MYCOBACTERIUM TUBERCULOSIS."
+    },
+    {
+      "text": "PPD skin test",
+      "type": "T060",
+      "umls_id": "C0037296",
+      "score": 0.8402597308158875,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Epicutaneous or intradermal application of a sensitizer for demonstration of either delayed or immediate hypersensitivity. Used in diagnosis of hypersensitivity or as a test for cellular immunity."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "Chest X-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "cavitary lesion",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "right upper lobe",
+      "type": "T023",
+      "umls_id": "C1261074",
+      "score": 0.9890036582946777,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The lobe of the right lung, situated above the horizontal fissure, which includes the apex."
+    },
+    {
+      "text": "standard",
+      "type": "T080",
+      "umls_id": "C1442989",
+      "score": 0.9781592488288879,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Regularly and widely used."
+    },
+    {
+      "text": "anti-tuberculosis medication",
+      "type": "T121",
+      "umls_id": "C0003448",
+      "score": 0.7004681825637817,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs used in the treatment of tuberculosis. They are divided into two main classes: \"first-line\" agents, those with the greatest efficacy and acceptable degrees of toxicity used successfully in the great majority of cases; and \"second-line\" drugs used in drug-resistant cases or those in which some other patient-related condition has compromised the effectiveness of primary therapy."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "occasional dizziness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "numbness",
+      "type": "T033",
+      "umls_id": "C0020580",
+      "score": 0.9541221857070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Absent or reduced sensitivity to cutaneous stimulation."
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "conjunctival pallor",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.7875994443893433,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "Lab work",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.7545560598373413,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "corpuscular volume",
+      "type": "T034",
+      "umls_id": "C0524587",
+      "score": 0.8964628577232361,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "MCV equals HEMATOCRIT divided by ERYTHROCYTE COUNT."
+    },
+    {
+      "text": "current",
+      "type": "T079",
+      "umls_id": "C0521116",
+      "score": 0.9718665480613708,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring in or belonging to the present time."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

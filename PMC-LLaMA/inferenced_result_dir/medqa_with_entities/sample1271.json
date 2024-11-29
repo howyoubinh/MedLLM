@@ -1,0 +1,402 @@
+{
+  "original_data": {
+    "question": "A 19-year-old man is brought to the physician by his mother because she is worried about his strange behavior. Over the past 3 years, he has been dressing all in black and wears a long black coat, even in the summer. The mother reports that her son has always had difficulties fitting in. He does not have any friends and spends most of his time in his room playing online games. He is anxious at college because he is uncomfortable around other people, and his academic performance is poor. Rather than doing his coursework, he spends most of his time reading up on paranormal phenomena, especially demons. He says that he has never seen any demons, but sometimes there are signs of their presence. For example, a breeze in an enclosed room is likely the “breath of a demon”. Mental status examination shows laborious speech. The patient avoids eye contact. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Social anxiety disorder",
+      "B": "Avoidant personality disorder",
+      "C": "Schizotypal personality disorder",
+      "D": "Schizophrenia"
+    }
+  },
+  "model_response": "This patient’s odd beliefs, eccentric behavior, social isolation, and lack of interest in social interactions are suggestive of schizotypal personality disorder. Individuals with this disorder are often interested in magical thinking, occult beliefs, and unusual experiences. They may have odd speech patterns or mannerisms. They often have difficulties forming social relationships, and may be intensely lonely despite their isolation. They may have unusual perceptual experiences, such as believing they are being followed or are the object of special powers. They may also have difficulties with interpersonal relationships due to their odd beliefs and behavior.\n\nSocial anxiety disorder is characterized by intense fear of social situations and significant distress or impairment as a result. Individuals with this disorder may avoid social situations or endure them with intense anxiety. They may worry about being embarrassed or judged negatively by others. Unlike the patient in the question, they do not have odd beliefs or behavior.\n\nAvoidant personality disorder is characterized by pervasive and long-standing social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation or rejection. Individuals with this disorder avoid social interactions due to their fear of criticism or rejection. They may also have low self-esteem and be highly sensitive to criticism. Unlike the patient in the question, they do not have odd beliefs or behavior.\n\nSchizophrenia is a chronic mental disorder characterized by disturbances in thinking, emotional responsiveness, and behavior. Symptoms commonly include auditory hallucinations, paranoid or bizarre delusions, disorganized thinking and speech, and social or occupational dysfunction. The patient in the question does not have symptoms of schizophrenia.\n\nSchizotypal personality disorder is characterized by odd beliefs, eccentric behavior, social isolation, and lack of interest in social interactions.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "strange behavior",
+      "type": "T048",
+      "umls_id": "C0233514",
+      "score": 0.9741656184196472,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Troublesome or disruptive behavioral displays."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "dressing",
+      "type": "T074",
+      "umls_id": "C0013119",
+      "score": 0.981968879699707,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Sterile pieces of material designed to protect, cover, and provide a healing environment. Dressings may be made of nonimpregnated material or material impregnated with an agent or substance. Wound dressings are single-use devices, mainly used to keep a moist environment, absorb exudates, and protect wounds from contact with bacteria. Some types of dressings may include an adhesive layer. Dedicated nonimpregnated dressings from natural fibers (e.g., cotton), biological origin (e.g., pig skin), synthetic (e.g., polymeric), or a combination of all three are available; dressings impregnated with substances that facilitate their use (e.g., odor, moisture control) or with antimicrobial drugs are also available."
+    },
+    {
+      "text": "black",
+      "type": "T098",
+      "umls_id": "C0005680",
+      "score": 0.9957549571990967,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wears",
+      "type": "T037",
+      "umls_id": "C2717979",
+      "score": 0.816241443157196,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Loss of the tooth substance by chemical or mechanical processes"
+    },
+    {
+      "text": "long black coat",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "summer",
+      "type": "T079",
+      "umls_id": "C0241301",
+      "score": 0.952972412109375,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The season between the summer solstice and the autumnal equinox."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "son",
+      "type": "T099",
+      "umls_id": "C0037683",
+      "score": 0.9721920490264893,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male human offspring."
+    },
+    {
+      "text": "difficulties",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.984925389289856,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "fitting",
+      "type": "T184",
+      "umls_id": "C0036572",
+      "score": 0.9590625762939453,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical or subclinical disturbances of cortical function due to a sudden, abnormal, excessive, and disorganized discharge of brain cells. Clinical manifestations include abnormal motor, sensory and psychic phenomena. Recurrent seizures are usually referred to as EPILEPSY or \"seizure disorder.\""
+    },
+    {
+      "text": "friends",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9840391874313354,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "spends",
+      "type": "T081",
+      "umls_id": "C0680968",
+      "score": 0.9561561942100525,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "room",
+      "type": "T082",
+      "umls_id": "C1547120",
+      "score": 0.9864740967750549,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "online games",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "college",
+      "type": "T073",
+      "umls_id": "C0557806",
+      "score": 0.9769022464752197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An institution of higher education created to educate and grant degrees; often a part of a university."
+    },
+    {
+      "text": "people",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9665451645851135,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "academic performance",
+      "type": "T080",
+      "umls_id": "C0036373",
+      "score": 0.9761970043182373,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A quantitative or qualitative measure of intellectual, scholarly, or scholastic accomplishment."
+    },
+    {
+      "text": "poor",
+      "type": "T102",
+      "umls_id": "C0032854",
+      "score": 0.9493235349655151,
+      "semantic_types": [
+        "T102"
+      ],
+      "definition": "A situation in which the level of living of an individual, family, or group is below the standard of the community. It is often related to a specific income level."
+    },
+    {
+      "text": "doing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "coursework",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "spends",
+      "type": "T081",
+      "umls_id": "C0680968",
+      "score": 0.9561561942100525,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "time reading",
+      "type": "T056",
+      "umls_id": "C0034754",
+      "score": 0.7829229235649109,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Acquiring information from text."
+    },
+    {
+      "text": "paranormal phenomena",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "demons",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "demons",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "presence",
+      "type": "T061",
+      "umls_id": "C0392148",
+      "score": 0.9907425045967102,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "breeze",
+      "type": "T070",
+      "umls_id": "C0016701",
+      "score": 0.716080904006958,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Liquids transforming into solids by the removal of heat."
+    },
+    {
+      "text": "room",
+      "type": "T082",
+      "umls_id": "C1547120",
+      "score": 0.9864740967750549,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "demon",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "laborious",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "patient avoids",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213224768638611,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "eye contact",
+      "type": "T054",
+      "umls_id": "C0870532",
+      "score": 0.9761350154876709,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "19-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

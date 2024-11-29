@@ -1,0 +1,467 @@
+{
+  "original_data": {
+    "question": "A 17-year-old male presents to the emergency department after a motor vehicle accident. The patient was an unrestrained driver in a head-on collision. He has a past medical history of asthma, depression, and anxiety. He is not currently taking any medications. His temperature is 99.5°F (37.5°C), blood pressure is 90/60 mmHg, pulse is 115/min, respirations are 22/min, and oxygen saturation is 99% on room air. The patient's cardiopulmonary exam is within normal limits. The patient is breathing on his own and has strong distal pulses. Ultimately, the patient is discharged with follow up instructions after no significant fractures or injuries are found. The patient then presents 4 months later to his primary doctor with weakness. The patient's strength in his upper extremities is 1/5. He has reduced sensation in his upper extremities as well. The patient's lower extremities reveal 5/5 strength with intact sensation. A chest radiograph and basic labs are ordered. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Cervical spine fracture",
+      "B": "Intracranial hemorrhage",
+      "C": "Syringomyelia",
+      "D": "Conversion disorder"
+    }
+  },
+  "model_response": "The patient's symptoms of upper extremity weakness and decreased sensation, along with the history of trauma, suggest a cervical spine fracture. The chest radiograph and basic labs do not reveal any other abnormalities. The patient's lower extremities are strong, which suggests that the spinal cord injury is below T12. Syringomyelia would present with sensory deficits, but would not cause weakness. Conversion disorder would not cause weakness. An intracranial hemorrhage would likely cause altered mental status and would not present with isolated upper extremity weakness.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "motor vehicle accident",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.961533784866333,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "head-on collision",
+      "type": "T037",
+      "umls_id": "C0337196",
+      "score": 0.7431538105010986,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "An accident resulting from violent impact of a moving object; an brief event in which two or more bodies come together."
+    },
+    {
+      "text": "medical history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9802035093307495,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "anxiety",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9637579321861267,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "cardiopulmonary exam",
+      "type": "T029",
+      "umls_id": "C0553534",
+      "score": 0.8765069842338562,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Pertaining to both the heart and the lungs."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "distal pulses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "instructions",
+      "type": "T170",
+      "umls_id": "C0302828",
+      "score": 0.9738863110542297,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A message describing how something is to be done."
+    },
+    {
+      "text": "fractures",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9890090227127075,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "injuries",
+      "type": "T080",
+      "umls_id": "C1510467",
+      "score": 0.9754658341407776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with anatomic headings, animals, and sports for wounds and injuries. Excludes cell damage, for which \"pathology\" is used."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "primary doctor",
+      "type": "T097",
+      "umls_id": "C2735026",
+      "score": 0.8834439516067505,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical professional who provides, coordinates, or helps a patient access a range of health care services. This is usually a medical doctor (MD), but may also be a Doctor of Osteopathic Medicine, nurse practitioner, clinical nurse specialist, or physician assistant, as allowed under state law."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.9718086123466492,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "upper extremities",
+      "type": "T023",
+      "umls_id": "C1140618",
+      "score": 0.9906526207923889,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the upper limb in animals, extending from the deltoid region to the HAND, and including the ARM; AXILLA; and SHOULDER."
+    },
+    {
+      "text": "reduced",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.9816093444824219,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "upper extremities",
+      "type": "T023",
+      "umls_id": "C1140618",
+      "score": 0.9906526207923889,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the upper limb in animals, extending from the deltoid region to the HAND, and including the ARM; AXILLA; and SHOULDER."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.9718086123466492,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "chest radiograph",
+      "type": "T060",
+      "umls_id": "C3842377",
+      "score": 0.9901647567749023,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "ordered",
+      "type": "T080",
+      "umls_id": "C1705176",
+      "score": 0.992306649684906,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A logical or comprehensible arrangement of separate elements; a condition of regular or proper arrangement."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "17-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

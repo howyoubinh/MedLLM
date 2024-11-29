@@ -1,0 +1,533 @@
+{
+  "original_data": {
+    "question": "A 32-year-old man presents to the emergency department with fever, nausea, and vomiting. The patient states that his symptoms started last night and have persisted to this morning. He has a past medical history of asthma, and his current medications include albuterol and fluticasone. His temperature is 102°F (38.9°C), blood pressure is 110/60 mmHg, pulse is 95/min, respirations are 17/min, and oxygen saturation is 98% on room air. On physical exam, the patient seems uncomfortable. He requests that the lights in the room stay turned off during the physical exam. The patient's cardiac exam demonstrates a normal rate and rhythm, and his pulmonary exam is clear to auscultation bilaterally. Musculoskeletal exam reveals diminished mobility of the neck in all four directions, with flexion of the neck causing the patient discomfort. Lumbar puncture is performed and results are seen below.\n\nCerebrospinal fluid (CSF):\nCell count: 175/mm^3\nCl-: 119 mEq/L\nGlucose: 49 mg/dL\nPressure: 150 mmH2O\nTotal protein: 55 mg/dL\n\nWhich of the following is the best treatment for this patient's most likely diagnosis?",
+    "options": {
+      "A": "Acyclovir",
+      "B": "Amphotericin and 5-flucytosine",
+      "C": "Ceftriaxone and vancomycin",
+      "D": "IV fluids and monitoring"
+    }
+  },
+  "model_response": "The patient's history of fever, nausea, vomiting, and asthma, along with the physical exam findings of diminished mobility of the neck and pain with flexion, suggest meningeal irritation. The CSF findings of a high white blood cell count, low glucose, and low pH are consistent with acute pyogenic (bacterial) meningitis. The most likely organism causing this patient's condition is Streptococcus pneumoniae, which is treated with high-dose IV penicillin or third-generation cephalosporins. Acyclovir is used to treat viral infections such as herpes meningitis, while amphotericin and 5-flucytosine are used to treat fungal meningitis. Ceftriaxone and vancomycin are commonly used to treat bacterial meningitis caused by gram-positive organisms. IV fluids and monitoring are important in managing the patient's altered mental status and treating dehydration.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "medical history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9802035093307495,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "fluticasone",
+      "type": "T109",
+      "umls_id": "C0082607",
+      "score": 0.9804149866104126,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic trifluorinated glucocorticoid receptor agonist with antiallergic, antiinflammatory and antipruritic effects. Fluticasone binds and activates glucocorticoid receptor, resulting in the activation of lipocortin. Lipocortin, in turn, inhibits cytosolic phospholipase A2, which triggers a cascade of reactions involved in the synthesis of inflammatory mediators, such as prostaglandins and leukotrienes. Secondly, mitogen-activated protein kinase (MAPK) phosphatase 1 is induced, thereby leads to dephosphorylation and inactivation of Jun N-terminal kinase directly inhibiting c-Jun mediated transcription. Finally, transcriptional activity of nuclear factor (NF)-kappa-B is blocked, thereby inhibits the transcription of cyclooxygenase 2, which is essential for prostaglandin production."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "requests",
+      "type": "T052",
+      "umls_id": "C1272683",
+      "score": 0.9736456274986267,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Express the need or desire for; ask for."
+    },
+    {
+      "text": "lights",
+      "type": "T070",
+      "umls_id": "C0023693",
+      "score": 0.9597323536872864,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "That portion of the electromagnetic spectrum in the visible, ultraviolet, and infrared range."
+    },
+    {
+      "text": "room stay",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "cardiac exam",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.787794828414917,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "normal rate",
+      "type": "T080",
+      "umls_id": "C0205307",
+      "score": 0.7594138383865356,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In pathology, a term that is used to describe a tissue specimen that has a normal appearance."
+    },
+    {
+      "text": "rhythm",
+      "type": "T033",
+      "umls_id": "C0871269",
+      "score": 0.9861499667167664,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pulmonary exam",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.8213385343551636,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Musculoskeletal exam",
+      "type": "T058",
+      "umls_id": "C0475091",
+      "score": 0.975197434425354,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Physical examination pertaining to the musculoskeletal system."
+    },
+    {
+      "text": "diminished",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9759602546691895,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "mobility",
+      "type": "T201",
+      "umls_id": "C0080078",
+      "score": 0.9903540015220642,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The distance and direction to which a bone joint can be extended. Range of motion is a function of the condition of the joints, muscles, and connective tissues involved. Joint flexibility can be improved through appropriate MUSCLE STRETCHING EXERCISES."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "directions",
+      "type": "T082",
+      "umls_id": "C0439755",
+      "score": 0.9643269777297974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "flexion",
+      "type": "T060",
+      "umls_id": "C1627359",
+      "score": 0.8092179894447327,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tests for iliosacral or sacroiliac somatic dysfunction."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "patient discomfort",
+      "type": "T058",
+      "umls_id": "C4277744",
+      "score": 0.8114354014396667,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Patient care intended to prevent or relieve suffering in conditions that ensure optimal quality living."
+    },
+    {
+      "text": "Lumbar puncture",
+      "type": "T058",
+      "umls_id": "C0037943",
+      "score": 0.9850814938545227,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An invasive procedure in which a hollow needle is introduced through an intervertebral space in the lower back to access the subarachnoid space in order to sample cerebrospinal fluid or to administer medication."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "Cerebrospinal fluid",
+      "type": "T031",
+      "umls_id": "C0007806",
+      "score": 0.9847719669342041,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A watery fluid that is continuously produced in the CHOROID PLEXUS and circulates around the surface of the BRAIN; SPINAL CORD; and in the CEREBRAL VENTRICLES."
+    },
+    {
+      "text": "CSF",
+      "type": "T031",
+      "umls_id": "C0007806",
+      "score": 0.9988160133361816,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A watery fluid that is continuously produced in the CHOROID PLEXUS and circulates around the surface of the BRAIN; SPINAL CORD; and in the CEREBRAL VENTRICLES."
+    },
+    {
+      "text": "Cl-",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Total protein",
+      "type": "T059",
+      "umls_id": "C0555903",
+      "score": 0.9733524322509766,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of total protein present in a sample."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "original_data": {
+    "question": "A 69-year-old woman comes to the physician for a routine health maintenance examination. She feels well. Physical examination shows nontender cervical and axillary lymphadenopathy. The spleen is palpated 5 cm below the costal margin. Her leukocyte count is 12,000/mm3 and platelet count is 217,000/mm3. Further evaluation is most likely to show which of the following findings?",
+    "options": {
+      "A": "Ringed sideroblasts",
+      "B": "Teardrop cells",
+      "C": "Smudge cells",
+      "D": "Hypergammaglobulinemia"
+    }
+  },
+  "model_response": "The patient has a reactive (benign) plasmacytosis. Smudge cells are seen when lymphocytes are damaged during the process of making peripheral blood smears. Ringed sideroblasts are seen in sideroblastic anemia. Teardrop cells are seen in myelofibrosis. Hypergammaglobulinemia is seen in multiple myeloma.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "cervical",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9779219031333923,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "axillary lymphadenopathy",
+      "type": "T046",
+      "umls_id": "C0578735",
+      "score": 0.9857603311538696,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A clinical finding indicating the enlargement of the lymph nodes in the axillary region. It may be caused by infections, systemic diseases, or cancer."
+    },
+    {
+      "text": "spleen",
+      "type": "T023",
+      "umls_id": "C0037993",
+      "score": 0.95802241563797,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An encapsulated lymphatic organ through which venous blood filters."
+    },
+    {
+      "text": "costal margin",
+      "type": "T029",
+      "umls_id": "C0582240",
+      "score": 0.9799604415893555,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "leukocyte",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9799895286560059,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "platelet count",
+      "type": "T059",
+      "umls_id": "C0032181",
+      "score": 0.9868485927581787,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of PLATELETS per unit volume in a sample of venous BLOOD."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "69-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

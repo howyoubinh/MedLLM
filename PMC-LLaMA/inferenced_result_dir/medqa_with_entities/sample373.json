@@ -1,0 +1,307 @@
+{
+  "original_data": {
+    "question": "A 45-year-old man presents to the physician because of a 1-day history of progressive pain and blurry vision in his right eye. He is struggling to open this eye because of the pain. His left eye is asymptomatic. He wears contact lenses. He has bronchial asthma treated with inhaled salbutamol. He works as a kindergarten teacher. The vital signs include: temperature 37.0°C (98.6°F), pulse 85/min, and blood pressure 135/75 mm Hg. The examination shows a visual acuity in the left eye of 20/25 and the ability to count fingers at 3 feet in the right eye. A photograph of the right eye is shown. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Angle-closure glaucoma",
+      "B": "Epidemic keratoconjunctivitis",
+      "C": "Herpes simplex keratitis",
+      "D": "Pseudomonas keratitis"
+    }
+  },
+  "model_response": "The photograph shows a dendritic corneal ulcer characteristic of herpes simplex keratitis. The pain, blurry vision, and the characteristic corneal lesion make this the most likely diagnosis. The acute angle of the anterior chamber and the small amount of visible iris are consistent with acute angle-closure glaucoma, but the lack of an elevated intraocular pressure makes this diagnosis unlikely. The redness and crusting of the eyelids are consistent with epidemic keratoconjunctivitis, but the lack of conjunctival injection and the dendritic corneal ulcer make this diagnosis unlikely. The severe conjunctival injection and the small ulcer at the limbus are consistent with pseudomonas keratitis, but the lack of a hypopyon and the dendritic corneal ulcer make this diagnosis unlikely.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "blurry vision",
+      "type": "T033",
+      "umls_id": "C0344232",
+      "score": 0.9578902125358582,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blurred vision is the loss of visual acuity (sharpness of vision) resulting in a loss of ability to see small details. (from MedlinePlus Medical Encyclopedia)"
+    },
+    {
+      "text": "right eye",
+      "type": "T023",
+      "umls_id": "C0229089",
+      "score": 0.9836419820785522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The eye positioned in the right orbit."
+    },
+    {
+      "text": "eye",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9994997978210449,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "His left eye",
+      "type": "T023",
+      "umls_id": "C0229090",
+      "score": 0.8210946917533875,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The eye positioned in the left orbit."
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "wears contact lenses",
+      "type": "T074",
+      "umls_id": "C0009836",
+      "score": 0.8374894261360168,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Lenses designed to be worn on the front surface of the eyeball. (UMDNS, 1999)"
+    },
+    {
+      "text": "bronchial asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.9720533490180969,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "inhaled salbutamol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.7585158944129944,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "teacher",
+      "type": "T097",
+      "umls_id": "C0221457",
+      "score": 0.9791581034660339,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "One who instructs or educates others."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse 85/min",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "visual acuity",
+      "type": "T201",
+      "umls_id": "C0042812",
+      "score": 0.9590803384780884,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Clarity or sharpness of OCULAR VISION or the ability of the eye to see fine details. Visual acuity depends on the functions of RETINA, neuronal transmission, and the interpretative ability of the brain. Normal visual acuity is expressed as 20/20 indicating that one can see at 20 feet what should normally be seen at that distance. Visual acuity can also be influenced by brightness, color, and contrast."
+    },
+    {
+      "text": "left eye",
+      "type": "T023",
+      "umls_id": "C0229090",
+      "score": 0.9813959002494812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The eye positioned in the left orbit."
+    },
+    {
+      "text": "fingers",
+      "type": "T023",
+      "umls_id": "C0016129",
+      "score": 0.990062415599823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Four or five slender jointed digits in humans and primates, attached to each HAND."
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "right eye",
+      "type": "T023",
+      "umls_id": "C0229089",
+      "score": 0.9836419820785522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The eye positioned in the right orbit."
+    },
+    {
+      "text": "photograph",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9877880811691284,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "right eye",
+      "type": "T023",
+      "umls_id": "C0229089",
+      "score": 0.9836419820785522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The eye positioned in the right orbit."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

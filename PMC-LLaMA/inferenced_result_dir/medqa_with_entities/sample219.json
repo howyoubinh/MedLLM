@@ -1,0 +1,458 @@
+{
+  "original_data": {
+    "question": "A 4-year-old girl is brought to the emergency department with a persistent cough, fever, and vomiting. The past year the child has been admitted to the hospital 3 times with pneumonia. For the past 1 week, the child has been experiencing thick purulent cough and says that her chest feels ‘heavy’. Her stools have been loose and foul-smelling over the past week. Her parents are also concerned that she has not gained much weight due to her frequent hospital visits. She was born at 39 weeks gestation via spontaneous vaginal delivery and is up to date on all vaccines and is meeting all developmental milestones. On physical exam, the temperature is 39.1°C (102.4°F). She appears lethargic and uncomfortable. Crackles are heard in the lower lung bases, with dullness to percussion. A small nasal polyp is also present on inspection. Which of the following is the most likely cause for the girl’s symptoms?",
+    "options": {
+      "A": "Dysfunction in a transmembrane regulator",
+      "B": "Inefficient breakdown of leucine, isoleucine, and valine",
+      "C": "Dysfunction in the motility of respiratory cilia",
+      "D": "Deficiency in lymphocytic activity"
+    }
+  },
+  "model_response": "The child’s clinical presentation is consistent with a diagnosis of primary ciliary dyskinesia (PCD), also known as immotile ciliary syndrome. PCD is a genetic disorder characterized by dysfunction in the motility of respiratory cilia. It is inherited in an autosomal recessive pattern. The most common presentation is that of chronic cough, sinusitis, and otitis media. Pulmonary infections are characterized by bronchiectasis, atelectasis, and pneumonia. Bronchiectasis can lead to cough with purulent sputum production and can cause hemoptysis. The nasal polyp seen on examination is also consistent with this diagnosis. The other choices are not associated with the symptoms described.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "persistent cough",
+      "type": "T184",
+      "umls_id": "C0562483",
+      "score": 0.9686811566352844,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "admitted to",
+      "type": "T058",
+      "umls_id": "C4482331",
+      "score": 0.977683424949646,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hospital 3",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9264702200889587,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "pneumonia",
+      "type": "T047",
+      "umls_id": "C0032285",
+      "score": 0.9826633930206299,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Infection of the lung often accompanied by inflammation."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "purulent cough",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "chest feels",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.7021452188491821,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "heavy’",
+      "type": "T080",
+      "umls_id": "C0439539",
+      "score": 0.8212867975234985,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Of comparatively great physical weight or density."
+    },
+    {
+      "text": "stools",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9726763367652893,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "loose",
+      "type": "T080",
+      "umls_id": "C0205407",
+      "score": 0.9625900983810425,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "foul-smelling",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "hospital visits",
+      "type": "T058",
+      "umls_id": "C0545092",
+      "score": 0.9857797026634216,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vaccines",
+      "type": "T116",
+      "umls_id": "C0042210",
+      "score": 0.9808231592178345,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa), antigenic proteins, synthetic constructs, or other bio-molecular derivatives, administered for the prevention, amelioration, or treatment of infectious and other diseases."
+    },
+    {
+      "text": "developmental",
+      "type": "T080",
+      "umls_id": "C0458003",
+      "score": 0.9649556875228882,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "milestones",
+      "type": "T077",
+      "umls_id": "C2347129",
+      "score": 0.866582453250885,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "An important event in the progress, development, or history of something or in someone's life."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "uncomfortable",
+      "type": "T033",
+      "umls_id": "C5235999",
+      "score": 0.7410405278205872,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A subjective response indicating that an individual is or was very comfortable."
+    },
+    {
+      "text": "Crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "lower",
+      "type": "T082",
+      "umls_id": "C0441994",
+      "score": 0.9887550473213196,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The bottom one of two."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "dullness",
+      "type": "T033",
+      "umls_id": "C0541911",
+      "score": 0.974902331829071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "percussion",
+      "type": "T060",
+      "umls_id": "C0030987",
+      "score": 0.9690043926239014,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of striking a part with short, sharp blows as an aid in diagnosing the condition beneath the sound obtained."
+    },
+    {
+      "text": "small nasal polyp",
+      "type": "T190",
+      "umls_id": "C0027430",
+      "score": 0.7843103408813477,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": "Focal accumulations of EDEMA fluid in the NASAL MUCOSA accompanied by HYPERPLASIA of the associated submucosal connective tissue. Polyps may be NEOPLASMS, foci of INFLAMMATION, degenerative lesions, or malformations."
+    },
+    {
+      "text": "inspection",
+      "type": "T058",
+      "umls_id": "C0199219",
+      "score": 0.9725878834724426,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An exploration using the sense of sight, done with the eyes"
+    },
+    {
+      "text": "girl’s symptoms",
+      "type": "T184",
+      "umls_id": "C1457887",
+      "score": 0.8335254788398743,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Subjective evidence of disease perceived by the patient."
+    },
+    {
+      "text": "4-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

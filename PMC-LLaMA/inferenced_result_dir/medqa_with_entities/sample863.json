@@ -1,0 +1,461 @@
+{
+  "original_data": {
+    "question": "A 25-year-old woman presents generalized abdominal pain and vomiting for the past hour. She has also had watery diarrhea for several days with no blood or pus in the stools. She is taking an over-the-counter anti-diarrheal medication, which she cannot remember the name of, and drinking oral rehydration solution, which has helped a little. Her past medical history shows she was hospitalized 10 years ago for an appendectomy and 4 years ago for a fractured ulna following a motor vehicle accident. Vital signs are pulse is 104/min, blood pressure is 120/80 mm Hg, respiratory rate of 14/min with shallow breathing, and temperature is 36.7°C (98.0°F). On physical examination, pupils are constricted. Extremities are pale and cold. The abdomen is soft but mildly, diffusely tender to palpation with a palpable bladder. No rebound or guarding. Fingerstick blood glucose is 124 mg/dL. Laboratory tests are pending. A urinary catheter is placed, and intravenous fluids are started. Abdominal imaging shows no abnormalities. Which of the following is the next best step in the management of this patient?",
+    "options": {
+      "A": "Administer naloxone",
+      "B": "Scopolamine patch",
+      "C": "Start dextrose infusion",
+      "D": "Perform a gastric lavage"
+    }
+  },
+  "model_response": "The patient's history of narcotic use, coupled with her bradycardia and mild hypothermia, suggest the diagnosis of opioid-induced constipation complicated by paralytic ileus. The patient's history of motor vehicle accident and fractured ulna suggest chronic opioid use. The urinary catheter and intravenous fluids are appropriate initial steps. Naloxone, an opioid antagonist, should be administered to reverse the effects of the opioid. A scopolamine patch would be a consideration if the patient was experiencing nausea and vomiting from a gastrointestinal cause. Dextrose infusion would be appropriate if the patient was experiencing hypoglycemia, which is not indicated by the fingerstick blood glucose of 124 mg/dL. Gastric lavage is not indicated because the patient's symptoms are not consistent with an acute toxic ingestion.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "generalized abdominal pain",
+      "type": "T184",
+      "umls_id": "C0344304",
+      "score": 0.9702317714691162,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "hour",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9982005953788757,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "watery",
+      "type": "T080",
+      "umls_id": "C0443350",
+      "score": 0.9556147456169128,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "no blood",
+      "type": "T033",
+      "umls_id": "C3844405",
+      "score": 0.9950678944587708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pus",
+      "type": "T031",
+      "umls_id": "C0034161",
+      "score": 0.9614027142524719,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A yellowish substance produced during bacterial inflammation. It contains necrotic cells and cells fighting the infection."
+    },
+    {
+      "text": "stools",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9726763367652893,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "anti-diarrheal medication",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "drinking oral rehydration solution",
+      "type": "T121",
+      "umls_id": "C3813201",
+      "score": 0.8471582531929016,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "An aqueous solution composed of glucose and electrolytes, including sodium, potassium, chloride, magnesium, and phosphorus, with dehydration preventative and rehydration activities. Upon oral administration of the oral rehydration solution (ORS), water, electrolytes and glucose are absorbed from the gastrointestinal (GI) tract into the systemic circulation. This replenishes the body's supply of water, carbohydrates and electrolytes, and prevents both dehydration and renal dysfunction."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "appendectomy",
+      "type": "T061",
+      "umls_id": "C0003611",
+      "score": 0.9926513433456421,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical removal of the vermiform appendix. (Dorland, 28th ed)"
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "fractured",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9881904721260071,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "motor vehicle accident",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.961533784866333,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "shallow breathing",
+      "type": "T184",
+      "umls_id": "C0221161",
+      "score": 0.9883038997650146,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "Extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "mildly",
+      "type": "T080",
+      "umls_id": "C0750532",
+      "score": 0.9590495824813843,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diffusely tender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "bladder",
+      "type": "T023",
+      "umls_id": "C0005682",
+      "score": 0.9762340784072876,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A musculomembranous sac along the URINARY TRACT. URINE flows from the KIDNEYS into the bladder via the ureters (URETER), and is held there until URINATION."
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Fingerstick blood glucose",
+      "type": "T109",
+      "umls_id": "C0005802",
+      "score": 0.7186843752861023,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Glucose in blood."
+    },
+    {
+      "text": "Laboratory tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9844176769256592,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "urinary catheter",
+      "type": "T074",
+      "umls_id": "C0179802",
+      "score": 0.9851405620574951,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Catheters inserted into the URINARY BLADDER or kidney for therapeutic or diagnostic purposes."
+    },
+    {
+      "text": "intravenous fluids",
+      "type": "T167",
+      "umls_id": "C1289919",
+      "score": 0.8908127546310425,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A sterile liquid preparation infused into a vein. IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances. In addition, IV fluids are used to administer blood products and medications such as chemotherapy. Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)"
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Abdominal imaging",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.7264647483825684,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

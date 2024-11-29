@@ -1,0 +1,224 @@
+{
+  "original_data": {
+    "question": "A 58-year-old white man with hypertension and type 2 diabetes mellitus comes to the physician because of a 3-month history of a painless lesion on his lower lip. He has smoked one pack of cigarettes daily for 20 years. He has worked as a fruit picker for the past 25 years. His current medications include captopril and metformin. Examination of the oral cavity shows a single ulcer near the vermillion border. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Squamous cell carcinoma",
+      "B": "Aphthous stomatitis",
+      "C": "Actinic keratosis",
+      "D": "Traumatic ulcer"
+    }
+  },
+  "model_response": "The incidence of squamous cell carcinoma of the oral cavity is increased in individuals with a history of smoking, alcohol use, or both. The incidence is also higher in individuals with chronic poor oral hygiene, poor nutrition, and lower socioeconomic status. The incidence of squamous cell carcinoma is also higher in African Americans and in individuals with a history of ionizing radiation exposure. Actinic keratosis is a premalignant lesion of the lip often seen in individuals with chronic sun exposure. Aphthous stomatitis is a common disease that causes painful, recurrent ulcers of the oral cavity. Traumatic ulcers are self-explanatory. Herpangina is a viral infection of the oral cavity that causes painful ulcerations.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "white man",
+      "type": "T098",
+      "umls_id": "C0007457",
+      "score": 0.7764004468917847,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A group distinguished by classification according to physical features. This group, also called Europoid, centers around the Mediterranean Sea but includes other parts of Europe. (from Winick: Dictionary of Anthropology, 1972; American Heritage Dictionary, 2d College ed)"
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "painless",
+      "type": "T169",
+      "umls_id": "C0234226",
+      "score": 0.9535903930664062,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not causing physical or psychological misery, pain or distress."
+    },
+    {
+      "text": "lesion",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9757081866264343,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "fruit",
+      "type": "T168",
+      "umls_id": "C0016767",
+      "score": 0.9859510660171509,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "The fleshy or dry ripened ovary of a plant, enclosing the seed or seeds."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "captopril",
+      "type": "T116",
+      "umls_id": "C0006938",
+      "score": 0.9880793690681458,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "A potent and specific inhibitor of PEPTIDYL-DIPEPTIDASE A. It blocks the conversion of ANGIOTENSIN I to ANGIOTENSIN II, a vasoconstrictor and important regulator of arterial blood pressure. Captopril acts to suppress the RENIN-ANGIOTENSIN SYSTEM and inhibits pressure responses to exogenous angiotensin."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "oral cavity",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9742333292961121,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "near",
+      "type": "T033",
+      "umls_id": "C0475806",
+      "score": 0.9910271763801575,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vermillion",
+      "type": "T033",
+      "umls_id": "C0578038",
+      "score": 0.8416509032249451,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height of the vermilion of the medial part of the lip more than 2 SD below the mean, or apparently reduced height of the vermilion of the lip in the frontal view. The vermilion is the red part of the lips (and confusingly, the vermilion itself is also often referred to as being equivalent the lips). [HPO:probinson, PMID:19125428]"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

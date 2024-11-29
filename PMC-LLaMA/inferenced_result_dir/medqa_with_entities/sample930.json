@@ -1,0 +1,234 @@
+{
+  "original_data": {
+    "question": "A 74-year-old man was admitted to the hospital after falling down several stairs. He is a known alcoholic. He was started on IV fluids and received a head CT, which was negative. It was decided that he would be watched for one day before being discharged, after a negative work-up. Suddenly, he is unable to move his arms and legs in addition to experiencing difficulty chewing, swallowing, moving his face, and speaking. Which of the following electrolyte imbalances was most likely corrected too aggressively?",
+    "options": {
+      "A": "Hyponatremia",
+      "B": "Hypernatremia",
+      "C": "Hypokalemia",
+      "D": "Hypochloremia"
+    }
+  },
+  "model_response": "The patient is experiencing symptoms of hypocalcemia, which can occur after aggressive correction of hypercalcemia. Hypocalcemia can cause neuromuscular irritability, which can manifest as weakness, numbness, and tingling of the extremities and the face, in addition to causing dysphagia and dysarthria.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "alcoholic",
+      "type": "T101",
+      "umls_id": "C0687725",
+      "score": 0.9793049693107605,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Persons who have a history of physical or psychological dependence on ETHANOL."
+    },
+    {
+      "text": "IV fluids",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.8582273125648499,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "head CT",
+      "type": "T060",
+      "umls_id": "C0202691",
+      "score": 0.9920718669891357,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "discharged",
+      "type": "T058",
+      "umls_id": "C0030685",
+      "score": 0.9772177934646606,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The administrative process of discharging the patient, alive or dead, from hospitals or other health facilities."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "work-up",
+      "type": "T060",
+      "umls_id": "C0750430",
+      "score": 0.9727500081062317,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A complete diagnostic examination of a patient including history taking, physical examinations, laboratory tests, and medical imaging."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "chewing",
+      "type": "T040",
+      "umls_id": "C0024888",
+      "score": 0.950000524520874,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act and process of chewing and grinding food in the mouth."
+    },
+    {
+      "text": "swallowing",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.967613935470581,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "moving",
+      "type": "T040",
+      "umls_id": "C0560560",
+      "score": 0.9744806289672852,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": null
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "speaking",
+      "type": "T055",
+      "umls_id": "C0234856",
+      "score": 0.9446115493774414,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To communicate using verbal language."
+    },
+    {
+      "text": "electrolyte",
+      "type": "T121",
+      "umls_id": "C0013832",
+      "score": 0.9871562719345093,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "Substances that dissociate into two or more ions, to some extent, in water. Solutions of electrolytes thus conduct an electric current and can be decomposed by it (ELECTROLYSIS). (Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "imbalances",
+      "type": "T033",
+      "umls_id": "C2364164",
+      "score": 0.8000911474227905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormality of the regulation of body fluids. [HPO:probinson]"
+    },
+    {
+      "text": "74-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

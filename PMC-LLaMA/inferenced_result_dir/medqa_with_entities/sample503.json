@@ -1,0 +1,177 @@
+{
+  "original_data": {
+    "question": "While in the ICU, a 62-year-old male undergoes placement of a Swan-Ganz catheter to evaluate his right heart pressures. All pressures are found to be within normal limits, and the cardiology fellow records a pulmonary wedge pressure of 10 mmHg. Which of the following are normal values for the pressures that will be obtained from this patient's right ventricle?",
+    "options": {
+      "A": "25/10 mmHg",
+      "B": "25/5 mmHg",
+      "C": "10/0 mmHg",
+      "D": "100/70 mmHg"
+    }
+  },
+  "model_response": "The normal pulmonary artery pressure is 25/10 mmHg, and the normal right atrial pressure is 25/5 mmHg. The normal right ventricular pressure is 10/0 mmHg. The normal pulmonary capillary wedge pressure is 10 mmHg.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "ICU",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9662715196609497,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "undergoes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "placement",
+      "type": "T061",
+      "umls_id": "C0021107",
+      "score": 0.9827958345413208,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A surgical procedure that places something in the human body."
+    },
+    {
+      "text": "Swan-Ganz catheter",
+      "type": "T074",
+      "umls_id": "C0179790",
+      "score": 0.9539656639099121,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A hollow tube with a balloon or sail tip that is advanced into the pulmonary artery to measure right heart pressure and cardiac output, and enable mixed venous blood sampling."
+    },
+    {
+      "text": "evaluate",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9732716083526611,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "right heart pressures",
+      "type": "T067",
+      "umls_id": "C0033095",
+      "score": 0.7188559174537659,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A type of stress exerted uniformly in all directions. Its measure is the force exerted per unit area. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "pressures",
+      "type": "T067",
+      "umls_id": "C0033095",
+      "score": 0.9932422637939453,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A type of stress exerted uniformly in all directions. Its measure is the force exerted per unit area. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "cardiology",
+      "type": "T091",
+      "umls_id": "C0007189",
+      "score": 0.9920249581336975,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of the heart, its physiology, and its functions."
+    },
+    {
+      "text": "records",
+      "type": "T170",
+      "umls_id": "C0034869",
+      "score": 0.9666364192962646,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Works on authentic evidence, of something having legal importance. The concept includes certificates of birth, death, etc., as well as hospital, medical, and other institutional records."
+    },
+    {
+      "text": "pulmonary wedge pressure",
+      "type": "T201",
+      "umls_id": "C0034094",
+      "score": 0.9645977020263672,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The blood pressure as recorded after wedging a CATHETER in a small PULMONARY ARTERY; believed to reflect the PRESSURE in the pulmonary CAPILLARIES."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "normal values",
+      "type": "T081",
+      "umls_id": "C0086715",
+      "score": 0.9744585752487183,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The range or frequency distribution of a measurement in a population (of organisms, organs or things) that has not been selected for the presence of disease or abnormality."
+    },
+    {
+      "text": "pressures",
+      "type": "T067",
+      "umls_id": "C0033095",
+      "score": 0.9932422637939453,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A type of stress exerted uniformly in all directions. Its measure is the force exerted per unit area. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "right ventricle",
+      "type": "T023",
+      "umls_id": "C0225883",
+      "score": 0.9901273846626282,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The lower chamber of the heart located in the right side. It receives blood from the right atrium that is no longer oxygenated and it pumps it to the pulmonary artery."
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

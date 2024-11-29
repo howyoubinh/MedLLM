@@ -1,0 +1,174 @@
+{
+  "original_data": {
+    "question": "An investigator is studying the cell morphologies of the respiratory tract. He obtains a biopsy from the mainstem bronchus of a patient. On microscopic examination, the biopsy sample shows uniform squamous cells in layers. Which of the following best describes the histologic finding seen in this patient?",
+    "options": {
+      "A": "Metaplasia",
+      "B": "Normal epithelium",
+      "C": "Dysplasia",
+      "D": "Anaplasia\n\""
+    }
+  },
+  "model_response": "The presence of uniform squamous cells in layers indicates normal epithelium. Metaplasia is the abnormal transformation of one type of adult cell into another type. Dysplasia is disordered growth with lack of uniformity of individual cells. Anaplasia is a loss of differentiation and anaplastic cells are undifferentiated.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "investigator",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9776015877723694,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "cell morphologies",
+      "type": "T201",
+      "umls_id": "C1521816",
+      "score": 0.776619553565979,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "the physical dimensions of a cell; may refer to changes in dimensions correlated with physiological or pathological changes in cells."
+    },
+    {
+      "text": "respiratory tract",
+      "type": "T022",
+      "umls_id": "C0035237",
+      "score": 0.9870085120201111,
+      "semantic_types": [
+        "T022"
+      ],
+      "definition": "The tubular and cavernous organs and structures, by means of which pulmonary ventilation and gas exchange between ambient air and the blood are brought about."
+    },
+    {
+      "text": "obtains",
+      "type": "T169",
+      "umls_id": "C1301820",
+      "score": 0.8034836649894714,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To come into possession of something."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "mainstem",
+      "type": "T023",
+      "umls_id": "C0006121",
+      "score": 0.7058988809585571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of the brain that connects the CEREBRAL HEMISPHERES with the SPINAL CORD. It consists of the MESENCEPHALON; PONS; and MEDULLA OBLONGATA."
+    },
+    {
+      "text": "bronchus",
+      "type": "T023",
+      "umls_id": "C0006255",
+      "score": 0.9819592237472534,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The larger air passages of the lungs arising from the terminal bifurcation of the TRACHEA. They include the largest two primary bronchi which branch out into secondary bronchi, and tertiary bronchi which extend into BRONCHIOLES and PULMONARY ALVEOLI."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "microscopic",
+      "type": "T080",
+      "umls_id": "C0205288",
+      "score": 0.9958658814430237,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Too small to be seen except under a microscope."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "sample",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9872499108314514,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "squamous cells",
+      "type": "T025",
+      "umls_id": "C0221910",
+      "score": 0.968881368637085,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A flat, scalelike cell of the skin or mucous membrane"
+    },
+    {
+      "text": "layers",
+      "type": "T023",
+      "umls_id": "C0934502",
+      "score": 0.9881572127342224,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A relatively thin sheetlike expanse or region lying over or under another."
+    },
+    {
+      "text": "histologic finding",
+      "type": "T169",
+      "umls_id": "C0205462",
+      "score": 0.7587425708770752,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Pertaining to the combined microscopic physical features of cells and their surrounding extracellular environment in tissues."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    }
+  ]
+}

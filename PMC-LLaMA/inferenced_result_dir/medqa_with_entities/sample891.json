@@ -1,0 +1,366 @@
+{
+  "original_data": {
+    "question": "A 33-year-old woman, gravida 2, para 1, at 26 weeks' gestation presents to the emergency department because of frequent contractions. The contractions last 40 seconds, occur every 2 minutes, and are increasing in intensity. She has a history of recurrent painful ulcers on her vulva, but she currently does not have them. Her first child was delivered by lower segment transverse cesarean section because of a non-reassuring fetal heart rate. Her current medications include acyclovir, folic acid, and a multivitamin. Her temperature is 36.9°C (98.4°F), heart rate is 88/min, and blood pressure is 126/76 mm Hg. Contractions are felt on the abdomen. The cervix is dilated to 5 cm, 70% effaced, and the station of the head is -2. A fetal ultrasound shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Allow vaginal delivery",
+      "B": "Initiate misoprostol therapy",
+      "C": "Initiate nifedipine therapy",
+      "D": "Perform dilation and evacuation"
+    }
+  },
+  "model_response": "Option A is not appropriate because the patient has a history of a previous cesarean section. Vaginal birth after cesarean is not recommended in patients who have had a previous cesarean section. Option B is not appropriate because the patient is not an appropriate candidate for prostaglandin therapy. She has a contraindication to misoprostol because she has a history of an ulcer. Option C is not appropriate because nifedipine is not recommended for patients with a history of a previous cesarean section. It is not recommended to use nifedipine in patients with a history of a previous cesarean section. Option D is not appropriate because dilatation and evacuation is not recommended for patients with a history of a previous cesarean section.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gravida 2",
+      "type": "T033",
+      "umls_id": "C0232997",
+      "score": 0.9864724278450012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "para",
+      "type": "T033",
+      "umls_id": "C0030563",
+      "score": 0.9971686005592346,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of offspring a female has borne. It is contrasted with GRAVIDITY, which refers to the number of pregnancies, regardless of outcome."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "contractions",
+      "type": "T046",
+      "umls_id": "C1140999",
+      "score": 0.9866346120834351,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "contractions",
+      "type": "T046",
+      "umls_id": "C1140999",
+      "score": 0.9866346120834351,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "seconds",
+      "type": "T079",
+      "umls_id": "C0457385",
+      "score": 0.9833773970603943,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit of time, one of the seven base units of the International System of Units (Systeme International d'Unites, SI). The second is the duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the caesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute; 3,600 seconds constitute one hour."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intensity",
+      "type": "T080",
+      "umls_id": "C0522510",
+      "score": 0.9910919070243835,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The degree or magnitude of strength, energy, or feeling."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "vulva",
+      "type": "T023",
+      "umls_id": "C0042993",
+      "score": 0.9987573623657227,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external genitalia of the female. It includes the CLITORIS, the labia, the vestibule, and its glands."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "cesarean section",
+      "type": "T061",
+      "umls_id": "C0007876",
+      "score": 0.9648112058639526,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Extraction of the FETUS by means of abdominal HYSTEROTOMY."
+    },
+    {
+      "text": "non-reassuring fetal",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "acyclovir",
+      "type": "T114",
+      "umls_id": "C0001367",
+      "score": 0.986030638217926,
+      "semantic_types": [
+        "T114",
+        "T121"
+      ],
+      "definition": "A GUANOSINE analog that acts as an antimetabolite. Viruses are especially susceptible. Used especially against herpes."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "multivitamin",
+      "type": "T109",
+      "umls_id": "C0301532",
+      "score": 0.987159252166748,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Contractions",
+      "type": "T046",
+      "umls_id": "C1140999",
+      "score": 0.9866346120834351,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "cervix",
+      "type": "T023",
+      "umls_id": "C0007874",
+      "score": 0.9750297665596008,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The neck portion of the UTERUS between the lower isthmus and the VAGINA forming the cervical canal."
+    },
+    {
+      "text": "effaced",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "station",
+      "type": "T073",
+      "umls_id": "C1883167",
+      "score": 0.9857532978057861,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A facility or location equipped with special equipment and/or personnel for a particular purpose."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "fetal ultrasound",
+      "type": "T060",
+      "umls_id": "C0162502",
+      "score": 0.9757751822471619,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "33-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

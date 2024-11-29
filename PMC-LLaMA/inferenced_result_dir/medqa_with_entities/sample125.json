@@ -1,0 +1,246 @@
+{
+  "original_data": {
+    "question": "A 33-year-old nurse is referred to an infectious disease specialist after she exhibited a PPD skin test with 17 mm of induration. She denies any cough, shortness of breath, hemoptysis, weight loss, fatigue, fevers, or night sweats over the last several months. Her temperature is 97.0°F (36.1°C), blood pressure is 120/81 mmHg, pulse is 82/min, respirations are 15/min, and oxygen saturation is 98% on room air. An initial chest radiograph is unremarkable. Which of the following is the most appropriate management of this patient?",
+    "options": {
+      "A": "Isoniazid",
+      "B": "No management indicated",
+      "C": "Repeat PPD in 1 week",
+      "D": "Rifampin, isoniazid, pyrazinamide, and ethambutol"
+    }
+  },
+  "model_response": "The patient has a positive PPD skin test (> 10 mm of induration) but no symptoms or findings of active TB disease. Therefore, she is considered to have latent TB infection (LTBI). The most appropriate management of this patient is to administer a TB skin test to confirm the diagnosis of LTBI. If the follow-up test is positive, then treatment with isoniazid for 9 months should be initiated.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.9822375178337097,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "infectious disease",
+      "type": "T047",
+      "umls_id": "C0009450",
+      "score": 0.9769808053970337,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An illness caused by an infectious agent or its toxins that occurs through the direct or indirect transmission of the infectious agent or its products from an infected individual or via an animal, vector or the inanimate environment to a susceptible animal or human host."
+    },
+    {
+      "text": "PPD skin test",
+      "type": "T060",
+      "umls_id": "C0037296",
+      "score": 0.8402597308158875,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Epicutaneous or intradermal application of a sensitizer for demonstration of either delayed or immediate hypersensitivity. Used in diagnosis of hypersensitivity or as a test for cellular immunity."
+    },
+    {
+      "text": "induration",
+      "type": "T046",
+      "umls_id": "C0332534",
+      "score": 0.9654520153999329,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The quality of being hard, the process of hardening, or an abnormally hard spot or place, particularly of the skin."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cough",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9633718132972717,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "shortness of breath",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9651163220405579,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "hemoptysis",
+      "type": "T184",
+      "umls_id": "C0019079",
+      "score": 0.9599552750587463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Expectoration or spitting of blood originating from any part of the RESPIRATORY TRACT, usually from hemorrhage in the lung parenchyma (PULMONARY ALVEOLI) and the BRONCHIAL ARTERIES."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "fevers",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9832536578178406,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "night sweats",
+      "type": "T184",
+      "umls_id": "C0028081",
+      "score": 0.9751355051994324,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Perspiration experienced nocturnally that is unrelated to environmental temperature."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "chest radiograph",
+      "type": "T060",
+      "umls_id": "C3842377",
+      "score": 0.9901647567749023,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "33-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "original_data": {
+    "question": "A 4-year-old girl is brought to the physician because of pallor and rash for 2 days. She had a 4-day history of diarrhea and vomiting that subsided two days ago. One month ago, she had a 3-day episode of high fever, followed by a rash with bright red discoloration over her cheeks for two days before subsiding without treatment. Her vaccinations are up-to-date. She appears pale and irritable. Her vital signs are within normal limits. Examination shows petechiae on her trunk and extremities. Abdominal examination shows diffuse abdominal tenderness with hyperactive bowel sounds. The remainder of the exam shows no abnormalities. Laboratory studies show:\nHemoglobin 8 g/dL\nMean corpuscular volume 82 fL\nLeukocyte count 17,000/mm3\nPlatelet count 49,000/mm3\nProthrombin time 12 seconds\nPartial thromboplastin time 34 seconds\nSerum\nUrea nitrogen 42 mg/dL\nCreatinine 1.4 mg/dL\nBilirubin\nTotal 3 mg/dL\nIndirect 2.8 mg/dL\nLactate dehydrogenase 300 U/L\nUrine\nBlood 2+\nProtein 2+\nA peripheral blood smear shows schistocytes. Which of the following is the most likely underlying cause of these findings?\"",
+    "options": {
+      "A": "Escherichia coli infection",
+      "B": "Disseminated intravascular coagulation",
+      "C": "Immune thrombocytopenic purpura",
+      "D": "Thrombotic thrombocytopenic purpura"
+    }
+  },
+  "model_response": "The presence of pallor, rash, petechiae, thrombocytopenia, and evidence of microangiopathic hemolytic anemia suggests the diagnosis of thrombotic thrombocytopenic purpura (TTP). TTP is a rare disorder of unknown etiology that is characterized by the presence of thrombotic microangiopathy. Patients with TTP are deficient in an enzyme called ADAMTS13 that normally cleaves large multimers of von Willebrand factor. In the absence of this enzyme, large multimers of von Willebrand factor accumulate in plasma and promote platelet macroaggregate formation throughout the microcirculation leading to symptoms of TTP. The most common underlying causes of acquired TTP are autoantibodies against ADAMTS13. The other causes of TTP include DIC, pregnancy, cancer, and bone marrow transplantation.\n\nThe most common infectious cause of TTP is Escherichia coli infection. However, the patient in this case does not have any evidence of infection.\n\nThe other options are not causes of TTP. Immune thrombocytopenic purpura is a cause of thrombocytopenia but does not cause pallor, rash, petechiae, or evidence of microangiopathic hemolytic anemia. DIC is a cause of anemia but does not cause pallor, rash, petechiae, or thrombocytopenia. Thrombotic microangiopathy is a cause of anemia but does not cause pallor, rash, petechiae, or thrombocytopenia.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "pallor",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9879653453826904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "rash",
+      "type": "T184",
+      "umls_id": "C0015230",
+      "score": 0.9840058088302612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Diseases in which skin eruptions or rashes are a prominent manifestation. Classically, six such diseases were described with similar rashes; they were numbered in the order in which they were reported. Only the fourth (Duke's disease), fifth (ERYTHEMA INFECTIOSUM), and sixth (EXANTHEMA SUBITUM) numeric designations survive as occasional synonyms in current terminology."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "high fever",
+      "type": "T033",
+      "umls_id": "C0743973",
+      "score": 0.9734374284744263,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rash",
+      "type": "T184",
+      "umls_id": "C0015230",
+      "score": 0.9840058088302612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Diseases in which skin eruptions or rashes are a prominent manifestation. Classically, six such diseases were described with similar rashes; they were numbered in the order in which they were reported. Only the fourth (Duke's disease), fifth (ERYTHEMA INFECTIOSUM), and sixth (EXANTHEMA SUBITUM) numeric designations survive as occasional synonyms in current terminology."
+    },
+    {
+      "text": "bright red discoloration",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.7526582479476929,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "cheeks",
+      "type": "T029",
+      "umls_id": "C0007966",
+      "score": 0.9744594693183899,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of the face that is below the eye and to the side of the nose and mouth."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "subsiding",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "vaccinations",
+      "type": "T061",
+      "umls_id": "C0042196",
+      "score": 0.9722127318382263,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Administration of vaccines to stimulate the host's immune response. This includes any preparation intended for active immunological prophylaxis."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "petechiae",
+      "type": "T047",
+      "umls_id": "C0031256",
+      "score": 0.9828585982322693,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Purple or red hemorrhagic pinpoint spots in the skin or mucous membranes."
+    },
+    {
+      "text": "trunk",
+      "type": "T023",
+      "umls_id": "C0225442",
+      "score": 0.9839140772819519,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "abdominal tenderness",
+      "type": "T184",
+      "umls_id": "C0232498",
+      "score": 0.9800974726676941,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hyperactive bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232694",
+      "score": 0.9749006032943726,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally increased gurgling/rumbling sounds made by the movement of fluid and gas in the intestines. [HPO:probinson, PMID:22767621]"
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fL\n",
+      "type": "T083",
+      "umls_id": "C0016253",
+      "score": 0.9481987953186035,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on east by the Atlantic Ocean, on the south by the Gulf of Mexico, on the west by Alabama and on the north by Alabama and Georgia."
+    },
+    {
+      "text": "Prothrombin time",
+      "type": "T059",
+      "umls_id": "C0033707",
+      "score": 0.9805619120597839,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Clotting time of PLASMA recalcified in the presence of excess TISSUE THROMBOPLASTIN. Factors measured are FIBRINOGEN; PROTHROMBIN; FACTOR V; FACTOR VII; and FACTOR X. It is used for monitoring anticoagulant therapy with COUMARINS."
+    },
+    {
+      "text": "Bilirubin\nTotal 3",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9308528900146484,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "Indirect",
+      "type": "T080",
+      "umls_id": "C0439852",
+      "score": 0.9717028737068176,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not as a direct effect or consequence; having intervening factors or persons or influences."
+    },
+    {
+      "text": "Urine\n",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "peripheral blood smear",
+      "type": "T031",
+      "umls_id": "C0229664",
+      "score": 0.8488079905509949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood."
+    },
+    {
+      "text": "schistocytes",
+      "type": "T025",
+      "umls_id": "C0221282",
+      "score": 0.9921367764472961,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": null
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "4-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "original_data": {
+    "question": "A 41-year-old G3P1 woman presents with a sudden onset throbbing headache, tinnitus, nausea, and left-sided weakness. Patient has no significant past medical history and takes no medications.  Her last two pregnancies ended with spontaneous abortions before the 10th week of gestation. No significant family history. Her vital signs include: blood pressure 130/90 mm Hg, pulse 58/min, respiratory rate 11/min, and temperature 36.8℃ (98.2℉). GCS is 14/15. Physical examination shows 3+ deep tendon reflexes and increased muscle tone in the left upper and lower extremities. Laboratory findings are significant for the following:\nPlatelet count 230,000/mm3\nFibrinogen 3.5 g/L\nActivated partial thromboplastin time  70 s\nThrombin time 34 s\n A non-contrast CT of the head is performed and shown in the picture. Which of the following would be the next best diagnostic step in this patient?",
+    "options": {
+      "A": "Mixing study",
+      "B": "INR",
+      "C": "Ristocetin-induced platelet aggregation test",
+      "D": "Clot retraction study"
+    }
+  },
+  "model_response": "This is a case of cerebral venous sinus thrombosis (CVST). CT shows a hyperdensity in the superior sagittal sinus (arrow). CVST is a life-threatening condition that is often associated with pregnancy, oral contraceptive use, and the postpaum period. It is caused by a hypercoagulable state. The mainstay of treatment is anticoagulation. The initial anticoagulant of choice is heparin, which is followed by warfarin. The risk of intracranial hemorrhage with anticoagulation is high, so close monitoring of the patient is necessary. Mixing studies are used to determine the presence of a hypercoagulable state. The Ristocetin-induced platelet aggregation test is used to determine the presence of von Willebrand disease. The clot retraction study is used to determine the presence of a qualitative platelet disorder.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "G3P1",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "sudden onset throbbing headache",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tinnitus",
+      "type": "T047",
+      "umls_id": "C0040264",
+      "score": 0.9709280729293823,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A nonspecific symptom of hearing disorder characterized by the sensation of buzzing, ringing, clicking, pulsations, and other noises in the ear. Objective tinnitus refers to noises generated from within the ear or adjacent structures that can be heard by other individuals. The term subjective tinnitus is used when the sound is audible only to the affected individual. Tinnitus may occur as a manifestation of COCHLEAR DISEASES; VESTIBULOCOCHLEAR NERVE DISEASES; INTRACRANIAL HYPERTENSION; CRANIOCEREBRAL TRAUMA; and other conditions."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "left-sided weakness",
+      "type": "T033",
+      "umls_id": "C1698038",
+      "score": 0.8732028603553772,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A reduction in the strength of the muscles in the left side of the body."
+    },
+    {
+      "text": "Patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "pregnancies",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.9770646691322327,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "ended",
+      "type": "T080",
+      "umls_id": "C1272693",
+      "score": 0.9791387319564819,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "abortions",
+      "type": "T033",
+      "umls_id": "C0156543",
+      "score": 0.9767506122589111,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The unintentional or intentional loss of a pregnancy before 22 weeks gestation."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "No significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse 58/min",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "℃",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "GCS",
+      "type": "T028",
+      "umls_id": "C1415097",
+      "score": 0.9827122688293457,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "This gene plays a role in the detoxification of endogenous reactive oxygen species. It is also involved in drug and xenobiotic metabolism."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "deep tendon reflexes",
+      "type": "T201",
+      "umls_id": "C0489815",
+      "score": 0.9582180380821228,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Contraction of a muscle triggered by a signal from a muscle spindle in response to a stimulus applied to a specific trigger point on the body. The strength of the response can provide insight into central and peripheral nerve performance."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "muscle tone",
+      "type": "T042",
+      "umls_id": "C0026841",
+      "score": 0.9872323274612427,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The state of activity or tension of a muscle beyond that related to its physical properties, that is, its active resistance to stretch. In skeletal muscle, tonus is dependent upon efferent innervation. (Stedman, 25th ed)"
+    },
+    {
+      "text": "left upper",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.8117914199829102,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Thrombin time",
+      "type": "T034",
+      "umls_id": "C0427596",
+      "score": 0.9865012168884277,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "non-contrast",
+      "type": "T130",
+      "umls_id": "C0009924",
+      "score": 0.7299104928970337,
+      "semantic_types": [
+        "T130"
+      ],
+      "definition": "Substances used to allow enhanced visualization of tissues."
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "picture",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9875263571739197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "diagnostic step",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.8272677063941956,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "41-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

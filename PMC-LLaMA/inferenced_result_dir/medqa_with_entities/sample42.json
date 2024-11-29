@@ -1,0 +1,545 @@
+{
+  "original_data": {
+    "question": "A one-day-old male is evaluated in the hospital nursery for bilious vomiting. The patient has urinated multiple times since birth but has not yet passed meconium. He was born at 38 weeks gestation to a 36-year-old gravida 3 via vaginal delivery. The pregnancy was complicated by gestational diabetes. The patient’s mother received routine prenatal care and declined first trimester screening. She subsequently underwent a quadruple screen at 15 weeks gestation that demonstrated decreased maternal serum alpha-fetoprotein (AFP), increased beta-hCG, decreased unconjugated estriol, and increased inhibin A. Her last ultrasound prior to onset of labor demonstrated an amniotic fluid index (AFI) of 28 cm. The patient’s two older siblings are both healthy. The patient’s temperature is 97.8°F (36.6°C), blood pressure is 58/37 mmHg, pulse is 166/min, and respirations are 38/min. On physical exam, the patient is in moderate distress. His abdomen is firm and distended with hypoactive bowel sounds.\n\nWhich of the following is the most likely etiology of this fetus’s presentation?",
+    "options": {
+      "A": "Duodenal atresia",
+      "B": "Meconium ileus",
+      "C": "Necrotizing enterocolitis",
+      "D": "Pyloric stenosis"
+    }
+  },
+  "model_response": "The clinical presentation of a one-day-old male with bilious vomiting, hypoactive bowel sounds, and abdominal distention raises concern for a congenital gastrointestinal anomaly. The patient’s history of decreased maternal serum alpha-fetoprotein (AFP) on quadruple screen, along with the associated risk factors of gestational diabetes and advanced maternal age, raises concern for a possible underlying genetic syndrome. The patient’s siblings being healthy does not rule out the possibility of an underlying genetic syndrome. Duodenal atresia is the most common cause of duodenal obstruction in a full-term newborn. It is associated with polyhydramnios, premature birth, and twinning. The classic plain abdominal radiograph of duodenal atresia is termed the double-bubble sign (gas in the stomach and duodenal bulb). Meconium ileus is a manifestation of cystic fibrosis and is characterized by abdominal distention, failure to pass meconium, and a family history of cystic fibrosis. Meconium ileus is usually diagnosed in the neonatal period, but it may present later in childhood. Necrotizing enterocolitis (NEC) is a devastating condition that primarily affects premature infants. It is characterized by a triad of abdominal distention, bloody stools, and lethargy. Pyloric stenosis is a congenital anomaly that classically presents in the first few weeks of life. Infants with pyloric stenosis develop projectile postprandial vomiting that eventually leads to hypochloremic, hypokalemic metabolic alkalosis.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "one-day-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "bilious vomiting",
+      "type": "T033",
+      "umls_id": "C0232599",
+      "score": 0.9607830047607422,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "meconium",
+      "type": "T031",
+      "umls_id": "C0025047",
+      "score": 0.9662706255912781,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The thick green-to-black mucilaginous material found in the intestines of a full-term fetus. It consists of secretions of the INTESTINAL GLANDS; BILE PIGMENTS; FATTY ACIDS; AMNIOTIC FLUID; and intrauterine debris. It constitutes the first stools passed by a newborn."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "gravida",
+      "type": "T033",
+      "umls_id": "C0600457",
+      "score": 0.9845533967018127,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of pregnancies, complete or incomplete, experienced by a female. It is different from PARITY, which is the number of offspring borne. (From Stedman, 26th ed)"
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "gestational diabetes",
+      "type": "T047",
+      "umls_id": "C0085207",
+      "score": 0.9655584096908569,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Diabetes mellitus induced by PREGNANCY but resolved at the end of pregnancy. It does not include previously diagnosed diabetics who become pregnant (PREGNANCY IN DIABETICS). Gestational diabetes usually develops in late pregnancy when insulin antagonistic hormones peaks leading to INSULIN RESISTANCE; GLUCOSE INTOLERANCE; and HYPERGLYCEMIA."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "prenatal care",
+      "type": "T058",
+      "umls_id": "C0033052",
+      "score": 0.9855771064758301,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care provided the pregnant woman in order to prevent complications, and decrease the incidence of maternal and prenatal mortality."
+    },
+    {
+      "text": "trimester screening",
+      "type": "T062",
+      "umls_id": "C1710477",
+      "score": 0.7073190808296204,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A process of active consideration of potential subjects for enrollment in a trial."
+    },
+    {
+      "text": "quadruple",
+      "type": "T081",
+      "umls_id": "C0205175",
+      "score": 0.9774066209793091,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "screen",
+      "type": "T073",
+      "umls_id": "C0183185",
+      "score": 0.9913508892059326,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An electronic device designed as a display or a physical device designed to be a protective meshwork."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "maternal",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9798679351806641,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "AFP",
+      "type": "T116",
+      "umls_id": "C0002210",
+      "score": 0.9815931916236877,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "The first alpha-globulins to appear in mammalian sera during FETAL DEVELOPMENT and the dominant serum proteins in early embryonic life."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "estriol",
+      "type": "T109",
+      "umls_id": "C0014927",
+      "score": 0.9913448095321655,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A hydroxylated metabolite of ESTRADIOL or ESTRONE that has a hydroxyl group at C3, 16-alpha, and 17-beta position. Estriol is a major urinary estrogen. During PREGNANCY, a large amount of estriol is produced by the PLACENTA. Isomers with inversion of the hydroxyl group or groups are called epiestriol."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "inhibin",
+      "type": "T116",
+      "umls_id": "C0021463",
+      "score": 0.9670846462249756,
+      "semantic_types": [
+        "T116",
+        "T125"
+      ],
+      "definition": "Glycoproteins that inhibit pituitary FOLLICLE STIMULATING HORMONE secretion. Inhibins are secreted by the Sertoli cells of the testes, the granulosa cells of the ovarian follicles, the placenta, and other tissues. Inhibins and ACTIVINS are modulators of FOLLICLE STIMULATING HORMONE secretions; both groups belong to the TGF-beta superfamily, as the TRANSFORMING GROWTH FACTOR BETA. Inhibins consist of a disulfide-linked heterodimer with a unique alpha linked to either a beta A or a beta B subunit to form inhibin A or inhibin B, respectively"
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "prior",
+      "type": "T079",
+      "umls_id": "C0332152",
+      "score": 0.9819955825805664,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Earlier in time or order."
+    },
+    {
+      "text": "onset of",
+      "type": "T080",
+      "umls_id": "C0332162",
+      "score": 0.9750663042068481,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The start, beginning, or early stages."
+    },
+    {
+      "text": "amniotic fluid index",
+      "type": "T170",
+      "umls_id": "C0552315",
+      "score": 0.9763213396072388,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An evaluation of the amount of amniotic fluid."
+    },
+    {
+      "text": "AFI",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "older siblings",
+      "type": "T099",
+      "umls_id": "C0037047",
+      "score": 0.7601732611656189,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons or animals having at least one parent in common. (American College Dictionary, 3d ed)"
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "moderate distress",
+      "type": "T041",
+      "umls_id": "C0231303",
+      "score": 0.704529881477356,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of physiological or psychological stress that cannot be compensated for by normal adaptive measures."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "firm",
+      "type": "T080",
+      "umls_id": "C0205233",
+      "score": 0.9878337383270264,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a structure or consistency that strongly resists stress or pressure."
+    },
+    {
+      "text": "hypoactive bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232695",
+      "score": 0.9751814007759094,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An decreased amount of bowel sounds. [HPO:probinson]"
+    },
+    {
+      "text": "etiology",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9827702641487122,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    },
+    {
+      "text": "fetus’s",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.9628111720085144,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

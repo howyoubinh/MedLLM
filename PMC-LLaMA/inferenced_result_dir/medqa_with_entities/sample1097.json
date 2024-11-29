@@ -1,0 +1,267 @@
+{
+  "original_data": {
+    "question": "A 34-year-old man comes to the physician because of a 3-week history of colicky abdominal pain and diarrhea. He has bowel movements 10–12 times daily; the stool contains blood and mucus. He constantly has the urge to defecate. His vital signs are within normal limits. Examination of the abdomen shows diffuse tenderness to palpation. Serum concentration of C-reactive protein is 20 mg/L (N<10). Colonoscopy shows a bleeding, ulcerated rectal mucosa with several pseudopolyps. Which of the following is this patient at greatest risk of developing?",
+    "options": {
+      "A": "Hemolytic uremic syndrome",
+      "B": "Oral ulcers",
+      "C": "Colorectal cancer",
+      "D": "Pancreatic cancer"
+    }
+  },
+  "model_response": "This patient has ulcerative colitis, which is a long-term risk factor for the development of colorectal cancer. The other choices are not complications of ulcerative colitis. Hemolytic uremic syndrome can be caused by enterohemorrhagic Escherichia coli infection. Oral ulcers are associated with Crohn disease, not ulcerative colitis. Pancreatic cancer is not associated with ulcerative colitis.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "bowel",
+      "type": "T023",
+      "umls_id": "C0021853",
+      "score": 0.9781090617179871,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The section of the alimentary canal from the STOMACH to the ANAL CANAL. It includes the LARGE INTESTINE and SMALL INTESTINE."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "stool contains",
+      "type": "T078",
+      "umls_id": "C1549781",
+      "score": 0.7785904407501221,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "<p>Specified set of things includes value being evaluated.</p>"
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "mucus",
+      "type": "T031",
+      "umls_id": "C0026727",
+      "score": 0.9610061049461365,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The viscous secretion of mucous membranes. It contains mucin, white blood cells, water, inorganic salts, and exfoliated cells."
+    },
+    {
+      "text": "defecate",
+      "type": "T040",
+      "umls_id": "C0011135",
+      "score": 0.7801434993743896,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The normal process of elimination of fecal material from the RECTUM."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "diffuse",
+      "type": "T082",
+      "umls_id": "C0205219",
+      "score": 0.9735197424888611,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Widely spread; not localized or confined."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "Serum concentration",
+      "type": "T081",
+      "umls_id": "C0683149",
+      "score": 0.9819432497024536,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "C-reactive protein",
+      "type": "T116",
+      "umls_id": "C0006560",
+      "score": 0.9385662078857422,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "A plasma protein that circulates in increased amounts during inflammation and after tissue damage. C-Reactive Protein measured by more sensitive methods often for coronary heart disease risk assessment is referred to as High Sensitivity C-Reactive Protein (hs-CRP)."
+    },
+    {
+      "text": "Colonoscopy",
+      "type": "T060",
+      "umls_id": "C0009378",
+      "score": 0.9911046028137207,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination, therapy or surgery of the luminal surface of the colon."
+    },
+    {
+      "text": "bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9680540561676025,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "ulcerated rectal mucosa",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pseudopolyps",
+      "type": "T047",
+      "umls_id": "C0032568",
+      "score": 0.9881381392478943,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

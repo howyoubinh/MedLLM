@@ -1,0 +1,349 @@
+{
+  "original_data": {
+    "question": "A 42-year-old man is brought to the emergency department because of a 2-day history of dyspnea, chest pain, and hemoptysis that were preceded by 4 days of myalgia and a low-grade fever. He is currently visiting the United States as a tourist from Turkey, where he works at a factory that processes sheep wool and hide. An x-ray of the chest shows widening of the mediastinum. A sputum culture grows gram-positive rods in gray colonies that have irregular margins with wavy projections on microscopy. Which of the following virulence factors of the causal organism increased its survival in host tissue?",
+    "options": {
+      "A": "Glutamate capsule",
+      "B": "Toxin B",
+      "C": "IgA protease",
+      "D": "Sulfatides"
+    }
+  },
+  "model_response": "This is a case of Bacillus anthracis, the causative agent of anthrax. The disease is usually contracted from contact with infected animals or their products. The anthrax toxin is encoded on one plasmid, and the polyglutamate capsule is encoded on a different plasmid. The toxin is a protein complex that consists of three components: edema factor, lethal factor, and protective antigen. The toxin is produced in the bacterium and released as a tripartite complex. The protective antigen binds to receptors on host cells and is cleaved by a bacterial protease to yield the edema factor and lethal factor, which enter the host cell. The lethal factor inhibits mitogen-activated protein kinase signaling, and the edema factor increases the concentration of cyclic adenosine monophosphate. The anthrax toxin is responsible for the edema and tissue damage characteristic of the disease. The anthrax toxin receptor is a member of the tumor necrosis factor receptor family. The anthrax toxin receptor is found in the brain, heart, and endothelial cells, and it mediates the entry of the toxin into these cells. The anthrax toxin receptor is not found in lung epithelial cells, and the toxin does not enter these cells. Therefore, lung epithelial cells are not damaged by the anthrax toxin. The anthrax toxin receptor is not found in skeletal muscle cells, and the toxin does not enter these cells. Therefore, skeletal muscle cells are not damaged by the anthrax toxin. The anthrax toxin receptor is not found in erythrocytes, and the toxin does not enter these cells. Therefore, erythrocytes are not damaged by the anthrax toxin. The anthrax toxin receptor is not found in pancreatic b cells, and the toxin does not enter these cells. Therefore, pancreatic b cells are not damaged by the anthrax toxin.\n\nOption A: The anthrax toxin receptor is not found in erythrocytes, and the toxin does not enter these cells. Therefore, erythrocytes are not damaged by the anthrax toxin.\n\nOption B: The anthrax toxin receptor is not found in skeletal muscle cells, and the toxin does not enter these cells. Therefore, skeletal muscle cells are not damaged by the anthrax toxin.\n\nOption C: The anthrax toxin receptor is not found in pancreatic b cells, and the toxin does not enter these cells. Therefore, pancreatic b cells are not damaged by the anthrax toxin.\n\nOption D: The anthrax toxin receptor is not found in lung epithelial cells, and the toxin does not enter these cells. Therefore, lung epithelial cells are not damaged by the anthrax toxin.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "2-day history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.7876473665237427,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "hemoptysis",
+      "type": "T184",
+      "umls_id": "C0019079",
+      "score": 0.9599552750587463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Expectoration or spitting of blood originating from any part of the RESPIRATORY TRACT, usually from hemorrhage in the lung parenchyma (PULMONARY ALVEOLI) and the BRONCHIAL ARTERIES."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "myalgia",
+      "type": "T184",
+      "umls_id": "C0231528",
+      "score": 0.9737851023674011,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the muscles."
+    },
+    {
+      "text": "low-grade",
+      "type": "T191",
+      "umls_id": "C1518005",
+      "score": 0.8834829926490784,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A precancerous neoplastic process that affects the cervical squamous epithelium without evidence of invasion. It is usually associated with human papillomavirus infection. It is characterized by the presence of mild atypia in the superficial epithelial layer that may be associated with koilocytosis. Maturation is present in the upper two thirds of the epithelium. Mitotic figures are not numerous and are present in the basal third of the epithelium."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "visiting",
+      "type": "T058",
+      "umls_id": "C0020043",
+      "score": 0.7769381403923035,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Visits to the patient's home by professional personnel for the purpose of diagnosis and/or treatment."
+    },
+    {
+      "text": "United States",
+      "type": "T083",
+      "umls_id": "C0041703",
+      "score": 0.9899754524230957,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA between CANADA and MEXICO."
+    },
+    {
+      "text": "tourist",
+      "type": "T098",
+      "umls_id": "C0682355",
+      "score": 0.9807748794555664,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Turkey",
+      "type": "T083",
+      "umls_id": "C0041400",
+      "score": 0.9810280203819275,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Country in Southeastern Europe and Southwestern Asia bordering the Black Sea, between Bulgaria and Georgia, and bordering the Aegean Sea and the Mediterranean Sea, between Greece and Syria. The capital is Ankara."
+    },
+    {
+      "text": "factory",
+      "type": "T073",
+      "umls_id": "C0442614",
+      "score": 0.9926723837852478,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "processes",
+      "type": "T041",
+      "umls_id": "C0025361",
+      "score": 0.8121208548545837,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Conceptual functions or thinking in all its forms."
+    },
+    {
+      "text": "sheep wool",
+      "type": "T167",
+      "umls_id": "C0440409",
+      "score": 0.9909802079200745,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hide",
+      "type": "T031",
+      "umls_id": "C1719994",
+      "score": 0.9753483533859253,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "widening",
+      "type": "T082",
+      "umls_id": "C0332464",
+      "score": 0.9465154409408569,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Very large in expanse or scope; having great extent from one side to the other."
+    },
+    {
+      "text": "mediastinum",
+      "type": "T029",
+      "umls_id": "C0025066",
+      "score": 0.9793151021003723,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "A membrane in the midline of the THORAX of mammals. It separates the lungs between the STERNUM in front and the VERTEBRAL COLUMN behind. It also surrounds the HEART, TRACHEA, ESOPHAGUS, THYMUS, and LYMPH NODES."
+    },
+    {
+      "text": "sputum culture",
+      "type": "T059",
+      "umls_id": "C0523174",
+      "score": 0.9554357528686523,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gram-positive rods",
+      "type": "T007",
+      "umls_id": "C0085498",
+      "score": 0.9629645347595215,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A large group of rod-shaped bacteria that retains the crystal violet stain when treated by Gram's method."
+    },
+    {
+      "text": "gray colonies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "irregular margins",
+      "type": "T033",
+      "umls_id": "C1836870",
+      "score": 0.8822588920593262,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An alteration of the normally relatively smooth margins of the kneecap in radiographic images leading to an irregular contour. [HPO:probinson]"
+    },
+    {
+      "text": "wavy projections",
+      "type": "T170",
+      "umls_id": "C0016538",
+      "score": 0.7926532626152039,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "The prediction or projection of the nature of future problems or existing conditions based upon the extrapolation or interpretation of existing scientific data or by the application of scientific methodology."
+    },
+    {
+      "text": "microscopy",
+      "type": "T059",
+      "umls_id": "C0026018",
+      "score": 0.9947981238365173,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The use of instrumentation and techniques for visualizing material and details that cannot be seen by the unaided eye. It is usually done by enlarging images, transmitted by light or electron beams, with optical or magnetic lenses that magnify the entire image field. With scanning microscopy, images are generated by collecting output from the specimen in a point-by-point fashion, on a magnified scale, as it is scanned by a narrow beam of light or electrons, a laser, a conductive probe, or a topographical probe."
+    },
+    {
+      "text": "virulence factors",
+      "type": "T109",
+      "umls_id": "C1136170",
+      "score": 0.9863333106040955,
+      "semantic_types": [
+        "T109",
+        "T123",
+        "T131"
+      ],
+      "definition": "Those components of an organism that determine its capacity to cause disease but are not required for its viability per se. Two classes have been characterized: TOXINS, BIOLOGICAL and surface adhesion molecules that effect the ability of the microorganism to invade and colonize a host. (From Davis et al., Microbiology, 4th ed. p486)"
+    },
+    {
+      "text": "organism",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9949436187744141,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "survival",
+      "type": "T052",
+      "umls_id": "C0038952",
+      "score": 0.9464038014411926,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Continuance of life or existence especially under adverse conditions; includes methods and philosophy of survival."
+    },
+    {
+      "text": "host tissue",
+      "type": "T024",
+      "umls_id": "C0040300",
+      "score": 0.772362232208252,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Collections of differentiated CELLS, such as EPITHELIUM; CONNECTIVE TISSUE; MUSCLES; and NERVE TISSUE. Tissues are cooperatively arranged to form organs with specialized functions such as RESPIRATION; DIGESTION; REPRODUCTION; MOVEMENT; and others."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

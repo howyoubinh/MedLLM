@@ -1,0 +1,404 @@
+{
+  "original_data": {
+    "question": "A 24-year-old woman comes to the physician for a routine gynecological examination and to refill her birth control pills. Her last pap smear at age 22 showed no intraepithelial lesions nor malignancy of the cervical cells. Menses occur at regular 28-day intervals and last 4 days. Her last menstrual period was 2 weeks ago. She is sexually active with one male partner. Her father died of colon cancer at the age of 75 years and her mother was diagnosed with breast cancer at the age of 40 years. She mentions that she is planning a backpacking trip through Europe in 2 months. Her routine immunizations are all up-to-date. Her temperature is 36.9°C (98.5°F) and her blood pressure is 94/58 mm Hg. Pelvic and speculum examination show no abnormalities. Which of the following is the best recommendation for the patient at this time?",
+    "options": {
+      "A": "Neisseria gonorrhoeae and Chlamydia trachomatis screening",
+      "B": "Beta-hCG urine test",
+      "C": "Repeat Pap smear",
+      "D": "No further testing is necessary"
+    }
+  },
+  "model_response": "This patient is not due for any of the other screening tests. She is not sexually active with any person other than her partner, and she is not at risk for either gonorrhea or chlamydia. She is not pregnant, as she is not due for a menstrual period for 2 months. She is not due for a Pap smear, as she had one 2 years ago.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "gynecological examination",
+      "type": "T058",
+      "umls_id": "C0200044",
+      "score": 0.9557834267616272,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Inspection and PALPATATION of female breasts, abdomen, and GENITALIA, as well as obtaining a gynecological history. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "birth control pills",
+      "type": "T121",
+      "umls_id": "C0009905",
+      "score": 0.9762467741966248,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Compounds, usually hormonal, taken orally in order to block ovulation and prevent the occurrence of pregnancy. The hormones are generally estrogen or progesterone or both."
+    },
+    {
+      "text": "smear",
+      "type": "T060",
+      "umls_id": "C0444186",
+      "score": 0.9900627732276917,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "intraepithelial lesions",
+      "type": "T169",
+      "umls_id": "C1512943",
+      "score": 0.7917281985282898,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Administration of a drug within the cellular avascular layer covering internal and external surfaces of the body, its parts, organs, and cavities."
+    },
+    {
+      "text": "malignancy",
+      "type": "T191",
+      "umls_id": "C0006826",
+      "score": 0.9908151030540466,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas, Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas."
+    },
+    {
+      "text": "cervical cells",
+      "type": "T025",
+      "umls_id": "C4038423",
+      "score": 0.9798072576522827,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Menses",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9790869355201721,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "intervals",
+      "type": "T079",
+      "umls_id": "C1272706",
+      "score": 0.96578049659729,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time period, or other type of interval, during which something may be achieved, obtained or observed."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "sexually active",
+      "type": "T033",
+      "umls_id": "C0241028",
+      "score": 0.9596645832061768,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is or was sexually active."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "colon cancer",
+      "type": "T191",
+      "umls_id": "C0007102",
+      "score": 0.9861949682235718,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm that affects the colon. Representative examples include carcinoma, lymphoma, and sarcoma."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "breast cancer",
+      "type": "T191",
+      "umls_id": "C0006142",
+      "score": 0.9908878803253174,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "mentions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "backpacking trip",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Europe",
+      "type": "T083",
+      "umls_id": "C0015176",
+      "score": 0.9947829246520996,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "The continent north of AFRICA, west of ASIA and east of the ATLANTIC OCEAN."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "immunizations",
+      "type": "T061",
+      "umls_id": "C0020971",
+      "score": 0.9687795042991638,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Deliberate stimulation of the host's immune response. ACTIVE IMMUNIZATION involves administration of ANTIGENS or IMMUNOLOGIC ADJUVANTS. PASSIVE IMMUNIZATION involves administration of IMMUNE SERA or LYMPHOCYTES or their extracts (e.g., transfer factor, immune RNA) or transplantation of immunocompetent cell producing tissue (thymus or bone marrow)."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Pelvic",
+      "type": "T023",
+      "umls_id": "C0030797",
+      "score": 0.970104455947876,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The space or compartment surrounded by the pelvic girdle (bony pelvis). It is subdivided into the greater pelvis and LESSER PELVIS. The pelvic girdle is formed by the PELVIC BONES and SACRUM."
+    },
+    {
+      "text": "speculum examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.7314515113830566,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "recommendation",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.9576132893562317,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

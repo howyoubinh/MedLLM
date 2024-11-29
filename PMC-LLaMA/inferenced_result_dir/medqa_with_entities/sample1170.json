@@ -1,0 +1,406 @@
+{
+  "original_data": {
+    "question": "A 33-year-old man presents to the emergency department with altered mental status. He was at work as a construction worker when his coworkers found him down at the work site. The patient recently underwent anesthesia for an appendectomy several months ago. He also has a past medical history of schizophrenia well controlled with haloperidol and is currently taking phenytoin for epilepsy. He is also currently taking propranolol for anxiety and hyperthyroidism. His temperature is 106°F (41.1°C), blood pressure is 109/62 mmHg, pulse is 170/min, respirations are 23/min, and oxygen saturation is 95% on room air. Physical exam is notable for an altered man with a Glasgow Coma Scale of 10. He has minimal muscle tone and is incoherent when answering questions. The patient is covered in sweat and dirt. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Exertional heat stroke",
+      "B": "Malignant hyperthermia",
+      "C": "Neuroleptic malignant syndrome",
+      "D": "Thyroid storm"
+    }
+  },
+  "model_response": "The patient's history of recent anesthesia, antipsychotic medication use, and the physical exam findings of altered mental status, elevated temperature, and muscle findings are most consistent with a diagnosis of neuroleptic malignant syndrome (NMS). NMS is a life-threatening reaction to neuroleptic medications that is characterized by hyperthermia, altered mental status, autonomic dysfunction, and generalized muscle rigidity. The patient's recent surgery and use of propranolol may have contributed to his NMS. Exertional heat stroke is unlikely because the patient is not typically exercising at the time of symptom onset. Malignant hyperthermia is unlikely because the patient is not currently taking any medications known to trigger this condition. Thyroid storm is unlikely because the patient does not have symptoms consistent with this diagnosis.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mental status",
+      "type": "T033",
+      "umls_id": "C0278060",
+      "score": 0.982847273349762,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "construction worker",
+      "type": "T097",
+      "umls_id": "C0403066",
+      "score": 0.9553373456001282,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "coworkers",
+      "type": "T098",
+      "umls_id": "C0681088",
+      "score": 0.9667876362800598,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "work site",
+      "type": "T082",
+      "umls_id": "C0162579",
+      "score": 0.9822171926498413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Place or physical location of work or employment."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "anesthesia",
+      "type": "T061",
+      "umls_id": "C0002903",
+      "score": 0.9809566140174866,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A state characterized by loss of feeling or sensation. This depression of nerve function is usually the result of pharmacologic action and is induced to allow performance of surgery or other painful procedures."
+    },
+    {
+      "text": "appendectomy",
+      "type": "T061",
+      "umls_id": "C0003611",
+      "score": 0.9926513433456421,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical removal of the vermiform appendix. (Dorland, 28th ed)"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "schizophrenia",
+      "type": "T048",
+      "umls_id": "C0036341",
+      "score": 0.9816023111343384,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior."
+    },
+    {
+      "text": "controlled",
+      "type": "T169",
+      "umls_id": "C2587213",
+      "score": 0.9838930368423462,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another."
+    },
+    {
+      "text": "haloperidol",
+      "type": "T109",
+      "umls_id": "C0018546",
+      "score": 0.9885089993476868,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A phenyl-piperidinyl-butyrophenone that is used primarily to treat SCHIZOPHRENIA and other PSYCHOSES. It is also used in schizoaffective disorder, DELUSIONAL DISORDERS, ballism, and TOURETTE SYNDROME (a drug of choice) and occasionally as adjunctive therapy in INTELLECTUAL DISABILITY and the chorea of HUNTINGTON DISEASE. It is a potent antiemetic and is used in the treatment of intractable HICCUPS. (From AMA Drug Evaluations Annual, 1994, p279)"
+    },
+    {
+      "text": "phenytoin",
+      "type": "T109",
+      "umls_id": "C0031507",
+      "score": 0.9684736132621765,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An anticonvulsant that is used to treat a wide variety of seizures. It is also an anti-arrhythmic and a muscle relaxant. The mechanism of therapeutic action is not clear, although several cellular actions have been described including effects on ion channels, active transport, and general membrane stabilization. The mechanism of its muscle relaxant effect appears to involve a reduction in the sensitivity of muscle spindles to stretch. Phenytoin has been proposed for several other therapeutic uses, but its use has been limited by its many adverse effects and interactions with other drugs."
+    },
+    {
+      "text": "epilepsy",
+      "type": "T047",
+      "umls_id": "C0014544",
+      "score": 0.9930600523948669,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disorder characterized by recurrent episodes of paroxysmal brain dysfunction due to a sudden, disorderly, and excessive neuronal discharge. Epilepsy classification systems are generally based upon: (1) clinical features of the seizure episodes (e.g., motor seizure), (2) etiology (e.g., post-traumatic), (3) anatomic site of seizure origin (e.g., frontal lobe seizure), (4) tendency to spread to other structures in the brain, and (5) temporal patterns (e.g., nocturnal epilepsy). (From Adams et al., Principles of Neurology, 6th ed, p313)"
+    },
+    {
+      "text": "propranolol",
+      "type": "T109",
+      "umls_id": "C0033497",
+      "score": 0.9734627604484558,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A widely used non-cardioselective beta-adrenergic antagonist. Propranolol has been used for MYOCARDIAL INFARCTION; ARRHYTHMIA; ANGINA PECTORIS; HYPERTENSION; HYPERTHYROIDISM; MIGRAINE; PHEOCHROMOCYTOMA; and ANXIETY but adverse effects instigate replacement by newer drugs."
+    },
+    {
+      "text": "anxiety",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9637579321861267,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "hyperthyroidism",
+      "type": "T047",
+      "umls_id": "C0020550",
+      "score": 0.9921543598175049,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hypersecretion of THYROID HORMONES from the THYROID GLAND. Elevated levels of thyroid hormones increase BASAL METABOLIC RATE."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Glasgow Coma Scale",
+      "type": "T170",
+      "umls_id": "C0017594",
+      "score": 0.9336101412773132,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A scale that assesses the response to stimuli in patients with craniocerebral injuries. The parameters are eye opening, motor response, and verbal response."
+    },
+    {
+      "text": "minimal",
+      "type": "T080",
+      "umls_id": "C0547040",
+      "score": 0.9675829410552979,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<b>Description:</b>Provides more than identified, but not as much as universal. There are not expected to be many of these."
+    },
+    {
+      "text": "muscle tone",
+      "type": "T042",
+      "umls_id": "C0026841",
+      "score": 0.9872323274612427,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The state of activity or tension of a muscle beyond that related to its physical properties, that is, its active resistance to stretch. In skeletal muscle, tonus is dependent upon efferent innervation. (Stedman, 25th ed)"
+    },
+    {
+      "text": "incoherent",
+      "type": "T033",
+      "umls_id": "C0542044",
+      "score": 0.9665210843086243,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Unintelligibility of verbal or written communication due to a lack of clarity or connectedness."
+    },
+    {
+      "text": "answering",
+      "type": "T073",
+      "umls_id": "C2698122",
+      "score": 0.7450749278068542,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An electronic device that answers a telephone and records messages."
+    },
+    {
+      "text": "questions",
+      "type": "T170",
+      "umls_id": "C1522634",
+      "score": 0.8235301375389099,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "sweat",
+      "type": "T031",
+      "umls_id": "C0038984",
+      "score": 0.9773693084716797,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The fluid excreted by the SWEAT GLANDS. It consists of water containing sodium chloride, phosphate, urea, ammonia, and other waste products."
+    },
+    {
+      "text": "dirt",
+      "type": "T023",
+      "umls_id": "C1563093",
+      "score": 0.9697087407112122,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "33-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

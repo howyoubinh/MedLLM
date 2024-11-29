@@ -1,0 +1,407 @@
+{
+  "original_data": {
+    "question": "A 3466-g (7-lb, 10-oz) female newborn is delivered at 38 weeks' gestation to a 32-year-old woman, gravida 2, para 1. Apgar scores are 7 and 8, at 1 and 5 minutes, respectively. The mother has a history of schizophrenia and was treated with lithium until 5 weeks' gestation, when she found out that she was pregnant. The mother was treated for alcohol abuse disorder 2 years ago. She has been sober for 14 months now. Examination shows that the child has micrognathia, a broad nasal bridge, a short philtrum, and small, low-set ears. Examination of the mouth shows a cleft palate. A grade 3/6 systolic ejection murmur can be heard over the left sternal border. Echocardiography shows a single overriding great vessel arising from the heart. Further evaluation is most likely to show which of the following findings?",
+    "options": {
+      "A": "Low levels of parathyroid hormone in serum",
+      "B": "Double bubble sign on abdominal x-ray",
+      "C": "Chromosome 5p deletion on FISH studies",
+      "D": "Bilateral cataracts on ocular examination"
+    }
+  },
+  "model_response": "This infant has the characteristic features of the fetal alcohol syndrome (FAS). The FAS is the most common cause of mental retardation in the United States. The diagnosis is based on the history of maternal alcohol abuse and the presence of at least two of the following findings: growth restriction, microcephaly, a pattern of facial anomalies including micrognathia, a broad nasal bridge, a short philtrum, and small, low-set ears, and congenital heart disease. Congenital heart defects are seen in 30% to 50% of children with FAS. The most common anomaly is a single overriding great vessel arising from the heart giving rise to a double bubble sign on x-ray. Neurologic findings include hypoplastic or dysplastic brain, delayed and/or impaired development, and behavioral disturbances. There are no laboratory findings that are specific for FAS. A chromosome 5p deletion is seen in the cri du chat (or 5p minus) syndrome. Cataracts are seen in galactosemia, not FAS. Maternal diabetes can lead to a number of anomalies, including heart defects, but not the constellation seen in this infant.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gravida 2",
+      "type": "T033",
+      "umls_id": "C0232997",
+      "score": 0.9864724278450012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "para",
+      "type": "T033",
+      "umls_id": "C0030563",
+      "score": 0.9971686005592346,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of offspring a female has borne. It is contrasted with GRAVIDITY, which refers to the number of pregnancies, regardless of outcome."
+    },
+    {
+      "text": "Apgar scores",
+      "type": "T032",
+      "umls_id": "C0003533",
+      "score": 0.9436954259872437,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A method, developed by Dr. Virginia Apgar, to evaluate a newborn's adjustment to extrauterine life. Five items - heart rate, respiratory effort, muscle tone, reflex irritability, and color - are evaluated 60 seconds after birth and again five minutes later on a scale from 0-2, 0 being the lowest, 2 being normal. The five numbers are added for the Apgar score. A score of 0-3 represents severe distress, 4-7 indicates moderate distress, and a score of 7-10 predicts an absence of difficulty in adjusting to extrauterine life."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "schizophrenia",
+      "type": "T048",
+      "umls_id": "C0036341",
+      "score": 0.9816023111343384,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A severe emotional disorder of psychotic depth characteristically marked by a retreat from reality with delusion formation, HALLUCINATIONS, emotional disharmony, and regressive behavior."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lithium",
+      "type": "T121",
+      "umls_id": "C0023870",
+      "score": 0.9728432297706604,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "An element in the alkali metals family. It has the atomic symbol Li, atomic number 3, and atomic weight [6.938; 6.997]. Salts of lithium are used in treating BIPOLAR DISORDER."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "alcohol abuse disorder",
+      "type": "T048",
+      "umls_id": "C0085762",
+      "score": 0.9762817025184631,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of alcoholic beverages to excess, either on individual occasions (\"binge drinking\") or as a regular practice."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "sober",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "micrognathia",
+      "type": "T019",
+      "umls_id": "C0025990",
+      "score": 0.9845178127288818,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Abnormally small jaw."
+    },
+    {
+      "text": "nasal bridge",
+      "type": "T029",
+      "umls_id": "C0225408",
+      "score": 0.9655908346176147,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "small",
+      "type": "T081",
+      "umls_id": "C0700321",
+      "score": 0.9938700199127197,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Limited in number, quantity, magnitude or extent."
+    },
+    {
+      "text": "ears",
+      "type": "T023",
+      "umls_id": "C0013443",
+      "score": 0.9975276589393616,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hearing and equilibrium system of the body. It consists of three parts: the EXTERNAL EAR, the MIDDLE EAR, and the INNER EAR. Sound waves are transmitted through this organ where vibration is transduced to nerve signals that pass through the ACOUSTIC NERVE to the CENTRAL NERVOUS SYSTEM. The inner ear also contains the vestibular organ that maintains equilibrium by transducing signals to the VESTIBULAR NERVE."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mouth",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9870113730430603,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "cleft palate",
+      "type": "T019",
+      "umls_id": "C0008925",
+      "score": 0.9919769763946533,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Congenital fissure of the soft and/or hard palate, due to faulty fusion."
+    },
+    {
+      "text": "grade",
+      "type": "T185",
+      "umls_id": "C0441800",
+      "score": 0.9976638555526733,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A position on a scale of intensity or amount or quality."
+    },
+    {
+      "text": "systolic ejection",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7026140689849854,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "left sternal border",
+      "type": "T030",
+      "umls_id": "C4068813",
+      "score": 0.9832053184509277,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Echocardiography",
+      "type": "T060",
+      "umls_id": "C0013516",
+      "score": 0.993293821811676,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonic recording of the size, motion, and composition of the heart and surrounding tissues. The standard approach is transthoracic."
+    },
+    {
+      "text": "heart",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9954424500465393,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

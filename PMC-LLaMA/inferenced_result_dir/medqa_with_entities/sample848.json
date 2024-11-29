@@ -1,0 +1,416 @@
+{
+  "original_data": {
+    "question": "A 47-year-old woman comes to the emergency department because of worsening pain, discoloration, and swelling of her right hand. Two days ago, she was camping outdoors in Texas with her two young children. She was awoken in the middle of the night by “something crawling on my hand.” The following morning, she saw a wound on her hand that was initially painless, but over the next several hours she noticed reddening and blistering. Yesterday, the lesion turned blue with a blackish discoloration at the center. Her temperature is 38°C (100.4°F), pulse is 83/min, and blood pressure is 128/84 mm Hg. Physical examination shows a bluish plaque with a central area of necrosis surrounded by a rim of erythema at the dorsum of the right hand. Which of the following animals is most likely responsible for the patient's symptoms?",
+    "options": {
+      "A": "Diamondback rattlesnake",
+      "B": "Brown recluse spider",
+      "C": "Striped bark scorpion",
+      "D": "Deer tick"
+    }
+  },
+  "model_response": "The correct answer is A (Diamondback rattlesnake). The patient's symptoms are consistent with a pit viper envenomation, in this case a diamondback rattlesnake. The rattlesnake's venom is predominantly myotoxic, and the patient's physical examination findings of a bluish plaque with a central area of necrosis surrounded by a rim of erythema are consistent with a localized area of tissue necrosis. The rattlesnake's venom is also thrombogenic, and the patient's history of worsening pain, discoloration, and swelling are consistent with the development of thrombophlebitis. The patient's temperature of 38°C (100.4°F) is also consistent with the effects of snake venom. The diamondback rattlesnake is found throughout the southern United States, including Texas. The brown recluse spider (choice B) is associated with the development of a necrotic skin ulcer and the black widow spider (choice E) causes muscle rigidity and pain. The other choices do not cause the constellation of findings seen in this patient.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "worsening pain",
+      "type": "T184",
+      "umls_id": "C0853946",
+      "score": 0.9731222987174988,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "discoloration",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.979123592376709,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "right hand",
+      "type": "T023",
+      "umls_id": "C0230370",
+      "score": 0.9948804974555969,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "camping",
+      "type": "T056",
+      "umls_id": "C0006811",
+      "score": 0.9625434279441833,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Living outdoors as a recreational activity."
+    },
+    {
+      "text": "outdoors",
+      "type": "T083",
+      "umls_id": "C1709359",
+      "score": 0.9693940877914429,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Any area outside a building or shelter."
+    },
+    {
+      "text": "Texas",
+      "type": "T083",
+      "umls_id": "C0039711",
+      "score": 0.9656991362571716,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Oklahoma, on the east by Arkansas and Louisiana, on the south by Mexico, and on the west by New Mexico."
+    },
+    {
+      "text": "young",
+      "type": "T079",
+      "umls_id": "C0332239",
+      "score": 0.9816365838050842,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "awoken",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "middle",
+      "type": "T082",
+      "umls_id": "C0444598",
+      "score": 0.9769420027732849,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "An intermediate part or section; an area that is approximately central within some larger region."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "something",
+      "type": "T033",
+      "umls_id": "C4722293",
+      "score": 0.7418398857116699,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual identifies with a gender category not included in the existing list of values."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "wound",
+      "type": "T037",
+      "umls_id": "C0043250",
+      "score": 0.9788071513175964,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "bodily injury caused by physical means, with disruption of the normal continuity of structures."
+    },
+    {
+      "text": "painless",
+      "type": "T169",
+      "umls_id": "C0234226",
+      "score": 0.9535903930664062,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not causing physical or psychological misery, pain or distress."
+    },
+    {
+      "text": "reddening",
+      "type": "T184",
+      "umls_id": "C0016382",
+      "score": 0.7942180037498474,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A transient reddening of the face that may be due to fever, certain drugs, exertion, or stress."
+    },
+    {
+      "text": "blistering",
+      "type": "T033",
+      "umls_id": "C0005758",
+      "score": 0.9715294241905212,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Visible accumulations of fluid within or beneath the epidermis."
+    },
+    {
+      "text": "lesion",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9757081866264343,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "blue",
+      "type": "T080",
+      "umls_id": "C1260957",
+      "score": 0.9847831130027771,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The hue of that portion of the visible spectrum lying between green and indigo, evoked in the human observer by radiant energy with wavelengths of approximately 420 to 490 nanometers; any of a group of colors that may vary in lightness and saturation, whose hue is that of a clear daytime sky."
+    },
+    {
+      "text": "blackish discoloration",
+      "type": "T033",
+      "umls_id": "C4744477",
+      "score": 0.837745189666748,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A color change to black."
+    },
+    {
+      "text": "center",
+      "type": "T082",
+      "umls_id": "C0205099",
+      "score": 0.9827064275741577,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A point or area that is approximately central within some larger region or structure."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "bluish plaque",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "central area",
+      "type": "T082",
+      "umls_id": "C0205099",
+      "score": 0.7839694619178772,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A point or area that is approximately central within some larger region or structure."
+    },
+    {
+      "text": "necrosis",
+      "type": "T042",
+      "umls_id": "C0027540",
+      "score": 0.9831591248512268,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The death of cells in an organ or tissue due to disease, injury or failure of the blood supply."
+    },
+    {
+      "text": "surrounded",
+      "type": "T082",
+      "umls_id": "C1282914",
+      "score": 0.9776719212532043,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Extending on all sides of simultaneously; encircling."
+    },
+    {
+      "text": "rim",
+      "type": "T116",
+      "umls_id": "C1308727",
+      "score": 0.9763531684875488,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Retinoblastoma binding protein 8 (897 aa, ~102 kDa) is encoded by the human RBBP8 gene. This protein is involved in cell cycle checkpoint control."
+    },
+    {
+      "text": "erythema",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9885126948356628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "dorsum",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9752010703086853,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "right hand",
+      "type": "T023",
+      "umls_id": "C0230370",
+      "score": 0.9948804974555969,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "animals",
+      "type": "T008",
+      "umls_id": "C0003062",
+      "score": 0.973741888999939,
+      "semantic_types": [
+        "T008"
+      ],
+      "definition": "Unicellular or multicellular, heterotrophic organisms, that have sensation and the power of voluntary movement. Under the older five kingdom paradigm, Animalia was one of the kingdoms. Under the modern three domain model, Animalia represents one of the many groups in the domain EUKARYOTA."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "47-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

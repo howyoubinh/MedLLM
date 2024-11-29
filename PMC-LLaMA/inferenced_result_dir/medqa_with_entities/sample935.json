@@ -1,0 +1,183 @@
+{
+  "original_data": {
+    "question": "A 29-year-old female presents to the clinic for a regular check-up. She has no specific complaints. Vital signs include: blood pressure is 130/80 mm Hg, heart rate is 76/min, respiratory rate is 15/min, and temperature is 36.8°C (98.2°F). Her physical examination is within normal limits. The woman’s complete blood count shows an absolute increase in the cells shown in the first image. Which of the following is true regarding these cells?",
+    "options": {
+      "A": "These cells transform to macrophages when they migrate to peripheral tissues.",
+      "B": "These cells express CD25 on their surfaces.",
+      "C": "These cells normally constitute 25–40% of total leucocyte count.",
+      "D": "These cells have lymphoid origin."
+    }
+  },
+  "model_response": "The given cells are lymphocytes. These cells transform to macrophages when they migrate to peripheral tissues. These cells normally constitute 25–40% of total leucocyte count. These cells have a lymphoid origin. Some of these cells express CD25 on their surfaces.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "check-up",
+      "type": "T058",
+      "umls_id": "C0598836",
+      "score": 0.9549977779388428,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Checkup is a general examination or inspection, especially one carried out by a doctor or dentist."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "woman’s complete blood count",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.8990375995635986,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "absolute",
+      "type": "T080",
+      "umls_id": "C0205344",
+      "score": 0.9759930968284607,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Complete and without restriction or qualification; something that does not depend on anything else; not relative."
+    },
+    {
+      "text": "increase",
+      "type": "T169",
+      "umls_id": "C0442805",
+      "score": 0.9789021015167236,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A process of becoming larger, more numerous, more important, or more likely."
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "image",
+      "type": "T170",
+      "umls_id": "C1696103",
+      "score": 0.9951585531234741,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>A characteristic representing a single file reference that contains two or more views of the same dosage form of the product; in most cases this should represent front and back views of the dosage form, but occasionally additional views might be needed in order to capture all of the important physical characteristics of the dosage form. Any imprint and/or symbol should be clearly identifiable, and the viewer should not normally need to rotate the image in order to read it. Images that are submitted with SPL should be included in the same directory as the SPL file."
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

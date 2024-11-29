@@ -1,0 +1,455 @@
+{
+  "original_data": {
+    "question": "A 6-year-old African American boy is referred to the hospital by his family physician for jaundice, normocytic anemia, and severe bone pain. He has a history of several episodes of mild bone pain in the past treated with over the counter analgesics. On physical examination, the child is icteric with nonspecific pain in his hands. His hands are swollen, tender, and warm. There is no chest pain, abdominal pain, fever, or hematuria. A complete metabolic panel and complete blood count with manual differential are performed:\nTotal bilirubin\n8.4 mg/dL\nWBC\n9,800/mm3\nHemoglobin \n6.5 g/dL\nMCV 82.3 fL\nPlatelet count  465,000/mm3\nReticulocyte 7%\nPeripheral blood smear shows multiple clumps of elongated and curved cells and erythrocytes with nuclear remnant. The patient's hemoglobin electrophoresis result is pictured below. What is the most likely cause of his condition?",
+    "options": {
+      "A": "Sickle cell trait",
+      "B": "Sickle cell disease",
+      "C": "Hemoglobin F",
+      "D": "HbC"
+    }
+  },
+  "model_response": "The electrophoresis shows 2 bands in the region of the β-globin chain. The upper band, which is the slower-moving one, is the normal adult hemoglobin, while the lower band is hemoglobin S. The patient is therefore heterozygous for the sickle cell mutation.\n\nSickle cell trait (heterozygous state with 1 normal gene and 1 mutated gene) is usually asymptomatic and does not require any special treatment. Sickle cell disease (heterozygous state with 2 mutated genes) can cause hemolytic anemia, painful crises, and other complications.\n\nThe patient's bone pain is due to bone infarcts caused by sickled RBCs. The spleen is infarcted multiple times, leading to its progressive atrophy. The liver contains large amounts of hemosiderin due to repeated hemolysis.\n\nThe patient's mild jaundice is due to increased hemolysis. The peripheral blood smear shows sickle cells, which are crescent-shaped, and target cells, which are hemoglobin-rich. The Howell-Jolly bodies represent nuclear remnant.\n\nThe increased number of WBCs is due to a constant inflammatory state caused by the sickling process. The elevated MCV is due to retention of infarcted RBCs. The low hemoglobin is due to hemolysis.\n\nThe patient's clumping is due to the presence of target cells, which are hemoglobin-rich and cell-shaped. The clumping is enhanced by the addition of a low ionic strength medium, which promotes the polymerization of deoxygenated hemoglobin.\n\nSickle cell disease is most common in African Americans.\n\nHbC (choice D) is a mutation of hemoglobin that leads to hemolytic anemia.\n\nHemoglobin F (choice C) is a fetal form of hemoglobin that can be elevated in sickle cell disease patients who are being treated with hydroxyurea.\n\nHemoglobin E (choice E) is a mutation of hemoglobin that causes hemolytic anemia.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "African American",
+      "type": "T098",
+      "umls_id": "C0085756",
+      "score": 0.9757757186889648,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Denotes a person of African ancestral origins whose family settled in America."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "family physician",
+      "type": "T097",
+      "umls_id": "C1704221",
+      "score": 0.995156466960907,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those physicians who have completed the education requirements specified by the American Academy of Family Physicians."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "normocytic anemia",
+      "type": "T047",
+      "umls_id": "C0085577",
+      "score": 0.9747791290283203,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Anemia in which the red blood cell volume is normal."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "bone pain",
+      "type": "T184",
+      "umls_id": "C0151825",
+      "score": 0.9806250929832458,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the bones."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "mild bone pain",
+      "type": "T184",
+      "umls_id": "C0151825",
+      "score": 0.8006770610809326,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the bones."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "analgesics",
+      "type": "T109",
+      "umls_id": "C0002771",
+      "score": 0.9707352519035339,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "Compounds capable of relieving pain without the loss of CONSCIOUSNESS."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "icteric",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.9580596089363098,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "nonspecific",
+      "type": "T078",
+      "umls_id": "C0750540",
+      "score": 0.9915021061897278,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "His hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.7715245485305786,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "warm",
+      "type": "T033",
+      "umls_id": "C0582051",
+      "score": 0.995954692363739,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "hematuria",
+      "type": "T047",
+      "umls_id": "C0018965",
+      "score": 0.9939060807228088,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Presence of blood in the urine."
+    },
+    {
+      "text": "metabolic panel",
+      "type": "T043",
+      "umls_id": "C1524026",
+      "score": 0.790725588798523,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "The chemical reactions and pathways by which individual cells transform chemical substances. [GOC:go_curators]"
+    },
+    {
+      "text": "manual",
+      "type": "T073",
+      "umls_id": "C0024763",
+      "score": 0.9596276879310608,
+      "semantic_types": [
+        "T073",
+        "T170"
+      ],
+      "definition": "A small handbook."
+    },
+    {
+      "text": "differential",
+      "type": "T080",
+      "umls_id": "C0443199",
+      "score": 0.971472978591919,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Total bilirubin\n",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9635241627693176,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "WBC\n9,800/mm3\nHemoglobin \n6.5 g/dL",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "MCV",
+      "type": "T061",
+      "umls_id": "C0285131",
+      "score": 0.982687771320343,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A chemotherapy regimen consisting of cisplatin, methotrexate and vinblastine that may be used in the treatment of certain bladder cancers."
+    },
+    {
+      "text": "fL\n",
+      "type": "T083",
+      "umls_id": "C0016253",
+      "score": 0.9481987953186035,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on east by the Atlantic Ocean, on the south by the Gulf of Mexico, on the west by Alabama and on the north by Alabama and Georgia."
+    },
+    {
+      "text": "Reticulocyte",
+      "type": "T025",
+      "umls_id": "C0035286",
+      "score": 0.9877743124961853,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Immature ERYTHROCYTES. In humans, these are ERYTHROID CELLS that have just undergone extrusion of their CELL NUCLEUS. They still contain some organelles that gradually decrease in number as the cells mature. RIBOSOMES are last to disappear. Certain staining techniques cause components of the ribosomes to precipitate into characteristic \"reticulum\" (not the same as the ENDOPLASMIC RETICULUM), hence the name reticulocytes."
+    },
+    {
+      "text": "Peripheral blood smear",
+      "type": "T031",
+      "umls_id": "C0229664",
+      "score": 0.8488079905509949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood."
+    },
+    {
+      "text": "clumps",
+      "type": "T080",
+      "umls_id": "C0205387",
+      "score": 0.984843373298645,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "elongated",
+      "type": "T033",
+      "umls_id": "C1839798",
+      "score": 0.8590609431266785,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Distance from nasion to subnasale more than two standard deviations above the mean, or alternatively, an apparently increased length from the nasal root to the nasal base. [PMID:19152422]"
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "erythrocytes",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.987351655960083,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "nuclear remnant",
+      "type": "T082",
+      "umls_id": "C0521447",
+      "score": 0.7040687203407288,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Pertaining to the nucleus."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "hemoglobin electrophoresis",
+      "type": "T059",
+      "umls_id": "C0344440",
+      "score": 0.9885291457176208,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "6-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

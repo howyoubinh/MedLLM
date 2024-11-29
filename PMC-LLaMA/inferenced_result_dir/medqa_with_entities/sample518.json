@@ -1,0 +1,529 @@
+{
+  "original_data": {
+    "question": "A previously healthy 35-year-old primigravid woman at 12 weeks' gestation comes to the physician because of a fever, persistent headache, nausea, and abdominal discomfort for 1 week. During this time, she has also noticed that her gums bleed while brushing her teeth. A month ago, she returned from a camping trip to Sri Lanka. Her temperature is 39.3°C (102.8°F), pulse is 104/min, respirations are 24/min, and blood pressure is 135/88 mm Hg. Examination shows pallor and mild scleral icterus. There are a few scattered petechiae over the trunk and back. There is no lymphadenopathy. Physical and neurologic examinations show no other abnormalities. Test of the stool for occult blood is positive. Laboratory studies show:\nHemoglobin 8.2 g/dL\nLeukocyte count 10,000/mm3\nPlatelet count 18,000/mm3\nINR 1.0\nCoomb's test negative\nFibrin split products negative\nSerum\nUrea 20 mg/dL\nCreatinine 1.1 mg/dL\nBilirubin\nTotal 3.0 mg/dL\nDirect 0.8 mg/dL\nAlanine aminotransferase 20 U/L\nAspartate aminotransferase 16 U/L\nLactate dehydrogenase 900 U/L\nUrine\nProtein 1+\nWBCs occasional\nRBCs 50–60/hpf\nBacteria nil\nA photograph of the peripheral blood smear is shown. Blood and urine cultures are negative. Which of the following is the most likely diagnosis?\"",
+    "options": {
+      "A": "HELLP syndrome",
+      "B": "Thrombotic thrombocytopenic purpura",
+      "C": "Hemolytic uremic syndrome",
+      "D": "Autoimmune hemolytic anemia\n\""
+    }
+  },
+  "model_response": "The peripheral blood smear shows numerous schistocytes, or fragmented red blood cells, suggesting hemolysis. The direct and indirect Coomb's tests are negative, ruling out immune-mediated hemolysis. The blood urea nitrogen and creatinine are only slightly elevated, and the patient does not have any symptoms or signs of renal failure. The patient's severe anemia, thrombocytopenia, and abnormal liver enzymes are consistent with HELLP syndrome. This is a complication of pregnancy-induced hypertension. The patient's history of a camping trip to Sri Lanka suggests the possibility of exposure to malaria, which could produce a presentation similar to this. However, the blood smear does not show any malarial parasites, and the Coomb's tests are negative. Hemolytic uremic syndrome (choice C) is unlikely because the patient does not have any renal dysfunction. The patient's platelet count is not low enough for a diagnosis of thrombotic thrombocytopenic purpura (choice B).Diagnosis: HELLP syndrome\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "primigravid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "persistent headache",
+      "type": "T184",
+      "umls_id": "C0744648",
+      "score": 0.9799495339393616,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "abdominal discomfort",
+      "type": "T184",
+      "umls_id": "C0232487",
+      "score": 0.9542143940925598,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "gums bleed",
+      "type": "T046",
+      "umls_id": "C0017565",
+      "score": 0.9712193608283997,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The flowing of blood from the marginal gingival area, particularly the sulcus, seen in such conditions as GINGIVITIS, marginal PERIODONTITIS, injury, and ASCORBIC ACID DEFICIENCY."
+    },
+    {
+      "text": "brushing",
+      "type": "T061",
+      "umls_id": "C0040461",
+      "score": 0.9644243121147156,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The act of cleaning teeth with a brush to remove plaque and prevent tooth decay. (From Webster, 3d ed)"
+    },
+    {
+      "text": "teeth",
+      "type": "T023",
+      "umls_id": "C0040426",
+      "score": 0.9633482694625854,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of a set of bone-like structures in the mouth used for biting and chewing."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "camping",
+      "type": "T056",
+      "umls_id": "C0006811",
+      "score": 0.9625434279441833,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Living outdoors as a recreational activity."
+    },
+    {
+      "text": "Sri Lanka",
+      "type": "T083",
+      "umls_id": "C0038088",
+      "score": 0.9665892124176025,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Country in southern Asia, an island in the Indian Ocean, south of India. The capital is Colombo."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pallor",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9879653453826904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "mild scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.8517141938209534,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "scattered",
+      "type": "T082",
+      "umls_id": "C0439742",
+      "score": 0.980198085308075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "petechiae",
+      "type": "T047",
+      "umls_id": "C0031256",
+      "score": 0.9828585982322693,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Purple or red hemorrhagic pinpoint spots in the skin or mucous membranes."
+    },
+    {
+      "text": "trunk",
+      "type": "T023",
+      "umls_id": "C0225442",
+      "score": 0.9839140772819519,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "back",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9834582209587097,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "no lymphadenopathy",
+      "type": "T033",
+      "umls_id": "C0558762",
+      "score": 0.9889369010925293,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Physical",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9765394330024719,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "neurologic examinations",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.978002667427063,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "abnormalities",
+      "type": "T019",
+      "umls_id": "C0000768",
+      "score": 0.9868227243423462,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Malformations of organs or body parts during development in utero."
+    },
+    {
+      "text": "stool",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9800705909729004,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "occult",
+      "type": "T078",
+      "umls_id": "C0028794",
+      "score": 0.9953896403312683,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The belief in or study of practices and knowledge of magical, mystical, or supernatural powers. ALCHEMY, astrology, and many RELIGIOUS PHILOSOPHIES are based upon occult principles."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Coomb's test",
+      "type": "T059",
+      "umls_id": "C0009961",
+      "score": 0.923222005367279,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A test to detect non-agglutinating ANTIBODIES against ERYTHROCYTES by use of anti-antibodies (the Coombs' reagent.) The direct test is applied to freshly drawn blood to detect antibody bound to circulating red cells. The indirect test is applied to serum to detect the presence of antibodies that can bind to red blood cells."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Bilirubin\nTotal",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9635241627693176,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "Alanine aminotransferase",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9869809150695801,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "Aspartate aminotransferase",
+      "type": "T116",
+      "umls_id": "C0004002",
+      "score": 0.9847971200942993,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Enzymes of the transferase class that catalyze the conversion of L-aspartate and 2-ketoglutarate to oxaloacetate and L-glutamate. EC 2.6.1.1."
+    },
+    {
+      "text": "Urine\nProtein 1",
+      "type": "T059",
+      "umls_id": "C0262923",
+      "score": 0.9458667635917664,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the amount of protein present in a urine sample."
+    },
+    {
+      "text": "WBCs",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9898926019668579,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "photograph",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9877880811691284,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "peripheral blood smear",
+      "type": "T031",
+      "umls_id": "C0229664",
+      "score": 0.8488079905509949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood."
+    },
+    {
+      "text": "Blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "urine cultures",
+      "type": "T059",
+      "umls_id": "C0430404",
+      "score": 0.9731727838516235,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

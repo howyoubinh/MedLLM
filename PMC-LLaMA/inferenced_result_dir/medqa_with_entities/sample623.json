@@ -1,0 +1,255 @@
+{
+  "original_data": {
+    "question": "A group of investigators is studying the association between a fire retardant chemical used on furniture and interstitial lung disease. They use hospital records to identify 50 people who have been diagnosed with interstitial lung disease. They also identify a group of 50 people without interstitial lung disease who are matched in age and geographic location to those with the disease. The participants' exposure to the chemical is assessed by surveys and home visits. Which of the following best describes this study design?",
+    "options": {
+      "A": "Case-control study",
+      "B": "Case series",
+      "C": "Retrospective cohort study",
+      "D": "Randomized controlled trial"
+    }
+  },
+  "model_response": "{'A': 'Case-control study', 'B': 'Case series', 'C': 'Retrospective cohort study', 'D': 'Randomized controlled trial'}\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "investigators",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9824174046516418,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "association",
+      "type": "T041",
+      "umls_id": "C0004083",
+      "score": 0.9670478701591492,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A functional relationship between psychological phenomena of such nature that the presence of one tends to evoke the other; also, the process by which such a relationship is established."
+    },
+    {
+      "text": "chemical",
+      "type": "T103",
+      "umls_id": "C0220806",
+      "score": 0.9804664850234985,
+      "semantic_types": [
+        "T103"
+      ],
+      "definition": "A substance with a defined atomic or molecular structure that results from, or takes part in, reactions involving changes in its structure, composition, or properties."
+    },
+    {
+      "text": "furniture",
+      "type": "T073",
+      "umls_id": "C0016858",
+      "score": 0.9822651147842407,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "interstitial lung disease",
+      "type": "T047",
+      "umls_id": "C0206062",
+      "score": 0.9737378358840942,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of PULMONARY ALVEOLI that extends to the interstitium and beyond leading to diffuse PULMONARY FIBROSIS. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features."
+    },
+    {
+      "text": "hospital records",
+      "type": "T073",
+      "umls_id": "C0019980",
+      "score": 0.9721406102180481,
+      "semantic_types": [
+        "T073",
+        "T170"
+      ],
+      "definition": "Compilations of data on hospital activities and programs; excludes patient medical records."
+    },
+    {
+      "text": "people",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9665451645851135,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "interstitial lung disease",
+      "type": "T047",
+      "umls_id": "C0206062",
+      "score": 0.9737378358840942,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of PULMONARY ALVEOLI that extends to the interstitium and beyond leading to diffuse PULMONARY FIBROSIS. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features."
+    },
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "people",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9665451645851135,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "interstitial lung disease",
+      "type": "T047",
+      "umls_id": "C0206062",
+      "score": 0.9737378358840942,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A diverse group of lung diseases that affect the lung parenchyma. They are characterized by an initial inflammation of PULMONARY ALVEOLI that extends to the interstitium and beyond leading to diffuse PULMONARY FIBROSIS. Interstitial lung diseases are classified by their etiology (known or unknown causes), and radiological-pathological features."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "geographic",
+      "type": "T082",
+      "umls_id": "C1517526",
+      "score": 0.9732658863067627,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or relating to the science of geography; determined by geography."
+    },
+    {
+      "text": "location",
+      "type": "T082",
+      "umls_id": "C0450429",
+      "score": 0.9696084260940552,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A position, site, or point in space where something can be found."
+    },
+    {
+      "text": "disease",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9868216514587402,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "participants",
+      "type": "T098",
+      "umls_id": "C0679646",
+      "score": 0.9811772108078003,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Someone who takes part in an activity."
+    },
+    {
+      "text": "exposure to",
+      "type": "T080",
+      "umls_id": "C0332157",
+      "score": 0.9658212065696716,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The act of subjecting someone or something to an influencing experience."
+    },
+    {
+      "text": "chemical",
+      "type": "T103",
+      "umls_id": "C0220806",
+      "score": 0.9804664850234985,
+      "semantic_types": [
+        "T103"
+      ],
+      "definition": "A substance with a defined atomic or molecular structure that results from, or takes part in, reactions involving changes in its structure, composition, or properties."
+    },
+    {
+      "text": "assessed",
+      "type": "T052",
+      "umls_id": "C1516048",
+      "score": 0.9915058612823486,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The final result of a determination of the value, significance, or extent of."
+    },
+    {
+      "text": "surveys",
+      "type": "T170",
+      "umls_id": "C0038951",
+      "score": 0.9534350037574768,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A document used in a method of data collection that involves interviewing (or giving questionnaires to) a representative and often large group of people."
+    },
+    {
+      "text": "home visits",
+      "type": "T058",
+      "umls_id": "C0020043",
+      "score": 0.9941690564155579,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Visits to the patient's home by professional personnel for the purpose of diagnosis and/or treatment."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    }
+  ]
+}

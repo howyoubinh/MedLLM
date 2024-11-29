@@ -1,0 +1,207 @@
+{
+  "original_data": {
+    "question": "A 65-year-old woman schedules an appointment with her physician for evaluation of weight loss and weakness. The weakness is more noticeable when climbing stairs and combing hair. The weakness improves after brief exercise. She also has bladder incontinence for the past 4 weeks and was given an anticholinesterase agent with no improvement. What is the most likely cause of the symptoms?",
+    "options": {
+      "A": "Duchenne muscular dystrophy",
+      "B": "Hypothyroidism",
+      "C": "Myasthenia gravis",
+      "D": "Paraneoplastic syndrome from small cell carcinoma of the lung"
+    }
+  },
+  "model_response": "The symptoms of weakness and fatigue that improve with exercise and the finding of bladder incontinence point to the diagnosis of myasthenia gravis. The differential diagnosis includes a number of disorders that affect neuromuscular transmission. These include the autoimmune disorder myasthenia gravis, the toxic syndrome botulism, and the congenital syndrome Lambe-Eaton myasthenic syndrome (LEMS). Botulism is associated with a descending paralysis and does not improve with exercise. LEMS improves with exercise and is associated with small cell carcinoma of the lung. Duchenne muscular dystrophy is a childhood disease. Hypothyroidism is associated with fatigue and weight gain.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman schedules",
+      "type": "T170",
+      "umls_id": "C0086960",
+      "score": 0.7907808423042297,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An ordered list of times at which things are planned to occur."
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "noticeable",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "climbing",
+      "type": "T033",
+      "umls_id": "C0561942",
+      "score": 0.9798669219017029,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "combing hair",
+      "type": "T061",
+      "umls_id": "C0204714",
+      "score": 0.9776031970977783,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "brief exercise",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.7634155750274658,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "bladder",
+      "type": "T023",
+      "umls_id": "C0005682",
+      "score": 0.9762340784072876,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A musculomembranous sac along the URINARY TRACT. URINE flows from the KIDNEYS into the bladder via the ureters (URETER), and is held there until URINATION."
+    },
+    {
+      "text": "incontinence",
+      "type": "T047",
+      "umls_id": "C0021167",
+      "score": 0.981616735458374,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Involuntary passage of stool or urine from the body."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "anticholinesterase agent",
+      "type": "T109",
+      "umls_id": "C0008425",
+      "score": 0.9875291585922241,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Drugs that inhibit cholinesterases. The neurotransmitter ACETYLCHOLINE is rapidly hydrolyzed, and thereby inactivated, by cholinesterases. When cholinesterases are inhibited, the action of endogenously released acetylcholine at cholinergic synapses is potentiated. Cholinesterase inhibitors are widely used clinically for their potentiation of cholinergic inputs to the gastrointestinal tract and urinary bladder, the eye, and skeletal muscles; they are also used for their effects on the heart and the central nervous system."
+    },
+    {
+      "text": "no improvement",
+      "type": "T033",
+      "umls_id": "C3844714",
+      "score": 0.9612452983856201,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "original_data": {
+    "question": "A 37-year-old woman presents to your office with heartburn. Following an extensive workup, you diagnose her with a duodenal ulcer secondary to H. pylori infection. You prescribe triple therapy of omeprazole, clarithromycin, and amoxicillin. Which of the following best describes the mechanism of action of omeprazole?",
+    "options": {
+      "A": "Parasympathetic inhibition",
+      "B": "Reversible block of H2 receptors",
+      "C": "Inhibition of primary active transport",
+      "D": "Inhibition of 50S ribosomal subunit"
+    }
+  },
+  "model_response": "Omeprazole is a proton pump inhibitor that irreversibly blocks H+,K+-ATPase and inhibits gastric acid secretion. Clarithromycin is a macrolide antibiotic that inhibits bacterial protein synthesis. Amoxicillin is a penicillin derivative that inhibits bacterial cell wall synthesis.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "heartburn",
+      "type": "T184",
+      "umls_id": "C0018834",
+      "score": 0.948246419429779,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Substernal pain or burning sensation, usually associated with regurgitation of gastric juice into the esophagus."
+    },
+    {
+      "text": "workup",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "diagnose",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9817455410957336,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "duodenal ulcer",
+      "type": "T047",
+      "umls_id": "C0013295",
+      "score": 0.9588401317596436,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A PEPTIC ULCER located in the DUODENUM."
+    },
+    {
+      "text": "secondary to",
+      "type": "T080",
+      "umls_id": "C0175668",
+      "score": 0.9842695593833923,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Derived as a result of a primary condition; not direct or immediate; of second rank or importance or value."
+    },
+    {
+      "text": "H. pylori infection",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "triple therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.7220496535301208,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "omeprazole",
+      "type": "T109",
+      "umls_id": "C0028978",
+      "score": 0.9803848266601562,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A 4-methoxy-3,5-dimethylpyridyl, 5-methoxybenzimidazole derivative of timoprazole that is used in the therapy of STOMACH ULCERS and ZOLLINGER-ELLISON SYNDROME. The drug inhibits an H(+)-K(+)-EXCHANGING ATPASE which is found in GASTRIC PARIETAL CELLS."
+    },
+    {
+      "text": "clarithromycin",
+      "type": "T109",
+      "umls_id": "C0055856",
+      "score": 0.9895652532577515,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A semisynthetic macrolide antibiotic derived from ERYTHROMYCIN that is active against a variety of microorganisms. It can inhibit PROTEIN SYNTHESIS in BACTERIA by reversibly binding to the 50S ribosomal subunits. This inhibits the translocation of aminoacyl transfer-RNA and prevents peptide chain elongation."
+    },
+    {
+      "text": "amoxicillin",
+      "type": "T109",
+      "umls_id": "C0002645",
+      "score": 0.9741423726081848,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A broad-spectrum semisynthetic antibiotic similar to AMPICILLIN except that its resistance to gastric acid permits higher serum levels with oral administration."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "omeprazole",
+      "type": "T109",
+      "umls_id": "C0028978",
+      "score": 0.9803848266601562,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A 4-methoxy-3,5-dimethylpyridyl, 5-methoxybenzimidazole derivative of timoprazole that is used in the therapy of STOMACH ULCERS and ZOLLINGER-ELLISON SYNDROME. The drug inhibits an H(+)-K(+)-EXCHANGING ATPASE which is found in GASTRIC PARIETAL CELLS."
+    },
+    {
+      "text": "37-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

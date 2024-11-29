@@ -1,0 +1,403 @@
+{
+  "original_data": {
+    "question": "A 67-year-old man comes to the clinic complaining of fatigue and dizziness for the past 2 months. He reports that he gets tired easily compared to his baseline and feels dizzy when he exerts himself (e.g., when he walks long distances). His past medical history is significant for hypertension that is controlled with lisinopril. A physical examination demonstrates moderate hepatomegaly and lymphadenopathy. His laboratory studies are shown below.\n\nLeukocyte count and differential:\nLeukocyte count: 11,500/mm^3\nSegmented neutrophils: 40%\nBands: 3%\nEosinophils: 1%\nBasophils: 0%\nLymphocytes: 50%\nMonocytes: 8%\n\nHemoglobin: 11.2 g/dL\nPlatelet count: 120,000/mm^3\nMean corpuscular hemoglobin concentration: 31%\nMean corpuscular volume: 80 µm^3\nReticulocyte count: 3%\nLactate dehydrogenase: 45 U/L\n\nA subsequent flow cytometry test demonstrates CD20+ cells. What is the most likely finding you would expect in this patient?",
+    "options": {
+      "A": "Low levels of erythropoietin",
+      "B": "Low levels of leukocyte alkaline phosphatase (LAP)",
+      "C": "Presence of hairy cells",
+      "D": "Presence of smudge cells"
+    }
+  },
+  "model_response": "The presence of hairy cells is a rare cause of chronic lymphocytic leukemia (CLL). The presence of CD20+ cells on flow cytometry is consistent with CLL. The other findings in this patient are not consistent with CLL. Low levels of erythropoietin can cause anemia. Low levels of LAP can be seen in chronic myelogenous leukemia (CML). Smudge cells are seen in CLL.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "gets",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "baseline",
+      "type": "T122",
+      "umls_id": "C0168634",
+      "score": 0.9804818034172058,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "dizzy",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9601719975471497,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "himself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "walks long distances",
+      "type": "T081",
+      "umls_id": "C0012751",
+      "score": 0.7036905884742737,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The space separating two objects or points."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "controlled",
+      "type": "T169",
+      "umls_id": "C2587213",
+      "score": 0.9838930368423462,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "moderate",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.9828923940658569,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "hepatomegaly",
+      "type": "T033",
+      "umls_id": "C0019209",
+      "score": 0.9925906658172607,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the liver."
+    },
+    {
+      "text": "lymphadenopathy",
+      "type": "T047",
+      "umls_id": "C0497156",
+      "score": 0.9895341992378235,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An enlarged lymph node. Causes include viral and bacterial infections and cancers that affect the lymph nodes."
+    },
+    {
+      "text": "laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Leukocyte count",
+      "type": "T059",
+      "umls_id": "C0023508",
+      "score": 0.9761701822280884,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of WHITE BLOOD CELLS per unit volume in venous BLOOD. A differential leukocyte count measures the relative numbers of the different types of white cells."
+    },
+    {
+      "text": "differential",
+      "type": "T080",
+      "umls_id": "C0443199",
+      "score": 0.971472978591919,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Segmented",
+      "type": "T204",
+      "umls_id": "C0003096",
+      "score": 0.7587459683418274,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "A phylum of metazoan invertebrates comprising the segmented worms, and including marine annelids (POLYCHAETA), freshwater annelids, earthworms (OLIGOCHAETA), and LEECHES. Only the leeches are of medical interest. (Dorland, 27th ed)"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Bands",
+      "type": "T074",
+      "umls_id": "C0175723",
+      "score": 0.9705107808113098,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "device"
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Monocytes",
+      "type": "T025",
+      "umls_id": "C0026473",
+      "score": 0.9890480041503906,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Large, phagocytic mononuclear leukocytes produced in the vertebrate BONE MARROW and released into the BLOOD; contain a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles."
+    },
+    {
+      "text": "Hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "Reticulocyte",
+      "type": "T025",
+      "umls_id": "C0035286",
+      "score": 0.9877743124961853,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Immature ERYTHROCYTES. In humans, these are ERYTHROID CELLS that have just undergone extrusion of their CELL NUCLEUS. They still contain some organelles that gradually decrease in number as the cells mature. RIBOSOMES are last to disappear. Certain staining techniques cause components of the ribosomes to precipitate into characteristic \"reticulum\" (not the same as the ENDOPLASMIC RETICULUM), hence the name reticulocytes."
+    },
+    {
+      "text": "flow cytometry test",
+      "type": "T059",
+      "umls_id": "C0016263",
+      "score": 0.8673946857452393,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Technique using an instrument system for making, processing, and displaying one or more measurements on individual cells obtained from a cell suspension. Cells are usually stained with one or more fluorescent dyes specific to cell components of interest, e.g., DNA, and fluorescence of each cell is measured as it rapidly transverses the excitation beam (laser or mercury arc lamp). Fluorescence provides a quantitative measure of various biochemical and biophysical properties of the cell, as well as a basis for cell sorting. Other measurable optical parameters include light absorption and light scattering, the latter being applicable to the measurement of cell size, shape, density, granularity, and stain uptake."
+    },
+    {
+      "text": "CD20+",
+      "type": "T034",
+      "umls_id": "C3888518",
+      "score": 0.9828287363052368,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "A finding indicating that CD20 is present on cells or expressed by cells."
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "finding",
+      "type": "T184",
+      "umls_id": "C0037088",
+      "score": 0.9943349957466125,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical manifestations that can be either objective when observed by a physician, or subjective when perceived by the patient."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "67-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

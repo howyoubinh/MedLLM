@@ -1,0 +1,422 @@
+{
+  "original_data": {
+    "question": "A 28-year-old gravida 1 at 32 weeks gestation is evaluated for an abnormal ultrasound that showed fetal microcephaly. Early in the 1st trimester, she had fevers and headaches for 1 week. She also experienced myalgias, arthralgias, and a pruritic maculopapular rash. The symptoms resolved without any medications. A week prior to her symptoms, she had traveled to Brazil where she spent most of the evenings hiking. She did not use any mosquito repellents. There is no personal or family history of chronic or congenital diseases. Medications include iron supplementation and a multivitamin. She received all of the recommended childhood vaccinations. She does not drink alcohol or smoke cigarettes. The IgM and IgG titers for toxoplasmosis were negative. Which of the following is the most likely etiologic agent?",
+    "options": {
+      "A": "Dengue virus",
+      "B": "Rubella virus",
+      "C": "Toxoplasmosis",
+      "D": "Zika virus"
+    }
+  },
+  "model_response": "The symptoms of fever, headache, myalgias, arthralgias, and rash are consistent with dengue fever. The exposure to mosquitoes during hiking in Brazil raises the possibility of Zika virus infection. However, the negative IgM and IgG titers for toxoplasmosis make this diagnosis unlikely. Rubella virus infection during pregnancy can cause congenital malformations, but the symptoms of the mother during the 1st trimester are not consistent with rubella.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "gravida",
+      "type": "T033",
+      "umls_id": "C0600457",
+      "score": 0.9845533967018127,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of pregnancies, complete or incomplete, experienced by a female. It is different from PARITY, which is the number of offspring borne. (From Stedman, 26th ed)"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "fetal microcephaly",
+      "type": "T047",
+      "umls_id": "C2315667",
+      "score": 0.9858843088150024,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "1st trimester",
+      "type": "T079",
+      "umls_id": "C0032979",
+      "score": 0.9401121139526367,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The beginning third of a human PREGNANCY, from the first day of the last normal menstrual period (MENSTRUATION) through the completion of 14 weeks (98 days) of gestation."
+    },
+    {
+      "text": "fevers",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9832536578178406,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "myalgias",
+      "type": "T184",
+      "umls_id": "C0231528",
+      "score": 0.9852516055107117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the muscles."
+    },
+    {
+      "text": "arthralgias",
+      "type": "T184",
+      "umls_id": "C0003862",
+      "score": 0.9711242318153381,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the joint."
+    },
+    {
+      "text": "pruritic",
+      "type": "T184",
+      "umls_id": "C0033774",
+      "score": 0.7727360129356384,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An intense itching sensation that produces the urge to rub or scratch the skin to obtain relief."
+    },
+    {
+      "text": "maculopapular rash",
+      "type": "T033",
+      "umls_id": "C0423791",
+      "score": 0.9831873178482056,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A skin condition consisting of both macules and papules."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Brazil",
+      "type": "T083",
+      "umls_id": "C0006137",
+      "score": 0.9753754138946533,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country located on the eastern coast of South America, located between Colombia and Peru, that borders the Atlantic Ocean. It is bordered on the north by Venezuela, Guyana, Suriname, and French Guiana, on the south by Uruguay, and on the west by Argentina. The capital is Brasilia."
+    },
+    {
+      "text": "evenings",
+      "type": "T079",
+      "umls_id": "C0587117",
+      "score": 0.8132383823394775,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between late afternoon and bedtime."
+    },
+    {
+      "text": "hiking",
+      "type": "T056",
+      "umls_id": "C4255280",
+      "score": 0.9310136437416077,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "The activity of walking for recreation, exercise, or training that is usually strenuous and on unpaved surfaces."
+    },
+    {
+      "text": "mosquito repellents",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "family history of",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9852851629257202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "chronic",
+      "type": "T079",
+      "umls_id": "C0205191",
+      "score": 0.991936981678009,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Usually used to describe a condition that is persistent and long standing."
+    },
+    {
+      "text": "congenital diseases",
+      "type": "T047",
+      "umls_id": "C0242354",
+      "score": 0.9836536049842834,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "existing at, and usually before, birth; referring to conditions that are present at birth, regardless of their causation; inborn metabolism disorders are generally not treed here."
+    },
+    {
+      "text": "Medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "iron supplementation",
+      "type": "T061",
+      "umls_id": "C0242297",
+      "score": 0.8594713807106018,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The addition of one or more elements and/or chemical compounds that are either absent or deficient in an individual's daily diet."
+    },
+    {
+      "text": "multivitamin",
+      "type": "T109",
+      "umls_id": "C0301532",
+      "score": 0.987159252166748,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)"
+    },
+    {
+      "text": "recommended",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.9742531180381775,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "childhood",
+      "type": "T079",
+      "umls_id": "C0231335",
+      "score": 0.9773955941200256,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time period that begins at the beginning of the human embryonic stage and continues until the end of adolescence."
+    },
+    {
+      "text": "vaccinations",
+      "type": "T061",
+      "umls_id": "C0042196",
+      "score": 0.9722127318382263,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Administration of vaccines to stimulate the host's immune response. This includes any preparation intended for active immunological prophylaxis."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "smoke cigarettes",
+      "type": "T131",
+      "umls_id": "C0239059",
+      "score": 0.9804567098617554,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": null
+    },
+    {
+      "text": "IgM",
+      "type": "T116",
+      "umls_id": "C0020861",
+      "score": 0.99686199426651,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "A class of immunoglobulin bearing mu chains (IMMUNOGLOBULIN MU-CHAINS). IgM can fix COMPLEMENT. The name comes from its high molecular weight and originally was called a macroglobulin."
+    },
+    {
+      "text": "IgG",
+      "type": "T116",
+      "umls_id": "C0020852",
+      "score": 0.9985058903694153,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "The major immunoglobulin isotype class in normal human serum. There are several isotype subclasses of IgG, for example, IgG1, IgG2A, and IgG2B."
+    },
+    {
+      "text": "titers",
+      "type": "T081",
+      "umls_id": "C0475208",
+      "score": 0.7500576376914978,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Concentration of a substance in a solution as determined by the quantitative reaction with added measured volume(s) of a solution of the precisely known concentration(s) of a standard reagent."
+    },
+    {
+      "text": "toxoplasmosis",
+      "type": "T047",
+      "umls_id": "C0040558",
+      "score": 0.9744333028793335,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The acquired form of infection by Toxoplasma gondii in animals and man."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "etiologic agent",
+      "type": "T167",
+      "umls_id": "C1254373",
+      "score": 0.975187361240387,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": null
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

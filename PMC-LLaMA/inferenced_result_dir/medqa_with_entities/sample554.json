@@ -1,0 +1,321 @@
+{
+  "original_data": {
+    "question": "A 30-year-old woman presents to the emergency department with a recent episode of chest pain. She says she was previously well and denies any history of similar symptoms. She reports that, at onset, she felt as if she was going to die and says her heart beating has been beating really fast. There was also profuse sweating, and she says she feels short of breath. She could not recall how long the event lasted but can remember that the symptoms did go away on their own by the time she arrived at the emergency department. Her vitals rapidly returned to normal while giving her medical history and she begins to look and act more calm. No significant past medical history or current medications.  Physical examination is unremarkable. Her electrocardiogram and initial cardiac enzymes are normal. Which the following is necessary to confirm the most likely diagnosis in this patient?",
+    "options": {
+      "A": "1 month of associated symptoms ",
+      "B": "Disruptive events lasting > 30 minutes on 2 separate occasions",
+      "C": "Family history",
+      "D": "Agoraphobia"
+    }
+  },
+  "model_response": "The patient's symptoms are suggestive of panic attacks. Panic attacks are defined as discrete episodes of intense fear or discomfort in which 4 or more of the following symptoms develop abruptly and reach a peak within 10 minutes: (1) palpitations, (2) sweating, (3) trembling or shaking, (4) shortness of breath or smothering sensation, (5) feeling of choking, (6) chest pain or discomfort, (7) nausea or abdominal distress, (8) feeling dizzy, unsteady, lightheaded or faint, (9) derealization or depersonalization, (10) fear of losing control or going crazy, (11) fear of dying, and (12) paresthesias. The attacks are often associated with a fear of open spaces or crowds. The attacks are usually triggered by a specific situation or object. The patient should have at least 1 month of associated symptoms. The disruptive events should last > 30 minutes on 2 separate occasions. Family history of panic disorder is a risk factor. Agoraphobia is a common comorbid condition.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "similar",
+      "type": "T080",
+      "umls_id": "C2348205",
+      "score": 0.9904871582984924,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of being alike; having characteristics in common."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "die",
+      "type": "T079",
+      "umls_id": "C0556984",
+      "score": 0.7854388952255249,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Three times per day."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "heart beating",
+      "type": "T042",
+      "umls_id": "C0027045",
+      "score": 0.9773763418197632,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Contractile activity of the MYOCARDIUM."
+    },
+    {
+      "text": "fast",
+      "type": "T033",
+      "umls_id": "C0015663",
+      "score": 0.9840474724769592,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abstaining from FOOD."
+    },
+    {
+      "text": "sweating",
+      "type": "T033",
+      "umls_id": "C0038990",
+      "score": 0.9434435963630676,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The process of exocrine secretion of the SWEAT GLANDS, including the aqueous sweat from the ECCRINE GLANDS and the complex viscous fluids of the APOCRINE GLANDS."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "event",
+      "type": "T051",
+      "umls_id": "C0441471",
+      "score": 0.9657253623008728,
+      "semantic_types": [
+        "T051"
+      ],
+      "definition": "Something that happens at a given place and time."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "begins",
+      "type": "T079",
+      "umls_id": "C0439659",
+      "score": 0.7691951394081116,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The place where something begins or comes from in either the sense of a physical location or a metaphysical source."
+    },
+    {
+      "text": "calm",
+      "type": "T041",
+      "umls_id": "C0522165",
+      "score": 0.9573638439178467,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A feeling of freedom from agitation or excitement."
+    },
+    {
+      "text": "No significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "electrocardiogram",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.9919003248214722,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "initial",
+      "type": "T079",
+      "umls_id": "C0205265",
+      "score": 0.9786567091941833,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cardiac enzymes",
+      "type": "T116",
+      "umls_id": "C0443763",
+      "score": 0.9812842011451721,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "30-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

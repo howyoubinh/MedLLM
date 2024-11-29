@@ -1,0 +1,601 @@
+{
+  "original_data": {
+    "question": "A 36-year-old man is brought to the emergency department because of multiple episodes of nonbilious emesis for 3 days. The vomitus consists of undigested food and he has also had dark brown emesis twice today. He has been having early satiety during this period. He has had progressive severe episodic epigastric pain and dyspepsia for the past week. The pain is partially relieved with food or over-the-counter antacids, but worsens at night and several hours after eating. He has also had a weight gain of 2 kg (4.4 lbs) during this period. His father underwent surgery for colon cancer 3 years ago. He has smoked one pack of cigarettes daily for the last 15 years. He drinks two to three beers daily. His temperature is 37.1°C (98.8°F), pulse is 106/min and blood pressure is 108/68 mm Hg. Examination shows dry mucous membranes. The abdomen is mildly tender to palpation in the left upper quadrant; there is a tympanitic mass in the epigastrium. A succussion splash is heard with a stethoscope when the patient is rocked back and forth at the hips. Bowel sounds are reduced. Rectal examination is unremarkable. Test of the stool for occult blood is positive. The remainder of the examination shows no abnormalities. Serum studies show:\nNa+ 135 mEq/L\nK+ 3.3 mEq/L\nCl- 97 mEq/L\nUrea nitrogen 46 mg/dL\nGlucose 77 mg/dL\nCreatinine 1.4 mg/dL\nWhich of the following is the underlying cause of this patient's vomiting?\"",
+    "options": {
+      "A": "Inflammation and edema",
+      "B": "Abnormal gastric rotation",
+      "C": "Neoplastic growth",
+      "D": "Walled-off pancreatic fluid collection"
+    }
+  },
+  "model_response": "This patient has signs and symptoms of small bowel obstruction. The succussion splash is a classic finding in small bowel obstruction. The patient has a history of smoking and has developed a right-sided colon cancer. The obstruction is likely due to the primary tumor and the resultant inflammation and edema in the colon. The patient's electrolyte studies show a hyponatremia (Na+ 135 mEq/L), which is common in small bowel obstruction due to the loss of fluid into the bowel. The patient's potassium (K+ 3.3 mEq/L), chloride (Cl- 97 mEq/L), blood urea nitrogen (BUN) (46 mg/dL), glucose (77 mg/dL), and creatinine (1.4 mg/dL) are within normal limits. The patient's symptoms of nonbilious emesis, early satiety, abdominal pain, and weight loss are consistent with a malignant process. The patient's history of smoking and colon cancer in a first-degree relative are also risk factors for the development of colon cancer. The patient's physical examination shows dry mucous membranes, which is also consistent with dehydration due to the vomiting. The tympanitic mass in the epigastrium is due to the intestinal obstruction. The stool test for occult blood is positive, which is also consistent with an upper gastrointestinal bleed. The patient's plain abdominal radiograph shows dilated loops of bowel with a paucity of gas in the distal small bowel and colon. The CT scan shows a mass in the right colon and a dilated loop of bowel proximal to the mass. The CT scan also shows a small amount of fluid in the right paracolic gutter.\n\nOption A: Inflammation and edema\n\nThe patient's symptoms and physical examination findings are more consistent with a mechanical obstruction rather than inflammation and edema. The patient's electrolyte studies do not show a significant increase in the BUN or creatinine, which would be expected in a case of inflammation and edema. The patient's plain abdominal radiograph and CT scan do not show the typical findings of inflammation and edema, such as a fluid-filled bowel and bowel wall thickening.\n\nOption B: Abnormal gastric rotation\n\nThe patient's symptoms, physical examination findings, and imaging studies are not consistent with an abnormal gastric rotation. An abnormal gastric rotation would not cause vomiting, abdominal pain, or a tympanitic mass in the epigastrium. Imaging studies would show a mass in the stomach, which is not the case in this patient.\n\nOption C: Neoplastic growth\n\nThe patient's symptoms, physical examination findings, and imaging studies are all consistent with a neoplastic growth. The patient has a history of colon cancer in a first-degree relative and has developed a right-sided colon cancer. The patient's symptoms of nonbilious emesis, early satiety, abdominal pain, and weight loss are all consistent with a malignant process. The patient's physical examination findings of dry mucous membranes and a tympanitic mass in the epigastrium are also consistent with a malignant process. The imaging studies show a mass in the right colon and a dilated loop of bowel proximal to the mass. The patient's electrolyte studies show a hyponatremia, which is common in cases of malignant bowel obstruction.\n\nOption D: Walled-off pancreatic fluid collection\n\nThe patient's symptoms, physical examination findings, and imaging studies are not consistent with a walled-off pancreatic fluid collection. A walled-off pancreatic fluid collection would not cause vomiting, abdominal pain, or a tympanitic mass in the epigastrium. Imaging studies would show a fluid collection, which is not the case in this patient.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "nonbilious",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emesis",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9846303462982178,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "vomitus",
+      "type": "T031",
+      "umls_id": "C0042965",
+      "score": 0.9619128704071045,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Gastrointestinal contents that have returned to the mouth or are ejected beyond the mouth."
+    },
+    {
+      "text": "undigested food",
+      "type": "T031",
+      "umls_id": "C0558301",
+      "score": 0.9843149185180664,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dark",
+      "type": "T080",
+      "umls_id": "C0332582",
+      "score": 0.99537193775177,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "brown emesis",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "episodic epigastric pain",
+      "type": "T184",
+      "umls_id": "C0232493",
+      "score": 0.8344318270683289,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The location of the pain is in the upper and middle region of the abdomen, located within the sternal angle."
+    },
+    {
+      "text": "dyspepsia",
+      "type": "T184",
+      "umls_id": "C0013395",
+      "score": 0.983700156211853,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Impaired digestion, especially after eating."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "food",
+      "type": "T168",
+      "umls_id": "C0016452",
+      "score": 0.991826593875885,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Substances taken in by the body to provide nourishment."
+    },
+    {
+      "text": "antacids",
+      "type": "T121",
+      "umls_id": "C0003138",
+      "score": 0.9707466959953308,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Substances that counteract or neutralize acidity of the GASTROINTESTINAL TRACT."
+    },
+    {
+      "text": "worsens",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9901487231254578,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "eating",
+      "type": "T040",
+      "umls_id": "C0013470",
+      "score": 0.9728949666023254,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The consumption of edible substances."
+    },
+    {
+      "text": "weight gain",
+      "type": "T033",
+      "umls_id": "C0043094",
+      "score": 0.9628818035125732,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Increase in BODY WEIGHT over existing weight."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "colon cancer",
+      "type": "T191",
+      "umls_id": "C0007102",
+      "score": 0.9861949682235718,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm that affects the colon. Representative examples include carcinoma, lymphoma, and sarcoma."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beers",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9762206673622131,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "mildly tender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "left upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230179",
+      "score": 0.9745408296585083,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the left of the patient, and from the umbilical plane to the left ribcage."
+    },
+    {
+      "text": "tympanitic mass",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "epigastrium",
+      "type": "T029",
+      "umls_id": "C0230185",
+      "score": 0.9772546887397766,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper central region of the abdomen between the costal margins and the subcostal plane."
+    },
+    {
+      "text": "succussion",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "stethoscope",
+      "type": "T074",
+      "umls_id": "C0183559",
+      "score": 0.9935169219970703,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Instruments intended to detect and study sound produced by the heart, lungs, or other parts of the body. (from UMDNS, 1999)"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "forth",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hips",
+      "type": "T023",
+      "umls_id": "C0019552",
+      "score": 0.9943860173225403,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The projecting part on each side of the body, formed by the side of the pelvis and the top portion of the femur."
+    },
+    {
+      "text": "Bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232693",
+      "score": 0.9843449592590332,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reduced",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.9816093444824219,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "Rectal examination",
+      "type": "T060",
+      "umls_id": "C0199900",
+      "score": 0.9670853614807129,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stool",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9800705909729004,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "occult",
+      "type": "T078",
+      "umls_id": "C0028794",
+      "score": 0.9953896403312683,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The belief in or study of practices and knowledge of magical, mystical, or supernatural powers. ALCHEMY, astrology, and many RELIGIOUS PHILOSOPHIES are based upon occult principles."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Serum studies",
+      "type": "T091",
+      "umls_id": "C0036745",
+      "score": 0.9744794964790344,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of serum, especially of antigen-antibody reactions in vitro."
+    },
+    {
+      "text": "Na+",
+      "type": "T196",
+      "umls_id": "C0597484",
+      "score": 0.9633213877677917,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "chief cation of the extracellular body fluids."
+    },
+    {
+      "text": "patient's vomiting",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

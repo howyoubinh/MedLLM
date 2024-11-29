@@ -1,0 +1,316 @@
+{
+  "original_data": {
+    "question": "A 62-year old female comes to the physician because of vaginal spotting and urinary urgency for the past 4 days. She has had no fever, abdominal pain, or diarrhea. Menopause occurred at 52 years of age. Her last Pap smear 1 year ago was normal. She has hypertension, hypercholesterolemia, and diabetes. Medications include atorvastatin, hydrochlorothiazide, metformin, and aspirin. She is sexually active with her husband. Her temperature is 37°C (98.6°F), pulse is 95/min, respirations are 12/min, and blood pressure is 155/65 mm Hg. Pelvic exam demonstrates a 4 x 3 cm firm, immobile erythematous mass on the right inner vaginal wall. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Pap smear",
+      "B": "Biopsy of the mass",
+      "C": "Incision and drainage",
+      "D": "Urine gonorrhea and chlamydia testing"
+    }
+  },
+  "model_response": "The patient's age and vaginal mass place her at risk for vaginal cancer. The best next step in management is a biopsy of the mass to confirm the diagnosis. Pap smears are not considered sufficient for diagnosis in this situation. Although urine gonorrhea and chlamydia testing should be considered in sexually active women, the risk in this patient is not high enough to warrant testing. Incision and drainage is not appropriate because there is no abscess.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "62-year old",
+      "type": "AGE_VALUE"
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "vaginal spotting",
+      "type": "T033",
+      "umls_id": "C0728993",
+      "score": 0.9580276608467102,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urinary urgency",
+      "type": "T184",
+      "umls_id": "C0085606",
+      "score": 0.989217221736908,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An acute and compelling urge to urinate."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "no fever",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "Menopause",
+      "type": "T039",
+      "umls_id": "C0025320",
+      "score": 0.9641866683959961,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The last menstrual period. Permanent cessation of menses (MENSTRUATION) is usually defined after 6 to 12 months of AMENORRHEA in a woman over 45 years of age. In the United States, menopause generally occurs in women between 48 and 55 years of age."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hypercholesterolemia",
+      "type": "T047",
+      "umls_id": "C0020443",
+      "score": 0.9879153370857239,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A condition with abnormally high levels of CHOLESTEROL in the blood. It is defined as a cholesterol value exceeding the 95th percentile for the population."
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "sexually active",
+      "type": "T033",
+      "umls_id": "C0241028",
+      "score": 0.9596645832061768,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is or was sexually active."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Pelvic exam",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9772384762763977,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "immobile",
+      "type": "T033",
+      "umls_id": "C0231441",
+      "score": 0.9889448285102844,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is not mobile."
+    },
+    {
+      "text": "erythematous mass",
+      "type": "T033",
+      "umls_id": "C2228270",
+      "score": 0.7456514835357666,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A macule (flat, distinct, discolored area of skin less than 1 cm wide that does not involve any change in the thickness or texture of the skin) with a red or reddish color often associated with inflammation or irritation. []"
+    },
+    {
+      "text": "right inner vaginal wall",
+      "type": "T023",
+      "umls_id": "C0447612",
+      "score": 0.7043747305870056,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The tissue layers that enclose the vaginal canal."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    }
+  ]
+}

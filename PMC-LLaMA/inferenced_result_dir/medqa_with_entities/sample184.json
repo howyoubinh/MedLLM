@@ -1,0 +1,517 @@
+{
+  "original_data": {
+    "question": "A 78-year-old man is brought to the physician by his daughter because of increasing forgetfulness over the past 5 weeks. He had been living independently but came to live with his daughter temporarily after he complained that he was unable to perform some of his daily activities. He has left the front door wide open and tap water running on multiple occasions. He does not sleep well and wakes up 6–7 times during the night. He does not leave his room and rarely makes conversation with his daughter. He says that he used to enjoy playing the piano but has not played for several months. He has hypertension treated with amlodipine. Vital signs are within normal limits. Mental status examination shows orientation to person, place, and time and psychomotor retardation. He has a blunted affect. Short- and long-term memory is impaired. Attention and concentration are impaired. Neurologic examination shows no focal findings. Serum concentration of electrolytes, thyroid-stimulating hormone, and vitamin B12 are within the reference range. He is very concerned about his memory lapses. Which of the following is the most appropriate treatment for this patient?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Aspirin",
+      "C": "Ventriculoperitoneal shunt",
+      "D": "Memantine"
+    }
+  },
+  "model_response": "The patient's cognitive decline and impairment of activities of daily living developed acutely over a period of 5 weeks. The history of leaving the front door open and of turning on the tap water are suggestive of impairment in executive functions. The patient has no significant findings on physical examination and laboratory studies. The most likely diagnosis is dementia, and the most common cause of dementia in the elderly is Alzheimer's disease (AD). The frontal lobe is the area of the brain most closely associated with executive functions, and the most common finding in AD is neuritic plaques and neurofibrillary tangles in the frontal and temporal lobes. The mainstay of treatment for AD is the use of centrally acting cholinergic agents. The most commonly used cholinergic agents are the acetylcholinesterase inhibitors (eg, donepezil, galantamine, rivastigmine). These agents inhibit the breakdown of acetylcholine and thus increase the availability of this neurotransmitter. Fluoxetine is an antidepressant that acts by inhibiting the reuptake of serotonin. It is not indicated in the treatment of AD. Aspirin is used for its antiplatelet effect and to prevent cardiovascular events. It is not indicated in the treatment of AD. Ventriculoperitoneal shunt is used in the treatment of normal-pressure hydrocephalus, which is characterized by gait disturbance, urinary incontinence, and dementia. This patient's clinical picture is not consistent with normal-pressure hydrocephalus. Memantine is an NMDA receptor antagonist indicated in the treatment of AD.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "forgetfulness",
+      "type": "T184",
+      "umls_id": "C0542476",
+      "score": 0.9552605748176575,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "live",
+      "type": "T080",
+      "umls_id": "C1548795",
+      "score": 0.9870380163192749,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "complained",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7599999308586121,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "daily activities",
+      "type": "T056",
+      "umls_id": "C0871707",
+      "score": 0.9752006530761719,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": null
+    },
+    {
+      "text": "water",
+      "type": "T121",
+      "umls_id": "C0043047",
+      "score": 0.9369778037071228,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A clear, odorless, tasteless liquid that is essential for most animal and plant life and is an excellent solvent for many substances. The chemical formula is hydrogen oxide (H2O). (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "occasions",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.7853838801383972,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "leave his",
+      "type": "T052",
+      "umls_id": "C1706081",
+      "score": 0.7646254897117615,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of leaving a destination."
+    },
+    {
+      "text": "room",
+      "type": "T082",
+      "umls_id": "C1547120",
+      "score": 0.9864740967750549,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rarely",
+      "type": "T080",
+      "umls_id": "C0522498",
+      "score": 0.9886333346366882,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not often."
+    },
+    {
+      "text": "conversation",
+      "type": "T054",
+      "umls_id": "C0871703",
+      "score": 0.9522320032119751,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "piano",
+      "type": "T073",
+      "umls_id": "C0871855",
+      "score": 0.9928081631660461,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "amlodipine",
+      "type": "T109",
+      "umls_id": "C0051696",
+      "score": 0.9584440588951111,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "orientation",
+      "type": "T041",
+      "umls_id": "C0029266",
+      "score": 0.9770321846008301,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Awareness of oneself in relation to time, place and person."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "psychomotor retardation",
+      "type": "T033",
+      "umls_id": "C5441816",
+      "score": 0.9689716100692749,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally slow physical movement."
+    },
+    {
+      "text": "affect",
+      "type": "T041",
+      "umls_id": "C0001721",
+      "score": 0.9883648753166199,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The feeling-tone accompaniment of an idea or mental representation. It is the most direct psychic derivative of instinct and the psychic representative of the various bodily changes by means of which instincts manifest themselves."
+    },
+    {
+      "text": "Short-",
+      "type": "T081",
+      "umls_id": "C1806781",
+      "score": 0.7234399318695068,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Having little (physical) length or seeming to be limited in (temporal) duration."
+    },
+    {
+      "text": "long-term",
+      "type": "T079",
+      "umls_id": "C0443252",
+      "score": 0.9621292948722839,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Involving or being in effect for a long time."
+    },
+    {
+      "text": "memory",
+      "type": "T041",
+      "umls_id": "C0025260",
+      "score": 0.9859048128128052,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Complex mental function having four distinct phases: (1) memorizing or learning, (2) retention, (3) recall, and (4) recognition. Clinically, it is usually subdivided into immediate, recent, and remote memory."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "Attention",
+      "type": "T041",
+      "umls_id": "C0004268",
+      "score": 0.9604302644729614,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Focusing on certain aspects of current experience to the exclusion of others. It is the act of heeding or taking notice or concentrating."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "Neurologic examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9734473824501038,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "focal findings",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "electrolytes",
+      "type": "T121",
+      "umls_id": "C0013832",
+      "score": 0.9859793186187744,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "Substances that dissociate into two or more ions, to some extent, in water. Solutions of electrolytes thus conduct an electric current and can be decomposed by it (ELECTROLYSIS). (Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "thyroid-stimulating hormone",
+      "type": "T116",
+      "umls_id": "C0040160",
+      "score": 0.964798629283905,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A glycoprotein hormone secreted by the adenohypophysis (PITUITARY GLAND, ANTERIOR). Thyrotropin stimulates THYROID GLAND by increasing the iodide transport, synthesis and release of thyroid hormones (THYROXINE and TRIIODOTHYRONINE). Thyrotropin consists of two noncovalently linked subunits, alpha and beta. Within a species, the alpha subunit is common in the pituitary glycoprotein hormones (TSH; LUTEINIZING HORMONE and FSH), but the beta subunit is unique and confers its biological specificity."
+    },
+    {
+      "text": "vitamin B12",
+      "type": "T109",
+      "umls_id": "C0042845",
+      "score": 0.96705162525177,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A cobalt-containing coordination compound produced by intestinal micro-organisms and found also in soil and water. Higher plants do not concentrate vitamin B 12 from the soil and so are a poor source of the substance as compared with animal tissues. INTRINSIC FACTOR is important for the assimilation of vitamin B 12."
+    },
+    {
+      "text": "memory lapses",
+      "type": "T048",
+      "umls_id": "C0557932",
+      "score": 0.982494056224823,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "78-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

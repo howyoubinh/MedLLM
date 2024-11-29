@@ -1,0 +1,323 @@
+{
+  "original_data": {
+    "question": "A 75-year-old woman is brought to the emergency department by her son because of a 2-day history of fever, headache, malaise, and dry cough. The patient lives with her son and his family and her son reports that other members of the family have had similar symptoms during the past week but that he has not had any symptoms. The result of a polymerase chain reaction test confirms that the woman is infected with a virus that has a helical capsid and a segmented genome. Which of the following is the most likely explanation for the son being free of symptoms?",
+    "options": {
+      "A": "Serum antibodies against hemagglutinin",
+      "B": "Downregulation of ICAM-1 expression",
+      "C": "Protease-resistant antibodies in nasal secretions",
+      "D": "Homozygous mutation in the CCR5 gene"
+    }
+  },
+  "model_response": "The son is free of symptoms because he is immune as a result of prior exposure(s) to the virus. The initial infection with influenza results in serum antibodies to the hemagglutinin. Subsequent infections with different strains of influenza result in an increase in antibody levels. The increase in antibody levels results in downregulation of ICAM-1 expression, which interferes with viral entry into cells. Antibodies to neuraminidase prevent the release of progeny virions from infected cells. Progeny virions contain neuraminidase, which destroys the receptors that allow virions to attach to cells. Homozygous mutations in the CCR5 gene result in a deficiency of CCR5, which is a coreceptor for HIV. Individuals who are homozygous for this mutation are less likely to become infected with HIV. Protease-resistant antibodies in nasal secretions are not protective against rhinoviruses.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "son",
+      "type": "T099",
+      "umls_id": "C0037683",
+      "score": 0.9721920490264893,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male human offspring."
+    },
+    {
+      "text": "2-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "dry cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9643693566322327,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "son",
+      "type": "T099",
+      "umls_id": "C0037683",
+      "score": 0.9721920490264893,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male human offspring."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "son reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.8111112117767334,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "members",
+      "type": "T098",
+      "umls_id": "C0680022",
+      "score": 0.9881999492645264,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "One of the persons who compose a social group, especially an individual who has joined and participates in a group organization."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "polymerase chain reaction test",
+      "type": "T063",
+      "umls_id": "C0032520",
+      "score": 0.8979716300964355,
+      "semantic_types": [
+        "T063"
+      ],
+      "definition": "In vitro method for producing large amounts of specific DNA or RNA fragments of defined length and sequence from small amounts of short oligonucleotide flanking sequences (primers). The essential steps include thermal denaturation of the double-stranded target molecules, annealing of the primers to their complementary sequences, and extension of the annealed primers by enzymatic synthesis with DNA polymerase. The reaction is efficient, specific, and extremely sensitive. Uses for the reaction include disease diagnosis, detection of difficult-to-isolate pathogens, mutation analysis, genetic testing, DNA sequencing, and analyzing evolutionary relationships."
+    },
+    {
+      "text": "confirms",
+      "type": "T080",
+      "umls_id": "C0521093",
+      "score": 0.9691408276557922,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "infected",
+      "type": "T033",
+      "umls_id": "C0439663",
+      "score": 0.9799171090126038,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "virus",
+      "type": "T005",
+      "umls_id": "C0042776",
+      "score": 0.985727071762085,
+      "semantic_types": [
+        "T005"
+      ],
+      "definition": "Minute infectious agents whose genomes are composed of DNA or RNA, but not both. They are characterized by a lack of independent metabolism and the inability to replicate outside living host cells."
+    },
+    {
+      "text": "helical",
+      "type": "T060",
+      "umls_id": "C0860888",
+      "score": 0.8059346079826355,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Computed tomography where there is continuous X-ray exposure to the patient while being transported in a spiral or helical pattern through the beam of irradiation. This provides improved three-dimensional contrast and spatial resolution compared to conventional computed tomography, where data is obtained and computed from individual sequential exposures."
+    },
+    {
+      "text": "capsid",
+      "type": "T017",
+      "umls_id": "C0006933",
+      "score": 0.988186776638031,
+      "semantic_types": [
+        "T017"
+      ],
+      "definition": "The outer protein protective shell of a virus, which protects the viral nucleic acid. Capsids are composed of repeating units (capsomers or capsomeres) of CAPSID PROTEINS which when assembled together form either an icosahedral or helical shape."
+    },
+    {
+      "text": "segmented",
+      "type": "T204",
+      "umls_id": "C0003096",
+      "score": 0.7587459683418274,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "A phylum of metazoan invertebrates comprising the segmented worms, and including marine annelids (POLYCHAETA), freshwater annelids, earthworms (OLIGOCHAETA), and LEECHES. Only the leeches are of medical interest. (Dorland, 27th ed)"
+    },
+    {
+      "text": "genome",
+      "type": "T028",
+      "umls_id": "C0017428",
+      "score": 0.9965406060218811,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "The genetic complement of an organism, including all of its GENES, as represented in its DNA, or in some cases, its RNA."
+    },
+    {
+      "text": "explanation",
+      "type": "T170",
+      "umls_id": "C0681841",
+      "score": 0.9418625831604004,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of statements describing a group of facts that clarifies the cause, context and/or consequence of those facts."
+    },
+    {
+      "text": "son",
+      "type": "T099",
+      "umls_id": "C0037683",
+      "score": 0.9721920490264893,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male human offspring."
+    },
+    {
+      "text": "free of",
+      "type": "T169",
+      "umls_id": "C0332296",
+      "score": 0.9634949564933777,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "75-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

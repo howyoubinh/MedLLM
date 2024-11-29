@@ -1,0 +1,415 @@
+{
+  "original_data": {
+    "question": "A 2-year-old boy is brought to the physician for evaluation of pallor and increasing lethargy for 2 days. One week ago, he experienced abdominal pain, vomiting, and bloody diarrhea that have since subsided. The patient's father states that they returned early from a 6-week roadtrip in Mexico because of these symptoms. His parents have been giving him oral rehydration solution. His immunizations are up-to-date. He appears pale. His temperature is 38.4°C (101.1°F), pulse is 130/min, respirations are 35/min, and blood pressure is 95/50 mm Hg. Examination shows scleral icterus. The abdomen is soft and nontender; there is no rebound or guarding. Bowel sounds are hyperactive. The remainder of the examination shows no abnormalities. Laboratory studies show:\nHemoglobin 8.5 g/dL\nMean corpuscular volume 94 μm3\nLeukocyte count 18,000/mm3\nPlatelet count 45,000/mm3\nProthrombin time 12 sec\nPartial thromboplastin time 34 sec\nSerum\nUrea nitrogen 28 mg/dL\nCreatinine 1.6 mg/dL\nBilirubin\nTotal 2.5 mg/dL\nDirect 0.1 mg/dL\nLactate dehydrogenase 1658 U/L\nA blood smear shows schistocytes. Which of the following is the most likely diagnosis?\"",
+    "options": {
+      "A": "Henoch-Schönlein Purpura",
+      "B": "Thrombotic thrombocytopenic purpura",
+      "C": "Hemolytic uremic syndrome",
+      "D": "Immune thrombocytopenic purpura"
+    }
+  },
+  "model_response": "The presence of pallor, icterus, and abnormal blood smear (schistocytes) suggests a diagnosis of hemolytic anemia. The low platelet count is likely to be secondary to platelet consumption (thrombocytopenia). The patient's age, history of recent travel, and evidence of renal insufficiency (azotemia) are consistent with a diagnosis of hemolytic uremic syndrome. This condition is most often seen in young children following an episode of acute gastroenteritis or E coli infection. The prodrome of abdominal pain, vomiting, and bloody diarrhea is typical. Laboratory studies show anemia, thrombocytopenia, azotemia, and elevated blood lactate dehydrogenase. The blood smear will show schistocytes. Hemolytic uremic syndrome is distinguished from thrombotic thrombocytopenic purpura by the absence of neurologic symptoms, the presence of azotemia, and the characteristic blood smear findings. Henoch-Schönlein purpura is a systemic vasculitis characterized by palpable purpura, arthritis or arthralgias, abdominal pain, and renal abnormalities. It is not associated with anemia or thrombocytopenia. Immune thrombocytopenic purpura is an acquired condition characterized by isolated thrombocytopenia and a history of hemorrhagic bullae on mucous membranes. It is not associated with anemia or renal abnormalities.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "pallor",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9879653453826904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lethargy",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9868770837783813,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "bloody diarrhea",
+      "type": "T047",
+      "umls_id": "C0151594",
+      "score": 0.988936185836792,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Passage of many stools containing blood. []"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "roadtrip",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Mexico",
+      "type": "T083",
+      "umls_id": "C0025885",
+      "score": 0.9693729281425476,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA, bordering the Caribbean Sea and the Gulf of Mexico, between BELIZE and the UNITED STATES, and bordering the North Pacific Ocean, between Guatemala and the UNITED STATES."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "oral rehydration solution",
+      "type": "T121",
+      "umls_id": "C0078516",
+      "score": 0.9568996429443359,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": null
+    },
+    {
+      "text": "immunizations",
+      "type": "T061",
+      "umls_id": "C0020971",
+      "score": 0.9687795042991638,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Deliberate stimulation of the host's immune response. ACTIVE IMMUNIZATION involves administration of ANTIGENS or IMMUNOLOGIC ADJUVANTS. PASSIVE IMMUNIZATION involves administration of IMMUNE SERA or LYMPHOCYTES or their extracts (e.g., transfer factor, immune RNA) or transplantation of immunocompetent cell producing tissue (thymus or bone marrow)."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "nontender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232693",
+      "score": 0.9843449592590332,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hyperactive",
+      "type": "T048",
+      "umls_id": "C0424295",
+      "score": 0.9908758401870728,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Increased motor activity that is not goal directed."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Prothrombin time",
+      "type": "T059",
+      "umls_id": "C0033707",
+      "score": 0.9805619120597839,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Clotting time of PLASMA recalcified in the presence of excess TISSUE THROMBOPLASTIN. Factors measured are FIBRINOGEN; PROTHROMBIN; FACTOR V; FACTOR VII; and FACTOR X. It is used for monitoring anticoagulant therapy with COUMARINS."
+    },
+    {
+      "text": "Bilirubin\nTotal 2.5",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.8743839263916016,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "blood smear",
+      "type": "T059",
+      "umls_id": "C2238079",
+      "score": 0.9947441816329956,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A sample of blood applied in a thin film to a microscope slide for study under a microscope."
+    },
+    {
+      "text": "schistocytes",
+      "type": "T025",
+      "umls_id": "C0221282",
+      "score": 0.9921367764472961,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "2-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

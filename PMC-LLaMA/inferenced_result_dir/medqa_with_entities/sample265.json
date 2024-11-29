@@ -1,0 +1,270 @@
+{
+  "original_data": {
+    "question": "A 76-year-old man with chronic obstructive pulmonary disease (COPD) presents complaining of 3 weeks of cough and progressive dyspnea on exertion in the setting of a 20 pound weight loss. He is a 60 pack-year smoker, worked as a shipbuilder 30 years ago, and recently traveled to Ohio to visit family. Chest radiograph shows increased bronchovascular markings, reticular parenchymal opacities, and multiple pleural plaques. Labs are unremarkable except for a slight anemia. Which of the following is the most likely finding on this patient's chest CT?",
+    "options": {
+      "A": "Nodular mass spreading along pleural surfaces",
+      "B": "Honeycombing",
+      "C": "Air bronchogram",
+      "D": "Lower lobe cavitary mass"
+    }
+  },
+  "model_response": "The correct answer is C. Air bronchogram. This patient has a typical presentation of a patient with pulmonary fibrosis. The CT scan will show a coarse, reticular pattern of linear and curvilinear opacities. Air bronchograms are commonly seen in pulmonary fibrosis. Honeycombing is a finding seen in patients with end-stage lung disease. Nodular masses that spread along the pleural surfaces are more typical of mesothelioma. Lower lobe cavitary masses are more typical of patients with cavitary tuberculosis.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "type": "T047",
+      "umls_id": "C0024117",
+      "score": 0.9868457913398743,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA."
+    },
+    {
+      "text": "COPD",
+      "type": "T047",
+      "umls_id": "C0024117",
+      "score": 0.9192933440208435,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "cough",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9633718132972717,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "exertion",
+      "type": "T040",
+      "umls_id": "C0015264",
+      "score": 0.9380931258201599,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Physical or mental energy; hard work."
+    },
+    {
+      "text": "pound weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.8008044958114624,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "pack-year",
+      "type": "T081",
+      "umls_id": "C5551741",
+      "score": 0.9314562082290649,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantification of lifetime tobacco exposure defined as (number of cigarettes smoked per day x number of years smoked)/20. One pack-year is smoking 20 cigarettes a day for one year."
+    },
+    {
+      "text": "smoker",
+      "type": "T033",
+      "umls_id": "C0337664",
+      "score": 0.972935140132904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A person who inhales or has inhaled combustible products of organic material during their lifetime."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "Ohio",
+      "type": "T083",
+      "umls_id": "C0028905",
+      "score": 0.9821541905403137,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Michigan and Lake Erie, on the east by Ohio River and Pennsylvania, on the south by Ohio River, and on the west by Indiana."
+    },
+    {
+      "text": "visit family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.7337979674339294,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "Chest radiograph",
+      "type": "T060",
+      "umls_id": "C3842377",
+      "score": 0.9901647567749023,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bronchovascular markings",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "reticular",
+      "type": "T082",
+      "umls_id": "C0439739",
+      "score": 0.9922844171524048,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Applies to an abnormality whose distribution and appearance resembles a net or network-like structure. []"
+    },
+    {
+      "text": "parenchymal",
+      "type": "T023",
+      "umls_id": "C0933845",
+      "score": 0.8615699410438538,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The tissue that constitutes the essential part of an organ as contrasted with e.g., connective tissue and blood vessels."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "pleural plaques",
+      "type": "T047",
+      "umls_id": "C0340030",
+      "score": 0.9594510793685913,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Deposits of hyalinized collagen fibres in the parietal pleura (preferentially pleura adjacent to ribs, particularly the sixth through ninth ribs). [ORCID:0000-0002-4095-8489, PMID:929215]"
+    },
+    {
+      "text": "Labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "anemia",
+      "type": "T047",
+      "umls_id": "C0002871",
+      "score": 0.9743537902832031,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A reduction in the number of circulating ERYTHROCYTES or in the quantity of HEMOGLOBIN."
+    },
+    {
+      "text": "finding",
+      "type": "T184",
+      "umls_id": "C0037088",
+      "score": 0.9943349957466125,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical manifestations that can be either objective when observed by a physician, or subjective when perceived by the patient."
+    },
+    {
+      "text": "patient's chest",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "76-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

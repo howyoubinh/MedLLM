@@ -1,0 +1,150 @@
+{
+  "original_data": {
+    "question": "The Kozak sequence for the Beta-globin gene has a known mutation which decreases, though does not abolish, translation of the Beta-globin mRNA, leading to a phenotype of thalassemia intermedia. What would the blood smear be expected to show in a patient positive for this mutation?",
+    "options": {
+      "A": "Macrocytic red blood cells",
+      "B": "Hyperchromic red blood cells",
+      "C": "Microcytic red blood cells",
+      "D": "Bite cells"
+    }
+  },
+  "model_response": "The Kozak sequence is a sequence of nucleotides in the 5' untranslated region of mRNA that affects the efficiency of translation into protein. The Kozak sequence for the Beta-globin gene has a mutation which decreases, though does not abolish, translation of the Beta-globin mRNA, leading to a phenotype of thalassemia intermedia. The mutation is a G to C mutation, which changes the consensus sequence from GCCAAA to GCCACAA. This mutation is expected to disrupt the consensus sequence, leading to a decrease in translation of the Beta-globin mRNA. This would lead to a decrease in the amount of Beta-globin protein produced, and thus a phenotype of thalassemia intermedia. Thalassemia intermedia is a condition in which the red blood cells are larger than normal (macrocytic), but not as large as in thalassemia major. The blood smear would be expected to show macrocytic red blood cells. Bite cells are seen in iron deficiency anemia. Microcytic red blood cells are seen in iron deficiency anemia, beta-thalassemia, and anemia of chronic disease. Hyperchromic red blood cells are seen in conditions such as lead poisoning.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Kozak sequence",
+      "type": "T086",
+      "umls_id": "C0004793",
+      "score": 0.7736780047416687,
+      "semantic_types": [
+        "T086"
+      ],
+      "definition": "The sequence of PURINES and PYRIMIDINES in nucleic acids and polynucleotides. It is also called nucleotide sequence."
+    },
+    {
+      "text": "Beta-globin gene",
+      "type": "T028",
+      "umls_id": "C2827561",
+      "score": 0.9732435941696167,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "Human HBB wt allele is located in the vicinity of 11p15.5 and is approximately 4 kb in length. This allele, which encodes hemoglobin subunit beta protein, plays a role in the transport of oxygen to tissues of the body. Mutations in this gene are associated with beta-thalassemia."
+    },
+    {
+      "text": "mutation",
+      "type": "T045",
+      "umls_id": "C0026882",
+      "score": 0.964189887046814,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Any detectable and heritable change in the genetic material that causes a change in the GENOTYPE and which is transmitted to daughter cells and to succeeding generations."
+    },
+    {
+      "text": "decreases",
+      "type": "T033",
+      "umls_id": "C0442797",
+      "score": 0.9786321520805359,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abolish",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "translation",
+      "type": "T170",
+      "umls_id": "C0040712",
+      "score": 0.9344436526298523,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Products resulting from the conversion of one language to another."
+    },
+    {
+      "text": "Beta-globin",
+      "type": "T116",
+      "umls_id": "C0005221",
+      "score": 0.9795515537261963,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Members of the beta-globin family. In humans, they are encoded in a gene cluster on CHROMOSOME 11. They include epsilon-globin, gamma-globin, delta-globin and beta-globin. There is also a pseudogene of beta (theta-beta) in the gene cluster. Adult HEMOGLOBIN is comprised of two ALPHA-GLOBIN chains and two beta-globin chains."
+    },
+    {
+      "text": "mRNA",
+      "type": "T114",
+      "umls_id": "C0035696",
+      "score": 0.9662562012672424,
+      "semantic_types": [
+        "T114",
+        "T123"
+      ],
+      "definition": "RNA sequences that serve as templates for protein synthesis. Bacterial mRNAs are generally primary transcripts in that they do not require post-transcriptional processing. Eukaryotic mRNA is synthesized in the nucleus and must be exported to the cytoplasm for translation. Most eukaryotic mRNAs have a sequence of polyadenylic acid at the 3' end, referred to as the poly(A) tail. The function of this tail is not known for certain, but it may play a role in the export of mature mRNA from the nucleus as well as in helping stabilize some mRNA molecules by retarding their degradation in the cytoplasm."
+    },
+    {
+      "text": "phenotype",
+      "type": "T032",
+      "umls_id": "C0031437",
+      "score": 0.9929672479629517,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The outward appearance of the individual. It is the product of interactions between genes, and between the GENOTYPE and the environment."
+    },
+    {
+      "text": "thalassemia",
+      "type": "T047",
+      "umls_id": "C0039730",
+      "score": 0.9869992136955261,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A group of hereditary hemolytic anemias in which there is decreased synthesis of one or more hemoglobin polypeptide chains. There are several genetic types with clinical pictures ranging from barely detectable hematologic abnormality to severe and fatal anemia."
+    },
+    {
+      "text": "intermedia",
+      "type": "T004",
+      "umls_id": "C0446035",
+      "score": 0.8131301403045654,
+      "semantic_types": [
+        "T004"
+      ],
+      "definition": "A species of pseudohyphae fungus belonging to the genus Candida that has been isolated from human skin, throat, and feces; it is a rare human pathogen in nosocomial infections."
+    },
+    {
+      "text": "blood smear",
+      "type": "T059",
+      "umls_id": "C2238079",
+      "score": 0.9947441816329956,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A sample of blood applied in a thin film to a microscope slide for study under a microscope."
+    },
+    {
+      "text": "patient positive",
+      "type": "T058",
+      "umls_id": "C1561964",
+      "score": 0.7781908512115479,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Moving a patient into a specific position or POSTURE to facilitate examination, surgery, or for therapeutic purposes."
+    },
+    {
+      "text": "mutation",
+      "type": "T045",
+      "umls_id": "C0026882",
+      "score": 0.964189887046814,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Any detectable and heritable change in the genetic material that causes a change in the GENOTYPE and which is transmitted to daughter cells and to succeeding generations."
+    }
+  ]
+}

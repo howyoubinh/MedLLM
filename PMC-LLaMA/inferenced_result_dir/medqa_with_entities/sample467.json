@@ -1,0 +1,272 @@
+{
+  "original_data": {
+    "question": "A 40-year-old man comes to the physician because of shortness of breath, double vision, and fatigue for the past 4 weeks. He has no history of serious medical illness and takes no medications. Physical examination shows drooping of the eyelids bilaterally. He is unable to hold his arms up for longer than 3 minutes. A CT scan of the chest shows an anterior mediastinal mass with smooth contours. A photomicrograph of a specimen from the mass is shown. Which of the following immunologic processes normally occurs in the region indicated by the arrow?",
+    "options": {
+      "A": "B-cell maturation",
+      "B": "V(D)J recombination",
+      "C": "Thymocyte formation",
+      "D": "Negative selection"
+    }
+  },
+  "model_response": "This patient has myasthenia gravis, an autoimmune disease that results from antibodies to the acetylcholine receptor at the myoneural junction. The thymus is hyperplastic in this disease. The CT scan shows a thymoma, which is a tumor of thymic epithelial cells. The photomicrograph shows the coex of the thymus, where T cells undergo maturation and selection. B cells mature in the bone marrow. V(D)J recombination occurs in immature B cells in the bone marrow. Thymocyte formation occurs in the thymus. Negative selection of T cells occurs in the thymus.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "double vision",
+      "type": "T033",
+      "umls_id": "C0012569",
+      "score": 0.9532940983772278,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A visual symptom in which a single object is perceived by the visual cortex as two objects rather than one. Disorders associated with this condition include REFRACTIVE ERRORS; STRABISMUS; OCULOMOTOR NERVE DISEASES; TROCHLEAR NERVE DISEASES; ABDUCENS NERVE DISEASES; and diseases of the BRAIN STEM and OCCIPITAL LOBE."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "medical illness",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.7010193467140198,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "drooping",
+      "type": "T047",
+      "umls_id": "C0427055",
+      "score": 0.7772994041442871,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A reduction in the strength of the facial muscles."
+    },
+    {
+      "text": "eyelids",
+      "type": "T023",
+      "umls_id": "C0015426",
+      "score": 0.9936564564704895,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Each of the upper and lower folds of SKIN which cover the EYE when closed."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "anterior mediastinal mass",
+      "type": "T033",
+      "umls_id": "C0577725",
+      "score": 0.9815884232521057,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A type of inferior mediastinal mass that is located in front of the pericardium. []"
+    },
+    {
+      "text": "smooth contours",
+      "type": "T082",
+      "umls_id": "C0876954",
+      "score": 0.7380250692367554,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The outline of a part; the surface configuration."
+    },
+    {
+      "text": "photomicrograph",
+      "type": "T059",
+      "umls_id": "C0031753",
+      "score": 0.895453155040741,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Photography of objects viewed under a microscope using ordinary photographic methods."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "immunologic processes",
+      "type": "T039",
+      "umls_id": "C1512670",
+      "score": 0.7816053628921509,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "Any process which promotes expression of immunologic factors, their secretion, binding to cognate receptors or intracellular signaling, and results in functional responses in the immune system. This process is involved in regulating immune cell populations and coordinating systemic responses."
+    },
+    {
+      "text": "region",
+      "type": "T083",
+      "umls_id": "C0017446",
+      "score": 0.9646239876747131,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "The continents and countries situated on those continents; the UNITED STATES and each of the constituent states arranged by region; CANADA and each of its provinces; AUSTRALIA and each of its states; the major bodies of water and major islands on both hemispheres; and selected major cities."
+    },
+    {
+      "text": "arrow",
+      "type": "T073",
+      "umls_id": "C0336721",
+      "score": 0.9898771047592163,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "40-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

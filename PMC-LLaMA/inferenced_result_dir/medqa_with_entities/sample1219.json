@@ -1,0 +1,404 @@
+{
+  "original_data": {
+    "question": "A 46-year-old woman presents with a 5-month history of worsening dry cough, occasional shortness of breath, and fatigue. She says she is now having trouble walking a full block. For the past week, she also has noticed bilateral swelling of the lower legs. She denies chest pain, fever, chills, syncope, or bloody sputum. Current vitals include: temperature 37.0°C (98.6°F), pulse 63/min, blood pressure 128/91 mm Hg and respiratory rate 15/min. On physical examination, there is elevated jugular venous pressure, decreased breath sounds bilaterally at the lung bases, and 1+ non-pitting edema bilaterally in the lower extremities. A chest X-ray demonstrates a slightly enlarged cardiac silhouette. Which of the following is the most appropriate next step in the diagnosis of this patient?",
+    "options": {
+      "A": "Bronchoalveolar wash",
+      "B": "Pulmonary function studies",
+      "C": "Echocardiography",
+      "D": "Chest CT"
+    }
+  },
+  "model_response": "The clinical scenario suggests a possible diagnosis of pulmonary congestion due to left ventricular failure. The next best step in the diagnosis of this patient would be to perform echocardiography to assess left ventricular function and valvular morphology. Echocardiography is a non-invasive tool that can provide information about cardiac chamber size, wall motion, valvular function, and the pericardium. Pulmonary function studies could be considered if there were clinical signs of obstructive or restrictive lung disease, but this patient's symptoms and physical examination findings are more consistent with left ventricular failure. A bronchoalveolar wash would be indicated if there were clinical signs of an infection, but this patient's symptoms and physical examination findings are more consistent with left ventricular failure. A chest CT scan could be considered if there were clinical signs of a pulmonary embolism, but this patient's symptoms and physical examination findings are more consistent with left ventricular failure.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "5-month",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dry cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9643693566322327,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "occasional",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.9617764949798584,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "block",
+      "type": "T033",
+      "umls_id": "C0028778",
+      "score": 0.9955968856811523,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blockage of the normal flow of the contents of an anatomical passageway."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "lower legs",
+      "type": "T023",
+      "umls_id": "C0230446",
+      "score": 0.9542704224586487,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "denies chest",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chills",
+      "type": "T184",
+      "umls_id": "C0085593",
+      "score": 0.9896153211593628,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden sensation of being cold. It may be accompanied by SHIVERING."
+    },
+    {
+      "text": "syncope",
+      "type": "T184",
+      "umls_id": "C0039070",
+      "score": 0.9831191897392273,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A transient loss of consciousness and postural tone caused by diminished blood flow to the brain (i.e., BRAIN ISCHEMIA). Presyncope refers to the sensation of lightheadedness and loss of strength that precedes a syncopal event or accompanies an incomplete syncope. (From Adams et al., Principles of Neurology, 6th ed, pp367-9)"
+    },
+    {
+      "text": "bloody sputum",
+      "type": "T184",
+      "umls_id": "C0019079",
+      "score": 0.9649813771247864,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Expectoration or spitting of blood originating from any part of the RESPIRATORY TRACT, usually from hemorrhage in the lung parenchyma (PULMONARY ALVEOLI) and the BRONCHIAL ARTERIES."
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "jugular",
+      "type": "T023",
+      "umls_id": "C0022427",
+      "score": 0.8375517129898071,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Veins in the neck which drain the brain, face, and neck into the brachiocephalic or subclavian veins."
+    },
+    {
+      "text": "venous pressure",
+      "type": "T040",
+      "umls_id": "C0042486",
+      "score": 0.9842603802680969,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The blood pressure in the VEINS. It is usually measured to assess the filling PRESSURE to the HEART VENTRICLE."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "breath sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9867587685585022,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "non-pitting edema",
+      "type": "T033",
+      "umls_id": "C1265804",
+      "score": 0.9733313918113708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "chest X-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "enlarged",
+      "type": "T080",
+      "umls_id": "C0442800",
+      "score": 0.9600385427474976,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cardiac silhouette",
+      "type": "T029",
+      "umls_id": "C0507134",
+      "score": 0.9549819827079773,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "46-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

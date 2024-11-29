@@ -1,0 +1,536 @@
+{
+  "original_data": {
+    "question": "A 38-year-old woman comes to the physician because of persistent diarrhea and fatigue for 1 month. She has had up to 12 watery stools per day. Sometimes she awakens at night because she has to defecate. She has abdominal bloating and cramps. She has had a 2-kg weight loss in the past month. She returned from a trip to Costa Rica 7 weeks ago. She has a history of bronchial asthma and bulimia nervosa. She works as a nurse. She does not smoke and drinks 1–2 beers on the weekend. Current medications include fish oil, a multivitamin, and a salbutamol inhaler. Her temperature is 36.8°C (98.2°F), pulse is 65/min, and blood pressure is 100/75 mm Hg. Examination shows dry mucous membranes. Abdominal and rectal examinations are unremarkable. Laboratory studies show:\nHematocrit 46%\nLeukocyte Count 6,500/mm3\nPlatelet Count 220,000/mm3\nSerum\nNa+ 136 mEq/L\nK+ 3.2 mEq/L\nCl- 102 mEq/L\nHCO3- 33 mEq/L\nMg2+ 3.3 mEq/L\nUrea nitrogen 14 mg/dL\nCreatinine 0.8 mg/dL\nAbdominal ultrasound shows no abnormalities. Colonoscopy shows dark colored mucosa with interspersed white spots. Biopsies of colonic mucosa are obtained and sent for pathological evaluation. Which of the following is the most likely underlying cause of this patient's symptoms?\"",
+    "options": {
+      "A": "Celiac disease",
+      "B": "Carcinoid tumor",
+      "C": "VIPoma",
+      "D": "Medication abuse"
+    }
+  },
+  "model_response": "This patient has a history of travel to an area endemic for amoebiasis. She has persistent diarrhea, abdominal bloating and cramps, and weight loss. Her laboratory studies show a low hematocrit, suggesting volume depletion. Her serum electrolytes are relatively normal, but her magnesium level is low. Her colonoscopy shows the classic findings of amoebiasis, with darkly pigmented mucosa and interspersed white spots. The biopsy results show trophozoites of Entamoeba histolytica. Amoebiasis is a protozoal infection that is acquired by the ingestion of cysts in contaminated food or water. The trophozoites then invade the intestinal mucosa, producing the characteristic symptoms of diarrhea and abdominal cramps. Patients with amoebiasis can develop amebic colitis, amebic liver abscesses, or both. The liver abscesses can be large and can even rupture into the pleural or peritoneal cavity. The main clues to the diagnosis of amoebiasis are the history of travel to an endemic area and the characteristic colonoscopic and biopsy findings. Celiac disease can produce chronic diarrhea, but the colonoscopic findings and biopsy results are not characteristic. Carcinoid tumor can produce diarrhea, but the colonoscopic findings and laboratory studies are not consistent with this diagnosis. VIPoma is a pancreatic tumor that secretes vasoactive intestinal peptide (VIP). This can produce a syndrome of watery diarrhea, hypokalemia, and dehydration. However, the colonoscopic findings and biopsy results are not characteristic. Medication abuse can produce chronic diarrhea, but the patient's medication history is not suggestive of diarrhea as a side effect.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "persistent",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.981314480304718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "watery stools",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9594283699989319,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "defecate",
+      "type": "T040",
+      "umls_id": "C0011135",
+      "score": 0.7801434993743896,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The normal process of elimination of fecal material from the RECTUM."
+    },
+    {
+      "text": "abdominal bloating",
+      "type": "T033",
+      "umls_id": "C0000731",
+      "score": 0.9638038277626038,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling of the abdomen resulting from excessive food intake, malnutrition, liver disease, primary abdominal tumors, and tumors metastatic to the abdominal cavity."
+    },
+    {
+      "text": "cramps",
+      "type": "T184",
+      "umls_id": "C0026821",
+      "score": 0.9883677959442139,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sustained and usually painful contraction of muscle fibers. This may occur as an isolated phenomenon or as a manifestation of an underlying disease process (e.g., UREMIA; HYPOTHYROIDISM; MOTOR NEURON DISEASE; etc.). (From Adams et al., Principles of Neurology, 6th ed, p1398)"
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "Costa Rica 7 weeks",
+      "type": "T083",
+      "umls_id": "C0010182",
+      "score": 0.7660219669342041,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in CENTRAL AMERICA, bordering both the Caribbean Sea and the North Pacific Ocean, between NICARAGUA and PANAMA."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "bronchial asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.9720533490180969,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "bulimia nervosa",
+      "type": "T048",
+      "umls_id": "C2267227",
+      "score": 0.9812822937965393,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A disorder characterized by recurrent episodes of binge-eating over which the individual feels a lack of control; these episodes of binge-eating are followed by recurrent compensatory behavior to prevent weight gain, usually self-induced vomiting. In addition, self-evaluation is unduly influenced by body image."
+    },
+    {
+      "text": "nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.9822375178337097,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beers",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9762206673622131,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "weekend",
+      "type": "T079",
+      "umls_id": "C0680190",
+      "score": 0.9637970328330994,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period comprising Saturday and Sunday, and sometimes considered to include Friday night."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "fish oil",
+      "type": "T109",
+      "umls_id": "C0016157",
+      "score": 0.9935411214828491,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Oils high in unsaturated fats extracted from the bodies of fish or fish parts, especially the LIVER. Those from the liver are usually high in VITAMIN A. The oils are used as DIETARY SUPPLEMENTS. They are also used in soaps and detergents and as protective coatings."
+    },
+    {
+      "text": "multivitamin",
+      "type": "T109",
+      "umls_id": "C0301532",
+      "score": 0.987159252166748,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)"
+    },
+    {
+      "text": "salbutamol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9889835715293884,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "inhaler",
+      "type": "T074",
+      "umls_id": "C0021461",
+      "score": 0.9644812345504761,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A device by means of which a medicinal product can be administered by inspiration through the nose or the mouth."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "Abdominal",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.968619704246521,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "rectal examinations",
+      "type": "T060",
+      "umls_id": "C0199900",
+      "score": 0.971908450126648,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Hematocrit",
+      "type": "T059",
+      "umls_id": "C0018935",
+      "score": 0.9932670593261719,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value."
+    },
+    {
+      "text": "K+",
+      "type": "T121",
+      "umls_id": "C0597277",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "atom of potassium having a positive charge; potassium is the chief cation of muscle and most other cells (intracellular fluid)."
+    },
+    {
+      "text": "Mg2",
+      "type": "T028",
+      "umls_id": "C1417500",
+      "score": 0.9548584222793579,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Abdominal ultrasound",
+      "type": "T060",
+      "umls_id": "C2348813",
+      "score": 0.9747382998466492,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A method of ultrasound imaging in which the ultrasound probe is pressed against the skin of the abdomen in order to create an image of the abdominal organs."
+    },
+    {
+      "text": "Colonoscopy",
+      "type": "T060",
+      "umls_id": "C0009378",
+      "score": 0.9911046028137207,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination, therapy or surgery of the luminal surface of the colon."
+    },
+    {
+      "text": "mucosa",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.995744526386261,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "interspersed",
+      "type": "T114",
+      "umls_id": "C1517938",
+      "score": 0.7390480041503906,
+      "semantic_types": [
+        "T114",
+        "T123"
+      ],
+      "definition": "Highly repeated sequences, 6K-8K base pairs in length, which contain RNA polymerase II promoters. They also have an open reading frame that is related to the reverse transcriptase of retroviruses but they do not contain LTRs (long terminal repeats). Copies of the LINE 1 (L1) family form about 15% of the human genome. The jockey elements of Drosophila are LINEs."
+    },
+    {
+      "text": "white spots",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Biopsies",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9708958864212036,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "colonic mucosa",
+      "type": "T023",
+      "umls_id": "C0227349",
+      "score": 0.9857586622238159,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucus membrane lining the inner surface of the colon."
+    },
+    {
+      "text": "sent",
+      "type": "T169",
+      "umls_id": "C1519246",
+      "score": 0.9840404391288757,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Cause or enable to go or be conveyed or transmitted."
+    },
+    {
+      "text": "pathological",
+      "type": "T091",
+      "umls_id": "C0030664",
+      "score": 0.9824783205986023,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "A specialty concerned with the nature and cause of disease as expressed by changes in cellular or tissue structure and function caused by the disease process."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

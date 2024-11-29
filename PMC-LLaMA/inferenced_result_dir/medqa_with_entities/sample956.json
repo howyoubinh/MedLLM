@@ -1,0 +1,426 @@
+{
+  "original_data": {
+    "question": "A 36-year-old woman comes to the physician for intermittent stabbing face pain. The pain typically occurs in waves of several individual episodes lasting about one second. It is bilateral, but rarely occurs on both sides simultaneously. Touching her face or brushing her teeth can trigger an attack. Four months ago, she had an episode of weakness in her right arm that lasted for about a week. Family history is notable for migrainous headaches in her mother and brother. Vital signs are within normal limits. There is decreased sensation in the V2 and V3 distribution of her face bilaterally. Muscle strength is 3/5 in the left upper extremity and 5/5 in the right upper extremity. There is spasticity of the lower extremities with sustained clonus. Further evaluation is most likely going to reveal which of the following findings?",
+    "options": {
+      "A": "Multiple periventricular sclerotic plaques",
+      "B": "Erythematous papules in the V2/V3 nerve distribution",
+      "C": "Photophobia and phonophobia",
+      "D": "Rhinorrhea, lacrimination, and ptosis"
+    }
+  },
+  "model_response": "The presence of bilateral decreased sensation in the V2 and V3 distributions of the face suggests involvement of the trigeminal nerve. The distribution of the trigeminal nerve is shown in the figure below. The first and second divisions of the trigeminal nerve are most commonly involved in cases of trigeminal neuralgia. The presence of spasticity and clonus of the lower extremities suggests a demyelinating process. Multiple sclerosis is the most common cause of demyelinating disease in young adults. The plaques are typically periventricular in location and can be visualized on MRI. The other findings listed are not typically associated with multiple sclerosis.\n\n[Trigeminal nerve distribution. (From Gray's Anatomy, 39th edition, Churchill Livingstone, New York, 2005, page 580.)]\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "face pain",
+      "type": "T184",
+      "umls_id": "C0015468",
+      "score": 0.9865522384643555,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the facial region including orofacial pain and craniofacial pain. Associated conditions include local inflammatory and neoplastic disorders and neuralgic syndromes involving the trigeminal, facial, and glossopharyngeal nerves. Conditions which feature recurrent or persistent facial pain as the primary manifestation of disease are referred to as FACIAL PAIN SYNDROMES."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "individual",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.954897403717041,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "simultaneously",
+      "type": "T079",
+      "umls_id": "C0521115",
+      "score": 0.9522629976272583,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Accessory, accompanying especially in a subordinate or incidental way, occurring or existing during the same period of time."
+    },
+    {
+      "text": "Touching",
+      "type": "T080",
+      "umls_id": "C0439815",
+      "score": 0.9573835730552673,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "brushing",
+      "type": "T061",
+      "umls_id": "C0040461",
+      "score": 0.9644243121147156,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The act of cleaning teeth with a brush to remove plaque and prevent tooth decay. (From Webster, 3d ed)"
+    },
+    {
+      "text": "teeth",
+      "type": "T023",
+      "umls_id": "C0040426",
+      "score": 0.9633482694625854,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of a set of bone-like structures in the mouth used for biting and chewing."
+    },
+    {
+      "text": "attack",
+      "type": "T074",
+      "umls_id": "C0699795",
+      "score": 0.9937396049499512,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "episode of",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9742043614387512,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "right arm",
+      "type": "T023",
+      "umls_id": "C0230346",
+      "score": 0.9902463555335999,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "Family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "migrainous",
+      "type": "T047",
+      "umls_id": "C0149931",
+      "score": 0.7158775925636292,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A common, severe type of vascular headache often associated with increased sympathetic activity, resulting in nausea, vomiting, and light sensitivity."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "brother",
+      "type": "T099",
+      "umls_id": "C0337527",
+      "score": 0.9884945750236511,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male sibling."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "V2",
+      "type": "T023",
+      "umls_id": "C0507237",
+      "score": 0.9999139904975891,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "V3",
+      "type": "T023",
+      "umls_id": "C0507236",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Segmental pulmonary vein, each instance of which drains the anterior segment of the superior lobe of some lung."
+    },
+    {
+      "text": "distribution",
+      "type": "T082",
+      "umls_id": "C0037775",
+      "score": 0.9691138863563538,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The placement, arrangement of instance of entities within a space."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.9795353412628174,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "left upper",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.8117914199829102,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "right upper extremity",
+      "type": "T023",
+      "umls_id": "C0230329",
+      "score": 0.9940289258956909,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spasticity",
+      "type": "T184",
+      "umls_id": "C0026838",
+      "score": 0.9768262505531311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A form of muscle hypertonia associated with upper MOTOR NEURON DISEASE. Resistance to passive stretch of a spastic muscle results in minimal initial resistance (a \"free interval\") followed by an incremental increase in muscle tone. Tone increases in proportion to the velocity of stretch. Spasticity is usually accompanied by HYPERREFLEXIA and variable degrees of MUSCLE WEAKNESS. (From Adams et al., Principles of Neurology, 6th ed, p54)"
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "sustained",
+      "type": "T169",
+      "umls_id": "C0443318",
+      "score": 0.9774273037910461,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "clonus",
+      "type": "T184",
+      "umls_id": "C0009024",
+      "score": 0.9797878861427307,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A form of involuntary muscular movement characterized by alternating contractions and relaxation in rapid succession. In the context of reflex testing, the ability to elicit clonus indicates injury to the nerve tracts above the point at which the reflex was initiated."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "original_data": {
+    "question": "A 64-year-old man presents to the clinic with easy fatigability and breathlessness when climbing stairs for the last 2 weeks. He also mentions that he occasionally has bouts of cough at night after about 2–3 hours of sleep which is relieved when he sits upright. He denies shortness of breath at rest, palpitations, and loss of consciousness. He has had hypertension for the last 20 years and is on antihypertensive medications. On physical examination, his temperature is 36.9°C (98.4°F), pulse is 104/min, blood pressure is 122/82 mm Hg, and respirations are 18/min. Chest auscultation reveals crackles over the lung bases bilaterally. Examination of his abdomen reveals mildly tender hepatomegaly. Laboratory investigation results include a hemoglobin of 14.8 g/dL (9.18 mmol/L) and an elevated serum B-type natriuretic peptide. His two-dimensional echocardiogram reveals an enlarged left atrium and an ejection fraction of 55%. Which of the following novel drugs is most likely to benefit the patient in addition to valsartan?",
+    "options": {
+      "A": "Etanercept",
+      "B": "Moxonidine",
+      "C": "Sacubitril",
+      "D": "Aliskiren"
+    }
+  },
+  "model_response": "The patient has heart failure with preserved ejection fraction (HFpEF) and is most likely to benefit from the addition of moxonidine to his current antihypertensive regimen. Moxonidine is a centrally acting alpha-2 agonist that lowers blood pressure and heart rate. It also has a positive effect on fluid balance and can reduce the symptoms of congestion in patients with HFpEF. The other drugs listed are not indicated in HFpEF. Etanercept is a tumor necrosis factor (TNF) inhibitor used in rheumatoid arthritis. Sacubitril is a neprilysin inhibitor used in combination with angiotensin receptor blockers (ARBs) in patients with reduced ejection fraction heart failure. It is not indicated in HFpEF. Aliskiren is a direct renin inhibitor used in combination with ARBs in patients with hypertension. It is not indicated in HFpEF.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "fatigability",
+      "type": "T184",
+      "umls_id": "C0231230",
+      "score": 0.9780797362327576,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "breathlessness",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.959090530872345,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "climbing",
+      "type": "T033",
+      "umls_id": "C0561942",
+      "score": 0.9798669219017029,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "mentions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bouts",
+      "type": "T079",
+      "umls_id": "C0741605",
+      "score": 0.9669517278671265,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "sits",
+      "type": "T109",
+      "umls_id": "C0037216",
+      "score": 0.9922419786453247,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T130"
+      ],
+      "definition": "A non-penetrating amino reagent (commonly called SITS) which acts as an inhibitor of anion transport in erythrocytes and other cells."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "rest",
+      "type": "T056",
+      "umls_id": "C0035253",
+      "score": 0.9951050877571106,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Freedom from activity."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "loss of",
+      "type": "T081",
+      "umls_id": "C1517945",
+      "score": 0.8110635876655579,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A gradual decline in amount or activity."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "antihypertensive medications",
+      "type": "T121",
+      "umls_id": "C0003364",
+      "score": 0.7611149549484253,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs used in the treatment of acute or chronic vascular HYPERTENSION regardless of pharmacological mechanism. Among the antihypertensive agents are DIURETICS; (especially DIURETICS, THIAZIDE); ADRENERGIC BETA-ANTAGONISTS; ADRENERGIC ALPHA-ANTAGONISTS; ANGIOTENSIN-CONVERTING ENZYME INHIBITORS; CALCIUM CHANNEL BLOCKERS; GANGLIONIC BLOCKERS; and VASODILATOR AGENTS."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "Chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "tender hepatomegaly",
+      "type": "T033",
+      "umls_id": "C0019209",
+      "score": 0.8104467988014221,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the liver."
+    },
+    {
+      "text": "Laboratory",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.9852399826049805,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "investigation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9573497176170349,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "enlarged",
+      "type": "T080",
+      "umls_id": "C0442800",
+      "score": 0.9600385427474976,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left atrium",
+      "type": "T023",
+      "umls_id": "C0225860",
+      "score": 0.9907193779945374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of four chambers of the heart, which receives blood from the pulmonary veins and pumps blood through the mitral valve into the left ventricle."
+    },
+    {
+      "text": "ejection fraction",
+      "type": "T060",
+      "umls_id": "C0489482",
+      "score": 0.9259448647499084,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "amount of blood pumped out of the left lower chamber of the heart with each heart beat"
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "valsartan",
+      "type": "T109",
+      "umls_id": "C0216784",
+      "score": 0.9761476516723633,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An orally active nonpeptide triazole-derived antagonist of angiotensin (AT) II with antihypertensive properties. Valsartan selectively and competitively blocks the binding of angiotensin II to the AT1 subtype receptor in vascular smooth muscle and the adrenal gland, preventing AT II-mediated vasoconstriction, aldosterone synthesis and secretion, and renal reabsorption of sodium, and resulting in vasodilation, increased excretion of sodium and water, a reduction in plasma volume, and a reduction in blood pressure."
+    },
+    {
+      "text": "64-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

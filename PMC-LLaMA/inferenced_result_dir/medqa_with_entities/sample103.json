@@ -1,0 +1,411 @@
+{
+  "original_data": {
+    "question": "A 75-year-old woman is brought by a patrolman to the emergency department because of altered mental status. She was found wandering next to the highway. The patient was unable to answer questions and collapsed in transit. Her vitals are: temperature, 33.0°C (91.4°F); pulse, 40/min; respirations,12/min; blood pressure, 80/50 mm Hg; and oxygen saturation, 85% on room air. Physical examination shows decorticate posturing, incomprehensible speech, eyes opening to pain, dry hair, coarse and waxy skin, and non-pitting edema around the face and all extremities. Electrocardiogram shows sinus bradycardia. Laboratory studies show:\nCalcium 9.0 mg/dL\nHematocrit (female) 34%\nPotassium 4.0 mEq/L\nSodium 120 mEq/L\nTSH 110.0 µU/mL\nThyroxine (T4) 1.2 µg/dL\nTriiodothyronine (T3) 70 ng/dL\nWhich of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Myxedema coma",
+      "B": "Pheochromocytoma crisis",
+      "C": "Septic shock",
+      "D": "Tertiary hyperparathyroidism"
+    }
+  },
+  "model_response": "Myxedema coma is a medical emergency that, without treatment, is almost uniformly fatal. It is a presentation of severe, decompensated hypothyroidism, usually in the elderly. Myxedema coma may be precipitated by factors that impair respiration, such as drugs (especially sedatives, anesthetics, and opioids), pneumonia, congestive heart failure, myocardial infarction, gastrointestinal bleeding, or cerebrovascular accidents. The cardinal features are prolonged respiratory failure, hypoxemia, hypercapnia, decreased level of consciousness, and low body temperature. Hypothermia may be profound (23°C/64.9°F) with myxedema coma. Severe hyponatremia may be present. Hypoglycemia and hypoxia must be excluded. The diagnosis is made by the history of hypothyroidism, characteristic physical findings, and elevated TSH. The most common precipitating cause is drugs, especially sedatives, in the elderly.\n\nPheochromocytoma crisis can mimic myxedema coma. The patient may have a history of hypertension or of a pheochromocytoma. Physical findings may include elevated blood pressure, tachycardia, tachypnea, and diaphoresis. The diagnosis is made by demonstrating elevated urine and plasma catecholamine levels.\n\nSeptic shock can also mimic myxedema coma. Physical findings may include fever, tachycardia, tachypnea, and diaphoresis. The diagnosis is made by identifying the source of infection and the presence of bacteria in blood cultures.\n\nTertiary hyperparathyroidism can also mimic myxedema coma. Physical findings may include weakness, osteoporosis, and, rarely, heart failure. The diagnosis is made by demonstrating hypercalcemia and a high parathyroid hormone level.\n\nThe treatment of myxedema coma requires intensive monitoring and correction of the precipitating factors, hypoxia, and hypothermia. Intravenous levothyroxine is given, and the dosage is titrated by measuring serum T4 levels. Intravenous fluids are also given, and attention is directed toward correcting any precipitating factors. If adrenal insufficiency is suspected, dexamethasone can be given.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patrolman",
+      "type": "T097",
+      "umls_id": "C0402605",
+      "score": 0.9647939205169678,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mental status",
+      "type": "T033",
+      "umls_id": "C0278060",
+      "score": 0.982847273349762,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "highway",
+      "type": "T073",
+      "umls_id": "C0567410",
+      "score": 0.9656270742416382,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "collapsed",
+      "type": "T033",
+      "umls_id": "C0344329",
+      "score": 0.9802134037017822,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Failure of a physiologic function or system."
+    },
+    {
+      "text": "transit",
+      "type": "T169",
+      "umls_id": "C1301827",
+      "score": 0.9899604916572571,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations,12/min",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.7042380571365356,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "decorticate",
+      "type": "T061",
+      "umls_id": "C0007778",
+      "score": 0.8208667039871216,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Partial or total removal, ablation, or destruction of the cerebral cortex; may be chemical. It is not used with animals that do not possess a cortex, i.e., it is used only with mammals."
+    },
+    {
+      "text": "posturing",
+      "type": "T047",
+      "umls_id": "C0872410",
+      "score": 0.984663724899292,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "incomprehensible speech",
+      "type": "T033",
+      "umls_id": "C1838027",
+      "score": 0.9604178071022034,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "opening",
+      "type": "T082",
+      "umls_id": "C0175566",
+      "score": 0.9945714473724365,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affording unobstructed entrance and exit; affording free passage or access; accessible to all."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "dry hair",
+      "type": "T033",
+      "umls_id": "C0277960",
+      "score": 0.9829155802726746,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Hair that lacks the lustre (shine or gleam) of normal hair. [DDD:cmoss]"
+    },
+    {
+      "text": "coarse",
+      "type": "T080",
+      "umls_id": "C0205194",
+      "score": 0.9648303389549255,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Composed of relatively large parts or particles."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "non-pitting edema",
+      "type": "T033",
+      "umls_id": "C1265804",
+      "score": 0.9733313918113708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "Electrocardiogram",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.9919003248214722,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "sinus bradycardia",
+      "type": "T046",
+      "umls_id": "C0085610",
+      "score": 0.9655574560165405,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A disorder characterized by an electrocardiographic finding of abnormally slow heart rate with its origin in the sinus node. Thresholds for different age, gender, and patient populations exist. (CDISC)"
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Calcium",
+      "type": "T121",
+      "umls_id": "C0006675",
+      "score": 0.9657427072525024,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "A basic element found in nearly all tissues. It is a member of the alkaline earth family of metals with the atomic symbol Ca, atomic number 20, and atomic weight 40. Calcium is the most abundant mineral in the body and combines with phosphorus to form calcium phosphate in the bones and teeth. It is essential for the normal functioning of nerves and muscles and plays a role in blood coagulation (as factor IV) and in many enzymatic processes."
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Potassium",
+      "type": "T121",
+      "umls_id": "C0032821",
+      "score": 0.9785500764846802,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element in the alkali group of metals with an atomic symbol K, atomic number 19, and atomic weight 39.10. It is the chief cation in the intracellular fluid of muscle and other cells. Potassium ion is a strong electrolyte that plays a significant role in the regulation of fluid volume and maintenance of the WATER-ELECTROLYTE BALANCE."
+    },
+    {
+      "text": "T4",
+      "type": "T116",
+      "umls_id": "C0040165",
+      "score": 0.9997559785842896,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (MONOIODOTYROSINE) and the coupling of iodotyrosines (DIIODOTYROSINE) in the THYROGLOBULIN. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form TRIIODOTHYRONINE which exerts a broad spectrum of stimulatory effects on cell metabolism."
+    },
+    {
+      "text": "T3",
+      "type": "T116",
+      "umls_id": "C0041014",
+      "score": 0.9990074038505554,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A T3 thyroid hormone normally synthesized and secreted by the thyroid gland in much smaller quantities than thyroxine (T4). Most T3 is derived from peripheral monodeiodination of T4 at the 5' position of the outer ring of the iodothyronine nucleus. The hormone finally delivered and used by the tissues is mainly T3."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "75-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

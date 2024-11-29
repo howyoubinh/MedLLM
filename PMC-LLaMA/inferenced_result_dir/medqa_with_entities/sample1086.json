@@ -1,0 +1,307 @@
+{
+  "original_data": {
+    "question": "A 3-day-old boy is admitted to the neonatal intensive care unit for seizures. He was born to a 33-year-old woman at 31 weeks gestation via cesarean section. His birth weight was 1400 grams. Vital signs are significant for systemic hypotension, bradycardia, and hypoventilation. On physical exam, the patient has an altered level of consciousness with decreased spontaneous and elicited movements. The patient is hypotonic on motor testing, has bulging anterior fontanelle, and appears cyanotic. Which of the following is the best next step in management?",
+    "options": {
+      "A": "Complete blood count",
+      "B": "Cranial ultrasonography",
+      "C": "Head CT",
+      "D": "MRI of the head"
+    }
+  },
+  "model_response": "The clinical presentation is consistent with hypoxic-ischemic encephalopathy (HIE). The initial step in management is to stabilize the patient, which may include mechanical ventilation, correction of hypotension, and treatment of seizures. After stabilization, further diagnostic evaluation should include cranial ultrasonography to assess the extent of cerebral edema and to evaluate for intracranial hemorrhage. An electroencephalogram (EEG) should be obtained to assess for subclinical seizure activity. MRI of the brain may provide additional information but is not typically obtained as part of the initial evaluation. A complete blood count may be obtained to assess for a bleeding diathesis, but this is not the best next step in management.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "neonatal",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9764891862869263,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "seizures",
+      "type": "T184",
+      "umls_id": "C0036572",
+      "score": 0.9452638626098633,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical or subclinical disturbances of cortical function due to a sudden, abnormal, excessive, and disorganized discharge of brain cells. Clinical manifestations include abnormal motor, sensory and psychic phenomena. Recurrent seizures are usually referred to as EPILEPSY or \"seizure disorder.\""
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "cesarean section",
+      "type": "T061",
+      "umls_id": "C0007876",
+      "score": 0.9648112058639526,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Extraction of the FETUS by means of abdominal HYSTEROTOMY."
+    },
+    {
+      "text": "birth weight",
+      "type": "T032",
+      "umls_id": "C0005612",
+      "score": 0.9691290855407715,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "systemic hypotension",
+      "type": "T033",
+      "umls_id": "C0020649",
+      "score": 0.9825640320777893,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally low BLOOD PRESSURE that can result in inadequate blood flow to the brain and other vital organs. Common symptom is DIZZINESS but greater negative impacts on the body occur when there is prolonged depravation of oxygen and nutrients."
+    },
+    {
+      "text": "bradycardia",
+      "type": "T033",
+      "umls_id": "C0428977",
+      "score": 0.964240550994873,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Cardiac arrhythmias that are characterized by excessively slow HEART RATE, usually below 50 beats per minute in human adults. They can be classified broadly into SINOATRIAL NODE dysfunction and ATRIOVENTRICULAR BLOCK."
+    },
+    {
+      "text": "hypoventilation",
+      "type": "T046",
+      "umls_id": "C3203358",
+      "score": 0.9487401843070984,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A reduction in the amount of air entering the pulmonary alveoli."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "elicited",
+      "type": "T080",
+      "umls_id": "C0449265",
+      "score": 0.9908786416053772,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hypotonic",
+      "type": "T046",
+      "umls_id": "C0241938",
+      "score": 0.9870982766151428,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "motor testing",
+      "type": "T060",
+      "umls_id": "C0430740",
+      "score": 0.9872838258743286,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anterior",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.984691858291626,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "fontanelle",
+      "type": "T030",
+      "umls_id": "C0224548",
+      "score": 0.9823486804962158,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The four gaps in the skull of a neonate or fetus where the sutures converge. The bulging or depression of the membranous soft spots can be indicative of intracranial fluid buildup or systemic dehydration."
+    },
+    {
+      "text": "cyanotic",
+      "type": "T169",
+      "umls_id": "C0332580",
+      "score": 0.9792381525039673,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "33-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

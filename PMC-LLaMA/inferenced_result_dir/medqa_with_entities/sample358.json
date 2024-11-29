@@ -1,0 +1,367 @@
+{
+  "original_data": {
+    "question": "A 3-year-old girl is brought to the emergency department by her parents for an acute arm injury. The mother reports that they were walking in the park and the patient’s dad was swinging the patient in the air by her arms. The dad reports he then heard a click and the patient immediately began to cry. On examination, the patient is holding her right forearm in a pronated position and her elbow slightly flexed. Pain is localized to the lateral aspect of the elbow. She refuses to use the affected limb. She does allow passive flexion and extension with full range of motion but supination is limited and causes pain. Which of the following is the next step in management?",
+    "options": {
+      "A": "Immobilization",
+      "B": "Moderate flexion then hyperpronation",
+      "C": "Radiograph",
+      "D": "Supination then maximal extension"
+    }
+  },
+  "model_response": "The history and physical examination findings are consistent with a pulled elbow, also known as nursemaid's elbow. This is a subluxation of the radial head with or without a fracture. The patient is typically a young child, less than 5 years old, who is lifted by the wrist. The child suddenly stops and cries in pain. The arm is held in an attitude of pronation and extension. Radiographs are not necessary for the diagnosis, but may be obtained to rule out other diagnoses. Treatment consists of reduction of the subluxation by hyperpronation followed by flexion. This maneuver most often reduces the subluxation and relieves the pain. If pain persists, the patient should be splinted with the elbow in flexion and the forearm in supination.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "acute arm injury",
+      "type": "T037",
+      "umls_id": "C0003794",
+      "score": 0.7828967571258545,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "General or unspecified injuries involving the UPPER ARM and the FOREARM."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "park",
+      "type": "T083",
+      "umls_id": "C0562547",
+      "score": 0.9710313677787781,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A piece of land set aside for public use."
+    },
+    {
+      "text": "patient’s dad",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7586988806724548,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "air",
+      "type": "T167",
+      "umls_id": "C0001861",
+      "score": 0.9960078597068787,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "The mixture of gases present in the earth's atmosphere consisting of oxygen, nitrogen, carbon dioxide, and small amounts of other gases."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "dad",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "click",
+      "type": "T033",
+      "umls_id": "C5549315",
+      "score": 0.9946379661560059,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "cry",
+      "type": "T055",
+      "umls_id": "C0010399",
+      "score": 0.9857836961746216,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To utter an inarticulate, characteristic sound in order to communicate or express a feeling, or desire for attention."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "right forearm",
+      "type": "T029",
+      "umls_id": "C0230360",
+      "score": 0.9931209087371826,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pronated position",
+      "type": "T082",
+      "umls_id": "C0033422",
+      "score": 0.7554286122322083,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The posture of an individual lying face down."
+    },
+    {
+      "text": "elbow",
+      "type": "T029",
+      "umls_id": "C0013769",
+      "score": 0.9933931231498718,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Region of the body immediately surrounding and including the ELBOW JOINT."
+    },
+    {
+      "text": "flexed",
+      "type": "T042",
+      "umls_id": "C0231452",
+      "score": 0.971680223941803,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "lateral aspect",
+      "type": "T082",
+      "umls_id": "C0205093",
+      "score": 0.724459707736969,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated at or extending to the side."
+    },
+    {
+      "text": "elbow",
+      "type": "T029",
+      "umls_id": "C0013769",
+      "score": 0.9933931231498718,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Region of the body immediately surrounding and including the ELBOW JOINT."
+    },
+    {
+      "text": "refuses",
+      "type": "T069",
+      "umls_id": "C0017095",
+      "score": 0.9549108743667603,
+      "semantic_types": [
+        "T069"
+      ],
+      "definition": "Discarded animal and vegetable matter from a kitchen or the refuse from food preparation. (From Random House College Dictionary, 1982)"
+    },
+    {
+      "text": "affected",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.980024516582489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "limb",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9893951416015625,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "passive",
+      "type": "T080",
+      "umls_id": "C3686820",
+      "score": 0.9847415089607239,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "flexion",
+      "type": "T060",
+      "umls_id": "C1627359",
+      "score": 0.8092179894447327,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tests for iliosacral or sacroiliac somatic dysfunction."
+    },
+    {
+      "text": "extension",
+      "type": "T169",
+      "umls_id": "C0231448",
+      "score": 0.9820684194564819,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To increase in length or duration."
+    },
+    {
+      "text": "supination",
+      "type": "T040",
+      "umls_id": "C0038845",
+      "score": 0.9496511220932007,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Applies to movements of the forearm in turning the palm forward or upward. When referring to the foot, a combination of adduction and inversion movements of the foot."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

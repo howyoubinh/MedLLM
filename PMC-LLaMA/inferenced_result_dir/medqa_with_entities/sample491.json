@@ -1,0 +1,285 @@
+{
+  "original_data": {
+    "question": "A 26-year-old woman comes to the physician for a follow-up vaccination 1 week after being bitten by a rodent while camping. She received appropriate post-exposure prophylaxis in the emergency department and has already received 2 doses of the rabies vaccine. The same physician has been managing the post-exposure care regimen. After the physician administers the third dose of the rabies vaccine, the patient asks him if he would like to join her for a movie and dinner. The physician is interested in going on a date with her. Which of the following is the most appropriate reaction for the physician to have to the patient's invitation?",
+    "options": {
+      "A": "Inform the patient that romantic relationships with current patients are unethical.",
+      "B": "Inform the patient that he will go on a date with her because her case is uncomplicated and does not require decision-making on his part.",
+      "C": "Inform the patient that dating her will never be appropriate even once the physician-patient relationship has been terminated.",
+      "D": "Inform the patient that he will go on a date with her, but that she will have to transfer her care to a different physician."
+    }
+  },
+  "model_response": "{'A': 'Inform the patient that romantic relationships with current patients are unethical.', 'B': 'Incorrect.', 'C': 'Incorrect.', 'D': 'Incorrect.'}\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vaccination",
+      "type": "T061",
+      "umls_id": "C0042196",
+      "score": 0.9629972577095032,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Administration of vaccines to stimulate the host's immune response. This includes any preparation intended for active immunological prophylaxis."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "bitten",
+      "type": "T080",
+      "umls_id": "C0235290",
+      "score": 0.7438154220581055,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a sharp, pungent taste."
+    },
+    {
+      "text": "rodent",
+      "type": "T015",
+      "umls_id": "C0035804",
+      "score": 0.9819456338882446,
+      "semantic_types": [
+        "T015"
+      ],
+      "definition": "A mammalian order which consists of 29 families and many genera."
+    },
+    {
+      "text": "camping",
+      "type": "T056",
+      "umls_id": "C0006811",
+      "score": 0.9625434279441833,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Living outdoors as a recreational activity."
+    },
+    {
+      "text": "post-exposure prophylaxis",
+      "type": "T061",
+      "umls_id": "C1443861",
+      "score": 0.9529309868812561,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The prevention of infection or disease following exposure to a pathogen."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "doses",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.9887468218803406,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "rabies vaccine",
+      "type": "T109",
+      "umls_id": "C0034496",
+      "score": 0.9710260629653931,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T129"
+      ],
+      "definition": "Vaccines or candidate vaccines used to prevent and treat RABIES. The inactivated virus vaccine is used for preexposure immunization to persons at high risk of exposure, and in conjunction with rabies immunoglobulin, for postexposure prophylaxis."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "post-exposure care regimen",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "administers",
+      "type": "T169",
+      "umls_id": "C1621583",
+      "score": 0.8566544055938721,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To dispense, apply, or tender something to another, such as administering a medicine."
+    },
+    {
+      "text": "third dose",
+      "type": "T081",
+      "umls_id": "C0205437",
+      "score": 0.736354410648346,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Following the second position in an ordering or series; coming next after the second and just before the fourth in position."
+    },
+    {
+      "text": "rabies vaccine",
+      "type": "T109",
+      "umls_id": "C0034496",
+      "score": 0.9710260629653931,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T129"
+      ],
+      "definition": "Vaccines or candidate vaccines used to prevent and treat RABIES. The inactivated virus vaccine is used for preexposure immunization to persons at high risk of exposure, and in conjunction with rabies immunoglobulin, for postexposure prophylaxis."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "asks",
+      "type": "T074",
+      "umls_id": "C0024861",
+      "score": 0.7834427356719971,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices that cover the nose and mouth to maintain aseptic conditions often for the prevention of the spread of infections (e.g. COVID19) or to administer inhaled anesthetics or other gases."
+    },
+    {
+      "text": "movie",
+      "type": "T073",
+      "umls_id": "C0681495",
+      "score": 0.9796964526176453,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A sequence of images displayed in succession giving the illusion of continuous movement."
+    },
+    {
+      "text": "dinner",
+      "type": "T056",
+      "umls_id": "C4048877",
+      "score": 0.9668680429458618,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "The evening meal, usually the main meal of the day."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "reaction",
+      "type": "T169",
+      "umls_id": "C0443286",
+      "score": 0.9618695378303528,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A response generated by a stimulus."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "invitation",
+      "type": "T170",
+      "umls_id": "C2826348",
+      "score": 0.9398148059844971,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A request (spoken or written) to participate, be present, or take part in something"
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

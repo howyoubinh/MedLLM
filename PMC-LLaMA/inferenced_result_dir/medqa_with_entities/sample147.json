@@ -1,0 +1,466 @@
+{
+  "original_data": {
+    "question": "A 35-year-old woman comes to the physician because she has been feeling very stressed over the past several months. During this period, she has found it difficult to relax. She states that her head is full of worries. She works at an accountant's office and reports difficulty in concentrating on her work. She has been working longer shifts because one of her coworkers is on vacation and reports feeling more tired than usual. She is married and frequently fights with her husband. The patient states that in order to deal with her stress, she goes shopping. While shopping, she steals small trivial items and feels immediately relieved thereafter. She discards the objects she steals and has feelings of shame and guilt about her actions. Her husband is concerned about her behavior, but she is unable to stop shoplifting. Her vital signs are within normal limits. On mental status examination, she is oriented to person, place, and time. She reports feeling anxious. Physical examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Administration of lithium",
+      "B": "Interpersonal therapy",
+      "C": "Psychodynamic psychotherapy",
+      "D": "Cognitive behavioral therapy"
+    }
+  },
+  "model_response": "{'R': 'Reassurance and direct confrontation of the patient', 'S': 'Supportive psychotherapy'}\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "stressed",
+      "type": "T033",
+      "umls_id": "C0038435",
+      "score": 0.989182710647583,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The negative mental, emotional, and physical reactions that occur when environmental stressors are perceived as exceeding the individual's adaptive capacities."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "relax",
+      "type": "T052",
+      "umls_id": "C0035028",
+      "score": 0.9706735610961914,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Activity which reduces the feelings of tension and the effects of STRESS, PHYSIOLOGICAL."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "worries",
+      "type": "T033",
+      "umls_id": "C0233481",
+      "score": 0.9843956232070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Mental distress resulting from concern for something impending or anticipated."
+    },
+    {
+      "text": "accountant's office",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "concentrating",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.8040652871131897,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "work",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.9981837868690491,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "coworkers",
+      "type": "T098",
+      "umls_id": "C0681088",
+      "score": 0.9667876362800598,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vacation",
+      "type": "T056",
+      "umls_id": "C0680199",
+      "score": 0.9553497433662415,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Leisure time away from work devoted to rest or pleasure."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "usual",
+      "type": "T080",
+      "umls_id": "C3538928",
+      "score": 0.949625551700592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "That which is considered customary."
+    },
+    {
+      "text": "married",
+      "type": "T033",
+      "umls_id": "C0024841",
+      "score": 0.9849779009819031,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The social institution involving legal and/or religious sanction whereby individuals are joined together."
+    },
+    {
+      "text": "fights",
+      "type": "T054",
+      "umls_id": "C0424324",
+      "score": 0.9530697464942932,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "deal",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "stress",
+      "type": "T033",
+      "umls_id": "C0038435",
+      "score": 0.9958552122116089,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The negative mental, emotional, and physical reactions that occur when environmental stressors are perceived as exceeding the individual's adaptive capacities."
+    },
+    {
+      "text": "shopping",
+      "type": "T056",
+      "umls_id": "C0150768",
+      "score": 0.9702790975570679,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "The act of searching for or buying goods or services."
+    },
+    {
+      "text": "shopping",
+      "type": "T056",
+      "umls_id": "C0150768",
+      "score": 0.9702790975570679,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "The act of searching for or buying goods or services."
+    },
+    {
+      "text": "trivial",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "items",
+      "type": "T078",
+      "umls_id": "C1552552",
+      "score": 0.7403891682624817,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "<p>Items located</p>"
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "discards",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "objects",
+      "type": "T072",
+      "umls_id": "C0347997",
+      "score": 0.9857949614524841,
+      "semantic_types": [
+        "T072"
+      ],
+      "definition": "Something perceptible by one or more of the senses, especially by vision or touch; a material thing."
+    },
+    {
+      "text": "feelings",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9701847434043884,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "shame",
+      "type": "T041",
+      "umls_id": "C0036938",
+      "score": 0.995279848575592,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "An emotional attitude excited by realization of a shortcoming or impropriety."
+    },
+    {
+      "text": "guilt",
+      "type": "T041",
+      "umls_id": "C0018379",
+      "score": 0.9943167567253113,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Subjective feeling of having committed an error, offense or sin; unpleasant feeling of self-criticism. These result from acts, impulses, or thoughts contrary to one's personal conscience."
+    },
+    {
+      "text": "actions",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9822524785995483,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "behavior",
+      "type": "T053",
+      "umls_id": "C0004927",
+      "score": 0.9808380603790283,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "The observable response of a man or animal to a situation."
+    },
+    {
+      "text": "stop shoplifting",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

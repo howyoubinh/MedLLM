@@ -1,0 +1,244 @@
+{
+  "original_data": {
+    "question": "A 26-year-old man presents to his physician with a history of diarrhea and vomiting for the past 24 hours. On physical examination, his temperature is 36.9ºC (98.4ºF), pulse rate is 110/min, blood pressure is 102/74 mm Hg, and respiratory rate is 16/min. A resident working under the physician plots a Darrow-Yannet diagram for the patient. The diagram is shown in the picture where the green dotted line represents the new fluid status. Which of the following is most likely to show increased secretion in this patient?",
+    "options": {
+      "A": "B-type natriuretic peptide",
+      "B": "Bradykinin",
+      "C": "Renin",
+      "D": "Vasoactive intestinal peptide"
+    }
+  },
+  "model_response": "The patient is presenting with signs and symptoms of heart failure. The Darrow-Yannet diagram shows that the patient is volume overloaded. Natriuretic peptides are hormones that are secreted in response to volume overload. Atrial natriuretic peptide (ANP) and B-type natriuretic peptide (BNP) are released from atrial and ventricular myocytes in response to stretch of the cardiac chambers. Renin is secreted by the kidney in response to decreased renal perfusion pressure. Renin then cleaves angiotensinogen to angiotensin I, which is then converted to angiotensin II by the action of angiotensin-converting enzyme (ACE). Angiotensin II is a potent vasoconstrictor and stimulator of aldosterone secretion. Bradykinin is a potent vasodilator that is released by the kallikrein-kinin system. Vasoactive intestinal peptide (VIP) is a neurotransmitter that is released by nonadrenergic, noncholinergic (NANS) nerves in the gut. VIP is a potent vasodilator and stimulator of intestinal secretion.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse rate",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9629671573638916,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "resident",
+      "type": "T097",
+      "umls_id": "C1320928",
+      "score": 0.9801149368286133,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A physician who has completed medical school and an internship and is in the process of receiving specialised training."
+    },
+    {
+      "text": "working",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.9615688323974609,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "plots",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Darrow-Yannet diagram",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagram",
+      "type": "T170",
+      "umls_id": "C0681494",
+      "score": 0.9839632511138916,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A drawing intended to explain how something works; a drawing showing the relation between the parts."
+    },
+    {
+      "text": "picture",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9875263571739197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "green dotted line",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fluid",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9930761456489563,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "secretion",
+      "type": "T038",
+      "umls_id": "C0036536",
+      "score": 0.9644787311553955,
+      "semantic_types": [
+        "T038"
+      ],
+      "definition": "Used for the discharge across the cell membrane, into the extracellular space or ducts, of endogenous substances resulting from the activity of intact cells of glands, tissues, or organs."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

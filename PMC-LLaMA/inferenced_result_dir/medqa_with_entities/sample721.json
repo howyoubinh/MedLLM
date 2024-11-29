@@ -1,0 +1,216 @@
+{
+  "original_data": {
+    "question": "A 23-year-old woman comes to the physician because of a 2-month history of episodic headaches associated with dizziness, nausea, and vomiting. Over-the-counter pain medications have failed to reduce her symptoms. An MRI of the brain shows isolated dilation of the left lateral ventricle. This dilatation is most likely caused by blockade of which of the following structures?",
+    "options": {
+      "A": "Arachnoid villi",
+      "B": "Interventricular foramen",
+      "C": "Median aperture",
+      "D": "Lateral apertures"
+    }
+  },
+  "model_response": "The lateral apertures (foramina of Monro) are the only structures in the options set that connect the lateral ventricle to the third ventricle. The arachnoid villi are outpouchings of the arachnoid mater that project into the subarachnoid space. The interventricular foramen (of Monro) connects the lateral ventricle with the third ventricle. The median aperture (of Magendie) is the opening in the roof of the fourth ventricle. The cerebral aqueduct connects the third ventricle with the fourth ventricle.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "episodic",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9820683002471924,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "pain medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8422669172286987,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "reduce",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.7874446511268616,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "MRI",
+      "type": "T060",
+      "umls_id": "C0024485",
+      "score": 0.9940130114555359,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Non-invasive method of demonstrating internal anatomy based on the principle that atomic nuclei in a strong magnetic field absorb pulses of radiofrequency energy and emit them as radiowaves which can be reconstructed into computerized images. The concept includes proton spin tomographic techniques."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "isolated",
+      "type": "T169",
+      "umls_id": "C0205409",
+      "score": 0.9878936409950256,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A state of separation; the act of isolating something; setting something apart from others; marked by separation of or from usually contiguous elements."
+    },
+    {
+      "text": "dilation",
+      "type": "T046",
+      "umls_id": "C0012359",
+      "score": 0.9621376395225525,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being dilated beyond normal dimensions."
+    },
+    {
+      "text": "left lateral ventricle",
+      "type": "T023",
+      "umls_id": "C0228161",
+      "score": 0.9834426641464233,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dilatation",
+      "type": "T046",
+      "umls_id": "C0012359",
+      "score": 0.9688019752502441,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being dilated beyond normal dimensions."
+    },
+    {
+      "text": "blockade",
+      "type": "T169",
+      "umls_id": "C0332206",
+      "score": 0.9630051851272583,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Interrupt the normal function of; hinder or prevent the progress or accomplishment of; stop from happening or developing; interfere with or prevent the reception of signals; impede the movement of."
+    },
+    {
+      "text": "structures",
+      "type": "T082",
+      "umls_id": "C0678594",
+      "score": 0.9937869906425476,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The components and their relationship and manner of arrangement in constituting a whole."
+    },
+    {
+      "text": "23-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

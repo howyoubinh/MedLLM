@@ -1,0 +1,242 @@
+{
+  "original_data": {
+    "question": "A 17-year-old man presents to his family physician for an evaluation about the size of his penis. He feels increasingly anxious during physical education (PE) class as he has noticed that the size of his penis is significantly smaller when compared to his peers. Based on the physical examination, he is Tanner stage 1. The weight and height are 60 kg (132 lb) and 175 cm (5 ft 9 in), respectively. The cardiopulmonary examination is normal; however, the patient has difficulty identifying coffee grounds by smell. Which of the following explains the pathophysiology underlying this patient’s disorder?",
+    "options": {
+      "A": "Expansion of a CTG trinucleotide repeat",
+      "B": "Isolated gonadotropin-releasing hormone (GnRH) deficiency",
+      "C": "Sex-specific epigenetic imprinting",
+      "D": "Non-disjunction of sex chromosomes"
+    }
+  },
+  "model_response": "The patient has Kallmann syndrome, which is characterized by hypogonadotropic hypogonadism and anosmia. Isolated GnRH deficiency is a cause of delayed puberty. The GnRH deficiency results in low levels of LH and FSH, which in turn leads to low levels of testosterone and estrogen. The patient has a Tanner stage 1, which is consistent with delayed puberty. The patient has a normal sense of smell, which is also consistent with Kallmann syndrome. The disorder is caused by an expansion of a CTG trinucleotide repeat in the X-linked KAL gene, which maps to Xp22.3. The KAL gene encodes anosmin-1, which is a neural adhesion molecule that promotes migration of GnRH neurons and olfactory neurons, from the olfactory placode into the hypothalamus during embryonic development. Anosmin-1 also functions as a neurite-promoting factor for GnRH neurons. The expansion of the CTG trinucleotide repeat in the KAL gene results in decreased production of anosmin-1, which in turn results in the failure of migration of GnRH neurons and olfactory neurons into the hypothalamus. The failure of GnRH neurons to migrate into the hypothalamus results in low levels of LH and FSH. The failure of olfactory neurons to migrate into the hypothalamus results in anosmia. Sex-specific epigenetic imprinting refers to the phenomenon whereby the expression of a gene depends on the parent of origin. This is not the case for Kallmann syndrome. Non-disjunction of sex chromosomes refers to the failure of chromosomes to separate properly during meiosis. This can result in conditions such as Klinefelter syndrome (47,XXY) or Turner syndrome (45,XO). These conditions are associated with gonadal dysgenesis and not with the development of GnRH neurons.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "family physician",
+      "type": "T097",
+      "umls_id": "C1704221",
+      "score": 0.995156466960907,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those physicians who have completed the education requirements specified by the American Academy of Family Physicians."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "penis",
+      "type": "T023",
+      "umls_id": "C0030851",
+      "score": 0.9940736293792725,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external reproductive organ of males. It is composed of a mass of erectile tissue enclosed in three cylindrical fibrous compartments. Two of the three compartments, the corpus cavernosa, are placed side-by-side along the upper part of the organ. The third compartment below, the corpus spongiosum, houses the urethra."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "physical education",
+      "type": "T065",
+      "umls_id": "C0031805",
+      "score": 0.9618253111839294,
+      "semantic_types": [
+        "T065"
+      ],
+      "definition": null
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "penis",
+      "type": "T023",
+      "umls_id": "C0030851",
+      "score": 0.9940736293792725,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The external reproductive organ of males. It is composed of a mass of erectile tissue enclosed in three cylindrical fibrous compartments. Two of the three compartments, the corpus cavernosa, are placed side-by-side along the upper part of the organ. The third compartment below, the corpus spongiosum, houses the urethra."
+    },
+    {
+      "text": "peers",
+      "type": "T098",
+      "umls_id": "C0679739",
+      "score": 0.964705765247345,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons who are equal in one or more respects, including age, education, religion, sex, or social class."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Tanner stage 1",
+      "type": "T079",
+      "umls_id": "C2826146",
+      "score": 0.9409476518630981,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A scale of physical development in children, adolescents and adults based on external primary and secondary sex characteristics, such as the size of the breasts, genitalia, and development of pubic hair."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "cardiopulmonary examination",
+      "type": "T029",
+      "umls_id": "C0553534",
+      "score": 0.7492822408676147,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Pertaining to both the heart and the lungs."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "coffee",
+      "type": "T168",
+      "umls_id": "C0009237",
+      "score": 0.9724447727203369,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A beverage made from ground COFFEA beans (SEEDS) infused in hot water. It generally contains CAFFEINE and THEOPHYLLINE unless it is decaffeinated."
+    },
+    {
+      "text": "smell",
+      "type": "T040",
+      "umls_id": "C0037361",
+      "score": 0.9886713027954102,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The ability to detect scents or odors, such as the function of OLFACTORY RECEPTOR NEURONS."
+    },
+    {
+      "text": "pathophysiology",
+      "type": "T169",
+      "umls_id": "C0031847",
+      "score": 0.9926236271858215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs and diseases for disordered function in disease states."
+    },
+    {
+      "text": "patient’s disorder",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.7518325448036194,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "17-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

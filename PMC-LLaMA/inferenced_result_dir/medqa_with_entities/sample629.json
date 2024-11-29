@@ -1,0 +1,251 @@
+{
+  "original_data": {
+    "question": "A 16-year-old boy is brought to the emergency department by ambulance from a soccer game. During the game, he was about to kick the ball when another player collided with his leg from the front. He was unable to stand up after this collision and reported severe knee pain. On presentation, he was found to have a mild knee effusion. Physical exam showed that his knee could be pushed posteriorly at 90 degrees of flexion but it could not be pulled anteriorly in the same position. The anatomic structure that was most likely injured in this patient has which of the following characteristics?",
+    "options": {
+      "A": "Runs anteriorly from the medial femoral condyle",
+      "B": "Runs medially from the lateral femoral condyle",
+      "C": "Runs posteriorly from the lateral femoral condyle",
+      "D": "Runs posteriorly from the medial femoral condyle"
+    }
+  },
+  "model_response": "The popliteus muscle runs from the lateral femoral condyle to the posterior surface of the tibia. It inserts on the posterior surface of the tibia, and its function is to unlock the knee joint by lateral rotation of the femur on the tibia prior to extension. This muscle is innervated by the tibial nerve. The structure that is damaged in this patient is the ligament that runs from the medial femoral condyle to the medial tibia. This ligament is called the medial collateral ligament (MCL). The anterior cruciate ligament runs from the medial femoral condyle to the anterior surface of the tibia. It is tensed in extension and prevents anterior displacement of the tibia on the femur. The anterior cruciate ligament is innervated by the tibial nerve. The lateral collateral ligament runs from the lateral femoral condyle to the head of the fibula. It prevents posterior displacement of the tibia on the femur. The lateral collateral ligament is innervated by the common peroneal nerve. The iliotibial band runs from the iliac crest to Gerdy's tubercle on the tibia. It is a thick band of fascia and is not attached to the knee joint.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "ambulance",
+      "type": "T074",
+      "umls_id": "C0002422",
+      "score": 0.9756193161010742,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A vehicle equipped for transporting patients in need of emergency care."
+    },
+    {
+      "text": "soccer game",
+      "type": "T056",
+      "umls_id": "C0037393",
+      "score": 0.7522283792495728,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A game in which a round inflated ball is advanced by kicking or propelling with any part of the body except the hands or arms. The object of the game is to place the ball in opposite goals."
+    },
+    {
+      "text": "game",
+      "type": "T056",
+      "umls_id": "C0150593",
+      "score": 0.9978992938995361,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ball",
+      "type": "T073",
+      "umls_id": "C1706910",
+      "score": 0.9862775802612305,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Any device that is spherical in shape."
+    },
+    {
+      "text": "player",
+      "type": "T062",
+      "umls_id": "C1879662",
+      "score": 0.7601269483566284,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Summarizes probe sets using the 'player out' statistical algorithm. Defined in the documents available at http://bioconductor.org/packages/1.9/bioc/html/affy.html."
+    },
+    {
+      "text": "leg",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.971088171005249,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "front",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.9881469011306763,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "stand",
+      "type": "T033",
+      "umls_id": "C0596013",
+      "score": 0.9981156587600708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "collision",
+      "type": "T037",
+      "umls_id": "C0337196",
+      "score": 0.9770013093948364,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "An accident resulting from violent impact of a moving object; an brief event in which two or more bodies come together."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "knee pain",
+      "type": "T184",
+      "umls_id": "C0231749",
+      "score": 0.9724318385124207,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the knee. [UToronto:chum]"
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "mild knee effusion",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "knee",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9991382360458374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "degrees",
+      "type": "T081",
+      "umls_id": "C0449286",
+      "score": 0.965452253818512,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "flexion",
+      "type": "T060",
+      "umls_id": "C1627359",
+      "score": 0.8092179894447327,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tests for iliosacral or sacroiliac somatic dysfunction."
+    },
+    {
+      "text": "position",
+      "type": "T082",
+      "umls_id": "C0733755",
+      "score": 0.977912187576294,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A reference to the alignment of an object, a particular situation or view of a situation, or the location of an object."
+    },
+    {
+      "text": "anatomic structure",
+      "type": "T017",
+      "umls_id": "C0700276",
+      "score": 0.9936451315879822,
+      "semantic_types": [
+        "T017"
+      ],
+      "definition": "tree section heading for anatomical, physiological, and related terms."
+    },
+    {
+      "text": "injured",
+      "type": "T169",
+      "umls_id": "C0332664",
+      "score": 0.9671863317489624,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "characteristics",
+      "type": "T080",
+      "umls_id": "C1521970",
+      "score": 0.9741553068161011,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The distinguishing qualities or prominent aspect of a person, object, action, process, or substance."
+    },
+    {
+      "text": "16-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

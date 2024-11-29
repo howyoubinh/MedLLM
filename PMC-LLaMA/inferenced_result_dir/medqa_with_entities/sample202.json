@@ -1,0 +1,362 @@
+{
+  "original_data": {
+    "question": "A 48-year-old female presents for a follow-up appointment to discuss her ultrasound results. She presented with a lump in her neck 2 weeks ago. On examination, a thyroid nodule was present; the nodule was fixed, immobile, and non-tender. Ultrasound showed a hypoechoic nodule with a size of 2 cm. Histological examination of a fine needle biopsy was performed and cytological examination reported a likely suspicion of neoplasia. CT scan is performed to check for any lesions in the bones and/or lungs, common metastatic sites in this condition. Treatment with radioiodine therapy is planned after near-total thyroidectomy. Considering this tumor, which of the following is the most likely initial metastatic site in this patient?",
+    "options": {
+      "A": "Trachea",
+      "B": "Cervical lymph nodes",
+      "C": "Inferior thyroid arteries",
+      "D": "Thyrohyoid muscle"
+    }
+  },
+  "model_response": "The answer is A: Trachea. The most common site of initial metastasis in patients with papillary thyroid cancer is the trachea. This is followed by spread to the lungs, bones, liver, and brain. The trachea is involved in 3-8% of cases, and the lungs in 2-4%. Lymph node involvement is seen in 30-50% of cases. Source: Schwaz's Principles of Surgery, 9th edition, chapter 38.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "lump",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.986535906791687,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "thyroid nodule",
+      "type": "T191",
+      "umls_id": "C0040137",
+      "score": 0.9875204563140869,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A small circumscribed mass in the THYROID GLAND that can be of neoplastic growth or non-neoplastic abnormality. It lacks a well-defined capsule or glandular architecture. Thyroid nodules are often benign but can be malignant. The growth of nodules can lead to a multinodular goiter (GOITER, NODULAR)."
+    },
+    {
+      "text": "nodule",
+      "type": "T020",
+      "umls_id": "C0028259",
+      "score": 0.984438419342041,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": "A small lump, swelling or collection of tissue."
+    },
+    {
+      "text": "immobile",
+      "type": "T033",
+      "umls_id": "C0231441",
+      "score": 0.9889448285102844,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is not mobile."
+    },
+    {
+      "text": "non-tender",
+      "type": "T080",
+      "umls_id": "C0520960",
+      "score": 0.9690245389938354,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "hypoechoic nodule",
+      "type": "T033",
+      "umls_id": "C4720860",
+      "score": 0.9741249680519104,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "Histological",
+      "type": "T169",
+      "umls_id": "C0205462",
+      "score": 0.9802926182746887,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Pertaining to the combined microscopic physical features of cells and their surrounding extracellular environment in tissues."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "needle biopsy",
+      "type": "T060",
+      "umls_id": "C0005560",
+      "score": 0.9723770022392273,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and examination of tissue obtained through a transdermal needle inserted into the specific region, organ, or tissue being analyzed."
+    },
+    {
+      "text": "cytological examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.7417027950286865,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "suspicion",
+      "type": "T041",
+      "umls_id": "C0242114",
+      "score": 0.9571734070777893,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "An impression that something is possible or probable."
+    },
+    {
+      "text": "neoplasia",
+      "type": "T191",
+      "umls_id": "C0027651",
+      "score": 0.9894291758537292,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "New abnormal growth of tissue. Malignant neoplasms show a greater degree of anaplasia and have the properties of invasion and metastasis, compared to benign neoplasms."
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "check",
+      "type": "T052",
+      "umls_id": "C1283174",
+      "score": 0.9828171133995056,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of inspecting or verifying."
+    },
+    {
+      "text": "lesions",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9854557514190674,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "bones",
+      "type": "T023",
+      "umls_id": "C0262950",
+      "score": 0.9903292655944824,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The structural organ comprised of specialized connective tissue that forms the skeletal components of the body."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "metastatic sites",
+      "type": "T029",
+      "umls_id": "C5419525",
+      "score": 0.8917820453643799,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anatomical location where metastasis was detected."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "Treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "radioiodine therapy",
+      "type": "T061",
+      "umls_id": "C0203610",
+      "score": 0.7395702004432678,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of radioactive iodine to treat disease."
+    },
+    {
+      "text": "near-total thyroidectomy",
+      "type": "T061",
+      "umls_id": "C0193788",
+      "score": 0.8285017013549805,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgery involving the complete excision of the thyroid gland."
+    },
+    {
+      "text": "tumor",
+      "type": "T191",
+      "umls_id": "C0027651",
+      "score": 0.990729808807373,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "New abnormal growth of tissue. Malignant neoplasms show a greater degree of anaplasia and have the properties of invasion and metastasis, compared to benign neoplasms."
+    },
+    {
+      "text": "metastatic site",
+      "type": "T029",
+      "umls_id": "C5419525",
+      "score": 0.9868586659431458,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anatomical location where metastasis was detected."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "48-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

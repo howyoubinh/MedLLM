@@ -1,0 +1,496 @@
+{
+  "original_data": {
+    "question": "A 46-year-old man is brought to the emergency department 15 minutes after being involved in a motor vehicle collision where he was the unrestrained driver. On arrival, he is unconscious. His respirations are 24/min, and palpable systolic blood pressure is 60 mm Hg, and pulse is 141/min and irregularly irregular. Examination shows multiple ecchymoses over the chest. There is a 3-cm (1.2-in) laceration over the abdomen and a 4-cm (1.6-in) laceration over the scalp. Jugular venous pressure is increased. Bilateral crackles are heard at the lung bases. Cardiac examination shows no murmurs, rubs, or gallops. The abdomen is soft. Two large bore intravenous catheters are inserted and 0.9% saline infusion is begun. Focused assessment with sonography in trauma (FAST) is negative. An electrocardiogram shows absent p-waves. After 5 minutes, his pulse is 160/min and palpable systolic blood pressure is 50 mm Hg. Vasopressors are administered. One hour later, the patient dies. Which of the following was the most likely diagnosis?",
+    "options": {
+      "A": "Cardiac contusion",
+      "B": "Hemothorax",
+      "C": "Aortic dissection",
+      "D": "Pulmonary contusion"
+    }
+  },
+  "model_response": "The most common cause of death after blunt trauma to the chest is cardiac contusion. Cardiac contusion is usually associated with other thoracic injuries, such as pulmonary contusion, hemothorax, and fractured ribs. The presence of a cardiac contusion is usually not recognized during the initial evaluation of a patient with blunt chest trauma. The patient may have chest pain and dyspnea unresponsive to standard therapy. Cardiac markers may be helpful in making the diagnosis, but do not always correlate with the severity of the injury. The ECG may show ST-segment elevations or depressions, or T-wave inversions. Cardiac contusion is usually treated with observation and, if necessary, diuresis. Occasionally, a patient will develop cardiac tamponade, which requires prompt pericardiocentesis.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "motor vehicle collision",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.9606273174285889,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "systolic blood pressure",
+      "type": "T201",
+      "umls_id": "C0488055",
+      "score": 0.9900684356689453,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "ecchymoses",
+      "type": "T046",
+      "umls_id": "C0013491",
+      "score": 0.9782019257545471,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Extravasation of blood into the skin, resulting in a nonelevated, rounded or irregular, blue or purplish patch, larger than a petechia."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "laceration",
+      "type": "T037",
+      "umls_id": "C0043246",
+      "score": 0.9825586080551147,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Torn, ragged, mangled wounds."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "laceration",
+      "type": "T037",
+      "umls_id": "C0043246",
+      "score": 0.9825586080551147,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Torn, ragged, mangled wounds."
+    },
+    {
+      "text": "scalp",
+      "type": "T023",
+      "umls_id": "C0036270",
+      "score": 0.9698323011398315,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The outer covering of the calvaria. It is composed of several layers: SKIN; subcutaneous connective tissue; the occipitofrontal muscle which includes the tendinous galea aponeurotica; loose connective tissue; and the pericranium (the PERIOSTEUM of the SKULL)."
+    },
+    {
+      "text": "Jugular",
+      "type": "T023",
+      "umls_id": "C0022427",
+      "score": 0.8375517129898071,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Veins in the neck which drain the brain, face, and neck into the brachiocephalic or subclavian veins."
+    },
+    {
+      "text": "venous pressure",
+      "type": "T040",
+      "umls_id": "C0042486",
+      "score": 0.9842603802680969,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The blood pressure in the VEINS. It is usually measured to assess the filling PRESSURE to the HEART VENTRICLE."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Bilateral crackles",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.7125228047370911,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "Cardiac examination",
+      "type": "T060",
+      "umls_id": "C5238613",
+      "score": 0.8230605125427246,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A physical examination focusing on areas of interest other than the heart."
+    },
+    {
+      "text": "no murmurs",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.8949203491210938,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "rubs",
+      "type": "T033",
+      "umls_id": "C0232267",
+      "score": 0.9888054132461548,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An auscultated finding describing high or medium pitched and scratchy sound, generated by inflammation of the pericardial sac. (ACC-AHA)"
+    },
+    {
+      "text": "gallops",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "intravenous catheters",
+      "type": "T074",
+      "umls_id": "C0745442",
+      "score": 0.9758834838867188,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A hollow tube that is inserted into a vein."
+    },
+    {
+      "text": "inserted",
+      "type": "T058",
+      "umls_id": "C0441587",
+      "score": 0.9866676330566406,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The act of putting one thing into another."
+    },
+    {
+      "text": "saline",
+      "type": "T121",
+      "umls_id": "C0036082",
+      "score": 0.989200234413147,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A crystalloid solution that contains 9.0g of SODIUM CHLORIDE per liter of water. It has a variety of uses, including: as a CONTACT LENS SOLUTION, in OPHTHALMIC SOLUTIONS and NASAL LAVAGE, in wound irrigation, and for FLUID THERAPY."
+    },
+    {
+      "text": "infusion",
+      "type": "T061",
+      "umls_id": "C0574032",
+      "score": 0.9552825093269348,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Any form of treatment that is introduced into the body via a blood vessel, a muscle, or the spinal cord."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Focused assessment",
+      "type": "T060",
+      "umls_id": "C4524267",
+      "score": 0.7722985744476318,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Rapid bedside ultrasound examination performed by medical personnel (surgeons, emergency physicians, paramedics and others), as a screening test for blood around the heart (PERICARDIAL EFFUSION) or abdominal organs (HEMOPERITONEUM) after trauma."
+    },
+    {
+      "text": "sonography",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9966904520988464,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "trauma",
+      "type": "T037",
+      "umls_id": "C0043251",
+      "score": 0.9664932489395142,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Damage inflicted on the body as the direct or indirect result of an external force, with or without disruption of structural continuity."
+    },
+    {
+      "text": "FAST",
+      "type": "T033",
+      "umls_id": "C0015663",
+      "score": 0.9840474724769592,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abstaining from FOOD."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "electrocardiogram",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.9919003248214722,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "p-waves",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "systolic blood pressure",
+      "type": "T201",
+      "umls_id": "C0488055",
+      "score": 0.9900684356689453,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Vasopressors",
+      "type": "T121",
+      "umls_id": "C0042397",
+      "score": 0.9915140271186829,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs used to cause constriction of the blood vessels."
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "patient dies",
+      "type": "T033",
+      "umls_id": "C1306577",
+      "score": 0.9763363599777222,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "46-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

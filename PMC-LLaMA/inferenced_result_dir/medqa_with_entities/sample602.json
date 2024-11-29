@@ -1,0 +1,371 @@
+{
+  "original_data": {
+    "question": "A 24-year-old woman presents to a physician with a history of exposure to a close friend who was diagnosed with meningococcal meningitis. She was told by her friend that she need to see a physician because she needs to be treated as well, even if she is not having symptoms yet. She currently denies any headaches, vision changes, nausea or vomiting, or neck stiffness. Her physical exam is within normal limits. Her vital signs are stable. She is prescribed rifampin for prophylaxis with specific instructions on when to follow up if symptoms develop. When asked about the possibility of pregnancy, she mentioned that she uses combination oral contraceptive pills (OCPs) for contraception. The physician suggested that her husband should use condoms for contraception as she requires antibiotic therapy. Which of the following mechanisms best explains the need for additional contraception?",
+    "options": {
+      "A": "Rifampin alters normal gastrointestinal flora, which leads to a decrease in the enterohepatic circulation of estrogens.",
+      "B": "Rifampin inhibits CYP3A4, which metabolizes progestins.",
+      "C": "Rifampin alters normal gastrointestinal flora, which leads to a decrease in the enterohepatic circulation of progestins.",
+      "D": "Rifampin directly interferes with intestinal absorption of estrogens."
+    }
+  },
+  "model_response": "The physician is correct in suggesting that the husband use condoms for contraception while the wife is on rifampin. Rifampin is a potent hepatic enzyme inducer and can increase the metabolism of steroids, including those contained in combination oral contraceptive pills (OCPs). Rifampin alters normal gastrointestinal flora, which leads to a decrease in the enterohepatic circulation of estrogens and progestins. Therefore, the OCP efficacy may be decreased while the patient is taking rifampin.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "exposure to",
+      "type": "T080",
+      "umls_id": "C0332157",
+      "score": 0.9658212065696716,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The act of subjecting someone or something to an influencing experience."
+    },
+    {
+      "text": "friend",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9789092540740967,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "meningococcal meningitis",
+      "type": "T047",
+      "umls_id": "C0025294",
+      "score": 0.9653372168540955,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A fulminant infection of the meninges and subarachnoid fluid by the bacterium NEISSERIA MENINGITIDIS, producing diffuse inflammation and peri-meningeal venous thromboses. Clinical manifestations include FEVER, nuchal rigidity, SEIZURES, severe HEADACHE, petechial rash, stupor, focal neurologic deficits, HYDROCEPHALUS, and COMA. The organism is usually transmitted via nasopharyngeal secretions and is a leading cause of meningitis in children and young adults. Organisms from Neisseria meningitidis serogroups A, B, C, Y, and W-135 have been reported to cause meningitis. (From Adams et al., Principles of Neurology, 6th ed, pp689-701; Curr Opin Pediatr 1998 Feb;10(1):13-8)"
+    },
+    {
+      "text": "friend",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9789092540740967,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "vision changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.7229225039482117,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "neck stiffness",
+      "type": "T184",
+      "umls_id": "C0151315",
+      "score": 0.9585690498352051,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Limited mobility of the neck, usually accompanied by pain."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "stable",
+      "type": "T080",
+      "umls_id": "C0205360",
+      "score": 0.996412992477417,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of being free from change or variation or not taking part readily in chemical change."
+    },
+    {
+      "text": "rifampin",
+      "type": "T109",
+      "umls_id": "C0035608",
+      "score": 0.967027485370636,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A semisynthetic antibiotic produced from Streptomyces mediterranei. It has a broad antibacterial spectrum, including activity against several forms of Mycobacterium. In susceptible organisms it inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme. It thus suppresses the initiation of RNA synthesis. Rifampin is bactericidal, and acts on both intracellular and extracellular organisms. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p1160)"
+    },
+    {
+      "text": "prophylaxis",
+      "type": "T080",
+      "umls_id": "C0033107",
+      "score": 0.9599927067756653,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with disease headings for increasing human or animal resistance against disease (e.g., immunization), for control of transmission agents, for prevention and control of environmental hazards, or for prevention and control of social factors leading to disease. It includes preventive measures in individual cases."
+    },
+    {
+      "text": "instructions",
+      "type": "T170",
+      "umls_id": "C0302828",
+      "score": 0.9738863110542297,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A message describing how something is to be done."
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "combination oral contraceptive pills",
+      "type": "T121",
+      "umls_id": "C0009906",
+      "score": 0.7609126567840576,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Fixed drug combinations administered orally for contraceptive purposes."
+    },
+    {
+      "text": "OCPs",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "contraception",
+      "type": "T061",
+      "umls_id": "C0700589",
+      "score": 0.9830462336540222,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Prevention of CONCEPTION by blocking fertility temporarily, or permanently (STERILIZATION, REPRODUCTIVE). Common means of reversible contraception include NATURAL FAMILY PLANNING METHODS; CONTRACEPTIVE AGENTS; or CONTRACEPTIVE DEVICES."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "condoms",
+      "type": "T074",
+      "umls_id": "C0009653",
+      "score": 0.9629577398300171,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A sheath that is worn over the penis during sexual behavior in order to prevent pregnancy or spread of sexually transmitted disease."
+    },
+    {
+      "text": "contraception",
+      "type": "T061",
+      "umls_id": "C0700589",
+      "score": 0.9830462336540222,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Prevention of CONCEPTION by blocking fertility temporarily, or permanently (STERILIZATION, REPRODUCTIVE). Common means of reversible contraception include NATURAL FAMILY PLANNING METHODS; CONTRACEPTIVE AGENTS; or CONTRACEPTIVE DEVICES."
+    },
+    {
+      "text": "antibiotic therapy",
+      "type": "T061",
+      "umls_id": "C0338237",
+      "score": 0.9777736663818359,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Treatment of bacterial infections with antibiotics."
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "contraception",
+      "type": "T061",
+      "umls_id": "C0700589",
+      "score": 0.9830462336540222,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Prevention of CONCEPTION by blocking fertility temporarily, or permanently (STERILIZATION, REPRODUCTIVE). Common means of reversible contraception include NATURAL FAMILY PLANNING METHODS; CONTRACEPTIVE AGENTS; or CONTRACEPTIVE DEVICES."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "original_data": {
+    "question": "A 58-year-old man comes to the emergency department because of increasing shortness of breath and a nonproductive cough for the last week. Three weeks ago, he had a fever and a cough for 6 days after he returned from a trip to Southeast Asia. He has had a 4-kg (9-lb) weight loss over the past 3 months. He has bronchial asthma and hypertension. He has smoked one pack of cigarettes daily for 41 years. Current medications include an albuterol inhaler and enalapril. His temperature is 37.6°C (99.7°F), pulse is 88/min, respirations are 20/min, and blood pressure is 136/89 mm Hg. There is dullness to percussion, decreased breath sounds, and decreased tactile fremitus over the left lung base. Cardiac examination shows no abnormalities. Chest x-ray of this patient is most likely to show which of the following?",
+    "options": {
+      "A": "Elevation of diaphragm",
+      "B": "Ground glass appearance",
+      "C": "Widened intercostal spaces",
+      "D": "Blunting of costophrenic angle"
+    }
+  },
+  "model_response": "{'A': 'Elevation of diaphragm', 'B': 'Ground glass appearance', 'C': 'Widened intercostal spaces', 'D': 'Blunting of costophrenic angle'}\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "nonproductive cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9491277933120728,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "returned",
+      "type": "T080",
+      "umls_id": "C3828769",
+      "score": 0.8520058393478394,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An indication that an item was not returned."
+    },
+    {
+      "text": "Southeast Asia",
+      "type": "T083",
+      "umls_id": "C0003983",
+      "score": 0.9832112789154053,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "The geographical area of Asia comprising BORNEO; BRUNEI; CAMBODIA; INDONESIA; LAOS; MALAYSIA; the MEKONG VALLEY; MYANMAR (formerly Burma), the PHILIPPINES; SINGAPORE; THAILAND; and VIETNAM."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "bronchial asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.9720533490180969,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "inhaler",
+      "type": "T074",
+      "umls_id": "C0021461",
+      "score": 0.9644812345504761,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A device by means of which a medicinal product can be administered by inspiration through the nose or the mouth."
+    },
+    {
+      "text": "enalapril",
+      "type": "T116",
+      "umls_id": "C0014025",
+      "score": 0.9851265549659729,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "An angiotensin-converting enzyme inhibitor that is used to treat HYPERTENSION and HEART FAILURE."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "dullness",
+      "type": "T033",
+      "umls_id": "C0541911",
+      "score": 0.974902331829071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "percussion",
+      "type": "T060",
+      "umls_id": "C0030987",
+      "score": 0.9690043926239014,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of striking a part with short, sharp blows as an aid in diagnosing the condition beneath the sound obtained."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "breath sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9867587685585022,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "tactile",
+      "type": "T080",
+      "umls_id": "C0439815",
+      "score": 0.9815123081207275,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fremitus",
+      "type": "T184",
+      "umls_id": "C0231890",
+      "score": 0.9821311235427856,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Vibration felt on the chest wall, either by examiner or subjective"
+    },
+    {
+      "text": "left lung base",
+      "type": "T029",
+      "umls_id": "C0225732",
+      "score": 0.9799090623855591,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Cardiac examination",
+      "type": "T060",
+      "umls_id": "C5238613",
+      "score": 0.8230605125427246,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A physical examination focusing on areas of interest other than the heart."
+    },
+    {
+      "text": "Chest x-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "original_data": {
+    "question": "A 52-year-old man presents to the physician with a 6-month history of shortness of breath and nonproductive cough. He was recently diagnosed with stage 3 embryonal carcinoma testicular cancer. Following an orchiectomy, he was placed on chemotherapy. Cardiopulmonary examination shows fine inspiratory crackles bilaterally. There is clubbing present in the fingers bilaterally. Pulmonary function tests (PFTs) show FVC is 78% of expected and FEV1/FVC ratio is 92%. A CT scan of the chest is shown. Which of the following drugs is responsible for the patient’s condition?",
+    "options": {
+      "A": "Bleomycin",
+      "B": "Carboplatin",
+      "C": "Cisplatin",
+      "D": "Ifosfamide"
+    }
+  },
+  "model_response": "The CT scan shows diffuse bilateral pulmonary infiltrates consistent with pulmonary fibrosis. The patient was most likely treated with bleomycin, which is known to cause pulmonary fibrosis. The other chemotherapeutic agents listed are not known to cause pulmonary fibrosis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "nonproductive cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9491277933120728,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "stage 3",
+      "type": "T170",
+      "umls_id": "C0441771",
+      "score": 0.9874333739280701,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Locally advanced cancer that has spread to nearby organs but not to distant anatomic sites."
+    },
+    {
+      "text": "embryonal carcinoma",
+      "type": "T191",
+      "umls_id": "C0206659",
+      "score": 0.9716752767562866,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A highly malignant, primitive form of carcinoma, probably of germinal cell or teratomatous derivation, usually arising in a gonad and rarely in other sites. It is rare in the female ovary, but in the male it accounts for 20% of all testicular tumors. (From Dorland, 27th ed & Holland et al., Cancer Medicine, 3d ed, p1595)"
+    },
+    {
+      "text": "testicular cancer",
+      "type": "T191",
+      "umls_id": "C0153594",
+      "score": 0.9951111674308777,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm that affects the testis. Representative examples include seminoma, embryonal carcinoma, sarcoma, leukemia, and lymphoma."
+    },
+    {
+      "text": "orchiectomy",
+      "type": "T061",
+      "umls_id": "C0029189",
+      "score": 0.9706741571426392,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The surgical removal of one or both testicles."
+    },
+    {
+      "text": "chemotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9887933135032654,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "Cardiopulmonary examination",
+      "type": "T029",
+      "umls_id": "C0553534",
+      "score": 0.7492822408676147,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Pertaining to both the heart and the lungs."
+    },
+    {
+      "text": "inspiratory",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9872371554374695,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "fingers",
+      "type": "T023",
+      "umls_id": "C0016129",
+      "score": 0.990062415599823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Four or five slender jointed digits in humans and primates, attached to each HAND."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Pulmonary function tests",
+      "type": "T060",
+      "umls_id": "C0024119",
+      "score": 0.9757304191589355,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A broad range of tests that are performed to assess how well lungs inhale and exhale air and how efficiently they transfer oxygen into the blood."
+    },
+    {
+      "text": "PFTs",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "FVC",
+      "type": "T034",
+      "umls_id": "C3714541",
+      "score": 0.9968973398208618,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The maximum volume of air that can be exhaled after forced maximum inhalation."
+    },
+    {
+      "text": "FEV1/FVC ratio",
+      "type": "T033",
+      "umls_id": "C4280729",
+      "score": 0.8461078405380249,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally low FEV1/FVC (FEV1 - forced expiratory volume in 1 second; FVC forced vital capacity). [NIHR:ldaugherty, PMID:22347750, PMID:24695507]"
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "52-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

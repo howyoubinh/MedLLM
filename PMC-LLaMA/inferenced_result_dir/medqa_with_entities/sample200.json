@@ -1,0 +1,432 @@
+{
+  "original_data": {
+    "question": "An unconscious 55-year-old man is brought to the Emergency Department by ambulance. He had recently lost his job and his house was about to begin foreclosure. His adult children were concerned for his well being and called the police requesting a welfare check. He was found unresponsive in his gurague. There were several empty bottles of vodka around him and one half empty container of antifreeze. A review of his medical records reveals that he was previously in good health. Upon arrival to the ED he regains consciousness.  His blood pressure is 135/85 mmHg, heart rate 120/min, respiratory rate 22/min, and temperature 36.5°C (97.7°F). On physical exam his speech is slurred and he has difficulty following commands. His abdomen is diffusely tender to palpation with no rebound tenderness. Initial laboratory tests show an elevated serum creatinine (Cr) of 1.9 mg/dL, and blood urea nitrogen (BUN) of 29 mg/dL. Which of the following findings would be expected in this patient’s urine?",
+    "options": {
+      "A": "Calcium oxalate crystals",
+      "B": "Hyaline casts",
+      "C": "Urine ketones",
+      "D": "Urate crystals"
+    }
+  },
+  "model_response": "This patient’s urine would be expected to contain calcium oxalate crystals. Ethylene glycol, as well as methanol and isopropyl alcohol, can cause severe acidosis and renal failure. The presence of an osmolar gap in the serum is suggestive of one of these ingestions. In addition, oxalate crystals can be seen in the urine due to the ingestion of ethylene glycol. The crystals have a characteristic calcium oxalate “salt-like” appearance and are usually seen in the urine of patients with an elevated urine osmolality. Hyaline casts are seen in normal individuals and those with renal disease. Urine ketones are seen in diabetic ketoacidosis and starvation. Urate crystals are seen in patients with gout.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Emergency Department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "ambulance",
+      "type": "T074",
+      "umls_id": "C0002422",
+      "score": 0.9756193161010742,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A vehicle equipped for transporting patients in need of emergency care."
+    },
+    {
+      "text": "lost",
+      "type": "T169",
+      "umls_id": "C0745777",
+      "score": 0.9972493052482605,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Parted with; no longer held or possessed; incapable of being recovered or regained."
+    },
+    {
+      "text": "job",
+      "type": "T090",
+      "umls_id": "C0028811",
+      "score": 0.9788143038749695,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Crafts, trades, professions, or other means of earning a living."
+    },
+    {
+      "text": "house",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9867501854896545,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "begin foreclosure",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "adult",
+      "type": "T100",
+      "umls_id": "C0001675",
+      "score": 0.9940029382705688,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person having attained full growth or maturity. Adults are of 19 through 44 years of age. For a person between 19 and 24 years of age, YOUNG ADULT is available."
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "police",
+      "type": "T097",
+      "umls_id": "C0085098",
+      "score": 0.9958091974258423,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Agents of the law charged with the responsibility of maintaining and enforcing law and order among the citizenry."
+    },
+    {
+      "text": "welfare check",
+      "type": "T095",
+      "umls_id": "C0037440",
+      "score": 0.7525131106376648,
+      "semantic_types": [
+        "T095"
+      ],
+      "definition": "Organized institutions which provide services to ameliorate conditions of need or social pathology in the community."
+    },
+    {
+      "text": "gurague",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "empty",
+      "type": "T080",
+      "umls_id": "C1880497",
+      "score": 0.9858817458152771,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Holding or containing nothing."
+    },
+    {
+      "text": "bottles",
+      "type": "T073",
+      "umls_id": "C0179376",
+      "score": 0.9694390296936035,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vessel with a narrow neck designed to accept a specific closure."
+    },
+    {
+      "text": "vodka around",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "half empty container",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "antifreeze",
+      "type": "T116",
+      "umls_id": "C0103575",
+      "score": 0.8611540794372559,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Proteins that bind to ice and modify the growth of ice crystals. They perform a cryoprotective role in a variety of organisms."
+    },
+    {
+      "text": "review",
+      "type": "T170",
+      "umls_id": "C0282443",
+      "score": 0.9724588990211487,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An article or book published after examination of published material on a subject. It may be comprehensive to various degrees and the time range of material scrutinized may be broad or narrow, but the reviews most often desired are reviews of the current literature. The textual material examined may be equally broad and can encompass, in medicine specifically, clinical material as well as experimental research or case reports. State-of-the-art reviews tend to address more current matters. A review of the literature must be differentiated from HISTORICAL ARTICLE on the same subject, but a review of historical literature is also within the scope of this publication type."
+    },
+    {
+      "text": "medical records",
+      "type": "T170",
+      "umls_id": "C0025102",
+      "score": 0.9565836787223816,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Recording of pertinent information concerning patient's illness or illnesses."
+    },
+    {
+      "text": "good health",
+      "type": "T170",
+      "umls_id": "C3813622",
+      "score": 0.981499969959259,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about an individual's overall well-being."
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "ED",
+      "type": "T047",
+      "umls_id": "C0242350",
+      "score": 0.953866720199585,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction."
+    },
+    {
+      "text": "regains",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "commands",
+      "type": "T185",
+      "umls_id": "C4521843",
+      "score": 0.7082507014274597,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A Commissioned Officer O5 is a Lieutenant Colonel in all US military branches except in the Coast Guard and Navy where it is a Commander."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "diffusely tender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "laboratory tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9844176769256592,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "serum creatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "Cr",
+      "type": "T059",
+      "umls_id": "C0201975",
+      "score": 0.9711294174194336,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample."
+    },
+    {
+      "text": "blood urea nitrogen",
+      "type": "T059",
+      "umls_id": "C0005845",
+      "score": 0.9925719499588013,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The urea concentration of the blood stated in terms of nitrogen content. Serum (plasma) urea nitrogen is approximately 12% higher than blood urea nitrogen concentration because of the greater protein content of red blood cells. Increases in blood or serum urea nitrogen are referred to as azotemia and may have prerenal, renal, or postrenal causes. (From Saunders Dictionary & Encyclopedia of Laboratory Medicine and Technology, 1984)"
+    },
+    {
+      "text": "BUN",
+      "type": "T059",
+      "umls_id": "C0005845",
+      "score": 0.9844024777412415,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The urea concentration of the blood stated in terms of nitrogen content. Serum (plasma) urea nitrogen is approximately 12% higher than blood urea nitrogen concentration because of the greater protein content of red blood cells. Increases in blood or serum urea nitrogen are referred to as azotemia and may have prerenal, renal, or postrenal causes. (From Saunders Dictionary & Encyclopedia of Laboratory Medicine and Technology, 1984)"
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient’s urine",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

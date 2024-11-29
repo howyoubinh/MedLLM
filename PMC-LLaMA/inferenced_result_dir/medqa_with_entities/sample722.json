@@ -1,0 +1,379 @@
+{
+  "original_data": {
+    "question": "A 20-day-old child is brought to the emergency department by her parents. They are concerned about lethargy and easy bruising. Her mother reports that she has been eating less for the past few days. Today she was difficult to arouse. She normally nurses four-five times a day, but ate less yesterday and this morning. The girl was born at 39 weeks gestation via spontaneous vaginal delivery at home with minimal prenatal or postnatal care. This is her first visit to a physician of any type. The family is carefully questioned and child abuse is ruled out. The daughter’s pulse is 97/min, respirations are 35/min, temperature is 35.8°C (96.4°F), and blood pressure is 71/46 mm Hg. Physical examination shows diffuse petechiae and bruising. Which of the following is the most likely cause?",
+    "options": {
+      "A": "Group B streptococcus (GBS) infection",
+      "B": "Hepatitis B infection",
+      "C": "Thyroid stimulating hormone deficiency",
+      "D": "Vitamin K deficiency"
+    }
+  },
+  "model_response": "This child’s history of minimal prenatal care, poor feeding, lethargy, bruising, and petechiae strongly suggest congenital viral infection, most likely cytomegalovirus (CMV). CMV is the most common cause of congenital viral infection in the United States. It is a ubiquitous virus that is transmitted transplacentally to the fetus in about 50% of cases. Most infected infants are asymptomatic at birth. A small percentage of infants have cytomegalic inclusion disease (CID). CID is characterized by fever, hepatosplenomegaly, jaundice, hemolytic anemia, petechiae, and bruising. The central nervous system (CNS) may also be involved. CID may be suspected on the basis of the clinical findings, but the diagnosis is made by detecting CMV in the urine or saliva. GBS infection (choice A) is uncommon in this age group. Hepatitis B infection (choice B) does not cause the findings described. Although thyroid stimulating hormone deficiency (choice C) can cause developmental delay, it does not cause the other findings described. Vitamin K deficiency (choice D) can cause bleeding, but it does not cause the other findings described.Diagnosis: Congenital CMV infection\n\n### OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "lethargy",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9868770837783813,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "bruising",
+      "type": "T037",
+      "umls_id": "C0009938",
+      "score": 0.9562113285064697,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Injuries resulting in hemorrhage, usually manifested in the skin."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "arouse",
+      "type": "T041",
+      "umls_id": "C0043012",
+      "score": 0.7794264554977417,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state in which there is an enhanced potential for sensitivity and an efficient responsiveness to external stimuli."
+    },
+    {
+      "text": "four-five",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "yesterday",
+      "type": "T079",
+      "umls_id": "C4526583",
+      "score": 0.8228368163108826,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period consisting of the current day and the preceding day."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "spontaneous",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.9781762361526489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "minimal",
+      "type": "T080",
+      "umls_id": "C0547040",
+      "score": 0.9675829410552979,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<b>Description:</b>Provides more than identified, but not as much as universal. There are not expected to be many of these."
+    },
+    {
+      "text": "prenatal",
+      "type": "T100",
+      "umls_id": "C0678804",
+      "score": 0.9826273322105408,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "postnatal care",
+      "type": "T058",
+      "umls_id": "C0032782",
+      "score": 0.944301187992096,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The care provided to women and their NEWBORNS for the first few months following CHILDBIRTH."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "type",
+      "type": "T080",
+      "umls_id": "C0332307",
+      "score": 0.9995553493499756,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Something distinguishable as an identifiable class based on common qualities."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "questioned",
+      "type": "T170",
+      "umls_id": "C1522634",
+      "score": 0.7812692523002625,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine)."
+    },
+    {
+      "text": "child abuse",
+      "type": "T048",
+      "umls_id": "C0008060",
+      "score": 0.9798435568809509,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Abuse of children in a family, institutional, or other setting. (APA, Thesaurus of Psychological Index Terms, 1994)"
+    },
+    {
+      "text": "daughter’s pulse",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.715488851070404,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "diffuse petechiae",
+      "type": "T047",
+      "umls_id": "C0031256",
+      "score": 0.7371439337730408,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Purple or red hemorrhagic pinpoint spots in the skin or mucous membranes."
+    },
+    {
+      "text": "bruising",
+      "type": "T037",
+      "umls_id": "C0009938",
+      "score": 0.9562113285064697,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Injuries resulting in hemorrhage, usually manifested in the skin."
+    },
+    {
+      "text": "cause",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9771540760993958,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    }
+  ]
+}

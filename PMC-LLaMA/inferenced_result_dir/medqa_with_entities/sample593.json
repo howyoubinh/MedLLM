@@ -1,0 +1,383 @@
+{
+  "original_data": {
+    "question": "A 42-year-old male presents to his primary care physician complaining of fatigue. He has not been to the doctor since he was 22 years of age. He reports that over the past three months, he has felt tired and weak despite no changes in diet or exercise. He is otherwise healthy and takes no medications. Family history is notable for colorectal cancer in his father and paternal uncle, ovarian cancer in his paternal grandmother, and pancreatic cancer in his paternal uncle. Physical examination is notable for conjunctival pallor. A complete blood count reveals a hemoglobin of 9.1 g/dL and hematocrit of 31%. A stool sample is hemoccult positive and a colonoscopy reveals a fungating hemorrhagic mass in the ascending colon. Which of the following processes is most likely impaired in this patient?",
+    "options": {
+      "A": "Base excision repair",
+      "B": "Nucleotide excision repair",
+      "C": "Mismatch repair",
+      "D": "Non-homologous end joining"
+    }
+  },
+  "model_response": "This patient has hereditary nonpolyposis colorectal cancer (HNPCC) syndrome, also known as Lynch syndrome. It is an autosomal dominant disorder characterized by a defect in one of the DNA mismatch repair genes, most commonly MLH1, MSH2, MSH6, PMS2, or TAC1. It is associated with a high risk of colon cancer, as well as cancers of the endometrium, ovary, stomach, small intestine, hepatobiliary tract, and urinary tract. Patients with HNPCC syndrome have an 80% lifetime risk of developing colorectal cancer. Inherited defects in base excision repair, nucleotide excision repair, homologous recombination, and non-homologous end joining are not associated with an increased risk of colorectal cancer.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "doctor",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.985679030418396,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "felt",
+      "type": "T170",
+      "umls_id": "C3641757",
+      "score": 0.7752646803855896,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual feels or has felt tense."
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "weak",
+      "type": "T080",
+      "umls_id": "C1762617",
+      "score": 0.9965013265609741,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having strength, power, or intensity less than average or expected."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "exercise",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9731677770614624,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "Family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "colorectal cancer",
+      "type": "T191",
+      "umls_id": "C0009402",
+      "score": 0.9869279861450195,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A malignant epithelial neoplasm that arises from the colon or rectum and invades through the muscularis mucosa into the submucosa. The vast majority are adenocarcinomas."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "paternal uncle",
+      "type": "T099",
+      "umls_id": "C3714276",
+      "score": 0.9825509190559387,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "<p>**Description:**The player of the role is a biological brother of the scoping person's biological father.</p>"
+    },
+    {
+      "text": "ovarian cancer",
+      "type": "T191",
+      "umls_id": "C0919267",
+      "score": 0.9846251010894775,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Tumors or cancer of the OVARY. These neoplasms can be benign or malignant. They are classified according to the tissue of origin, such as the surface EPITHELIUM, the stromal endocrine cells, and the totipotent GERM CELLS."
+    },
+    {
+      "text": "paternal grandmother",
+      "type": "T099",
+      "umls_id": "C1273524",
+      "score": 0.923702597618103,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "<p>**Description:**The player of the role is the biological mother of the scoping person's biological father.</p>"
+    },
+    {
+      "text": "pancreatic cancer",
+      "type": "T191",
+      "umls_id": "C0235974",
+      "score": 0.9861518740653992,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A carcinoma arising from the exocrine pancreas. The overwhelming majority of pancreatic carcinomas are adenocarcinomas."
+    },
+    {
+      "text": "paternal uncle",
+      "type": "T099",
+      "umls_id": "C3714276",
+      "score": 0.9825509190559387,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "<p>**Description:**The player of the role is a biological brother of the scoping person's biological father.</p>"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "conjunctival pallor",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.7875994443893433,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "hematocrit",
+      "type": "T059",
+      "umls_id": "C0018935",
+      "score": 0.9932670593261719,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value."
+    },
+    {
+      "text": "stool sample",
+      "type": "T031",
+      "umls_id": "C1550661",
+      "score": 0.983421266078949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hemoccult",
+      "type": "T059",
+      "umls_id": "C0201811",
+      "score": 0.9889646172523499,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A noninvasive test that detects the presence of hidden (occult) blood in the stool. This is commonly performed to screen for colon cancer."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "colonoscopy",
+      "type": "T060",
+      "umls_id": "C0009378",
+      "score": 0.9911046028137207,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination, therapy or surgery of the luminal surface of the colon."
+    },
+    {
+      "text": "hemorrhagic mass",
+      "type": "T080",
+      "umls_id": "C0333275",
+      "score": 0.8436126112937927,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A morphologic finding indicating a change in a tissue due to vascular injury or leakage."
+    },
+    {
+      "text": "ascending colon",
+      "type": "T023",
+      "umls_id": "C0227375",
+      "score": 0.983447790145874,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The segment of LARGE INTESTINE between the CECUM and the TRANSVERSE COLON. It passes cephalad from the cecum to the caudal surface of the right lobe of the LIVER where it bends sharply to the left, forming the right colic flexure."
+    },
+    {
+      "text": "processes",
+      "type": "T041",
+      "umls_id": "C0025361",
+      "score": 0.8121208548545837,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Conceptual functions or thinking in all its forms."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "original_data": {
+    "question": "A 29-year-old primigravid woman at 35 weeks' gestation is admitted to the hospital in labor. She has no history of serious medical illness. She has had an uncomplicated pregnancy. Her last ultrasound at 22 weeks' gestation was normal. On admission, fetal heartbeats cannot be detected by fetal doppler monitor. Ultrasound shows decreased amniotic fluid levels and no evidence of fetal movement, respiration, or heart activity. The patient gives birth to a 2296 g (5 lb 1 oz) male infant. Physical examination shows no signs of life. There are no visible malformations. The placenta is unremarkable. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Perform karyotyping of amniotic fluid",
+      "B": "Recommend autopsy of the infant",
+      "C": "Obtain photographs, x-ray imaging, and MRI",
+      "D": "Obtain consent for parental genetic testing"
+    }
+  },
+  "model_response": "Perform karyotyping of amniotic fluid. This is a case of a late fetal demise. The diagnosis of a chromosomal abnormality is the most common cause of a late fetal demise. The most appropriate next step in management is to perform karyotyping of amniotic fluid to look for a chromosomal abnormality. If a chromosomal abnormality is detected, the parents may benefit from genetic counseling. Autopsy of the infant is usually not indicated. Obtaining photographs, x-ray imaging, and MRI is not necessary in this case. Obtaining consent for parental genetic testing is not indicated because a chromosomal abnormality in the parents would most likely be detected by karyotyping of amniotic fluid.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "primigravid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "labor",
+      "type": "T040",
+      "umls_id": "C0022864",
+      "score": 0.9818827509880066,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Uterine contractions resulting in cervical change (dilation and/or effacement). (reVITALize)"
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "medical illness",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.7010193467140198,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "uncomplicated pregnancy",
+      "type": "T033",
+      "umls_id": "C4314562",
+      "score": 0.9832207560539246,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "fetal",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.9629625082015991,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "heartbeats",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9431540966033936,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "detected",
+      "type": "T033",
+      "umls_id": "C0442726",
+      "score": 0.9800583124160767,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>The measurement of the specified component / analyte, organism or clinical sign above the limit of detection of the performed test or procedure.</p>"
+    },
+    {
+      "text": "fetal doppler monitor",
+      "type": "T060",
+      "umls_id": "C3827010",
+      "score": 0.8898168206214905,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A technique that utilizes a Doppler transducer to monitor fetal heart rate. The transducer is placed on the maternal abdomen and detects fetal cardiac motion using ultrasound."
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "amniotic",
+      "type": "T018",
+      "umls_id": "C0002630",
+      "score": 0.9715335369110107,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The innermost membranous sac that surrounds and protects the developing embryo which is bathed in the AMNIOTIC FLUID. Amnion cells are secretory EPITHELIAL CELLS and contribute to the amniotic fluid."
+    },
+    {
+      "text": "fluid",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9930761456489563,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "levels",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882259964942932,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "fetal",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.9629625082015991,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "respiration",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9668400883674622,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "heart activity",
+      "type": "T056",
+      "umls_id": "C0026606",
+      "score": 0.7783312201499939,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Body movements of a human or an animal as a behavioral phenomenon."
+    },
+    {
+      "text": "patient gives",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7507762908935547,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "infant",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9474613070487976,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "visible malformations",
+      "type": "T019",
+      "umls_id": "C0000768",
+      "score": 0.7804644107818604,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Malformations of organs or body parts during development in utero."
+    },
+    {
+      "text": "placenta",
+      "type": "T018",
+      "umls_id": "C0032043",
+      "score": 0.9925655126571655,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "A highly vascularized mammalian fetal-maternal organ and major site of transport of oxygen, nutrients, and fetal waste products. It includes a fetal portion (CHORIONIC VILLI) derived from TROPHOBLASTS and a maternal portion (DECIDUA) derived from the uterine ENDOMETRIUM. The placenta produces an array of steroid, protein and peptide hormones (PLACENTAL HORMONES)."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

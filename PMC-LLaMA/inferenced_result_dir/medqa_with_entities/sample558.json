@@ -1,0 +1,377 @@
+{
+  "original_data": {
+    "question": "A 44-year-old man presents to the family medicine clinic for some small bumps on his left thigh. The lesions are non-pruritic and have been present for the last 3 weeks. He reports feeling fatigued and malaise for the past few months. The patient has no known medical problems and takes no medications. He smokes one pack of cigarettes per day and uses intravenous street drugs. His heart rate is 82/min, the respiratory rate is 14/min, the temperature is 36.7°C (98.1°F), and the blood pressure is 126/80 mm Hg. Auscultation of the heart is without murmurs. Lungs are clear to auscultation bilaterally. Three 2-3 mm, dome-shaped, hardened papules are noted on the left thigh. Central umbilication can be observed in each papule. There is a non-tender cervical lymphadenopathy present. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Bed bug bite",
+      "B": "Molluscum contagiosum",
+      "C": "Atopic dermatitis",
+      "D": "Acute urticaria"
+    }
+  },
+  "model_response": "The correct answer is A (Bed bug bite). The presence of multiple, dome-shaped papules with central umbilication and a history of intravenous drug use is consistent with a bed bug bite. Molluscum contagiosum typically presents with a single, dome-shaped papule with central umbilication. Multiple lesions are usually observed in children. Atopic dermatitis usually presents with a history of pruritus and a more generalized rash. Acute urticaria usually presents with pruritic wheals that last less than 24 hours.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "family medicine",
+      "type": "T091",
+      "umls_id": "C0015607",
+      "score": 0.9843209385871887,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "A medical specialty concerned with the provision of continuing, comprehensive primary health care for the entire family."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "small bumps",
+      "type": "T081",
+      "umls_id": "C0700321",
+      "score": 0.7027722001075745,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Limited in number, quantity, magnitude or extent."
+    },
+    {
+      "text": "left thigh",
+      "type": "T023",
+      "umls_id": "C0230426",
+      "score": 0.9831334352493286,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A part of the lower limb, located between the hip and the knee and located on the left side of the body."
+    },
+    {
+      "text": "lesions",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9854557514190674,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "non-pruritic",
+      "type": "T047",
+      "umls_id": "C4023519",
+      "score": 0.8146965503692627,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pale reddish slightly elevated papules and plaques of 0.5-3 cm in diameter and not accompanied by pruritus. [HPO:probinson]"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "fatigued",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9519143104553223,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical problems",
+      "type": "T033",
+      "umls_id": "C1254481",
+      "score": 0.8567705750465393,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An issue is based on the patient."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "intravenous street",
+      "type": "T169",
+      "umls_id": "C1522726",
+      "score": 0.7792881727218628,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Administration of a drug within or into a vein or veins. Introduction of the drug directly into venous circulation results in 100% bioavailability due to an absence of the absorption phase, provides a precise and continuous mode of drug therapy, especially for drugs with a narrow therapeutic index."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "heart",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9954424500465393,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "murmurs",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.989371657371521,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "Lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "dome-shaped",
+      "type": "T082",
+      "umls_id": "C0444914",
+      "score": 0.970662534236908,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "To be rounded and elevated."
+    },
+    {
+      "text": "hardened",
+      "type": "T033",
+      "umls_id": "C0702118",
+      "score": 0.9861679673194885,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "papules",
+      "type": "T033",
+      "umls_id": "C0332563",
+      "score": 0.9743415713310242,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A small, solid, usually inflammatory elevation of the skin that does not contain pus"
+    },
+    {
+      "text": "left thigh",
+      "type": "T023",
+      "umls_id": "C0230426",
+      "score": 0.9831334352493286,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A part of the lower limb, located between the hip and the knee and located on the left side of the body."
+    },
+    {
+      "text": "Central umbilication",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "papule",
+      "type": "T033",
+      "umls_id": "C0332563",
+      "score": 0.9756656885147095,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A small, solid, usually inflammatory elevation of the skin that does not contain pus"
+    },
+    {
+      "text": "non-tender cervical lymphadenopathy present",
+      "type": "T047",
+      "umls_id": "C0235592",
+      "score": 0.7446544170379639,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Enlargement of the cervical lymph nodes usually due to infections or involvement by malignant neoplasms."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "44-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

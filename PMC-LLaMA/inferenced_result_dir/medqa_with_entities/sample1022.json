@@ -1,0 +1,435 @@
+{
+  "original_data": {
+    "question": "The first 24 hours after delivery, a 2888 g (6.37 lb) male newborn is not feeding well, has a high-pitched cry, and is diaphoretic. He was born at 38 weeks' gestation to a 30-year-old woman, gravida 2, para 1, after an uncomplicated labor and delivery. Apgar scores were 8 and 9 at 1 and 5 minutes, respectively. The mother did not receive prenatal care. She takes codeine syrup frequently for dry cough. The infant's temperature is 37.8°C (100°F), pulse is 165/min, and blood pressure is 83/50 mm Hg. Examination shows hyperreflexia, tremors, and an excessive startle response. The baby is swaddled to prevent excoriations, and fluid resuscitation is initiated. Complete blood count and serum levels of glucose, bilirubin, and calcium are within normal limits. What is the most appropriate next step in treatment of this newborn?",
+    "options": {
+      "A": "Oral morphine therapy",
+      "B": "Intravenous ampicillin and gentamicin combination therapy",
+      "C": "Oral methimazole therapy",
+      "D": "Dextrose infusion"
+    }
+  },
+  "model_response": "The clinical findings suggest that the infant has neonatal abstinence syndrome (NAS). The incidence of NAS increases with the frequency and timing of maternal drug use. In this case, the infant's symptoms are consistent with opioid withdrawal. The treatment of NAS involves careful monitoring, supportive care, and often pharmacologic treatment. The mainstay of treatment is a long-acting opioid, such as oral morphine therapy. An intravenous ampicillin and gentamicin combination therapy would be indicated if there were signs of sepsis. Oral methimazole therapy is used in infants with congenital hypothyroidism. Dextrose infusion would be indicated if the infant were hypoglycemic, which is not the case here.\n\n### COMMENTS: NAS may be seen in infants exposed to methadone, alcohol, barbiturates, cocaine, and tricyclic antidepressants. NAS is not seen in infants exposed to PCP. NAS symptoms may be seen as early as 24 hours after birth, but the syndrome usually appears between days 2 and 3 of life. The symptoms may persist for 1 to 2 weeks. Hyperreflexia, tremors, and an excessive startle response are all characteristic of opioid withdrawal. The symptoms are self-limited and remit by 1 week. The treatment of NAS involves careful monitoring, supportive care, and often pharmacologic treatment. The mainstay of treatment is a long-acting opioid, such as oral morphine therapy. The dose is titrated to control the signs and symptoms of withdrawal. The dose of oral morphine is gradually reduced over 1 to 2 weeks. Clonidine, a short-acting opioid, may also be used. Intravenous fluids and electrolyte replacement are important components of care. Phenobarbital has been used in treating NAS, but is not a first-line therapy.</s><s>",
+  "question_entities": [
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "delivery",
+      "type": "T061",
+      "umls_id": "C0011209",
+      "score": 0.9885228276252747,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Delivery of the FETUS and PLACENTA under the care of an obstetrician or a health worker. Obstetric deliveries may involve physical, psychological, medical, or surgical interventions."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "feeding",
+      "type": "T058",
+      "umls_id": "C0204695",
+      "score": 0.9637535214424133,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "high-pitched cry",
+      "type": "T033",
+      "umls_id": "C0239154",
+      "score": 0.9720340371131897,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormally shrill or screeching vocalization made by infants that could possibly indicate the presence of one of an array of medical conditions or congenital syndromes."
+    },
+    {
+      "text": "diaphoretic",
+      "type": "T080",
+      "umls_id": "C1707737",
+      "score": 0.9853863716125488,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to, characterized by, or promoting sweating, e.g. procedure or an agent that promotes sweating."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gravida 2",
+      "type": "T033",
+      "umls_id": "C0232997",
+      "score": 0.9864724278450012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "para",
+      "type": "T033",
+      "umls_id": "C0030563",
+      "score": 0.9971686005592346,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of offspring a female has borne. It is contrasted with GRAVIDITY, which refers to the number of pregnancies, regardless of outcome."
+    },
+    {
+      "text": "uncomplicated labor",
+      "type": "T046",
+      "umls_id": "C0022865",
+      "score": 0.7496032118797302,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any unintended event during the labor process that makes delivery more difficult."
+    },
+    {
+      "text": "delivery",
+      "type": "T061",
+      "umls_id": "C0011209",
+      "score": 0.9885228276252747,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Delivery of the FETUS and PLACENTA under the care of an obstetrician or a health worker. Obstetric deliveries may involve physical, psychological, medical, or surgical interventions."
+    },
+    {
+      "text": "Apgar scores",
+      "type": "T032",
+      "umls_id": "C0003533",
+      "score": 0.9436954259872437,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A method, developed by Dr. Virginia Apgar, to evaluate a newborn's adjustment to extrauterine life. Five items - heart rate, respiratory effort, muscle tone, reflex irritability, and color - are evaluated 60 seconds after birth and again five minutes later on a scale from 0-2, 0 being the lowest, 2 being normal. The five numbers are added for the Apgar score. A score of 0-3 represents severe distress, 4-7 indicates moderate distress, and a score of 7-10 predicts an absence of difficulty in adjusting to extrauterine life."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "prenatal care",
+      "type": "T058",
+      "umls_id": "C0033052",
+      "score": 0.9855771064758301,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care provided the pregnant woman in order to prevent complications, and decrease the incidence of maternal and prenatal mortality."
+    },
+    {
+      "text": "codeine syrup",
+      "type": "T200",
+      "umls_id": "C1245651",
+      "score": 0.9575121402740479,
+      "semantic_types": [
+        "T200"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dry cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9643693566322327,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "infant's",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.7235817909240723,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hyperreflexia",
+      "type": "T033",
+      "umls_id": "C0151889",
+      "score": 0.978400707244873,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Autonomic nervous system overreaction to stimuli, most commonly after spinal cord injury at a T-5 level and above."
+    },
+    {
+      "text": "tremors",
+      "type": "T184",
+      "umls_id": "C0040822",
+      "score": 0.9935286045074463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Cyclical movement of a body part that can represent either a physiologic process or a manifestation of disease. Intention or action tremor, a common manifestation of CEREBELLAR DISEASES, is aggravated by movement. In contrast, resting tremor is maximal when there is no attempt at voluntary movement, and occurs as a relatively frequent manifestation of PARKINSON DISEASE."
+    },
+    {
+      "text": "excessive",
+      "type": "T080",
+      "umls_id": "C0442802",
+      "score": 0.9763246774673462,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Beyond normal limits; unrestrained."
+    },
+    {
+      "text": "startle response",
+      "type": "T040",
+      "umls_id": "C0038186",
+      "score": 0.9608728289604187,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "An action or movement due to the application of a sudden unexpected stimulus. [GOC:dph]"
+    },
+    {
+      "text": "baby",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9707297086715698,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "prevent",
+      "type": "T121",
+      "umls_id": "C0309872",
+      "score": 0.9771769642829895,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "brand of veterinary medicine"
+    },
+    {
+      "text": "excoriations",
+      "type": "T037",
+      "umls_id": "C0015256",
+      "score": 0.9297072887420654,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Self-inflicted tearing or wearing off of skin."
+    },
+    {
+      "text": "fluid",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9930761456489563,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "resuscitation",
+      "type": "T061",
+      "umls_id": "C0035273",
+      "score": 0.9607059359550476,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The restoration to life or consciousness of one apparently dead. (Dorland, 27th ed)"
+    },
+    {
+      "text": "Complete blood count",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.9848464131355286,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "serum levels of",
+      "type": "T059",
+      "umls_id": "C1261155",
+      "score": 0.8205011487007141,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of aspartate aminotransferase present in a sample of serum."
+    },
+    {
+      "text": "bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9655847549438477,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "calcium",
+      "type": "T121",
+      "umls_id": "C0006675",
+      "score": 0.9657427072525024,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "A basic element found in nearly all tissues. It is a member of the alkaline earth family of metals with the atomic symbol Ca, atomic number 20, and atomic weight 40. Calcium is the most abundant mineral in the body and combines with phosphorus to form calcium phosphate in the bones and teeth. It is essential for the normal functioning of nerves and muscles and plays a role in blood coagulation (as factor IV) and in many enzymatic processes."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "30-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

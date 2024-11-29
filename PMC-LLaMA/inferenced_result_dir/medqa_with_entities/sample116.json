@@ -1,0 +1,322 @@
+{
+  "original_data": {
+    "question": "A 16-year-old boy with a seizure disorder and cognitive delay is brought to the physician because of progressively worsening right lower extremity weakness for the past 6 months. He does not make eye contact and sits very close to his mother. Physical examination shows a grade 3/6 holosystolic murmur at the cardiac apex. Neurological examination shows decreased strength in the right lower leg with normal strength in the other extremities. Fundoscopic examination shows several multinodular, calcified lesions in the retina bilaterally. A photograph of his skin findings is shown. This patient's condition is most likely due to a mutation in which of the following?",
+    "options": {
+      "A": "NF1 gene on chromosome 17",
+      "B": "NF2 gene on chromosome 22",
+      "C": "TSC1 gene on chromosome 9",
+      "D": "VHL gene on chromosome 3"
+    }
+  },
+  "model_response": "The image shows multiple cafe au lait spots, which are characteristic of neurofibromatosis type 1 (NF1). The NF1 gene encodes for the protein neurofibromin, which has homology to the GTPase Ras. Neurofibromatosis type 1 is a multisystem disorder that includes neurologic, ophthalmologic, dermatologic, and skeletal complications. The most common neoplasm associated with NF1 is the optic nerve glioma. The most common cutaneous manifestation is the cafe au lait spot. Other cutaneous findings include axillary freckling and Lisch nodules (iris hamartomas). The most common skeletal abnormality is scoliosis. The most common cardiovascular abnormality is an asymptomatic murmur, as seen in this patient. Renal anomalies include both benign (hydronephrosis, horseshoe kidney) and malignant (Wilms tumor) lesions. NF1 is inherited in an autosomal dominant fashion. The mutation is located on the long arm of chromosome 17. The other genes listed are associated with tuberous sclerosis (TSC1 and TSC2), von Hippel-Lindau syndrome (VHL), and neurofibromatosis type 2 (NF2).\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "seizure disorder",
+      "type": "T047",
+      "umls_id": "C0014544",
+      "score": 0.9503217339515686,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disorder characterized by recurrent episodes of paroxysmal brain dysfunction due to a sudden, disorderly, and excessive neuronal discharge. Epilepsy classification systems are generally based upon: (1) clinical features of the seizure episodes (e.g., motor seizure), (2) etiology (e.g., post-traumatic), (3) anatomic site of seizure origin (e.g., frontal lobe seizure), (4) tendency to spread to other structures in the brain, and (5) temporal patterns (e.g., nocturnal epilepsy). (From Adams et al., Principles of Neurology, 6th ed, p313)"
+    },
+    {
+      "text": "cognitive delay",
+      "type": "T033",
+      "umls_id": "C1864897",
+      "score": 0.9704394340515137,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "progressively worsening",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "right lower extremity weakness",
+      "type": "T033",
+      "umls_id": "C1836296",
+      "score": 0.878394603729248,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A reduction in the strength of the lower limb muscles."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "eye contact",
+      "type": "T054",
+      "umls_id": "C0870532",
+      "score": 0.9761350154876709,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sits",
+      "type": "T109",
+      "umls_id": "C0037216",
+      "score": 0.9922419786453247,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T130"
+      ],
+      "definition": "A non-penetrating amino reagent (commonly called SITS) which acts as an inhibitor of anion transport in erythrocytes and other cells."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "grade",
+      "type": "T185",
+      "umls_id": "C0441800",
+      "score": 0.9976638555526733,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A position on a scale of intensity or amount or quality."
+    },
+    {
+      "text": "holosystolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7172870635986328,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "cardiac apex",
+      "type": "T029",
+      "umls_id": "C0225811",
+      "score": 0.9761098027229309,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The lowest superficial part of the heart which is situated behind the left 5th intercostal space."
+    },
+    {
+      "text": "Neurological examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9707840085029602,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.9718086123466492,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "right lower leg",
+      "type": "T023",
+      "umls_id": "C0230442",
+      "score": 0.9804471135139465,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "normal strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.7346182465553284,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "Fundoscopic examination",
+      "type": "T060",
+      "umls_id": "C0014245",
+      "score": 0.865857720375061,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures of applying ENDOSCOPES for disease diagnosis and treatment. Endoscopy involves passing an optical instrument through a small incision in the skin i.e., percutaneous; or through a natural orifice and along natural body pathways such as the digestive tract; and/or through an incision in the wall of a tubular structure or organ, i.e. transluminal, to examine or perform surgery on the interior parts of the body."
+    },
+    {
+      "text": "multinodular",
+      "type": "T080",
+      "umls_id": "C0205416",
+      "score": 0.9880646467208862,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "calcified lesions",
+      "type": "T080",
+      "umls_id": "C0175895",
+      "score": 0.7356034517288208,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having calcium deposited on or in an anatomic structure."
+    },
+    {
+      "text": "retina",
+      "type": "T023",
+      "umls_id": "C0035298",
+      "score": 0.988471269607544,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The ten-layered nervous tissue membrane of the eye. It is continuous with the OPTIC NERVE and receives images of external objects and transmits visual impulses to the brain. Its outer surface is in contact with the CHOROID and the inner surface with the VITREOUS BODY. The outer-most layer is pigmented, whereas the inner nine layers are transparent."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "photograph",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9877880811691284,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "skin findings",
+      "type": "T033",
+      "umls_id": "C0455205",
+      "score": 0.9715226292610168,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "mutation",
+      "type": "T045",
+      "umls_id": "C0026882",
+      "score": 0.964189887046814,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Any detectable and heritable change in the genetic material that causes a change in the GENOTYPE and which is transmitted to daughter cells and to succeeding generations."
+    },
+    {
+      "text": "16-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

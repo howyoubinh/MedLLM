@@ -1,0 +1,361 @@
+{
+  "original_data": {
+    "question": "A 36-year-old man undergoes open reduction and internal fixation of a left femur fracture sustained after a motor vehicle collision. Three days after the surgery, he develops fever and redness around the surgical site. His temperature is 39.5°C (103.1°F). Physical examination shows purulent discharge from the wound with erythema of the surrounding skin. Wound culture of the purulent discharge shows gram-positive cocci in clusters. Treatment with oral dicloxacillin is initiated. Four days later, the patient continues to have high-grade fever, pain, and purulent discharge. Which of the following characteristics of the infecting organism best explains the failure to improve with antibiotic therapy?",
+    "options": {
+      "A": "Presence of an impenetrable outer membrane",
+      "B": "Ability to cleave β-lactam rings",
+      "C": "Development of efflux pumps",
+      "D": "Adaptation in binding proteins"
+    }
+  },
+  "model_response": "This patient has a postoperative infection with a gram-positive organism in clusters, most likely Staphylococcus aureus. The failure to improve with antibiotic therapy is most likely due to the development of efflux pumps. S. aureus has the ability to develop efflux pumps, which can actively pump out antibiotics, thereby decreasing their effectiveness. The other choices are characteristics of gram-negative organisms.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "undergoes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "internal fixation",
+      "type": "T061",
+      "umls_id": "C0016642",
+      "score": 0.9522649049758911,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of internal devices (metal plates, nails, rods, etc.) to hold the position of a fracture in proper alignment."
+    },
+    {
+      "text": "left femur fracture",
+      "type": "T037",
+      "umls_id": "C0015802",
+      "score": 0.858024537563324,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Fractures of the femur."
+    },
+    {
+      "text": "sustained",
+      "type": "T169",
+      "umls_id": "C0443318",
+      "score": 0.9774273037910461,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "motor vehicle collision",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.9606273174285889,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "develops",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "redness",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9690099358558655,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "surgical site",
+      "type": "T082",
+      "umls_id": "C0332850",
+      "score": 0.9847617745399475,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The anatomical site on which surgery was performed."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "discharge",
+      "type": "T031",
+      "umls_id": "C0012621",
+      "score": 0.990285336971283,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The pouring forth of a fluid."
+    },
+    {
+      "text": "wound with",
+      "type": "T037",
+      "umls_id": "C0043250",
+      "score": 0.7295597195625305,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "bodily injury caused by physical means, with disruption of the normal continuity of structures."
+    },
+    {
+      "text": "erythema",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9885126948356628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "surrounding",
+      "type": "T082",
+      "umls_id": "C1282914",
+      "score": 0.9729270339012146,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Extending on all sides of simultaneously; encircling."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Wound culture",
+      "type": "T059",
+      "umls_id": "C0855657",
+      "score": 0.9762504696846008,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "purulent discharge",
+      "type": "T184",
+      "umls_id": "C0333274",
+      "score": 0.9788120985031128,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pus-containing fluid that is draining from an orifice or wound."
+    },
+    {
+      "text": "gram-positive cocci",
+      "type": "T007",
+      "umls_id": "C0018155",
+      "score": 0.9617981910705566,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "Coccus-shaped bacteria that retain the crystal violet stain when treated by Gram's method."
+    },
+    {
+      "text": "clusters",
+      "type": "T023",
+      "umls_id": "C1179412",
+      "score": 0.8280072808265686,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Anatomical cluster which has as direct parts two or more types of cells grouped together according to shared attributes."
+    },
+    {
+      "text": "Treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "oral dicloxacillin",
+      "type": "T109",
+      "umls_id": "C0012093",
+      "score": 0.8504855632781982,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "One of the PENICILLINS which is resistant to PENICILLINASE."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "high-grade fever",
+      "type": "T033",
+      "umls_id": "C0239573",
+      "score": 0.8752332925796509,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Body temperature of 104 degrees Fahrenheit (40 degrees Celsius) or higher."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "purulent discharge",
+      "type": "T184",
+      "umls_id": "C0333274",
+      "score": 0.9788120985031128,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pus-containing fluid that is draining from an orifice or wound."
+    },
+    {
+      "text": "characteristics",
+      "type": "T080",
+      "umls_id": "C1521970",
+      "score": 0.9741553068161011,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The distinguishing qualities or prominent aspect of a person, object, action, process, or substance."
+    },
+    {
+      "text": "infecting",
+      "type": "T033",
+      "umls_id": "C0439663",
+      "score": 0.9760932922363281,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "organism",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9949436187744141,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "failure",
+      "type": "T169",
+      "umls_id": "C0231174",
+      "score": 0.9719161987304688,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "antibiotic therapy",
+      "type": "T061",
+      "umls_id": "C0338237",
+      "score": 0.9777736663818359,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Treatment of bacterial infections with antibiotics."
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

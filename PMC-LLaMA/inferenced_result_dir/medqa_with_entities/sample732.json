@@ -1,0 +1,650 @@
+{
+  "original_data": {
+    "question": "A 45-year-old homeless man comes to the emergency department because of progressive neck pain for 3 days. He also reports headaches and numbness in both hands. Over the past 4 months, he has had intermittent lower back pain after waking up. The back pain improves with movement. He also has recurrent episodes of gout in the metatarsophalangeal joint of his right big toe. He has smoked one pack of cigarettes daily for 20 years and drinks four beers daily. The patient is a known user of intravenous heroin. He appears acutely ill. His temperature is 39°C (102.2°F), pulse is 110/min, and blood pressure is 140/85 mm Hg. There are several track marks on both forearms. Examination of the neck shows warmth, erythema, and limited range of motion. Gentle palpation over the midcervical spinal processes causes severe pain. Laboratory studies show:\nHemoglobin 11 g/dL\nLeukocyte count 14,200/mm3\nSegmented neutrophils 77%\nEosinophils 1%\nLymphocytes 20%\nMonocytes 2%\nPlatelet count 278,000/mm3\nErythrocyte sedimentation rate 54 mm/h\nBlood cultures are pending. An x-ray of the cervical spine shows no abnormalities. An MRI of the spine shows signs of inflammation. A bone biopsy confirms the diagnosis. Which of the following is the most appropriate next step in management?\"",
+    "options": {
+      "A": "Lumbar puncture",
+      "B": "Intravenous ciprofloxacin and vancomycin therapy",
+      "C": "Oral indomethacin therapy",
+      "D": "Bone scintigraphy\n\""
+    }
+  },
+  "model_response": "The clinical vignette describes a case of osteomyelitis of the cervical spine with Staphylococcus aureus. The patient is a known intravenous heroin user, which puts him at risk for bacterial infections. The laboratory studies show a leukocytosis with a left shift, indicating an acute infectious process. The elevated erythrocyte sedimentation rate is also indicative of an inflammatory process. The x-ray of the cervical spine is negative because osteomyelitis is a disease of the bone, not the disc space or the joints. The MRI shows signs of inflammation, but is not specific for osteomyelitis. Lumbar puncture is not indicated because there is no evidence of meningitis. The patient is treated with intravenous ciprofloxacin and vancomycin therapy. Indomethacin is used for the treatment of gout, not osteomyelitis. Bone scintigraphy is used to evaluate for osteomyelitis in the peripheral skeleton.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "homeless",
+      "type": "T098",
+      "umls_id": "C0019863",
+      "score": 0.9968299269676208,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons without adequate housing or without permanent residence. The concept excludes nomadic peoples."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "neck pain",
+      "type": "T184",
+      "umls_id": "C0007859",
+      "score": 0.9763118028640747,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Discomfort or more intense forms of pain that are localized to the cervical region. This term generally refers to pain in the posterior or lateral regions of the neck."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "numbness",
+      "type": "T033",
+      "umls_id": "C0020580",
+      "score": 0.9541221857070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Absent or reduced sensitivity to cutaneous stimulation."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "waking up",
+      "type": "T109",
+      "umls_id": "C1170730",
+      "score": 0.9553471803665161,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": null
+    },
+    {
+      "text": "back pain",
+      "type": "T184",
+      "umls_id": "C0004604",
+      "score": 0.9769834280014038,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Acute or chronic pain located in the posterior regions of the THORAX; LUMBOSACRAL REGION; or the adjacent regions."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "gout",
+      "type": "T047",
+      "umls_id": "C0018099",
+      "score": 0.9994637370109558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of URIC ACID calculi."
+    },
+    {
+      "text": "metatarsophalangeal joint",
+      "type": "T030",
+      "umls_id": "C0025589",
+      "score": 0.9815844893455505,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The articulation between a metatarsal bone (METATARSAL BONES) and a phalanx."
+    },
+    {
+      "text": "right big toe",
+      "type": "T023",
+      "umls_id": "C0930961",
+      "score": 0.9608201384544373,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beers",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9762206673622131,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "user",
+      "type": "T078",
+      "umls_id": "C1548600",
+      "score": 0.9801784753799438,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intravenous",
+      "type": "T082",
+      "umls_id": "C0348016",
+      "score": 0.9687822461128235,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "heroin",
+      "type": "T109",
+      "umls_id": "C0011892",
+      "score": 0.9867653250694275,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "A narcotic analgesic that may be habit-forming. It is a controlled substance (opium derivative) listed in the U.S. Code of Federal Regulations, Title 21 Parts 329.1, 1308.11 (1987). Sale is forbidden in the United States by Federal statute. (Merck Index, 11th ed)"
+    },
+    {
+      "text": "ill",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9888160228729248,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "marks",
+      "type": "T080",
+      "umls_id": "C0522501",
+      "score": 0.9652774930000305,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "forearms",
+      "type": "T023",
+      "umls_id": "C0016536",
+      "score": 0.9733871221542358,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Part of the upper extremity in humans and primates extending from the ELBOW to the WRIST."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "erythema",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9885126948356628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "Gentle",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "midcervical",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.7317981123924255,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "spinal processes",
+      "type": "T017",
+      "umls_id": "C3897005",
+      "score": 0.7545114755630493,
+      "semantic_types": [
+        "T017"
+      ],
+      "definition": "A bony projection arising from the posterior vertebral arch that serves for the attachment of muscles and ligaments."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Monocytes",
+      "type": "T025",
+      "umls_id": "C0026473",
+      "score": 0.9890480041503906,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Large, phagocytic mononuclear leukocytes produced in the vertebrate BONE MARROW and released into the BLOOD; contain a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles."
+    },
+    {
+      "text": "Erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "sedimentation",
+      "type": "T059",
+      "umls_id": "C0597428",
+      "score": 0.9737226366996765,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The act or process of settling particles by mechanical means from a state of suspension in air or water."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "Blood cultures",
+      "type": "T059",
+      "umls_id": "C0200949",
+      "score": 0.9821042418479919,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Test to determine the presence of blood infection (e.g. SEPSIS; BACTEREMIA)."
+    },
+    {
+      "text": "pending",
+      "type": "T080",
+      "umls_id": "C1547325",
+      "score": 0.9958504438400269,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>The state representing that fact that the role has not yet become active.</p>"
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "cervical spine",
+      "type": "T023",
+      "umls_id": "C0728985",
+      "score": 0.973706066608429,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The set of vertebrae immediately caudal to the skull."
+    },
+    {
+      "text": "MRI",
+      "type": "T060",
+      "umls_id": "C0024485",
+      "score": 0.9940130114555359,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Non-invasive method of demonstrating internal anatomy based on the principle that atomic nuclei in a strong magnetic field absorb pulses of radiofrequency energy and emit them as radiowaves which can be reconstructed into computerized images. The concept includes proton spin tomographic techniques."
+    },
+    {
+      "text": "spine",
+      "type": "T023",
+      "umls_id": "C0037949",
+      "score": 0.9688174724578857,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The spinal or vertebral column."
+    },
+    {
+      "text": "inflammation",
+      "type": "T046",
+      "umls_id": "C0021368",
+      "score": 0.9584572315216064,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A pathological process characterized by injury or destruction of tissues caused by a variety of cytologic and chemical reactions. It is usually manifested by typical signs of pain, heat, redness, swelling, and loss of function."
+    },
+    {
+      "text": "bone biopsy",
+      "type": "T060",
+      "umls_id": "C0005933",
+      "score": 0.9695547223091125,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of bone tissue for microscopic examination."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

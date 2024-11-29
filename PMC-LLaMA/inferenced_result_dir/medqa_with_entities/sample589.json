@@ -1,0 +1,327 @@
+{
+  "original_data": {
+    "question": "A 36-year-old woman, gravida 2, para 2, comes to the emergency department because of sudden-onset, severe right flank pain. She was in her aerobics class when the pain started but denies any trauma to the region. She has a history of recurrent ovarian cysts. Menses occur regularly at 28-day intervals. Her temperature is 37.1°C (99.3°F). Abdominal examination shows tenderness in the right lower quadrant with guarding. Pelvic ultrasound shows a large simple cyst on the right ovary. Right ovarian artery flow is detectable on Doppler, but there is no flow detected in the right ovarian vein. Which of the following ligaments is most likely to have been involved?",
+    "options": {
+      "A": "Broad ligament",
+      "B": "Ovarian ligament",
+      "C": "Cardinal ligament",
+      "D": "Infundibulopelvic ligament"
+    }
+  },
+  "model_response": "The right ovarian vein drains the right ovary and flows through the inferior vena cava into the right atrium. The right ovarian vein travels anterior to the ureter, crossing beneath the external iliac vessels at the pelvic inlet. The right ovarian vein then travels medial to the pelvic brim and beneath the fallopian tube and uterine artery to enter the internal iliac vein. The ligament that supports the ovary is the ovarian ligament. The broad ligament is a double-fold of parietal peritoneum that hangs over the uterus and the ovary. The cardinal ligament is the major support of the uterus. The infundibulopelvic ligament attaches the ovary to the fallopian tube and supports the ovary at the pelvic inlet. The round ligament of the uterus is a cord that attaches the lateral portion of the uterus to the inner aspect of the labium majus.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gravida 2",
+      "type": "T033",
+      "umls_id": "C0232997",
+      "score": 0.9864724278450012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "para 2",
+      "type": "T033",
+      "umls_id": "C0233071",
+      "score": 0.9938400387763977,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "sudden-onset",
+      "type": "T079",
+      "umls_id": "C1276802",
+      "score": 0.7784715294837952,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The start of an event or episode that is characterized as occurring suddenly or at a relatively short period of time after a reference time."
+    },
+    {
+      "text": "right flank pain",
+      "type": "T184",
+      "umls_id": "C0423640",
+      "score": 0.9810025691986084,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "aerobics",
+      "type": "T061",
+      "umls_id": "C0001701",
+      "score": 0.9896865487098694,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Sustained exercise that places an increased oxygen demand on the cardiovascular system and promotes an increased efficiency of the body's use of oxygen."
+    },
+    {
+      "text": "class",
+      "type": "T170",
+      "umls_id": "C0456387",
+      "score": 0.9968394637107849,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A grouping of things based on shared common attributes."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "trauma",
+      "type": "T037",
+      "umls_id": "C0043251",
+      "score": 0.9664932489395142,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Damage inflicted on the body as the direct or indirect result of an external force, with or without disruption of structural continuity."
+    },
+    {
+      "text": "region",
+      "type": "T083",
+      "umls_id": "C0017446",
+      "score": 0.9646239876747131,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "The continents and countries situated on those continents; the UNITED STATES and each of the constituent states arranged by region; CANADA and each of its provinces; AUSTRALIA and each of its states; the major bodies of water and major islands on both hemispheres; and selected major cities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "Menses",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9790869355201721,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "intervals",
+      "type": "T079",
+      "umls_id": "C1272706",
+      "score": 0.96578049659729,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time period, or other type of interval, during which something may be achieved, obtained or observed."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "right lower quadrant",
+      "type": "T029",
+      "umls_id": "C0230178",
+      "score": 0.9780491590499878,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right inguinal ligament."
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Pelvic ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.7773320078849792,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "right ovary",
+      "type": "T023",
+      "umls_id": "C0227873",
+      "score": 0.9880343079566956,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The ovary that is located in the right side of the pelvis."
+    },
+    {
+      "text": "Right ovarian artery flow",
+      "type": "T023",
+      "umls_id": "C0226411",
+      "score": 0.756072998046875,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of two arteries (right or left) that arise from the aorta to supply the corresponding ovary, ovarian ligament, uterine tube and ureter."
+    },
+    {
+      "text": "detectable",
+      "type": "T201",
+      "umls_id": "C3830527",
+      "score": 0.986511766910553,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The capability of being noticed, identified or discovered."
+    },
+    {
+      "text": "Doppler",
+      "type": "T060",
+      "umls_id": "C0554756",
+      "score": 0.9783632159233093,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "detected",
+      "type": "T033",
+      "umls_id": "C0442726",
+      "score": 0.9800583124160767,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>The measurement of the specified component / analyte, organism or clinical sign above the limit of detection of the performed test or procedure.</p>"
+    },
+    {
+      "text": "right ovarian vein",
+      "type": "T023",
+      "umls_id": "C0226723",
+      "score": 0.9853261113166809,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Ovarian vein, each instance of which is a tributary of some inferior vena cava that drains the right pampiniform plexus of some broad ligament."
+    },
+    {
+      "text": "ligaments",
+      "type": "T024",
+      "umls_id": "C0023685",
+      "score": 0.9847255349159241,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Shiny, flexible bands of fibrous tissue connecting together articular extremities of bones. They are pliant, tough, and inextensile."
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

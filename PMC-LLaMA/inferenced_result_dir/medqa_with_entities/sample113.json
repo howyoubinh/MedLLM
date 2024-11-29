@@ -1,0 +1,309 @@
+{
+  "original_data": {
+    "question": "A 67-year-old man with chronic kidney disease comes to the physician because of worsening fatigue and shortness of breath on exertion for 6 months. He has a 20-year history of poorly-controlled type 2 diabetes mellitus. Current medications include metformin and insulin. His pulse is 105/min. Examination shows conjunctival pallor and bounding pulses. Laboratory studies show:\nHemoglobin 8.6 g/dL\nMean corpuscular volume 90 μm3\nReticulocyte count 0.5%\nSerum\nFerritin 325 ng/mL\nUrea nitrogen 45 mg/dL\nCreatinine 2.2 mg/dL\nThe patient is prescribed a drug to treat the cause of his current symptoms. The drug's mechanism of action directly involves which of the following signaling pathways?\"",
+    "options": {
+      "A": "PI3K/Akt/mTOR",
+      "B": "MAP kinase",
+      "C": "JAK/STAT",
+      "D": "IP3"
+    }
+  },
+  "model_response": "The patient has anemia, which is common in patients with chronic kidney disease. The low serum ferritin suggests iron deficiency as the cause of the anemia. The patient should be prescribed iron supplementation. The iron will be incorporated into hemoglobin, increasing the patient's hemoglobin level. The mean corpuscular volume is increased, indicating microcytic anemia. The reticulocyte count is low, indicating decreased production of red blood cells. The patient's anemia is due to a deficiency of iron, which is necessary for heme synthesis. Iron is transported into the mitochondria of the developing erythroid cell by a transporter, ferropoin. The iron is incorporated into protoporphyrin IX to form heme. The heme is then incorporated into hemoglobin. The iron is then released from the heme by heme oxygenase and returns to the surface of the erythroid cell to be reused. The iron is transported out of the erythroid cell by a basolateral transporter named ferropoin. The iron is transported into the circulation by a basolateral transporter named ferropoin. The iron is then transported into developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported into the developing erythroid cells by a basolateral transporter named ferropoin. The iron is then transported",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "chronic kidney disease",
+      "type": "T047",
+      "umls_id": "C1561643",
+      "score": 0.9740806221961975,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Impairment of the renal function secondary to chronic kidney damage persisting for three or more months."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "exertion",
+      "type": "T040",
+      "umls_id": "C0015264",
+      "score": 0.9380931258201599,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Physical or mental energy; hard work."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "20-year history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.7367766499519348,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "poorly-controlled type 2 diabetes mellitus",
+      "type": "T033",
+      "umls_id": "C2732402",
+      "score": 0.8836542963981628,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Type I diabetes mellitus in which the blood glucose levels over time exceed levels such that tests that reflect long-term variation of blood glucose, such as HbA1c, exceed limits that are expected to be achieved by available therapies."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "insulin",
+      "type": "T116",
+      "umls_id": "C0021641",
+      "score": 0.9696833491325378,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A 51-amino acid pancreatic hormone that plays a major role in the regulation of glucose metabolism, directly by suppressing endogenous glucose production (GLYCOGENOLYSIS; GLUCONEOGENESIS) and indirectly by suppressing GLUCAGON secretion and LIPOLYSIS. Native insulin is a globular protein comprised of a zinc-coordinated hexamer. Each insulin monomer containing two chains, A (21 residues) and B (30 residues), linked by two disulfide bonds. Insulin is used as a drug to control insulin-dependent diabetes mellitus (DIABETES MELLITUS, TYPE 1)."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "conjunctival pallor",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.7875994443893433,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "bounding pulses",
+      "type": "T033",
+      "umls_id": "C0425574",
+      "score": 0.9679204821586609,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Increased amplitude (strength) of the pulse. []"
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Reticulocyte",
+      "type": "T025",
+      "umls_id": "C0035286",
+      "score": 0.9877743124961853,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Immature ERYTHROCYTES. In humans, these are ERYTHROID CELLS that have just undergone extrusion of their CELL NUCLEUS. They still contain some organelles that gradually decrease in number as the cells mature. RIBOSOMES are last to disappear. Certain staining techniques cause components of the ribosomes to precipitate into characteristic \"reticulum\" (not the same as the ENDOPLASMIC RETICULUM), hence the name reticulocytes."
+    },
+    {
+      "text": "Serum\nFerritin 325",
+      "type": "T033",
+      "umls_id": "C0241012",
+      "score": 0.7130897045135498,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally reduced concentration of ferritin, a ubiquitous intracellular protein that stores iron, in the blood. [HPO:probinson]"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "treat",
+      "type": "T169",
+      "umls_id": "C1292734",
+      "score": 0.9973037838935852,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The use of a particular medical device, medication or treatment to treat a pre-existing disease or condition."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drug's",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "signaling pathways",
+      "type": "T044",
+      "umls_id": "C0037080",
+      "score": 0.973293662071228,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "67-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

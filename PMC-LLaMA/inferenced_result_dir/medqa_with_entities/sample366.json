@@ -1,0 +1,455 @@
+{
+  "original_data": {
+    "question": "A 28-year-old female comes to the physician’s office with a complaint of episodic chest pain. She describes the pain as squeezing and tightness in her chest. This pain has been happening every few days for 3 months. She says there is no association of the pain with food or exercise. She is able to climb up to her fourth floor apartment daily without issue. Her only past medical history is migraines for which she takes appropriate medication. Here temperature is 98.6°F (37°C), blood pressure is 120/68 mmHg, pulse is 60/min, respirations are 16/min, and oxygen saturation is 98% on room air. She has no known family history. The patient is not in pain on presentation and EKG in the office is normal. 24-hour ECG monitoring shows transient ST elevations during the episodes of pain that resolve completely. The mechanism of this patient’s chest pain is most similar to the mechanism behind which of the following?",
+    "options": {
+      "A": "Raynaud's phenomenon",
+      "B": "Myocardial infarction",
+      "C": "Aortic dissection",
+      "D": "Costochondritis"
+    }
+  },
+  "model_response": "The patient’s symptoms are most consistent with variant angina. This angina occurs as a result of coronary vasospasm. The episodes are usually short-lived and not associated with ST-segment elevation. The episodes can occur in clusters and are often nocturnal. The episodes of vasospasm are usually triggered by factors such as cold, emotion, or exercise. The mechanism behind this type of angina is similar to that of Raynaud’s phenomenon, which is vasospasm of the digital arteries in response to cold or emotional stress.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician’s office",
+      "type": "T073",
+      "umls_id": "C0031834",
+      "score": 0.957046389579773,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "The room or rooms in which the physician and staff provide patient care. The offices include all rooms in the physician's office suite."
+    },
+    {
+      "text": "complaint",
+      "type": "T201",
+      "umls_id": "C3864418",
+      "score": 0.9737823009490967,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "episodic chest pain",
+      "type": "T184",
+      "umls_id": "C3808668",
+      "score": 0.821996808052063,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Intermittent pain, i.e., pain that occurs occasionally and at irregular intervals. []"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "squeezing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tightness",
+      "type": "T170",
+      "umls_id": "C4318613",
+      "score": 0.8251888751983643,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual's skin feels or felt tight."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "happening",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "food",
+      "type": "T168",
+      "umls_id": "C0016452",
+      "score": 0.991826593875885,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Substances taken in by the body to provide nourishment."
+    },
+    {
+      "text": "exercise",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9731677770614624,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "climb",
+      "type": "T033",
+      "umls_id": "C0561942",
+      "score": 0.9948778748512268,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "floor apartment",
+      "type": "T073",
+      "umls_id": "C0457933",
+      "score": 0.7665227651596069,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A room or suite of rooms designed as a residence and generally located in a building occupied by more than one household used as an element of an address."
+    },
+    {
+      "text": "issue",
+      "type": "T033",
+      "umls_id": "C0033213",
+      "score": 0.9982309341430664,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A difficulty, disorder, or condition needing resolution."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "migraines",
+      "type": "T047",
+      "umls_id": "C0149931",
+      "score": 0.9694961905479431,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A common, severe type of vascular headache often associated with increased sympathetic activity, resulting in nausea, vomiting, and light sensitivity."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "EKG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.9992800951004028,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ECG monitoring",
+      "type": "T060",
+      "umls_id": "C0180580",
+      "score": 0.9542515277862549,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "transient",
+      "type": "T098",
+      "umls_id": "C0040704",
+      "score": 0.969123899936676,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ST",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "elevations",
+      "type": "T082",
+      "umls_id": "C0702240",
+      "score": 0.9656992554664612,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The condition of being elevated."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "patient’s chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.7857995629310608,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "behind",
+      "type": "T082",
+      "umls_id": "C0205095",
+      "score": 0.9603694081306458,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Pertaining to the back or upper surface of the body; opposite of ventral."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

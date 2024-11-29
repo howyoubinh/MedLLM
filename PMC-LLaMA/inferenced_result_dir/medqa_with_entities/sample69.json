@@ -1,0 +1,427 @@
+{
+  "original_data": {
+    "question": "A 65-year-old man with a history of hypertension, obesity, and alcoholic cirrhosis is seen in clinic for follow-up. He feels well and currently drinks 5 glasses of wine each night. Medications include atenolol and lisinopril. On physical exam, temperature is 98.1 deg F (36.7 deg C), blood pressure is 151/82 mmHg, pulse is 71/min, and respirations are 14/min. He has spider angiomata on his chest; no asterixis, jaundice, ascites, or peripheral edema is noted. Screening ultrasound reveals a new liver nodule, and follow up CT demonstrates a 2 cm right hepatic lobe lesion with enhancement in the arterial phase. No hypodense attenuation is seen on the venous or delayed phase. What is the next step in management?",
+    "options": {
+      "A": "Proceed with liver biopsy",
+      "B": "Refer for surgical resection",
+      "C": "Refer for radiofrequency ablation",
+      "D": "Observe and get follow-up imaging in 3 months"
+    }
+  },
+  "model_response": "The next step in management is to observe and get follow-up imaging in 3 months. This patient has a known history of alcoholic cirrhosis and a new 2 cm hepatic lobe lesion with arterial phase enhancement. Given the clinical scenario, the most likely diagnosis is hepatocellular carcinoma. The recommended approach is to observe the lesion with serial imaging studies, as the majority of these lesions are not aggressive. A liver biopsy would be required to confirm the diagnosis, but given the potential for sampling error and hemorrhage, it is not the best next step in management. Surgical resection and radiofrequency ablation are not appropriate initial steps in management for lesions that are likely to be hepatocellular carcinoma.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9823688864707947,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "obesity",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9890912771224976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "alcoholic cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023891",
+      "score": 0.977724552154541,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "FIBROSIS of the hepatic parenchyma due to chronic excess ALCOHOL DRINKING."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "glasses",
+      "type": "T074",
+      "umls_id": "C0015421",
+      "score": 0.9843721389770508,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A pair of ophthalmic lenses in a frame or mounting which is supported by the nose and ears. The purpose is to aid or improve vision. It does not include goggles or nonprescription sun glasses for which EYE PROTECTIVE DEVICES is available."
+    },
+    {
+      "text": "wine",
+      "type": "T168",
+      "umls_id": "C0043188",
+      "score": 0.9571377635002136,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Fermented juice of fresh grapes or of other fruit or plant products used as a beverage."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "Medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "atenolol",
+      "type": "T109",
+      "umls_id": "C0004147",
+      "score": 0.980288028717041,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A cardioselective beta-1 adrenergic blocker possessing properties and potency similar to PROPRANOLOL, but without a negative inotropic effect."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "F",
+      "type": "T116",
+      "umls_id": "C0031453",
+      "score": 1.0,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T123"
+      ],
+      "definition": "An essential aromatic amino acid that is a precursor of MELANIN; DOPAMINE; noradrenalin (NOREPINEPHRINE), and THYROXINE."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "spider",
+      "type": "T204",
+      "umls_id": "C0037913",
+      "score": 0.9733456373214722,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "Arthropods of the class ARACHNIDA, order Araneae. Except for mites and ticks, spiders constitute the largest order of arachnids, with approximately 37,000 species having been described. The majority of spiders are harmless, although some species can be regarded as moderately harmful since their bites can lead to quite severe local symptoms. (From Barnes, Invertebrate Zoology, 5th ed, p508; Smith, Insects and Other Arthropods of Medical Importance, 1973, pp424-430)"
+    },
+    {
+      "text": "angiomata",
+      "type": "T191",
+      "umls_id": "C0154051",
+      "score": 0.8028331398963928,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A hemangioma arising from the retina."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "no asterixis",
+      "type": "T184",
+      "umls_id": "C0232766",
+      "score": 0.8493684530258179,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A tremor of the wrist that is observed when the wrist is extended."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "ascites",
+      "type": "T047",
+      "umls_id": "C0003962",
+      "score": 0.9889810681343079,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Accumulation or retention of free fluid within the peritoneal cavity."
+    },
+    {
+      "text": "peripheral edema",
+      "type": "T046",
+      "umls_id": "C0085649",
+      "score": 0.9664050936698914,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Swelling due to an excessive accumulation of fluid in the upper or lower extremities."
+    },
+    {
+      "text": "Screening ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.7165533304214478,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "liver nodule",
+      "type": "T033",
+      "umls_id": "C0745761",
+      "score": 0.981029212474823,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "right hepatic lobe",
+      "type": "T023",
+      "umls_id": "C0227481",
+      "score": 0.9854264259338379,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The larger lobe of the liver extending into the right side of the body."
+    },
+    {
+      "text": "enhancement",
+      "type": "T061",
+      "umls_id": "C1627358",
+      "score": 0.9641070365905762,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "arterial phase",
+      "type": "T023",
+      "umls_id": "C0003842",
+      "score": 0.7722969055175781,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The vessels carrying blood away from the heart."
+    },
+    {
+      "text": "hypodense attenuation",
+      "type": "T052",
+      "umls_id": "C0599946",
+      "score": 0.7060489654541016,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A weakening in force or intensity."
+    },
+    {
+      "text": "venous",
+      "type": "T023",
+      "umls_id": "C0042449",
+      "score": 0.9770123958587646,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The vessels carrying blood away from the CAPILLARY BEDS."
+    },
+    {
+      "text": "delayed phase",
+      "type": "T079",
+      "umls_id": "C0205421",
+      "score": 0.7401999235153198,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Hold back to a later time."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

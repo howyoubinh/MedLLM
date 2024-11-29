@@ -1,0 +1,143 @@
+{
+  "original_data": {
+    "question": "A previously healthy 28-year-old man comes to the emergency department because of dizziness and palpitations for 2 days. Prior to the onset of the symptoms, he attended a bachelor party where he lost several drinking games. An ECG is shown. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Paroxysmal atrial fibrillation",
+      "B": "Brugada syndrome",
+      "C": "Ventricular tachycardia",
+      "D": "Sick sinus syndrome"
+    }
+  },
+  "model_response": "The rhythm strip reveals a hea rate of approximately 150 beats/min with normal-appearing QRS complexes and no P waves. The patient is in a regular rhythm with a narrow QRS. The differential diagnosis includes atrial fibrillation with a junctional or ventricular response, atrial flutter with 2:1 conduction, and a ventricular tachycardia. The absence of P waves essentially excludes atrial fibrillation and atrial flutter. The rate is too fast for a junctional or ventricular rhythm. The QRS complexes are narrow, which excludes a ventricular tachycardia. The correct answer is Brugada syndrome. Brugada syndrome is characterized by a pattern of ST-segment elevation in more than one coronary aery distribution with a history of sudden death. The syndrome is inherited in an autosomal dominant fashion and is associated with a mutation of the cardiac sodium channel. The mutation causes a loss of function in the sodium channel, leading to an abnormality in phase 4 of the ventricular action potential. The ECG abnormality and the associated arrhythmias can be unmasked or accentuated by drugs that block the sodium channel, such as flecainide, ajmaline, or procainamide. The treatment of choice for patients who have Brugada syndrome is an implantable cardioveer defibrillator (ICD).\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bachelor party",
+      "type": "T033",
+      "umls_id": "C0337600",
+      "score": 0.7766061425209045,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A man who is not, and has never been, married."
+    },
+    {
+      "text": "drinking games",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.756161630153656,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "original_data": {
+    "question": "A 56-year-old man with a history of pancreatic cancer presents to the surgical intensive care unit following a pancreaticoduodenectomy. Over the next 3 days, the patient's drainage output is noted to exceed 1 liter per day. In the early morning of postoperative day 4, the nurse states that the patient is difficult to arouse. His temperature is 99.5°F (37.5°C), blood pressure is 107/88 mmHg, pulse is 120/min, respirations are 17/min, and oxygen saturation is 98% on room air. His skin and mucous membranes are dry on physical exam. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 154 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 27 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\n\nWhich of the following is the best next step in management?",
+    "options": {
+      "A": "0.9% saline IV",
+      "B": "5% dextrose IV",
+      "C": "5% dextrose IV with 0.45% saline IV",
+      "D": "Oral free water replacement"
+    }
+  },
+  "model_response": "The patient is presenting with signs of hypernatremia (increased Na+), which is likely due to insufficient intake of free water and increased water loss from the denuded, inflamed surgical bed. The low urine osmolality (<500 mOsm/kg) suggests an inability of the kidneys to concentrate urine, which can be caused by dehydration and/or the effects of medications (such as loop diuretics). The low urine sodium (<10 mEq/L) suggests that the kidneys are unable to reabsorb filtered sodium in the presence of hypernatremia. The low urine osmolality and low urine sodium are consistent with a tubular injury, such as that seen with aminoglycoside toxicity or contrast nephropathy. The patient should be given free water (either orally or via nasogastric tube) to correct the hypernatremia.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "pancreatic cancer",
+      "type": "T191",
+      "umls_id": "C0235974",
+      "score": 0.9861518740653992,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A carcinoma arising from the exocrine pancreas. The overwhelming majority of pancreatic carcinomas are adenocarcinomas."
+    },
+    {
+      "text": "surgical",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.990713357925415,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "pancreaticoduodenectomy",
+      "type": "T061",
+      "umls_id": "C0085162",
+      "score": 0.977821409702301,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The excision of the head of the pancreas and the encircling loop of the duodenum to which it is connected."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "drainage",
+      "type": "T031",
+      "umls_id": "C0012621",
+      "score": 0.9911935329437256,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The pouring forth of a fluid."
+    },
+    {
+      "text": "output",
+      "type": "T077",
+      "umls_id": "C1709366",
+      "score": 0.9882925748825073,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Anything coming out of a system."
+    },
+    {
+      "text": "liter",
+      "type": "T081",
+      "umls_id": "C0475211",
+      "score": 0.9761205911636353,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The non-SI unit of volume accepted for use with the SI. One liter is equal to cubic decimeter, or one thousandth of cubic meter, or 1000 cubic centimeters, or approximately 61.023 744 cubic inches."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "early morning",
+      "type": "T048",
+      "umls_id": "C0541798",
+      "score": 0.817001223564148,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A type of insomnia characterized by waking up (too) early in the morning. []"
+    },
+    {
+      "text": "postoperative",
+      "type": "T079",
+      "umls_id": "C0032790",
+      "score": 0.9935263395309448,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period following a surgical operation."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.9822375178337097,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "arouse",
+      "type": "T041",
+      "umls_id": "C0043012",
+      "score": 0.7794264554977417,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state in which there is an enhanced potential for sensitivity and an efficient responsiveness to external stimuli."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Laboratory values",
+      "type": "T034",
+      "umls_id": "C4277633",
+      "score": 0.859666645526886,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "Test results which deviate substantially from normal ranges of REFERENCE VALUES or other qualitative results. They trigger CLINICAL LABORATORY SERVICES to place a special alert to ensure PATIENT SAFETY."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "Na+",
+      "type": "T196",
+      "umls_id": "C0597484",
+      "score": 0.9633213877677917,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "chief cation of the extracellular body fluids."
+    },
+    {
+      "text": "Cl-",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "K+",
+      "type": "T121",
+      "umls_id": "C0597277",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "atom of potassium having a positive charge; potassium is the chief cation of muscle and most other cells (intracellular fluid)."
+    },
+    {
+      "text": "HCO3-",
+      "type": "T116",
+      "umls_id": "C0106269",
+      "score": 0.7160655856132507,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Electroneutral chloride bicarbonate exchangers that allow the exchange of BICARBONATE IONS exchange for CHLORIDE IONS across the cellular membrane. The action of specific antiporters in this class serve important functions such as allowing the efficient exchange of bicarbonate across red blood cell membranes as they passage through capillaries and the reabsorption of bicarbonate ions by the kidney."
+    },
+    {
+      "text": "BUN",
+      "type": "T059",
+      "umls_id": "C0005845",
+      "score": 0.9844024777412415,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The urea concentration of the blood stated in terms of nitrogen content. Serum (plasma) urea nitrogen is approximately 12% higher than blood urea nitrogen concentration because of the greater protein content of red blood cells. Increases in blood or serum urea nitrogen are referred to as azotemia and may have prerenal, renal, or postrenal causes. (From Saunders Dictionary & Encyclopedia of Laboratory Medicine and Technology, 1984)"
+    },
+    {
+      "text": "Creatinine",
+      "type": "T109",
+      "umls_id": "C0010294",
+      "score": 0.9871318340301514,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The breakdown product of creatine, a constituent of muscle tissue, that is excreted by the kidney and whose serum level is used to evaluate kidney function."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "56-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "original_data": {
+    "question": "A post-mortem lung examination of a 68-year-old male overweight male with evidence of chronic lower extremity edema, a 60 pack-year smoking history and daily productive cough would be most likely to reveal:",
+    "options": {
+      "A": "Hypereosinophilia",
+      "B": "Reid Index > 50%",
+      "C": "Non-caseating granulomas",
+      "D": "Evidence of a necrotizing infection"
+    }
+  },
+  "model_response": "The Reid Index is a ratio between the thickness of the granuloma and the thickness of the accompanying fibrosis. It is useful in distinguishing sarcoidosis from other granulomatous diseases such as tuberculosis and histoplasmosis. The Reid Index is calculated by dividing the thickness of the granuloma (in millimeters) by the thickness of the accompanying fibrosis (in millimeters). The resulting ratio, termed the Reid Index, should be greater than 0.7 in sarcoidosis. In other words, the thickness of the granuloma should be at least 70% of the thickness of the fibrosis.\n\nOption A: Hypereosinophilia is not a characteristic of sarcoidosis.\nOption B: The Reid Index is not a characteristic of sarcoidosis.\nOption C: Non-caseating granulomas are not a characteristic of sarcoidosis.\nOption D: Evidence of a necrotizing infection is not a characteristic of sarcoidosis.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "post-mortem",
+      "type": "T079",
+      "umls_id": "C0580205",
+      "score": 0.9653398394584656,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring after death."
+    },
+    {
+      "text": "lung examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.8232214450836182,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "overweight",
+      "type": "T033",
+      "umls_id": "C0497406",
+      "score": 0.9609990119934082,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which body mass index falls between 25 and 29.9."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "evidence",
+      "type": "T078",
+      "umls_id": "C3887511",
+      "score": 0.9744833707809448,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Knowledge on which to base belief."
+    },
+    {
+      "text": "chronic lower extremity edema",
+      "type": "T046",
+      "umls_id": "C0239340",
+      "score": 0.8424324989318848,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "An abnormal accumulation of excess fluid in the lower extremity resulting in swelling of the feet and extending upward to the lower leg. [HPO:probinson]"
+    },
+    {
+      "text": "pack-year",
+      "type": "T081",
+      "umls_id": "C5551741",
+      "score": 0.9314562082290649,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantification of lifetime tobacco exposure defined as (number of cigarettes smoked per day x number of years smoked)/20. One pack-year is smoking 20 cigarettes a day for one year."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "productive cough",
+      "type": "T033",
+      "umls_id": "C0239134",
+      "score": 0.9714952111244202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A cough accompanied by expectorated secretions."
+    },
+    {
+      "text": "68-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

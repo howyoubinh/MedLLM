@@ -1,0 +1,342 @@
+{
+  "original_data": {
+    "question": "A 26-year-old man with no significant past medical history presents to the ED following a motor vehicle accident. Vital signs on presentation are T 99.0 F, BP 100/60 mmHg, HR 125 bpm, RR 16/min, SpO2 98% on room air. He complains of extreme abdominal pain worse in the left upper quadrant which has worsened over the past 30 minutes. Exam demonstrates abdominal wall rigidity, involuntary guarding, and tenderness on light percussion. Bedside sonography shows evidence for hemoperitoneum. Despite administering more intravenous fluids, repeat vitals are T 98.9 F, BP 82/50 mm hg, HR 180 bpm, RR 20/min, SpO2 97% on room air. Which of the following is the best next step?",
+    "options": {
+      "A": "Normal saline bolus and re-evaluation of hemodynamics after infusion",
+      "B": "CT abdomen and pelvis",
+      "C": "Morphine",
+      "D": "Exploratory laparotomy"
+    }
+  },
+  "model_response": "The patient's clinical picture is consistent with hemoperitoneum. The initial management of this patient should be aggressive resuscitation with intravenous fluids. However, the patient's hemodynamic status has not improved despite fluid administration. This patient is in hemodynamic instability and requires operative intervention. Therefore, the best next step is exploratory laparotomy.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "no significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "ED",
+      "type": "T047",
+      "umls_id": "C0242350",
+      "score": 0.953866720199585,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction."
+    },
+    {
+      "text": "motor vehicle accident",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.961533784866333,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "T",
+      "type": "T023",
+      "umls_id": "C0227099",
+      "score": 1.0,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "<p>Deciduous mandibular right second molar tooth; Universal designation T; ISO designation 85</p>"
+    },
+    {
+      "text": "BP",
+      "type": "T058",
+      "umls_id": "C0005824",
+      "score": 0.9979794025421143,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Techniques used for measuring BLOOD PRESSURE."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "HR",
+      "type": "T033",
+      "umls_id": "C0332167",
+      "score": 0.9999390244483948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bpm",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "RR",
+      "type": "T033",
+      "umls_id": "C4554402",
+      "score": 0.999627947807312,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "SpO2",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "left upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230179",
+      "score": 0.9745408296585083,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the left of the patient, and from the umbilical plane to the left ribcage."
+    },
+    {
+      "text": "worsened",
+      "type": "T033",
+      "umls_id": "C1457868",
+      "score": 0.981609582901001,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "In an declined condition."
+    },
+    {
+      "text": "abdominal wall rigidity",
+      "type": "T184",
+      "umls_id": "C0159066",
+      "score": 0.8734402656555176,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Involuntary tightening of the abdominal musculature that occurs in response to touching the abdomen to avoid pain. Rigidity can occur in the presence of abdominal inflammation and usually involves only the inflamed area. []"
+    },
+    {
+      "text": "involuntary guarding",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "light percussion",
+      "type": "T060",
+      "umls_id": "C0030987",
+      "score": 0.7911888360977173,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of striking a part with short, sharp blows as an aid in diagnosing the condition beneath the sound obtained."
+    },
+    {
+      "text": "Bedside sonography",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.7644267678260803,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "evidence",
+      "type": "T078",
+      "umls_id": "C3887511",
+      "score": 0.9744833707809448,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Knowledge on which to base belief."
+    },
+    {
+      "text": "hemoperitoneum",
+      "type": "T046",
+      "umls_id": "C0019065",
+      "score": 0.9834848642349243,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Accumulations of blood in the PERITONEAL CAVITY due to internal HEMORRHAGE."
+    },
+    {
+      "text": "administering",
+      "type": "T061",
+      "umls_id": "C1533734",
+      "score": 0.967193067073822,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The act of the dispensing, applying, or tendering of something to another, such as administration of a medicine."
+    },
+    {
+      "text": "intravenous fluids",
+      "type": "T167",
+      "umls_id": "C1289919",
+      "score": 0.8908127546310425,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A sterile liquid preparation infused into a vein. IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances. In addition, IV fluids are used to administer blood products and medications such as chemotherapy. Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)"
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "BP",
+      "type": "T058",
+      "umls_id": "C0005824",
+      "score": 0.9979794025421143,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Techniques used for measuring BLOOD PRESSURE."
+    },
+    {
+      "text": "HR",
+      "type": "T033",
+      "umls_id": "C0332167",
+      "score": 0.9999390244483948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bpm",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "RR",
+      "type": "T033",
+      "umls_id": "C4554402",
+      "score": 0.999627947807312,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "SpO2",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

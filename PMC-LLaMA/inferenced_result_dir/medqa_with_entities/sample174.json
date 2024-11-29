@@ -1,0 +1,354 @@
+{
+  "original_data": {
+    "question": "An investigator conducts a study to determine whether earlier detection of glioblastoma multiforme (GBM) in patients increases survival time. One subset of study participants consists of asymptomatic individuals who were diagnosed with GBM after undergoing a screening MRI of the brain. The other subset of study participants was diagnosed with GBM only after they developed symptoms. Results from the study show that the asymptomatic patients who were diagnosed with screening MRI had an average survival time that was 6 weeks longer than that of the patients who were diagnosed after symptom onset. Which of the following statistical biases is most likely to have occurred as a result of the endpoint selected for this study?",
+    "options": {
+      "A": "Observer-expectancy bias",
+      "B": "Length-time bias",
+      "C": "Surveillance bias",
+      "D": "Lead-time bias"
+    }
+  },
+  "model_response": "Length-time bias. Length-time bias occurs when the rate of diagnosis of a disease is influenced by the duration of time that a person is observed. In this study, the screened patients were observed for a longer period of time than the non-screened patients, which likely led to the increased rate of diagnosis of GBM in the screened group. This bias is also known as \"detectability bias.\" Observer-expectancy bias. This bias occurs when the prognosis of a patient is influenced by the expectations of the health care providers. In this study, the expectations of the health care providers may have influenced the survival time of the patients, but this would not have led to the difference in survival times between the screened and non-screened patients. Surveillance bias. Surveillance bias occurs when the rate of diagnosis of a disease is influenced by the frequency of surveillance. In this study, the frequency of surveillance (i.e., the MRI screening) did not differ between the groups, so surveillance bias is not the likely explanation for the difference in survival times. Lead-time bias. Lead-time bias occurs when the survival time of a patient is artificially increased because the time of diagnosis is advanced, but the time of death remains unchanged. In this study, the time of diagnosis was advanced for the screened patients, but the time of death did not change. Therefore, lead-time bias is not the likely explanation for the difference in survival times.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "investigator",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9776015877723694,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "conducts",
+      "type": "T053",
+      "umls_id": "C0004927",
+      "score": 0.9746460318565369,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "The observable response of a man or animal to a situation."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "detection",
+      "type": "T061",
+      "umls_id": "C1511790",
+      "score": 0.9594880938529968,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The activity of perceiving, discerning, discovering or identifying."
+    },
+    {
+      "text": "glioblastoma multiforme",
+      "type": "T191",
+      "umls_id": "C1621958",
+      "score": 0.9853024482727051,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "The most malignant astrocytic tumor (WHO grade 4). It is composed of poorly differentiated neoplastic astrocytes and is characterized by the presence of cellular polymorphism, nuclear atypia, brisk mitotic activity, vascular thrombosis, microvascular proliferation, and necrosis. It typically affects adults and is preferentially located in the cerebral hemispheres. (Adapted from WHO)"
+    },
+    {
+      "text": "GBM",
+      "type": "T023",
+      "umls_id": "C0599297",
+      "score": 0.9938082695007324,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A sheet of amorphous extracellular material upon which the basal surfaces of epithelial cells rest and is the covering surface of a glomerular capillary, interposed between the cellular elements and the underlying connective tissue."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "survival time",
+      "type": "T201",
+      "umls_id": "C2919552",
+      "score": 0.9572535157203674,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "study participants",
+      "type": "T096",
+      "umls_id": "C0681850",
+      "score": 0.9014186263084412,
+      "semantic_types": [
+        "T096"
+      ],
+      "definition": "A matter or an individual that is observed, analyzed, examined, investigated, experimented upon, or/and treated in the course of a particular study."
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "individuals",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.864304780960083,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "GBM",
+      "type": "T023",
+      "umls_id": "C0599297",
+      "score": 0.9938082695007324,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A sheet of amorphous extracellular material upon which the basal surfaces of epithelial cells rest and is the covering surface of a glomerular capillary, interposed between the cellular elements and the underlying connective tissue."
+    },
+    {
+      "text": "screening MRI",
+      "type": "T060",
+      "umls_id": "C0199230",
+      "score": 0.8512991666793823,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures performed on people to identify those who have NEOPLASMS or PRENEOPLASTIC CONDITIONS."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "study participants",
+      "type": "T096",
+      "umls_id": "C0681850",
+      "score": 0.9014186263084412,
+      "semantic_types": [
+        "T096"
+      ],
+      "definition": "A matter or an individual that is observed, analyzed, examined, investigated, experimented upon, or/and treated in the course of a particular study."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "GBM",
+      "type": "T023",
+      "umls_id": "C0599297",
+      "score": 0.9938082695007324,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A sheet of amorphous extracellular material upon which the basal surfaces of epithelial cells rest and is the covering surface of a glomerular capillary, interposed between the cellular elements and the underlying connective tissue."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "screening MRI",
+      "type": "T060",
+      "umls_id": "C0199230",
+      "score": 0.8512991666793823,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures performed on people to identify those who have NEOPLASMS or PRENEOPLASTIC CONDITIONS."
+    },
+    {
+      "text": "average",
+      "type": "T081",
+      "umls_id": "C1510992",
+      "score": 0.9809716939926147,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A statistical calculation describing the central tendency of a set of numbers; used to interpret quantitative data."
+    },
+    {
+      "text": "survival time",
+      "type": "T201",
+      "umls_id": "C2919552",
+      "score": 0.9572535157203674,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "longer",
+      "type": "T033",
+      "umls_id": "C3242381",
+      "score": 0.7080917358398438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**This name is no longer in use (note: Names may also carry valid time ranges . This code is used to cover the situations where it is known that the name is no longer valid, but no particular time range for its use is known)</p>"
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "symptom onset",
+      "type": "T079",
+      "umls_id": "C4086878",
+      "score": 0.9901254773139954,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The point at which the symptoms began or were first noted."
+    },
+    {
+      "text": "statistical biases",
+      "type": "T078",
+      "umls_id": "C0600366",
+      "score": 0.9734518527984619,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "endpoint",
+      "type": "T080",
+      "umls_id": "C2349179",
+      "score": 0.9104465246200562,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A place of termination or completion. This may be a primary or secondary outcome variable used to judge the effectiveness of a treatment."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    }
+  ]
+}

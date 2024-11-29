@@ -1,0 +1,208 @@
+{
+  "original_data": {
+    "question": "A 13-year-old boy is brought to the emergency department by his mother because of a 6-hour history of severe eye pain and blurry vision. He wears soft contact lenses and has not removed them for 2 days. Ophthalmologic examination shows a deep corneal ulcer, severe conjunctival injection, and purulent discharge on the right. Treatment with topical ciprofloxacin is initiated. A culture of the ocular discharge is most likely to show which of the following?",
+    "options": {
+      "A": "Gram-negative, non-maltose fermenting diplococci",
+      "B": "Gram-negative, lactose-fermenting bacilli",
+      "C": "Gram-negative, oxidase-positive bacilli",
+      "D": "Gram-positive, optochin-sensitive diplococci\n\""
+    }
+  },
+  "model_response": "The history and clinical findings are typical of bacterial keratitis, which occurs in contact lens wearers who do not follow proper lens-disinfection procedures. Pseudomonas aeruginosa is the most common cause of keratitis in these patients. The organism is a gram-negative rod that ferments lactose but not maltose. It produces a blue-green, water-soluble pigment (pyocyanin) that diffuses into agar and is the basis for the name \"pseudomonas (false monad).\"\n\nOxidase-positive, gram-negative rods that oxidize maltose are the most likely cause of keratitis in a contact lens wearer. This group includes Pseudomonas, Serratia, and Klebsiella. Optochin-sensitive, gram-positive diplococci that ferment maltose are the most likely cause of keratitis in a contact lens wearer. This group includes Staphylococcus and Streptococcus. Gram-negative, oxidase-positive rods that do not ferment lactose or maltose are unlikely to be pathogenic in this setting. This group includes Neisseria. Gram-positive, optochin-sensitive diplococci that ferment maltose are unlikely to be pathogenic in this setting. This group includes Corynebacterium.\n\nDiagnosis: Keratitis\n\n{A: Pseudomonas aeruginosa}\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "eye pain",
+      "type": "T184",
+      "umls_id": "C0151827",
+      "score": 0.9724454879760742,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation in the eye."
+    },
+    {
+      "text": "blurry vision",
+      "type": "T033",
+      "umls_id": "C0344232",
+      "score": 0.9578902125358582,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blurred vision is the loss of visual acuity (sharpness of vision) resulting in a loss of ability to see small details. (from MedlinePlus Medical Encyclopedia)"
+    },
+    {
+      "text": "wears",
+      "type": "T037",
+      "umls_id": "C2717979",
+      "score": 0.816241443157196,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Loss of the tooth substance by chemical or mechanical processes"
+    },
+    {
+      "text": "soft contact lenses",
+      "type": "T074",
+      "umls_id": "C0009838",
+      "score": 0.9761231541633606,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Soft, supple contact lenses made of plastic polymers which interact readily with water molecules. Many types are available, including continuous and extended-wear versions, which are gas-permeable and easily sterilized."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "Ophthalmologic examination",
+      "type": "T061",
+      "umls_id": "C0200149",
+      "score": 0.9731031656265259,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A test performed by an ophthalmologist or optometrist assessing vision and ability to focus on and discern objects, as well as other tests and examinations pertaining to the eyes."
+    },
+    {
+      "text": "deep corneal ulcer",
+      "type": "T047",
+      "umls_id": "C3671852",
+      "score": 0.9636161923408508,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "conjunctival injection",
+      "type": "T033",
+      "umls_id": "C1761613",
+      "score": 0.9609065055847168,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Dilatation of the blood vessels of the conjunctiva leading to a red appearance of the sclera. []"
+    },
+    {
+      "text": "purulent discharge",
+      "type": "T184",
+      "umls_id": "C0333274",
+      "score": 0.9788120985031128,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pus-containing fluid that is draining from an orifice or wound."
+    },
+    {
+      "text": "right",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9998472332954407,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "Treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "topical ciprofloxacin",
+      "type": "T109",
+      "umls_id": "C0008809",
+      "score": 0.7811384797096252,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A broad-spectrum antimicrobial carboxyfluoroquinoline."
+    },
+    {
+      "text": "culture",
+      "type": "T078",
+      "umls_id": "C0010453",
+      "score": 0.976164698600769,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collective expression for all behavior patterns acquired and socially transmitted through symbols. Culture includes customs, traditions, and language."
+    },
+    {
+      "text": "ocular discharge",
+      "type": "T184",
+      "umls_id": "C0423006",
+      "score": 0.9887056350708008,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Liquid exudate from the eye."
+    },
+    {
+      "text": "13-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "original_data": {
+    "question": "A 55-year-old man comes to the physician because of a 6-week history of tingling pain in the sole of his right foot when he raises it above chest level during exercises. He reports that he started exercising regularly 2 months ago and that his right calf cramps when he uses the incline feature on the treadmill, forcing him to take frequent breaks. The pain completely disappears after resting for a few minutes. He has an 8-year history of type 2 diabetes mellitus. He has smoked two packs of cigarettes daily for 34 years. His only medication is metformin. His pulse is 82/min, and blood pressure is 170/92 mm Hg. Straight leg raise test elicits pallor and tingling pain in the right foot. There is no pain in the back. His muscle strength is normal. Femoral pulses are palpable; right pedal pulses are absent. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Femoropopliteal artery stenosis",
+      "B": "Acute thrombosis of right popliteal vein",
+      "C": "Lumbar spinal stenosis",
+      "D": "Aortoiliac artery stenosis\n\""
+    }
+  },
+  "model_response": "The symptoms of claudication in the right leg are typical of arterial disease. The absence of pedal pulses and the finding of femoral pulses are diagnostic of aortoiliac disease. The symptoms of claudication are relieved by rest, and the pain is reproduced by exercise. The symptoms are often described as a cramp or ache in the muscle group that is being exercised. The pain is not present on taking the first step (intermittent claudication) and is relieved by standing still (rest pain). The location of the pain is characteristic of the level of the occlusion. Symptoms of neurologic claudication are often associated with lumbar spinal stenosis. The pain is associated with walking and is relieved by sitting or changing positions. The pain is often described as a feeling of fatigue or cramping in the buttocks, hips, and thighs. It is not present on taking the first step (unlike vascular claudication) and is relieved by sitting or changing positions. The pain is not reproducible by exercise (unlike vascular claudication).\n\nThe symptoms of venous claudication are often described as a feeling of congestion or tightness in the lower calf. The pain is relieved by elevation of the leg and is reproduced by exercise. Venous claudication is often seen in patients with venous insufficiency.\n\nThe symptoms of arterial claudication are often described as a cramp or ache in the muscle group that is being exercised. The pain is not present on taking the first step (unlike vascular claudication) and is relieved by standing still (rest pain). The location of the pain is characteristic of the level of the occlusion.\n\nThe symptoms of lumbar spinal stenosis are often described as a feeling of fatigue or cramping in the buttocks, hips, and thighs. The pain is not present on taking the first step (unlike vascular claudication) and is relieved by sitting or changing positions. The pain is not reproducible by exercise (unlike vascular claudication).\n\nThe symptoms of neurologic claudication are often associated with lumbar spinal stenosis. The pain is often described as a feeling of fatigue or cramping in the buttocks, hips, and thighs. It is not present on taking the first step (unlike vascular claudication) and is relieved by sitting or changing positions. The pain is not reproducible by exercise (unlike vascular claudication).\n\nThe symptoms of venous claudication are often described as a feeling of congestion or tightness in the lower calf. The pain is relieved by elevation of the leg and is reproduced by exercise. Venous claudication is often seen in patients with venous insufficiency.\n\nThe symptoms of arterial claudication are often described as a cramp or ache in the muscle group that is being exercised. The pain is not present on taking the first step (unlike vascular claudication) and is relieved by standing still (rest pain). The location of the pain is characteristic of the level of the occlusion.\n\nThe symptoms of femoropopliteal artery stenosis are often described as a cramp or ache in the muscle group that is being exercised. The pain is not present on taking the first step (unlike vascular claudication) and is relieved by sitting or changing positions. The pain is not reproducible by exercise (unlike vascular claudication).\n\nThe symptoms of acute thrombosis of the right popliteal vein are often described as a feeling of congestion or tightness in the lower calf. The pain is relieved by elevation of the leg and is reproduced by exercise. Venous claudication is often seen in patients with venous insufficiency.\n\nThe symptoms of aortoiliac artery stenosis are often described as a cramp or ache in the muscle group that is being exercised. The pain is not present on taking the first step (unlike vascular claudication) and is relieved by standing still (rest pain). The location of the pain is characteristic of the level of the",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "tingling pain",
+      "type": "T184",
+      "umls_id": "C5192202",
+      "score": 0.9659150242805481,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right foot",
+      "type": "T023",
+      "umls_id": "C0230460",
+      "score": 0.9896419048309326,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chest level",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.7021452188491821,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "exercises",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9747228622436523,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "right calf cramps",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "incline feature",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "treadmill",
+      "type": "T073",
+      "umls_id": "C0184069",
+      "score": 0.9825341105461121,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A piece of exercise equipment used to walk or run on, for the purposes of cardiovascular training or testing."
+    },
+    {
+      "text": "forcing",
+      "type": "T169",
+      "umls_id": "C0443221",
+      "score": 0.9741705656051636,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Compelled by force or necessity."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "breaks",
+      "type": "T044",
+      "umls_id": "C1721104",
+      "score": 0.8251362442970276,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": "Interruptions in the sugar-phosphate backbone of DNA."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "disappears",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "resting",
+      "type": "T056",
+      "umls_id": "C0035253",
+      "score": 0.9954398274421692,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Freedom from activity."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "packs",
+      "type": "T074",
+      "umls_id": "C0441122",
+      "score": 0.9747228026390076,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Straight leg",
+      "type": "T054",
+      "umls_id": "C0019421",
+      "score": 0.8049561381340027,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The sexual attraction or relationship between members of the opposite SEX."
+    },
+    {
+      "text": "raise test",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pallor",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9879653453826904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "tingling pain",
+      "type": "T184",
+      "umls_id": "C5192202",
+      "score": 0.9659150242805481,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right foot",
+      "type": "T023",
+      "umls_id": "C0230460",
+      "score": 0.9896419048309326,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "no pain",
+      "type": "T033",
+      "umls_id": "C0234225",
+      "score": 0.9816871881484985,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Score 0"
+    },
+    {
+      "text": "back",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9834582209587097,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "His muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.8889138698577881,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "Femoral pulses",
+      "type": "T042",
+      "umls_id": "C0232148",
+      "score": 0.9666770696640015,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right pedal pulses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

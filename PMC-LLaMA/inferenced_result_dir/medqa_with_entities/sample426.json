@@ -1,0 +1,404 @@
+{
+  "original_data": {
+    "question": "A 51-year-old man presents to his primary care provider complaining of malaise. He returned from a research trip to Madagascar 2 weeks ago and has since developed a worsening fever with a maximum temperature of 102.2°F (39°C). He also reports some swelling around his neck and groin. He works as a zoologist and was in rural Madagascar studying a rare species of lemur. His past medical history is notable for hypertension and gout. He takes lisinopril and allopurinol. His temperature is 101.9°F (38.3°C), blood pressure is 145/85 mmHg, pulse is 110/min, and respirations are 22/min. On exam, he has painful erythematous cervical, axillary, and inguinal lymphadenopathy. Black hemorrhagic eschars are noted on his fingertips bilaterally. The pathogen responsible for this patient’s condition produces a virulence factor that has which of the following functions?",
+    "options": {
+      "A": "Cleave immunoglobulin",
+      "B": "Inhibit phagocytosis",
+      "C": "Inhibit ribosomal function",
+      "D": "Trigger widespread inflammation"
+    }
+  },
+  "model_response": "The patient’s symptoms and history suggest he has a severe form of bacterial infection, likely caused by a gram-positive bacterium. The presence of painful erythematous cervical, axillary, and inguinal lymphadenopathy with black hemorrhagic eschars on his fingertips bilaterally suggests a cutaneous anthrax infection. The causative organism, Bacillus anthracis, produces a virulence factor, anthrax toxin, that has four components: edema factor (EF), lethal factor (LF), protective antigen (PA), and an enzyme that cleaves immunoglobulin A (IgA). The anthrax toxin functions by binding to specific receptors on the surface of host cells. EF and LF then cleave mitogen-activated protein kinase (MAPK) signaling molecules, inhibiting the production of inflammatory cytokines and leading to widespread inflammation. The anthrax toxin does not inhibit phagocytosis, inhibit ribosomal function, or trigger widespread inflammation.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "research",
+      "type": "T062",
+      "umls_id": "C0035168",
+      "score": 0.985704243183136,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Critical and exhaustive investigation or experimentation, having for its aim the discovery of new facts and their correct interpretation, the revision of accepted conclusions, theories, or laws in the light of newly discovered facts, or the practical application of such new or revised conclusions, theories, or laws. (Webster, 3d ed)"
+    },
+    {
+      "text": "Madagascar 2 weeks",
+      "type": "T083",
+      "umls_id": "C0024443",
+      "score": 0.7722926735877991,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "One of the Indian Ocean Islands off the southeast coast of Africa. Its capital is Antananarivo. It was formerly called the Malagasy Republic. Discovered by the Portuguese in 1500, its history has been tied predominantly to the French, becoming a French protectorate in 1882, a French colony in 1896, and a territory within the French union in 1946. The Malagasy Republic was established in the French Community in 1958 but it achieved independence in 1960. Its name was changed to Madagascar in 1975. (From Webster's New Geographical Dictionary, 1988, p714)"
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "maximum",
+      "type": "T081",
+      "umls_id": "C0806909",
+      "score": 0.9769210815429688,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The largest possible quantity or degree."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "groin",
+      "type": "T029",
+      "umls_id": "C0018246",
+      "score": 0.9815654754638672,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The external junctural region between the lower part of the abdomen and the thigh."
+    },
+    {
+      "text": "zoologist",
+      "type": "T097",
+      "umls_id": "C0043525",
+      "score": 0.9748133420944214,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rural Madagascar",
+      "type": "T083",
+      "umls_id": "C0024443",
+      "score": 0.7976204752922058,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "One of the Indian Ocean Islands off the southeast coast of Africa. Its capital is Antananarivo. It was formerly called the Malagasy Republic. Discovered by the Portuguese in 1500, its history has been tied predominantly to the French, becoming a French protectorate in 1882, a French colony in 1896, and a territory within the French union in 1946. The Malagasy Republic was established in the French Community in 1958 but it achieved independence in 1960. Its name was changed to Madagascar in 1975. (From Webster's New Geographical Dictionary, 1988, p714)"
+    },
+    {
+      "text": "rare",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.9844085574150085,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "species",
+      "type": "T078",
+      "umls_id": "C1548151",
+      "score": 0.9709200263023376,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lemur",
+      "type": "T015",
+      "umls_id": "C0023296",
+      "score": 0.9843183755874634,
+      "semantic_types": [
+        "T015"
+      ],
+      "definition": "A genus of the family Lemuridae consisting of five species: L. catta (ring-tailed lemur), L. fulvus, L. macaco (acoumba or black lemur), L. mongoz (mongoose lemur), and L. variegatus (white lemur). Most members of this genus occur in forested areas on Madagascar and the Comoro Islands."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "gout",
+      "type": "T047",
+      "umls_id": "C0018099",
+      "score": 0.9994637370109558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Metabolic disorder characterized by recurrent acute arthritis, hyperuricemia and deposition of sodium urate in and around the joints, sometimes with formation of URIC ACID calculi."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "allopurinol",
+      "type": "T109",
+      "umls_id": "C0002144",
+      "score": 0.9888184666633606,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A XANTHINE OXIDASE inhibitor that decreases URIC ACID production. It also acts as an antimetabolite on some simpler organisms."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "painful",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9710636734962463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "erythematous cervical",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "axillary",
+      "type": "T029",
+      "umls_id": "C0004454",
+      "score": 0.9788362383842468,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Area of the human body underneath the SHOULDER JOINT, also known as the armpit or underarm."
+    },
+    {
+      "text": "inguinal lymphadenopathy",
+      "type": "T047",
+      "umls_id": "C0578736",
+      "score": 0.9757512807846069,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Black hemorrhagic eschars",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fingertips",
+      "type": "T081",
+      "umls_id": "C2348675",
+      "score": 0.8022167682647705,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An arbitrary dosing unit used predominantly for semisolid topical formulations such as cream, ointment, paste, etc. One fingertip unit is the amount of a product that is squeezed out from a standard tube with 5-millimeter diameter nozzle along an adult's fingertip. A fingertip length is defined from the tip of the index finger to the first finger crease. A fingertip dosing unit varies with age and size of the body. The average fingertip unit is equal to approximately 0.5 gram for an adult male and 0.4 gram for an adult female."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "pathogen",
+      "type": "T001",
+      "umls_id": "C0450254",
+      "score": 0.9801281094551086,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "An agent of disease; a disease producer."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "virulence factor",
+      "type": "T109",
+      "umls_id": "C1136170",
+      "score": 0.9853609800338745,
+      "semantic_types": [
+        "T109",
+        "T123",
+        "T131"
+      ],
+      "definition": "Those components of an organism that determine its capacity to cause disease but are not required for its viability per se. Two classes have been characterized: TOXINS, BIOLOGICAL and surface adhesion molecules that effect the ability of the microorganism to invade and colonize a host. (From Davis et al., Microbiology, 4th ed. p486)"
+    },
+    {
+      "text": "functions",
+      "type": "T169",
+      "umls_id": "C0542341",
+      "score": 0.9745455384254456,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The normal action performed by a structure or device."
+    },
+    {
+      "text": "51-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

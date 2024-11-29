@@ -1,0 +1,628 @@
+{
+  "original_data": {
+    "question": "A 78-year-old woman presents to the office for an annual health check-up with her family physician accompanied by her daughter. She has no complaints during this visit but her daughter states that she is having difficulty locating objects such as the television remote, car keys, and her purse. Her medical history is significant for Alzheimer’s dementia, coronary artery disease, diabetes mellitus, hypothyroidism, congestive heart failure, osteoarthritis and centrilobular emphysema. The patient takes memantine, atorvastatin, metformin, levothyroxine, lisinopril, aspirin, albuterol, and ipratropium. The patient’s vitals are within normal limits today. Physical exam reveals an elderly female in no acute distress, oriented to person, place and year, but not to month or day of the week. She has a 3/6 holosystolic murmur at the left sternal border along with an S3 gallop. There are mild crackles at the lung bases. The remainder of the exam is normal. A previous urine culture reports growth of > 100,000 CFU of Enterobacter. Urinalysis findings are offered below:\nLeukocyte esterase  positive\nWBCs 50-100 cell/HPF\nNitrites positive\nRBCs 2 cell/HPF\nEpithelial cells 2 cell/HPF\nUrine pH 5.7\nWhich of the following is the most appropriate next step?",
+    "options": {
+      "A": "TMP-SMX",
+      "B": "Nitrofurantoin",
+      "C": "Levofloxacin",
+      "D": "No treatment is necessary"
+    }
+  },
+  "model_response": "The urinalysis findings are consistent with a urinary tract infection. The most appropriate next step is to treat the infection. The patient is currently on lisinopril, which is a medication that can predispose patients to a urinary tract infection. The recommended first-line therapy for a urinary tract infection in a patient with no contraindications is trimethoprim-sulfamethoxazole (TMP-SMX). Nitrofurantoin is an alternative therapy, but it is less effective than TMP-SMX. Levofloxacin is also an effective therapy, but it is typically reserved for more severe infections or for patients with resistant organisms. No treatment is not appropriate because the patient has symptoms of a urinary tract infection.\n\n###Suggested Reading:\n\nKatzung 11th edition Chapter 44.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "annual",
+      "type": "T079",
+      "umls_id": "C0332181",
+      "score": 0.9425466656684875,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each year."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "check-up",
+      "type": "T058",
+      "umls_id": "C0598836",
+      "score": 0.9549977779388428,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Checkup is a general examination or inspection, especially one carried out by a doctor or dentist."
+    },
+    {
+      "text": "family physician",
+      "type": "T097",
+      "umls_id": "C1704221",
+      "score": 0.995156466960907,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those physicians who have completed the education requirements specified by the American Academy of Family Physicians."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "daughter states",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.7095497250556946,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "difficulty locating objects",
+      "type": "T033",
+      "umls_id": "C1842073",
+      "score": 0.7083068490028381,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Difficulty in seeing moving objects. [PMID:25770143]"
+    },
+    {
+      "text": "television remote",
+      "type": "T073",
+      "umls_id": "C0039461",
+      "score": 0.7727739214897156,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "The transmission and reproduction of transient images of fixed or moving objects. An electronic system of transmitting such images together with sound over a wire or through space by apparatus that converts light and sound into electrical waves and reconverts them into visible light rays and audible sound. (From Webster, 3rd ed)"
+    },
+    {
+      "text": "car keys",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "purse",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "Alzheimer’s dementia",
+      "type": "T047",
+      "umls_id": "C0002395",
+      "score": 0.9259809255599976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)"
+    },
+    {
+      "text": "coronary artery disease",
+      "type": "T047",
+      "umls_id": "C0010054",
+      "score": 0.9898595809936523,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Thickening and loss of elasticity of the CORONARY ARTERIES, leading to progressive arterial insufficiency (CORONARY DISEASE)."
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "hypothyroidism",
+      "type": "T047",
+      "umls_id": "C0020676",
+      "score": 0.9928620457649231,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A syndrome that results from abnormally low secretion of THYROID HORMONES from the THYROID GLAND, leading to a decrease in BASAL METABOLIC RATE. In its most severe form, there is accumulation of MUCOPOLYSACCHARIDES in the SKIN and EDEMA, known as MYXEDEMA. It may be primary or secondary due to other pituitary disease, or hypothalamic dysfunction."
+    },
+    {
+      "text": "congestive heart failure",
+      "type": "T047",
+      "umls_id": "C0018802",
+      "score": 0.977027952671051,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Heart failure accompanied by EDEMA, such as swelling of the legs and ankles and congestion in the lungs."
+    },
+    {
+      "text": "osteoarthritis",
+      "type": "T047",
+      "umls_id": "C0029408",
+      "score": 0.9689512848854065,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative joint disease, the most common form of arthritis, especially in older persons. The disease is thought to result not from the aging process but from biochemical changes and biomechanical stresses affecting articular cartilage. In the foreign literature it is often called osteoarthrosis deformans."
+    },
+    {
+      "text": "centrilobular emphysema",
+      "type": "T047",
+      "umls_id": "C0221227",
+      "score": 0.9822607636451721,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of emphysema characterized by destroyed centrilobular alveolar walls and enlargement of respiratory bronchioles and associated alveoli. This is the commonest form of emphysema in cigarette smokers. CT findings are centrilobular areas of decreased attenuation, usually without visible walls, of nonuniform distribution and predominantly located in upper lung zones. [LMU:kknoflach, PMID:18195376, PMID:4014865, PMID:7976869]"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "memantine",
+      "type": "T109",
+      "umls_id": "C0025242",
+      "score": 0.9803601503372192,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "AMANTADINE derivative that has some dopaminergic effects. It has been proposed as an antiparkinson agent."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "levothyroxine",
+      "type": "T116",
+      "umls_id": "C0040165",
+      "score": 0.967681348323822,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "The major hormone derived from the thyroid gland. Thyroxine is synthesized via the iodination of tyrosines (MONOIODOTYROSINE) and the coupling of iodotyrosines (DIIODOTYROSINE) in the THYROGLOBULIN. Thyroxine is released from thyroglobulin by proteolysis and secreted into the blood. Thyroxine is peripherally deiodinated to form TRIIODOTHYRONINE which exerts a broad spectrum of stimulatory effects on cell metabolism."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "ipratropium",
+      "type": "T109",
+      "umls_id": "C0027235",
+      "score": 0.9573537707328796,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A muscarinic antagonist structurally related to ATROPINE but often considered safer and more effective for inhalation use. It is used for various bronchial disorders, in rhinitis, and as an antiarrhythmic."
+    },
+    {
+      "text": "patient’s vitals",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "elderly",
+      "type": "T098",
+      "umls_id": "C0001792",
+      "score": 0.9822217226028442,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A person 65 years of age or older. For a person older than 79 years, AGED, 80 AND OVER is available."
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "acute distress",
+      "type": "T041",
+      "umls_id": "C0231303",
+      "score": 0.7816057205200195,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of physiological or psychological stress that cannot be compensated for by normal adaptive measures."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "place",
+      "type": "T082",
+      "umls_id": "C0442504",
+      "score": 0.9976354241371155,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The particular portion of space occupied by a physical object or intended for a physical object."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "holosystolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7172870635986328,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "left sternal border",
+      "type": "T030",
+      "umls_id": "C4068813",
+      "score": 0.9832053184509277,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "S3 gallop",
+      "type": "T033",
+      "umls_id": "C0232278",
+      "score": 0.9715679287910461,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A finding which can be heard on auscultation of the heart in the setting of congestive heart failure. The sound of the S3 gallop, which immediately follows the second heart sound (S2) is thought to be produced by the sound of blood flowing into a noncompliant ventricle."
+    },
+    {
+      "text": "mild crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.7936871647834778,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "urine culture",
+      "type": "T059",
+      "umls_id": "C0430404",
+      "score": 0.9748582243919373,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "growth",
+      "type": "T040",
+      "umls_id": "C0018270",
+      "score": 0.9836363792419434,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Gradual increase in the number, the size, and the complexity of cells of an individual. Growth generally results in increase in ORGAN WEIGHT; BODY WEIGHT; and BODY HEIGHT."
+    },
+    {
+      "text": "CFU",
+      "type": "T081",
+      "umls_id": "C0553561",
+      "score": 0.9732629060745239,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The minimum number of separable cells which is able to produce a detectable colony of progeny. Examples of CFU usage include, but are not limited to, the measurement of the number of viable bacteria present in the environment, and the ability of stem cells to produce cells of single or multiple lineages."
+    },
+    {
+      "text": "Enterobacter",
+      "type": "T007",
+      "umls_id": "C0014344",
+      "score": 0.9829261302947998,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "Gram-negative gas-producing rods found in feces of humans and other animals, sewage, soil, water, and dairy products."
+    },
+    {
+      "text": "Urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Leukocyte esterase",
+      "type": "T116",
+      "umls_id": "C0125619",
+      "score": 0.9710195064544678,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": null
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "WBCs",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9898926019668579,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "cell/HPF\n",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "positive\nRBCs 2",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.7817904949188232,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Epithelial cells",
+      "type": "T025",
+      "umls_id": "C0014597",
+      "score": 0.9835144281387329,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Cells that line the inner and outer surfaces of the body by forming cellular layers (EPITHELIUM) or masses. Epithelial cells lining the SKIN; the MOUTH; the NOSE; and the ANAL CANAL derive from ectoderm; those lining the RESPIRATORY SYSTEM and the DIGESTIVE SYSTEM derive from endoderm; others (CARDIOVASCULAR SYSTEM and LYMPHATIC SYSTEM) derive from mesoderm. Epithelial cells can be classified mainly by cell shape and function into squamous, glandular and transitional epithelial cells."
+    },
+    {
+      "text": "Urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "78-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

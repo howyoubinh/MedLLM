@@ -1,0 +1,280 @@
+{
+  "original_data": {
+    "question": "A 66-year-old man with high blood pressure, high cholesterol, and diabetes presents to the clinic with elevated liver function tests from baseline. He has a blood pressure of 136/92 mm Hg and a heart rate of 69/min. On physical examination, his heart sounds are regular and lung sounds are clear. Current medications include simvastatin, metformin, fenofibrate, hydrochlorothiazide, aspirin, glyburide, and lisinopril. Of these medications, which could contribute to the patient’s transaminitis?",
+    "options": {
+      "A": "Metformin",
+      "B": "Simvastatin",
+      "C": "Glyburide",
+      "D": "Lisinopril"
+    }
+  },
+  "model_response": "The patient’s liver function tests are significantly elevated. Simvastatin is a statin medication used to lower cholesterol. Although simvastatin is not typically associated with liver injury, it is metabolized by the cytochrome P450 system. Metformin is an oral hypoglycemic agent used in the treatment of diabetes mellitus. It is excreted unchanged in the urine and does not typically cause liver injury. Glyburide is an oral hypoglycemic agent that is metabolized to an active metabolite that is excreted in the urine. Glyburide has been associated with hepatotoxicity. Lisinopril is an angiotensin-converting enzyme inhibitor used to treat hypertension. It is not typically associated with liver injury.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "high blood pressure",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.983839750289917,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "high cholesterol",
+      "type": "T047",
+      "umls_id": "C0020443",
+      "score": 0.9843881130218506,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A condition with abnormally high levels of CHOLESTEROL in the blood. It is defined as a cholesterol value exceeding the 95th percentile for the population."
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "liver function",
+      "type": "T042",
+      "umls_id": "C0232741",
+      "score": 0.9688520431518555,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "physiological activity and functions of the liver, including production of bile, removal of glucose from blood, destruction or transformation of toxic compounds, and production of various blood proteins."
+    },
+    {
+      "text": "baseline",
+      "type": "T122",
+      "umls_id": "C0168634",
+      "score": 0.9804818034172058,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "heart sounds",
+      "type": "T042",
+      "umls_id": "C0018820",
+      "score": 0.9864314794540405,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The sounds heard over the cardiac region produced by the functioning of the heart. There are four distinct sounds: the first occurs at the beginning of SYSTOLE and is heard as a \"lubb\" sound; the second is produced by the closing of the AORTIC VALVE and PULMONARY VALVE and is heard as a \"dupp\" sound; the third is produced by vibrations of the ventricular walls when suddenly distended by the rush of blood from the HEART ATRIA; and the fourth is produced by atrial contraction and ventricular filling."
+    },
+    {
+      "text": "regular",
+      "type": "T080",
+      "umls_id": "C0205272",
+      "score": 0.9910162687301636,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Customary, usual, or at fixed intervals; conforming to a standard or pattern."
+    },
+    {
+      "text": "lung sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9856062531471252,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "simvastatin",
+      "type": "T109",
+      "umls_id": "C0074554",
+      "score": 0.9242107272148132,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A derivative of LOVASTATIN and potent competitive inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase (HYDROXYMETHYLGLUTARYL COA REDUCTASES), which is the rate-limiting enzyme in cholesterol biosynthesis. It may also interfere with steroid hormone production. Due to the induction of hepatic LDL RECEPTORS, it increases breakdown of LDL CHOLESTEROL."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "fenofibrate",
+      "type": "T109",
+      "umls_id": "C0033228",
+      "score": 0.9707099199295044,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antilipemic agent which reduces both CHOLESTEROL and TRIGLYCERIDES in the blood."
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "glyburide",
+      "type": "T109",
+      "umls_id": "C0017628",
+      "score": 0.9625511169433594,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antidiabetic sulfonylurea derivative with actions like those of chlorpropamide"
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient’s transaminitis",
+      "type": "T033",
+      "umls_id": "C2242708",
+      "score": 0.8049526214599609,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally high levels of alanine transaminase (ALT) and/or aspartate transaminase (AST) in the blood."
+    },
+    {
+      "text": "66-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

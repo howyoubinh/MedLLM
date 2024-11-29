@@ -1,0 +1,245 @@
+{
+  "original_data": {
+    "question": "A 42-year-old man presents to his primary care physician for a follow-up visit. He has type 1 diabetes mellitus, for which he takes insulin. He complains of frequent episodes of waking up in the middle of his sleep. When he wakes up, he feels excessive sweating, hand tremors, and weakness. His morning blood glucose is high on repeated measurement. Which of the following is the optimal intervention for this patient condition?",
+    "options": {
+      "A": "Reassurance",
+      "B": "Adding pramlintide",
+      "C": "Increasing daily insulin dose",
+      "D": "Reducing daily insulin dose"
+    }
+  },
+  "model_response": "The patient is experiencing episodes of nocturnal hypoglycemia, which is causing him to awaken during the night. The symptoms of sweating, tremor, and weakness are all manifestations of sympathetic nervous system activation due to hypoglycemia. The morning blood glucose is high because the nocturnal hypoglycemia has caused the pancreas to release more insulin, resulting in lower blood glucose levels. The best treatment for this patient is to reduce the dose of insulin at night. This will prevent the nocturnal hypoglycemia and eliminate the sympathetic nervous system activation during sleep.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "follow-up visit",
+      "type": "T058",
+      "umls_id": "C0589121",
+      "score": 0.9691847562789917,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "insulin",
+      "type": "T116",
+      "umls_id": "C0021641",
+      "score": 0.9696833491325378,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A 51-amino acid pancreatic hormone that plays a major role in the regulation of glucose metabolism, directly by suppressing endogenous glucose production (GLYCOGENOLYSIS; GLUCONEOGENESIS) and indirectly by suppressing GLUCAGON secretion and LIPOLYSIS. Native insulin is a globular protein comprised of a zinc-coordinated hexamer. Each insulin monomer containing two chains, A (21 residues) and B (30 residues), linked by two disulfide bonds. Insulin is used as a drug to control insulin-dependent diabetes mellitus (DIABETES MELLITUS, TYPE 1)."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "waking up",
+      "type": "T109",
+      "umls_id": "C1170730",
+      "score": 0.9553471803665161,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": null
+    },
+    {
+      "text": "middle",
+      "type": "T082",
+      "umls_id": "C0444598",
+      "score": 0.9769420027732849,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "An intermediate part or section; an area that is approximately central within some larger region."
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "excessive",
+      "type": "T080",
+      "umls_id": "C0442802",
+      "score": 0.9763246774673462,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Beyond normal limits; unrestrained."
+    },
+    {
+      "text": "sweating",
+      "type": "T033",
+      "umls_id": "C0038990",
+      "score": 0.9434435963630676,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The process of exocrine secretion of the SWEAT GLANDS, including the aqueous sweat from the ECCRINE GLANDS and the complex viscous fluids of the APOCRINE GLANDS."
+    },
+    {
+      "text": "hand tremors",
+      "type": "T184",
+      "umls_id": "C0239842",
+      "score": 0.9889622330665588,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unintentional, oscillating to-and-fro muscle movement affecting the hand. []"
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "His morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.8194687366485596,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "blood glucose",
+      "type": "T109",
+      "umls_id": "C0005802",
+      "score": 0.9949735999107361,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Glucose in blood."
+    },
+    {
+      "text": "measurement",
+      "type": "T169",
+      "umls_id": "C0242485",
+      "score": 0.9882943034172058,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Annotation used to indicate the size or magnitude of something that was determined by comparison to a standard."
+    },
+    {
+      "text": "optimal",
+      "type": "T080",
+      "umls_id": "C2698651",
+      "score": 0.9846187829971313,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The best or most suitable; the greatest degree attainable."
+    },
+    {
+      "text": "intervention",
+      "type": "T061",
+      "umls_id": "C0184661",
+      "score": 0.9734480977058411,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An activity that produces an effect, or that is intended to alter the course of a disease in a patient or population. This is a general term that encompasses the medical, social, behavioral, and environmental acts that can have preventive, therapeutic, or palliative effects."
+    },
+    {
+      "text": "patient condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.9724506735801697,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

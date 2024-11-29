@@ -1,0 +1,414 @@
+{
+  "original_data": {
+    "question": "Three days after admission to the intensive care unit for septic shock and bacteremia from a urinary tract infection, a 34-year-old woman has persistent hypotension. Her blood cultures are positive for Escherichia coli, for which she has been receiving appropriate antibiotics since admission. She has no history of any serious illness. She does not use illicit drugs. Current medications include norepinephrine, ceftriaxone, and acetaminophen. She appears well. Her temperature is 37.5°C (99.5°F), heart rate is 96/min, and blood pressure is 85/55 mm Hg. Examination of the back shows costovertebral tenderness bilaterally. Examination of the thyroid gland shows no abnormalities. Laboratory studies show:\n  Hospital day 1 Hospital day 3\nLeukocyte count 18,500/mm3 10,300/mm3\nHemoglobin 14.1 mg/dL 13.4 mg/dL\nSerum\nCreatinine 1.4 mg/dL 0.9 mg/dL\nFasting glucose 95 mg/dL 100 mg/dL\nTSH   1.8 µU/mL\nT3, free   0.1 ng/dL\nT4, free   0.9 ng/dL\nRepeat blood cultures are negative. A chest X-ray shows no abnormalities. Which of the following is the most appropriate treatment?",
+    "options": {
+      "A": "Bromocriptine",
+      "B": "Levothyroxine",
+      "C": "Removing toxic drugs",
+      "D": "Treating the underlying illness"
+    }
+  },
+  "model_response": "The patient has central hypothyroidism, which is a common cause of nonthyroidal illness syndrome. The etiology is likely multifactorial, including stress, infection, and drugs. The diagnosis is suggested by a low T4 level (free T4 level) and a normal TSH level. The treatment is levothyroxine. The other choices are unlikely to be the cause of the hypotension.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "septic shock",
+      "type": "T046",
+      "umls_id": "C0036983",
+      "score": 0.9810217022895813,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Sepsis associated with HYPOTENSION or hypoperfusion despite adequate fluid resuscitation. Perfusion abnormalities may include but are not limited to LACTIC ACIDOSIS; OLIGURIA; or acute alteration in mental status."
+    },
+    {
+      "text": "bacteremia",
+      "type": "T047",
+      "umls_id": "C0004610",
+      "score": 0.9823747277259827,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The presence of viable bacteria circulating in the blood. Fever, chills, tachycardia, and tachypnea are common acute manifestations of bacteremia. The majority of cases are seen in already hospitalized patients, most of whom have underlying diseases or procedures which render their bloodstreams susceptible to invasion."
+    },
+    {
+      "text": "urinary tract infection",
+      "type": "T047",
+      "umls_id": "C0042029",
+      "score": 0.9782691597938538,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammatory responses of the epithelium of the URINARY TRACT to microbial invasions. They are often bacterial infections with associated BACTERIURIA and PYURIA."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "persistent",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.981314480304718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "hypotension",
+      "type": "T033",
+      "umls_id": "C0020649",
+      "score": 0.975321888923645,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally low BLOOD PRESSURE that can result in inadequate blood flow to the brain and other vital organs. Common symptom is DIZZINESS but greater negative impacts on the body occur when there is prolonged depravation of oxygen and nutrients."
+    },
+    {
+      "text": "blood cultures",
+      "type": "T059",
+      "umls_id": "C0200949",
+      "score": 0.9821042418479919,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Test to determine the presence of blood infection (e.g. SEPSIS; BACTEREMIA)."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Escherichia coli",
+      "type": "T007",
+      "umls_id": "C0014834",
+      "score": 0.9835531711578369,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A species of gram-negative, facultatively anaerobic, rod-shaped bacteria (GRAM-NEGATIVE FACULTATIVELY ANAEROBIC RODS) commonly found in the lower part of the intestine of warm-blooded animals. It is usually nonpathogenic, but some strains are known to produce DIARRHEA and pyogenic infections. Pathogenic strains (virotypes) are classified by their specific pathogenic mechanisms such as toxins (ENTEROTOXIGENIC ESCHERICHIA COLI), etc."
+    },
+    {
+      "text": "antibiotics",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.9689207077026367,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "illicit drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.9839807748794556,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "norepinephrine",
+      "type": "T109",
+      "umls_id": "C0028351",
+      "score": 0.9764626622200012,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "Precursor of epinephrine that is secreted by the ADRENAL MEDULLA and is a widespread central and autonomic neurotransmitter. Norepinephrine is the principal transmitter of most postganglionic sympathetic fibers, and of the diffuse projection system in the brain that arises from the LOCUS CERULEUS. It is also found in plants and is used pharmacologically as a sympathomimetic."
+    },
+    {
+      "text": "ceftriaxone",
+      "type": "T109",
+      "umls_id": "C0007561",
+      "score": 0.9359742999076843,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A broad-spectrum cephalosporin antibiotic and cefotaxime derivative with a very long half-life and high penetrability to meninges, eyes and inner ears."
+    },
+    {
+      "text": "acetaminophen",
+      "type": "T109",
+      "umls_id": "C0000970",
+      "score": 0.9949501156806946,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Analgesic antipyretic derivative of acetanilide. It has weak anti-inflammatory properties and is used as a common analgesic, but may cause liver, blood cell, and kidney damage."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "back",
+      "type": "T029",
+      "umls_id": "C0004600",
+      "score": 0.9834582209587097,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The rear surface of an upright primate from the shoulders to the hip, or the dorsal surface of tetrapods."
+    },
+    {
+      "text": "costovertebral tenderness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "thyroid gland",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9855895638465881,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Hospital day",
+      "type": "T073",
+      "umls_id": "C0587438",
+      "score": 0.9823811650276184,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Serum\nCreatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "T3",
+      "type": "T116",
+      "umls_id": "C0041014",
+      "score": 0.9990074038505554,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A T3 thyroid hormone normally synthesized and secreted by the thyroid gland in much smaller quantities than thyroxine (T4). Most T3 is derived from peripheral monodeiodination of T4 at the 5' position of the outer ring of the iodothyronine nucleus. The hormone finally delivered and used by the tissues is mainly T3."
+    },
+    {
+      "text": "free   ",
+      "type": "T169",
+      "umls_id": "C0332296",
+      "score": 0.9945193529129028,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "free   ",
+      "type": "T169",
+      "umls_id": "C0332296",
+      "score": 0.9945193529129028,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood cultures",
+      "type": "T059",
+      "umls_id": "C0200949",
+      "score": 0.9821042418479919,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Test to determine the presence of blood infection (e.g. SEPSIS; BACTEREMIA)."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "chest X-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

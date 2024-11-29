@@ -1,0 +1,291 @@
+{
+  "original_data": {
+    "question": "A 32-year-old woman presents to the emergency department with complaints of a headache. The last menstrual period was 4 months ago. She also reports having a mild headache for 1 month. There has been a grape-like mass protruding from her vagina for the last 15 days. On examination, the fundus of the uterus is at the level of the umbilicus and no fetal heart sounds are heard. The vital signs are as follows: blood pressure 160/100 mm Hg, pulse rate 108/min. On USG examination, no fetal parts are seen. What will be the genotype of the substance which will be aspirated by dilation and evacuation?",
+    "options": {
+      "A": "69XXY",
+      "B": "23XX",
+      "C": "47XYY",
+      "D": "46XX"
+    }
+  },
+  "model_response": "The genotype of the substance aspirated from the uterus in this case is 'A', i.e. 47XYY. The history of amenorrhea followed by abnormal uterine enlargement and then the presence of a grape-like mass protruding from the vagina is suggestive of a molar pregnancy. The absence of fetal heart sounds and the fundal height at the level of the umbilicus are also suggestive of a molar pregnancy. The genotype of the molar substance is 47XYY. The genotype of the father is not known. The genotype of the mother can be 'B' or 'C' but not 'A'.\n\nMolar pregnancy is associated with increased levels of HCG. The levels of HCG in a normal pregnancy doubles every 2-3 days. In a molar pregnancy, however, the levels of HCG increase at a rate of 1.4-2.5% per day.\n\nThe USG findings of a complete mole are:\n\n1. A uterus filled with tissue of a size greater than the period of amenorrhea.\n2. A heterogeneous echogenic uterine mass with numerous anechoic or hypoechoic cystic spaces.\n3. Absence of a fetus or amniotic sac.\n4. Presence of a placenta with a retroplacental sonolucent zone.\n5. Increased intrauterine fluid.\n\nThe genotypes of the products of conception in some other conditions are as follows:\n\n1. Trisomy 21: 47XX + 21\n2. Trisomy 18: 47XX + 18\n3. Trisomy 13: 47XX + 13\n4. Monosomy XO: 45XO\n5. Mosaicism: 46XX/45XO\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "mild headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.8083916306495667,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "grape-like mass protruding",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "vagina",
+      "type": "T023",
+      "umls_id": "C0042232",
+      "score": 0.9829220771789551,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The genital canal in the female, extending from the UTERUS to the VULVA. (Stedman, 25th ed)"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "umbilicus",
+      "type": "T029",
+      "umls_id": "C0041638",
+      "score": 0.9745065569877625,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The pit in the center of the ABDOMINAL WALL marking the point where the UMBILICAL CORD entered in the FETUS."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse rate",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9629671573638916,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "USG",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "genotype",
+      "type": "T032",
+      "umls_id": "C0017431",
+      "score": 0.9886257648468018,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The genetic constitution of the individual, comprising the ALLELES present at each GENETIC LOCUS."
+    },
+    {
+      "text": "substance",
+      "type": "T167",
+      "umls_id": "C0439861",
+      "score": 0.9961296916007996,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical."
+    },
+    {
+      "text": "dilation",
+      "type": "T046",
+      "umls_id": "C0012359",
+      "score": 0.9621376395225525,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being dilated beyond normal dimensions."
+    },
+    {
+      "text": "evacuation",
+      "type": "T061",
+      "umls_id": "C1282573",
+      "score": 0.9388397932052612,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Removal of the contents of a body cavity or container"
+    },
+    {
+      "text": "32-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

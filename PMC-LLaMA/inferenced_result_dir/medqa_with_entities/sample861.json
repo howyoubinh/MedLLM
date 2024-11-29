@@ -1,0 +1,226 @@
+{
+  "original_data": {
+    "question": "A 3-year-old boy is brought to the physician because of a 3-day history of fatigue and yellow discoloration of his skin. One week ago, he had an upper respiratory tract infection. Examination shows jaundice of the skin and conjunctivae. The spleen tip is palpated 2 cm below the left costal margin. His hemoglobin concentration is 9.4 g/dl and his mean corpuscular hemoglobin concentration is 39% Hb/cell. A Coombs test is negative. A peripheral blood smear is shown. This patient is at greatest risk for which of the following complications?",
+    "options": {
+      "A": "Acute myelogenous leukemia",
+      "B": "Cholecystitis",
+      "C": "Renal papillary necrosis",
+      "D": "Splenic sequestration crisis"
+    }
+  },
+  "model_response": "The clinical and laboratory picture is most consistent with sickle cell anemia. The patient is at greatest risk for the development of acute painful episodes due to sickling. Acute myelogenous leukemia is unlikely in this patient because of the prolonged history of anemia and the markedly increased mean corpuscular hemoglobin concentration. Cholecystitis is unlikely in this patient because of the absence of signs and symptoms of gallbladder inflammation. Renal papillary necrosis is unlikely in this patient because of the absence of signs and symptoms of urinary tract obstruction. Splenic sequestration crisis is unlikely in this patient because of the presence of a palpable spleen tip.\n\nThe peripheral blood smear shows numerous sickle cells, some of which are crescent shaped.\n\nSickle cell anemia is an autosomal recessive disease caused by a point mutation in the b-globin gene, resulting in the replacement of a glutamate residue with a valine residue in the sixth position of the b-globin chain. The abnormal physiochemical properties of the resulting sickle hemoglobin (HbS) are responsible for the disease. In deoxygenated conditions, the HbS molecules polymerize, forming a gelatinous network of fibrous polymers that stiffen the erythrocyte membrane, increase viscosity, and cause dehydration due to potas- sium leakage and calcium influx. The dehydrated, rigid erythrocyte becomes an abnormal sickle shape that gives the disease its name. Sickled erythrocytes are prone to hemolysis and are trapped in small blood vessels, causing microvascular occlusion and ischemic damage. The ischemia-reperfusion cycle ultimately leads to chronic inflammation, increased oxidative stress, and premature cell death.\n\nThe most common clinical manifestation of sickle cell anemia is vaso-occlusive crisis, which causes severe pain as the result of ischemia in the bones, spleen, liver, brain, and lungs. The most common manifestation of sickle cell anemia in children is hand-foot syndrome, which is caused by infarction of bones in the hands and feet. The most common manifestation of sickle cell anemia in adults is painful episodes due to sickling. Other common manifestations include an increased susceptibility to infection, splenic sequestration crisis, aplastic crisis, and hemolytic anemia. Acute myelogenous leukemia is a rare complication of sickle cell anemia.\n\nThe diagnosis of sickle cell anemia is made by the demonstration of sickle cells on the peripheral blood smear. Sickle cells are crescent shaped, or sickle shaped, as a result of the formation of polymerized hemoglobin. The mean corpuscular hemoglobin concentration is increased due to the presence of irreversibly sickled HbS.\n\nThe treatment of sickle cell anemia is supportive. Patients should be referred to a hematologist for confirmation of the diagnosis and appropriate counseling regarding genetic counseling, the risk of infection, and the potential for acute painful episodes due to sickling. Patients with sickle cell anemia should be vaccinated against pneumococcal disease, meningococcal disease, and H. influenzae type b. Patients who develop an acute painful episode due to sickling should be treated with a parenteral opioid analgesic agent, such as morphine, and oxygen. Patients with splenic sequestration crisis should be treated with emergency transfusion of washed packed red blood cells.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "yellow discoloration of his",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.7206154465675354,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "upper respiratory tract infection",
+      "type": "T047",
+      "umls_id": "C0041912",
+      "score": 0.9789952039718628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An infectious process affecting the upper respiratory tract (nose, paranasal sinuses, pharynx, larynx, or trachea). Symptoms include congestion, sneezing, coughing, fever, and sore throat."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "conjunctivae",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.8391914367675781,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "spleen tip",
+      "type": "T023",
+      "umls_id": "C0037993",
+      "score": 0.7822220921516418,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An encapsulated lymphatic organ through which venous blood filters."
+    },
+    {
+      "text": "left costal margin",
+      "type": "T029",
+      "umls_id": "C0502461",
+      "score": 0.9842795729637146,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "His hemoglobin concentration",
+      "type": "T059",
+      "umls_id": "C0474535",
+      "score": 0.7791539430618286,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The mean cell hemoglobin concentration (MCHC), which is the average concentration of hemoglobin in a given volume of blood. The MCHC is a calculated value derived from the measurement of hemoglobin and the hematocrit."
+    },
+    {
+      "text": "corpuscular hemoglobin",
+      "type": "T059",
+      "umls_id": "C4521153",
+      "score": 0.9092267155647278,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A measurement of the mean red blood cell hemoglobin content within an individual red blood cell, calculated as the product of cell volume and cell hemoglobin concentration."
+    },
+    {
+      "text": "Coombs test",
+      "type": "T059",
+      "umls_id": "C0009961",
+      "score": 0.9578719139099121,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A test to detect non-agglutinating ANTIBODIES against ERYTHROCYTES by use of anti-antibodies (the Coombs' reagent.) The direct test is applied to freshly drawn blood to detect antibody bound to circulating red cells. The indirect test is applied to serum to detect the presence of antibodies that can bind to red blood cells."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "peripheral blood smear",
+      "type": "T031",
+      "umls_id": "C0229664",
+      "score": 0.8488079905509949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "complications",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9766035676002502,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

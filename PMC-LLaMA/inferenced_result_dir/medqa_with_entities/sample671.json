@@ -1,0 +1,220 @@
+{
+  "original_data": {
+    "question": "A 19-year-old man with a past medical history significant only for facial acne presents with increased inguinal pruritis. Relevant social history includes participation in school wrestling. He has no significant family history. Other than the pruritic rash, a review of systems is negative. On physical examination, there is an erythematous, well-demarcated patch on his left thigh, over his pubic region, and throughout the perineum. The scrotum is spared. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Tinea corporis",
+      "B": "Tinea cruris",
+      "C": "Candidal balanitis",
+      "D": "Tinea unguium"
+    }
+  },
+  "model_response": "{'A': 1, 'B': 1, 'C': 1, 'D': 0}\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "medical history significant",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.7499127984046936,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "facial acne",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.7624562382698059,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "inguinal pruritis",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "social history",
+      "type": "T033",
+      "umls_id": "C0424945",
+      "score": 0.9855644702911377,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "participation",
+      "type": "T169",
+      "umls_id": "C0679823",
+      "score": 0.9615874886512756,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of taking part in an activity."
+    },
+    {
+      "text": "school wrestling",
+      "type": "T056",
+      "umls_id": "C0043261",
+      "score": 0.7177838683128357,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A sport consisting of hand-to-hand combat between two unarmed contestants seeking to pin or press each other's shoulders to the ground."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "pruritic rash",
+      "type": "T047",
+      "umls_id": "C0033771",
+      "score": 0.9597593545913696,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A name applied to several itchy skin eruptions of unknown cause. The characteristic course is the formation of a dome-shaped papule with a small transient vesicle on top, followed by crusting over or lichenification. (From Dorland, 27th ed)"
+    },
+    {
+      "text": "review of",
+      "type": "T169",
+      "umls_id": "C0699752",
+      "score": 0.9522183537483215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "systems",
+      "type": "T074",
+      "umls_id": "C0178947",
+      "score": 0.8132045269012451,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Isotope bone densitometers that use a single source to yield an essentially monoenergetic (one discrete line spectrum) beam of gamma rays (x-ray photons). In addition to the single photon source, these densitometers typically include a scanner, a single-channel analyzer, and a computer with appropriate software. Single-photon densitometers are used to assess bone mineral content in the appendicular skeleton, usually by measuring the forearm (radius) or the heel."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "erythematous",
+      "type": "T169",
+      "umls_id": "C0332476",
+      "score": 0.9739061594009399,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "well-demarcated patch",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "left thigh",
+      "type": "T023",
+      "umls_id": "C0230426",
+      "score": 0.9831334352493286,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A part of the lower limb, located between the hip and the knee and located on the left side of the body."
+    },
+    {
+      "text": "pubic region",
+      "type": "T029",
+      "umls_id": "C0230189",
+      "score": 0.9545818567276001,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The lowest central region of the abdomen, below the umbilical region and between the two iliac regions."
+    },
+    {
+      "text": "perineum",
+      "type": "T029",
+      "umls_id": "C0031066",
+      "score": 0.9815157055854797,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The body region lying between the genital area and the ANUS on the surface of the trunk, and to the shallow compartment lying deep to this area that is inferior to the PELVIC DIAPHRAGM. The surface area is between the VULVA and the anus in the female, and between the SCROTUM and the anus in the male."
+    },
+    {
+      "text": "scrotum",
+      "type": "T023",
+      "umls_id": "C0036471",
+      "score": 0.9797568917274475,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A cutaneous pouch of skin containing the testicles and spermatic cords."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "19-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

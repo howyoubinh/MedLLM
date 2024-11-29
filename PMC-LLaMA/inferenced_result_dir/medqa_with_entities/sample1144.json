@@ -1,0 +1,202 @@
+{
+  "original_data": {
+    "question": "A 58-year-old Caucasian female presents to her primary care physician with concerns about several recent health changes. The patient has recently gained weight and can't seem to exercise like she used to. She also notes that her thinking seems slow. Physical examination shows thickened, dry skin. Serum analysis confirms the physician's suspicions. Which of the following findings was most helpful in the diagnosis?",
+    "options": {
+      "A": "High T4 and T3",
+      "B": "Low T4 and T3",
+      "C": "High TSH",
+      "D": "Hypercholesterolemia"
+    }
+  },
+  "model_response": "The patient has hypothyroidism. The weight gain, slowed thinking, and skin changes are all common symptoms. The elevated TSH is diagnostic. The T4 and T3 levels can be used to determine the cause of the hypothyroidism (e.g., primary vs. secondary). The TSH level is elevated because the pituitary gland is still trying to stimulate thyroid hormone production. The other choices are not consistent with the diagnosis of hypothyroidism.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Caucasian",
+      "type": "T098",
+      "umls_id": "C0007457",
+      "score": 0.982106626033783,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A group distinguished by classification according to physical features. This group, also called Europoid, centers around the Mediterranean Sea but includes other parts of Europe. (from Winick: Dictionary of Anthropology, 1972; American Heritage Dictionary, 2d College ed)"
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "concerns",
+      "type": "T170",
+      "umls_id": "C3641842",
+      "score": 0.8830092549324036,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An answer indicative of no worries."
+    },
+    {
+      "text": "health changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.7229225039482117,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "gained",
+      "type": "T081",
+      "umls_id": "C1517378",
+      "score": 0.9554713368415833,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Gain; to increase or the amount of increase."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "can't",
+      "type": "T170",
+      "umls_id": "C4086113",
+      "score": 0.7449577450752258,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A response indicating that an individual just can't seem to concentrate at all."
+    },
+    {
+      "text": "exercise",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9731677770614624,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "thinking",
+      "type": "T041",
+      "umls_id": "C0039869",
+      "score": 0.964293360710144,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Mental activity that is not predominantly perceptual by which one apprehends some aspect of an object or situation based on past learning and experience."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "thickened",
+      "type": "T033",
+      "umls_id": "C0205400",
+      "score": 0.9750725626945496,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An increase in the thickness of a structure."
+    },
+    {
+      "text": "dry skin",
+      "type": "T184",
+      "umls_id": "C0151908",
+      "score": 0.9698911905288696,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The pores are generally fine with a papery thin texture that feels dry to the touch. Usually flaky and dull looking."
+    },
+    {
+      "text": "Serum analysis",
+      "type": "T062",
+      "umls_id": "C0936012",
+      "score": 0.7696964740753174,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Examination and interpretation; the process of identifying an issue to be understood and addressed, modelling the issue, investigating the model results, interpreting the results, and possibly making a recommendation. The concept also refers to the examination and study of a whole in terms of the parts composing it."
+    },
+    {
+      "text": "physician's",
+      "type": "T054",
+      "umls_id": "C0031829",
+      "score": 0.8685715794563293,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The expected function of a member of the medical profession."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "original_data": {
+    "question": "A 30-year-old man is brought to the emergency department with complaints of fever (41.5℃ (106.7℉)) and diarrhea for the past 12 hours. There is no history of headaches, vomiting, or loss of consciousness. The past medical history is unobtainable due to a language barrier (the patient recently immigrated from abroad), but his wife says her husband had a motor vehicle accident when he was a teenager that required surgery. He is transferred to the ICU after a few hours in the ED because of dyspnea, cyanosis, and near-collapse. There are no signs of a meningeal infection. The Blood pressure was 70/30 mm Hg at the time of transfer. A chest X-ray at the time of admission showed interstitial infiltrates without homogeneous opacities. The initial laboratory results reveal metabolic acidosis, leukopenia with a count of 2,000/mm³, thrombocytopenia (15,000/mm³), and a coagulation profile suggestive of disseminated coagulation. A peripheral smear was performed and is shown below. Despite ventilatory support, administration of intravenous fluids, antibiotics, and vasopressor agents, the patient died the next day. A gram stain from an autopsy specimen of the lungs revealed gram-positive, lancet-shaped diplococci occurring singly or in chains. Which of the following organisms is most likely?",
+    "options": {
+      "A": "Staphylococcus aureus",
+      "B": "Streptococcus pyogene",
+      "C": "Streptococcus pneumoniae",
+      "D": "Non-typeable H. influenzae"
+    }
+  },
+  "model_response": "The patient most likely died of pneumonia caused by Streptococcus pneumoniae, a gram-positive diplococcus that is the most common cause of community-acquired pneumonia. The clinical presentation of pneumococcal pneumonia is often abrupt, with chills, fever, dyspnea, and cyanosis. The chest X-ray may show a patchy, interstitial pattern, as in this case, or a lobar pattern. The gram-positive, lancet-shaped diplococci occurring singly or in chains are seen with pneumococcal pneumonia. Staphylococcus aureus can cause pneumonia, but it is more likely to occur in the context of a health care-associated infection. The organism is often found in the sputum of patients with cystic fibrosis or chronic granulomatous disease. The organism is a gram-positive coccus in clusters. It can cause a rapidly progressive pneumonia with sepsis. Streptococcus pyogenes (group A streptococcus) can cause pneumonia, but it is more likely to occur in the context of an upper respiratory tract infection. The organism is a gram-positive coccus in chains. Non-typeable Haemophilus influenzae can cause pneumonia, but it is more likely to occur in the context of chronic lung disease. The organism is a gram-negative rod.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "loss of",
+      "type": "T081",
+      "umls_id": "C1517945",
+      "score": 0.8110635876655579,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A gradual decline in amount or activity."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "language barrier",
+      "type": "T033",
+      "umls_id": "C0237167",
+      "score": 0.980490505695343,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "immigrated",
+      "type": "T052",
+      "umls_id": "C0020942",
+      "score": 0.7641684412956238,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Migration into a foreign country to live permanently there."
+    },
+    {
+      "text": "abroad",
+      "type": "T082",
+      "umls_id": "C0332464",
+      "score": 0.7533276677131653,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Very large in expanse or scope; having great extent from one side to the other."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "motor vehicle accident",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.961533784866333,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "teenager",
+      "type": "T100",
+      "umls_id": "C0205653",
+      "score": 0.9737071394920349,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 13 to 18 years of age."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "transferred",
+      "type": "T169",
+      "umls_id": "C0348011",
+      "score": 0.9822731614112854,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ICU",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9662715196609497,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "ED",
+      "type": "T047",
+      "umls_id": "C0242350",
+      "score": 0.953866720199585,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "cyanosis",
+      "type": "T184",
+      "umls_id": "C0010520",
+      "score": 0.9791967868804932,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A bluish or purplish discoloration of the skin and mucous membranes due to an increase in the amount of deoxygenated hemoglobin in the blood or a structural defect in the hemoglobin molecule."
+    },
+    {
+      "text": "near-collapse",
+      "type": "T046",
+      "umls_id": "C0036974",
+      "score": 0.7016385197639465,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A pathological condition manifested by failure to perfuse or oxygenate vital organs."
+    },
+    {
+      "text": "meningeal infection",
+      "type": "T047",
+      "umls_id": "C0752195",
+      "score": 0.8305203914642334,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Infectious processes, including abscesses, effusions, and empyemas which occur in the epidural or subdural spaces surrounding the brain and spinal cord."
+    },
+    {
+      "text": "Blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "chest X-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "interstitial infiltrates",
+      "type": "T033",
+      "umls_id": "C4313225",
+      "score": 0.959062397480011,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "homogeneous",
+      "type": "T080",
+      "umls_id": "C1881065",
+      "score": 0.9821741580963135,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality or state of being similar or comparable in kind or nature or of being uniform throughout in composition or structure."
+    },
+    {
+      "text": "opacities",
+      "type": "T033",
+      "umls_id": "C0029053",
+      "score": 0.9869142174720764,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The quality of being opaque to a degree; the degree to which something reduces the passage of light."
+    },
+    {
+      "text": "laboratory results",
+      "type": "T034",
+      "umls_id": "C1254595",
+      "score": 0.9686997532844543,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "metabolic acidosis",
+      "type": "T046",
+      "umls_id": "C0220981",
+      "score": 0.9907808899879456,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Increased acidity in the blood secondary to acid base imbalance. Causes include diabetes, kidney failure and shock."
+    },
+    {
+      "text": "leukopenia",
+      "type": "T047",
+      "umls_id": "C0023530",
+      "score": 0.9580038189888,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A decrease in the number of LEUKOCYTES in a blood sample below the normal range (LEUKOCYTE COUNT less than 4000)."
+    },
+    {
+      "text": "thrombocytopenia",
+      "type": "T047",
+      "umls_id": "C0040034",
+      "score": 0.9797500371932983,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A subnormal level of BLOOD PLATELETS."
+    },
+    {
+      "text": "coagulation profile",
+      "type": "T059",
+      "umls_id": "C0005790",
+      "score": 0.9449162483215332,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Laboratory tests for evaluating the individual's clotting mechanism."
+    },
+    {
+      "text": "disseminated",
+      "type": "T082",
+      "umls_id": "C0205221",
+      "score": 0.9841350317001343,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "To scatter widely; spread."
+    },
+    {
+      "text": "coagulation",
+      "type": "T042",
+      "umls_id": "C0005778",
+      "score": 0.9426015615463257,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process of the interaction of BLOOD COAGULATION FACTORS that results in an insoluble FIBRIN clot."
+    },
+    {
+      "text": "peripheral smear",
+      "type": "T082",
+      "umls_id": "C0205100",
+      "score": 0.7988290786743164,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "On or near an edge or constituting an outer boundary; the outer area."
+    },
+    {
+      "text": "ventilatory support",
+      "type": "T033",
+      "umls_id": "C4748623",
+      "score": 0.9830544590950012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "administration",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9601402878761292,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "intravenous fluids",
+      "type": "T167",
+      "umls_id": "C1289919",
+      "score": 0.8908127546310425,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A sterile liquid preparation infused into a vein. IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances. In addition, IV fluids are used to administer blood products and medications such as chemotherapy. Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)"
+    },
+    {
+      "text": "antibiotics",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.9689207077026367,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "vasopressor agents",
+      "type": "T121",
+      "umls_id": "C0042397",
+      "score": 0.9848662614822388,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs used to cause constriction of the blood vessels."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "gram stain",
+      "type": "T109",
+      "umls_id": "C0061856",
+      "score": 0.987805187702179,
+      "semantic_types": [
+        "T109",
+        "T130"
+      ],
+      "definition": null
+    },
+    {
+      "text": "autopsy",
+      "type": "T060",
+      "umls_id": "C0004398",
+      "score": 0.9929856657981873,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Postmortem examination of the body."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "gram-positive",
+      "type": "T007",
+      "umls_id": "C0085498",
+      "score": 0.8774194717407227,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A large group of rod-shaped bacteria that retains the crystal violet stain when treated by Gram's method."
+    },
+    {
+      "text": "lancet-shaped diplococci",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "singly",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "chains",
+      "type": "T073",
+      "umls_id": "C0337112",
+      "score": 0.988774299621582,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "organisms",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9748482704162598,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "30-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

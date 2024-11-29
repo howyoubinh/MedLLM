@@ -1,0 +1,347 @@
+{
+  "original_data": {
+    "question": "A 55-year-old man recovering from knee replacement surgery complains of breathlessness in the postoperative ward. He has been confined to bed for the past 5 days and is under observation. He felt a sudden difficulty in breathing and called for the ward nurse. He says that he is unable to take deep breaths and has a sharp pain on the right side of his chest with each inspiration. His temperature is 37.5°C (99.8°F), the pulse is 111/min, the respirations are 31/min, and the blood pressure is 85/55 mm Hg. He experiences pain in his right calf on dorsiflexion. There are no other prominent findings on physical examination. His chest X-ray does not show anything significant. The ECG reveals sinus tachycardia. Which of the following is the best course of management at this time?",
+    "options": {
+      "A": "Subcutaneous fondaparinux",
+      "B": "Inferior vena cava filter",
+      "C": "Ventilation-perfusion scan",
+      "D": "Lower extremity doppler"
+    }
+  },
+  "model_response": "The patient has a high clinical probability of deep venous thrombosis (DVT) based on his history and physical findings. The most appropriate next step in management is to perform a venous duplex ultrasound examination of the lower extremities to confirm or rule out the diagnosis. Anticoagulation is the mainstay of treatment for DVT. Initial therapy usually consists of heparin, low molecular weight heparin, or fondaparinux. Initial treatment with unfractionated heparin is usually monitored with aPTT, and the dose is adjusted to maintain the aPTT at 1.5 to 2 times control. Initial treatment with low molecular weight heparin or fondaparinux is usually administered in a weight-based dosage and does not require aPTT monitoring. Unfractionated heparin can be administered by continuous IV infusion or by subcutaneous injection. Low molecular weight heparin and fondaparinux are typically administered subcutaneously. Warfarin should be started as soon as possible in addition to the initial parenteral therapy. The patient should be treated for at least 3 months. The risk of recurrent DVT is highest during the first week of therapy. Inferior vena cava (IVC) filters are indicated for patients with contraindications to anticoagulation or recurrent venous thrombosis despite intensive anticoagulation. A ventilation-perfusion scan is used to investigate the possibility of a pulmonary embolism. A lower extremity doppler is used to investigate for the presence of a deep venous thrombosis.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "knee replacement surgery",
+      "type": "T061",
+      "umls_id": "C0086511",
+      "score": 0.8018893599510193,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Replacement of the knee joint."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "breathlessness",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.959090530872345,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "postoperative",
+      "type": "T079",
+      "umls_id": "C0032790",
+      "score": 0.9935263395309448,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period following a surgical operation."
+    },
+    {
+      "text": "ward",
+      "type": "T073",
+      "umls_id": "C1305702",
+      "score": 0.9946349859237671,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "large room in a hospital for the accomodation of several patients."
+    },
+    {
+      "text": "bed",
+      "type": "T073",
+      "umls_id": "C0004916",
+      "score": 0.9527915716171265,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Equipment on which one may lie and sleep, especially as used to care for the hospital patient."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "observation",
+      "type": "T062",
+      "umls_id": "C0302523",
+      "score": 0.9607546329498291,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "The act of regarding attentively and studying facts and occurrences, gathering data through analyzing, measuring, and drawing conclusions, with the purpose of applying the observed information to theoretical assumptions. Observation as a scientific method in the acquisition of knowledge began in classical antiquity; in modern science and medicine its greatest application is facilitated by modern technology. Observation is one of the components of the research process."
+    },
+    {
+      "text": "sudden difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.7749909162521362,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "breathing",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9880034327507019,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "ward nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.7321165800094604,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "deep breaths",
+      "type": "T184",
+      "umls_id": "C1321587",
+      "score": 0.9717411398887634,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sharp pain",
+      "type": "T184",
+      "umls_id": "C0455270",
+      "score": 0.9691824913024902,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort or distress that is distinct and intensely focused."
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "inspiration",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9656476974487305,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "experiences pain",
+      "type": "T041",
+      "umls_id": "C0596545",
+      "score": 0.8261500597000122,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The accumulation of knowledge or skill that results from direct participation in events or activities."
+    },
+    {
+      "text": "right calf",
+      "type": "T029",
+      "umls_id": "C0489801",
+      "score": 0.9616891145706177,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dorsiflexion",
+      "type": "T060",
+      "umls_id": "C4528336",
+      "score": 0.7711282968521118,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of joint flexibility that measures the movement of a body part bending towards its dorsal surface, in number of degrees."
+    },
+    {
+      "text": "prominent",
+      "type": "T080",
+      "umls_id": "C0205402",
+      "score": 0.9741337299346924,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "X-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "sinus tachycardia",
+      "type": "T047",
+      "umls_id": "C0039239",
+      "score": 0.9745782017707825,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Simple rapid heartbeats caused by rapid discharge of impulses from the SINOATRIAL NODE, usually between 100 and 180 beats/min in adults. It is characterized by a gradual onset and termination. Sinus tachycardia is common in infants, young children, and adults during strenuous physical activities."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

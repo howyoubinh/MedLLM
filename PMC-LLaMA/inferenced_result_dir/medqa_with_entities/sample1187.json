@@ -1,0 +1,433 @@
+{
+  "original_data": {
+    "question": "A 15-year-old boy is brought to the emergency department because of severe abdominal pain and vomiting for 8 hours. He has had around 3–4 episodes of greenish colored vomit during this period. He has major depressive disorder with psychosis. His mother has Graves' disease. Current medications include sertraline and haloperidol. He appears uncomfortable. His temperature is 37.3°C (99.1°F), pulse is 87/min, and blood pressure is 118/72 mm Hg. He is diagnosed with acute appendicitis and is taken to the operating room for an emergency laparoscopic appendectomy. The appendix is gangrenous and perforated with purulent fluid in the pelvis. Just after the appendiceal base is ligated, the patient shows muscle rigidity and profuse diaphoresis. His temperature is 39.1°C (102.4°F), pulse is 130/min, and blood pressure is 146/70 mm Hg. The pupils are equal and reactive to light. The end-tidal CO2 is 85 mm Hg. Which of the following is the most appropriate treatment for this patient's condition?",
+    "options": {
+      "A": "Dantrolene",
+      "B": "Bromocriptine",
+      "C": "Cyproheptadine",
+      "D": "Surgical embolectomy"
+    }
+  },
+  "model_response": "The symptoms described are consistent with malignant hyperthermia (MH). The MH episode typically occurs during or immediately after anesthesia and may be precipitated by potent inhalational agents, amides, or muscle relaxants. Dantrolene is the drug of choice for treating MH. It is a directly acting muscle relaxant that inhibits Ryanodine receptors on the sarcoplasmic reticulum of skeletal muscle. This inhibition prevents the release of calcium from the sarcoplasmic reticulum and thereby inhibits muscle contraction. Bromocriptine is a dopamine agonist that is used in the management of hyperprolactinemia. Cyproheptadine is an antihistamine with antiserotonergic properties that has been used to prevent the recurrence of malignant hyperthermia. Surgical embolectomy is the treatment of choice for acute arterial embolism.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "greenish",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "depressive disorder",
+      "type": "T048",
+      "umls_id": "C0011581",
+      "score": 0.9825969338417053,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An affective disorder manifested by either a dysphoric mood or loss of interest or pleasure in usual activities. The mood disturbance is prominent and relatively persistent."
+    },
+    {
+      "text": "psychosis",
+      "type": "T048",
+      "umls_id": "C0033975",
+      "score": 0.9829148650169373,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Disorders in which there is a loss of ego boundaries or a gross impairment in reality testing with delusions or prominent hallucinations. (From DSM-IV, 1994)"
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "Graves' disease",
+      "type": "T047",
+      "umls_id": "C0018213",
+      "score": 0.9502441883087158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hyperthyroidism associated with diffuse hyperplasia of the thyroid gland (goiter), resulting from production of antibodies that are directed against the thyrotropin receptor complex of the follicular epithelial cells. As a result, the thyroid gland enlarges and secretes increased amounts of thyroid hormones."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "sertraline",
+      "type": "T109",
+      "umls_id": "C0074393",
+      "score": 0.9715209007263184,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective serotonin uptake inhibitor that is used in the treatment of depression."
+    },
+    {
+      "text": "haloperidol",
+      "type": "T109",
+      "umls_id": "C0018546",
+      "score": 0.9885089993476868,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A phenyl-piperidinyl-butyrophenone that is used primarily to treat SCHIZOPHRENIA and other PSYCHOSES. It is also used in schizoaffective disorder, DELUSIONAL DISORDERS, ballism, and TOURETTE SYNDROME (a drug of choice) and occasionally as adjunctive therapy in INTELLECTUAL DISABILITY and the chorea of HUNTINGTON DISEASE. It is a potent antiemetic and is used in the treatment of intractable HICCUPS. (From AMA Drug Evaluations Annual, 1994, p279)"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "acute appendicitis",
+      "type": "T047",
+      "umls_id": "C0003615",
+      "score": 0.9906680583953857,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Acute inflammation of the APPENDIX. Acute appendicitis is classified as simple, gangrenous, or perforated."
+    },
+    {
+      "text": "operating room",
+      "type": "T073",
+      "umls_id": "C0029064",
+      "score": 0.9580788612365723,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped for performing surgery."
+    },
+    {
+      "text": "emergency laparoscopic appendectomy",
+      "type": "T061",
+      "umls_id": "C0399999",
+      "score": 0.988274335861206,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appendix",
+      "type": "T023",
+      "umls_id": "C0003617",
+      "score": 0.9715443253517151,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A worm-like blind tube extension from the CECUM."
+    },
+    {
+      "text": "gangrenous",
+      "type": "T047",
+      "umls_id": "C0017086",
+      "score": 0.9698131084442139,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Death and putrefaction of tissue usually due to a loss of blood supply."
+    },
+    {
+      "text": "perforated",
+      "type": "T033",
+      "umls_id": "C0549099",
+      "score": 0.9685616493225098,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A hole or opening made through a membrane or other tissue or material."
+    },
+    {
+      "text": "purulent fluid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pelvis",
+      "type": "T023",
+      "umls_id": "C0030797",
+      "score": 0.9743636250495911,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The space or compartment surrounded by the pelvic girdle (bony pelvis). It is subdivided into the greater pelvis and LESSER PELVIS. The pelvic girdle is formed by the PELVIC BONES and SACRUM."
+    },
+    {
+      "text": "appendiceal",
+      "type": "T169",
+      "umls_id": "C0227334",
+      "score": 0.9860048294067383,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "base",
+      "type": "T120",
+      "umls_id": "C0178499",
+      "score": 0.9794395565986633,
+      "semantic_types": [
+        "T120"
+      ],
+      "definition": "A substance that dissociates to give hydroxide ions in aqueous solutions; a substance capable of donating a pair of electrons (to an acid) for the formation of a coordinate covalent bond; a substance whose molecule or ion can combine with a proton (hydrogen ion); a substance that combines with acids to form salts."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "muscle rigidity",
+      "type": "T184",
+      "umls_id": "C0026837",
+      "score": 0.9829567074775696,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Continuous involuntary sustained muscle contraction which is often a manifestation of BASAL GANGLIA DISEASES. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from MUSCLE SPASTICITY. (From Adams et al., Principles of Neurology, 6th ed, p73)"
+    },
+    {
+      "text": "profuse diaphoresis",
+      "type": "T033",
+      "umls_id": "C0700590",
+      "score": 0.7706878185272217,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Profuse sweating."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "end-tidal",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "CO2",
+      "type": "T123",
+      "umls_id": "C0007012",
+      "score": 0.9392037391662598,
+      "semantic_types": [
+        "T123",
+        "T197"
+      ],
+      "definition": "A colorless, odorless gas that can be formed by the body and is necessary for the respiration cycle of plants and animals."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "15-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

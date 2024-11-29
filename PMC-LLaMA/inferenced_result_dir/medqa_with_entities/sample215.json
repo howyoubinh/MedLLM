@@ -1,0 +1,334 @@
+{
+  "original_data": {
+    "question": "A 45-year-old man presents to the physician with complaints of increased urinary frequency and decreasing volumes for the past 2 months. He does not complain of any pain during urination. He is frustrated that he has to wake up 2 or 3 times per night to urinate even though he tried reducing the amount of water he consumes before bed and made some other dietary changes without any improvement. He has no family history of prostate disease. Physical examination is negative for any suprapubic mass or tenderness, and there is no costovertebral angle tenderness. Which of the following is the best next step in the management of this patient?",
+    "options": {
+      "A": "Urinalysis and serum creatinine",
+      "B": "Reassurance",
+      "C": "Digital rectal examination",
+      "D": "Prostate-specific antigen"
+    }
+  },
+  "model_response": "This patient's symptoms are suggestive of benign prostatic hyperplasia (BPH). The next best step in the management of this patient is to perform a digital rectal examination (DRE) to check for prostate nodules, masses, or tenderness. The physical examination should also include assessment of the kidneys, bladder, and penis. Urinalysis and serum creatinine are indicated if there is evidence of urinary tract infection or impaired renal function. Prostate-specific antigen (PSA) is not indicated in this patient because he has no family history of prostate cancer and his physical examination is negative for any prostate abnormalities. Prostate-specific antigen is indicated in men aged 50 to 69 years with at least a 10-year life expectancy for screening of prostate cancer.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urinary frequency",
+      "type": "T033",
+      "umls_id": "C0042023",
+      "score": 0.9836089611053467,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Urination at short intervals; it may result from increased urine formation, decreased bladder capacity, or lower urinary tract irritation."
+    },
+    {
+      "text": "decreasing",
+      "type": "T033",
+      "umls_id": "C0442797",
+      "score": 0.9793530106544495,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "volumes",
+      "type": "T081",
+      "umls_id": "C0449468",
+      "score": 0.9860562086105347,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The amount of three dimensional space occupied by an object or the capacity of a space or container."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "complain",
+      "type": "T033",
+      "umls_id": "C0277786",
+      "score": 0.8713775277137756,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The primary reason for a patient visit."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9745711088180542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "wake up 2",
+      "type": "T079",
+      "umls_id": "C1720052",
+      "score": 0.9072569608688354,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "To wake up or become awake."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "urinate",
+      "type": "T184",
+      "umls_id": "C0085606",
+      "score": 0.7243622541427612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An acute and compelling urge to urinate."
+    },
+    {
+      "text": "reducing",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.9772821068763733,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "amount",
+      "type": "T081",
+      "umls_id": "C1265611",
+      "score": 0.9890685677528381,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "How much there is of something that you can measure; the total amount or number."
+    },
+    {
+      "text": "water",
+      "type": "T121",
+      "umls_id": "C0043047",
+      "score": 0.9369778037071228,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A clear, odorless, tasteless liquid that is essential for most animal and plant life and is an excellent solvent for many substances. The chemical formula is hydrogen oxide (H2O). (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "consumes",
+      "type": "T098",
+      "umls_id": "C1707496",
+      "score": 0.7624343037605286,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A person who uses goods or services."
+    },
+    {
+      "text": "bed",
+      "type": "T073",
+      "umls_id": "C0004916",
+      "score": 0.9527915716171265,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Equipment on which one may lie and sleep, especially as used to care for the hospital patient."
+    },
+    {
+      "text": "dietary changes",
+      "type": "T109",
+      "umls_id": "C5690766",
+      "score": 0.7094228863716125,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "Advanced glycation end products (AGEs) present in food. They are absorbed by the GASTROINTESTINAL SYSTEM and contribute to the body's total AGEs. The food BROWNING REACTION, such as occurs during food processing or cooking with high heat (frying, broiling, grilling, roasting, etc.) accelerates the formation of AGEs in food."
+    },
+    {
+      "text": "improvement",
+      "type": "T077",
+      "umls_id": "C2986411",
+      "score": 0.9585268497467041,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A condition superior to an earlier condition."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "prostate disease",
+      "type": "T047",
+      "umls_id": "C0033575",
+      "score": 0.9874597787857056,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pathological processes involving the PROSTATE or its component tissues."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "suprapubic mass",
+      "type": "T023",
+      "umls_id": "C4288164",
+      "score": 0.7234072685241699,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The skin above the pubic area."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "costovertebral angle",
+      "type": "T030",
+      "umls_id": "C0224681",
+      "score": 0.7304818034172058,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The synovial joints that attach the heads of the ribs to the bodies of the thoracic vertebrae."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

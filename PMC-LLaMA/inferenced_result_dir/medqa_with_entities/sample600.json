@@ -1,0 +1,209 @@
+{
+  "original_data": {
+    "question": "A medical student decides to join an immunology research center, which specifically works on capsular polysaccharide vaccine development against bacteria, such as Haemophilus influenzae type b (Hib), Neisseria meningitidis, and Streptococcus pneumoniae. As a member of a research team working on the Hib vaccine, he asks his senior colleague why capsular polysaccharides are conjugated to protein carriers like tetanus toxoid during vaccine development. Which of the following is the best response to this question?",
+    "options": {
+      "A": "Conjugation with a protein carrier generates IgG2 dominant antibody responses",
+      "B": "Conjugation with a protein carrier generates IgM dominant antibody responses",
+      "C": "Conjugation with a protein carrier improves vaccine stability",
+      "D": "Conjugation with a protein carrier provides effective protection to infants"
+    }
+  },
+  "model_response": "['A' i.e., Conjugation with a protein carrier generates IgG2 dominant antibody responses; 'B' i.e., Conjugation with a protein carrier generates IgM dominant antibody responses; 'C' i.e., Conjugation with a protein carrier improves vaccine stability; 'D' i.e., Conjugation with a protein carrier provides effective protection to infants]\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "medical",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.991391122341156,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "decides",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "immunology research center",
+      "type": "T092",
+      "umls_id": "C0683939",
+      "score": 0.7455893158912659,
+      "semantic_types": [
+        "T092"
+      ],
+      "definition": "An organization whose purpose is to support systemic, rigorous study and investigation into a particular field or fields."
+    },
+    {
+      "text": "capsular polysaccharide vaccine",
+      "type": "T121",
+      "umls_id": "C3273243",
+      "score": 0.844200849533081,
+      "semantic_types": [
+        "T121",
+        "T129"
+      ],
+      "definition": "A category of vaccines that use the extracted and purified outer polysaccharide coat of the particular bacteria."
+    },
+    {
+      "text": "development",
+      "type": "T169",
+      "umls_id": "C0243107",
+      "score": 0.9674524664878845,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bacteria",
+      "type": "T007",
+      "umls_id": "C0004611",
+      "score": 0.992347240447998,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "One of the three domains of life (the others being Eukarya and ARCHAEA), also called Eubacteria. They are unicellular prokaryotic microorganisms which generally possess rigid cell walls, multiply by cell division, and exhibit three principal forms: round or coccal, rodlike or bacillary, and spiral or spirochetal. Bacteria can be classified by their response to OXYGEN: aerobic, anaerobic, or facultatively anaerobic; by the mode by which they obtain their energy: chemotrophy (via chemical reaction) or PHOTOTROPHY (via light reaction); for chemotrophs by their source of chemical energy: CHEMOLITHOTROPHY (from inorganic compounds) or chemoorganotrophy (from organic compounds); and by their source for CARBON; NITROGEN; etc.; HETEROTROPHY (from organic sources) or AUTOTROPHY (from CARBON DIOXIDE). They can also be classified by whether or not they stain (based on the structure of their CELL WALLS) with CRYSTAL VIOLET dye: gram-negative or gram-positive."
+    },
+    {
+      "text": "Haemophilus influenzae type b (Hib)",
+      "type": "T007",
+      "umls_id": "C0121772",
+      "score": 0.9142084717750549,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A type of H. influenzae isolated most frequently from biotype I. Prior to vaccine availability, it was a leading cause of childhood meningitis."
+    },
+    {
+      "text": "Neisseria meningitidis",
+      "type": "T007",
+      "umls_id": "C0027575",
+      "score": 0.9727660417556763,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A species of gram-negative, aerobic BACTERIA. It is a commensal and pathogen only of humans, and can be carried asymptomatically in the NASOPHARYNX. When found in cerebrospinal fluid it is the causative agent of cerebrospinal meningitis (MENINGITIS, MENINGOCOCCAL). It is also found in venereal discharges and blood. There are at least 13 serogroups based on antigenic differences in the capsular polysaccharides; the ones causing most meningitis infections being A, B, C, Y, and W-135. Each serogroup can be further classified by serotype, serosubtype, and immunotype."
+    },
+    {
+      "text": "Streptococcus pneumoniae",
+      "type": "T007",
+      "umls_id": "C0038410",
+      "score": 0.984706699848175,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A gram-positive organism found in the upper respiratory tract, inflammatory exudates, and various body fluids of normal and/or diseased humans and, rarely, domestic animals."
+    },
+    {
+      "text": "research",
+      "type": "T062",
+      "umls_id": "C0035168",
+      "score": 0.985704243183136,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Critical and exhaustive investigation or experimentation, having for its aim the discovery of new facts and their correct interpretation, the revision of accepted conclusions, theories, or laws in the light of newly discovered facts, or the practical application of such new or revised conclusions, theories, or laws. (Webster, 3d ed)"
+    },
+    {
+      "text": "Hib vaccine",
+      "type": "T109",
+      "umls_id": "C0062086",
+      "score": 0.9772272109985352,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T129"
+      ],
+      "definition": null
+    },
+    {
+      "text": "senior",
+      "type": "T078",
+      "umls_id": "C1705825",
+      "score": 0.9835831522941589,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A suffix used to distinguish a father from his son when they have the same given name."
+    },
+    {
+      "text": "colleague",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "capsular polysaccharides",
+      "type": "T043",
+      "umls_id": "C1159560",
+      "score": 0.7965778112411499,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "The directed movement of capsular polysaccharides into, out of or within a cell, or between cells, by means of some agent such as a transporter or pore. Capsular polysaccharides make up the capsule, a protective structure surrounding some species of bacteria and fungi. [GOC:ai]"
+    },
+    {
+      "text": "protein carriers",
+      "type": "T116",
+      "umls_id": "C0007292",
+      "score": 0.8865050077438354,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Proteins that bind or transport specific substances in the blood, within the cell, or across cell membranes."
+    },
+    {
+      "text": "tetanus",
+      "type": "T047",
+      "umls_id": "C0039614",
+      "score": 0.9795368313789368,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease caused by tetanospasmin, a powerful protein toxin produced by CLOSTRIDIUM TETANI. Tetanus usually occurs after an acute injury, such as a puncture wound or laceration. Generalized tetanus, the most common form, is characterized by tetanic muscular contractions and hyperreflexia. Localized tetanus presents itself as a mild condition with manifestations restricted to muscles near the wound. It may progress to the generalized form."
+    },
+    {
+      "text": "toxoid",
+      "type": "T121",
+      "umls_id": "C0040555",
+      "score": 0.9656422734260559,
+      "semantic_types": [
+        "T121",
+        "T129"
+      ],
+      "definition": "Preparations of pathogenic organisms or their derivatives made nontoxic and intended for active immunologic prophylaxis. They include deactivated toxins. Anatoxin toxoids are distinct from anatoxins that are TROPANES found in CYANOBACTERIA."
+    },
+    {
+      "text": "vaccine",
+      "type": "T116",
+      "umls_id": "C0042210",
+      "score": 0.9752286672592163,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Suspensions of killed or attenuated microorganisms (bacteria, viruses, fungi, protozoa), antigenic proteins, synthetic constructs, or other bio-molecular derivatives, administered for the prevention, amelioration, or treatment of infectious and other diseases."
+    },
+    {
+      "text": "development",
+      "type": "T169",
+      "umls_id": "C0243107",
+      "score": 0.9674524664878845,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    }
+  ]
+}

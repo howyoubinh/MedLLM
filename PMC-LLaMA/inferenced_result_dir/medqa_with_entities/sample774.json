@@ -1,0 +1,245 @@
+{
+  "original_data": {
+    "question": "A 25-year-old African American man presents to his primary care provider for routine blood work. He is a well-known case of sickle cell disease treated with hydroxyurea and tramadol as needed for pain. He does not smoke or drink alcohol. The patient asks if his disease can adversely affect his kidneys because his friend was recently diagnosed with end-stage renal failure. Which of the following is a renal complication of sickle cell disease?",
+    "options": {
+      "A": "Membranous glomerulonephritis",
+      "B": "Proximal renal tubular acidosis",
+      "C": "Impaired urine diluting ability",
+      "D": "Impaired urine concentration ability"
+    }
+  },
+  "model_response": "The correct answer is A. Membranous glomerulonephritis. Sickle cell disease is associated with several renal complications. The most common renal abnormality is hyposthenuria (impaired urine concentrating ability). Other renal abnormalities include hematuria, tubular necrosis, and renal medullary carcinoma. Membranous glomerulonephritis is a rare complication of sickle cell disease.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "African American",
+      "type": "T098",
+      "umls_id": "C0085756",
+      "score": 0.9757757186889648,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Denotes a person of African ancestral origins whose family settled in America."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "blood work",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.7449117302894592,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "sickle cell disease",
+      "type": "T047",
+      "umls_id": "C0002895",
+      "score": 0.9725584983825684,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease characterized by chronic hemolytic anemia, episodic painful crises, and pathologic involvement of many organs. It is the clinical expression of homozygosity for hemoglobin S."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hydroxyurea",
+      "type": "T109",
+      "umls_id": "C0020402",
+      "score": 0.9525664448738098,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antineoplastic agent that inhibits DNA synthesis through the inhibition of ribonucleoside diphosphate reductase."
+    },
+    {
+      "text": "tramadol",
+      "type": "T109",
+      "umls_id": "C0040610",
+      "score": 0.9783334136009216,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A narcotic analgesic proposed for severe pain. It may be habituating."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drink",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9850457310676575,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "disease",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9868216514587402,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "kidneys",
+      "type": "T023",
+      "umls_id": "C0022646",
+      "score": 0.9909534454345703,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Body organ that filters blood for the secretion of URINE and that regulates ion concentrations."
+    },
+    {
+      "text": "friend",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9789092540740967,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "end-stage",
+      "type": "T080",
+      "umls_id": "C0205088",
+      "score": 0.9570053815841675,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "renal failure",
+      "type": "T047",
+      "umls_id": "C0035078",
+      "score": 0.9599186778068542,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A severe irreversible decline in the ability of kidneys to remove wastes, concentrate URINE, and maintain ELECTROLYTE BALANCE; BLOOD PRESSURE; and CALCIUM metabolism."
+    },
+    {
+      "text": "renal complication",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.8152010440826416,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "sickle cell disease",
+      "type": "T047",
+      "umls_id": "C0002895",
+      "score": 0.9725584983825684,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease characterized by chronic hemolytic anemia, episodic painful crises, and pathologic involvement of many organs. It is the clinical expression of homozygosity for hemoglobin S."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "original_data": {
+    "question": "A 30-year-old woman comes to the physician because of increasing weakness in both legs for 7 days. She also reports a tingling sensation in her legs that is exacerbated by taking a hot shower. She is sexually active with one male partner and does not use condoms. Her temperature is 37.8°C (100.1°F). Physical examination shows decreased muscle strength and clonus in both lower extremities. Patellar reflex is 4+ bilaterally and plantar reflex shows an extensor response on both sides. Abdominal reflex is absent. An MRI of the brain is shown. Which of the following findings is most likely to further support the diagnosis in this patient?",
+    "options": {
+      "A": "Positive antibody response to cardiolipin-cholesterol-lecithin antigen in the serum",
+      "B": "Oligodendrocytes that stain positive for polyomavirus proteins on brain biopsy",
+      "C": "Presence of immunoglobulin bands on cerebrospinal fluid immunofixation",
+      "D": "Identification of gram-positive cocci in groups on blood culture"
+    }
+  },
+  "model_response": "The clinical findings and MRI are consistent with a diagnosis of acute disseminated encephalomyelitis (ADEM). This is an autoimmune demyelinating disease that can follow many different types of infections, including those caused by Campylobacter jejuni, cytomegalovirus, Epstein-Barr virus, herpes simplex virus, and Mycoplasma pneumoniae. The MRI shows multiple high signal intensities in both cerebral hemispheres on the T2-weighted image. The patient's symptoms and MRI findings are not specific for any one type of infection. The cerebrospinal fluid (CSF) shows a pleocytosis with a predominance of lymphocytes. The CSF protein is usually elevated, and the glucose level is usually normal. The CSF is not likely to show a positive response to cardiolipin-cholesterol-lecithin antigen, which is a finding in patients with antiphospholipid antibody syndrome. Oligodendrocytes that stain positive for polyomavirus proteins are found in patients with progressive multifocal leukoencephalopathy (PML). PML is a demyelinating disease that occurs in immunocompromised patients, such as those with acquired immunodeficiency syndrome (AIDS). The CSF is not likely to show immunoglobulin bands on cerebrospinal fluid immunofixation in this patient. This finding is more typical of Guillain-Barre syndrome. The CSF is not likely to show the presence of gram-positive cocci in groups on blood culture. This finding is more typical of bacterial meningitis.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "tingling",
+      "type": "T047",
+      "umls_id": "C0030554",
+      "score": 0.9621715545654297,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Subjective cutaneous sensations (e.g., cold, warmth, tingling, pressure, etc.) that are experienced spontaneously in the absence of stimulation."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "exacerbated",
+      "type": "T033",
+      "umls_id": "C0436331",
+      "score": 0.9704954028129578,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**The source act is aggravated by the target act. (Example \"chest pain\" EXACBY \"exercise\")</p>"
+    },
+    {
+      "text": "hot shower",
+      "type": "T056",
+      "umls_id": "C5238739",
+      "score": 0.8091463446617126,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Bathing or showering with water that has an extremely elevated temperature."
+    },
+    {
+      "text": "sexually active",
+      "type": "T033",
+      "umls_id": "C0241028",
+      "score": 0.9596645832061768,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that an individual is or was sexually active."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "condoms",
+      "type": "T074",
+      "umls_id": "C0009653",
+      "score": 0.9629577398300171,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A sheath that is worn over the penis during sexual behavior in order to prevent pregnancy or spread of sexually transmitted disease."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.9795353412628174,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "clonus",
+      "type": "T184",
+      "umls_id": "C0009024",
+      "score": 0.9797878861427307,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A form of involuntary muscular movement characterized by alternating contractions and relaxation in rapid succession. In the context of reflex testing, the ability to elicit clonus indicates injury to the nerve tracts above the point at which the reflex was initiated."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "Patellar reflex",
+      "type": "T033",
+      "umls_id": "C0234147",
+      "score": 0.9708946347236633,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "plantar reflex",
+      "type": "T033",
+      "umls_id": "C0278131",
+      "score": 0.9744055867195129,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "extensor response",
+      "type": "T033",
+      "umls_id": "C0034935",
+      "score": 0.8409786820411682,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A reflex found in normal infants consisting of dorsiflexion of the HALLUX and abduction of the other TOES in response to cutaneous stimulation of the plantar surface of the FOOT. In adults, it is used as a diagnostic criterion, and if present is a NEUROLOGIC MANIFESTATION of dysfunction in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "Abdominal reflex",
+      "type": "T042",
+      "umls_id": "C0034932",
+      "score": 0.9648590087890625,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Contractions of the abdominal muscles upon stimulation of the skin (superficial abdominal reflex) or tapping neighboring bony structures (deep abdominal reflex). The superficial reflex may be weak or absent, for example, after a stroke, a sign of upper (suprasegmental) motor neuron lesions. (Stedman, 25th ed & Best & Taylor's Physiological Basis of Medical Practice, 12th ed, p1073)"
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "MRI",
+      "type": "T060",
+      "umls_id": "C0024485",
+      "score": 0.9940130114555359,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Non-invasive method of demonstrating internal anatomy based on the principle that atomic nuclei in a strong magnetic field absorb pulses of radiofrequency energy and emit them as radiowaves which can be reconstructed into computerized images. The concept includes proton spin tomographic techniques."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "30-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

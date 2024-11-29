@@ -1,0 +1,345 @@
+{
+  "original_data": {
+    "question": "Two days after being admitted to the hospital following a fall, a 77-year-old woman complains of fatigue and headaches. During the fall she sustained a right-sided subdural hematoma. She has hypertension and hyperlipidemia. Her medications prior to admission were hydrochlorothiazide and atorvastatin. Vital signs are within normal limits. Physical and neurologic examinations show no abnormalities. Laboratory studies show:\nSerum\nNa+ 130 mEq/L\nK+ 4.0 mEq/L\nCl- 103 mEq/L\nHCO3- 24 mEq/L\nUrea nitrogen 14 mg/dL\nCreatinine 1.1 mg/dL\nOsmolality 270 mOsmol/kg H2O\nUrine\nSodium 45 mEq/L\nOsmolality 326 mOsmol/kg H2O\nA CT scan of the head shows an unchanged right-sided subdural hematoma. Which of the following is the most appropriate next step in management?\"",
+    "options": {
+      "A": "Head elevation",
+      "B": "Tolvaptan",
+      "C": "Desmopressin",
+      "D": "Fluid restriction"
+    }
+  },
+  "model_response": "The patient has a low-serum sodium concentration (hyponatremia) with inappropriately concentrated urine (osmolality of 326 mOsmol/kg H2O). The urine sodium is low (< 20 mEq/L), consistent with a reduced water excretion due to the action of vasopressin. The most likely cause of her hyponatremia is SIADH, which is caused by the action of vasopressin on the renal tubule. SIADH is often associated with central nervous system diseases. The treatment of choice for SIADH is water restriction.\n\nThe head-elevation option is not likely to be helpful because the patient's subdural hematoma is stable. The use of tolvaptan (a vasopressin V2 receptor antagonist) is not indicated because the hyponatremia is not severe (130 mEq/L) and the urine is not excessively concentrated. Desmopressin (a vasopressin V2 receptor agonist) would be expected to exacerbate the hyponatremia and should not be used. Fluid restriction would be the most appropriate treatment.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "fall",
+      "type": "T033",
+      "umls_id": "C0085639",
+      "score": 0.9822764992713928,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sudden movement downward, usually resulting in injury."
+    },
+    {
+      "text": "woman complains",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "fall",
+      "type": "T033",
+      "umls_id": "C0085639",
+      "score": 0.9822764992713928,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sudden movement downward, usually resulting in injury."
+    },
+    {
+      "text": "sustained",
+      "type": "T169",
+      "umls_id": "C0443318",
+      "score": 0.9774273037910461,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right-sided subdural hematoma",
+      "type": "T046",
+      "umls_id": "C0018946",
+      "score": 0.7412447333335876,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Accumulation of blood in the SUBDURAL SPACE between the DURA MATER and the arachnoidal layer of the MENINGES. This condition primarily occurs over the surface of a CEREBRAL HEMISPHERE, but may develop in the spinal canal (HEMATOMA, SUBDURAL, SPINAL). Subdural hematoma can be classified as the acute or the chronic form, with immediate or delayed symptom onset, respectively. Symptoms may include loss of consciousness, severe HEADACHE, and deteriorating mental status."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Physical",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9765394330024719,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "neurologic examinations",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.978002667427063,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "HCO3-",
+      "type": "T116",
+      "umls_id": "C0106269",
+      "score": 0.7160655856132507,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Electroneutral chloride bicarbonate exchangers that allow the exchange of BICARBONATE IONS exchange for CHLORIDE IONS across the cellular membrane. The action of specific antiporters in this class serve important functions such as allowing the efficient exchange of bicarbonate across red blood cell membranes as they passage through capillaries and the reabsorption of bicarbonate ions by the kidney."
+    },
+    {
+      "text": "Osmolality",
+      "type": "T081",
+      "umls_id": "C0086741",
+      "score": 0.9836233258247375,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The concentration of osmoles of solute per kilogram of solvent present in a sample."
+    },
+    {
+      "text": "mOsmol/kg",
+      "type": "T081",
+      "umls_id": "C0439353",
+      "score": 0.9595512747764587,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A unit of osmotic strength of solution as a measure of concentration of osmotically active particles expressed in a number of milliosmoles of solute per kilogram of solvent."
+    },
+    {
+      "text": "H2O\n",
+      "type": "T121",
+      "umls_id": "C0043047",
+      "score": 0.8063281774520874,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A clear, odorless, tasteless liquid that is essential for most animal and plant life and is an excellent solvent for many substances. The chemical formula is hydrogen oxide (H2O). (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "Urine\nSodium 45",
+      "type": "T059",
+      "umls_id": "C1256585",
+      "score": 0.9033762216567993,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the total amount of sodium present in a sample of urine."
+    },
+    {
+      "text": "Osmolality",
+      "type": "T081",
+      "umls_id": "C0086741",
+      "score": 0.9836233258247375,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The concentration of osmoles of solute per kilogram of solvent present in a sample."
+    },
+    {
+      "text": "mOsmol/kg",
+      "type": "T081",
+      "umls_id": "C0439353",
+      "score": 0.9595512747764587,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A unit of osmotic strength of solution as a measure of concentration of osmotically active particles expressed in a number of milliosmoles of solute per kilogram of solvent."
+    },
+    {
+      "text": "H2O\nA",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "unchanged",
+      "type": "T033",
+      "umls_id": "C0442739",
+      "score": 0.9807156324386597,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**There was (or is to be) no change to the item. This is primarily used when this element has not changed, but other attributes in the instance have changed.</p>"
+    },
+    {
+      "text": "right-sided subdural hematoma",
+      "type": "T046",
+      "umls_id": "C0018946",
+      "score": 0.7412447333335876,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Accumulation of blood in the SUBDURAL SPACE between the DURA MATER and the arachnoidal layer of the MENINGES. This condition primarily occurs over the surface of a CEREBRAL HEMISPHERE, but may develop in the spinal canal (HEMATOMA, SUBDURAL, SPINAL). Subdural hematoma can be classified as the acute or the chronic form, with immediate or delayed symptom onset, respectively. Symptoms may include loss of consciousness, severe HEADACHE, and deteriorating mental status."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "77-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

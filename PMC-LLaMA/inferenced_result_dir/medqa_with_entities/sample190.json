@@ -1,0 +1,401 @@
+{
+  "original_data": {
+    "question": "A 23-year-old college student presents to the clinic with a history of intermittent chest discomfort. He reports that, about once per month for the past 8 or 9 months, he's had episodes of \"feeling like my chest is going to explode.\" During these episodes, he also feels shortness of breath, feels shakiness throughout his arms and legs, and sweats so heavily that he needs to change his shirt. He is unsure of any clear precipitating factors but thinks they may occur more often around important exams or when big school projects are due. He shares that, as these episodes continue to recur, he has had mounting anxiety about having one when he is in class or at a restaurant. As a result, he is leaving the house less and less. He has no past medical history; the physical exam is unremarkable. Which of the following is the best medication for the long-term management of this patient's condition?",
+    "options": {
+      "A": "Citalopram",
+      "B": "Lithium",
+      "C": "Propranolol",
+      "D": "Quetiapine"
+    }
+  },
+  "model_response": "The patient's symptoms are consistent with panic disorder, which is characterized by discrete episodes of intense fear or discomfort, associated with a number of physical symptoms, including palpitations, sweating, shakiness, shortness of breath, and a feeling of choking. The episodes are often abrupt in onset and offset, typically lasting 10 to 30 minutes. The symptoms cause significant distress, and the patient often develops anxiety about having additional episodes. The episodes may occur in specific situations, such as when the patient is in a crowd or in traffic, or they may occur \"out of the blue.\" The diagnosis is panic disorder with agoraphobia (the avoidance of situations that might precipitate a panic attack). The first-line medications for panic disorder are selective serotonin reuptake inhibitors (SSRIs), such as citalopram. Other medications that are effective include the tricyclic antidepressants, such as clomipramine, and the selective serotonin-norepinephrine reuptake inhibitors (SARI), such as venlafaxine. Benzodiazepines can also be used in the initial acute treatment of panic disorder, but long-term use is discouraged because of the potential for addiction and tolerance. Lithium is used primarily for the treatment of bipolar disorder. Propranolol is a beta blocker that is sometimes used to treat anxiety symptoms, but it is not the first-line treatment for panic disorder. Quetiapine is an atypical antipsychotic that is sometimes used to treat anxiety disorders, but it is not the first-line treatment for panic disorder.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "college",
+      "type": "T073",
+      "umls_id": "C0557806",
+      "score": 0.9769022464752197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An institution of higher education created to educate and grant degrees; often a part of a university."
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "intermittent chest",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.8137977719306946,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "explode",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "feels shakiness",
+      "type": "T033",
+      "umls_id": "C0392703",
+      "score": 0.7738484740257263,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Unsteadiness or trembling movements of the whole body or a body part."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "sweats",
+      "type": "T031",
+      "umls_id": "C0038984",
+      "score": 0.9837480187416077,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The fluid excreted by the SWEAT GLANDS. It consists of water containing sodium chloride, phosphate, urea, ammonia, and other waste products."
+    },
+    {
+      "text": "shirt",
+      "type": "T073",
+      "umls_id": "C0453917",
+      "score": 0.9914630055427551,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "precipitating factors",
+      "type": "T201",
+      "umls_id": "C0032930",
+      "score": 0.9764937162399292,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Factors associated with the definitive onset of a disease, illness, accident, behavioral response, or course of action. Usually one factor is more important or more obviously recognizable than others, if several are involved, and one may often be regarded as \"necessary\". Examples include exposure to specific disease; amount or level of an infectious organism, drug, or noxious agent, etc."
+    },
+    {
+      "text": "thinks",
+      "type": "T041",
+      "umls_id": "C0039869",
+      "score": 0.966398298740387,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Mental activity that is not predominantly perceptual by which one apprehends some aspect of an object or situation based on past learning and experience."
+    },
+    {
+      "text": "exams",
+      "type": "T060",
+      "umls_id": "C0750862",
+      "score": 0.817666232585907,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A systematic evaluation of the mouth, face, and neck, which may include tooth counting, cleaning and visual assessments for abnormalities such as caries, gum disease, oral cancer, and structural malformations."
+    },
+    {
+      "text": "big school projects",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "recur",
+      "type": "T067",
+      "umls_id": "C0034897",
+      "score": 0.9820318818092346,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Happening again (especially at regular intervals)."
+    },
+    {
+      "text": "anxiety",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9637579321861267,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "class",
+      "type": "T170",
+      "umls_id": "C0456387",
+      "score": 0.9968394637107849,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A grouping of things based on shared common attributes."
+    },
+    {
+      "text": "restaurant",
+      "type": "T073",
+      "umls_id": "C0035255",
+      "score": 0.9652402400970459,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An establishment where meals are cooked, sold and served to customers."
+    },
+    {
+      "text": "result",
+      "type": "T169",
+      "umls_id": "C1274040",
+      "score": 0.9741731882095337,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The result of an action."
+    },
+    {
+      "text": "house less",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.7354801297187805,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "less",
+      "type": "T081",
+      "umls_id": "C0439092",
+      "score": 0.9943660497665405,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A statement about the relative size or order of two objects specifying that an object of interest is smaller than another object in quantity or measure or value or status."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "long-term",
+      "type": "T079",
+      "umls_id": "C0443252",
+      "score": 0.9621292948722839,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Involving or being in effect for a long time."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "23-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

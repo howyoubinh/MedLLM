@@ -1,0 +1,254 @@
+{
+  "original_data": {
+    "question": "Please refer to the summary above to answer this question\nThe authors of the study have decided to conduct a follow-up analysis on their data. They decide to stratify their results by CD4+T-lymphocyte count at the time of diagnosis. Among patients with CD4+ cell counts below 200/mm3, cART adherence was a significant predictor of DLBCL risk (RR = 0.52, p = 0.01). However, among patients with CD4+ cell counts above 200/mm3, no relationship was found between DLBCL risk and cART adherence (RR = 0.96, p = 0.36). Which of the following explains for the difference observed between the two strata?\"",
+    "options": {
+      "A": "Poor generalizability",
+      "B": "Stratified sampling",
+      "C": "Random error",
+      "D": "Effect modification"
+    }
+  },
+  "model_response": "Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Please refer",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "summary",
+      "type": "T170",
+      "umls_id": "C1552616",
+      "score": 0.9660009741783142,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>Represents a 'summary' of all acts that have occurred or were scheduled to occur and which are scheduled to occur in the future. The effectiveTime represents the outer boundary of all occurrences, repeatNumber represents the total number of repetitions, etc.</p>"
+    },
+    {
+      "text": "authors",
+      "type": "T097",
+      "umls_id": "C3812881",
+      "score": 0.993265688419342,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "The writer of a book, article, or other text."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "follow-up analysis",
+      "type": "T058",
+      "umls_id": "C1522577",
+      "score": 0.7040854096412659,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The process by which information about the health status of an individual is obtained after a study has officially closed; an activity that continues something that has already begun or that repeats something that has already been done."
+    },
+    {
+      "text": "data",
+      "type": "T078",
+      "umls_id": "C1511726",
+      "score": 0.995295524597168,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collection or single item of factual information, derived from measurement or research, from which conclusions may be drawn."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "CD4+T-lymphocyte",
+      "type": "T025",
+      "umls_id": "C0039215",
+      "score": 0.8340021967887878,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A critical subpopulation of T-lymphocytes involved in the induction of most immunological functions. The HIV virus has selective tropism for the T4 cell which expresses the CD4 phenotypic marker, a receptor for HIV. In fact, the key element in the profound immunosuppression seen in HIV infection is the depletion of this subset of T-lymphocytes."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "CD4+ cell counts",
+      "type": "T059",
+      "umls_id": "C0243009",
+      "score": 0.9527738094329834,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of CD4-POSITIVE T-LYMPHOCYTES per unit volume of BLOOD. Determination requires the use of a fluorescence-activated flow cytometer."
+    },
+    {
+      "text": "200/mm3",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cART",
+      "type": "T073",
+      "umls_id": "C0179636",
+      "score": 0.9901036620140076,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Mobile equipment designed for transportation, storage, organization, and distribution (supply) of a variety of products, materials, and devices. Carts typically consist of either an open or closed (cabinet-like) structure that may include shelves, drawers, boxes, and/or compartments. They are mounted on medium or large (usually at least 7.5 cm/3 in) wheel casters to facilitate their mobility through the healthcare facility. The configuration, size, strength, and materials used to manufacture the carts (e.g., solid metal, wire, hard plastic) should be appropriate for the intended use; carts are usually moved manually but electrically (battery) operated carts are also available. Most carts are used in healthcare facilities for the storage and transport of medical devices, drugs, utensils, and food from a central location (e.g., central supply) to the area of use or are used inside a department or area of the facility. They are also used to facilitate the performance of medical treatments and/or associated procedures (e.g., anesthesia, resuscitation, endoscopy) and for the general transport of chemicals, ancillary devices, and miscellaneous materials. Some carts may be used for the filing and transport of documents such as medical and/or administrative records and cards. Dedicated carts intended for use in magnetic resonance imaging (MRI) environments are also available. Mobile cabinets and/or racks with small wheels (typically a diameter of 5 cm/2 in or less) intended to facilitate their location inside a room are not considered carts."
+    },
+    {
+      "text": "adherence",
+      "type": "T169",
+      "umls_id": "C1510802",
+      "score": 0.9777334928512573,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of abiding by a stated treatment plan or protocol."
+    },
+    {
+      "text": "predictor",
+      "type": "T078",
+      "umls_id": "C2698872",
+      "score": 0.9828299880027771,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Information or variable that supports a probabilistic estimate of future events."
+    },
+    {
+      "text": "DLBCL risk",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "RR",
+      "type": "T033",
+      "umls_id": "C4554402",
+      "score": 0.999627947807312,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "CD4+ cell counts",
+      "type": "T059",
+      "umls_id": "C0243009",
+      "score": 0.9527738094329834,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of CD4-POSITIVE T-LYMPHOCYTES per unit volume of BLOOD. Determination requires the use of a fluorescence-activated flow cytometer."
+    },
+    {
+      "text": "200/mm3",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "relationship",
+      "type": "T080",
+      "umls_id": "C0439849",
+      "score": 0.9485417008399963,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of connectedness between people, objects, or events; to be associated or connected with something."
+    },
+    {
+      "text": "DLBCL",
+      "type": "T191",
+      "umls_id": "C0079744",
+      "score": 0.9822413325309753,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Malignant lymphoma composed of large B lymphoid cells whose nuclear size can exceed normal macrophage nuclei, or more than twice the size of a normal lymphocyte. The pattern is predominantly diffuse. Most of these lymphomas represent the malignant counterpart of B-lymphocytes at midstage in the process of differentiation."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "cART",
+      "type": "T073",
+      "umls_id": "C0179636",
+      "score": 0.9901036620140076,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Mobile equipment designed for transportation, storage, organization, and distribution (supply) of a variety of products, materials, and devices. Carts typically consist of either an open or closed (cabinet-like) structure that may include shelves, drawers, boxes, and/or compartments. They are mounted on medium or large (usually at least 7.5 cm/3 in) wheel casters to facilitate their mobility through the healthcare facility. The configuration, size, strength, and materials used to manufacture the carts (e.g., solid metal, wire, hard plastic) should be appropriate for the intended use; carts are usually moved manually but electrically (battery) operated carts are also available. Most carts are used in healthcare facilities for the storage and transport of medical devices, drugs, utensils, and food from a central location (e.g., central supply) to the area of use or are used inside a department or area of the facility. They are also used to facilitate the performance of medical treatments and/or associated procedures (e.g., anesthesia, resuscitation, endoscopy) and for the general transport of chemicals, ancillary devices, and miscellaneous materials. Some carts may be used for the filing and transport of documents such as medical and/or administrative records and cards. Dedicated carts intended for use in magnetic resonance imaging (MRI) environments are also available. Mobile cabinets and/or racks with small wheels (typically a diameter of 5 cm/2 in or less) intended to facilitate their location inside a room are not considered carts."
+    },
+    {
+      "text": "adherence",
+      "type": "T169",
+      "umls_id": "C1510802",
+      "score": 0.9777334928512573,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of abiding by a stated treatment plan or protocol."
+    },
+    {
+      "text": "RR",
+      "type": "T033",
+      "umls_id": "C4554402",
+      "score": 0.999627947807312,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "strata",
+      "type": "UNKNOWN"
+    }
+  ]
+}

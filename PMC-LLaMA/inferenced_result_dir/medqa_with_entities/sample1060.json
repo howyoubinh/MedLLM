@@ -1,0 +1,307 @@
+{
+  "original_data": {
+    "question": "A 3550-g (7.8-lb) male newborn is delivered at term to a 27-year-old, gravida 1, para 1 woman (Rh+). Within the first 24 hours after birth, the newborn develops fever and a yellow discoloration of skin and sclerae. Examination shows loss of flexion in the extremities, splenomegaly, and cyanosis. Laboratory studies show decreased haptoglobin levels and increased LDH levels. A photomicrograph of a peripheral blood smear is shown. Which of the following is most likely involved in the pathogenesis of this patient's condition?",
+    "options": {
+      "A": "Decrease in the reduced form of glutathione",
+      "B": "Maternal antibodies against the rhesus D antigen",
+      "C": "Deficiency of ATP",
+      "D": "Osmotically fragile erythrocytes"
+    }
+  },
+  "model_response": "Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "gravida 1",
+      "type": "T033",
+      "umls_id": "C0860096",
+      "score": 0.9852546453475952,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Rh+",
+      "type": "T185",
+      "umls_id": "C2699078",
+      "score": 0.9645884037017822,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A blood group indicating the presence on erythrocytes of the Rh D form of the Rhesus antigen."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "newborn develops",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "yellow discoloration of",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.7703702449798584,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sclerae",
+      "type": "T023",
+      "umls_id": "C0036410",
+      "score": 0.7827492356300354,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The white, opaque, fibrous, outer tunic of the eyeball, covering it entirely excepting the segment covered anteriorly by the cornea. It is essentially avascular but contains apertures for vessels, lymphatics, and nerves. It receives the tendons of insertion of the extraocular muscles and at the corneoscleral junction contains the CANAL OF SCHLEMM. (From Cline et al., Dictionary of Visual Science, 4th ed)"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "flexion",
+      "type": "T060",
+      "umls_id": "C1627359",
+      "score": 0.8092179894447327,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tests for iliosacral or sacroiliac somatic dysfunction."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "splenomegaly",
+      "type": "T033",
+      "umls_id": "C0038002",
+      "score": 0.9828366041183472,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the spleen."
+    },
+    {
+      "text": "cyanosis",
+      "type": "T184",
+      "umls_id": "C0010520",
+      "score": 0.9791967868804932,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A bluish or purplish discoloration of the skin and mucous membranes due to an increase in the amount of deoxygenated hemoglobin in the blood or a structural defect in the hemoglobin molecule."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "haptoglobin",
+      "type": "T116",
+      "umls_id": "C0018595",
+      "score": 0.9826743006706238,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Plasma glycoproteins that form a stable complex with hemoglobin to aid the recycling of heme iron. They are encoded in man by a gene on the short arm of chromosome 16."
+    },
+    {
+      "text": "levels",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882259964942932,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "LDH",
+      "type": "T033",
+      "umls_id": "C0851148",
+      "score": 0.9985255002975464,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "levels",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882259964942932,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "photomicrograph",
+      "type": "T059",
+      "umls_id": "C0031753",
+      "score": 0.895453155040741,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Photography of objects viewed under a microscope using ordinary photographic methods."
+    },
+    {
+      "text": "peripheral blood smear",
+      "type": "T031",
+      "umls_id": "C0229664",
+      "score": 0.8488079905509949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood."
+    },
+    {
+      "text": "pathogenesis",
+      "type": "T046",
+      "umls_id": "C0699748",
+      "score": 0.9826036691665649,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "OBSOLETE. The set of specific processes that generate the ability of an organism to induce an abnormal, generally detrimental state in another organism. [GOC:go_curators]"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "original_data": {
+    "question": "A 74-year-old man has been treated for prostate cancer for the past 6 months. He is on an experimental drug (drug X) that is used to reduce the action of testosterone by blocking the androgen receptor. Since the initiation of therapy, the growth of the cancerous tissue has slowed. This medication is known to be excreted by the kidneys at the current dose that he is taking. The patient has no significant complaints, except for excessive sweating at times. On physical examination, a small area of tissue around his nipples is enlarged bilaterally. No other abnormal findings are present. Which of the following drugs most likely belongs to be the same class as drug X?",
+    "options": {
+      "A": "Leuprolide",
+      "B": "Finasteride",
+      "C": "Flutamide",
+      "D": "Anastrozole"
+    }
+  },
+  "model_response": "The medication is likely flutamide, which is an anti-androgen. The excessive sweating is a common side effect of flutamide. Leuprolide is a GnRH agonist. Finasteride is a 5-a-reductase inhibitor. Anastrozole is an aromatase inhibitor.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "prostate cancer",
+      "type": "T191",
+      "umls_id": "C0376358",
+      "score": 0.9910537004470825,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant tumor involving the prostate gland. The vast majority are carcinomas."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "experimental drug",
+      "type": "T121",
+      "umls_id": "C0304229",
+      "score": 0.9604276418685913,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drug X",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8902970552444458,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "reduce",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.7874446511268616,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "testosterone",
+      "type": "T109",
+      "umls_id": "C0039601",
+      "score": 0.9883452653884888,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A potent androgenic steroid and major product secreted by the LEYDIG CELLS of the TESTIS. Its production is stimulated by LUTEINIZING HORMONE from the PITUITARY GLAND. In turn, testosterone exerts feedback control of the pituitary LH and FSH secretion. Depending on the tissues, testosterone can be further converted to DIHYDROTESTOSTERONE or ESTRADIOL."
+    },
+    {
+      "text": "blocking",
+      "type": "T048",
+      "umls_id": "C0233660",
+      "score": 0.9734880328178406,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Difficulty in recollection, or interruption of a train of thought or speech, due to emotional factors."
+    },
+    {
+      "text": "androgen receptor",
+      "type": "T116",
+      "umls_id": "C0034786",
+      "score": 0.9871552586555481,
+      "semantic_types": [
+        "T116",
+        "T192"
+      ],
+      "definition": "Proteins, generally found in the CYTOPLASM, that specifically bind ANDROGENS and mediate their cellular actions. The complex of the androgen and receptor migrates to the CELL NUCLEUS where it induces transcription of specific segments of DNA."
+    },
+    {
+      "text": "initiation",
+      "type": "T041",
+      "umls_id": "C0589507",
+      "score": 0.9724355340003967,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "growth",
+      "type": "T040",
+      "umls_id": "C0018270",
+      "score": 0.9836363792419434,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Gradual increase in the number, the size, and the complexity of cells of an individual. Growth generally results in increase in ORGAN WEIGHT; BODY WEIGHT; and BODY HEIGHT."
+    },
+    {
+      "text": "cancerous tissue",
+      "type": "T024",
+      "umls_id": "C4054159",
+      "score": 0.7117251753807068,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "The transfer of premalignant tissue from one anatomic site to another, within the same individual or between individuals."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "excreted",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "kidneys",
+      "type": "T023",
+      "umls_id": "C0022646",
+      "score": 0.9909534454345703,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Body organ that filters blood for the secretion of URINE and that regulates ion concentrations."
+    },
+    {
+      "text": "dose",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.9949097037315369,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "excessive",
+      "type": "T080",
+      "umls_id": "C0442802",
+      "score": 0.9763246774673462,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Beyond normal limits; unrestrained."
+    },
+    {
+      "text": "sweating",
+      "type": "T033",
+      "umls_id": "C0038990",
+      "score": 0.9434435963630676,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The process of exocrine secretion of the SWEAT GLANDS, including the aqueous sweat from the ECCRINE GLANDS and the complex viscous fluids of the APOCRINE GLANDS."
+    },
+    {
+      "text": "times",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9879130721092224,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "small area",
+      "type": "T062",
+      "umls_id": "C0085564",
+      "score": 0.7459456920623779,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A method of analyzing the variation in utilization of health care in small geographic or demographic areas. It often studies, for example, the usage rates for a given service or procedure in several small areas, documenting the variation among the areas. By comparing high- and low-use areas, the analysis attempts to determine whether there is a pattern to such use and to identify variables that are associated with and contribute to the variation."
+    },
+    {
+      "text": "tissue",
+      "type": "T024",
+      "umls_id": "C0040300",
+      "score": 0.9971153736114502,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Collections of differentiated CELLS, such as EPITHELIUM; CONNECTIVE TISSUE; MUSCLES; and NERVE TISSUE. Tissues are cooperatively arranged to form organs with specialized functions such as RESPIRATION; DIGESTION; REPRODUCTION; MOVEMENT; and others."
+    },
+    {
+      "text": "nipples",
+      "type": "T023",
+      "umls_id": "C0028109",
+      "score": 0.9788908958435059,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The conic organs which usually give outlet to milk from the mammary glands."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "class",
+      "type": "T170",
+      "umls_id": "C0456387",
+      "score": 0.9968394637107849,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A grouping of things based on shared common attributes."
+    },
+    {
+      "text": "drug X",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.8902970552444458,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "74-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "original_data": {
+    "question": "A 6-year-old boy presents with fever, malaise, and intense pain in the anterior neck. His vital signs include: body temperature 39.0°C (102.2°F), heart rate 120/min, and respiratory rate 18/min and regular. On physical examination, there is erythema, tenderness and enlargement of the thyroid gland that is worse on the left. Pain is worsened during neck hyperextension and relieved during neck flexion. Thyroid function tests are within normal limits. An ultrasound of the thyroid gland reveals a unifocal perithyroidal hypoechoic space. Which of the following is the most likely mechanism underlying this patient’s condition?",
+    "options": {
+      "A": "Postviral inflammatory process",
+      "B": "Pyriform sinus fistula",
+      "C": "Antithyroid peroxidase (TPO)",
+      "D": "Autoantibodies to the thyrotropin receptor (TRAb)"
+    }
+  },
+  "model_response": "The patient has subacute granulomatous (de Quervain) thyroiditis, which is a self-limited condition that follows a viral infection. The inflammation causes pain and hyperfunction of the gland, with excessive release of thyroid hormone. The pain is relieved by treatment with aspirin or coicosteroids. The other choices are not related to viral infections.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "intense pain",
+      "type": "T080",
+      "umls_id": "C0522510",
+      "score": 0.7869507670402527,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The degree or magnitude of strength, energy, or feeling."
+    },
+    {
+      "text": "anterior",
+      "type": "T082",
+      "umls_id": "C0205094",
+      "score": 0.984691858291626,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Of or involving the front of a main body."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "body temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.981837272644043,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "regular",
+      "type": "T080",
+      "umls_id": "C0205272",
+      "score": 0.9910162687301636,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Customary, usual, or at fixed intervals; conforming to a standard or pattern."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "erythema",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9885126948356628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "enlargement",
+      "type": "T046",
+      "umls_id": "C0020564",
+      "score": 0.9555201530456543,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "General increase in bulk of a part or organ due to CELL ENLARGEMENT and accumulation of FLUIDS AND SECRETIONS, not due to tumor formation, nor to an increase in the number of cells (HYPERPLASIA)."
+    },
+    {
+      "text": "thyroid gland",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9855895638465881,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "left",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9974963068962097,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "Pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "worsened",
+      "type": "T033",
+      "umls_id": "C1457868",
+      "score": 0.981609582901001,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "In an declined condition."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "hyperextension",
+      "type": "T033",
+      "umls_id": "C0231451",
+      "score": 0.9758809804916382,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A finding indicating that joints, muscles, and/or tendons can extend beyond their normal limit."
+    },
+    {
+      "text": "neck flexion",
+      "type": "T033",
+      "umls_id": "C0445088",
+      "score": 0.9609493017196655,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Thyroid function tests",
+      "type": "T059",
+      "umls_id": "C0040130",
+      "score": 0.9758608937263489,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Blood tests used to evaluate the functioning of the thyroid gland."
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "thyroid gland",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9855895638465881,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "unifocal",
+      "type": "T082",
+      "umls_id": "C0443337",
+      "score": 0.9555628299713135,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Arising from, pertaining to, or having a single location."
+    },
+    {
+      "text": "perithyroidal",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "6-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

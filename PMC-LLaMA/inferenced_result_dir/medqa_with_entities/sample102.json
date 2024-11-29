@@ -1,0 +1,95 @@
+{
+  "original_data": {
+    "question": "The patient is given prophylactic labetalol and magnesium sulfate. Examination shows absent deep tendon reflexes bilaterally. Which of the following is the most appropriate next step in the management of this patient?",
+    "options": {
+      "A": "Stop magnesium sulfate and give calcium gluconate",
+      "B": "Stop labetalol",
+      "C": "Stop magnesium sulfate and give lorazepam",
+      "D": "Perform nerve conduction studies"
+    }
+  },
+  "model_response": "{'R': 'Stop magnesium sulfate and give calcium gluconate', 'Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "prophylactic labetalol",
+      "type": "T074",
+      "umls_id": "C0009653",
+      "score": 0.746307909488678,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A sheath that is worn over the penis during sexual behavior in order to prevent pregnancy or spread of sexually transmitted disease."
+    },
+    {
+      "text": "magnesium sulfate",
+      "type": "T121",
+      "umls_id": "C0024480",
+      "score": 0.9765406847000122,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A small colorless crystal used as an anticonvulsant, a cathartic, and an electrolyte replenisher in the treatment of pre-eclampsia and eclampsia. It causes direct inhibition of action potentials in myometrial muscle cells. Excitation and contraction are uncoupled, which decreases the frequency and force of contractions. (From AMA Drug Evaluations Annual, 1992, p1083)"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "deep tendon reflexes",
+      "type": "T201",
+      "umls_id": "C0489815",
+      "score": 0.9582180380821228,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Contraction of a muscle triggered by a signal from a muscle spindle in response to a stimulus applied to a specific trigger point on the body. The strength of the response can provide insight into central and peripheral nerve performance."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    }
+  ]
+}

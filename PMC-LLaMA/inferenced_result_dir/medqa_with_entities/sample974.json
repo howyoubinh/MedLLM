@@ -1,0 +1,539 @@
+{
+  "original_data": {
+    "question": "A 45-year-old man presents to the doctor’s office with shortness of breath, cough, and fatigue for 3 days. This has been progressively worsening. He has a medical history significant for chronic obstructive pulmonary disease and osteoarthritis. He takes albuterol, ipratropium and aspirin. He smoked 2 and a half packs per day, and had done so for the past 26 years. After ceasing tobacco use for 1 year, he has recently begun smoking again. The blood pressure is 138/88 mm Hg, the respiratory rate is 12/min, the heart rate is 76/min, and the pulse oximetry is 87% on room air. On physical examination, the patient appears disoriented and is only somewhat comprehensible. The pupils are equal, round, and reactive to light with extraocular movements intact. Cranial nerves VII-XII also intact. The auscultation of the heart is absent of murmur, rubs, or gallops. The auscultation of the lungs demonstrate audible rales in the bases bilaterally. Which of the stages of change is the patient currently experiencing based on the clinical vignette?",
+    "options": {
+      "A": "Precontemplation",
+      "B": "Contemplation",
+      "C": "Maintenance",
+      "D": "Relapse"
+    }
+  },
+  "model_response": "The patient is currently experiencing relapse. Relapse is when a person returns to smoking after having quit for 6 months or longer. This patient quit for 1 year, but recently began smoking again.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "doctor’s office",
+      "type": "T073",
+      "umls_id": "C0031834",
+      "score": 0.9551956057548523,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "The room or rooms in which the physician and staff provide patient care. The offices include all rooms in the physician's office suite."
+    },
+    {
+      "text": "shortness of breath",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9651163220405579,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "cough",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9633718132972717,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history significant",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.7499127984046936,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "chronic obstructive pulmonary disease",
+      "type": "T047",
+      "umls_id": "C0024117",
+      "score": 0.9868457913398743,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease of chronic diffuse irreversible airflow obstruction. Subcategories of COPD include CHRONIC BRONCHITIS and PULMONARY EMPHYSEMA."
+    },
+    {
+      "text": "osteoarthritis",
+      "type": "T047",
+      "umls_id": "C0029408",
+      "score": 0.9689512848854065,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative joint disease, the most common form of arthritis, especially in older persons. The disease is thought to result not from the aging process but from biochemical changes and biomechanical stresses affecting articular cartilage. In the foreign literature it is often called osteoarthrosis deformans."
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "ipratropium",
+      "type": "T109",
+      "umls_id": "C0027235",
+      "score": 0.9573537707328796,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A muscarinic antagonist structurally related to ATROPINE but often considered safer and more effective for inhalation use. It is used for various bronchial disorders, in rhinitis, and as an antiarrhythmic."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "packs",
+      "type": "T074",
+      "umls_id": "C0441122",
+      "score": 0.9747228026390076,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "tobacco",
+      "type": "T109",
+      "umls_id": "C0040329",
+      "score": 0.9707451462745667,
+      "semantic_types": [
+        "T109",
+        "T131"
+      ],
+      "definition": "Substances and products derived from NICOTIANA TABACUM."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "begun smoking",
+      "type": "T055",
+      "umls_id": "C0037369",
+      "score": 0.7355359792709351,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Willful or deliberate act of inhaling and exhaling SMOKE from burning substances or agents held by hand."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "disoriented",
+      "type": "T184",
+      "umls_id": "C0233407",
+      "score": 0.990799069404602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "comprehensible",
+      "type": "T041",
+      "umls_id": "C0162340",
+      "score": 0.7728621363639832,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or fact of grasping the meaning, nature, or importance of; understanding. (American Heritage Dictionary, 4th ed) Includes understanding by a patient or research subject of information disclosed orally or in writing."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "round",
+      "type": "T082",
+      "umls_id": "C0332490",
+      "score": 0.9902244806289673,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The shape of a circle."
+    },
+    {
+      "text": "reactive",
+      "type": "T080",
+      "umls_id": "C0205332",
+      "score": 0.9803516864776611,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>A presence finding used to indicate that the specified component / analyte reacted with the reagent above the reliably measurable limit of the performed test.</p>"
+    },
+    {
+      "text": "extraocular",
+      "type": "T169",
+      "umls_id": "C0241886",
+      "score": 0.9607911109924316,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Situated outside of the eye."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "Cranial nerves",
+      "type": "T023",
+      "umls_id": "C0010268",
+      "score": 0.9829726815223694,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Twelve pairs of nerves that carry general afferent, visceral afferent, special afferent, somatic efferent, and autonomic efferent fibers."
+    },
+    {
+      "text": "VII-XII",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "heart",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9954424500465393,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "rubs",
+      "type": "T033",
+      "umls_id": "C0232267",
+      "score": 0.9888054132461548,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An auscultated finding describing high or medium pitched and scratchy sound, generated by inflammation of the pericardial sac. (ACC-AHA)"
+    },
+    {
+      "text": "gallops",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "rales",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9883856773376465,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "bases",
+      "type": "T120",
+      "umls_id": "C0178499",
+      "score": 0.9777577519416809,
+      "semantic_types": [
+        "T120"
+      ],
+      "definition": "A substance that dissociates to give hydroxide ions in aqueous solutions; a substance capable of donating a pair of electrons (to an acid) for the formation of a coordinate covalent bond; a substance whose molecule or ion can combine with a proton (hydrogen ion); a substance that combines with acids to form salts."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "stages",
+      "type": "T079",
+      "umls_id": "C1306673",
+      "score": 0.9765017628669739,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any distinct time period in a sequence of events."
+    },
+    {
+      "text": "change",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9974815845489502,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "clinical",
+      "type": "T080",
+      "umls_id": "C0205210",
+      "score": 0.977976381778717,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Relating to the examination and treatment of patients dependent on direct observation. The term may also refer to the institution (clinic) providing this activity."
+    },
+    {
+      "text": "vignette",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

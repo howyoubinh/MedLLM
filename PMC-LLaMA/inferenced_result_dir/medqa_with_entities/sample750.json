@@ -1,0 +1,317 @@
+{
+  "original_data": {
+    "question": "A 34-year-old man with acute lymphocytic leukemia presents for follow-up in the oncology clinic after his second cycle of chemotherapy. In addition to intermittent nausea, he has mild weakness, tingling, and numbness in his left hand. With his affected hand, he is able to grip, but occasionally drops small objects. His oncologist tells him that one of his chemotherapy agents likely caused his neuropathy given its strong association with neurotoxicity. He was recently treated with cyclophosphamide, vincristine, doxorubicin, dexamethasone, and dasatinib. The culprit medication works by which of the following mechanisms of action?",
+    "options": {
+      "A": "Covalently X-links DNA",
+      "B": "Blocks microtubule formation",
+      "C": "Intercalates between DNA",
+      "D": "Modifies DNA transcription and protein synthesis"
+    }
+  },
+  "model_response": "The patient's symptoms are consistent with a peripheral neuropathy, which is a common side effect of the chemotherapy agent vincristine. Vincristine works by inhibiting the formation of microtubules in growing cells, thereby disrupting mitosis and ultimately leading to cell death. The other listed mechanisms of action are not associated with vincristine. Cyclophosphamide is an alkylating agent that covalently links DNA, doxorubicin is a topoisomerase inhibitor that intercalates between DNA strands, and dasatinib is a tyrosine kinase inhibitor that modifies DNA transcription and protein synthesis.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "acute lymphocytic leukemia",
+      "type": "T191",
+      "umls_id": "C0023449",
+      "score": 0.9791093468666077,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Leukemia with an acute onset, characterized by the presence of lymphoblasts in the bone marrow and the peripheral blood. It includes the acute B lymphoblastic leukemia and acute T lymphoblastic leukemia."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oncology clinic",
+      "type": "T073",
+      "umls_id": "C3839015",
+      "score": 0.9905040860176086,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chemotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9887933135032654,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "mild weakness",
+      "type": "T033",
+      "umls_id": "C2749419",
+      "score": 0.9770436882972717,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tingling",
+      "type": "T047",
+      "umls_id": "C0030554",
+      "score": 0.9621715545654297,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Subjective cutaneous sensations (e.g., cold, warmth, tingling, pressure, etc.) that are experienced spontaneously in the absence of stimulation."
+    },
+    {
+      "text": "numbness",
+      "type": "T033",
+      "umls_id": "C0020580",
+      "score": 0.9541221857070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Absent or reduced sensitivity to cutaneous stimulation."
+    },
+    {
+      "text": "left hand",
+      "type": "T023",
+      "umls_id": "C0230371",
+      "score": 0.9930857419967651,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "affected",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.980024516582489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "grip",
+      "type": "T047",
+      "umls_id": "C0021400",
+      "score": 0.991534948348999,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute viral infection of the respiratory tract, occurring in isolated cases, in epidemics, or in pandemics; it is caused by serologically different strains of viruses (influenzaviruses) designated A, B, and C, has a 3-day incubation period, and usually lasts for 3 to 10 days. It is marked by inflammation of the nasal mucosa, pharynx, and conjunctiva; headache; myalgia; often fever, chills, and prostration; and occasionally involvement of the myocardium or central nervous system."
+    },
+    {
+      "text": "drops",
+      "type": "T122",
+      "umls_id": "C0991568",
+      "score": 0.9908820986747742,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A substance intended for administration in a drop-wise fashion."
+    },
+    {
+      "text": "oncologist",
+      "type": "T097",
+      "umls_id": "C0259990",
+      "score": 0.9849529266357422,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Physicians specializing in MEDICAL ONCOLOGY or its sub-specialties of RADIATION ONCOLOGY or SURGICAL ONCOLOGY."
+    },
+    {
+      "text": "tells",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "chemotherapy agents",
+      "type": "T109",
+      "umls_id": "C0003392",
+      "score": 0.8840247392654419,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Substances that inhibit or prevent the proliferation of NEOPLASMS."
+    },
+    {
+      "text": "neuropathy",
+      "type": "T047",
+      "umls_id": "C0442874",
+      "score": 0.9947786927223206,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disorder affecting the cranial nerves or the peripheral nervous system. It manifests with pain, tingling, numbness, and muscle weakness. It may be the result of physical injury, toxic substances, viral diseases, diabetes, renal failure, cancer, and drugs."
+    },
+    {
+      "text": "association with",
+      "type": "T041",
+      "umls_id": "C0004083",
+      "score": 0.8281302452087402,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A functional relationship between psychological phenomena of such nature that the presence of one tends to evoke the other; also, the process by which such a relationship is established."
+    },
+    {
+      "text": "neurotoxicity",
+      "type": "T037",
+      "umls_id": "C0235032",
+      "score": 0.9887475371360779,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Neurologic disorders caused by exposure to toxic substances through ingestion, injection, cutaneous application, or other method. This includes conditions caused by biologic, chemical, and pharmaceutical agents."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cyclophosphamide",
+      "type": "T109",
+      "umls_id": "C0010583",
+      "score": 0.9904544353485107,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Precursor of an alkylating nitrogen mustard antineoplastic and immunosuppressive agent that must be activated in the LIVER to form the active aldophosphamide. It has been used in the treatment of LYMPHOMA and LEUKEMIA. Its side effect, ALOPECIA, has been used for defleecing sheep. Cyclophosphamide may also cause sterility, birth defects, mutations, and cancer."
+    },
+    {
+      "text": "vincristine",
+      "type": "T109",
+      "umls_id": "C0042679",
+      "score": 0.9807707667350769,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antitumor alkaloid isolated from VINCA ROSEA. (Merck, 11th ed.)"
+    },
+    {
+      "text": "doxorubicin",
+      "type": "T109",
+      "umls_id": "C0013089",
+      "score": 0.976929783821106,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "Antineoplastic antibiotic obtained from Streptomyces peucetius. It is a hydroxy derivative of DAUNORUBICIN."
+    },
+    {
+      "text": "dexamethasone",
+      "type": "T109",
+      "umls_id": "C0011777",
+      "score": 0.9781883358955383,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An anti-inflammatory 9-fluoro-glucocorticoid."
+    },
+    {
+      "text": "dasatinib",
+      "type": "T109",
+      "umls_id": "C1455147",
+      "score": 0.9764398336410522,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An orally bioavailable synthetic small molecule-inhibitor of SRC-family protein-tyrosine kinases. Dasatinib binds to and inhibits the growth-promoting activities of these kinases. Apparently because of its less stringent binding affinity for the BCR-ABL kinase, dasatinib has been shown to overcome the resistance to imatinib of chronic myeloid leukemia (CML) cells harboring BCR-ABL kinase domain point mutations. SRC-family protein-tyrosine kinases interact with a variety of cell-surface receptors and participate in intracellular signal transduction pathways; tumorigenic forms can occur through altered regulation or expression of the endogenous protein and by way of virally-encoded kinase genes."
+    },
+    {
+      "text": "culprit",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

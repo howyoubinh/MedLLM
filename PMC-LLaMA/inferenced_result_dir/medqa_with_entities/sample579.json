@@ -1,0 +1,514 @@
+{
+  "original_data": {
+    "question": "A 59-year-old woman presents to her primary care provider complaining of diffuse bodily aches. She reports a 3-month history of gradually worsening pain in her shoulders and hips that is worse in her right hip. She has a history of hypertension and recurrent renal stones for which she takes lisinopril and hydrochlorothiazide. She was admitted to the hospital earlier in the year after falling in her front yard and sustaining a distal radius fracture and vertebral compression fracture. Her temperature is 98.5°F (36.9°C), blood pressure is 145/85 mmHg, pulse is 100/min, and respirations are 20/min. On exam, she is well-appearing with mild tenderness to palpation in her shoulders and hips. She has mild pain with hip flexion and shoulder abduction. She has full range of motion in her bilateral upper and lower extremities. Serum findings are notable for the following:\n\nSerum:\nNa+: 141 mEq/L\nCl-: 100 mEq/L\nK+: 4.8 mEq/L\nHCO3-: 22 mEq/L\nUrea nitrogen: 17 mg/dL\nGlucose: 110 mg/dL\nCreatinine: 1.12 mg/dL\nCa2+: 11.2 mg/dL\nPhosphate: 2.3 mg/dL\nMg2+: 1.9 mg/dL\nAlkaline phosphatase: 120 U/L\n\nA radiograph of this patient’s right hip would most likely reveal which of the following?",
+    "options": {
+      "A": "Expansile lytic lesion with thin sclerotic margins",
+      "B": "Medullary bone destruction with elevated periosteum from cortical bone",
+      "C": "Poorly marginated lesion extending into adjacent soft tissue",
+      "D": "Well-defined cystic lesion with peritrabecular fibrosis"
+    }
+  },
+  "model_response": "The correct answer is A. This patient’s laboratory studies show hypocalcemia with hyperphosphatemia and increased alkaline phosphatase. The combination of diffuse body aches, hypercalcemia, and a lytic lesion with thin sclerotic margins in the setting of renal osteodystrophy is consistent with metastatic bone disease. This patient has a history of breast cancer, which is a common cause of osteoblastic metastases.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care",
+      "type": "T058",
+      "umls_id": "C0033137",
+      "score": 0.9873015284538269,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care which provides integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community. (JAMA 1995;273(3):192)"
+    },
+    {
+      "text": "diffuse bodily aches",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gradually",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "shoulders",
+      "type": "T029",
+      "umls_id": "C0037004",
+      "score": 0.9912119507789612,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Part of the body in humans and primates where the arms connect to the trunk. The shoulder has five joints; ACROMIOCLAVICULAR joint, CORACOCLAVICULAR joint, GLENOHUMERAL joint, scapulathoracic joint, and STERNOCLAVICULAR joint."
+    },
+    {
+      "text": "hips",
+      "type": "T023",
+      "umls_id": "C0019552",
+      "score": 0.9943860173225403,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The projecting part on each side of the body, formed by the side of the pelvis and the top portion of the femur."
+    },
+    {
+      "text": "right hip",
+      "type": "T058",
+      "umls_id": "C0517667",
+      "score": 0.9855580925941467,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "renal stones",
+      "type": "T047",
+      "umls_id": "C0022650",
+      "score": 0.9814921617507935,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Stones in the KIDNEY, usually formed in the urine-collecting area of the kidney (KIDNEY PELVIS). Their sizes vary and most contains CALCIUM OXALATE."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "admitted to",
+      "type": "T058",
+      "umls_id": "C4482331",
+      "score": 0.977683424949646,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "falling",
+      "type": "T037",
+      "umls_id": "C0000921",
+      "score": 0.9731603264808655,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Falls due to slipping or tripping which may result in injury."
+    },
+    {
+      "text": "sustaining",
+      "type": "T169",
+      "umls_id": "C0443318",
+      "score": 0.983577311038971,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "distal radius fracture",
+      "type": "T037",
+      "umls_id": "C0748233",
+      "score": 0.9849000573158264,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vertebral compression fracture",
+      "type": "T046",
+      "umls_id": "C0262431",
+      "score": 0.9788752794265747,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "well-appearing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mild tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.8372025489807129,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "shoulders",
+      "type": "T029",
+      "umls_id": "C0037004",
+      "score": 0.9912119507789612,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Part of the body in humans and primates where the arms connect to the trunk. The shoulder has five joints; ACROMIOCLAVICULAR joint, CORACOCLAVICULAR joint, GLENOHUMERAL joint, scapulathoracic joint, and STERNOCLAVICULAR joint."
+    },
+    {
+      "text": "hips",
+      "type": "T023",
+      "umls_id": "C0019552",
+      "score": 0.9943860173225403,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The projecting part on each side of the body, formed by the side of the pelvis and the top portion of the femur."
+    },
+    {
+      "text": "mild pain",
+      "type": "T033",
+      "umls_id": "C0278138",
+      "score": 0.9774658679962158,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Score 1-3"
+    },
+    {
+      "text": "hip flexion",
+      "type": "T033",
+      "umls_id": "C2237371",
+      "score": 0.960648775100708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shoulder",
+      "type": "T029",
+      "umls_id": "C0037004",
+      "score": 0.9788573384284973,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Part of the body in humans and primates where the arms connect to the trunk. The shoulder has five joints; ACROMIOCLAVICULAR joint, CORACOCLAVICULAR joint, GLENOHUMERAL joint, scapulathoracic joint, and STERNOCLAVICULAR joint."
+    },
+    {
+      "text": "abduction",
+      "type": "T201",
+      "umls_id": "C4528334",
+      "score": 0.74195396900177,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "An assessment of joint flexibility that measures the movement of a body part pulling away from the midline of the body, in number of degrees."
+    },
+    {
+      "text": "motion",
+      "type": "T070",
+      "umls_id": "C0026597",
+      "score": 0.9588658809661865,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Physical motion, i.e., a change in position of a body or subject as a result of an external force. It is distinguished from MOVEMENT, a process resulting from biological activity."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "Na+",
+      "type": "T196",
+      "umls_id": "C0597484",
+      "score": 0.9633213877677917,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "chief cation of the extracellular body fluids."
+    },
+    {
+      "text": "Cl-",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "K+",
+      "type": "T121",
+      "umls_id": "C0597277",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "atom of potassium having a positive charge; potassium is the chief cation of muscle and most other cells (intracellular fluid)."
+    },
+    {
+      "text": "HCO3-",
+      "type": "T116",
+      "umls_id": "C0106269",
+      "score": 0.7160655856132507,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Electroneutral chloride bicarbonate exchangers that allow the exchange of BICARBONATE IONS exchange for CHLORIDE IONS across the cellular membrane. The action of specific antiporters in this class serve important functions such as allowing the efficient exchange of bicarbonate across red blood cell membranes as they passage through capillaries and the reabsorption of bicarbonate ions by the kidney."
+    },
+    {
+      "text": "Creatinine",
+      "type": "T109",
+      "umls_id": "C0010294",
+      "score": 0.9871318340301514,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The breakdown product of creatine, a constituent of muscle tissue, that is excreted by the kidney and whose serum level is used to evaluate kidney function."
+    },
+    {
+      "text": "Mg2",
+      "type": "T028",
+      "umls_id": "C1417500",
+      "score": 0.9548584222793579,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient’s right hip",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8518545627593994,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "59-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

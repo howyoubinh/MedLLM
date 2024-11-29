@@ -1,0 +1,502 @@
+{
+  "original_data": {
+    "question": "A 61-year-old man presents to the clinic with complaints of excessive thirst, frequent urination, and partial visual loss in both eyes for 1 day. His family history is significant for type 2 diabetes mellitus in his mother and cousin. His weight is 112 kg ( 246.9 lb), height 187 cm (6 ft 1 in), blood pressure: 150/90 mm Hg, heart rate: 89/min, respiratory rate: 14/min, and temperature: 36.7℃ (98.4℉). The physical examination is significant for dry skin, a pustular rash over the patient’s shoulders and back, an accentuated second heart sound (S2) best heard in the second intercostal space at the right sternal border, and distal loss of vibration sensitivity in both feet. A fundoscopic examination shows small red dots in the superficial retinal layers suggestive of microaneurysms. The HbA1c is 9% and the urinalysis shows the following:\nColor Pale yellow (light/pale-to-dark/deep amber)\nClarity Cloudy\npH 6.6\nSpecific gravity 1.010\nGlucose 199 mg/dl\nKetones None\nNitrites Negative\nLeukocyte esterase Negative\nBilirubin Negative\nUrinary bilirubin Traces\nRed blood cells 3 RBCs\nProtein 120 mg/d\nRBCs ≤ 2 RBCs/hpf\nWBCs 22 WBCs/hpf\nEpithelial cells 27 squamous epithelial cells/hpf\nCasts 5 hyaline casts/lpf\nCrystals Occasional\nBacteria None\nYeast Present\nWhich of the following statements best describes the cause of this patient’s glucosuria?",
+    "options": {
+      "A": "There is a disruption of primary active transport of glucose in the proximal renal tubules",
+      "B": "Secondary active transporters fail to completely reabsorb glucose in the renal tubules",
+      "C": "There is a disruption of passive transport of the glucose in the proximal renal tubules",
+      "D": "Glucosuria results from increased glomerular filtration rate"
+    }
+  },
+  "model_response": "The correct answer is B (Secondary active transporters fail to completely reabsorb glucose in the renal tubules): The patient in question is a case of secondary glucosuria. In secondary glucosuria, the renal tubular transporters are unable to completely reabsorb glucose in the renal tubules due to a higher concentration of glucose in the filtrate than can be reabsorbed. This is usually due to a high concentration of glucose in the blood entering the glomerulus. This is in contrast to primary glucosuria where the glomerular membrane is permeable to glucose and glucose is spilled into the urine due to a defect in the glomerular membrane.\n\nThe patient in question has diabetes mellitus. In diabetes mellitus, the plasma glucose concentration is elevated and hence the glomerular filtrate also has a higher concentration of glucose. The secondary active transporters fail to completely reabsorb glucose in the renal tubules leading to glucosuria.\n\nOption A is incorrect because there is no disruption of primary active transport of glucose in the proximal renal tubules.\n\nOption C is incorrect because there is no disruption of passive transport of the glucose in the proximal renal tubules.\n\nOption D is incorrect because glucosuria results from an increased glomerular filtration rate in diabetes mellitus and not from a disruption of passive transport of glucose in the renal tubules.\n\nOption B is also incorrect because the renal tubular transporters are unable to completely reabsorb glucose in the renal tubules due to a higher concentration of glucose in the filtrate than can be reabsorbed. This is usually due to a high concentration of glucose in the blood entering the glomerulus. This is in contrast to primary glucosuria where the glomerular membrane is permeable to glucose and glucose is spilled into the urine due to a defect in the glomerular membrane.\n\nThe correct answer is B (Secondary active transporters fail to completely reabsorb glucose in the renal tubules).\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "excessive",
+      "type": "T080",
+      "umls_id": "C0442802",
+      "score": 0.9763246774673462,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Beyond normal limits; unrestrained."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9745711088180542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "partial",
+      "type": "T081",
+      "umls_id": "C0728938",
+      "score": 0.9840030670166016,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Being or affecting only a part of something."
+    },
+    {
+      "text": "visual loss",
+      "type": "T184",
+      "umls_id": "C3665346",
+      "score": 0.9703202247619629,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A condition in which the ability to see is impaired."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "cousin",
+      "type": "T099",
+      "umls_id": "C0337580",
+      "score": 0.9784522652626038,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A child of your aunt or uncle or their descendents."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "dry skin",
+      "type": "T184",
+      "umls_id": "C0151908",
+      "score": 0.9698911905288696,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The pores are generally fine with a papery thin texture that feels dry to the touch. Usually flaky and dull looking."
+    },
+    {
+      "text": "pustular rash",
+      "type": "T184",
+      "umls_id": "C0085641",
+      "score": 0.9840624332427979,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Elevated skin lesions associated with the presence of purulent material."
+    },
+    {
+      "text": "patient’s shoulders",
+      "type": "T029",
+      "umls_id": "C0037004",
+      "score": 0.7677895426750183,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Part of the body in humans and primates where the arms connect to the trunk. The shoulder has five joints; ACROMIOCLAVICULAR joint, CORACOCLAVICULAR joint, GLENOHUMERAL joint, scapulathoracic joint, and STERNOCLAVICULAR joint."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "intercostal space",
+      "type": "T030",
+      "umls_id": "C0230136",
+      "score": 0.9669649600982666,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Space of compartment of trunk bounded by the upper and lower surfaces of two consecutive ribs."
+    },
+    {
+      "text": "right sternal border",
+      "type": "T030",
+      "umls_id": "C4068812",
+      "score": 0.9846299886703491,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "distal loss",
+      "type": "T082",
+      "umls_id": "C0205108",
+      "score": 0.7649926543235779,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated farthest from a point of attachment or origin, as of a limb or bone; or directed away from the midline of the body."
+    },
+    {
+      "text": "vibration",
+      "type": "T061",
+      "umls_id": "C0455941",
+      "score": 0.9607577323913574,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sensitivity",
+      "type": "T046",
+      "umls_id": "C0020517",
+      "score": 0.9969706535339355,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen."
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "fundoscopic examination",
+      "type": "T060",
+      "umls_id": "C0014245",
+      "score": 0.865857720375061,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures of applying ENDOSCOPES for disease diagnosis and treatment. Endoscopy involves passing an optical instrument through a small incision in the skin i.e., percutaneous; or through a natural orifice and along natural body pathways such as the digestive tract; and/or through an incision in the wall of a tubular structure or organ, i.e. transluminal, to examine or perform surgery on the interior parts of the body."
+    },
+    {
+      "text": "superficial retinal layers",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "microaneurysms",
+      "type": "T046",
+      "umls_id": "C0333101",
+      "score": 0.9767284989356995,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Aneurysm of the MICROVASCULATURE. Charcot-Bouchard aneurysms are aneurysms of the brain vasculature which is a common cause of CEREBRAL HEMORRHAGE. Retinal microaneurysm is an early diagnostic sign of DIABETIC RETINOPATHY."
+    },
+    {
+      "text": "HbA1c",
+      "type": "T116",
+      "umls_id": "C0019018",
+      "score": 0.9943989515304565,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Products of non-enzymatic reactions between GLUCOSE and HEMOGLOBIN A, occurring as a minor fraction of the hemoglobin components of human erythrocytes. Hemoglobin A1c is hemoglobin A with glucose covalently bound to the terminal VALINE of the beta chain. Glycated hemoglobin A is used as an index of the average blood sugar level over a lifetime of erythrocytes."
+    },
+    {
+      "text": "urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "Negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Urinary bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.7241885662078857,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "Red blood cells",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9857633709907532,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "RBCs\nProtein 120",
+      "type": "T116",
+      "umls_id": "C0033684",
+      "score": 0.7037438154220581,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein."
+    },
+    {
+      "text": "WBCs/hpf\n",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Epithelial cells",
+      "type": "T025",
+      "umls_id": "C0014597",
+      "score": 0.9835144281387329,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Cells that line the inner and outer surfaces of the body by forming cellular layers (EPITHELIUM) or masses. Epithelial cells lining the SKIN; the MOUTH; the NOSE; and the ANAL CANAL derive from ectoderm; those lining the RESPIRATORY SYSTEM and the DIGESTIVE SYSTEM derive from endoderm; others (CARDIOVASCULAR SYSTEM and LYMPHATIC SYSTEM) derive from mesoderm. Epithelial cells can be classified mainly by cell shape and function into squamous, glandular and transitional epithelial cells."
+    },
+    {
+      "text": "squamous epithelial cells/hpf\nCasts",
+      "type": "T025",
+      "umls_id": "C0221910",
+      "score": 0.7837921977043152,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A flat, scalelike cell of the skin or mucous membrane"
+    },
+    {
+      "text": "hyaline",
+      "type": "T031",
+      "umls_id": "C0020191",
+      "score": 0.9481644630432129,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A clear, homogenous, structureless, eosinophilic substance occurring in pathological degeneration of tissues."
+    },
+    {
+      "text": "casts/lpf\n",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Crystals",
+      "type": "T031",
+      "umls_id": "C0427896",
+      "score": 0.9867997765541077,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Occasional\nBacteria",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.7168658971786499,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "statements",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.8483113050460815,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "patient’s glucosuria",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "61-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

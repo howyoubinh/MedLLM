@@ -1,0 +1,223 @@
+{
+  "original_data": {
+    "question": "A 72-year-old woman presents to the emergency department with altered mental status. 90 minutes ago, the patient was found by a neighbor unarousable on the couch with multiple empty bottles of medication on the floor next to her. Social history is significant for alcohol abuse. Physical examination reveals an awake female with a fluctuating level of consciousness, not oriented to time or place. No focal neurologic deficits. Which of the following additional findings would most likely be present in this patient?",
+    "options": {
+      "A": "Hallucinations",
+      "B": "Irreversibility",
+      "C": "Multi-infarct dementia",
+      "D": "Normal vital signs"
+    }
+  },
+  "model_response": "The patient's altered mental status and the presence of empty pill bottles suggest an overdose of medication. The most common type of medication overdose in the elderly is analgesics. The most common type of analgesic overdose is with acetaminophen. The toxic dose of acetaminophen is 150 mg/kg, or 4 g for an adult female. The antidote for acetaminophen overdose is N-acetylcysteine. The other choices are not associated with acetaminophen overdose.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mental status",
+      "type": "T033",
+      "umls_id": "C0278060",
+      "score": 0.982847273349762,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "neighbor",
+      "type": "T098",
+      "umls_id": "C1553702",
+      "score": 0.9510049819946289,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "<p>The player of the role lives near or next to the scoping person.</p>"
+    },
+    {
+      "text": "bottles",
+      "type": "T073",
+      "umls_id": "C0179376",
+      "score": 0.9694390296936035,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vessel with a narrow neck designed to accept a specific closure."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "floor",
+      "type": "T073",
+      "umls_id": "C0016249",
+      "score": 0.9750929474830627,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Social history",
+      "type": "T033",
+      "umls_id": "C0424945",
+      "score": 0.9855644702911377,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "alcohol abuse",
+      "type": "T048",
+      "umls_id": "C0085762",
+      "score": 0.9819647669792175,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of alcoholic beverages to excess, either on individual occasions (\"binge drinking\") or as a regular practice."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "awake",
+      "type": "T033",
+      "umls_id": "C0234422",
+      "score": 0.9881800413131714,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "fluctuating",
+      "type": "T079",
+      "umls_id": "C0231241",
+      "score": 0.97248375415802,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "To be unstable, having ups and downs."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "focal neurologic deficits",
+      "type": "T033",
+      "umls_id": "C0746857",
+      "score": 0.9749326705932617,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "72-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

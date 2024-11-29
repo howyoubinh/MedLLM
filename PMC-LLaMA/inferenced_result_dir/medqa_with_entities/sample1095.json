@@ -1,0 +1,236 @@
+{
+  "original_data": {
+    "question": "A 45-year-old man comes to the physician because of mild left-sided abdominal pain when lifting heavy objects that has developed over the past 6 months. He has had a weight loss of 41 kgs (90 lbs) in the past year. Physical examination shows a soft bulge inferior and lateral to the navel on the left. A CT scan of the abdomen of a patient with the same condition is shown. Which of the following muscles is located directly medial to the pathology seen on the CT scan?",
+    "options": {
+      "A": "Psoas major",
+      "B": "External oblique",
+      "C": "Rectus abdominis",
+      "D": "Transverse abdominal\n\""
+    }
+  },
+  "model_response": "The CT scan shows a cross-sectional view of the abdomen, with the left kidney and pancreas seen on the left side of the image. The bulge inferior and lateral to the navel is likely an epigastric hernia. The hernia is protruding through the linea alba, which is formed by the aponeuroses of the external oblique, internal oblique, and transverse abdominal muscles. The psoas major muscle is located more inferiorly and medially in the abdominal wall. The rectus abdominis and transverse abdominal muscles are located more superficially. The external oblique muscle is located laterally.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "heavy objects",
+      "type": "T072",
+      "umls_id": "C0347997",
+      "score": 0.7529133558273315,
+      "semantic_types": [
+        "T072"
+      ],
+      "definition": "Something perceptible by one or more of the senses, especially by vision or touch; a material thing."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "soft bulge",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "inferior",
+      "type": "T082",
+      "umls_id": "C0542339",
+      "score": 0.9803410768508911,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is lower."
+    },
+    {
+      "text": "lateral",
+      "type": "T082",
+      "umls_id": "C0205093",
+      "score": 0.9872722029685974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated at or extending to the side."
+    },
+    {
+      "text": "navel",
+      "type": "T029",
+      "umls_id": "C0041638",
+      "score": 0.993678867816925,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The pit in the center of the ABDOMINAL WALL marking the point where the UMBILICAL CORD entered in the FETUS."
+    },
+    {
+      "text": "left",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9974963068962097,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "muscles",
+      "type": "T024",
+      "umls_id": "C0026845",
+      "score": 0.9912073612213135,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Contractile tissue that produces movement in animals."
+    },
+    {
+      "text": "medial",
+      "type": "T082",
+      "umls_id": "C0205098",
+      "score": 0.9863476157188416,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Toward the middle or inside (as opposed to lateral)."
+    },
+    {
+      "text": "pathology",
+      "type": "T091",
+      "umls_id": "C0030664",
+      "score": 0.9942872524261475,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "A specialty concerned with the nature and cause of disease as expressed by changes in cellular or tissue structure and function caused by the disease process."
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

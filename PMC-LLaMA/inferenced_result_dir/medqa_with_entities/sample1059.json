@@ -1,0 +1,208 @@
+{
+  "original_data": {
+    "question": "A chronic opioid abuser undergoes emergency surgery. Following the operation, the man is started on a patient controlled analgesia (PCA) thought to be dosed adequately to control his pain in the face of his opioid tolerance. He reports intense pain 6 hours after the conclusion of the surgery. Which agent could have been given intraoperatively to reduce this patient's risk of developing postoperative hyperalgesia?",
+    "options": {
+      "A": "Ketamine",
+      "B": "Midazolam",
+      "C": "Propofol",
+      "D": "Etomidate"
+    }
+  },
+  "model_response": "The patient described in the question has developed a phenomenon known as postoperative hyperalgesia, which is characterized by increased pain sensitivity following surgery. The development of postoperative hyperalgesia is due to a number of factors, including the surgical procedure itself, inflammation, and opioid tolerance. The use of opioids for analgesia in this patient would be expected to provide poor pain control due to the patient's tolerance. The use of ketamine intraoperatively would be expected to reduce the patient's risk of developing postoperative hyperalgesia due to its effects on NMDA receptors.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "chronic opioid abuser",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "emergency surgery",
+      "type": "T033",
+      "umls_id": "C4264510",
+      "score": 0.9875143766403198,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "operation",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9866542220115662,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patient controlled analgesia",
+      "type": "T061",
+      "umls_id": "C0078944",
+      "score": 0.9692978262901306,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Relief of PAIN, without loss of CONSCIOUSNESS, through ANALGESIC AGENTS administered by the patients. It has been used successfully to control POSTOPERATIVE PAIN, during OBSTETRIC LABOR, after BURNS, and in TERMINAL CARE. The choice of agent, dose, and lockout interval greatly influence effectiveness. The potential for overdose can be minimized by combining small bolus doses with a mandatory interval between successive doses (lockout interval)."
+    },
+    {
+      "text": "PCA",
+      "type": "T059",
+      "umls_id": "C0030625",
+      "score": 0.9829041957855225,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "An evanescent cutaneous reaction occurring when antibody is injected into a local area on the skin and antigen is subsequently injected intravenously along with a dye. The dye makes the rapidly occurring capillary dilatation and increased vascular permeability readily visible by leakage into the reaction site. PCA is a sensitive reaction for detecting very small quantities of antibodies and is also a method for studying the mechanisms of immediate hypersensitivity."
+    },
+    {
+      "text": "dosed",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.7057849764823914,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "control his pain",
+      "type": "T061",
+      "umls_id": "C0002766",
+      "score": 0.8745260834693909,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A form of therapy that employs a coordinated and interdisciplinary approach for easing the suffering and improving the quality of life of those experiencing pain."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "opioid tolerance",
+      "type": "T033",
+      "umls_id": "C0240601",
+      "score": 0.982552707195282,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "intense pain",
+      "type": "T080",
+      "umls_id": "C0522510",
+      "score": 0.7869507670402527,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The degree or magnitude of strength, energy, or feeling."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "agent",
+      "type": "T120",
+      "umls_id": "C0450442",
+      "score": 0.9800482988357544,
+      "semantic_types": [
+        "T120"
+      ],
+      "definition": "An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect."
+    },
+    {
+      "text": "intraoperatively",
+      "type": "T079",
+      "umls_id": "C0456904",
+      "score": 0.8245730996131897,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring during the course of a surgical procedure."
+    },
+    {
+      "text": "reduce",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.7874446511268616,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "postoperative hyperalgesia",
+      "type": "T079",
+      "umls_id": "C0032790",
+      "score": 0.7553996443748474,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period following a surgical operation."
+    }
+  ]
+}

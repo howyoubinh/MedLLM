@@ -1,0 +1,317 @@
+{
+  "original_data": {
+    "question": "A 24-year-old primigravida presents to her physician at 20 weeks gestation. She was diagnosed with asymptomatic bacteriuria at her last appointment 2 weeks ago, and was treated with amoxicillin. She has no concurrent diseases and no complaints. Her vital signs are as follows: blood pressure 110/80 mm Hg, heart rate 82/min, respiratory rate 11/min, and temperature 36.6℃ (97.7℉). The physical examination reveals no abnormalities. On gynecologic examination, the cervix is soft and non-tender with no discharge from the external os. The uterus is enlarged to the umbilicus and the fetal heart rate is normal. Which of the following statements is the most accurate with respect to the presented case?",
+    "options": {
+      "A": "This patient does not require further urinary tests unless she becomes symptomatic.",
+      "B": "Urinalysis should be performed on each subsequent antenatal visit to screen for possible recurrence of bacteriuria.",
+      "C": "Urine culture should be performed in this patient again.",
+      "D": "Urinalysis should be performed to check for leukocytes, blood, and bacteria; if positive, perform a urine culture."
+    }
+  },
+  "model_response": "This patient should have a urine culture performed again because of the high risk of developing pyelonephritis (15-20%) if untreated. Asymptomatic bacteriuria is more common in primigravida women than in multigravida women. It is more common in women with anatomic abnormalities of the urinary tract, but this patient has no such abnormalities.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "primigravida",
+      "type": "T033",
+      "umls_id": "C0860096",
+      "score": 0.9788661003112793,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "asymptomatic bacteriuria",
+      "type": "T047",
+      "umls_id": "C0262380",
+      "score": 0.9640570282936096,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appointment 2",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9210012555122375,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "amoxicillin",
+      "type": "T109",
+      "umls_id": "C0002645",
+      "score": 0.9741423726081848,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A broad-spectrum semisynthetic antibiotic similar to AMPICILLIN except that its resistance to gastric acid permits higher serum levels with oral administration."
+    },
+    {
+      "text": "diseases",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9835971593856812,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "℃",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "gynecologic examination",
+      "type": "T058",
+      "umls_id": "C0200044",
+      "score": 0.9591938853263855,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Inspection and PALPATATION of female breasts, abdomen, and GENITALIA, as well as obtaining a gynecological history. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "cervix",
+      "type": "T023",
+      "umls_id": "C0007874",
+      "score": 0.9750297665596008,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The neck portion of the UTERUS between the lower isthmus and the VAGINA forming the cervical canal."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "non-tender",
+      "type": "T080",
+      "umls_id": "C0520960",
+      "score": 0.9690245389938354,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "umbilicus",
+      "type": "T029",
+      "umls_id": "C0041638",
+      "score": 0.9745065569877625,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The pit in the center of the ABDOMINAL WALL marking the point where the UMBILICAL CORD entered in the FETUS."
+    },
+    {
+      "text": "fetal",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.9629625082015991,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "statements",
+      "type": "T078",
+      "umls_id": "C1710187",
+      "score": 0.8483113050460815,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A verbal and/or written message that asserts, affirms, or declares something."
+    },
+    {
+      "text": "accurate",
+      "type": "T080",
+      "umls_id": "C0443131",
+      "score": 0.9838863611221313,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of nearness to the truth or the true value."
+    },
+    {
+      "text": "case",
+      "type": "T169",
+      "umls_id": "C0868928",
+      "score": 0.9685807228088379,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

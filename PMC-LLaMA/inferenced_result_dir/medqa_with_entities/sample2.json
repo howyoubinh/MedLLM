@@ -1,0 +1,451 @@
+{
+  "original_data": {
+    "question": "Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pectoris, a 61-year-old man has decreased urinary output and malaise. He has type 2 diabetes mellitus and osteoarthritis of the hips. Prior to admission, his medications were insulin and naproxen. He was also started on aspirin, clopidogrel, and metoprolol after the coronary intervention. His temperature is 38°C (100.4°F), pulse is 93/min, and blood pressure is 125/85 mm Hg. Examination shows mottled, reticulated purplish discoloration of the feet. Laboratory studies show:\nHemoglobin count 14 g/dL\nLeukocyte count 16,400/mm3\nSegmented neutrophils 56%\nEosinophils 11%\nLymphocytes 31%\nMonocytes 2%\nPlatelet count 260,000/mm3\nErythrocyte sedimentation rate 68 mm/h\nSerum\nUrea nitrogen 25 mg/dL\nCreatinine 4.2 mg/dL\nRenal biopsy shows intravascular spindle-shaped vacuoles. Which of the following is the most likely cause of this patient's symptoms?\"",
+    "options": {
+      "A": "Renal papillary necrosis",
+      "B": "Cholesterol embolization",
+      "C": "Eosinophilic granulomatosis with polyangiitis",
+      "D": "Polyarteritis nodosa"
+    }
+  },
+  "model_response": "The patient has cholesterol embolization syndrome. Atheroembolic disease occurs from disruption of an atherosclerotic plaque, with subsequent embolization to the renal and visceral arteries. Patients may be asymptomatic or may present with acute kidney injury, livedo reticularis, or confusion. The reticular mottling often involves the lower extremities and is paicularly prominent in the pretibial region. Renal biopsy shows characteristic \"cholesterol crystals\" within the lumina of vessels. The other choices are not related to the findings in this case.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "emergency",
+      "type": "T067",
+      "umls_id": "C0013956",
+      "score": 0.991172730922699,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A sudden unforeseen crisis that requires immediate action."
+    },
+    {
+      "text": "cardiac catherization",
+      "type": "T060",
+      "umls_id": "C0018795",
+      "score": 0.8842774629592896,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures in which placement of CARDIAC CATHETERS is performed for therapeutic or diagnostic procedures."
+    },
+    {
+      "text": "stenting",
+      "type": "T074",
+      "umls_id": "C0038257",
+      "score": 0.9929981231689453,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices that provide support for tubular structures that are being anastomosed or for body cavities during skin grafting."
+    },
+    {
+      "text": "unstable angina pectoris",
+      "type": "T047",
+      "umls_id": "C0002965",
+      "score": 0.9861696362495422,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Precordial pain at rest, which may precede a MYOCARDIAL INFARCTION."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "urinary",
+      "type": "T023",
+      "umls_id": "C0042027",
+      "score": 0.9912776947021484,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The duct which coveys URINE from the pelvis of the KIDNEY through the URETERS, BLADDER, and URETHRA."
+    },
+    {
+      "text": "output",
+      "type": "T077",
+      "umls_id": "C1709366",
+      "score": 0.9882925748825073,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "Anything coming out of a system."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "osteoarthritis",
+      "type": "T047",
+      "umls_id": "C0029408",
+      "score": 0.9689512848854065,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative joint disease, the most common form of arthritis, especially in older persons. The disease is thought to result not from the aging process but from biochemical changes and biomechanical stresses affecting articular cartilage. In the foreign literature it is often called osteoarthrosis deformans."
+    },
+    {
+      "text": "hips",
+      "type": "T023",
+      "umls_id": "C0019552",
+      "score": 0.9943860173225403,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The projecting part on each side of the body, formed by the side of the pelvis and the top portion of the femur."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "insulin",
+      "type": "T116",
+      "umls_id": "C0021641",
+      "score": 0.9696833491325378,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A 51-amino acid pancreatic hormone that plays a major role in the regulation of glucose metabolism, directly by suppressing endogenous glucose production (GLYCOGENOLYSIS; GLUCONEOGENESIS) and indirectly by suppressing GLUCAGON secretion and LIPOLYSIS. Native insulin is a globular protein comprised of a zinc-coordinated hexamer. Each insulin monomer containing two chains, A (21 residues) and B (30 residues), linked by two disulfide bonds. Insulin is used as a drug to control insulin-dependent diabetes mellitus (DIABETES MELLITUS, TYPE 1)."
+    },
+    {
+      "text": "naproxen",
+      "type": "T109",
+      "umls_id": "C0027396",
+      "score": 0.9686558842658997,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An anti-inflammatory agent with analgesic and antipyretic properties. Both the acid and its sodium salt are used in the treatment of rheumatoid arthritis and other rheumatic or musculoskeletal disorders, dysmenorrhea, and acute gout."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "clopidogrel",
+      "type": "T109",
+      "umls_id": "C0070166",
+      "score": 0.9953008890151978,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thienopyridine, with antiplatelet activity. Clopidogrel targets, irreversibly binds to and alters the platelet receptor for adenosine diphosphate (ADP), thereby blocking the binding of ADP to its receptor, inhibiting ADP-mediated activation of the glycoprotein complex GPIIb/IIIa, and inhibiting fibrinogen binding to platelets and platelet adhesion and aggregation. This results in increased bleeding time."
+    },
+    {
+      "text": "metoprolol",
+      "type": "T109",
+      "umls_id": "C0025859",
+      "score": 0.9727950692176819,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective adrenergic beta-1 blocking agent that is commonly used to treat ANGINA PECTORIS; HYPERTENSION; and CARDIAC ARRHYTHMIAS."
+    },
+    {
+      "text": "coronary intervention",
+      "type": "T061",
+      "umls_id": "C1532338",
+      "score": 0.7769296765327454,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The placement of an angioplasty guide wire, balloon, or other device (e.g. stent, atherectomy, brachytherapy, or thrombectomy catheter) into a native coronary artery or coronary artery bypass graft for the purpose of mechanical coronary revascularization."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mottled",
+      "type": "T033",
+      "umls_id": "C0302133",
+      "score": 0.9761075377464294,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Irregularly shaped, patchy discolorations in the skin."
+    },
+    {
+      "text": "reticulated purplish",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "discoloration",
+      "type": "T033",
+      "umls_id": "C0332572",
+      "score": 0.979123592376709,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A change in color that deviates from the norm or outwith the bounds of what is considered normal."
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Segmented",
+      "type": "T204",
+      "umls_id": "C0003096",
+      "score": 0.7587459683418274,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "A phylum of metazoan invertebrates comprising the segmented worms, and including marine annelids (POLYCHAETA), freshwater annelids, earthworms (OLIGOCHAETA), and LEECHES. Only the leeches are of medical interest. (Dorland, 27th ed)"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "Lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "Monocytes",
+      "type": "T025",
+      "umls_id": "C0026473",
+      "score": 0.9890480041503906,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Large, phagocytic mononuclear leukocytes produced in the vertebrate BONE MARROW and released into the BLOOD; contain a large, oval or somewhat indented nucleus surrounded by voluminous cytoplasm and numerous organelles."
+    },
+    {
+      "text": "Erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "sedimentation",
+      "type": "T059",
+      "umls_id": "C0597428",
+      "score": 0.9737226366996765,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The act or process of settling particles by mechanical means from a state of suspension in air or water."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "Serum\nUrea nitrogen",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Creatinine",
+      "type": "T109",
+      "umls_id": "C0010294",
+      "score": 0.9871318340301514,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The breakdown product of creatine, a constituent of muscle tissue, that is excreted by the kidney and whose serum level is used to evaluate kidney function."
+    },
+    {
+      "text": "intravascular",
+      "type": "T082",
+      "umls_id": "C0442123",
+      "score": 0.9747554063796997,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spindle-shaped vacuoles",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "61-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

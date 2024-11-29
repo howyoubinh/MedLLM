@@ -1,0 +1,158 @@
+{
+  "original_data": {
+    "question": "A research group has created a novel screening test for a rare disorder. A robust clinical trial is performed in a group of 100 subjects comparing the new screening test against the gold standard. The results are given in the table below:\nScreening test\\gold standard Disease present Disease absent\nPositive 45 15\nNegative 5 35\nWhich of the following is most correct regarding the statistical power of this new screening test?",
+    "options": {
+      "A": "Repeating the study would have no effect on the statistical power of the screening test.",
+      "B": "The power of the test is 0.8.",
+      "C": "If the specificity of this screening test were increased, the statistical power would increase.",
+      "D": "If the sensitivity of this screening test were decreased, the statistical power would decrease."
+    }
+  },
+  "model_response": "A\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "research group",
+      "type": "T097",
+      "umls_id": "C1707252",
+      "score": 0.8685457706451416,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A collection of scientist and/or clinician users with a common research objective related to diagnosis and treatment of cancer."
+    },
+    {
+      "text": "screening test",
+      "type": "T058",
+      "umls_id": "C0871311",
+      "score": 0.9871142506599426,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A test whose operational purpose is to determine the presence or absence of a substance, organism, or condition."
+    },
+    {
+      "text": "disorder",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9945809245109558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "clinical trial",
+      "type": "T062",
+      "umls_id": "C0008976",
+      "score": 0.9740465879440308,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Works about pre-planned studies of the safety, efficacy, or optimum dosage schedule (if appropriate) of one or more diagnostic, therapeutic, or prophylactic drugs, devices, or techniques selected according to predetermined criteria of eligibility and observed for predefined evidence of favorable and unfavorable effects. This concept includes clinical trials conducted both in the U.S. and in other countries."
+    },
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "subjects",
+      "type": "T098",
+      "umls_id": "C0080105",
+      "score": 0.8101776242256165,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons who are enrolled in research studies or who are otherwise the subjects of research."
+    },
+    {
+      "text": "comparing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "screening test",
+      "type": "T058",
+      "umls_id": "C0871311",
+      "score": 0.9871142506599426,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A test whose operational purpose is to determine the presence or absence of a substance, organism, or condition."
+    },
+    {
+      "text": "gold standard",
+      "type": "T080",
+      "umls_id": "C0150110",
+      "score": 0.9774498343467712,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "Screening",
+      "type": "T060",
+      "umls_id": "C0199230",
+      "score": 0.9829955697059631,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures performed on people to identify those who have NEOPLASMS or PRENEOPLASTIC CONDITIONS."
+    },
+    {
+      "text": "Disease",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9868216514587402,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "Positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "statistical power",
+      "type": "T062",
+      "umls_id": "C0814897",
+      "score": 0.976506769657135,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": null
+    },
+    {
+      "text": "screening test",
+      "type": "T058",
+      "umls_id": "C0871311",
+      "score": 0.9871142506599426,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A test whose operational purpose is to determine the presence or absence of a substance, organism, or condition."
+    }
+  ]
+}

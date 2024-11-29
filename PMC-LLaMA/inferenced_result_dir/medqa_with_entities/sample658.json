@@ -1,0 +1,374 @@
+{
+  "original_data": {
+    "question": "In 2005, a group of researchers believed that prophylactically removing the ovaries and fallopian tubes (bilateral salpingo-oophorectomy) in BRCA-mutation positive women would reduce the chance that they developed breast cancer. To test this hypothesis, they reviewed a database of women who were known to be BRCA-mutation positive and divided the group into those with breast cancer and those without breast cancer. They used data in the registry and surveys about peoples’ surgical history to compare the proportion of each population that had undergone a bilateral salpingo-oophorectomy. Based on this data, they reported that women undergoing the procedure had a lower chance of developing breast cancer later in life with an odds ratio of 0.46. This is an example of what type of study design?",
+    "options": {
+      "A": "Meta-analysis",
+      "B": "Cross-sectional",
+      "C": "Case-control",
+      "D": "Genome-wide association study"
+    }
+  },
+  "model_response": "The type of study being described is a meta-analysis. In a meta-analysis, multiple studies are combined to increase the power of the analysis. In this case, multiple studies about the risk of breast cancer in women with BRCA mutations were combined to get a more accurate estimate of the risk. The other study designs listed are not appropriate for this type of analysis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "researchers",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9888705015182495,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "ovaries",
+      "type": "T023",
+      "umls_id": "C0029939",
+      "score": 0.9853442907333374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The reproductive organ (GONADS) in female animals. In vertebrates, the ovary contains two functional parts: the OVARIAN FOLLICLE for the production of female germ cells (OOGENESIS); and the endocrine cells (GRANULOSA CELLS; THECA CELLS; and LUTEAL CELLS) for the production of ESTROGENS and PROGESTERONE."
+    },
+    {
+      "text": "fallopian tubes",
+      "type": "T023",
+      "umls_id": "C0015560",
+      "score": 0.9821241497993469,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A pair of highly specialized canals extending from the UTERUS to its corresponding OVARY. They provide the means for OVUM transport from the ovaries and they are the site of the ovum's final maturation and FERTILIZATION. The fallopian tube consists of an interstitium, an isthmus, an ampulla, an infundibulum, and fimbriae. Its wall consists of three layers: serous, muscular, and an internal mucosal layer lined with both ciliated and secretory cells."
+    },
+    {
+      "text": "bilateral salpingo-oophorectomy",
+      "type": "T061",
+      "umls_id": "C0195495",
+      "score": 0.942819356918335,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgery to remove both fallopian tubes, as well as both ovaries."
+    },
+    {
+      "text": "BRCA-mutation",
+      "type": "T049",
+      "umls_id": "C5555663",
+      "score": 0.74359530210495,
+      "semantic_types": [
+        "T049"
+      ],
+      "definition": "A change in the nucleotide sequence of a gene in the BRCA family."
+    },
+    {
+      "text": "women",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9381546378135681,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "reduce",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.7874446511268616,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "chance",
+      "type": "T080",
+      "umls_id": "C0237506",
+      "score": 0.9970194697380066,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The possibility or likelihood that something will happen."
+    },
+    {
+      "text": "breast cancer",
+      "type": "T191",
+      "umls_id": "C0006142",
+      "score": 0.9908878803253174,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males."
+    },
+    {
+      "text": "hypothesis",
+      "type": "T078",
+      "umls_id": "C1512571",
+      "score": 0.9861465096473694,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reviewed",
+      "type": "T170",
+      "umls_id": "C0282443",
+      "score": 0.9505781531333923,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An article or book published after examination of published material on a subject. It may be comprehensive to various degrees and the time range of material scrutinized may be broad or narrow, but the reviews most often desired are reviews of the current literature. The textual material examined may be equally broad and can encompass, in medicine specifically, clinical material as well as experimental research or case reports. State-of-the-art reviews tend to address more current matters. A review of the literature must be differentiated from HISTORICAL ARTICLE on the same subject, but a review of historical literature is also within the scope of this publication type."
+    },
+    {
+      "text": "database",
+      "type": "T170",
+      "umls_id": "C0242356",
+      "score": 0.9820867776870728,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An information set with a regular structure. Although it can be applied to any set of information the term was invented to refer to computerized data, and is used almost exclusively in computing."
+    },
+    {
+      "text": "women",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9381546378135681,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "BRCA-mutation",
+      "type": "T049",
+      "umls_id": "C5555663",
+      "score": 0.74359530210495,
+      "semantic_types": [
+        "T049"
+      ],
+      "definition": "A change in the nucleotide sequence of a gene in the BRCA family."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "breast cancer",
+      "type": "T191",
+      "umls_id": "C0006142",
+      "score": 0.9908878803253174,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males."
+    },
+    {
+      "text": "breast cancer",
+      "type": "T191",
+      "umls_id": "C0006142",
+      "score": 0.9908878803253174,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males."
+    },
+    {
+      "text": "data",
+      "type": "T078",
+      "umls_id": "C1511726",
+      "score": 0.995295524597168,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collection or single item of factual information, derived from measurement or research, from which conclusions may be drawn."
+    },
+    {
+      "text": "registry",
+      "type": "T170",
+      "umls_id": "C0034975",
+      "score": 0.9701789617538452,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "The systems and processes involved in the establishment, support, management, and operation of registers, e.g., disease registers."
+    },
+    {
+      "text": "surveys",
+      "type": "T170",
+      "umls_id": "C0038951",
+      "score": 0.9534350037574768,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A document used in a method of data collection that involves interviewing (or giving questionnaires to) a representative and often large group of people."
+    },
+    {
+      "text": "peoples",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9671492576599121,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "surgical history",
+      "type": "T033",
+      "umls_id": "C0744961",
+      "score": 0.9849023222923279,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "proportion",
+      "type": "T081",
+      "umls_id": "C1709707",
+      "score": 0.9711265563964844,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A part, fraction, share, or number considered in relation to the whole amount or number."
+    },
+    {
+      "text": "population",
+      "type": "T081",
+      "umls_id": "C0032659",
+      "score": 0.9572107195854187,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The total number of individuals inhabiting a particular region or area."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "salpingo-oophorectomy",
+      "type": "T061",
+      "umls_id": "C0036132",
+      "score": 0.9523606300354004,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Combined surgical resection of the fallopian tube and the ovary."
+    },
+    {
+      "text": "data",
+      "type": "T078",
+      "umls_id": "C1511726",
+      "score": 0.995295524597168,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collection or single item of factual information, derived from measurement or research, from which conclusions may be drawn."
+    },
+    {
+      "text": "women",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9381546378135681,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "procedure",
+      "type": "T061",
+      "umls_id": "C0184661",
+      "score": 0.987176775932312,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An activity that produces an effect, or that is intended to alter the course of a disease in a patient or population. This is a general term that encompasses the medical, social, behavioral, and environmental acts that can have preventive, therapeutic, or palliative effects."
+    },
+    {
+      "text": "chance",
+      "type": "T080",
+      "umls_id": "C0237506",
+      "score": 0.9970194697380066,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The possibility or likelihood that something will happen."
+    },
+    {
+      "text": "breast cancer",
+      "type": "T191",
+      "umls_id": "C0006142",
+      "score": 0.9908878803253174,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A primary or metastatic malignant neoplasm involving the breast. The vast majority of cases are carcinomas arising from the breast parenchyma or the nipple. Malignant breast neoplasms occur more frequently in females than in males."
+    },
+    {
+      "text": "life",
+      "type": "T078",
+      "umls_id": "C0376558",
+      "score": 0.9778754115104675,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state that distinguishes organisms from inorganic matter, manifested by growth, metabolism, reproduction, and adaptation. It includes the course of existence, the sum of experiences, the mode of existing, or the fact of being. Over the centuries inquiries into the nature of life have crossed the boundaries from philosophy to biology, forensic medicine, anthropology, etc., in creative as well as scientific literature. (Random House Unabridged Dictionary, 2d ed; Dr. James H. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "odds ratio",
+      "type": "T081",
+      "umls_id": "C0028873",
+      "score": 0.9278626441955566,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The ratio of two odds. The exposure-odds ratio for case control data is the ratio of the odds in favor of exposure among cases to the odds in favor of exposure among noncases. The disease-odds ratio for a cohort or cross section is the ratio of the odds in favor of disease among the exposed to the odds in favor of disease among the unexposed. The prevalence-odds ratio refers to an odds ratio derived cross-sectionally from studies of prevalent cases."
+    },
+    {
+      "text": "study design",
+      "type": "T062",
+      "umls_id": "C0035171",
+      "score": 0.979439914226532,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A plan for collecting and utilizing data so that desired information can be obtained with sufficient precision or so that an hypothesis can be tested properly."
+    }
+  ]
+}

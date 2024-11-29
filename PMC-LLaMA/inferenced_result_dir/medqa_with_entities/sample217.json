@@ -1,0 +1,331 @@
+{
+  "original_data": {
+    "question": "A 37-year-old primigravid woman at 12 weeks' gestation comes to the emergency department because of vaginal bleeding and dull suprapubic pain for 3 hours. She has had spotting during the last 3 days. Her medications include folic acid and a multivitamin. She has smoked one pack of cigarettes daily for 15 years. Her temperature is 37°C (98.6°F), pulse is 110/min, and blood pressure is 89/65 mm Hg. Pelvic examination shows a dilated cervical os and a uterus consistent in size with an 11-week gestation. Ultrasonography shows an embryo of 4 cm in crown-rump length and no fetal cardiac activity. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Misoprostol therapy",
+      "B": "Methotrexate therapy",
+      "C": "Dilation and curettage",
+      "D": "Complete bed rest"
+    }
+  },
+  "model_response": "The patient has a threatened abortion, as she has vaginal bleeding and a closed cervical os. She has a uterus consistent with her stated gestation, but no fetus is evident by ultrasonography. The appropriate next step in management is bed rest. Bed rest has not been proven to change the outcome of pregnancy, but it may reduce stress on the pelvic vessels and may prevent a fall. In addition, it allows for easy detection of recurrent bleeding or pain. Dilation and curettage is not indicated in the absence of a fetus or an open cervical os. Methotrexate therapy is not indicated because there is no evidence of a multifetal gestation. Misoprostol therapy is not indicated because there is no evidence of an open cervical os.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "primigravid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "vaginal bleeding",
+      "type": "T046",
+      "umls_id": "C2979982",
+      "score": 0.966633677482605,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Vaginal bleeding unrelated to normal menstruation."
+    },
+    {
+      "text": "dull",
+      "type": "T184",
+      "umls_id": "C0278144",
+      "score": 0.9951043725013733,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort or distress that is non-specific or without clear boundaries."
+    },
+    {
+      "text": "suprapubic pain",
+      "type": "T184",
+      "umls_id": "C0241310",
+      "score": 0.9667737483978271,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "multivitamin",
+      "type": "T109",
+      "umls_id": "C0301532",
+      "score": 0.987159252166748,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)"
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "cervical",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9779219031333923,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "11-week gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.7244999408721924,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "Ultrasonography",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9924961924552917,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "embryo",
+      "type": "T018",
+      "umls_id": "C0013935",
+      "score": 0.9866549968719482,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The entities of developing ANIMALS in early stages."
+    },
+    {
+      "text": "crown-rump",
+      "type": "T033",
+      "umls_id": "C2825540",
+      "score": 0.8174632787704468,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "In utero measurement corresponding to the sitting height (crown to rump) of the fetus. Length is considered a more accurate criterion of the age of the fetus than is the weight. The average crown-rump length of the fetus at term is 36 cm. (From Williams Obstetrics, 18th ed, p91)"
+    },
+    {
+      "text": "length",
+      "type": "T081",
+      "umls_id": "C1444754",
+      "score": 0.9718987345695496,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The linear extent in space from one end of something to the other end, or the extent of something from beginning to end."
+    },
+    {
+      "text": "fetal",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.9629625082015991,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "cardiac activity",
+      "type": "T033",
+      "umls_id": "C0443168",
+      "score": 0.987648069858551,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "37-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

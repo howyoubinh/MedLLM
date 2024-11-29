@@ -1,0 +1,269 @@
+{
+  "original_data": {
+    "question": "A 42-year-old woman with a history of depression and headaches presents to the emergency room with severe, pulsating pain around the crown of her head beginning 12 hours ago. She last took ibuprofen 2 hours ago but did not feel any improvement in the pain. She has been nauseous and unable to get out of bed and is currently laying in the dark with the lights off. Her depression has improved, and she has stopped taking her sertraline 2 months ago. Other than ibuprofen as needed, she is not currently taking any additional medications. Which of the following would be the best treatment for her acute symptoms?",
+    "options": {
+      "A": "No treatment necessary",
+      "B": "100% oxygen",
+      "C": "Propranolol",
+      "D": "Sumatriptan"
+    }
+  },
+  "model_response": "{'A': 'No treatment necessary', 'B': '100% oxygen', 'C': 'Propranolol', 'D': 'Sumatriptan'}\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "emergency",
+      "type": "T067",
+      "umls_id": "C0013956",
+      "score": 0.991172730922699,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A sudden unforeseen crisis that requires immediate action."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "pulsating pain",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "crown",
+      "type": "T074",
+      "umls_id": "C0010384",
+      "score": 0.9916370511054993,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A preformed crown is a prefabricated device made of plastic or austenitic alloys or alloys containing 75 percent or greater gold and metals of the platinum group intended to be affixed temporarily to a tooth after removal of, or breakage of, the natural crown (that portion of the tooth that normally protrudes above the gums). It is intended for use as a functional restoration until a permanent crown is constructed. The device also may be intended for use as a functional restoration for a badly decayed deciduous (baby) tooth until the adult tooth erupts."
+    },
+    {
+      "text": "head beginning",
+      "type": "T079",
+      "umls_id": "C0439659",
+      "score": 0.7994694113731384,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The place where something begins or comes from in either the sense of a physical location or a metaphysical source."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "ibuprofen 2 hours",
+      "type": "T109",
+      "umls_id": "C0020740",
+      "score": 0.7533724904060364,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties"
+    },
+    {
+      "text": "improvement",
+      "type": "T077",
+      "umls_id": "C2986411",
+      "score": 0.9585268497467041,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A condition superior to an earlier condition."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "nauseous",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9677346348762512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "bed",
+      "type": "T073",
+      "umls_id": "C0004916",
+      "score": 0.9527915716171265,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Equipment on which one may lie and sleep, especially as used to care for the hospital patient."
+    },
+    {
+      "text": "laying",
+      "type": "T012",
+      "umls_id": "C3669471",
+      "score": 0.8403457999229431,
+      "semantic_types": [
+        "T012"
+      ],
+      "definition": "<p>Chickens raised for egg production</p>"
+    },
+    {
+      "text": "dark",
+      "type": "T080",
+      "umls_id": "C0332582",
+      "score": 0.99537193775177,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lights",
+      "type": "T070",
+      "umls_id": "C0023693",
+      "score": 0.9597323536872864,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "That portion of the electromagnetic spectrum in the visible, ultraviolet, and infrared range."
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "improved",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.9708120822906494,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "sertraline 2 months",
+      "type": "T109",
+      "umls_id": "C0074393",
+      "score": 0.7451225519180298,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective serotonin uptake inhibitor that is used in the treatment of depression."
+    },
+    {
+      "text": "ibuprofen",
+      "type": "T109",
+      "umls_id": "C0020740",
+      "score": 0.9725996851921082,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties"
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "acute symptoms",
+      "type": "T184",
+      "umls_id": "C1457887",
+      "score": 0.7667319178581238,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Subjective evidence of disease perceived by the patient."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "original_data": {
+    "question": "A 65-year-old male presents to his pulmonologist for a follow-up visit. He has a history of chronic progressive dyspnea over the past five years. He uses oxygen at home and was seen in the emergency room two months prior for an exacerbation of his dyspnea. He was discharged following stabilization. His past medical history is notable for hyperlipidemia and hypertension. He drinks alcohol socially and has a 45 pack-year smoking history. His temperature is 98.6°F (37°C), blood pressure is 140/75 mmHg, pulse is 110/min, and respirations are 22/min. On examination, increased work of breathing is noted. The physician decides to start the patient on an additional medication that has both mucoactive and anti-oxidative properties. What is the primary mechanism of action of this medication in the lungs?",
+    "options": {
+      "A": "DNA hydrolysis",
+      "B": "Disulfide bond cleavage",
+      "C": "Endothelin-1 antagonism",
+      "D": "Reduction in airway surface tension"
+    }
+  },
+  "model_response": "This patient presents with signs and symptoms of chronic obstructive pulmonary disease (COPD). The medication started is a mucolytic with anti-oxidative properties. The primary mechanism of action of this medication in the lungs is reduction in airway surface tension. The drug reduces the surface tension of the fluid lining the respiratory tract by breaking disulfide bonds in the mucus, thus decreasing the viscosity of the mucus. The drug is a combination of guaifenesin and amiloride.\n\nDNA hydrolysis (choice A) is the mechanism of action of DNAase. This enzyme is used in the treatment of cystic fibrosis to reduce the thickness of the sputum.\n\nDisulfide bond cleavage (choice B) is the mechanism of action of thioridazine, which is used in the treatment of schizophrenia.\n\nEndothelin-1 antagonism (choice C) is the mechanism of action of macicentan, which is used in the treatment of pulmonary arterial hypertension.\n\nAdverse effects of macicentan include: headache, dizziness, nausea, vomiting, and skin rash.\n\nVerdoroxime (choice E) is an anticholinesterase used in the treatment of myasthenia gravis.\n\nOther drugs in this class include edrophonium and neostigmine.\n\nAdverse effects of these agents include: muscle fasciculations, increased frequency of bowel movements, increased urinary frequency, and bradycardia.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "pulmonologist",
+      "type": "T097",
+      "umls_id": "C0586859",
+      "score": 0.9853879809379578,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Physicians who specialize in treating disorders of the RESPIRATORY SYSTEM, especially diagnosing and treating diseases and defects of the lungs and bronchial tree."
+    },
+    {
+      "text": "follow-up visit",
+      "type": "T058",
+      "umls_id": "C0589121",
+      "score": 0.9691847562789917,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "chronic progressive dyspnea",
+      "type": "T047",
+      "umls_id": "C0020179",
+      "score": 0.7752305269241333,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A familial disorder inherited as an autosomal dominant trait and characterized by the onset of progressive CHOREA and DEMENTIA in the fourth or fifth decade of life. Common initial manifestations include paranoia; poor impulse control; DEPRESSION; HALLUCINATIONS; and DELUSIONS. Eventually intellectual impairment; loss of fine motor control; ATHETOSIS; and diffuse chorea involving axial and limb musculature develops, leading to a vegetative state within 10-15 years of disease onset. The juvenile variant has a more fulminant course including SEIZURES; ATAXIA; dementia; and chorea. (From Adams et al., Principles of Neurology, 6th ed, pp1060-4)"
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "oxygen",
+      "type": "T121",
+      "umls_id": "C0030054",
+      "score": 0.9706076383590698,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element with atomic symbol O, atomic number 8, and atomic weight [15.99903; 15.99977]. It is the most abundant element on earth and essential for respiration."
+    },
+    {
+      "text": "emergency",
+      "type": "T067",
+      "umls_id": "C0013956",
+      "score": 0.991172730922699,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A sudden unforeseen crisis that requires immediate action."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "prior",
+      "type": "T079",
+      "umls_id": "C0332152",
+      "score": 0.9819955825805664,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Earlier in time or order."
+    },
+    {
+      "text": "exacerbation",
+      "type": "T033",
+      "umls_id": "C4086268",
+      "score": 0.9488846063613892,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A worsening of a problem, condition, or disease."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "stabilization",
+      "type": "T061",
+      "umls_id": "C1293130",
+      "score": 0.9619789123535156,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol socially",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pack-year",
+      "type": "T081",
+      "umls_id": "C5551741",
+      "score": 0.9314562082290649,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantification of lifetime tobacco exposure defined as (number of cigarettes smoked per day x number of years smoked)/20. One pack-year is smoking 20 cigarettes a day for one year."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "breathing",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9880034327507019,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "decides",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "mucoactive",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "anti-oxidative properties",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "primary",
+      "type": "T080",
+      "umls_id": "C0205225",
+      "score": 0.9869162440299988,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Occurring first in time or sequence; original; of greatest rank or importance or value."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "original_data": {
+    "question": "A 25-year-old man is brought to the emergency department after being found unconscious. He was at a college party exhibiting belligerent behavior when he suddenly passed out and fell to the ground. His past medical history is not known. His temperature is 100°F (37.8°C), blood pressure is 107/48 mmHg, pulse is 125/min, respirations are 19/min, and oxygen saturation is 99% on room air. The patient is covered with emesis and responds incoherently to questions. As the patient begins to wake up he continues vomiting. The patient is started on IV fluids, analgesics, and anti-emetics and begins to feel better. Thirty minutes later the patient presents with muscle rigidity and is no longer responding coherently to questions. His temperature is 103°F (39.4°C), blood pressure is 127/68 mmHg, pulse is 125/min, respirations are 18/min, and oxygen saturation is 98% on room air. The patient's basic laboratory studies are drawn and he is started on IV fluids, given lorazepam, and placed under a cooling blanket. Despite these initial measures, his symptoms persist. Which of the following is the best next step in management?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Dantrolene",
+      "C": "Intubation",
+      "D": "Supportive therapy"
+    }
+  },
+  "model_response": "The patient's symptoms of muscle rigidity, elevated temperature, and elevated creatine kinase suggest the diagnosis of malignant hyperthermia. Dantrolene is the drug of choice for malignant hyperthermia.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "college party",
+      "type": "T073",
+      "umls_id": "C0557806",
+      "score": 0.7461214661598206,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An institution of higher education created to educate and grant degrees; often a part of a university."
+    },
+    {
+      "text": "belligerent behavior",
+      "type": "T055",
+      "umls_id": "C0679189",
+      "score": 0.979602038860321,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ground",
+      "type": "T073",
+      "umls_id": "C1708259",
+      "score": 0.7521215677261353,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A wire cable or strap designed to carry current safely away from an electronic device."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "emesis",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9846303462982178,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "responds",
+      "type": "T169",
+      "umls_id": "C1553423",
+      "score": 0.7422023415565491,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The entity is the one to which the response or reply to the transmission should be sent.</p>"
+    },
+    {
+      "text": "questions",
+      "type": "T170",
+      "umls_id": "C1522634",
+      "score": 0.8235301375389099,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "IV fluids",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.8582273125648499,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "analgesics",
+      "type": "T109",
+      "umls_id": "C0002771",
+      "score": 0.9707352519035339,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "Compounds capable of relieving pain without the loss of CONSCIOUSNESS."
+    },
+    {
+      "text": "anti-emetics",
+      "type": "T121",
+      "umls_id": "C0003297",
+      "score": 0.9367867112159729,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs used to prevent NAUSEA or VOMITING."
+    },
+    {
+      "text": "begins",
+      "type": "T079",
+      "umls_id": "C0439659",
+      "score": 0.7691951394081116,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The place where something begins or comes from in either the sense of a physical location or a metaphysical source."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "muscle rigidity",
+      "type": "T184",
+      "umls_id": "C0026837",
+      "score": 0.9829567074775696,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Continuous involuntary sustained muscle contraction which is often a manifestation of BASAL GANGLIA DISEASES. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from MUSCLE SPASTICITY. (From Adams et al., Principles of Neurology, 6th ed, p73)"
+    },
+    {
+      "text": "questions",
+      "type": "T170",
+      "umls_id": "C1522634",
+      "score": 0.8235301375389099,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine)."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "IV fluids",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.8582273125648499,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "lorazepam",
+      "type": "T109",
+      "umls_id": "C0024002",
+      "score": 0.9822601675987244,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A benzodiazepine used as an anti-anxiety agent with few side effects. It also has hypnotic, anticonvulsant, and considerable sedative properties and has been proposed as a preanesthetic agent."
+    },
+    {
+      "text": "cooling",
+      "type": "T070",
+      "umls_id": "C0678568",
+      "score": 0.9435877203941345,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "To lower the temperature of something."
+    },
+    {
+      "text": "blanket",
+      "type": "T073",
+      "umls_id": "C0179330",
+      "score": 0.9863409996032715,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Large pieces of woven fabric or other appropriate material used for body covering or wrapping."
+    },
+    {
+      "text": "measures",
+      "type": "T081",
+      "umls_id": "C0079809",
+      "score": 0.992241621017456,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "persist",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.7513247132301331,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "original_data": {
+    "question": "A 63-year-old woman with end-stage renal disease complains of feeling lightheaded after her hemodialysis sessions for the past month. She worries she might eventually lose her balance and fall. She has had diabetes mellitus for 22 years. Her medications include folic acid, vitamin B12, amlodipine, and erythropoietin. At the clinic, her blood pressure is 135/80 mm Hg when lying down before dialysis and 110/55 mm Hg when seated after hemodialysis. Cardiopulmonary examination shows no abnormal findings. Laboratory studies after hemodialysis show a Hb of 10.5 mg/dL, a blood sugar of 189 mg/dL, and a hemoglobin A1C of 7.1%. To reduce the likelihood of falls, the most appropriate management is which of the following?",
+    "options": {
+      "A": "Cooling the dialysate",
+      "B": "Eating heavier meals during dialysis",
+      "C": "Increasing ultrafiltration",
+      "D": "Steroid administration"
+    }
+  },
+  "model_response": "The patient's lightheadedness is likely due to orthostatic hypotension, which is a common complication of hemodialysis, especially among diabetics. During dialysis, blood volume is decreased disproportionately to the reduction in extracellular fluid volume, resulting in a decrease in cardiac output and systemic blood pressure. The best way to prevent this complication is to increase the ultrafiltration rate during dialysis. Cooling the dialysate would lead to vasoconstriction and a decrease in the temperature gradient, thereby reducing the rate of solute removal. Eating heavier meals during dialysis would increase the blood sugar and worsen the diabetes. Steroid administration would worsen the diabetes.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "end-stage renal disease",
+      "type": "T047",
+      "umls_id": "C0022661",
+      "score": 0.9554360508918762,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The end-stage of CHRONIC RENAL INSUFFICIENCY. It is characterized by the severe irreversible kidney damage (as measured by the level of PROTEINURIA) and the reduction in GLOMERULAR FILTRATION RATE to less than 15 ml per min (Kidney Foundation: Kidney Disease Outcome Quality Initiative, 2002). These patients generally require HEMODIALYSIS or KIDNEY TRANSPLANTATION."
+    },
+    {
+      "text": "feeling",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9620389342308044,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "lightheaded",
+      "type": "T184",
+      "umls_id": "C0220870",
+      "score": 0.9867796301841736,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of faintness; a reeling sensation. Lightheadedness is medically distinct from dizziness, unsteadiness, and vertigo."
+    },
+    {
+      "text": "hemodialysis",
+      "type": "T061",
+      "umls_id": "C0019004",
+      "score": 0.9888903498649597,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A therapeutic procedure used in patients with kidney failure. It involves the extracorporeal removal of harmful wastes and fluids from the blood using a dialysis machine. Following the dialysis, the blood is returned to the body."
+    },
+    {
+      "text": "sessions",
+      "type": "T051",
+      "umls_id": "C1883016",
+      "score": 0.82115238904953,
+      "semantic_types": [
+        "T051"
+      ],
+      "definition": "Time, period, or term devoted to some activity."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "worries",
+      "type": "T033",
+      "umls_id": "C0233481",
+      "score": 0.9843956232070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Mental distress resulting from concern for something impending or anticipated."
+    },
+    {
+      "text": "balance",
+      "type": "T040",
+      "umls_id": "C0014653",
+      "score": 0.9878619313240051,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "see:http://www.nlm.nih.gov/mesh/MBrowser.html"
+    },
+    {
+      "text": "fall",
+      "type": "T033",
+      "umls_id": "C0085639",
+      "score": 0.9822764992713928,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sudden movement downward, usually resulting in injury."
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "vitamin B12",
+      "type": "T109",
+      "umls_id": "C0042845",
+      "score": 0.96705162525177,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A cobalt-containing coordination compound produced by intestinal micro-organisms and found also in soil and water. Higher plants do not concentrate vitamin B 12 from the soil and so are a poor source of the substance as compared with animal tissues. INTRINSIC FACTOR is important for the assimilation of vitamin B 12."
+    },
+    {
+      "text": "amlodipine",
+      "type": "T109",
+      "umls_id": "C0051696",
+      "score": 0.9584440588951111,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION."
+    },
+    {
+      "text": "erythropoietin",
+      "type": "T116",
+      "umls_id": "C0014822",
+      "score": 0.9740406274795532,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "Glycoprotein hormone, secreted chiefly by the KIDNEY in the adult and the LIVER in the FETUS, that acts on erythroid stem cells of the BONE MARROW to stimulate proliferation and differentiation."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "lying",
+      "type": "T082",
+      "umls_id": "C0038846",
+      "score": 0.9385496973991394,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The posture of an individual lying face up."
+    },
+    {
+      "text": "dialysis",
+      "type": "T070",
+      "umls_id": "C0011945",
+      "score": 0.986276388168335,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "A process of selective diffusion through a membrane. It is usually used to separate low-molecular-weight solutes which diffuse through the membrane from the colloidal and high-molecular-weight solutes which do not. (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "seated",
+      "type": "T033",
+      "umls_id": "C0277814",
+      "score": 0.9851415157318115,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state or act of one who sits; the posture of one who occupies a seat."
+    },
+    {
+      "text": "hemodialysis",
+      "type": "T061",
+      "umls_id": "C0019004",
+      "score": 0.9888903498649597,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A therapeutic procedure used in patients with kidney failure. It involves the extracorporeal removal of harmful wastes and fluids from the blood using a dialysis machine. Following the dialysis, the blood is returned to the body."
+    },
+    {
+      "text": "Cardiopulmonary examination",
+      "type": "T029",
+      "umls_id": "C0553534",
+      "score": 0.7492822408676147,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Pertaining to both the heart and the lungs."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hemodialysis",
+      "type": "T061",
+      "umls_id": "C0019004",
+      "score": 0.9888903498649597,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A therapeutic procedure used in patients with kidney failure. It involves the extracorporeal removal of harmful wastes and fluids from the blood using a dialysis machine. Following the dialysis, the blood is returned to the body."
+    },
+    {
+      "text": "Hb",
+      "type": "T116",
+      "umls_id": "C0019046",
+      "score": 0.9979146122932434,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "The oxygen-carrying proteins of ERYTHROCYTES. They are found in all vertebrates and some invertebrates. The number of globin subunits in the hemoglobin quaternary structure differs between species. Structures range from monomeric to a variety of multimeric arrangements."
+    },
+    {
+      "text": "blood sugar",
+      "type": "T109",
+      "umls_id": "C0005802",
+      "score": 0.9753534197807312,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Glucose in blood."
+    },
+    {
+      "text": "hemoglobin A1C",
+      "type": "T116",
+      "umls_id": "C0019018",
+      "score": 0.9570454359054565,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Products of non-enzymatic reactions between GLUCOSE and HEMOGLOBIN A, occurring as a minor fraction of the hemoglobin components of human erythrocytes. Hemoglobin A1c is hemoglobin A with glucose covalently bound to the terminal VALINE of the beta chain. Glycated hemoglobin A is used as an index of the average blood sugar level over a lifetime of erythrocytes."
+    },
+    {
+      "text": "likelihood",
+      "type": "T081",
+      "umls_id": "C0033204",
+      "score": 0.9673078656196594,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The study of chance processes or the relative frequency characterizing a chance process."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "63-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

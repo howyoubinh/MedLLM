@@ -1,0 +1,334 @@
+{
+  "original_data": {
+    "question": "A three-day-old, full-term infant born by uncomplicated vaginal delivery is brought to a pediatrician by his mother, who notes that her son's skin appears yellow. She reports that the child cries several times per day, but sleeps 7-8 hours at night, uninterrupted. She has been breastfeeding the infant but feels the latch has been poor and is unsure how much milk he has been consuming but feels it is not enough. A lactation consult was called for the patient and it was noted that despite proper instruction the observed latch was still poor. When asked the mother stated that the baby is currently making stools 2 times per day. Which of the following is the most likely etiology of the patient's presentation?",
+    "options": {
+      "A": "Breast milk jaundice",
+      "B": "Breastfeeding jaundice",
+      "C": "Sepsis",
+      "D": "Physiologic hyperbilirubinemia"
+    }
+  },
+  "model_response": "This patient's presentation is most consistent with physiologic jaundice, which is common in newborns, particularly those born at term. Physiologic jaundice is due to the immature liver's decreased capacity for bilirubin conjugation. Breast milk jaundice is a possibility, but less likely given the history of poor latch and inadequate breastfeeding. Breastfeeding jaundice is also a possibility, but less likely given the history of poor latch and inadequate breastfeeding. Sepsis is less likely given the absence of fever, poor feeding, and inadequate stooling.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "three-day-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "full-term",
+      "type": "T033",
+      "umls_id": "C3814420",
+      "score": 0.7106741070747375,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Birth at 39 weeks and 0 days through 40 weeks and 6 days."
+    },
+    {
+      "text": "infant",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9474613070487976,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "son's",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "cries",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "sleeps",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9984138607978821,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "uninterrupted",
+      "type": "T033",
+      "umls_id": "C5668303",
+      "score": 0.8280477523803711,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An indication that a uniform margin was obtained around the entire excised lesion."
+    },
+    {
+      "text": "breastfeeding",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9370194673538208,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "infant",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9474613070487976,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "latch",
+      "type": "T073",
+      "umls_id": "C1708659",
+      "score": 0.7417976260185242,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A fastening device for a swinging part usually consisting of a bar that is retained in a slot."
+    },
+    {
+      "text": "poor",
+      "type": "T102",
+      "umls_id": "C0032854",
+      "score": 0.9493235349655151,
+      "semantic_types": [
+        "T102"
+      ],
+      "definition": "A situation in which the level of living of an individual, family, or group is below the standard of the community. It is often related to a specific income level."
+    },
+    {
+      "text": "milk",
+      "type": "T031",
+      "umls_id": "C0026131",
+      "score": 0.9723520278930664,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The off-white liquid secreted by the mammary glands of humans and other mammals. It contains proteins, sugar, lipids, vitamins, and minerals."
+    },
+    {
+      "text": "consuming",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "lactation",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9747815132141113,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "consult",
+      "type": "T058",
+      "umls_id": "C0009818",
+      "score": 0.9797453284263611,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A conference between two or more people to consider a particular question; the act of deliberating together; confering with another researcher, physician, or expert about an issue or a case."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "instruction",
+      "type": "T065",
+      "umls_id": "C0039401",
+      "score": 0.9664582014083862,
+      "semantic_types": [
+        "T065"
+      ],
+      "definition": "A formal and organized process of transmitting knowledge to a person or group."
+    },
+    {
+      "text": "latch",
+      "type": "T073",
+      "umls_id": "C1708659",
+      "score": 0.7417976260185242,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A fastening device for a swinging part usually consisting of a bar that is retained in a slot."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "baby",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9707297086715698,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "stools 2 times",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "etiology",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9827702641487122,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    }
+  ]
+}

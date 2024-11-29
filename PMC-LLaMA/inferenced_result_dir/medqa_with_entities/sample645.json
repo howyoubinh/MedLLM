@@ -1,0 +1,446 @@
+{
+  "original_data": {
+    "question": "A 45-year-old woman comes to the physician with a lump on her throat that has steadily increased in size over the past 5 months. She does not have difficulties swallowing, dyspnea, or changes in voice. Examination shows a 3-cm, hard swelling on the left side of her neck that moves with swallowing. There is no cervical or axillary lymphadenopathy. The remainder of the examination shows no abnormalities. Thyroid functions tests are within the reference range. Ultrasound of the neck shows an irregular, hypoechogenic mass in the left lobe of the thyroid. A fine-needle aspiration biopsy is inconclusive. The surgeon and patient agree that the most appropriate next step is a diagnostic lobectomy and isthmectomy. Surgery shows a 3.5-cm gray tan thyroid tumor with invasion of surrounding blood vessels, including the veins. The specimen is sent for histopathological examination. Which of the following is most likely to be seen on microscopic examination of the mass?",
+    "options": {
+      "A": "Undifferentiated giant cells",
+      "B": "Capsular invasion",
+      "C": "Infiltration of atypical lymphoid tissue",
+      "D": "Orphan Annie nuclei\n\""
+    }
+  },
+  "model_response": "The diagnosis is papillary carcinoma of the thyroid. The gross appearance of the tumor is characteristic, and the microscopic appearance shows the typical Orphan Annie nuclei. The tumor is not aggressive and has a good prognosis. The other choices are not characteristic of papillary carcinoma.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "lump",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.986535906791687,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "throat",
+      "type": "T023",
+      "umls_id": "C0031354",
+      "score": 0.9923238754272461,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A funnel-shaped fibromuscular tube that conducts food to the ESOPHAGUS, and air to the LARYNX and LUNGS. It is located posterior to the NASAL CAVITY; ORAL CAVITY; and LARYNX, and extends from the SKULL BASE to the inferior border of the CRICOID CARTILAGE anteriorly and to the inferior border of the C6 vertebra posteriorly. It is divided into the NASOPHARYNX; OROPHARYNX; and HYPOPHARYNX (laryngopharynx)."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "difficulties swallowing",
+      "type": "T047",
+      "umls_id": "C0011168",
+      "score": 0.9751816987991333,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Difficulty in SWALLOWING which may result from neuromuscular disorder or mechanical obstruction. Dysphagia is classified into two distinct types: oropharyngeal dysphagia due to malfunction of the PHARYNX and UPPER ESOPHAGEAL SPHINCTER; and esophageal dysphagia due to malfunction of the ESOPHAGUS."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9851773381233215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "voice",
+      "type": "T040",
+      "umls_id": "C0042939",
+      "score": 0.9692062735557556,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sounds produced by humans by the passage of air through the LARYNX and over the VOCAL CORDS, and then modified by the resonance organs, the NASOPHARYNX, and the MOUTH."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hard swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.7791690230369568,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "moves",
+      "type": "T033",
+      "umls_id": "C0578671",
+      "score": 0.9804561138153076,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "swallowing",
+      "type": "T040",
+      "umls_id": "C0011167",
+      "score": 0.967613935470581,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act of taking solids and liquids into the GASTROINTESTINAL TRACT through the mouth and throat."
+    },
+    {
+      "text": "axillary lymphadenopathy",
+      "type": "T046",
+      "umls_id": "C0578735",
+      "score": 0.9857603311538696,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A clinical finding indicating the enlargement of the lymph nodes in the axillary region. It may be caused by infections, systemic diseases, or cancer."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Thyroid functions tests",
+      "type": "T059",
+      "umls_id": "C0040130",
+      "score": 0.9233303666114807,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Blood tests used to evaluate the functioning of the thyroid gland."
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "hypoechogenic mass",
+      "type": "T033",
+      "umls_id": "C4477002",
+      "score": 0.7548633813858032,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Reduced echogenicity of liver tissue on sonography, manifested as an increased amount of black on the screen of the sonography device. [PMID:21472065]"
+    },
+    {
+      "text": "left lobe",
+      "type": "T023",
+      "umls_id": "C1261077",
+      "score": 0.8315324187278748,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The larger lobe of the left lung, situated below and behind the oblique fissure."
+    },
+    {
+      "text": "thyroid",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9902244210243225,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "fine-needle aspiration biopsy",
+      "type": "T060",
+      "umls_id": "C1510483",
+      "score": 0.9568860530853271,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The removal of tissue or fluid with a thin needle for examination under a microscope."
+    },
+    {
+      "text": "inconclusive",
+      "type": "T080",
+      "umls_id": "C0205258",
+      "score": 0.9822525382041931,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Cannot distinguish between two or more possible values in the current context."
+    },
+    {
+      "text": "surgeon",
+      "type": "T097",
+      "umls_id": "C0582175",
+      "score": 0.9574177265167236,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Medical practitioners qualified to practice surgery."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnostic lobectomy",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.7101225256919861,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "isthmectomy",
+      "type": "T061",
+      "umls_id": "C0193804",
+      "score": 0.979214608669281,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgery involving excision of the isthmus of the thyroid gland."
+    },
+    {
+      "text": "Surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "thyroid tumor",
+      "type": "T191",
+      "umls_id": "C0040136",
+      "score": 0.9903486371040344,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Tumors or cancer of the THYROID GLAND."
+    },
+    {
+      "text": "invasion",
+      "type": "T191",
+      "umls_id": "C1269955",
+      "score": 0.9435477256774902,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "The local spread of tumor cells of a malignant neoplasm through infiltration or destruction of adjacent tissue; for epithelial neoplasms, invasion signifies infiltration beneath the epithelial basement membrane."
+    },
+    {
+      "text": "blood vessels",
+      "type": "T023",
+      "umls_id": "C0005847",
+      "score": 0.9956861138343811,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+    },
+    {
+      "text": "veins",
+      "type": "T023",
+      "umls_id": "C0042449",
+      "score": 0.9909446239471436,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The vessels carrying blood away from the CAPILLARY BEDS."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "histopathological",
+      "type": "T091",
+      "umls_id": "C0677043",
+      "score": 0.8880505561828613,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The microscopic study of characteristic tissue abnormalities by employing various cytochemical and immunocytochemical stains."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "microscopic",
+      "type": "T080",
+      "umls_id": "C0205288",
+      "score": 0.9958658814430237,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Too small to be seen except under a microscope."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

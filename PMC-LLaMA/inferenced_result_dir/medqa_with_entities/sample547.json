@@ -1,0 +1,529 @@
+{
+  "original_data": {
+    "question": "A 62-year-old man is brought to the emergency department 40 minutes after his wife noticed during breakfast that the left side of his face was drooping. He had difficulty putting on his shirt and shoes before coming to the hospital. He has type 2 diabetes mellitus, hypertension, and hypercholesterolemia. His current medications include metformin, enalapril, and atorvastatin. He has smoked one pack of cigarettes daily for 35 years. He drinks one glass of wine daily. He is alert and oriented to time, place and person. His temperature is 37°C (98.6°F), pulse is 99/min and blood pressure is 170/100 mm Hg. Examination shows equal and reactive pupils. There is drooping of the left side of the face. Muscle strength is decreased in the left upper and lower extremities. Plantar reflex shows an extensor response on the left side. Speech is dysarthric. There is a bruit on the right side of the neck. Fundoscopy shows no abnormalities. A complete blood count, coagulation profile, and serum concentrations of glucose and electrolytes are within the reference range. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "MRI of the brain",
+      "B": "Lumbar puncture",
+      "C": "Duplex ultrasonography of the neck",
+      "D": "CT scan of the head"
+    }
+  },
+  "model_response": "The clinical diagnosis is a stroke. The most appropriate next step in management is to perform a CT scan of the head. The patient has a history of diabetes mellitus, hypertension, hypercholesterolemia, and smoking. This puts him at high risk for a stroke. The sudden onset of facial weakness and dysarthric speech indicates that the stroke is most likely a lacunar infarction. A CT scan of the head will confirm the diagnosis. The patient is not a candidate for thrombolysis because he has a history of hypertension. Lumbar puncture is not indicated because there are no features to suggest an infection. MRI of the brain is not the most appropriate next step because the patient needs a CT scan of the head to confirm the diagnosis. Duplex ultrasonography of the neck is not indicated because the patient does not have any symptoms or signs of a stroke related to a possible carotid artery occlusion.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "drooping",
+      "type": "T047",
+      "umls_id": "C0427055",
+      "score": 0.7772994041442871,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A reduction in the strength of the facial muscles."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "shirt",
+      "type": "T073",
+      "umls_id": "C0453917",
+      "score": 0.9914630055427551,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shoes",
+      "type": "T073",
+      "umls_id": "C0036988",
+      "score": 0.9741325378417969,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Footwear made of a flat sole shaped to the contour of the foot, connected to an upper portion which may or may not completely cover or wrap around the foot."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hypercholesterolemia",
+      "type": "T047",
+      "umls_id": "C0020443",
+      "score": 0.9879153370857239,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A condition with abnormally high levels of CHOLESTEROL in the blood. It is defined as a cholesterol value exceeding the 95th percentile for the population."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "enalapril",
+      "type": "T116",
+      "umls_id": "C0014025",
+      "score": 0.9851265549659729,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "An angiotensin-converting enzyme inhibitor that is used to treat HYPERTENSION and HEART FAILURE."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "glass",
+      "type": "T073",
+      "umls_id": "C0017596",
+      "score": 0.9900928735733032,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Hard, amorphous, brittle, inorganic, usually transparent, polymerous silicate of basic oxides, usually potassium or sodium. It is used in the form of hard sheets, vessels, tubing, fibers, ceramics, beads, etc."
+    },
+    {
+      "text": "wine daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.7358837127685547,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "oriented",
+      "type": "T082",
+      "umls_id": "C1704322",
+      "score": 0.9877923130989075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Position or alignment relative to points of the compass or other specific directions."
+    },
+    {
+      "text": "place",
+      "type": "T082",
+      "umls_id": "C0442504",
+      "score": 0.9976354241371155,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The particular portion of space occupied by a physical object or intended for a physical object."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "reactive pupils",
+      "type": "T080",
+      "umls_id": "C0205332",
+      "score": 0.7410761713981628,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>A presence finding used to indicate that the specified component / analyte reacted with the reagent above the reliably measurable limit of the performed test.</p>"
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "Muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.9795353412628174,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "left upper",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.8117914199829102,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "Plantar reflex",
+      "type": "T033",
+      "umls_id": "C0278131",
+      "score": 0.9744055867195129,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "extensor response",
+      "type": "T033",
+      "umls_id": "C0034935",
+      "score": 0.8409786820411682,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A reflex found in normal infants consisting of dorsiflexion of the HALLUX and abduction of the other TOES in response to cutaneous stimulation of the plantar surface of the FOOT. In adults, it is used as a diagnostic criterion, and if present is a NEUROLOGIC MANIFESTATION of dysfunction in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "Speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "dysarthric",
+      "type": "T048",
+      "umls_id": "C0013362",
+      "score": 0.8348267674446106,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Disorders of speech articulation caused by imperfect coordination of pharynx, larynx, tongue, or face muscles. This may result from CRANIAL NERVE DISEASES; NEUROMUSCULAR DISEASES; CEREBELLAR DISEASES; BASAL GANGLIA DISEASES; BRAIN STEM diseases; or diseases of the corticobulbar tracts (see PYRAMIDAL TRACTS). The cortical language centers are intact in this condition. (From Adams et al., Principles of Neurology, 6th ed, p489)"
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "coagulation profile",
+      "type": "T059",
+      "umls_id": "C0005790",
+      "score": 0.9449162483215332,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Laboratory tests for evaluating the individual's clotting mechanism."
+    },
+    {
+      "text": "serum concentrations",
+      "type": "T081",
+      "umls_id": "C0683149",
+      "score": 0.9837303161621094,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "glucose",
+      "type": "T109",
+      "umls_id": "C0017725",
+      "score": 0.9921190142631531,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T123"
+      ],
+      "definition": "A primary source of energy for living organisms. It is naturally occurring and is found in fruits and other parts of plants in its free state. It is used therapeutically in fluid and nutrient replacement."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

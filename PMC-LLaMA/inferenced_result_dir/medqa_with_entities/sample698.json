@@ -1,0 +1,250 @@
+{
+  "original_data": {
+    "question": "A 34-year-old man comes to the physician with a 2-month history of difficulty concentrating at work. He is worried he may lose his job due to poor performance. He feels constantly tired but attributes his fatigue to waking up early most mornings and being unable to fall back asleep. His wife has noticed that he has been speaking more slowly than usual and his appetite has decreased. He used to enjoy dance classes with her but has not been as interested in this recently. He is a veteran who returned from a deployment to Afghanistan 2 years ago. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Major depressive disorder",
+      "B": "Adjustment disorder",
+      "C": "Acute stress disorder",
+      "D": "Post traumatic stress disorder"
+    }
+  },
+  "model_response": "The symptoms of difficulty concentrating, fatigue, slowed speech, decreased appetite, and loss of interest in previously enjoyed activities are all consistent with a diagnosis of major depressive disorder. The fact that the symptoms have been present for 2 months and are causing impairment in his occupational functioning further support this diagnosis. The fact that he is a veteran who returned from a deployment is also significant as it puts him at higher risk for developing major depressive disorder.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "difficulty concentrating",
+      "type": "T033",
+      "umls_id": "C0947509",
+      "score": 0.9700543284416199,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lose his",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "job",
+      "type": "T090",
+      "umls_id": "C0028811",
+      "score": 0.9788143038749695,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Crafts, trades, professions, or other means of earning a living."
+    },
+    {
+      "text": "poor performance",
+      "type": "T033",
+      "umls_id": "C1831741",
+      "score": 0.856916606426239,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Performance status defined as poor according to the ECOG performance score or Karnofsky performance score."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "attributes",
+      "type": "T078",
+      "umls_id": "C0449234",
+      "score": 0.851893961429596,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any of the properties, roles, or associations, that define a concept."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "mornings",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.8143466711044312,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "fall back asleep",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "speaking",
+      "type": "T055",
+      "umls_id": "C0234856",
+      "score": 0.9446115493774414,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To communicate using verbal language."
+    },
+    {
+      "text": "slowly",
+      "type": "T080",
+      "umls_id": "C0439834",
+      "score": 0.9598557353019714,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Proceeding at a low speed; taking a comparatively long time."
+    },
+    {
+      "text": "usual",
+      "type": "T080",
+      "umls_id": "C3538928",
+      "score": 0.949625551700592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "That which is considered customary."
+    },
+    {
+      "text": "appetite",
+      "type": "T040",
+      "umls_id": "C0003618",
+      "score": 0.9883872270584106,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Natural recurring desire for food. Alterations may be induced by APPETITE DEPRESSANTS or APPETITE STIMULANTS."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "classes",
+      "type": "T170",
+      "umls_id": "C0456387",
+      "score": 0.988076388835907,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A grouping of things based on shared common attributes."
+    },
+    {
+      "text": "veteran",
+      "type": "T098",
+      "umls_id": "C0042610",
+      "score": 0.9511861205101013,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Former members of the armed services."
+    },
+    {
+      "text": "Afghanistan 2",
+      "type": "T083",
+      "umls_id": "C0001732",
+      "score": 0.884127676486969,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Country located north and west of Pakistan, and east of Iran. The capital is Kabul."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

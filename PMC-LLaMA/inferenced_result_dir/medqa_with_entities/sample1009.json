@@ -1,0 +1,311 @@
+{
+  "original_data": {
+    "question": "A 45-year-old woman comes to the physician because of a 2-week history of painful ulcers in her mouth. Over the past 2 months, she has had increasing fatigue and difficulties concentrating. She has a history of rheumatoid arthritis and was started on a new medication 4 months ago. Examination shows pallor of the mucosal membranes and three tender ulcerative lesions in her mouth. Her hemoglobin concentration is 8.7 g/dL and mean corpuscular volume is 109 μm3. A blood smear shows hypersegmented neutrophils. Which of the following is the most likely cause of this patient's findings?",
+    "options": {
+      "A": "Deficient heme synthesis",
+      "B": "Deficient erythropoietin secretion",
+      "C": "Deficient nitrogenous base production",
+      "D": "Deficient β-globin chains"
+    }
+  },
+  "model_response": "The macrocytic anemia and the presence of hypersegmented neutrophils suggest megaloblastic anemia. The most common cause of megaloblastic anemia is deficient vitamin B12 or folate production. The most common cause of deficient vitamin B12 is pernicious anemia, an autoimmune disease in which antibodies are produced against gastric parietal cells, which leads to deficient production of intrinsic factor, which is required for vitamin B12 absorption. The most common cause of deficient folate is alcoholism.\n\nThe other choices are not related to the development of megaloblastic anemia. Deficient heme synthesis can lead to porphyrias, which are associated with abnormalities in hemoglobin production. Deficient erythropoietin secretion can lead to secondary anemias, in which the bone marrow is unable to produce adequate numbers of red blood cells. Deficient nitrogenous base production can lead to a type of anemia called sideroblastic anemia, in which iron deposits abnormally in developing red blood cells. Deficient β-globin chain production can lead to sickle cell anemia.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "painful",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9710636734962463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "ulcers",
+      "type": "T046",
+      "umls_id": "C0041582",
+      "score": 0.9872905611991882,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A lesion on the surface of the skin or a mucous surface, produced by the sloughing of inflammatory necrotic tissue."
+    },
+    {
+      "text": "mouth",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9870113730430603,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "difficulties",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.984925389289856,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "concentrating",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.8040652871131897,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "rheumatoid arthritis",
+      "type": "T047",
+      "umls_id": "C0003873",
+      "score": 0.9790905117988586,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pallor",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9879653453826904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "mucosal membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.7813973426818848,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "ulcerative",
+      "type": "T046",
+      "umls_id": "C0041582",
+      "score": 0.9648745656013489,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A lesion on the surface of the skin or a mucous surface, produced by the sloughing of inflammatory necrotic tissue."
+    },
+    {
+      "text": "lesions",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9854557514190674,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "mouth",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9870113730430603,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "corpuscular volume",
+      "type": "T034",
+      "umls_id": "C0524587",
+      "score": 0.8964628577232361,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "MCV equals HEMATOCRIT divided by ERYTHROCYTE COUNT."
+    },
+    {
+      "text": "blood smear",
+      "type": "T059",
+      "umls_id": "C2238079",
+      "score": 0.9947441816329956,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A sample of blood applied in a thin film to a microscope slide for study under a microscope."
+    },
+    {
+      "text": "hypersegmented",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

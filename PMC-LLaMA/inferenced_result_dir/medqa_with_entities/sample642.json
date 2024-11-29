@@ -1,0 +1,258 @@
+{
+  "original_data": {
+    "question": "A 40-year-old woman presents with severe shortness of breath. The patient is unable to provide a history due to her breathing difficulties. The patient’s roommate says that she came home and found her in this state. She also says that they both occasionally take sleeping pills to help them fall asleep. Physical examination reveals an obese female, dyspneic with diminished chest wall movements. The patient’s A-a gradient is calculated to be 10 mm Hg. Which of the following most likely accounts for this patient’s symptoms?",
+    "options": {
+      "A": "Alveolar hypoventilation",
+      "B": "Impaired gas diffusion",
+      "C": "Left-to-right blood shunt",
+      "D": "Right-to-left blood shunt"
+    }
+  },
+  "model_response": "The patient’s A-a gradient is calculated to be 10 mm Hg. This is consistent with alveolar hypoventilation. The most likely cause of her symptoms is obesity hypoventilation syndrome (OHS). OHS is defined as the coexistence of obesity with hypercapnia (PaCO2 > 46 mm Hg) and hypoxemia (PaO2 < 8 kPa) in the absence of known causes of hypoventilation. OHS is a result of impaired respiratory drive secondary to the accumulation of adipokines (leptin, tumor necrosis factor-alpha, and interleukin-6) in the hypothalamus. The leptin resistance that occurs in obesity impairs the normal feedback loop that regulates appetite and body weight. The most common precipitating cause of acute respiratory failure in patients with OHS is the use of sedatives and hypnotics.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "breathing difficulties",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9846726059913635,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "state",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9975531101226807,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pills",
+      "type": "T122",
+      "umls_id": "C0994475",
+      "score": 0.9942100644111633,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A solid composed of a small, round object composed of active and/or inert ingredient(s)."
+    },
+    {
+      "text": "fall",
+      "type": "T033",
+      "umls_id": "C0085639",
+      "score": 0.9822764992713928,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sudden movement downward, usually resulting in injury."
+    },
+    {
+      "text": "asleep",
+      "type": "T033",
+      "umls_id": "C0424522",
+      "score": 0.9872681498527527,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "obese",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9816532731056213,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "dyspneic with",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "diminished",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9759602546691895,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "chest wall",
+      "type": "T023",
+      "umls_id": "C0205076",
+      "score": 0.9891918897628784,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The total system of structures outside the lungs that move as a part of breathing; it includes all structures from the skin to the parietal pleura."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "A-a",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gradient",
+      "type": "T081",
+      "umls_id": "C0812409",
+      "score": 0.982342004776001,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A graded change in the magnitude of some physical quantity or dimension."
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "40-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

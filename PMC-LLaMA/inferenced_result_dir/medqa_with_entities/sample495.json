@@ -1,0 +1,363 @@
+{
+  "original_data": {
+    "question": "A 55-year-old woman is found to have an abnormal mass on routine mammography. The mass is biopsied and cytology results are diagnostic for invasive ductal adenocarcinoma that is estrogen receptor positive. The patient is started on chemotherapy and ultimately has the mass resected. She is taking tamoxifen and has regular outpatient follow up appointments to monitor for any recurrence of cancer. The patient has a past medical history of asthma, obesity, and a uterine leimyoma which was definitively treated last year. Her last menstrual period was at the age of 47. The patient's vital signs and exam are unremarkable. Which of the following is a potential complication that could occur in this patient?",
+    "options": {
+      "A": "Deep venous thrombosis",
+      "B": "Eruption of seborrheic keratoses",
+      "C": "Increased bleeding",
+      "D": "Osteoporosis"
+    }
+  },
+  "model_response": "This patient is at increased risk for deep venous thrombosis due to her use of tamoxifen. Tamoxifen is an estrogen antagonist that is used in the treatment of estrogen receptor positive breast cancer. It is associated with a two fold increased risk of deep venous thrombosis. The eruption of seborrheic keratoses is a benign condition that is not associated with breast cancer or its treatment. Increased bleeding is not associated with breast cancer or its treatment. Osteoporosis is not associated with breast cancer or its treatment.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "routine mammography",
+      "type": "T060",
+      "umls_id": "C0024671",
+      "score": 0.7724724411964417,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Radiographic examination of the breast."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "biopsied",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9714099764823914,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "cytology",
+      "type": "T059",
+      "umls_id": "C0010818",
+      "score": 0.9964379072189331,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Methods used to study CELLS."
+    },
+    {
+      "text": "diagnostic",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9788362979888916,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "invasive",
+      "type": "T080",
+      "umls_id": "C0205281",
+      "score": 0.9686405658721924,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Marked by a tendency to spread, especially into healthy surrounding tissue."
+    },
+    {
+      "text": "estrogen receptor positive",
+      "type": "T034",
+      "umls_id": "C0279754",
+      "score": 0.9915130138397217,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "An indication that estrogen receptor alpha expression has been detected in a sample."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "chemotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9887933135032654,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "mass resected",
+      "type": "T033",
+      "umls_id": "C1335760",
+      "score": 0.9889395236968994,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tamoxifen",
+      "type": "T109",
+      "umls_id": "C0039286",
+      "score": 0.9778705835342407,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "One of the SELECTIVE ESTROGEN RECEPTOR MODULATORS with tissue-specific activities. Tamoxifen acts as an anti-estrogen (inhibiting agent) in the mammary tissue, but as an estrogen (stimulating agent) in cholesterol metabolism, bone density, and cell proliferation in the ENDOMETRIUM."
+    },
+    {
+      "text": "outpatient",
+      "type": "T101",
+      "umls_id": "C0029921",
+      "score": 0.9540979862213135,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Persons who receive ambulatory care at an outpatient department or clinic without room and board being provided."
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appointments",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9700461626052856,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "recurrence",
+      "type": "T067",
+      "umls_id": "C0034897",
+      "score": 0.9811501502990723,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Happening again (especially at regular intervals)."
+    },
+    {
+      "text": "cancer",
+      "type": "T191",
+      "umls_id": "C0006826",
+      "score": 0.9914878010749817,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas, Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9802035093307495,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "obesity",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9890912771224976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "uterine leimyoma",
+      "type": "T191",
+      "umls_id": "C0042133",
+      "score": 0.7745576500892639,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A benign smooth muscle neoplasm arising from the body of the uterus. It is characterized by the presence of spindle cells with cigar-shaped nuclei, interlacing fascicles, and a whorled pattern."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "complication",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9702832698822021,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

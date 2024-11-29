@@ -1,0 +1,330 @@
+{
+  "original_data": {
+    "question": "A 35-year-old woman comes to the physician because of intermittent episodes of heart palpitations for 3 weeks. The palpitations are accompanied by chest pain that is sharp and localized to the left 3rd intercostal space. The patient does not smoke. She drinks one to two glasses of wine on the weekends. She appears nervous. Her pulse is 110/min and irregularly irregular, and blood pressure is 135/85 mmHg. Examination shows a fine tremor on both hands and digital swelling. There is retraction of the left upper eyelid. A systolic ejection murmur is heard along the right upper sternal border. The extremities are warm, and pulses are 2+ bilaterally. Which of the following is the most appropriate pharmacotherapy?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Digoxin",
+      "C": "Amiodarone",
+      "D": "Warfarin"
+    }
+  },
+  "model_response": "The irregularly irregular pulse suggests atrial fibrillation (AF). The elevated heart rate and blood pressure suggest a hyperkinetic state. The fine tremor is suggestive of hyperthyroidism. The eyelid retraction suggests hyperthyroidism as well. The ectopic beat and the intermittent nature of the symptoms suggest the possibility of paroxysmal AF with a rapid ventricular response. The ejection murmur suggests the possibility of associated valvular heart disease. The most likely diagnosis is paroxysmal AF with a rapid ventricular response and ectopic beats. The initial treatment should be to slow the ventricular rate with a beta blocker. Propranolol is a nonselective beta blocker and will also treat the ectopic beats. Digoxin is also effective in treating the ventricular rate in AF, but it has no effect on ectopic beats. Amiodarone is an antiarrhythmic and will treat ectopic beats, but it will also slow the ventricular rate. Warfarin is an anticoagulant and is indicated for patients in AF who have a risk factor for embolic stroke.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "heart palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9735671281814575,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "sharp",
+      "type": "T033",
+      "umls_id": "C1444775",
+      "score": 0.9891087412834167,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Applied to pain that is described as sharp, i.e., sudden and severe. []"
+    },
+    {
+      "text": "localized",
+      "type": "T082",
+      "umls_id": "C0392752",
+      "score": 0.9746999740600586,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being confined or restricted to a particular location. [HPO:probinson]"
+    },
+    {
+      "text": "intercostal space",
+      "type": "T030",
+      "umls_id": "C0230136",
+      "score": 0.9669649600982666,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Space of compartment of trunk bounded by the upper and lower surfaces of two consecutive ribs."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "glasses",
+      "type": "T074",
+      "umls_id": "C0015421",
+      "score": 0.9843721389770508,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A pair of ophthalmic lenses in a frame or mounting which is supported by the nose and ears. The purpose is to aid or improve vision. It does not include goggles or nonprescription sun glasses for which EYE PROTECTIVE DEVICES is available."
+    },
+    {
+      "text": "wine",
+      "type": "T168",
+      "umls_id": "C0043188",
+      "score": 0.9571377635002136,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Fermented juice of fresh grapes or of other fruit or plant products used as a beverage."
+    },
+    {
+      "text": "weekends",
+      "type": "T079",
+      "umls_id": "C0680190",
+      "score": 0.9821826219558716,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period comprising Saturday and Sunday, and sometimes considered to include Friday night."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "digital swelling",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "retraction",
+      "type": "T033",
+      "umls_id": "C0332523",
+      "score": 0.9761996269226074,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left upper",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.8117914199829102,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "systolic ejection",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7026140689849854,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "right upper sternal border",
+      "type": "T184",
+      "umls_id": "C5238653",
+      "score": 0.7561132311820984,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The location of the chest pain is along the right upper border of the sternum."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "warm",
+      "type": "T033",
+      "umls_id": "C0582051",
+      "score": 0.995954692363739,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pulses",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9752345681190491,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

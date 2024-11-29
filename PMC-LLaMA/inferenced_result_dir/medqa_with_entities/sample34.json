@@ -1,0 +1,427 @@
+{
+  "original_data": {
+    "question": "A 27-year-old man presents to the emergency department. He was brought in by staff from the homeless shelter when they found him unresponsive. The patient is a known IV drug abuser but otherwise has an unknown past medical history. He currently attends a methadone clinic. His temperature is 99.5°F (37.5°C), blood pressure is 97/48 mmHg, pulse is 140/min, respirations are 29/min, and oxygen saturation is 98% on room air. Initial laboratory values are shown below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 6.3 mEq/L\nHCO3-: 17 mEq/L\nGlucose: 589 mg/dL\n\nThe patient is given treatment. After treatment, his temperature is 99.5°F (37.5°C), blood pressure is 117/78 mmHg, pulse is 100/min, respirations are 23/min, and oxygen saturation is 98% on room air. His laboratory values are seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 19 mEq/L\nGlucose: 90 mg/dL\n\nWhich of the following is the best next step in management?",
+    "options": {
+      "A": "Insulin, potassium, IV fluids, and glucose",
+      "B": "IV fluids only",
+      "C": "Oral rehydration",
+      "D": "Supportive therapy and close monitoring"
+    }
+  },
+  "model_response": "The patient's initial laboratory values are consistent with severe hyperglycemia, metabolic acidosis, and volume depletion. His initial treatment should include insulin, potassium, IV fluids, and glucose. This will correct his hyperglycemia, improve his intravascular volume status, and correct his metabolic acidosis. His initial improvement is consistent with appropriate treatment. His subsequent laboratory values show that his acidosis has not fully corrected. His potassium level has improved, but his bicarbonate level has not. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His glucose level should be rechecked in an hour and further adjustments in insulin made as needed. His IV fluids should be continued as needed. His improvement is likely due to appropriate treatment. His laboratory values show that his acidosis has not fully corrected. His bicarbonate level is low and his anion gap is elevated. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His glucose level should be rechecked in an hour and further adjustments in insulin made as needed. His improvement is likely due to appropriate treatment. His laboratory values show that his acidosis has not fully corrected. His bicarbonate level is low and his anion gap is elevated. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His glucose level should be rechecked in an hour and further adjustments in insulin made as needed. His improvement is likely due to appropriate treatment. His laboratory values show that his acidosis has not fully corrected. His bicarbonate level is low and his anion gap is elevated. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His glucose level should be rechecked in an hour and further adjustments in insulin made as needed. His improvement is likely due to appropriate treatment. His laboratory values show that his acidosis has not fully corrected. His bicarbonate level is low and his anion gap is elevated. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His glucose level should be rechecked in an hour and further adjustments in insulin made as needed. His improvement is likely due to appropriate treatment. His laboratory values show that his acidosis has not fully corrected. His bicarbonate level is low and his anion gap is elevated. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His glucose level should be rechecked in an hour and further adjustments in insulin made as needed. His improvement is likely due to appropriate treatment. His laboratory values show that his acidosis has not fully corrected. His bicarbonate level is low and his anion gap is elevated. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His glucose level should be rechecked in an hour and further adjustments in insulin made as needed. His improvement is likely due to appropriate treatment. His laboratory values show that his acidosis has not fully corrected. His bicarbonate level is low and his anion gap is elevated. His acidosis is likely due to ongoing ketoacidosis. His treatment should be continued with insulin and potassium. His bicarbonate level will likely improve with time as his acidosis resolves. His gluc",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "staff",
+      "type": "T097",
+      "umls_id": "C0851286",
+      "score": 0.9618050456047058,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "The employees of an organization; personnel who assist their superior in carrying out an assigned task."
+    },
+    {
+      "text": "homeless shelter",
+      "type": "T095",
+      "umls_id": "C0681146",
+      "score": 0.9794895648956299,
+      "semantic_types": [
+        "T095"
+      ],
+      "definition": "Housing created or provided for ILL-HOUSED PERSONS."
+    },
+    {
+      "text": "unresponsive",
+      "type": "T169",
+      "umls_id": "C0205269",
+      "score": 0.9691659212112427,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not responding to treatment."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "drug abuser",
+      "type": "T101",
+      "umls_id": "C0338666",
+      "score": 0.9784309267997742,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "People who take drugs for a non-therapeutic or non-medical effect. The drugs may be legal or illegal, but their use often results in adverse medical, legal, or social consequences for the users."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "attends",
+      "type": "T074",
+      "umls_id": "C0725204",
+      "score": 0.9854725003242493,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "methadone",
+      "type": "T109",
+      "umls_id": "C0025605",
+      "score": 0.9646385312080383,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic opioid that is used as the hydrochloride. It is an opioid analgesic that is primarily a mu-opioid agonist. It has actions and uses similar to those of MORPHINE. (From Martindale, The Extra Pharmacopoeia, 30th ed, p1082-3)"
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "laboratory values",
+      "type": "T034",
+      "umls_id": "C4277633",
+      "score": 0.859666645526886,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "Test results which deviate substantially from normal ranges of REFERENCE VALUES or other qualitative results. They trigger CLINICAL LABORATORY SERVICES to place a special alert to ensure PATIENT SAFETY."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "Na+",
+      "type": "T196",
+      "umls_id": "C0597484",
+      "score": 0.9633213877677917,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "chief cation of the extracellular body fluids."
+    },
+    {
+      "text": "Cl-",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "K+",
+      "type": "T121",
+      "umls_id": "C0597277",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "atom of potassium having a positive charge; potassium is the chief cation of muscle and most other cells (intracellular fluid)."
+    },
+    {
+      "text": "HCO3-",
+      "type": "T116",
+      "umls_id": "C0106269",
+      "score": 0.7160655856132507,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Electroneutral chloride bicarbonate exchangers that allow the exchange of BICARBONATE IONS exchange for CHLORIDE IONS across the cellular membrane. The action of specific antiporters in this class serve important functions such as allowing the efficient exchange of bicarbonate across red blood cell membranes as they passage through capillaries and the reabsorption of bicarbonate ions by the kidney."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "laboratory values",
+      "type": "T034",
+      "umls_id": "C4277633",
+      "score": 0.859666645526886,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "Test results which deviate substantially from normal ranges of REFERENCE VALUES or other qualitative results. They trigger CLINICAL LABORATORY SERVICES to place a special alert to ensure PATIENT SAFETY."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "Na+",
+      "type": "T196",
+      "umls_id": "C0597484",
+      "score": 0.9633213877677917,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "chief cation of the extracellular body fluids."
+    },
+    {
+      "text": "Cl-",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "K+",
+      "type": "T121",
+      "umls_id": "C0597277",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "atom of potassium having a positive charge; potassium is the chief cation of muscle and most other cells (intracellular fluid)."
+    },
+    {
+      "text": "HCO3-",
+      "type": "T116",
+      "umls_id": "C0106269",
+      "score": 0.7160655856132507,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Electroneutral chloride bicarbonate exchangers that allow the exchange of BICARBONATE IONS exchange for CHLORIDE IONS across the cellular membrane. The action of specific antiporters in this class serve important functions such as allowing the efficient exchange of bicarbonate across red blood cell membranes as they passage through capillaries and the reabsorption of bicarbonate ions by the kidney."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

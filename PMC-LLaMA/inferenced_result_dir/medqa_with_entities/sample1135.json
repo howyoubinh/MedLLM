@@ -1,0 +1,298 @@
+{
+  "original_data": {
+    "question": "A 23-year-old man comes to the physician because of a 1-week history of anorexia, nausea, upper abdominal pain, and dark-colored urine. He recently returned from a trip to Belize. His temperature is 38.3°C (100.9°F). Physical examination shows scleral icterus and tender hepatomegaly. Serum studies show markedly elevated transaminases and anti-hepatitis A virus antibodies. In this patient, infected cells express more MHC class I molecules on their surfaces. This cellular event is primarily induced by a molecule that is also responsible for which of the following changes?",
+    "options": {
+      "A": "Upregulated expression of exogenously synthesized antigens",
+      "B": "Enhanced macrophage phagocytic function",
+      "C": "Activation of eukaryotic initiation factor 2",
+      "D": "Increased breakdown of intracellular RNA"
+    }
+  },
+  "model_response": "This patient has hepatitis A, which is caused by a small RNA virus. The virus is detected in the liver by the presence of anti-hepatitis A virus antibodies in the serum. The virus is spread by the fecal-oral route. The virus infects the liver and causes lysis of the hepatocytes. The release of the intracellular RNA of the hepatocytes into the cytoplasm is sensed by Toll-like receptor 7 (TLR-7) and TLR-8. This binding of the viral RNA to the TLRs activates eukaryotic initiation factor 2 (eIF-2). The activation of eIF-2 causes the phosphorylation of the translation initiation factor and the general control nonderepressible 2 (GCN2) protein. GCN2 is a kinase that phosphorylates and activates the translation of a number of proteins, including the MHC class I proteins. The increased expression of MHC class I proteins allows the presentation of the viral peptides to cytotoxic T lymphocytes (CTLs), which can kill the infected hepatocytes. The increased expression of MHC class I proteins is also a consequence of the increased breakdown of intracellular RNA in the infected cells. The increased breakdown of intracellular RNA leads to increased synthesis of both mRNA and rRNA. The increased synthesis of mRNA leads to increased protein synthesis, which can be used for the increased expression of MHC class I proteins. The increased expression of MHC class I proteins is not due to the increased expression of exogenously synthesized antigens, which is a feature of viral infections such as adenovirus and cytomegalovirus. The increased expression of MHC class I proteins is not due to enhanced macrophage phagocytic function, which is a feature of viral infections such as herpes simplex virus and varicella-zoster virus. The increased expression of MHC class I proteins is not due to the activation of eukaryotic initiation factor 2, which is a feature of viral infections such as poliovirus and coxsackievirus.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-week history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "anorexia",
+      "type": "T047",
+      "umls_id": "C0003123",
+      "score": 0.9688267111778259,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The lack or loss of APPETITE accompanied by an aversion to food and the inability to eat. It is the defining characteristic of the disorder ANOREXIA NERVOSA."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "upper abdominal pain",
+      "type": "T184",
+      "umls_id": "C0232492",
+      "score": 0.9738743901252747,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dark-colored",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "Belize",
+      "type": "T083",
+      "umls_id": "C0004952",
+      "score": 0.9857602715492249,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in CENTRAL AMERICA, bordering the Caribbean Sea, between GUATEMALA and MEXICO."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "tender hepatomegaly",
+      "type": "T033",
+      "umls_id": "C0019209",
+      "score": 0.8104467988014221,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the liver."
+    },
+    {
+      "text": "Serum studies",
+      "type": "T091",
+      "umls_id": "C0036745",
+      "score": 0.9744794964790344,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of serum, especially of antigen-antibody reactions in vitro."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "transaminases",
+      "type": "T116",
+      "umls_id": "C0002594",
+      "score": 0.9690754413604736,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "A subclass of enzymes of the transferase class that catalyze the transfer of an amino group from a donor (generally an amino acid) to an acceptor (generally a 2-keto acid). Most of these enzymes are pyridoxyl phosphate proteins. (Dorland, 28th ed) EC 2.6.1."
+    },
+    {
+      "text": "anti-hepatitis A virus",
+      "type": "T005",
+      "umls_id": "C0376325",
+      "score": 0.7977429032325745,
+      "semantic_types": [
+        "T005"
+      ],
+      "definition": "A species in the genus HEPATOVIRUS containing one serotype and two strains: HUMAN HEPATITIS A VIRUS and Simian hepatitis A virus causing hepatitis in humans (HEPATITIS A) and primates, respectively."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "infected",
+      "type": "T033",
+      "umls_id": "C0439663",
+      "score": 0.9799171090126038,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "MHC",
+      "type": "T028",
+      "umls_id": "C0024518",
+      "score": 0.999142587184906,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "The genetic region which contains the loci of genes which determine the structure of the serologically defined (SD) and lymphocyte-defined (LD) TRANSPLANTATION ANTIGENS, genes which control the structure of the IMMUNE RESPONSE-ASSOCIATED ANTIGENS, HUMAN; the IMMUNE RESPONSE GENES which control the ability of an animal to respond immunologically to antigenic stimuli, and genes which determine the structure and/or level of the first four components of complement."
+    },
+    {
+      "text": "class I molecules",
+      "type": "T116",
+      "umls_id": "C0019629",
+      "score": 0.7803206443786621,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Membrane glycoproteins consisting of an alpha subunit and a BETA 2-MICROGLOBULIN beta subunit. In humans, highly polymorphic genes on CHROMOSOME 6 encode the alpha subunits of class I antigens and play an important role in determining the serological specificity of the surface antigen. Class I antigens are found on most nucleated cells and are generally detected by their reactivity with alloantisera. These antigens are recognized during GRAFT REJECTION and restrict cell-mediated lysis of virus-infected cells."
+    },
+    {
+      "text": "surfaces",
+      "type": "T082",
+      "umls_id": "C0205148",
+      "score": 0.8010376691818237,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The extended two-dimensional outer boundary of a three-dimensional object."
+    },
+    {
+      "text": "cellular event",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.770808756351471,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "induced",
+      "type": "T169",
+      "umls_id": "C0205263",
+      "score": 0.9732864499092102,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of bringing about something."
+    },
+    {
+      "text": "molecule",
+      "type": "T167",
+      "umls_id": "C0567416",
+      "score": 0.9907218813896179,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "An aggregate of two or more atoms in a defined arrangement held together by chemical bonds."
+    },
+    {
+      "text": "changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.9851773381233215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "23-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

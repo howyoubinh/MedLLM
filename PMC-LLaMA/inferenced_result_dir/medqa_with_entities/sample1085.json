@@ -1,0 +1,305 @@
+{
+  "original_data": {
+    "question": "A 3-year-old girl is brought to the emergency department by her mother 30 minutes after the sudden onset of shortness of breath, dizziness, abdominal pain, and urticaria. The symptoms began 5 minutes after she ate a peanut butter sandwich. Her respirations are 36/min and blood pressure is 84/50 mm Hg. There is stridor on auscultation of the chest. She is intubated and mechanical ventilation is begun. Intravenous fluid resuscitation and the appropriate pharmacotherapy are begun. The drug administered to this patient most likely has which of the following effects on cardiac pacemaker cells during an action potential?",
+    "options": {
+      "A": "Increased Ca2+ influx in phase 4",
+      "B": "Increased Na+ influx in phase 3",
+      "C": "Decreased Ca2+ influx in phase 0",
+      "D": "Decreased K+ efflux during phase 3\n\""
+    }
+  },
+  "model_response": "The patient is experiencing an anaphylactic reaction with acute, severe bronchoconstriction and hypotension. Epinephrine is the primary pharmacotherapy for this condition. Epinephrine increases the activity of cardiac pacemaker cells by increasing the Ca2+ influx in phase 4 of the action potential. This phase is the initial depolarization of the action potential, and increased Ca2+ influx increases the automaticity of the cardiac pacemaker cells. Epinephrine also increases the outward K+ efflux during phases 1 and 3 of the action potential, decreasing the action potential duration. Epinephrine does not significantly affect Na+ influx during phase 3 of the action potential. Na+ influx during phase 2 of the action potential is increased by epinephrine.\n\n###CORRECTION: The answer to this question has been changed from Option B to Option A. The correct answer is increased Ca2+ influx in phase 4.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "sudden onset",
+      "type": "T170",
+      "umls_id": "C1272517",
+      "score": 0.9585756063461304,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "urticaria",
+      "type": "T047",
+      "umls_id": "C0042109",
+      "score": 0.9777483344078064,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A vascular reaction of the skin characterized by erythema and wheal formation due to localized increase of vascular permeability. The causative mechanism may be allergy, infection, or stress."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "peanut",
+      "type": "T002",
+      "umls_id": "C0030736",
+      "score": 0.9860318899154663,
+      "semantic_types": [
+        "T002"
+      ],
+      "definition": "A plant species of the family FABACEAE that yields edible seeds called peanuts, which contain protein, oil, and lectins. Peanuts are also known as groundnuts which is a name also used for the edible seeds or edible PLANT ROOTS of other genera such as Apios, Vigna, Conopodium, or Macrotyloma."
+    },
+    {
+      "text": "sandwich",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "stridor",
+      "type": "T184",
+      "umls_id": "C0038450",
+      "score": 0.9866500496864319,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom resulting from laryngeal obstruction. It is characterized by a high pitched breathing sound."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "intubated",
+      "type": "T033",
+      "umls_id": "C4698386",
+      "score": 0.9586788415908813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mechanical ventilation",
+      "type": "T061",
+      "umls_id": "C0199470",
+      "score": 0.9653085470199585,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A method to mechanically assist or replace spontaneous breathing in patients by use of a powered device that forces oxygenated air into the lungs."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Intravenous fluid",
+      "type": "T167",
+      "umls_id": "C1289919",
+      "score": 0.9754502177238464,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A sterile liquid preparation infused into a vein. IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances. In addition, IV fluids are used to administer blood products and medications such as chemotherapy. Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)"
+    },
+    {
+      "text": "resuscitation",
+      "type": "T061",
+      "umls_id": "C0035273",
+      "score": 0.9607059359550476,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The restoration to life or consciousness of one apparently dead. (Dorland, 27th ed)"
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "drug administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.842438280582428,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "effects",
+      "type": "T080",
+      "umls_id": "C1280500",
+      "score": 0.9853150844573975,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A phenomenon that follows and is caused by some previous phenomenon."
+    },
+    {
+      "text": "cardiac",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9875530004501343,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

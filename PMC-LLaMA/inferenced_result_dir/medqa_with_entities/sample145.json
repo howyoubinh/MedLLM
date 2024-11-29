@@ -1,0 +1,264 @@
+{
+  "original_data": {
+    "question": "A 5-year-old boy is brought to the physician because of facial swelling that started 5 days ago. Two weeks ago, he had a sore throat that resolved spontaneously. His temperature is 37°C (98.6°F), pulse is 107/min, and blood pressure is 94/67 mm Hg. Examination shows pitting edema of the upper and lower extremities as well as periorbital edema. The abdomen is mildly distended. Laboratory studies show:\nHemoglobin 13.1 g/dL\nSerum\nAlbumin 2.1 g/dL\nTotal cholesterol 270 mg/dL\nTriglycerides 175 mg/dL\nUrine\nBlood negative\nGlucose negative\nProtein 4+\nLeukocyte esterase negative\nA renal biopsy of this patient is most likely to show which of the following findings?\"",
+    "options": {
+      "A": "Mesangial proliferation on light microscopy",
+      "B": "Subepithelial dense deposits on electron microscopy",
+      "C": "Deposits of IgG and C3 at the glomerular basement membrane on immunofluoresence",
+      "D": "Normal light microscopy findings"
+    }
+  },
+  "model_response": "The correct answer is D (Normal light microscopy findings). The clinical presentation of facial swelling, periorbital edema, pitting edema of the upper and lower extremities, and laboratory findings of hypoalbuminemia and hypercholesterolemia in a 5-year-old boy suggest a diagnosis of nephrotic syndrome. The most likely cause of nephrotic syndrome in a child of this age is minimal change disease. Light microscopy in this disease is typically normal. Electron microscopy may show nondescript effacement of the foot processes. Immunofluoresence may be negative, or it may show deposits of IgG and C3 in the mesangium. A renal biopsy is not necessary to confirm the diagnosis of minimal change disease. The diagnosis can be made by less invasive tests such as lipid studies, complement levels, and urinalysis.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "facial swelling",
+      "type": "T033",
+      "umls_id": "C0151602",
+      "score": 0.9594213366508484,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "sore throat",
+      "type": "T047",
+      "umls_id": "C0031350",
+      "score": 0.9937487840652466,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammation of the throat (PHARYNX)."
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "spontaneously",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.8442990779876709,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pitting edema",
+      "type": "T033",
+      "umls_id": "C0333243",
+      "score": 0.976106584072113,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling due to excessive accumulation of fluid under the skin defined by a persistent indentation when pressure is applied to the swollen area. Causes include systemic conditions (e.g., heart failure, liver failure, or kidney failure) and local conditions affecting the extremities."
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "periorbital edema",
+      "type": "T046",
+      "umls_id": "C0151205",
+      "score": 0.9701411724090576,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Swelling due to an excessive accumulation of fluid around the orbits of the face."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Urine\n",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "Blood negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.7664884924888611,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Glucose negative\nProtein 4",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Leukocyte esterase negative\n",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "renal biopsy",
+      "type": "T060",
+      "umls_id": "C0194073",
+      "score": 0.9648265838623047,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the kidney, for microscopic examination."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "5-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

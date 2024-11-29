@@ -1,0 +1,394 @@
+{
+  "original_data": {
+    "question": "A 3-year-old male is brought by his mother to the pediatrician's office. The mother and child are refugees from Somalia and arrived in the United States one week ago. They were recently placed in temporary housing. The mother reports that the child has been chronically tired and subdued since before their arrival in the United States. The child was born at 38 weeks gestation with the help of a local midwife. The child’s temperature is 98.2°F (36.8°C), blood pressure is 105/60 mmHg, pulse is 90/min, and respirations are 18/min. Physical examination reveals a listless child with a rotund abdomen and positive fluid wave. Notable lower extremity edema is present. This patient's condition is most likely caused by a deficiency in which of the following?",
+    "options": {
+      "A": "Total caloric intake",
+      "B": "Relative protein intake",
+      "C": "Relative carbohydrate intake",
+      "D": "Relative fat intake"
+    }
+  },
+  "model_response": "The patient's condition is most likely caused by protein-energy malnutrition (PEM). The relative protein deficiency (low protein to calorie ratio) is the most common form of malnutrition seen in developing countries. PEM is characterized by failure to gain weight and/or length. In addition, the child may exhibit edema, which is a result of hypoalbuminemia. The edema may be generalized or localized to the face, ankles, and abdomen. The abdomen may be rotund due to hepatomegaly and ascites. The fluid wave may be present due to ascites. The child may also have a decreased immunocompetence, which increases the risk of infectious disease. The other choices are not associated with the development of PEM.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "pediatrician's office",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.7071873545646667,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "refugees",
+      "type": "T098",
+      "umls_id": "C0034961",
+      "score": 0.9508151412010193,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons fleeing to a place of safety, especially those who flee to a foreign country or power to escape danger, persecution, or economic distress in their own country or habitual residence."
+    },
+    {
+      "text": "Somalia",
+      "type": "T083",
+      "umls_id": "C0037640",
+      "score": 0.9933639168739319,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Somalia is located on the east coast of Africa on and north of the Equator and, with Ethiopia, Eritrea, Djibouti, and Kenya, is often referred to as the Horn of Africa. It comprises Italy's former Trust Territory of Somalia and the former British Protectorate of Somaliland. The capital is Mogadishu."
+    },
+    {
+      "text": "arrived",
+      "type": "T052",
+      "umls_id": "C1706079",
+      "score": 0.9754970073699951,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of reaching a destination."
+    },
+    {
+      "text": "United States one week",
+      "type": "T083",
+      "umls_id": "C0041703",
+      "score": 0.7867528200149536,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA between CANADA and MEXICO."
+    },
+    {
+      "text": "temporary",
+      "type": "T079",
+      "umls_id": "C0205374",
+      "score": 0.9846392273902893,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not permanent; not lasting; lacking continuity or regularity."
+    },
+    {
+      "text": "housing",
+      "type": "T073",
+      "umls_id": "C0020056",
+      "score": 0.9835885167121887,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Living facilities for humans."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "chronically tired",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "subdued",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "United States",
+      "type": "T083",
+      "umls_id": "C0041703",
+      "score": 0.9899754524230957,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA between CANADA and MEXICO."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "local midwife",
+      "type": "T097",
+      "umls_id": "C0026083",
+      "score": 0.7321447730064392,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "<p>A person (usually female) helping a woman deliver a baby. Responsibilities vary locally, ranging from a mere optional assistant to a full required participant, responsible for (normal) births and pre- and post-natal care for both mother and baby.</p>"
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "listless",
+      "type": "T048",
+      "umls_id": "C0085632",
+      "score": 0.9753290414810181,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Lack of emotion or emotional expression; a disorder of motivation that persists over time."
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "rotund",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "positive fluid",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.7817904949188232,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "lower extremity edema",
+      "type": "T046",
+      "umls_id": "C0239340",
+      "score": 0.9854736924171448,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "An abnormal accumulation of excess fluid in the lower extremity resulting in swelling of the feet and extending upward to the lower leg. [HPO:probinson]"
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "deficiency",
+      "type": "T169",
+      "umls_id": "C0011155",
+      "score": 0.9893630146980286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "3-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

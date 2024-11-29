@@ -1,0 +1,427 @@
+{
+  "original_data": {
+    "question": "A 57-year-old woman comes to the physician because of a 3-month history of fatigue. She also reports generalized itchiness that started approximately 2 months ago. Two weeks ago, she noticed yellowing of her eyes. She does not smoke or drink alcohol. She uses eyedrops for persistent dryness of the eyes. Her vital signs are within normal limits. Physical examination shows jaundice of the conjunctivae and skin. The mucous membranes of the mouth are dry. The abdomen is soft. The liver edge is palpable 3 cm below the right costal margin. There are generalized skin excoriations. Laboratory studies show:\nHemoglobin 15 g/dL\nLeukocyte count 7,700/mm3\nPlatelet count 332,000/mm3\nSerum\nGlucose 122 mg/dL\nTotal bilirubin 3.1 mg/dL\nDirect 2.5 mg/dL\nAlkaline phosphatase 452 U/L\nAST 155 U/L\nALT 168 U/L\nHepatitis B surface antigen negative\nHepatitis B core IgM antibody negative\nHepatitis B surface antibody positive\nHepatitis C antibody negative\nUltrasonography of the abdomen shows mildly increased echogenicity of the liver. Which of the following additional findings is most likely to be found in this patient?\"",
+    "options": {
+      "A": "Inferior vena cava thrombosis",
+      "B": "Cutaneous xanthomas",
+      "C": "Increased CA 19-9 levels",
+      "D": "Kayser-Fleischer rings\n\""
+    }
+  },
+  "model_response": "This patient's clinical picture is most consistent with chronic hepatitis C virus infection. The most common long-term sequelae of chronic hepatitis C include cirrhosis and hepatocellular carcinoma. Other long-term complications include mixed cryoglobulinemia, porphyria cutanea tarda, and pulmonary hypertension. Chronic hepatitis C is not associated with the development of autoimmune hepatitis. Chronic hepatitis C is also not associated with the development of aortic insufficiency or renal failure.\n\nThe most common hepatic complication of amyloidosis is renal failure. Amyloidosis is not associated with the development of hepatocellular carcinoma. Hepatic adenomas are associated with the use of oral contraceptives, not chronic hepatitis C. Hepatic adenomas are not premalignant lesions.\n\nKayser-Fleischer rings are associated with Wilson's disease. Wilson's disease is associated with chronic hepatitis and the development of hepatocellular carcinoma. However, Kayser-Fleischer rings are not associated with chronic hepatitis C.\n\nInferior vena cava thrombosis is a known complication of chronic hepatitis C. The risk of thrombosis is increased in patients with cirrhosis. Cutaneous xanthomas are associated with hyperlipidemia, not chronic hepatitis C. Chronic hepatitis C is associated with the development of hepatocellular carcinoma, but not with the development of aortic insufficiency.\n\nThe most common extrahepatic complication of chronic hepatitis C is mixed cryoglobulinemia. Chronic hepatitis C is not associated with the development of aortic insufficiency or renal failure.\n\nThe most common hepatic complication of amyloidosis is renal failure. Amyloidosis is not associated with the development of hepatocellular carcinoma. Hepatic adenomas are associated with the use of oral contraceptives, not chronic hepatitis C. Hepatic adenomas are not premalignant lesions.\n\nKayser-Fleischer rings are associated with Wilson's disease. Wilson's disease is associated with chronic hepatitis and the development of hepatocellular carcinoma. However, Kayser-Fleischer rings are not associated with chronic hepatitis C.\n\nInferior vena cava thrombosis is a known complication of chronic hepatitis C. The risk of thrombosis is increased in patients with cirrhosis. Cutaneous xanthomas are associated with hyperlipidemia, not chronic hepatitis C. Chronic hepatitis C is associated with the development of hepatocellular carcinoma, but not with the development of aortic insufficiency.\n\nThe most common extrahepatic complication of chronic hepatitis C is mixed cryoglobulinemia. Chronic hepatitis C is not associated with the development of aortic insufficiency or renal failure.\n\n### Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "generalized itchiness",
+      "type": "T082",
+      "umls_id": "C0205246",
+      "score": 0.7200136184692383,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Widespread, broadly dispersed, common."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "yellowing",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.7918382883071899,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drink",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9850457310676575,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "persistent",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.981314480304718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "dryness",
+      "type": "T080",
+      "umls_id": "C1512080",
+      "score": 0.9833777546882629,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The lack of natural or normal moisture."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "conjunctivae",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.8391914367675781,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "mouth",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9870113730430603,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "liver edge",
+      "type": "T033",
+      "umls_id": "C0426689",
+      "score": 0.9614235162734985,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right costal margin",
+      "type": "T029",
+      "umls_id": "C0502460",
+      "score": 0.9858113527297974,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "generalized skin excoriations",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Total bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9635241627693176,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "Hepatitis B surface antigen",
+      "type": "T116",
+      "umls_id": "C0019168",
+      "score": 0.9786869287490845,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Those hepatitis B antigens found on the surface of the Dane particle and on the 20 nm spherical and tubular particles. Several subspecificities of the surface antigen are known. These were formerly called the Australia antigen."
+    },
+    {
+      "text": "Hepatitis B core IgM",
+      "type": "T116",
+      "umls_id": "C0312631",
+      "score": 0.8846589922904968,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "An antibody produced by B lymphocytes to the hepatitis B core antigen as part of the immune response to hepatitis B viral infection."
+    },
+    {
+      "text": "Hepatitis B surface antibody",
+      "type": "T116",
+      "umls_id": "C0369334",
+      "score": 0.9812952280044556,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "An antibody produced by B lymphocytes to the hepatitis B surface antigen as part of the immune response to hepatitis B viral infection."
+    },
+    {
+      "text": "Hepatitis C antibody negative\n",
+      "type": "T034",
+      "umls_id": "C3203520",
+      "score": 0.8751295208930969,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "An indication that antibodies that recognize a hepatitis B virus core protein have not been detected in a sample."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "echogenicity",
+      "type": "T170",
+      "umls_id": "C0030657",
+      "score": 0.7331820130348206,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Used with microorganisms, viruses, and parasites for studies of their ability to cause disease in man, animals, or plants."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "57-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

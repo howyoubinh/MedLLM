@@ -1,0 +1,302 @@
+{
+  "original_data": {
+    "question": "A 41-year-old woman presents with shortness of breath that is worse when she lies on her left side. About 10 days ago, she had an episode of unexplained loss of consciousness. Past medical history is negative and family history is irrelevant. Clinical examination shows a diastolic murmur, which is prominent when she lies on her left side. Jugular venous distention is present, and chest examination reveals fine crackles that do not clear with coughing. Chest X-ray shows pulmonary congestion, and 2-dimensional echocardiogram shows a mass in the left atrium attached to the atrial septum. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Rheumatic fever",
+      "B": "Innocent murmur",
+      "C": "Non-bacterial thrombotic endocarditis",
+      "D": "Atrial myxoma"
+    }
+  },
+  "model_response": "{'R': 'Disease process is chronic and progressive', 'O': 'Most common in females', 'T': 'Most common in males', 'I': 'Most common in males and females equally', 'N': 'Most common in females and is rare in males', 'E': 'Most common in males and is rare in females', 'S': 'Most common in females and is rare in males', 'A': 'Atrial myxoma', 'T': 'Aortic stenosis', 'I': 'Aortic insufficiency', 'N': 'Aortic stenosis', 'E': 'Aortic stenosis', 'S': 'Aortic stenosis'}\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "lies",
+      "type": "T002",
+      "umls_id": "C0524886",
+      "score": 0.7297652959823608,
+      "semantic_types": [
+        "T002"
+      ],
+      "definition": "A plant genus in the family LILIACEAE generally growing in temperate areas. The word lily is also used in the common names of many plants of other genera that resemble true lilies. True lilies are erect perennial plants with leafy stems, scaly bulbs, usually narrow leaves, and solitary or clustered flowers."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "Clinical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9683393239974976,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "diastolic",
+      "type": "T201",
+      "umls_id": "C0012000",
+      "score": 0.9848455190658569,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Post-systolic relaxation of the HEART, especially the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "lies",
+      "type": "T002",
+      "umls_id": "C0524886",
+      "score": 0.7297652959823608,
+      "semantic_types": [
+        "T002"
+      ],
+      "definition": "A plant genus in the family LILIACEAE generally growing in temperate areas. The word lily is also used in the common names of many plants of other genera that resemble true lilies. True lilies are erect perennial plants with leafy stems, scaly bulbs, usually narrow leaves, and solitary or clustered flowers."
+    },
+    {
+      "text": "left side",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9908941984176636,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "Jugular",
+      "type": "T023",
+      "umls_id": "C0022427",
+      "score": 0.8375517129898071,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Veins in the neck which drain the brain, face, and neck into the brachiocephalic or subclavian veins."
+    },
+    {
+      "text": "venous distention",
+      "type": "T033",
+      "umls_id": "C0241668",
+      "score": 0.9768679141998291,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chest examination",
+      "type": "T060",
+      "umls_id": "C5238634",
+      "score": 0.8207399249076843,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Inspection of the region encompassing the anterior surface of the chest and epigastrium."
+    },
+    {
+      "text": "crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "coughing",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9390369057655334,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "Chest X-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "pulmonary congestion",
+      "type": "T047",
+      "umls_id": "C0242073",
+      "score": 0.9729697108268738,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "2-dimensional echocardiogram",
+      "type": "T060",
+      "umls_id": "C0203379",
+      "score": 0.7298187017440796,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Dynamic three-dimensional echocardiography using the added dimension of time to impart the cinematic perception of motion. (Mayo Clin Proc 1993;68:221-40)"
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "left atrium",
+      "type": "T023",
+      "umls_id": "C0225860",
+      "score": 0.9907193779945374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "One of four chambers of the heart, which receives blood from the pulmonary veins and pumps blood through the mitral valve into the left ventricle."
+    },
+    {
+      "text": "atrial septum",
+      "type": "T023",
+      "umls_id": "C0225836",
+      "score": 0.9696923494338989,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The thin membrane-like muscular structure separating the right and the left upper chambers (HEART ATRIA) of a heart."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "41-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

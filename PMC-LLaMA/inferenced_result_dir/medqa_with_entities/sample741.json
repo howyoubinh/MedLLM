@@ -1,0 +1,138 @@
+{
+  "original_data": {
+    "question": "A researcher conducts multiple experiments to establish an infection and disease model for Clostridium perfringens in chickens. To ensure that all instruments are free of the pathogenic organism, he uses a disinfectant that oxidizes and denatures proteins. Which of the following disinfectants did the researcher most likely use?",
+    "options": {
+      "A": "Chlorine dioxide",
+      "B": "Isopropyl alcohol",
+      "C": "Povidone-iodine",
+      "D": "Benzalkonium chloride"
+    }
+  },
+  "model_response": "{'A': 'Chlorine dioxide' is correct.\n\nChlorine dioxide is a potent disinfectant that can be used for sterilization of heat-sensitive items. It is used to sterilize dental and surgical instruments, and for fumigation of rooms and buildings. It is unstable, and must be generated on site for use. It is a powerful oxidizing agent that destroys proteins, nucleic acids, and lipids.\n\n'B': Isopropyl alcohol is a bacteriostatic, saturating the cell membrane and denaturing proteins.\n\n'C': Povidone-iodine is an iodophor, a complex of iodine and polyvinylpyrrolidone (PVP). It is used as a skin antiseptic and in surgical scrubs.\n\n'D': Benzalkonium chloride is a quaternary ammonium compound, and is bacteriostatic, not cidal. It acts by binding to the cell membrane and disrupting the integrity of the cell.\n}\n</s><s>",
+  "question_entities": [
+    {
+      "text": "conducts",
+      "type": "T053",
+      "umls_id": "C0004927",
+      "score": 0.9746460318565369,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "The observable response of a man or animal to a situation."
+    },
+    {
+      "text": "experiments",
+      "type": "T062",
+      "umls_id": "C0681814",
+      "score": 0.959835946559906,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing."
+    },
+    {
+      "text": "infection",
+      "type": "T047",
+      "umls_id": "C0009450",
+      "score": 0.9619160294532776,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An illness caused by an infectious agent or its toxins that occurs through the direct or indirect transmission of the infectious agent or its products from an infected individual or via an animal, vector or the inanimate environment to a susceptible animal or human host."
+    },
+    {
+      "text": "disease model",
+      "type": "T170",
+      "umls_id": "C0683033",
+      "score": 0.9857682585716248,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Clostridium perfringens",
+      "type": "T007",
+      "umls_id": "C0009063",
+      "score": 0.9610647559165955,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "The most common etiologic agent of GAS GANGRENE. It is differentiable into several distinct types based on the distribution of twelve different toxins."
+    },
+    {
+      "text": "chickens",
+      "type": "T012",
+      "umls_id": "C0008051",
+      "score": 0.9801607728004456,
+      "semantic_types": [
+        "T012"
+      ],
+      "definition": "Common name for the species Gallus gallus, the domestic fowl, in the family Phasianidae, order GALLIFORMES. It is descended from the red jungle fowl of SOUTHEAST ASIA."
+    },
+    {
+      "text": "instruments",
+      "type": "T169",
+      "umls_id": "C4551823",
+      "score": 0.977741539478302,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pathogenic",
+      "type": "T001",
+      "umls_id": "C0450254",
+      "score": 0.9802827835083008,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "An agent of disease; a disease producer."
+    },
+    {
+      "text": "organism",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9949436187744141,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "disinfectant",
+      "type": "T167",
+      "umls_id": "C0012682",
+      "score": 0.9866458177566528,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "Substances used on inanimate objects that destroy harmful microorganisms or inhibit their activity. Disinfectants are classed as complete, destroying SPORES as well as vegetative forms of microorganisms, or incomplete, destroying only vegetative forms of the organisms. They are distinguished from ANTISEPTICS, which are local anti-infective agents used on humans and other animals. (From Hawley's Condensed Chemical Dictionary, 11th ed)"
+    },
+    {
+      "text": "oxidizes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "denatures proteins",
+      "type": "T044",
+      "umls_id": "C0033627",
+      "score": 0.7156940698623657,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": "Disruption of the non-covalent bonds and/or disulfide bonds responsible for maintaining the three-dimensional shape and activity of the native protein."
+    },
+    {
+      "text": "disinfectants",
+      "type": "T167",
+      "umls_id": "C0012682",
+      "score": 0.989484965801239,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "Substances used on inanimate objects that destroy harmful microorganisms or inhibit their activity. Disinfectants are classed as complete, destroying SPORES as well as vegetative forms of microorganisms, or incomplete, destroying only vegetative forms of the organisms. They are distinguished from ANTISEPTICS, which are local anti-infective agents used on humans and other animals. (From Hawley's Condensed Chemical Dictionary, 11th ed)"
+    }
+  ]
+}

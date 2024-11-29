@@ -1,0 +1,270 @@
+{
+  "original_data": {
+    "question": "A 16-month-old boy is brought to the physician by his mother for a regular check-up. His mother says that he has not yet begun to walk. He is exclusively breastfed. He is at the 20th percentile for length, 10th percentile for weight, and 50th percentile for head circumference. Physical examination shows erosion of the enamel on the lingual surface of the incisors and carious molars. He has frontal bossing. His wrists are widened, his legs appear bowed, and there is beading of the ribs. Which of the following is the most likely underlying cause of this patient's condition?",
+    "options": {
+      "A": "Deficiency of cofactor for prolyl and lysyl hydroxylase",
+      "B": "Defect in type I collagen",
+      "C": "Impaired growth plate mineralization",
+      "D": "Mutation of fibroblast growth factor receptor 3"
+    }
+  },
+  "model_response": "The child has rickets, which is characterized by failure of mineralization in the growth plate, and in the bone deformities such as bowed legs and frontal bossing. The defect in type I collagen is osteogenesis imperfecta. Impaired growth plate mineralization is seen in hypophosphatasia. Mutation of fibroblast growth factor receptor 3 is seen in achondroplasia. Deficiency of cofactor for prolyl and lysyl hydroxylase is seen in osteoporosis pseudoglioma.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "check-up",
+      "type": "T058",
+      "umls_id": "C0598836",
+      "score": 0.9549977779388428,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Checkup is a general examination or inspection, especially one carried out by a doctor or dentist."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "walk",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9948952794075012,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "breastfed",
+      "type": "T040",
+      "umls_id": "C0006147",
+      "score": 0.9328805208206177,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The nursing of an infant at the breast."
+    },
+    {
+      "text": "length",
+      "type": "T081",
+      "umls_id": "C1444754",
+      "score": 0.9718987345695496,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The linear extent in space from one end of something to the other end, or the extent of something from beginning to end."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "head circumference",
+      "type": "T201",
+      "umls_id": "C0262499",
+      "score": 0.9727798104286194,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "A circumferential measurement of the head at the widest point, which is traditionally above the eyebrows."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "erosion",
+      "type": "T020",
+      "umls_id": "C0333307",
+      "score": 0.974559485912323,
+      "semantic_types": [
+        "T020"
+      ],
+      "definition": null
+    },
+    {
+      "text": "enamel",
+      "type": "T031",
+      "umls_id": "C0011350",
+      "score": 0.9929686784744263,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A hard thin translucent layer of calcified substance which envelops and protects the dentin of the crown of the tooth. It is the hardest substance in the body and is almost entirely composed of calcium salts. Under the microscope, it is composed of thin rods (enamel prisms) held together by cementing substance, and surrounded by an enamel sheath. (From Jablonski, Dictionary of Dentistry, 1992, p286)"
+    },
+    {
+      "text": "lingual",
+      "type": "T023",
+      "umls_id": "C0040408",
+      "score": 0.9672582149505615,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscular organ in the mouth that is covered with pink tissue called mucosa, tiny bumps called papillae, and thousands of taste buds. The tongue is anchored to the mouth and is vital for chewing, swallowing, and for speech."
+    },
+    {
+      "text": "surface",
+      "type": "T082",
+      "umls_id": "C0205148",
+      "score": 0.9766765832901001,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The extended two-dimensional outer boundary of a three-dimensional object."
+    },
+    {
+      "text": "incisors",
+      "type": "T023",
+      "umls_id": "C0021156",
+      "score": 0.9811248779296875,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the eight frontal teeth (four maxillary and four mandibular) having a sharp incisal edge for cutting food and a single root, which occurs in man both as a deciduous and a permanent tooth. (Jablonski, Dictionary of Dentistry, 1992, p820)"
+    },
+    {
+      "text": "carious",
+      "type": "T033",
+      "umls_id": "C1707305",
+      "score": 0.7474600076675415,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Tooth decay that has invaded the dentin, creating dentin that is partially demineralized and containing mineral crystals in the tubules."
+    },
+    {
+      "text": "molars",
+      "type": "T023",
+      "umls_id": "C0026367",
+      "score": 0.9929168224334717,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The most posterior teeth on either side of the jaw, totaling eight in the deciduous dentition (2 on each side, upper and lower), and usually 12 in the permanent dentition (three on each side, upper and lower). They are grinding teeth, having large crowns and broad chewing surfaces. (Jablonski, Dictionary of Dentistry, 1992, p821)"
+    },
+    {
+      "text": "frontal bossing",
+      "type": "T019",
+      "umls_id": "C0221354",
+      "score": 0.9772359132766724,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "A skeletal deformity characterized by an unusually prominent forehead. Causes include acromegaly, Hurler syndrome, Silver-Russell syndrome, and thalassemia major."
+    },
+    {
+      "text": "wrists",
+      "type": "T029",
+      "umls_id": "C0043262",
+      "score": 0.984144926071167,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the upper limb between the metacarpus and the FOREARM."
+    },
+    {
+      "text": "legs appear",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bowed",
+      "type": "T033",
+      "umls_id": "C0544755",
+      "score": 0.7529749274253845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An outward slant of the thigh in which the knees are wide apart and the ankles close together. Genu varum can develop due to skeletal and joint dysplasia (e.g., OSTEOARTHRITIS; Blount's disease); and malnutrition (e.g., RICKETS; FLUORIDE POISONING)."
+    },
+    {
+      "text": "beading",
+      "type": "T122",
+      "umls_id": "C0991566",
+      "score": 0.9715845584869385,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A solid in the shape of a small sphere."
+    },
+    {
+      "text": "ribs",
+      "type": "T023",
+      "umls_id": "C0035561",
+      "score": 0.9696308970451355,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A set of twelve curved bones which connect to the vertebral column posteriorly, and terminate anteriorly as costal cartilage. Together, they form a protective cage around the internal thoracic organs."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    }
+  ]
+}

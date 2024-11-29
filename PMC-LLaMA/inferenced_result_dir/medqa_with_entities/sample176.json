@@ -1,0 +1,184 @@
+{
+  "original_data": {
+    "question": "A novel type of PET radiotracer is being developed to evaluate patients with Parkinson’s disease. A clinical research study has enrolled 1,200 patients, half of whom have the disease. The scan is found to be positive in 590 of the 600 patients with known PD, and positive in 20 of the 600 patients without PD. What is the test’s overall specificity?",
+    "options": {
+      "A": "580 / (20 + 590)",
+      "B": "580 / (10 + 580)",
+      "C": "590 / (590 + 10)",
+      "D": "580 / (580 + 20)"
+    }
+  },
+  "model_response": "The numerator is the number of true positives (590) plus the number of false positives (20). The denominator is the total number of positive cases (600) plus the number of negative cases (600). So, the overall specificity is 580 / (20 + 590).\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "novel",
+      "type": "T080",
+      "umls_id": "C0205314",
+      "score": 0.9868086576461792,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no previous example or precedent or parallel; of a kind not seen before."
+    },
+    {
+      "text": "PET",
+      "type": "T008",
+      "umls_id": "C0031268",
+      "score": 0.9741676449775696,
+      "semantic_types": [
+        "T008"
+      ],
+      "definition": "Animals kept by humans for companionship and enjoyment, as opposed to DOMESTIC ANIMALS such as livestock or farm animals, which are kept for economic reasons."
+    },
+    {
+      "text": "evaluate",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9732716083526611,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Parkinson’s disease",
+      "type": "T047",
+      "umls_id": "C0030567",
+      "score": 0.9714373350143433,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative neurologic disease characterized by a TREMOR that is maximal at rest, retropulsion (i.e. a tendency to fall backwards), rigidity, stooped posture, slowness of voluntary movements, and a masklike facial expression. Pathologic features include loss of melanin containing neurons in the substantia nigra and other pigmented nuclei of the brainstem. LEWY BODIES are present in the substantia nigra and locus coeruleus but may also be found in a related condition (LEWY BODY DISEASE, DIFFUSE) characterized by dementia in combination with varying degrees of parkinsonism. (Adams et al., Principles of Neurology, 6th ed, p1059, pp1067-75)"
+    },
+    {
+      "text": "clinical research study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.854697585105896,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "disease",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9868216514587402,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "scan",
+      "type": "T060",
+      "umls_id": "C0034606",
+      "score": 0.9957098364830017,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The production of an image obtained by cameras that detect the radioactive emissions of an injected radionuclide as it has distributed differentially throughout tissues in the body. The image obtained from a moving detector is called a scan, while the image obtained from a stationary camera device is called a scintiphotograph."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "PD",
+      "type": "T080",
+      "umls_id": "C2362652",
+      "score": 0.999569296836853,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "PD",
+      "type": "T080",
+      "umls_id": "C2362652",
+      "score": 0.999569296836853,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "test’s overall",
+      "type": "T170",
+      "umls_id": "C0282416",
+      "score": 0.8210436105728149,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A single citation covering papers or abstracts presented at a meeting. The publication type may be used for a single citation with or without the additional indexing or cataloging of individual papers. The individual papers, however, are not labeled OVERALL."
+    },
+    {
+      "text": "specificity",
+      "type": "T081",
+      "umls_id": "C0037791",
+      "score": 0.9840240478515625,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    }
+  ]
+}

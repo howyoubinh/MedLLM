@@ -1,0 +1,274 @@
+{
+  "original_data": {
+    "question": "A 28-year-old woman, gravida 1, para 0, at 20 weeks' gestation comes to the physician with her husband for a prenatal visit. Her pregnancy has been uncomplicated. They are planning to travel to Ethiopia next month to visit the husband's family. Medications include folic acid and an iron supplement. Vital signs are within the normal range. Abdominal examination shows a uterus that is consistent with a 20-week gestation. Which of the following drugs is most suitable for pre-exposure prophylaxis against malaria?",
+    "options": {
+      "A": "Doxycycline",
+      "B": "Mefloquine",
+      "C": "Chloroquine",
+      "D": "Proguanil"
+    }
+  },
+  "model_response": "{'A': 'Doxycycline is contraindicated in pregnancy.', 'B': 'Mefloquine is safe in pregnancy.', 'C': 'Chloroquine is safe in pregnancy.', 'D': 'Proguanil is safe in pregnancy.'}\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gravida 1",
+      "type": "T033",
+      "umls_id": "C0860096",
+      "score": 0.9852546453475952,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation comes",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.7745229601860046,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "prenatal visit",
+      "type": "T058",
+      "umls_id": "C1827763",
+      "score": 0.9857678413391113,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "travel",
+      "type": "T056",
+      "umls_id": "C0040802",
+      "score": 0.9811955094337463,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "MOVEMENT across different GEOGRAPHIC LOCATIONS."
+    },
+    {
+      "text": "Ethiopia",
+      "type": "T083",
+      "umls_id": "C0015024",
+      "score": 0.979961633682251,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "An independent state in eastern Africa. Ethiopia is located in the Horn of Africa and is bordered on the north and northeast by Eritrea, on the east by Djibouti and Somalia, on the south by Kenya, and on the west and southwest by Sudan. Its capital is Addis Ababa."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "husband's",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.7563127279281616,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "Medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "iron supplement",
+      "type": "T168",
+      "umls_id": "C0721124",
+      "score": 0.9745541214942932,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "drugs",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9851945638656616,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "pre-exposure",
+      "type": "T061",
+      "umls_id": "C3850098",
+      "score": 0.7675694227218628,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A method of disease prevention (abbreviated PrEP) which involves the administration of drugs to at-risk persons who have not been exposed to the disease-causing agent."
+    },
+    {
+      "text": "prophylaxis",
+      "type": "T080",
+      "umls_id": "C0033107",
+      "score": 0.9599927067756653,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with disease headings for increasing human or animal resistance against disease (e.g., immunization), for control of transmission agents, for prevention and control of environmental hazards, or for prevention and control of social factors leading to disease. It includes preventive measures in individual cases."
+    },
+    {
+      "text": "malaria",
+      "type": "T047",
+      "umls_id": "C0024530",
+      "score": 0.9963778853416443,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A protozoan disease caused in humans by four species of the PLASMODIUM genus: PLASMODIUM FALCIPARUM; PLASMODIUM VIVAX; PLASMODIUM OVALE; and PLASMODIUM MALARIAE; and transmitted by the bite of an infected female mosquito of the genus ANOPHELES. Malaria is endemic in parts of Asia, Africa, Central and South America, Oceania, and certain Caribbean islands. It is characterized by extreme exhaustion associated with paroxysms of high FEVER; SWEATING; shaking CHILLS; and ANEMIA. Malaria in ANIMALS is caused by other species of plasmodia."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

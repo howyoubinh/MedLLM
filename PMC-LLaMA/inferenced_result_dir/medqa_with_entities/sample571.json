@@ -1,0 +1,406 @@
+{
+  "original_data": {
+    "question": "Three days after undergoing an open cholecystectomy, an obese 57-year-old woman has fever, chills, and a headache. She has right-sided chest pain that increases on inspiration and has had a productive cough for the last 12 hours. She had an episode of hypotension after the operation that resolved with intravenous fluid therapy. She underwent an abdominal hysterectomy 16 years ago for multiple fibroids of the uterus. She has smoked one pack of cigarettes daily for 17 years. She appears uncomfortable. Her temperature is 39°C (102.2°F), pulse is 98/min, respirations are 18/min, and blood pressure is 128/82 mm Hg. Inspiratory crackles are heard at the right lung base. The abdomen is soft and nontender. There is a healing surgical incision below the right ribcage. The remainder of the examination shows no abnormalities. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Pulmonary embolism",
+      "B": "Subphrenic abscess",
+      "C": "Pneumonia",
+      "D": "Pneumothorax"
+    }
+  },
+  "model_response": "The patient has a high clinical likelihood of postoperative pneumonia. The risk factors include obesity, advanced age, cigarette smoking, recent surgery, and a chest x-ray that shows a new infiltrate in the right lower lobe. The chest x-ray is most consistent with a new infiltrate in the right lower lobe. The most common causes of postoperative pneumonia are aspiration and bacterial contamination of the operative site. The patient is postoperative day (POD) 3, which is early for postoperative pneumonia. The patient is at high risk for deep venous thrombosis (DVT) and pulmonary embolism (PE) because of obesity, advanced age, and cigarette smoking. However, the sudden onset of chest pain and dyspnea at POD 3 makes PE less likely. The patient is at high risk for wound infection, but the soft and nontender abdomen suggests that there is no wound infection. Subphrenic abscess is less likely because the patient is not having fever or rigors. The patient is at high risk for pneumothorax, but the physical examination does not suggest this diagnosis.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "open cholecystectomy",
+      "type": "T061",
+      "umls_id": "C0742390",
+      "score": 0.9837386608123779,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "obese",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9816532731056213,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chills",
+      "type": "T184",
+      "umls_id": "C0085593",
+      "score": 0.9896153211593628,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden sensation of being cold. It may be accompanied by SHIVERING."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "right-sided chest pain",
+      "type": "T082",
+      "umls_id": "C0444532",
+      "score": 0.7030929923057556,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Pertaining to the physical area of an object that is located to the right of its center."
+    },
+    {
+      "text": "increases",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9777454733848572,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "inspiration",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9656476974487305,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "productive cough",
+      "type": "T033",
+      "umls_id": "C0239134",
+      "score": 0.9714952111244202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A cough accompanied by expectorated secretions."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "hypotension",
+      "type": "T033",
+      "umls_id": "C0020649",
+      "score": 0.975321888923645,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally low BLOOD PRESSURE that can result in inadequate blood flow to the brain and other vital organs. Common symptom is DIZZINESS but greater negative impacts on the body occur when there is prolonged depravation of oxygen and nutrients."
+    },
+    {
+      "text": "operation",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9866542220115662,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "intravenous fluid therapy",
+      "type": "T061",
+      "umls_id": "C0455142",
+      "score": 0.8621551394462585,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Actions performed to support the use of infusion equipment"
+    },
+    {
+      "text": "abdominal hysterectomy",
+      "type": "T061",
+      "umls_id": "C0404077",
+      "score": 0.9795109033584595,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical removal of part or all of the uterus via an abdominal approach."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "fibroids",
+      "type": "T191",
+      "umls_id": "C0023267",
+      "score": 0.9917820692062378,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A benign tumor derived from smooth muscle tissue, also known as a fibroid tumor. They rarely occur outside of the UTERUS and the GASTROINTESTINAL TRACT but can occur in the SKIN and SUBCUTANEOUS TISSUE, probably arising from the smooth muscle of small blood vessels in these tissues."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Inspiratory crackles",
+      "type": "T033",
+      "umls_id": "C0577961",
+      "score": 0.9757741689682007,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Crackles that are heard during the inspiratory phase. [PMID:26229557]"
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "right lung base",
+      "type": "T029",
+      "umls_id": "C0225708",
+      "score": 0.982022225856781,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "nontender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "healing",
+      "type": "T040",
+      "umls_id": "C0043240",
+      "score": 0.9890207052230835,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Restoration of integrity to traumatized tissue."
+    },
+    {
+      "text": "surgical incision",
+      "type": "T061",
+      "umls_id": "C0184898",
+      "score": 0.9701933264732361,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An intentional cut made to an individual's body with the intent of performing a diagnostic or therapeutic intervention."
+    },
+    {
+      "text": "right ribcage",
+      "type": "T023",
+      "umls_id": "C0222762",
+      "score": 0.7307913899421692,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bony thoracic enclosure consisting of the vertebral column; the RIBS; the STERNUM; and the COSTAL CARTILAGE."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "57-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

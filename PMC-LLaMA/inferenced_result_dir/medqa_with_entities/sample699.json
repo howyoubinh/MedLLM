@@ -1,0 +1,453 @@
+{
+  "original_data": {
+    "question": "A 25-year-old female presents to her primary care physician complaining of double vision. She first started seeing double after a long day at her work as a radiation technologist. Since then, her vision has appeared to worsen in the evenings. She has also felt worsening fatigue despite no change in her work hours or sleep habits. She has a history of type I diabetes mellitus and her most recent hemoglobin A1c was 7.4%. Her family history is notable for Sjogren’s syndrome in her mother and hypertension, hyperlipidemia, and carotid dissection in her father. Her temperature is 98.9°F (37.2°C), blood pressure is 105/70 mmHg, pulse is 75/min, and respirations are 16/min. On examination, her pupils are equally round and reactive to light. Extraocular movements are intact. Mild ptosis is noted bilaterally but worse on the left. A visual acuity test reveals no abnormalities. Which of the following medications is most appropriate in the management of this patient?",
+    "options": {
+      "A": "Pyridostigmine",
+      "B": "Physostigmine",
+      "C": "Hydrocortisone",
+      "D": "Azathioprine"
+    }
+  },
+  "model_response": "The patient’s symptoms of diplopia and fatigue are due to hyperthyroidism secondary to Graves’ disease. The presence of mild ptosis, signs of sympathetic overactivity (tachycardia and hypertension), and a history of autoimmune disease (Sjogren’s syndrome) in her mother are all consistent with this diagnosis. The most appropriate treatment is to first control the hyperthyroidism with a beta-blocker (option C) and then immune suppression with azathioprine (option D).\n\nGraves’ disease is an autoimmune disorder in which antibodies to the TSH receptor stimulate the thyroid to produce excessive thyroid hormone. The most common presentation is with symptoms of hyperthyroidism, including weight loss, tremor, anxiety, palpitations, and heat intolerance. In addition, Graves’ disease is associated with a variety of non-thyroidal manifestations, including autoimmune disorders (Sjogren’s syndrome, pernicious anemia, vitiligo), pseudogout, and ophthalmopathy. The ophthalmopathy of Graves’ disease is characterized by inflammation and edema of the extraocular muscles, leading to proptosis, double vision, and eye discomfort. The ophthalmopathy is usually symmetric and painless.\n\nThe diagnosis of Graves’ disease is confirmed by a high serum T4 level (normal T4 levels are shown below).\n\nThe first-line treatment for Graves’ disease is a beta-blocker to control the symptoms of hyperthyroidism. This is followed by immunosuppression with azathioprine to prevent further immune damage to the thyroid. Radioactive iodine is also an effective treatment for Graves’ disease, but it is associated with a high incidence of permanent hypothyroidism. Therefore, it is generally reserved for older patients or those who do not respond to antithyroid medications.\n\nPyridostigmine and physostigmine are anticholinesterase medications that can be used in the treatment of myasthenia gravis, but they do not have a role in the treatment of Graves’ disease. Hydrocortisone is used in the treatment of adrenal insufficiency, which is not a feature of Graves’ disease.\n\nThe treatment of Graves’ ophthalmopathy is controversial. Some experts recommend treatment of active ophthalmopathy with corticosteroids, but others believe that corticosteroids are ineffective. In addition, the use of corticosteroids is associated with a high incidence of complications, including eye infections and glaucoma. Therefore, treatment of Graves’ ophthalmopathy is generally reserved for patients with severe or worsening symptoms.\n\nThe most common cause of hyperthyroidism is Graves’ disease, followed by toxic multinodular goiter and toxic adenomas. Primary hypothyroidism is the most common cause of hypothyroidism.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "double vision",
+      "type": "T033",
+      "umls_id": "C0012569",
+      "score": 0.9532940983772278,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A visual symptom in which a single object is perceived by the visual cortex as two objects rather than one. Disorders associated with this condition include REFRACTIVE ERRORS; STRABISMUS; OCULOMOTOR NERVE DISEASES; TROCHLEAR NERVE DISEASES; ABDUCENS NERVE DISEASES; and diseases of the BRAIN STEM and OCCIPITAL LOBE."
+    },
+    {
+      "text": "seeing",
+      "type": "T040",
+      "umls_id": "C0042789",
+      "score": 0.9128932356834412,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image. [GOC:ai]"
+    },
+    {
+      "text": "double",
+      "type": "T169",
+      "umls_id": "C0205173",
+      "score": 0.9655318856239319,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Consisting of or involving two parts or components, often in pairs."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "radiation technologist",
+      "type": "T097",
+      "umls_id": "C0260282",
+      "score": 0.7577211856842041,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A person trained and qualified to perform radiographic procedures by the application of ionizing radiation to produce images on film and on computer assisted equipment displays and perform other related duties including but not limited to the patient instruction on a radiographic procedure, patient positioning, immobilization, protection, and observation during the procedure; radiographs generation and images records maintenance; equipment operation, minor adjustments and evaluation for modification or replacement."
+    },
+    {
+      "text": "vision",
+      "type": "T040",
+      "umls_id": "C0042789",
+      "score": 0.9751997590065002,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image. [GOC:ai]"
+    },
+    {
+      "text": "worsen",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9884297251701355,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "evenings",
+      "type": "T079",
+      "umls_id": "C0587117",
+      "score": 0.8132383823394775,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between late afternoon and bedtime."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "work hours",
+      "type": "T170",
+      "umls_id": "C4054767",
+      "score": 0.7909802198410034,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about how many hours an individual actually worked."
+    },
+    {
+      "text": "sleep habits",
+      "type": "T033",
+      "umls_id": "C2133558",
+      "score": 0.9920280575752258,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "type I diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011854",
+      "score": 0.9797846674919128,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic condition characterized by minimal or absent production of insulin by the pancreas."
+    },
+    {
+      "text": "hemoglobin A1c",
+      "type": "T116",
+      "umls_id": "C0019018",
+      "score": 0.9570454359054565,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Products of non-enzymatic reactions between GLUCOSE and HEMOGLOBIN A, occurring as a minor fraction of the hemoglobin components of human erythrocytes. Hemoglobin A1c is hemoglobin A with glucose covalently bound to the terminal VALINE of the beta chain. Glycated hemoglobin A is used as an index of the average blood sugar level over a lifetime of erythrocytes."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "Sjogren’s syndrome",
+      "type": "T047",
+      "umls_id": "C1527336",
+      "score": 0.9354991912841797,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Chronic inflammatory and autoimmune disease in which the salivary and lacrimal glands undergo progressive destruction by lymphocytes and plasma cells resulting in decreased production of saliva and tears. The primary form, often called sicca syndrome, involves both KERATOCONJUNCTIVITIS SICCA and XEROSTOMIA. The secondary form includes, in addition, the presence of a connective tissue disease, usually rheumatoid arthritis."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "carotid dissection",
+      "type": "T047",
+      "umls_id": "C0338585",
+      "score": 0.8497937321662903,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Spontaneous or traumatic separation of the layers of the carotid artery wall. It manifests with headache, neck pain, temporary vision loss, and/or ischemic stroke."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "round",
+      "type": "T082",
+      "umls_id": "C0332490",
+      "score": 0.9902244806289673,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The shape of a circle."
+    },
+    {
+      "text": "reactive",
+      "type": "T080",
+      "umls_id": "C0205332",
+      "score": 0.9803516864776611,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>A presence finding used to indicate that the specified component / analyte reacted with the reagent above the reliably measurable limit of the performed test.</p>"
+    },
+    {
+      "text": "Extraocular movements",
+      "type": "T033",
+      "umls_id": "C1858427",
+      "score": 0.844032883644104,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Limited mobility of the eye within its socket. []"
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "Mild ptosis",
+      "type": "T047",
+      "umls_id": "C0005745",
+      "score": 0.7606664299964905,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Drooping of the upper lid due to deficient development or paralysis of the levator palpebrae muscle."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "left",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9974963068962097,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "visual acuity test",
+      "type": "T060",
+      "umls_id": "C0200150",
+      "score": 0.9628927111625671,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

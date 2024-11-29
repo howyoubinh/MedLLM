@@ -1,0 +1,132 @@
+{
+  "original_data": {
+    "question": "A 39-year-old woman, with a history of thyroidectomy and primary hyperparathyroidism presents for surgical evaluation for a right adrenal mass. Preoperatively, which of the following medications should she receive to prevent a hypertensive emergency intraoperatively?",
+    "options": {
+      "A": "Atenolol",
+      "B": "Labetolol",
+      "C": "Nifedipine",
+      "D": "Phenoxybenzamine"
+    }
+  },
+  "model_response": "The patient should receive phenoxybenzamine preoperatively to block the effects of catecholamines on the peripheral vasculature. Atenolol, labetolol, nifedipine, and prazosin are all alpha-blockers, which should not be used in conjunction with phenoxybenzamine.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "thyroidectomy",
+      "type": "T061",
+      "umls_id": "C0040145",
+      "score": 0.9876305460929871,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical removal of the thyroid gland. (Dorland, 28th ed)"
+    },
+    {
+      "text": "primary hyperparathyroidism",
+      "type": "T047",
+      "umls_id": "C0221002",
+      "score": 0.9893426299095154,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hyperfunction of the parathyroid glands resulting in the overproduction of parathyroid hormone. It is caused by parathyroid adenoma, parathyroid hyperplasia, parathyroid carcinoma, and multiple endocrine neoplasia. It is associated with hypercalcemia and hypophosphatemia. Signs and symptoms include weakness, fatigue, nausea, vomiting, constipation, depression, bone pain, osteoporosis, cystic bone lesions, and kidney stones."
+    },
+    {
+      "text": "surgical evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.7035301327705383,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "right adrenal mass",
+      "type": "T033",
+      "umls_id": "C0342500",
+      "score": 0.8092506527900696,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormal growth in the adrenal gland."
+    },
+    {
+      "text": "Preoperatively",
+      "type": "T079",
+      "umls_id": "C0445204",
+      "score": 0.8313562273979187,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Relating to or occurring during the period immediately before a surgical operation."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "prevent",
+      "type": "T121",
+      "umls_id": "C0309872",
+      "score": 0.9771769642829895,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "brand of veterinary medicine"
+    },
+    {
+      "text": "hypertensive emergency",
+      "type": "T047",
+      "umls_id": "C0745136",
+      "score": 0.9894223213195801,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intraoperatively",
+      "type": "T079",
+      "umls_id": "C0456904",
+      "score": 0.8245730996131897,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring during the course of a surgical procedure."
+    },
+    {
+      "text": "39-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

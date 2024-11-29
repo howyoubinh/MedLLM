@@ -1,0 +1,152 @@
+{
+  "original_data": {
+    "question": "A 38-year-old woman presents with eye dryness and a foreign body sensation in the eyes. On physical examination, the oral cavity shows mucosal ulceration and atrophy. Biopsy of the lower lip shows marked lymphocytic infiltration of the minor salivary glands. Which of the following is most likely seen in this patient?",
+    "options": {
+      "A": "Anti-Sjögren's syndrome type B (SS-B) antibody",
+      "B": "Anti-centromere antibody",
+      "C": "Anti-Jo-1 antibody",
+      "D": "Anti-Scl-70 antibodies"
+    }
+  },
+  "model_response": "The patient has Sjögren's syndrome, which is characterized by lymphocytic infiltration and destruction of the lacrimal and salivary glands. The disease is associated with anti-Sjögren's syndrome type B (SS-B) antibodies, which are directed against the RNP antigens SS-A (Ro) and SS-B (La). The sicca syndrome can be primary or secondary to other autoimmune disorders, such as RA, SLE, scleroderma, or vasculitis. Primary Sjögren's syndrome is associated with the HLA-DR3 haplotype and the presence of anti-SS-A and anti-SS-B antibodies. Anti-Jo-1 antibodies are seen in inflammatory myopathies. Anti-Scl-70 antibodies are seen in scleroderma. Anti-centromere antibodies are seen in limited scleroderma (CREST syndrome).\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "eye dryness",
+      "type": "T184",
+      "umls_id": "C0314719",
+      "score": 0.9876903295516968,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "foreign body sensation",
+      "type": "T033",
+      "umls_id": "C0423602",
+      "score": 0.9633760452270508,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "oral cavity",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9742333292961121,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "mucosal ulceration",
+      "type": "T047",
+      "umls_id": "C0236053",
+      "score": 0.9559752941131592,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A circumscribed loss of integrity of the mucous membrane."
+    },
+    {
+      "text": "atrophy",
+      "type": "T046",
+      "umls_id": "C0333641",
+      "score": 0.9923204779624939,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Decrease in the size of a cell, tissue, organ, or multiple organs, associated with a variety of pathological conditions such as abnormal cellular changes, ischemia, malnutrition, or hormonal changes."
+    },
+    {
+      "text": "Biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "lower lip",
+      "type": "T023",
+      "umls_id": "C0458583",
+      "score": 0.9838593006134033,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The lip that covers the anterior portion of the mandible."
+    },
+    {
+      "text": "lymphocytic infiltration",
+      "type": "T047",
+      "umls_id": "C1262091",
+      "score": 0.9632186889648438,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "salivary glands",
+      "type": "T023",
+      "umls_id": "C0036098",
+      "score": 0.9833855032920837,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Glands that secrete SALIVA in the MOUTH. There are three pairs of salivary glands (PAROTID GLAND; SUBLINGUAL GLAND; SUBMANDIBULAR GLAND)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

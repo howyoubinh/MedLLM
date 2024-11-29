@@ -1,0 +1,359 @@
+{
+  "original_data": {
+    "question": "A 40-year-old woman presents to the emergency department with severe left upper quadrant pain (duration 3 hours, stabbing quality, 10/10 on the pain scale). Past medical history is significant for sickle cell anemia. Physical examination is significant for severe tenderness to palpation in the left upper quadrant. Significant splenomegaly is also noted. The patient is admitted to the hospital for close observation and placed on deep vein thrombosis (DVT) prophylaxis as part of a routine protocol. Laboratory findings drawn sometime after admission demonstrate a normal prothrombin time (PT) and elevated partial thromboplastin time (PTT). Which of the following factors is most directly affected by the DVT prophylaxis?",
+    "options": {
+      "A": "VII",
+      "B": "VIIa",
+      "C": "X",
+      "D": "XII"
+    }
+  },
+  "model_response": "The patient's laboratory values indicate a defect in the intrinsic pathway of coagulation. The most likely cause of these abnormalities is heparin, which is commonly used as DVT prophylaxis. Heparin is a direct inhibitor of factor Xa and antithrombin III. It does not affect the extrinsic pathway (factors VII and VIIa), the common pathway (factors X and V), or the platelet system (factors XII, XI, and IX).\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "left upper quadrant pain",
+      "type": "T184",
+      "umls_id": "C0238552",
+      "score": 0.974155604839325,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "duration 3 hours",
+      "type": "T079",
+      "umls_id": "C0449238",
+      "score": 0.7337413430213928,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period of time during which something continues."
+    },
+    {
+      "text": "stabbing quality",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pain scale",
+      "type": "T170",
+      "umls_id": "C1504479",
+      "score": 0.9814503788948059,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "sickle cell",
+      "type": "T025",
+      "umls_id": "C0221283",
+      "score": 0.9721915125846863,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anemia",
+      "type": "T047",
+      "umls_id": "C0002871",
+      "score": 0.9743537902832031,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A reduction in the number of circulating ERYTHROCYTES or in the quantity of HEMOGLOBIN."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "left upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230179",
+      "score": 0.9745408296585083,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the left of the patient, and from the umbilical plane to the left ribcage."
+    },
+    {
+      "text": "splenomegaly",
+      "type": "T033",
+      "umls_id": "C0038002",
+      "score": 0.9828366041183472,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the spleen."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "observation",
+      "type": "T062",
+      "umls_id": "C0302523",
+      "score": 0.9607546329498291,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "The act of regarding attentively and studying facts and occurrences, gathering data through analyzing, measuring, and drawing conclusions, with the purpose of applying the observed information to theoretical assumptions. Observation as a scientific method in the acquisition of knowledge began in classical antiquity; in modern science and medicine its greatest application is facilitated by modern technology. Observation is one of the components of the research process."
+    },
+    {
+      "text": "deep vein thrombosis",
+      "type": "T047",
+      "umls_id": "C0149871",
+      "score": 0.969101071357727,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A blood clot in a deep vein, predominantly in the lower extremity, but may include the pelvis or upper extremity."
+    },
+    {
+      "text": "DVT",
+      "type": "T047",
+      "umls_id": "C0149871",
+      "score": 0.9957343935966492,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A blood clot in a deep vein, predominantly in the lower extremity, but may include the pelvis or upper extremity."
+    },
+    {
+      "text": "prophylaxis",
+      "type": "T080",
+      "umls_id": "C0033107",
+      "score": 0.9599927067756653,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with disease headings for increasing human or animal resistance against disease (e.g., immunization), for control of transmission agents, for prevention and control of environmental hazards, or for prevention and control of social factors leading to disease. It includes preventive measures in individual cases."
+    },
+    {
+      "text": "routine protocol",
+      "type": "T170",
+      "umls_id": "C0442711",
+      "score": 0.716427743434906,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A rule which guides how an activity should be performed."
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "sometime",
+      "type": "T079",
+      "umls_id": "C1998882",
+      "score": 0.8198074698448181,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "From time to time, but not continually or always."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "normal prothrombin time",
+      "type": "T033",
+      "umls_id": "C0580551",
+      "score": 0.9804131388664246,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "PT",
+      "type": "T196",
+      "umls_id": "C0032207",
+      "score": 0.9978458881378174,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "A heavy, soft, whitish metal, resembling tin, with atomic number 78, atomic weight 195.084, symbol Pt. It is used in manufacturing equipment for laboratory and industrial use. It occurs as a black powder (platinum black) and as a spongy substance (spongy platinum) and may have been known in Pliny's time as \"alutiae\"."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "PTT",
+      "type": "T059",
+      "umls_id": "C0030605",
+      "score": 0.9858034253120422,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The time required for the appearance of FIBRIN strands following the mixing of PLASMA with phospholipid platelet substitute (e.g., crude cephalins, soybean phosphatides). It is a test of the intrinsic pathway (factors VIII, IX, XI, and XII) and the common pathway (fibrinogen, prothrombin, factors V and X) of BLOOD COAGULATION. It is used as a screening test and to monitor HEPARIN therapy."
+    },
+    {
+      "text": "factors",
+      "type": "T114",
+      "umls_id": "C1257900",
+      "score": 0.8513578176498413,
+      "semantic_types": [
+        "T114",
+        "T123"
+      ],
+      "definition": "Plasmids encoding COLICINS."
+    },
+    {
+      "text": "affected",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.980024516582489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "DVT",
+      "type": "T047",
+      "umls_id": "C0149871",
+      "score": 0.9957343935966492,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A blood clot in a deep vein, predominantly in the lower extremity, but may include the pelvis or upper extremity."
+    },
+    {
+      "text": "prophylaxis",
+      "type": "T080",
+      "umls_id": "C0033107",
+      "score": 0.9599927067756653,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with disease headings for increasing human or animal resistance against disease (e.g., immunization), for control of transmission agents, for prevention and control of environmental hazards, or for prevention and control of social factors leading to disease. It includes preventive measures in individual cases."
+    },
+    {
+      "text": "40-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

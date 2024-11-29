@@ -1,0 +1,180 @@
+{
+  "original_data": {
+    "question": "A 65-year-old man with metastatic lung cancer has been experiencing severe, unremitting pain. He has required escalating doses of oral morphine, but is now having dose limiting side-effects. His pain management team recommends using a medication that can reduce his opioid need through interaction with the NMDA-receptor. Which of the following was the most likely recommended agent?",
+    "options": {
+      "A": "Propofol",
+      "B": "Ketamine",
+      "C": "Fentanyl",
+      "D": "Midazolam"
+    }
+  },
+  "model_response": "The most likely recommended agent is Ketamine.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "metastatic lung cancer",
+      "type": "T191",
+      "umls_id": "C0153676",
+      "score": 0.9795284867286682,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "The spread of a malignant neoplasm to the lung. This may be from a primary lung malignant neoplasm, or from a malignant neoplasm at a distant site."
+    },
+    {
+      "text": "unremitting pain",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "escalating doses",
+      "type": "T169",
+      "umls_id": "C3816728",
+      "score": 0.740648090839386,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A stepwise increase in the amount of a therapeutic or investigational agent given to an individual."
+    },
+    {
+      "text": "oral",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9887835383415222,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "morphine",
+      "type": "T109",
+      "umls_id": "C0026549",
+      "score": 0.9835397005081177,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle."
+    },
+    {
+      "text": "dose",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.9949097037315369,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "limiting",
+      "type": "T169",
+      "umls_id": "C0439801",
+      "score": 0.9826385974884033,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Restricted or in amount, size, or extent."
+    },
+    {
+      "text": "side-effects",
+      "type": "T169",
+      "umls_id": "C0001688",
+      "score": 0.7633876800537109,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with drugs, chemicals, or biological agents in accepted dosage - or with physical agents or manufactured products in normal usage - when intended for diagnostic, therapeutic, prophylactic, or anesthetic purposes. It is used also for adverse effects or complications of diagnostic, therapeutic, prophylactic, anesthetic, surgical, or other procedures."
+    },
+    {
+      "text": "team recommends",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.8226861357688904,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "reduce",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.7874446511268616,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "opioid",
+      "type": "T109",
+      "umls_id": "C0242402",
+      "score": 0.9797284603118896,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "A class of synthetic chemicals/drugs similar to opiates (opium derivatives) with analgesic properties. Due to binding to opiate receptors, opioids mimic opiate activity on neurons, various cells (i.e. lymphocytes), pain suppression and other neurobehavioral activity. (NCI)"
+    },
+    {
+      "text": "interaction",
+      "type": "T033",
+      "umls_id": "C0037420",
+      "score": 0.9899218082427979,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Process involving reciprocal response between two or more individuals. This includes the development of cooperation and competition, the influence of status and social roles, and the dynamics of group behavior, leadership, and conformity. Persistent social interaction between specific individuals leads to the formation of social relationships."
+    },
+    {
+      "text": "NMDA-receptor",
+      "type": "T116",
+      "umls_id": "C0080093",
+      "score": 0.7841619849205017,
+      "semantic_types": [
+        "T116",
+        "T192"
+      ],
+      "definition": "A class of ionotropic glutamate receptors characterized by affinity for N-methyl-D-aspartate. NMDA receptors have an allosteric binding site for glycine which must be occupied for the channel to open efficiently and a site within the channel itself to which magnesium ions bind in a voltage-dependent manner. The positive voltage dependence of channel conductance and the high permeability of the conducting channel to calcium ions (as well as to monovalent cations) are important in excitotoxicity and neuronal plasticity."
+    },
+    {
+      "text": "recommended agent",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.807807981967926,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "65-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

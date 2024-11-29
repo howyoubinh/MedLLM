@@ -1,0 +1,462 @@
+{
+  "original_data": {
+    "question": "A 75-year-old man comes to the physician because of a 7-day history of nausea and vomiting. Over the past 2 days, he has also been feeling weak and tired. When standing up after sitting for a while, he feels dizzy. He says he has to go to the bathroom more often than usual, and that he is urinating “a normal amount” each time. He has not had diarrhea. He has hypertension, for which he has been taking hydrochlorothiazide for the past 6 months. He drinks 9 glasses of water per day and takes his medication regularly. He is 168 cm (5 ft 6 in) tall and weighs 90 kg (198 lb); BMI is 32 kg/m2. His temperature is 36.5°C (97.7°F), blood pressure is 106/54 mm Hg, and pulse is 92/min. Physical examination shows whitening of the tongue. Skin that is pinched on the back of the hand retracts after 5 seconds. On mental status examination, his speech is slowed; he is oriented to person, place, and time. Laboratory studies show:\nSerum\nNa+ 150 mEq/L\nCl− 97 mEq/L\nK+ 3.6 mEq/L\nHCO3− 30 mEq/L\nOsmolality 354 mOsm/kg\nHemoglobin A1C 10.5%\nUrine\nOsmolality 400 mOsm/kg\nWhich of the following is the most likely explanation for these findings?\"",
+    "options": {
+      "A": "Diuretic overdose",
+      "B": "Osmotic diuresis",
+      "C": "Excess production of aldosterone",
+      "D": "Insufficient production of antidiuretic hormone"
+    }
+  },
+  "model_response": "The patient has hyponatremia, which is causing his symptoms of nausea and mental confusion. The combination of hyponatremia and hyperkalemia suggests a disorder of the renal tubules. The low urine osmolality suggests that the kidneys are unable to respond to the increased ADH levels that would result from the fluid overload. This is consistent with a disorder of the renal tubules. The most likely explanation for these findings is diuretic overdose. The excessive intake of water can lead to hyponatremia, which in turn can lead to confusion and weakness. The diuretic probably causes excessive urination, which contributes to the fluid overload. The patient's whitening of the tongue and skin that retracts are signs of dehydration. The low serum sodium is consistent with a dilutional hyponatremia. The elevated hemoglobin A1C suggests diabetes mellitus, which could be a contributing factor. An osmotic diuresis would be associated with a high urine osmolality. Excess production of aldosterone would be associated with hypernatremia and hypokalemia. Insufficient production of antidiuretic hormone would be associated with polyuria and polydipsia but would not cause hyponatremia or hyperkalemia.\n\n###Rationale: Hyponatremia can occur with excess water intake, excess water loss, or a combination of the two. Excess water intake (overhydration) is usually iatrogenic, resulting from the administration of excessive amounts of hypotonic fluids. Excess water loss can occur with diarrhea or excessive diuresis. Diuretics such as hydrochlorothiazide act primarily to increase sodium excretion in the urine, and if excessive, can lead to dehydration and hyponatremia. The combination of hyponatremia and hyperkalemia suggests a disorder of the renal tubules. The low urine osmolality suggests that the kidneys are unable to respond to the increased ADH levels that would result from the fluid overload. This is consistent with a disorder of the renal tubules. The most likely explanation for these findings is diuretic overdose. The excessive intake of water can lead to hyponatremia, which in turn can lead to confusion and weakness. The diuretic probably causes excessive urination, which contributes to the fluid overload. The patient's whitening of the tongue and skin that retracts are signs of dehydration. The low serum sodium is consistent with a dilutional hyponatremia. The elevated hemoglobin A1C suggests diabetes mellitus, which could be a contributing factor. An osmotic diuresis would be associated with a high urine osmolality. Excess production of aldosterone would be associated with hypernatremia and hypokalemia. Insufficient production of antidiuretic hormone would be associated with polyuria and polydipsia but would not cause hyponatremia or hyperkalemia.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "weak",
+      "type": "T080",
+      "umls_id": "C1762617",
+      "score": 0.9965013265609741,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having strength, power, or intensity less than average or expected."
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "standing",
+      "type": "T082",
+      "umls_id": "C0231472",
+      "score": 0.9963629245758057,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The act of assuming or maintaining an erect upright position."
+    },
+    {
+      "text": "sitting",
+      "type": "T033",
+      "umls_id": "C0277814",
+      "score": 0.9747529029846191,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state or act of one who sits; the posture of one who occupies a seat."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "dizzy",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9601719975471497,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bathroom",
+      "type": "T073",
+      "umls_id": "C0040364",
+      "score": 0.9783955216407776,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Facilities containing equipment for disposal of human excrement, often with an accompanying hand-washing station."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "glasses",
+      "type": "T074",
+      "umls_id": "C0015421",
+      "score": 0.9843721389770508,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A pair of ophthalmic lenses in a frame or mounting which is supported by the nose and ears. The purpose is to aid or improve vision. It does not include goggles or nonprescription sun glasses for which EYE PROTECTIVE DEVICES is available."
+    },
+    {
+      "text": "water",
+      "type": "T121",
+      "umls_id": "C0043047",
+      "score": 0.9369778037071228,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A clear, odorless, tasteless liquid that is essential for most animal and plant life and is an excellent solvent for many substances. The chemical formula is hydrogen oxide (H2O). (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "tall",
+      "type": "T033",
+      "umls_id": "C4314520",
+      "score": 0.9990716576576233,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weighs",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7179433107376099,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "whitening",
+      "type": "T058",
+      "umls_id": "C2986584",
+      "score": 0.9732937216758728,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A process that employs special bleaching agents for restoring the color of teeth."
+    },
+    {
+      "text": "tongue",
+      "type": "T023",
+      "umls_id": "C0040408",
+      "score": 0.9851449131965637,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscular organ in the mouth that is covered with pink tissue called mucosa, tiny bumps called papillae, and thousands of taste buds. The tongue is anchored to the mouth and is vital for chewing, swallowing, and for speech."
+    },
+    {
+      "text": "Skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hand retracts",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "seconds",
+      "type": "T079",
+      "umls_id": "C0457385",
+      "score": 0.9833773970603943,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit of time, one of the seven base units of the International System of Units (Systeme International d'Unites, SI). The second is the duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the caesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute; 3,600 seconds constitute one hour."
+    },
+    {
+      "text": "mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Urine\n",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "explanation",
+      "type": "T170",
+      "umls_id": "C0681841",
+      "score": 0.9418625831604004,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of statements describing a group of facts that clarifies the cause, context and/or consequence of those facts."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "75-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

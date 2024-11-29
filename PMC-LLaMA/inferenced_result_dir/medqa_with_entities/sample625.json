@@ -1,0 +1,295 @@
+{
+  "original_data": {
+    "question": "A 23-year-old woman presents to the hospital for elective surgery. However, due to an unexpected bleeding event, the physician had to order a blood transfusion to replace the blood lost in the surgery. After this, the patient became irritable and had difficulty breathing, suggesting an allergic reaction, which was immediately treated with epinephrine. This patient is otherwise healthy, and her history does not indicate any health conditions or known allergies. The physician suspects an immunodeficiency disorder that was not previously diagnosed. If serum is taken from this patient to analyze her condition further, which of the following would be expected?",
+    "options": {
+      "A": "High IgM, low IgA, and IgE",
+      "B": "Low IgA, normal IgG, and IgM",
+      "C": "High IgE, normal IgA, and IgG",
+      "D": "Normal serum immunoglobulin values"
+    }
+  },
+  "model_response": "The patient's symptoms are consistent with anaphylaxis, which is a severe, potentially life-threatening allergic reaction. The most common cause of anaphylaxis is iatrogenic, with medications and blood products being the most common causes. The most common immunodeficiency associated with anaphylaxis is common variable immunodeficiency (CVID), which is characterized by low levels of IgA, IgG, and IgM. The most common immunodeficiency associated with allergic reactions is IgE, which is increased in patients with allergic asthma and atopic dermatitis.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "elective surgery",
+      "type": "T061",
+      "umls_id": "C0206058",
+      "score": 0.9894173741340637,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgery that may be scheduled or undertaken by choice."
+    },
+    {
+      "text": "bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9680540561676025,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "blood transfusion",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9712764620780945,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "lost",
+      "type": "T169",
+      "umls_id": "C0745777",
+      "score": 0.9972493052482605,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Parted with; no longer held or possessed; incapable of being recovered or regained."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "difficulty breathing",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.980121910572052,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "allergic reaction",
+      "type": "T046",
+      "umls_id": "C0020517",
+      "score": 0.9734636545181274,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "epinephrine",
+      "type": "T109",
+      "umls_id": "C0014563",
+      "score": 0.9722364544868469,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "The active sympathomimetic hormone from the ADRENAL MEDULLA. It stimulates both the alpha- and beta- adrenergic systems, causes systemic VASOCONSTRICTION and gastrointestinal relaxation, stimulates the HEART, and dilates BRONCHI and cerebral vessels. It is used in ASTHMA and CARDIAC FAILURE and to delay absorption of local ANESTHETICS."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "health conditions",
+      "type": "T201",
+      "umls_id": "C2707291",
+      "score": 0.9764843583106995,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "allergies",
+      "type": "T046",
+      "umls_id": "C0020517",
+      "score": 0.9737498760223389,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "suspects",
+      "type": "T078",
+      "umls_id": "C0750491",
+      "score": 0.9773206114768982,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Believed likely."
+    },
+    {
+      "text": "immunodeficiency disorder",
+      "type": "T047",
+      "umls_id": "C0021051",
+      "score": 0.9882749915122986,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Syndromes in which there is a deficiency or defect in the mechanisms of immunity, either cellular or humoral."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "23-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

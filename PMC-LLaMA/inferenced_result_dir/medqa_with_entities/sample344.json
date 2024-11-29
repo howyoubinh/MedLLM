@@ -1,0 +1,394 @@
+{
+  "original_data": {
+    "question": "A 47-year-old woman comes to the physician for a follow-up examination. She has noticed trembling of her hands for the past 5 months. These movements are only present when she reaches to pick up an object or answer the phone. She has a history of major depressive disorder but has been off medications for the past 3 years. Her father had Parkinson's disease and died 6 months ago. She drinks a glass of wine daily. She appears anxious. Her temperature is 37°C (98.6°F), pulse is 80/min, and blood pressure is 118/74 mm Hg. A low-frequency tremor is present that worsens as she reaches out for an object. She consistently overshoots her target. There is no tremor present when her arms are held outstretched. There is increased tone in the lower extremities and Babinski's sign is positive bilaterally. Which of the following is the most likely cause of this patient's symptoms?",
+    "options": {
+      "A": "Cerebellar demyelination",
+      "B": "Degenerated substantia nigra",
+      "C": "Degenerated caudate nucleus",
+      "D": "Subthalamic nucleus stroke\n\""
+    }
+  },
+  "model_response": "This patient's history of tremor, anxiety, and neurological signs of cerebellar dysfunction and increased tone with positive Babinski's sign are consistent with a diagnosis of alcoholic cerebellar degeneration. The tremor is a low-frequency action tremor that worsens with movement. The patient does not have the typical resting tremor of Parkinson's disease. The history of anxiety and depression may be related to the chronic alcohol abuse. Cerebellar degeneration is most commonly related to chronic alcoholism, although head trauma, strokes, and demyelinating diseases are other causes. The cerebellar lesions are usually bilateral and involve the vermis and the hemispheres. The caudate nucleus is part of the basal ganglia and is involved in chorea associated with Huntington's disease. The subthalamic nucleus is part of the basal ganglia and is involved in the abnormal movements of Parkinson's disease.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "trembling",
+      "type": "T184",
+      "umls_id": "C0234369",
+      "score": 0.9674367904663086,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "object",
+      "type": "T072",
+      "umls_id": "C0347997",
+      "score": 0.9859827756881714,
+      "semantic_types": [
+        "T072"
+      ],
+      "definition": "Something perceptible by one or more of the senses, especially by vision or touch; a material thing."
+    },
+    {
+      "text": "phone",
+      "type": "T073",
+      "umls_id": "C0039457",
+      "score": 0.9806770086288452,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An instrument for reproducing sounds especially articulate speech at a distance. (Webster, 3rd ed)"
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "depressive disorder",
+      "type": "T048",
+      "umls_id": "C0011581",
+      "score": 0.9825969338417053,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An affective disorder manifested by either a dysphoric mood or loss of interest or pleasure in usual activities. The mood disturbance is prominent and relatively persistent."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "Parkinson's disease",
+      "type": "T047",
+      "umls_id": "C0030567",
+      "score": 0.9629952907562256,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative neurologic disease characterized by a TREMOR that is maximal at rest, retropulsion (i.e. a tendency to fall backwards), rigidity, stooped posture, slowness of voluntary movements, and a masklike facial expression. Pathologic features include loss of melanin containing neurons in the substantia nigra and other pigmented nuclei of the brainstem. LEWY BODIES are present in the substantia nigra and locus coeruleus but may also be found in a related condition (LEWY BODY DISEASE, DIFFUSE) characterized by dementia in combination with varying degrees of parkinsonism. (Adams et al., Principles of Neurology, 6th ed, p1059, pp1067-75)"
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "glass",
+      "type": "T073",
+      "umls_id": "C0017596",
+      "score": 0.9900928735733032,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Hard, amorphous, brittle, inorganic, usually transparent, polymerous silicate of basic oxides, usually potassium or sodium. It is used in the form of hard sheets, vessels, tubing, fibers, ceramics, beads, etc."
+    },
+    {
+      "text": "wine daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.7358837127685547,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "low-frequency",
+      "type": "T079",
+      "umls_id": "C0205213",
+      "score": 0.9666123986244202,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "worsens",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9901487231254578,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "object",
+      "type": "T072",
+      "umls_id": "C0347997",
+      "score": 0.9859827756881714,
+      "semantic_types": [
+        "T072"
+      ],
+      "definition": "Something perceptible by one or more of the senses, especially by vision or touch; a material thing."
+    },
+    {
+      "text": "target",
+      "type": "T169",
+      "umls_id": "C1521840",
+      "score": 0.9916039109230042,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "An object fixed as a goal or point of examination; something to point at; a destination."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "outstretched",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tone",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "Babinski's",
+      "type": "T033",
+      "umls_id": "C0034935",
+      "score": 0.8482509255409241,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A reflex found in normal infants consisting of dorsiflexion of the HALLUX and abduction of the other TOES in response to cutaneous stimulation of the plantar surface of the FOOT. In adults, it is used as a diagnostic criterion, and if present is a NEUROLOGIC MANIFESTATION of dysfunction in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "sign",
+      "type": "T033",
+      "umls_id": "C0311392",
+      "score": 0.9920724630355835,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Objective evidence of disease perceptible to the examining healthcare provider."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "47-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

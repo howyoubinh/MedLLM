@@ -1,0 +1,346 @@
+{
+  "original_data": {
+    "question": "A 6-year-old boy is brought to the physician because of abdominal distention, fatigue, and night sweats over the past 4 months. He also has a 2-month history of post-prandial fullness and recurrent nonbilious vomiting. He appears pale. Abdominal examination shows hepatosplenomegaly and shifting dullness; there is mild tenderness to palpation. Examination of the skin shows multiple nonblanching maculae. A CT scan of the abdomen shows mesenteric and retroperitoneal lymph node enlargement and nodular thickening of the omentum. A photomicrograph of a biopsy specimen from an enlarged mesenteric lymph node is shown. Immunohistochemical staining of the Ki-67 nuclear antigen shows that the proliferation index of the specimen is > 99%. The structure indicated by the arrows is most likely which of the following?",
+    "options": {
+      "A": "Neutrophil",
+      "B": "Human immunodeficiency virus",
+      "C": "B lymphocytes",
+      "D": "Macrophage"
+    }
+  },
+  "model_response": "The photomicrograph shows a lymph node involved by Burkitt lymphoma, which is characterized by a sea of monotonous, mitotically active cells with interspersed apoptotic cells and scattered tissue macrophages. The tumor cells are of B-cell origin, as demonstrated by their expression of CD19 and CD20. The tumor cells also express CD10, a characteristic feature of Burkitt lymphoma. The tumor cells are negative for TdT, a characteristic feature of acute lymphoblastic leukemia. The tumor cells are also negative for CD5, a B-cell marker that is expressed by mantle cell lymphoma and chronic lymphocytic leukemia. The tumor cells are positive for Ki-67, a marker of cell proliferation. The tumor cells are negative for EBV, a virus that is associated with Burkitt lymphoma in some populations. The most common chromosomal translocation in Burkitt lymphoma is t(8;14), which involves the oncogene myc on chromosome 8. The most common chromosomal translocation in mantle cell lymphoma is t(11;14), which involves the oncogene bcl-1 on chromosome 11. The most common chromosomal translocation in chronic lymphocytic leukemia is t(12;13), which involves the oncogene bcl-1 on chromosome 13. The most common chromosomal translocation in acute lymphoblastic leukemia is t(12;21), which involves the oncogene MLL on chromosome 12.\n\nThe proliferation index of the specimen is > 99%, which is consistent with a high-grade lymphoma. The tumor cells infiltrate the bone marrow and form sheets of monotonous, mitotically active cells with interspersed apoptotic cells and tissue macrophages. The tumor cells are of B-cell origin, as demonstrated by their expression of CD19 and CD20. The tumor cells also express CD10, a characteristic feature of Burkitt lymphoma. The tumor cells are negative for TdT, a characteristic feature of acute lymphoblastic leukemia. The tumor cells are also negative for CD5, a B-cell marker that is expressed by mantle cell lymphoma and chronic lymphocytic leukemia. The tumor cells are positive for Ki-67, a marker of cell proliferation. The tumor cells are negative for EBV, a virus that is associated with Burkitt lymphoma in some populations.\n\nThe structure indicated by the arrows is a germinal center, which is a normal component of a lymph node. Germinal centers are not found in Burkitt lymphoma, which is a tumor of mature B cells. Burkitt lymphoma is a high-grade lymphoma that typically involves the jaw and abdominal organs. The tumor cells are negative for TdT, a characteristic feature of acute lymphoblastic leukemia. The tumor cells are also negative for CD5, a B-cell marker that is expressed by mantle cell lymphoma and chronic lymphocytic leukemia. The tumor cells are positive for Ki-67, a marker of cell proliferation. The tumor cells are negative for EBV, a virus that is associated with Burkitt lymphoma in some populations.\n\nThe structure indicated by the arrows is a germinal center, which is a normal component of a lymph node. Germinal centers are not found in Burkitt lymphoma, which is a tumor of mature B cells. Burkitt lymphoma is a high-grade lymphoma that typically involves the jaw and abdominal organs.\n\nOption A: Neutrophil granulocytes: Neutrophil granulocytes are not typically found in lymph nodes. They are more commonly found in the peripheral blood and in sites of infection.\n\nOption B: Human immunodeficiency virus (HIV): HIV is a viral infection that can be associated with various lymphomas",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "abdominal distention",
+      "type": "T033",
+      "umls_id": "C0000731",
+      "score": 0.9700733423233032,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling of the abdomen resulting from excessive food intake, malnutrition, liver disease, primary abdominal tumors, and tumors metastatic to the abdominal cavity."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "night sweats",
+      "type": "T184",
+      "umls_id": "C0028081",
+      "score": 0.9751355051994324,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Perspiration experienced nocturnally that is unrelated to environmental temperature."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "post-prandial fullness",
+      "type": "T184",
+      "umls_id": "C5539843",
+      "score": 0.7862708568572998,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Feeling excessively full after meals. [PMID:27781342]"
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "nonbilious vomiting",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "type": "T184",
+      "umls_id": "C0019214",
+      "score": 0.9937257170677185,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal enlargement of both the liver and spleen."
+    },
+    {
+      "text": "dullness",
+      "type": "T033",
+      "umls_id": "C0541911",
+      "score": 0.974902331829071,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mild tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.8372025489807129,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nonblanching maculae",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "mesenteric",
+      "type": "T029",
+      "umls_id": "C0025474",
+      "score": 0.9751284122467041,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "A layer of the peritoneum which attaches the abdominal viscera to the ABDOMINAL WALL and conveys their blood vessels and nerves."
+    },
+    {
+      "text": "retroperitoneal",
+      "type": "T030",
+      "umls_id": "C0035359",
+      "score": 0.9806986451148987,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "An area occupying the most posterior aspect of the ABDOMINAL CAVITY. It is bounded laterally by the borders of the quadratus lumborum muscles and extends from the DIAPHRAGM to the brim of the true PELVIS, where it continues as the pelvic extraperitoneal space."
+    },
+    {
+      "text": "nodular thickening",
+      "type": "T033",
+      "umls_id": "C0205400",
+      "score": 0.743944525718689,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An increase in the thickness of a structure."
+    },
+    {
+      "text": "omentum",
+      "type": "T023",
+      "umls_id": "C0028977",
+      "score": 0.9500964283943176,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A double-layered fold of peritoneum that attaches the STOMACH to other organs in the ABDOMINAL CAVITY."
+    },
+    {
+      "text": "photomicrograph",
+      "type": "T059",
+      "umls_id": "C0031753",
+      "score": 0.895453155040741,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Photography of objects viewed under a microscope using ordinary photographic methods."
+    },
+    {
+      "text": "biopsy specimen",
+      "type": "T024",
+      "umls_id": "C0677862",
+      "score": 0.9705878496170044,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "A specimen obtained by biopsy, which is a process of removing tissue from living patients for diagnostic examination."
+    },
+    {
+      "text": "enlarged",
+      "type": "T080",
+      "umls_id": "C0442800",
+      "score": 0.9600385427474976,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mesenteric lymph node",
+      "type": "T023",
+      "umls_id": "C0229792",
+      "score": 0.9752857089042664,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A lymph node located in the mesentery."
+    },
+    {
+      "text": "Immunohistochemical staining",
+      "type": "T060",
+      "umls_id": "C0021044",
+      "score": 0.7749336957931519,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Histochemical localization of immunoreactive substances using labeled antibodies as reagents."
+    },
+    {
+      "text": "Ki-67 nuclear antigen",
+      "type": "T116",
+      "umls_id": "C0208804",
+      "score": 0.9463580250740051,
+      "semantic_types": [
+        "T116",
+        "T129",
+        "T130"
+      ],
+      "definition": "A CELL CYCLE and tumor growth marker which can be readily detected using IMMUNOCYTOCHEMISTRY methods. Ki-67 is a nuclear antigen present only in the nuclei of cycling cells."
+    },
+    {
+      "text": "proliferation index",
+      "type": "T033",
+      "umls_id": "C0812425",
+      "score": 0.9670926928520203,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An expression of the number of mitoses found in a stated number of cells."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "structure",
+      "type": "T082",
+      "umls_id": "C0678594",
+      "score": 0.9954383373260498,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The components and their relationship and manner of arrangement in constituting a whole."
+    },
+    {
+      "text": "arrows",
+      "type": "T073",
+      "umls_id": "C0336721",
+      "score": 0.9818645715713501,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "6-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "original_data": {
+    "question": "A 62-year-old woman presents to the emergency department for vision changes. About 90 minutes ago she was on the couch watching television with her husband when she suddenly noticed that she couldn't see the screen normally. She also felt a little dizzy. She has never had anything like this happen before. Her general physical exam is unremarkable. Her neurologic exam is notable for loss of vision in the right visual field of both eyes with macular sparing, though extraocular movements are intact. A computed tomography (CT) scan of the head shows no acute intracranial process. Angiography of the brain will most likely show a lesion in which of the following vessels?",
+    "options": {
+      "A": "Internal carotid artery",
+      "B": "Anterior cerebral artery",
+      "C": "Posterior cerebral artery",
+      "D": "Basilar artery"
+    }
+  },
+  "model_response": "The posterior cerebral artery supplies the coical surface of the occipital lobe, which is the primary visual cortex. Occlusion of this vessel causes visual field defects. The anterior cerebral artery supplies the medial surface of the frontal and parietal lobes. The internal carotid artery supplies the brain stem, basilar artery, and cerebellum. The basilar artery supplies the pons and medulla. The vertebral artery supplies the medulla.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "vision changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.7229225039482117,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "watching",
+      "type": "T184",
+      "umls_id": "C0231617",
+      "score": 0.7559306621551514,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden pain, usually sharp, occurring during movement, or exacerbated by movement, and prompting cessation of movement"
+    },
+    {
+      "text": "television",
+      "type": "T073",
+      "umls_id": "C0039461",
+      "score": 0.9774903059005737,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "The transmission and reproduction of transient images of fixed or moving objects. An electronic system of transmitting such images together with sound over a wire or through space by apparatus that converts light and sound into electrical waves and reconverts them into visible light rays and audible sound. (From Webster, 3rd ed)"
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "screen",
+      "type": "T073",
+      "umls_id": "C0183185",
+      "score": 0.9913508892059326,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An electronic device designed as a display or a physical device designed to be a protective meshwork."
+    },
+    {
+      "text": "normally",
+      "type": "T080",
+      "umls_id": "C0205307",
+      "score": 0.7627861499786377,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In pathology, a term that is used to describe a tissue specimen that has a normal appearance."
+    },
+    {
+      "text": "dizzy",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9601719975471497,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "anything",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "happen",
+      "type": "T052",
+      "umls_id": "C1709305",
+      "score": 0.9858132004737854,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Come to pass."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "neurologic exam",
+      "type": "T080",
+      "umls_id": "C0205494",
+      "score": 0.8356497883796692,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to nerves or the nervous system."
+    },
+    {
+      "text": "loss of",
+      "type": "T081",
+      "umls_id": "C1517945",
+      "score": 0.8110635876655579,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A gradual decline in amount or activity."
+    },
+    {
+      "text": "vision",
+      "type": "T040",
+      "umls_id": "C0042789",
+      "score": 0.9751997590065002,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image. [GOC:ai]"
+    },
+    {
+      "text": "right visual field",
+      "type": "T082",
+      "umls_id": "C0042826",
+      "score": 0.8032103180885315,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The total area or space visible in a person's peripheral vision with the eye looking straightforward."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "macular sparing",
+      "type": "T169",
+      "umls_id": "C0445072",
+      "score": 0.9776244759559631,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "extraocular",
+      "type": "T169",
+      "umls_id": "C0241886",
+      "score": 0.9607911109924316,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Situated outside of the eye."
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "computed tomography",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.984857976436615,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "acute",
+      "type": "T079",
+      "umls_id": "C0205178",
+      "score": 0.9880385994911194,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Having a severe and rapid onset of symptoms with short duration."
+    },
+    {
+      "text": "intracranial process",
+      "type": "T029",
+      "umls_id": "C0524466",
+      "score": 0.7781705260276794,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Situated or occurring within the cranium; affecting or involving intracranial structures."
+    },
+    {
+      "text": "Angiography",
+      "type": "T060",
+      "umls_id": "C0002978",
+      "score": 0.9882922768592834,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Radiography of blood vessels after injection of a contrast medium."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "lesion",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9757081866264343,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "vessels",
+      "type": "T023",
+      "umls_id": "C0005847",
+      "score": 0.9931622743606567,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+    },
+    {
+      "text": "62-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

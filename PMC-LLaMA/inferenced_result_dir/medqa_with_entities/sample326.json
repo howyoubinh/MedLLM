@@ -1,0 +1,333 @@
+{
+  "original_data": {
+    "question": "A 39-year-old African-American woman presents to the emergency room with hip pain. She has a past medical history significant for sarcoidosis which was recently diagnosed 6 months ago and is currently being treated. She reports that the pain started 2 weeks ago and is localized to the left hip and groin. The pain has been getting progressively more intense. Her temperature is 98.1°F (36.7°C), blood pressure is 122/78 mm Hg, pulse is 80/min, respirations are 13/min, and oxygen saturation is 98% on room air. Physical exam is notable for pain with manipulation without restriction of range of motion of the hip. Which of the following is the most sensitive test for this condition?",
+    "options": {
+      "A": "MRI of the hip",
+      "B": "Radiograph of the hip",
+      "C": "Radionuclide scan of the hip",
+      "D": "Ultrasound of the hip"
+    }
+  },
+  "model_response": "The correct answer is A. MRI of the hip. This patient has avascular necrosis of the hip. This is a known complication of the treatment for sarcoidosis with corticosteroids. The most sensitive test for diagnosis of avascular necrosis is an MRI of the hip. Radiographs will be negative early in the disease process. A bone scan will show increased uptake in the area of avascular necrosis, but this is not specific for the hip. An ultrasound of the hip would not be helpful in making the diagnosis of avascular necrosis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "African-American",
+      "type": "T098",
+      "umls_id": "C0085756",
+      "score": 0.9695146679878235,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Denotes a person of African ancestral origins whose family settled in America."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "hip pain",
+      "type": "T184",
+      "umls_id": "C0019559",
+      "score": 0.9738751649856567,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort emanating from the pelvis, its supporting structures, or its articulation with the femur (acetabulofemoral or femoroacetabular joint)."
+    },
+    {
+      "text": "medical history significant",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.7499127984046936,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "sarcoidosis",
+      "type": "T047",
+      "umls_id": "C0036202",
+      "score": 0.9816914796829224,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An idiopathic systemic inflammatory granulomatous disorder comprised of epithelioid and multinucleated giant cells with little necrosis. It usually invades the lungs with fibrosis and may also involve lymph nodes, skin, liver, spleen, eyes, phalangeal bones, and parotid glands."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "localized",
+      "type": "T082",
+      "umls_id": "C0392752",
+      "score": 0.9746999740600586,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being confined or restricted to a particular location. [HPO:probinson]"
+    },
+    {
+      "text": "left hip",
+      "type": "T033",
+      "umls_id": "C0517668",
+      "score": 0.9832015633583069,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "groin",
+      "type": "T029",
+      "umls_id": "C0018246",
+      "score": 0.9815654754638672,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The external junctural region between the lower part of the abdomen and the thigh."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "intense",
+      "type": "T080",
+      "umls_id": "C0522510",
+      "score": 0.9864948987960815,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The degree or magnitude of strength, energy, or feeling."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "manipulation",
+      "type": "T061",
+      "umls_id": "C0947647",
+      "score": 0.9472424387931824,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Move, treat, or operate with the hands or by mechanical means, especially in a skillful manner."
+    },
+    {
+      "text": "restriction",
+      "type": "T169",
+      "umls_id": "C0443288",
+      "score": 0.9751776456832886,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Anything that limits; a limitation."
+    },
+    {
+      "text": "hip",
+      "type": "T023",
+      "umls_id": "C0019552",
+      "score": 0.9965716600418091,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The projecting part on each side of the body, formed by the side of the pelvis and the top portion of the femur."
+    },
+    {
+      "text": "sensitive",
+      "type": "T169",
+      "umls_id": "C0332324",
+      "score": 0.9966825842857361,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "test",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9994137287139893,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "39-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

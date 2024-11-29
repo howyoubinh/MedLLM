@@ -1,0 +1,347 @@
+{
+  "original_data": {
+    "question": "A 31-year-old female patient presents with significant swelling and redness of her fingers that is causing her significant pain. Her right knee has also been stiff and slightly swollen for the past 6 weeks. She is overall fatigued and has difficulty moving around but has not sought medical attention until now. On physical examination, the distal interphalangeal joints are swollen, warm, and painful; her nails are pitted and cracked. There are also rough, erythematous skin patches seen over her elbows which have been present for the last few months. She reports that herer father has a similar condition. They both use hydrating creams and topical glucocorticoids with moderate benefit. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Gout",
+      "B": "Reactive arthritis",
+      "C": "Psoriatic arthritis",
+      "D": "Dermatomyositis"
+    }
+  },
+  "model_response": "The correct answer is C. Psoriatic arthritis. Psoriatic arthritis is a seronegative inflammatory arthritis that can be associated with psoriasis. The classic presentation of psoriatic arthritis includes dactylitis (sausage digit), nail involvement (pitting, ridging, and yellow discoloration), and inflammation of the DIP joints. The skin findings in psoriasis can include scaling erythematous plaques and may also involve the scalp, elbows, and knees. The nails can also be involved with pitting, ridging, and yellow discoloration. The differential diagnosis for this patient includes gout, reactive arthritis, and psoriatic arthritis. Gout would be unlikely in this patient because it rarely involves the small joints of the hands. The history does not suggest a recent infection that would be consistent with reactive arthritis. The skin findings are not consistent with dermatomyositis. The nail findings are not consistent with onychomycosis.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.9688258767127991,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "redness",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9690099358558655,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "fingers",
+      "type": "T023",
+      "umls_id": "C0016129",
+      "score": 0.990062415599823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Four or five slender jointed digits in humans and primates, attached to each HAND."
+    },
+    {
+      "text": "significant pain",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8296529650688171,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "right knee",
+      "type": "T023",
+      "umls_id": "C0230431",
+      "score": 0.9811345934867859,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stiff",
+      "type": "T184",
+      "umls_id": "C0221170",
+      "score": 0.9654425978660583,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of tension or tightness in one or more muscles."
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "fatigued",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9519143104553223,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "difficulty moving",
+      "type": "T033",
+      "umls_id": "C0578673",
+      "score": 0.976737916469574,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical attention",
+      "type": "T041",
+      "umls_id": "C0004268",
+      "score": 0.7203226685523987,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Focusing on certain aspects of current experience to the exclusion of others. It is the act of heeding or taking notice or concentrating."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "distal",
+      "type": "T082",
+      "umls_id": "C0205108",
+      "score": 0.9876012802124023,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated farthest from a point of attachment or origin, as of a limb or bone; or directed away from the midline of the body."
+    },
+    {
+      "text": "interphalangeal joints",
+      "type": "T023",
+      "umls_id": "C1563055",
+      "score": 0.9789521098136902,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Hinge joints between the phalanges of the hand or foot."
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "warm",
+      "type": "T033",
+      "umls_id": "C0582051",
+      "score": 0.995954692363739,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "painful",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9710636734962463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "nails",
+      "type": "T023",
+      "umls_id": "C0027342",
+      "score": 0.9907473921775818,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The thin, horny plates that cover the dorsal surfaces of the distal phalanges of the fingers and toes of primates."
+    },
+    {
+      "text": "pitted",
+      "type": "T169",
+      "umls_id": "C0205323",
+      "score": 0.9841569662094116,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cracked",
+      "type": "T033",
+      "umls_id": "C1706353",
+      "score": 0.9768722057342529,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A break or fissure in a structure."
+    },
+    {
+      "text": "erythematous skin patches",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "elbows",
+      "type": "T184",
+      "umls_id": "C0239266",
+      "score": 0.8841447234153748,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the elbow. [UToronto:chum]"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "herer father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.7945073246955872,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "creams",
+      "type": "T168",
+      "umls_id": "C0700385",
+      "score": 0.9813822507858276,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": null
+    },
+    {
+      "text": "topical glucocorticoids",
+      "type": "T109",
+      "umls_id": "C0017712",
+      "score": 0.9777313470840454,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": null
+    },
+    {
+      "text": "moderate",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.9828923940658569,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "benefit",
+      "type": "T081",
+      "umls_id": "C0814225",
+      "score": 0.9704387187957764,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The positive effects of something."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "31-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

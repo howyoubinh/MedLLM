@@ -1,0 +1,404 @@
+{
+  "original_data": {
+    "question": "A 38-year-old man presents with progressive tiredness and shortness of breath on exertion. Past medical history is significant for peptic ulcer disease diagnosed 2 years ago for which he is not compliant with his medications. He reports a 10-pack-year smoking history and occasionally alcohol use. His vital signs include: temperature 37.1°C (98.7°F), blood pressure 142/91 mm Hg, pulse 98/min. Physical examination is unremarkable. Laboratory findings are significant for the following:\nHemoglobin 9.7 g/dL\nHematocrit 29.1%\nRed cell count 3.7 million/mm3\nMean corpuscular volume (MCV) 71 μm3\nMean corpuscular hemoglobin (MCH) 21.3 pg/cell\nMean corpuscular hemoglobin concentration (MCHC) 28.4 Hb/cell\nReticulocyte count 0.2 %\nRed cell distribution width (RDW) 17.8 (ref: 11.5–14.5%)\nWhite blood cell count 8100/mm3\nPlatelet count 420,000/mm3\nIron studies show:\nTotal iron binding capacity (TIBC) 620 μg/dL\nTransferrin saturation 9%\nWhich of the following findings would most likely be found on a bone marrow biopsy in this patient?",
+    "options": {
+      "A": "Hypocellularity with fatty infiltration",
+      "B": "↓ hemosiderin stores",
+      "C": "Ringed sideroblasts",
+      "D": "Myeloblasts with immature precursors"
+    }
+  },
+  "model_response": "The patient has anemia due to chronic disease. The MCV is slightly decreased, which is consistent with a normocytic anemia. The reticulocyte count is low, which suggests anemia due to a decreased production of red blood cells. The iron studies show decreased iron stores and a low transferrin saturation. This is consistent with iron deficiency due to chronic blood loss. The patient has a microcytic anemia, which is consistent with iron deficiency. The bone marrow biopsy would most likely show hypocellularity with fatty infiltration.\n\nOption A is incorrect because the patient has a normocytic anemia. A hypocellular bone marrow would show a decreased cellularity.\n\nOption B is incorrect because the patient has a normocytic anemia. A hypocellular bone marrow would show a decreased cellularity.\n\nOption C is incorrect because the patient does not have ringed sideroblasts. Ringed sideroblasts are seen in sideroblastic anemia, which is characterized by an increased MCV and a decreased iron binding capacity.\n\nOption D is incorrect because the patient does not have myeloblasts or immature precursors. The patient has a normocytic anemia, which is consistent with a decreased production of red blood cells.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "tiredness",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9812086224555969,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "exertion",
+      "type": "T040",
+      "umls_id": "C0015264",
+      "score": 0.9380931258201599,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Physical or mental energy; hard work."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "peptic ulcer",
+      "type": "T047",
+      "umls_id": "C0030920",
+      "score": 0.9659050703048706,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Ulcer that occurs in the regions of the GASTROINTESTINAL TRACT which come into contact with GASTRIC JUICE containing PEPSIN and GASTRIC ACID. It occurs when there are defects in the MUCOSA barrier. The common forms of peptic ulcers are associated with HELICOBACTER PYLORI and the consumption of nonsteroidal anti-inflammatory drugs (NSAIDS)."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "compliant",
+      "type": "T080",
+      "umls_id": "C0566588",
+      "score": 0.9842939376831055,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "alcohol use",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.9848212599754333,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse 98/min",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Red cell",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9882811307907104,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "million/mm3\n",
+      "type": "T081",
+      "umls_id": "C1881839",
+      "score": 0.7009332180023193,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A natural number following 999999 and preceding 1000001 and the quantity that it denotes: one thousand thousands."
+    },
+    {
+      "text": "Mean corpuscular volume",
+      "type": "T034",
+      "umls_id": "C0524587",
+      "score": 0.9821785092353821,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "MCV equals HEMATOCRIT divided by ERYTHROCYTE COUNT."
+    },
+    {
+      "text": "MCV",
+      "type": "T061",
+      "umls_id": "C0285131",
+      "score": 0.982687771320343,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A chemotherapy regimen consisting of cisplatin, methotrexate and vinblastine that may be used in the treatment of certain bladder cancers."
+    },
+    {
+      "text": "Mean corpuscular hemoglobin",
+      "type": "T059",
+      "umls_id": "C0369183",
+      "score": 0.9818762540817261,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The mean cell hemoglobin (MCH), which is the average amount of hemoglobin in the average red cell. The MCH is a calculated value derived from the measurement of hemoglobin and the red cell count."
+    },
+    {
+      "text": "MCH",
+      "type": "T109",
+      "umls_id": "C0600370",
+      "score": 0.9609803557395935,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "parasympathomimetic cholinergic agonist with predominantly muscarinic effects."
+    },
+    {
+      "text": "pg/cell\n",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "MCHC",
+      "type": "T034",
+      "umls_id": "C0427444",
+      "score": 0.7756273150444031,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "An elevation over the normal range of the average amount of hemoglobin per red blood cell (27 to 31 picograms/cell). []"
+    },
+    {
+      "text": "Hb/cell\n",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Reticulocyte",
+      "type": "T025",
+      "umls_id": "C0035286",
+      "score": 0.9877743124961853,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Immature ERYTHROCYTES. In humans, these are ERYTHROID CELLS that have just undergone extrusion of their CELL NUCLEUS. They still contain some organelles that gradually decrease in number as the cells mature. RIBOSOMES are last to disappear. Certain staining techniques cause components of the ribosomes to precipitate into characteristic \"reticulum\" (not the same as the ENDOPLASMIC RETICULUM), hence the name reticulocytes."
+    },
+    {
+      "text": "Red cell",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9882811307907104,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "RDW",
+      "type": "T059",
+      "umls_id": "C0427460",
+      "score": 0.7476266622543335,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "An index of the variation in the size of the red cells and can be used to detect subtle degress of anisocytosis. It is computed directly from the RBC histogram and is calculated as a standard statictical value, the coefficient of variation of the red cell volume ditribution (ratio of standard deviation and mean copuscular volume)."
+    },
+    {
+      "text": "White blood cell",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.9861048460006714,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "Iron studies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Total iron binding capacity",
+      "type": "T201",
+      "umls_id": "C0700379",
+      "score": 0.974647581577301,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "TIBC",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Transferrin",
+      "type": "T116",
+      "umls_id": "C0040679",
+      "score": 0.9769577383995056,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "An iron-binding beta1-globulin that is synthesized in the LIVER and secreted into the blood. It plays a central role in the transport of IRON throughout the circulation. A variety of transferrin isoforms exist in humans, including some that are considered markers for specific disease states."
+    },
+    {
+      "text": "saturation",
+      "type": "T070",
+      "umls_id": "C0522534",
+      "score": 0.9675852656364441,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Impregnation of one substance by another to the greatest possible extent; that concentration of a dissolved substance that cannot be exceeded."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bone marrow biopsy",
+      "type": "T060",
+      "umls_id": "C0005954",
+      "score": 0.9757674336433411,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A biopsy involving the removal of a core tissue containing bone spicules and hematopoietic elements embedded in the marrow stroma. This procedure is done in the hip area mainly for the diagnosis and evaluation of neoplastic and non-neoplastic hematopoietic disorders (e.g. anemias, leukemias, lymphomas) and the evaluation of the spread of solid tumors (e.g. carcinomas, sarcomas) and lymphomas for therapeutic purposes."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

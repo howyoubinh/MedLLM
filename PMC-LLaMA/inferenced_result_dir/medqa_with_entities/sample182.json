@@ -1,0 +1,461 @@
+{
+  "original_data": {
+    "question": "A 13-year-old boy is brought to his pediatrician due to a left breast lump under his nipple. He noticed it last month and felt that it has increased slightly in size. It is tender to touch but has no overlying skin changes. There is no breast discharge. The patient has cryptorchidism as an infant and underwent a successful orchiopexy. In addition, he was recently diagnosed with ADHD and is currently on methylphenidate with improvement in his symptoms. He has a family history of type I diabetes in his father and breast fibroadenoma in his mother. On exam, the patient is at the 82nd percentile for height, 79th percentile for weight, and 80th percentile for BMI. He has tanner IV pubic hair. Testicular volume is 7 mL on each side, and both testes are smooth and freely mobile. Breast exam shows a normal right breast and a 3-centimeter round, firm, and slightly tender discrete mass under the left nipple. Which of the following is the most likely etiology of this patient’s condition?",
+    "options": {
+      "A": "Klinefelter syndrome",
+      "B": "Glandular tissue enlargement",
+      "C": "Lipomastia (pseudogynecomastia)",
+      "D": "Testicular cancer"
+    }
+  },
+  "model_response": "The most likely etiology of this patient’s condition is glandular tissue enlargement. The presence of gynecomastia in a male with a history of cryptorchidism should raise suspicion for Klinefelter syndrome. However, the patient’s testicular volume is normal, which makes Klinefelter syndrome less likely. Lipomastia (pseudogynecomastia) is a form of localized fat deposition and would not present with a tender mass. Testicular cancer is unlikely because the patient has no testicular pain, mass, or atrophy. The patient’s BMI is normal, which makes obesity less likely.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "left breast lump",
+      "type": "T033",
+      "umls_id": "C2126192",
+      "score": 0.9540329575538635,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "felt",
+      "type": "T170",
+      "umls_id": "C3641757",
+      "score": 0.7752646803855896,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual feels or has felt tense."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "touch",
+      "type": "T061",
+      "umls_id": "C0152054",
+      "score": 0.9727063179016113,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Placing of the hands of the healer upon the person to be cured with the intent of spiritual energetic healing."
+    },
+    {
+      "text": "skin changes",
+      "type": "T170",
+      "umls_id": "C4084930",
+      "score": 0.8250342011451721,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual has or had noticed changes in their skin."
+    },
+    {
+      "text": "breast discharge",
+      "type": "T184",
+      "umls_id": "C0149741",
+      "score": 0.98993319272995,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Fluid that seeps out of one or both nipples of the breast."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "cryptorchidism",
+      "type": "T019",
+      "umls_id": "C0010417",
+      "score": 0.9875411987304688,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "A developmental defect in which a TESTIS or both TESTES failed to descend from high in the ABDOMEN to the bottom of the SCROTUM. Testicular descent is essential to normal SPERMATOGENESIS which requires temperature lower than the BODY TEMPERATURE. Cryptorchidism can be subclassified by the location of the maldescended testis."
+    },
+    {
+      "text": "infant",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9474613070487976,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "orchiopexy",
+      "type": "T061",
+      "umls_id": "C0194907",
+      "score": 0.9723203778266907,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A surgical procedure in which an undescended testicle is sutured inside the SCROTUM in male infants or children to correct CRYPTORCHIDISM. Orchiopexy is also performed to treat TESTICULAR TORSION in adults and adolescents."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "ADHD",
+      "type": "T048",
+      "umls_id": "C1263846",
+      "score": 0.9720516204833984,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A behavior disorder originating in childhood in which the essential features are signs of developmentally inappropriate inattention, impulsivity, and hyperactivity. Although most individuals have symptoms of both inattention and hyperactivity-impulsivity, one or the other pattern may be predominant. The disorder is more frequent in males than females. Onset is in childhood. Symptoms often attenuate during late adolescence although a minority experience the full complement of symptoms into mid-adulthood. (From DSM-V)"
+    },
+    {
+      "text": "methylphenidate with",
+      "type": "T109",
+      "umls_id": "C0025810",
+      "score": 0.8734158873558044,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A central nervous system stimulant used most commonly in the treatment of ATTENTION DEFICIT DISORDER in children and for NARCOLEPSY. Its mechanisms appear to be similar to those of DEXTROAMPHETAMINE. The d-isomer of this drug is referred to as DEXMETHYLPHENIDATE HYDROCHLORIDE."
+    },
+    {
+      "text": "improvement",
+      "type": "T077",
+      "umls_id": "C2986411",
+      "score": 0.9585268497467041,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A condition superior to an earlier condition."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "family history of type I diabetes",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.7211549878120422,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "breast fibroadenoma",
+      "type": "T191",
+      "umls_id": "C0178421",
+      "score": 0.9870012998580933,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A benign tumor of the breast characterized by the presence of stromal and epithelial elements. It presents as a painless, solitary, slow growing, firm, and mobile mass. It is the most common benign breast lesion. It usually occurs in women of childbearing age. The majority of fibroadenomas do not recur after complete excision. A slightly increased risk of developing cancer within fibroadenomas or in the breast tissue of patients previously treated for fibroadenomas has been reported."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "IV",
+      "type": "T061",
+      "umls_id": "C0021440",
+      "score": 0.9992784261703491,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The long-term (minutes to hours) administration of a fluid into the vein through venipuncture, either by letting the fluid flow by gravity or by pumping it."
+    },
+    {
+      "text": "pubic",
+      "type": "T023",
+      "umls_id": "C0034014",
+      "score": 0.971836268901825,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A bone that forms the lower and anterior part of each side of the hip bone."
+    },
+    {
+      "text": "hair",
+      "type": "T023",
+      "umls_id": "C0018494",
+      "score": 0.9951649904251099,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A filament-like structure consisting of a shaft which projects to the surface of the SKIN from a root which is softer than the shaft and lodges in the cavity of a HAIR FOLLICLE. It is found on most surfaces of the body."
+    },
+    {
+      "text": "Testicular volume",
+      "type": "T033",
+      "umls_id": "C0429619",
+      "score": 0.9911782741546631,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "side",
+      "type": "T082",
+      "umls_id": "C0441987",
+      "score": 0.9864407777786255,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A line segment forming part of the perimeter of a plane figure."
+    },
+    {
+      "text": "testes",
+      "type": "T023",
+      "umls_id": "C0021358",
+      "score": 0.9952155351638794,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The posterior pair of the quadrigeminal bodies which contain centers for auditory function."
+    },
+    {
+      "text": "smooth",
+      "type": "T080",
+      "umls_id": "C0205357",
+      "score": 0.981013298034668,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a surface free from roughness or bumps or ridges or irregularities."
+    },
+    {
+      "text": "mobile",
+      "type": "T169",
+      "umls_id": "C0231435",
+      "score": 0.985097348690033,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Moving or capable of moving readily."
+    },
+    {
+      "text": "Breast exam",
+      "type": "T060",
+      "umls_id": "C0199850",
+      "score": 0.9853962063789368,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "3-centimeter round",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "firm",
+      "type": "T080",
+      "umls_id": "C0205233",
+      "score": 0.9878337383270264,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a structure or consistency that strongly resists stress or pressure."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "left nipple",
+      "type": "T023",
+      "umls_id": "C1180247",
+      "score": 0.9774419069290161,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "etiology",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9827702641487122,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "13-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

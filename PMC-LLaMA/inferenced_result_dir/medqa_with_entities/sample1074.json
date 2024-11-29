@@ -1,0 +1,362 @@
+{
+  "original_data": {
+    "question": "A 24-year-old man with chronic back pain comes to the physician to establish care after moving to Florida. He complains of anxiety, nausea, abdominal cramping, vomiting, and diarrhea for three days. He denies smoking, drinking alcohol, and using illicit drugs. He appears restless. His temperature is 37°C (98.6°F), pulse is 110/min, and blood pressure is 150/86 mm Hg. Physical examination shows dilated pupils, diaphoresis, and piloerection. His abdominal exam shows diffuse mild tenderness. There is no rebound tenderness or guarding. His hemoglobin concentration is 14.5 g/dL, leukocyte count is 8,000/mm, and platelet count is 250,000/mm3; serum studies and urinalysis show no abnormalities. Which of the following is the most appropriate pharmacotherapy?",
+    "options": {
+      "A": "Lorazepam",
+      "B": "Naltrexone",
+      "C": "Methadone",
+      "D": "Naloxone\n\""
+    }
+  },
+  "model_response": "The patient's clinical presentation is consistent with opioid toxicity. Naloxone is a pure opioid antagonist that displaces the opioid from its receptor sites and reverses its effects. It is a short-acting drug with a plasma half-life of 60-90 min. Naloxone is the antidote of choice for opioid overdose. The dose should be titrated to reversal of respiratory depression. If the dose is titrated carefully, the risk of withdrawal in chronic users is minimal. Lorazepam is a sedative-hypnotic that is not an opioid antagonist. Naltrexone is an orally available opioid antagonist used for maintenance therapy in opioid addicts. Methadone is a synthetic narcotic that is used for maintenance therapy in opioid addicts.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "chronic back pain",
+      "type": "T184",
+      "umls_id": "C0740418",
+      "score": 0.983308732509613,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "establish care",
+      "type": "T080",
+      "umls_id": "C0443211",
+      "score": 0.8213440775871277,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Shown to be valid beyond a reasonable doubt."
+    },
+    {
+      "text": "moving",
+      "type": "T040",
+      "umls_id": "C0560560",
+      "score": 0.9744806289672852,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Florida",
+      "type": "T083",
+      "umls_id": "C0016253",
+      "score": 0.9901487231254578,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on east by the Atlantic Ocean, on the south by the Gulf of Mexico, on the west by Alabama and on the north by Alabama and Georgia."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "anxiety",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9637579321861267,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "abdominal cramping",
+      "type": "T184",
+      "umls_id": "C0000729",
+      "score": 0.9701767563819885,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An involuntary muscular contraction involving a muscle of the abdomen or of a hollow organ within the abdomen."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "denies smoking",
+      "type": "T055",
+      "umls_id": "C0037369",
+      "score": 0.7066801190376282,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Willful or deliberate act of inhaling and exhaling SMOKE from burning substances or agents held by hand."
+    },
+    {
+      "text": "drinking alcohol",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.9750128388404846,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "illicit drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.9839807748794556,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "dilated",
+      "type": "T033",
+      "umls_id": "C0700124",
+      "score": 0.9801392555236816,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The condition of being dilated or stretched."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "diaphoresis",
+      "type": "T033",
+      "umls_id": "C0700590",
+      "score": 0.9858672618865967,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Profuse sweating."
+    },
+    {
+      "text": "piloerection",
+      "type": "T042",
+      "umls_id": "C0031924",
+      "score": 0.9470964670181274,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Involuntary erection or bristling of hairs."
+    },
+    {
+      "text": "abdominal exam",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.8482996821403503,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "mild tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.8372025489807129,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "His hemoglobin concentration",
+      "type": "T059",
+      "umls_id": "C0474535",
+      "score": 0.7791539430618286,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The mean cell hemoglobin concentration (MCHC), which is the average concentration of hemoglobin in a given volume of blood. The MCHC is a calculated value derived from the measurement of hemoglobin and the hematocrit."
+    },
+    {
+      "text": "leukocyte count",
+      "type": "T059",
+      "umls_id": "C0023508",
+      "score": 0.9761701822280884,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of WHITE BLOOD CELLS per unit volume in venous BLOOD. A differential leukocyte count measures the relative numbers of the different types of white cells."
+    },
+    {
+      "text": "platelet count",
+      "type": "T059",
+      "umls_id": "C0032181",
+      "score": 0.9868485927581787,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of PLATELETS per unit volume in a sample of venous BLOOD."
+    },
+    {
+      "text": "serum studies",
+      "type": "T091",
+      "umls_id": "C0036745",
+      "score": 0.9744794964790344,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of serum, especially of antigen-antibody reactions in vitro."
+    },
+    {
+      "text": "urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "original_data": {
+    "question": "A 29-year-old woman presents to her primary care doctor for a prenatal visit. She has just learned that she is pregnant and estimates she is approximately 6 weeks pregnant given the timing of her last menstrual cycle. She has a history of recurrent fetal loss. In total, she has had 4 miscarriages between the gestational ages of 8 and 15 weeks. She has a history of systemic lupus erythematosus and has had several DVTs in the past and a clot in her lung once. Her vitals today are unremarkable. She is asking if there are any treatments she should receive to prevent fetal loss. Which of the following is the most appropriate management of this patient?",
+    "options": {
+      "A": "Aspirin and heparin",
+      "B": "Aspirin and warfarin",
+      "C": "No treatment indicated",
+      "D": "Rivaroxaban"
+    }
+  },
+  "model_response": "The patient should be treated with aspirin and heparin. The most common cause of fetal loss in women with systemic lupus erythematosus is placental insufficiency due to uteroplacental blood flow abnormalities. These women are at increased risk for both arterial and venous thrombosis. Low-dose aspirin (81 mg) and unfractionated heparin (5000 units twice daily) should be initiated between 4 and 8 weeks' gestation. This therapy has been shown to increase significantly the rate of live births in women with systemic lupus erythematosus and prior pregnancy loss. Warfarin should be avoided in pregnancy because it is a known teratogen. Rivaroxaban is an oral factor Xa inhibitor. It is not recommended for use in pregnancy as there is little data on its safety.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care doctor",
+      "type": "T097",
+      "umls_id": "C2735026",
+      "score": 0.9863750338554382,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical professional who provides, coordinates, or helps a patient access a range of health care services. This is usually a medical doctor (MD), but may also be a Doctor of Osteopathic Medicine, nurse practitioner, clinical nurse specialist, or physician assistant, as allowed under state law."
+    },
+    {
+      "text": "prenatal visit",
+      "type": "T058",
+      "umls_id": "C1827763",
+      "score": 0.9857678413391113,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "learned",
+      "type": "T041",
+      "umls_id": "C0023185",
+      "score": 0.9737175107002258,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Relatively permanent change in behavior that is the result of past experience or practice. The concept includes the acquisition of knowledge."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "estimates",
+      "type": "T081",
+      "umls_id": "C0750572",
+      "score": 0.9890454411506653,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "To calculate approximately."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "timing",
+      "type": "T079",
+      "umls_id": "C0449243",
+      "score": 0.9833889603614807,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The chronological relationship between temporal events."
+    },
+    {
+      "text": "menstrual cycle",
+      "type": "T040",
+      "umls_id": "C0025329",
+      "score": 0.9570977687835693,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The period from onset of one menstrual bleeding (MENSTRUATION) to the next in an ovulating woman or female primate. The menstrual cycle is regulated by endocrine interactions of the HYPOTHALAMUS; the PITUITARY GLAND; the ovaries; and the genital tract. The menstrual cycle is divided by OVULATION into two phases. Based on the endocrine status of the OVARY, there is a FOLLICULAR PHASE and a LUTEAL PHASE. Based on the response in the ENDOMETRIUM, the menstrual cycle is divided into a proliferative and a secretory phase."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "miscarriages",
+      "type": "T046",
+      "umls_id": "C4552766",
+      "score": 0.9839133620262146,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A loss of PREGNANCY from natural causes before the 20th week of pregnancy. (2017/18 ICD-10-CM)"
+    },
+    {
+      "text": "gestational ages",
+      "type": "T032",
+      "umls_id": "C0017504",
+      "score": 0.9627856612205505,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The age of the conceptus, beginning from the time of FERTILIZATION. In clinical obstetrics, the gestational age is often estimated from the onset of the last MENSTRUATION which is about 2 weeks before OVULATION and fertilization. It is also estimated to begin from fertilization, estrus, coitus, or artificial insemination."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "systemic lupus erythematosus",
+      "type": "T047",
+      "umls_id": "C0024141",
+      "score": 0.9638178944587708,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic, relapsing, inflammatory, and often febrile multisystemic disorder of connective tissue, characterized principally by involvement of the skin, joints, kidneys, and serosal membranes. It is of unknown etiology, but is thought to represent a failure of the regulatory mechanisms of the autoimmune system. The disease is marked by a wide range of system dysfunctions, an elevated erythrocyte sedimentation rate, and the formation of LE cells in the blood or bone marrow."
+    },
+    {
+      "text": "DVTs",
+      "type": "T047",
+      "umls_id": "C0151950",
+      "score": 0.9610802531242371,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "clot",
+      "type": "T109",
+      "umls_id": "C0009074",
+      "score": 0.997693657875061,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An imidazole derivative with a broad spectrum of antimycotic activity. It inhibits biosynthesis of the sterol ergostol, an important component of fungal CELL MEMBRANES. Its action leads to increased membrane permeability and apparent disruption of enzyme systems bound to the membrane."
+    },
+    {
+      "text": "lung",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9809418320655823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "treatments",
+      "type": "T061",
+      "umls_id": "C0087111",
+      "score": 0.9774671196937561,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Procedures concerned with the remedial treatment or prevention of diseases."
+    },
+    {
+      "text": "fetal loss",
+      "type": "T046",
+      "umls_id": "C0158951",
+      "score": 0.7633655071258545,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Loss of blood from the fetal circulation."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

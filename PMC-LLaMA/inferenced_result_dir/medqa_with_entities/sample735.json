@@ -1,0 +1,416 @@
+{
+  "original_data": {
+    "question": "A 68-year-old man presents to the emergency department with confusion. The patient lives in a nursing home and has Alzheimer dementia at baseline. His nurse noticed that he was more confused than usual and was somnolent for the past 12 hours. The patient’s nurse also noticed that he was soiling his diapers more frequently with copious amounts of urine. The patient has lost 15 pounds since his last physician appointment 3 weeks ago. Laboratory values are ordered as seen below.\n\nSerum:\nNa+: 139 mEq/L\nCl-: 100 mEq/L\nK+: 4.3 mEq/L\nHCO3-: 25 mEq/L\nBUN: 20 mg/dL\nGlucose: 99 mg/dL\nCreatinine: 1.1 mg/dL\nCa2+: 12.2 mg/dL\nPTH: 8 pg/mL\n\nThe patient is referred to another physician for a more thorough workup including laboratory work and CT imaging. Which of the following is the best long-term prophylaxis for the cause of this patient’s acute symptoms?",
+    "options": {
+      "A": "Alendronate",
+      "B": "Calcitonin",
+      "C": "IV fluids",
+      "D": "Teriparatide"
+    }
+  },
+  "model_response": "The patient’s laboratory values show a low serum sodium level (hyponatremia), which is likely due to the syndrome of inappropriate antidiuretic hormone (SIADH). SIADH is a condition in which the body makes too much antidiuretic hormone (ADH). This hormone helps the kidneys control the amount of water your body loses through the urine. SIADH causes the body to retain too much water. This can lead to a low sodium level in the blood. SIADH can be caused by certain medications, such as antidepressants and pain medications. It can also be caused by a tumor in the brain or lung. In this case, the patient’s history of Alzheimer dementia and the recent weight loss suggest that he may have a malignancy. The CT imaging will likely show a lung mass or other tumor. The patient’s low calcium level is likely due to the parathyroid hormone (PTH) from the tumor causing increased calcium to be taken from the bones. The patient’s low calcium level is causing his confusion and somnolence. The patient’s low calcium level is likely causing the increased urination and weight loss. The patient’s low calcium level is likely due to the parathyroid hormone (PTH) from the tumor causing increased calcium to be taken from the bones. The patient’s low calcium level is causing his confusion and somnolence. The patient’s low calcium level is likely causing the increased urination and weight loss. Teriparatide is a medication that can be used to treat osteoporosis. It works by increasing the amount of calcium in the bones. This medication is not appropriate for this patient because he has a low calcium level. Alendronate is a medication used to treat osteoporosis. It works by preventing bone loss. This medication is not appropriate for this patient because he has a low calcium level. Calcitonin is a medication used to treat osteoporosis. It works by slowing the rate of bone loss. This medication is not appropriate for this patient because he has a low calcium level. IV fluids would not be the best long-term prophylaxis for this patient. The patient’s low calcium level is likely due to the parathyroid hormone (PTH) from the tumor causing increased calcium to be taken from the bones. The patient’s low calcium level is causing his confusion and somnolence. The patient’s low calcium level is likely causing the increased urination and weight loss. Therefore, IV fluids would not address the underlying problem. Teriparatide is a medication that can be used to treat osteoporosis. It works by increasing the amount of calcium in the bones. This medication is not appropriate for this patient because he has a low calcium level. Alendronate is a medication used to treat osteoporosis. It works by preventing bone loss. This medication is not appropriate for this patient because he has a low calcium level. Calcitonin is a medication used to treat osteoporosis. It works by slowing the rate of bone loss. This medication is not appropriate for this patient because he has a low calcium level.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "confusion",
+      "type": "T048",
+      "umls_id": "C0009676",
+      "score": 0.9526641964912415,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A mental state characterized by bewilderment, emotional disturbance, lack of clear thinking, and perceptual disorientation."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "nursing home",
+      "type": "T058",
+      "umls_id": "C0019860",
+      "score": 0.9807891249656677,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Nursing care given to an individual in the home. The care may be provided by a family member or a friend. Home nursing as care by a non-professional is differentiated from HOME CARE SERVICES provided by professionals: visiting nurse, home health agencies, hospital, or other organized community group."
+    },
+    {
+      "text": "Alzheimer",
+      "type": "T047",
+      "umls_id": "C0002395",
+      "score": 0.8268885016441345,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A degenerative disease of the BRAIN characterized by the insidious onset of DEMENTIA. Impairment of MEMORY, judgment, attention span, and problem solving skills are followed by severe APRAXIAS and a global loss of cognitive abilities. The condition primarily occurs after age 60, and is marked pathologically by severe cortical atrophy and the triad of SENILE PLAQUES; NEUROFIBRILLARY TANGLES; and NEUROPIL THREADS. (From Adams et al., Principles of Neurology, 6th ed, pp1049-57)"
+    },
+    {
+      "text": "dementia",
+      "type": "T048",
+      "umls_id": "C0011265",
+      "score": 0.9702528119087219,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The presence of dementia in an individual younger than age sixty five."
+    },
+    {
+      "text": "baseline",
+      "type": "T122",
+      "umls_id": "C0168634",
+      "score": 0.9804818034172058,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nurse",
+      "type": "T097",
+      "umls_id": "C0028661",
+      "score": 0.9822375178337097,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Professionals qualified by graduation from an accredited school of nursing and by passage of a national licensing examination to practice nursing. They provide services to patients requiring assistance in recovering or maintaining their physical or mental health."
+    },
+    {
+      "text": "usual",
+      "type": "T080",
+      "umls_id": "C3538928",
+      "score": 0.949625551700592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "That which is considered customary."
+    },
+    {
+      "text": "somnolent",
+      "type": "T033",
+      "umls_id": "C0013144",
+      "score": 0.9565186500549316,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The sensation of struggling to remain awake."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "patient’s nurse",
+      "type": "T054",
+      "umls_id": "C0028658",
+      "score": 0.9488437175750732,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "Interaction between the patient and nurse."
+    },
+    {
+      "text": "soiling",
+      "type": "T055",
+      "umls_id": "C0349450",
+      "score": 0.9557325839996338,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diapers",
+      "type": "T073",
+      "umls_id": "C0180416",
+      "score": 0.9791834950447083,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A barrier garment or padding used to absorb urine and stool, thereby helping to protect the skin and keep clothing and bedding clean."
+    },
+    {
+      "text": "copious",
+      "type": "T033",
+      "umls_id": "C3845930",
+      "score": 0.9643218517303467,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "pounds",
+      "type": "T081",
+      "umls_id": "C0439219",
+      "score": 0.9827992916107178,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The traditional unit of mass. By international agreement, one avoirdupois pound is equal to exactly 0.453 592 37 kilogram, 16 ounces, or 1.215 28 troy pounds."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "appointment 3",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9210012555122375,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "Laboratory values",
+      "type": "T034",
+      "umls_id": "C4277633",
+      "score": 0.859666645526886,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "Test results which deviate substantially from normal ranges of REFERENCE VALUES or other qualitative results. They trigger CLINICAL LABORATORY SERVICES to place a special alert to ensure PATIENT SAFETY."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "Na+",
+      "type": "T196",
+      "umls_id": "C0597484",
+      "score": 0.9633213877677917,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "chief cation of the extracellular body fluids."
+    },
+    {
+      "text": "Cl-",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "K+",
+      "type": "T121",
+      "umls_id": "C0597277",
+      "score": 0.9999532699584961,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "atom of potassium having a positive charge; potassium is the chief cation of muscle and most other cells (intracellular fluid)."
+    },
+    {
+      "text": "HCO3-",
+      "type": "T116",
+      "umls_id": "C0106269",
+      "score": 0.7160655856132507,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Electroneutral chloride bicarbonate exchangers that allow the exchange of BICARBONATE IONS exchange for CHLORIDE IONS across the cellular membrane. The action of specific antiporters in this class serve important functions such as allowing the efficient exchange of bicarbonate across red blood cell membranes as they passage through capillaries and the reabsorption of bicarbonate ions by the kidney."
+    },
+    {
+      "text": "BUN",
+      "type": "T059",
+      "umls_id": "C0005845",
+      "score": 0.9844024777412415,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The urea concentration of the blood stated in terms of nitrogen content. Serum (plasma) urea nitrogen is approximately 12% higher than blood urea nitrogen concentration because of the greater protein content of red blood cells. Increases in blood or serum urea nitrogen are referred to as azotemia and may have prerenal, renal, or postrenal causes. (From Saunders Dictionary & Encyclopedia of Laboratory Medicine and Technology, 1984)"
+    },
+    {
+      "text": "Creatinine",
+      "type": "T109",
+      "umls_id": "C0010294",
+      "score": 0.9871318340301514,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The breakdown product of creatine, a constituent of muscle tissue, that is excreted by the kidney and whose serum level is used to evaluate kidney function."
+    },
+    {
+      "text": "PTH",
+      "type": "T116",
+      "umls_id": "C0020063",
+      "score": 0.9609083533287048,
+      "semantic_types": [
+        "T116",
+        "T125"
+      ],
+      "definition": "Parathyroid hormone (115 aa, ~13 kDa) is encoded by the human PTH gene. This protein is involved in the modulation of calcium ion and phosphate concentration in the blood."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "workup",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "laboratory work",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.832679808139801,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "CT imaging",
+      "type": "T060",
+      "umls_id": "C0011923",
+      "score": 0.8674716353416443,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Any visual display of structural or functional patterns of organs or tissues for diagnostic evaluation. It includes measuring physiologic and metabolic responses to physical and chemical stimuli, as well as ultramicroscopy."
+    },
+    {
+      "text": "long-term",
+      "type": "T079",
+      "umls_id": "C0443252",
+      "score": 0.9621292948722839,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Involving or being in effect for a long time."
+    },
+    {
+      "text": "prophylaxis",
+      "type": "T080",
+      "umls_id": "C0033107",
+      "score": 0.9599927067756653,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with disease headings for increasing human or animal resistance against disease (e.g., immunization), for control of transmission agents, for prevention and control of environmental hazards, or for prevention and control of social factors leading to disease. It includes preventive measures in individual cases."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "acute symptoms",
+      "type": "T184",
+      "umls_id": "C1457887",
+      "score": 0.7667319178581238,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Subjective evidence of disease perceived by the patient."
+    },
+    {
+      "text": "68-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

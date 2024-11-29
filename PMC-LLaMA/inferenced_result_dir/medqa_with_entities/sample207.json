@@ -1,0 +1,215 @@
+{
+  "original_data": {
+    "question": "A 28-year-old woman returns to the clinic to follow up on a recent abnormal cervical biopsy that demonstrated cervical intraepithelial neoplasia (CIN) I. The patient is quite anxious about the implications of this diagnosis. Her physical examination is within normal limits. Her vital signs do not show any abnormalities at this time. Her past medical, family, and social histories are all non-contributory. Which of the following is the appropriate management of a newly diagnosed CIN I in a 24-year-old patient?",
+    "options": {
+      "A": "Close observation, pap smear screening at 6 and 12 months, and HPV DNA testing at 12 months",
+      "B": "Cryotherapy ablation",
+      "C": "Loop electrosurgical excision (LEEP)",
+      "D": "Hysterectomy"
+    }
+  },
+  "model_response": "The appropriate management of a newly diagnosed CIN I in a 24-year-old patient is close observation, pap smear screening at 6 and 12 months, and HPV DNA testing at 12 months. Cervical intraepithelial neoplasia (CIN) is the term used to describe the spectrum of cellular changes in the cervical epithelium that includes cervical dysplasia and carcinoma in situ. CIN I, or cervical dysplasia grade I, refers to mild dysplasia. The mild dysplasia demonstrated by a paps smear does not necessarily indicate a cancer. In fact, CIN I is the most common cytologic abnormality found on a paps smear, and is often reactive and reversible. CIN I is found in 10% of women who are screened. The American Society for Colposcopy and Cervical Pathology (ASCCP) has developed guidelines for the management of abnormal paps smears. The guidelines recommend that women with ASC-US (atypical squamous cells of undetermined significance) or low-grade squamous intraepithelial lesions (LSIL; CIN I) should have either repeat paps smear testing or colposcopy. Repeat paps smear testing is recommended in women less than 25 years of age. Women over 25 years of age with LSIL (CIN I) on paps smear should have colposcopy. The guidelines also recommend that women with ASC-US or LSIL (CIN I) should undergo HPV DNA testing. If the HPV DNA testing is negative, the guidelines recommend repeat paps smear testing in women less than 25 years of age or colposcopy in women over 25 years of age. If the HPV DNA testing is positive, the guidelines recommend that the woman should undergo colposcopy. The guidelines also recommend that women with LSIL (CIN I) should be treated with either ablative therapy or observation. Ablative therapy may include cryotherapy, laser ablation, or LEEP. Loop electrosurgical excision (LEEP) is a procedure in which a thin wire loop is used to remove abnormal cervical tissue. The procedure is usually performed in an outpatient setting. The patient is usually placed in the dorsal lithotomy position and given either local or general anesthesia. The cervix is exposed and the wire loop is used to remove abnormal tissue. The procedure usually takes less than half an hour to perform. The advantages of LEEP are that it is less expensive than other ablative therapies, it has a lower risk of infection and bleeding, and it has a lower risk of cervical stenosis. The disadvantage of LEEP is that it has a higher risk of preterm birth in subsequent pregnancies. The risk of preterm birth appears to be higher in women who have had multiple LEEP procedures. The risk of preterm birth appears to be lower in women who have had a single LEEP procedure for CIN I.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman returns",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "cervical biopsy",
+      "type": "T060",
+      "umls_id": "C0195314",
+      "score": 0.9690811038017273,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the cervix for microscopic examination."
+    },
+    {
+      "text": "cervical intraepithelial neoplasia",
+      "type": "T047",
+      "umls_id": "C0007868",
+      "score": 0.9655746817588806,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormal development of immature squamous EPITHELIAL CELLS of the UTERINE CERVIX, a term used to describe premalignant cytological changes in the cervical EPITHELIUM. These atypical cells do not penetrate the epithelial BASEMENT MEMBRANE."
+    },
+    {
+      "text": "CIN",
+      "type": "T191",
+      "umls_id": "C0206708",
+      "score": 0.9733836054801941,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Squamous or glandular intraepithelial neoplasia that affects the cervical mucosal epithelium. There is no evidence of stromal invasion. According to the degree of cellular atypia and the associated architectural changes, it is classified as low or high grade."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abnormalities",
+      "type": "T019",
+      "umls_id": "C0000768",
+      "score": 0.9868227243423462,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Malformations of organs or body parts during development in utero."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "social histories",
+      "type": "T033",
+      "umls_id": "C3714536",
+      "score": 0.7815971374511719,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Past events that occurred between individuals and/or their communities."
+    },
+    {
+      "text": "non-contributory",
+      "type": "T052",
+      "umls_id": "C1880177",
+      "score": 0.8021453619003296,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The part played by somebody or something in bringing about an end or result."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "CIN I",
+      "type": "T191",
+      "umls_id": "C0349458",
+      "score": 0.9715220332145691,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "Squamous or glandular cervical intraepithelial neoplasia characterized by the presence of mild dysplastic changes."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

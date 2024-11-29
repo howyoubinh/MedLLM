@@ -1,0 +1,487 @@
+{
+  "original_data": {
+    "question": "A 49-year-old man comes to the physician because he has had multiple falls and multiple episodes of dizziness over the past 6 weeks. There is no personal or family history of serious illness. He drinks one pint of rum daily. He works as a foreman in a factory that produces industrial solvents. He is alert and oriented to time, place, and person. His temperature is 36.7°C (98.1°F), pulse is 88/min, and blood pressure is 108/70 mm Hg. Examination shows a wide-based gait. The patient is unable to stand with his feet together without support. There is a coarse tremor of the hands when he is asked to grab a pen. Muscle strength and tone are normal in all extremities. Sensation to pain, vibration, and position is intact bilaterally. Rapid alternating movements of the hands is impaired. Mental status examination shows no abnormalities. Which of the following is the most likely cause of this patient's condition?",
+    "options": {
+      "A": "Korsakoff syndrome",
+      "B": "Methanol poisoning",
+      "C": "Cerebellar degeneration",
+      "D": "Wernicke's encephalopathy"
+    }
+  },
+  "model_response": "The findings are consistent with cerebellar degeneration. The tremor is an intention tremor, which is common in cerebellar disease. The rapid alternating movement deficit also suggests cerebellar involvement. The wide-based gait is also typical of cerebellar disease. Wernicke's encephalopathy can include ataxia, but the other findings of that syndrome, including ophthalmoplegia, nystagmus, and mental status changes, are not present. Korsakoff syndrome is a memory disorder related to thiamine deficiency, often seen in chronic alcoholics. Methanol poisoning can include nystagmus and other ocular findings, but not the gait and limb ataxia seen in this patient. Cerebellar tumors can cause ataxia, but the findings often include papilledema and other neurologic signs.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "multiple falls",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.775296688079834,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "family history of",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9852851629257202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "foreman",
+      "type": "T097",
+      "umls_id": "C0403173",
+      "score": 0.9968398809432983,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "factory",
+      "type": "T073",
+      "umls_id": "C0442614",
+      "score": 0.9926723837852478,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "industrial",
+      "type": "T057",
+      "umls_id": "C0021267",
+      "score": 0.965038537979126,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Any enterprise centered on the processing, assembly, production, or marketing of a line of products, services, commodities, or merchandise, in a particular field often named after its principal product. Examples include the automobile, fishing, music, publishing, insurance, and textile industries."
+    },
+    {
+      "text": "solvents",
+      "type": "T130",
+      "umls_id": "C0037638",
+      "score": 0.9835578203201294,
+      "semantic_types": [
+        "T130"
+      ],
+      "definition": "Liquids that dissolve other substances (solutes), generally solids, without any change in chemical composition, as, water containing sugar. (Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "oriented",
+      "type": "T082",
+      "umls_id": "C1704322",
+      "score": 0.9877923130989075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Position or alignment relative to points of the compass or other specific directions."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "wide-based gait",
+      "type": "T033",
+      "umls_id": "C0856863",
+      "score": 0.9623787999153137,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An abnormal gait pattern in which persons stand and walk with their feet spaced widely apart. This is often a component of cerebellar ataxia. [HPO:curators]"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "stand",
+      "type": "T033",
+      "umls_id": "C0596013",
+      "score": 0.9981156587600708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feet",
+      "type": "T023",
+      "umls_id": "C0016504",
+      "score": 0.9842231869697571,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal extremity of the leg in vertebrates, consisting of the tarsus (ANKLE); METATARSUS; phalanges; and the soft tissues surrounding these bones."
+    },
+    {
+      "text": "support",
+      "type": "T074",
+      "umls_id": "C0183683",
+      "score": 0.9828522801399231,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "coarse tremor",
+      "type": "T184",
+      "umls_id": "C0234374",
+      "score": 0.9721113443374634,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "grab",
+      "type": "T028",
+      "umls_id": "C1419209",
+      "score": 0.995499312877655,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pen",
+      "type": "T109",
+      "umls_id": "C0070220",
+      "score": 0.9987946152687073,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic derivative of pyrimidine with antineoplastic activity. Penclomedine alkylates and crosslinks DNA, resulting in DNA strand breaks and inhibition of DNA and RNA synthesis. This agent is more active against tumor cells that are defective in p53 function. (NCI04)"
+    },
+    {
+      "text": "Muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.9795353412628174,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "tone",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "Sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "vibration",
+      "type": "T061",
+      "umls_id": "C0455941",
+      "score": 0.9607577323913574,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "position",
+      "type": "T082",
+      "umls_id": "C0733755",
+      "score": 0.977912187576294,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A reference to the alignment of an object, a particular situation or view of a situation, or the location of an object."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "alternating",
+      "type": "T169",
+      "umls_id": "C0332270",
+      "score": 0.9739123582839966,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "movements",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9715268611907959,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "Mental status examination",
+      "type": "T060",
+      "umls_id": "C0451306",
+      "score": 0.8807674050331116,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A standardized and structured interview originally developed by Marshal Folstein, Susan Folstein and Paul McHugh (Journal of Psychiatric Research, 1975), which is used to evaluate an individual's cognitive function."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "49-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

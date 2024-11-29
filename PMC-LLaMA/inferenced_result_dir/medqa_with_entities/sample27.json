@@ -1,0 +1,314 @@
+{
+  "original_data": {
+    "question": "A 26-year-old woman presents to a gynecologist after a missed period. After performing a complete physical examination and a screening test for pregnancy, her gynecologist informs her that she is pregnant. She is very surprised as she has been taking oral contraceptives regularly. When the gynecologist asks her about the consumption of any other medications, she mentions that she was placed on treatment for pulmonary tuberculosis (TB) 2 months ago. Her current anti-TB regimen includes rifampin, isoniazid, pyrazinamide, and ethambutol. Which of the following mechanisms best explains the failure of oral contraceptives in this patient?",
+    "options": {
+      "A": "Induction of CYP3A4 by rifampin leading to decreased serum levels of ethinylestradiol and progesterone",
+      "B": "Induction of CYP2A6 by rifampin leading to increased inactivation of ethinylestradiol",
+      "C": "Interference with the intestinal absorption of the oral contraceptive by pyrazinamide",
+      "D": "Increased renal elimination of the progesterone component of the oral contraceptive by ethambutol"
+    }
+  },
+  "model_response": "The antituberculous drug rifampin is known to induce several hepatic microsomal enzymes including CYP3A4 and CYP2C subfamily. This induction leads to an increased rate of metabolism of several drugs including warfarin, oral contraceptives, coicosteroids, sulfonylureas, HIV protease inhibitors, non-nucleoside reverse transcriptase inhibitors (NNI), theophylline, and metoprolol. In this case, the increased metabolism of ethinylestradiol and progesterone by CYP3A4-mediated oxidative processes in the liver leads to decreased serum levels of the oral contraceptive and hence failure of the drug. Pyrazinamide does not interfere with the intestinal absorption of oral contraceptives. Ethambutol does not affect the renal elimination of progesterone.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gynecologist",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.9785490036010742,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "missed",
+      "type": "T080",
+      "umls_id": "C1705492",
+      "score": 0.9896345734596252,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not existing; not able to be found."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "screening test",
+      "type": "T058",
+      "umls_id": "C0871311",
+      "score": 0.9871142506599426,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A test whose operational purpose is to determine the presence or absence of a substance, organism, or condition."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "gynecologist informs",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.7776719331741333,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "oral",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9887835383415222,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "regularly",
+      "type": "T080",
+      "umls_id": "C0205272",
+      "score": 0.7537996172904968,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Customary, usual, or at fixed intervals; conforming to a standard or pattern."
+    },
+    {
+      "text": "gynecologist",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.9785490036010742,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "asks",
+      "type": "T074",
+      "umls_id": "C0024861",
+      "score": 0.7834427356719971,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices that cover the nose and mouth to maintain aseptic conditions often for the prevention of the spread of infections (e.g. COVID19) or to administer inhaled anesthetics or other gases."
+    },
+    {
+      "text": "consumption",
+      "type": "T052",
+      "umls_id": "C0009830",
+      "score": 0.9460187554359436,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The using or using up of goods and services, especially the rate at which they are used."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "mentions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "pulmonary tuberculosis",
+      "type": "T047",
+      "umls_id": "C0041327",
+      "score": 0.9876171350479126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "MYCOBACTERIUM infections of the lung."
+    },
+    {
+      "text": "TB",
+      "type": "T047",
+      "umls_id": "C0041296",
+      "score": 0.9986931085586548,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Any of the infectious diseases of man and other animals caused by species of MYCOBACTERIUM TUBERCULOSIS."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "anti-TB regimen",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "rifampin",
+      "type": "T109",
+      "umls_id": "C0035608",
+      "score": 0.967027485370636,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A semisynthetic antibiotic produced from Streptomyces mediterranei. It has a broad antibacterial spectrum, including activity against several forms of Mycobacterium. In susceptible organisms it inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme. It thus suppresses the initiation of RNA synthesis. Rifampin is bactericidal, and acts on both intracellular and extracellular organisms. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p1160)"
+    },
+    {
+      "text": "isoniazid",
+      "type": "T109",
+      "umls_id": "C0022209",
+      "score": 0.9860484004020691,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Antibacterial agent used primarily as a tuberculostatic. It remains the treatment of choice for tuberculosis."
+    },
+    {
+      "text": "pyrazinamide",
+      "type": "T109",
+      "umls_id": "C0034239",
+      "score": 0.9816105365753174,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A pyrazine that is used therapeutically as an antitubercular agent."
+    },
+    {
+      "text": "ethambutol",
+      "type": "T109",
+      "umls_id": "C0014964",
+      "score": 0.9876527190208435,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antitubercular agent that inhibits the transfer of mycolic acids into the cell wall of the tubercle bacillus. It may also inhibit the synthesis of spermidine in mycobacteria. The action is usually bactericidal, and the drug can penetrate human cell membranes to exert its lethal effect. (From Smith and Reynard, Textbook of Pharmacology, 1992, p863)"
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "failure",
+      "type": "T169",
+      "umls_id": "C0231174",
+      "score": 0.9719161987304688,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oral",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9887835383415222,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "contraceptives",
+      "type": "T121",
+      "umls_id": "C0009871",
+      "score": 0.9894821643829346,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Chemical substances that prevent or reduce the probability of CONCEPTION."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

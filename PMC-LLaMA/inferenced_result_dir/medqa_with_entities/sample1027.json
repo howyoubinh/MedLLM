@@ -1,0 +1,240 @@
+{
+  "original_data": {
+    "question": "A 35-year-old man comes to the emergency department with acute shortness of breath that developed after a 10-hour international flight. His pulse is 124/min and pulse oximetry on room air shows an oxygen saturation of 90%. He weighs 50-kg (110-lb). A diagnosis of pulmonary embolism is suspected and intravenous heparin is initiated. If the volume of distribution of heparin is equivalent to 60 mL/kg and the target peak plasma concentration is 0.5 units/mL, which of the following is the most appropriate loading dose for this patient?",
+    "options": {
+      "A": "3,000 units",
+      "B": "1,500 units",
+      "C": "6,000 units",
+      "D": "Cannot be calculated, as bioavailability is not known"
+    }
+  },
+  "model_response": "The loading dose can be calculated using the formula: Loading dose = Vd x Target Cp Where Vd = volume of distribution Cp = target peak plasma concentration Therefore, the loading dose for this patient is 6,000 units * 60 mL/kg = 360,000 units or 360 mg.\n\n###OPPORTUNISTIC INFECTIONS IN THE CRITICALLY ILL PATIENT\n\nThe critically ill patient is predisposed to numerous infections, many of which are related to the use of invasive devices. The clinical presentation may be subtle, and the diagnosis may be difficult to establish. Health care professionals must be alert to the possibility of these infections and must obtain appropriate cultures and radiologic tests when indicated. Prompt recognition and treatment of these infections are essential, as they are associated with significant morbidity and mortality.\n\n###Bacterial infections\n\nBacterial infections are the most common infections in the critically ill patient. The most common sites of infection are the lungs, the urinary tract, the abdomen, and the catheterized bloodstream.\n\n###Pneumonia\n\nPneumonia is the most common infection complicating critical illness. The diagnosis of pneumonia may be difficult in the critically ill patient who lacks typical signs of pneumonia such as cough and sputum production. The chest radiograph may be interpreted as normal in the presence of pneumonia, or an infiltrate may be attributed to the underlying disease. A high index of suspicion and prompt initiation of appropriate therapy are required to avoid missing a diagnosis of pneumonia in the critically ill patient.\n\n###Urinary tract infection\n\nThe urinary tract is the second most common source of infection in the critically ill patient. The diagnosis of urinary tract infection (UTI) may be difficult, as the clinical signs and symptoms of UTI are often absent in the critically ill patient. Urinary tract infection should be suspected in patients with fever, leukocytosis, and abnormal urinary findings.\n\n###Abdominal infection\n\nAbdominal infection is the third most common source of infection in the critically ill patient. Abdominal infection may be present in up to 30% of critically ill patients who require mechanical ventilation for more than 3 days. The diagnosis of abdominal infection may be difficult, as the clinical examination may be unrevealing. Abdominal infection should be suspected in patients with unexplained sepsis, organ dysfunction, or abdominal pain.\n\n###Catheter-related infection\n\nCatheter-related infection is a significant source of morbidity and mortality in the critically ill patient. Catheter-related infections are associated with significant increases in hospital costs and length of stay. Catheter-related infections are related to the type of catheter and the site of catheter placement. Diagnosis of catheter-related infection requires a high index of suspicion and often necessitates removal of the catheter.\n\n###Antibiotic therapy\n\nEmpiric antibiotic therapy is a key component in the management of suspected infection in the critically ill patient. Appropriate selection of antibiotics is based on the likely source of infection and the most likely infecting organism. Recent exposure to the health care system, the presence of comorbid disease, and the severity of illness are risk factors for infection with antibiotic-resistant organisms. Therefore, when selecting antibiotics for empiric therapy, the clinician should consider the likelihood of infection with multidrug-resistant organisms.\n\n###Antifungal therapy\n\nFungal infections are an increasingly important cause of infection in the critically ill patient. Risk factors for fungal infection include the presence of severe illness, prolonged antibiotic therapy, and central venous catheter placement. Fungal infections should be considered in patients with unexplained sepsis or organ dysfunction.\n\n###Viral infections\n\nViral infections are an important cause of infection in the crit",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "acute shortness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weighs",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7179433107376099,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "pulmonary embolism",
+      "type": "T046",
+      "umls_id": "C0034065",
+      "score": 0.9888116121292114,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Blocking of the PULMONARY ARTERY or one of its branches by an EMBOLUS."
+    },
+    {
+      "text": "suspected",
+      "type": "T080",
+      "umls_id": "C0332147",
+      "score": 0.981589138507843,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "intravenous heparin",
+      "type": "T109",
+      "umls_id": "C0354566",
+      "score": 0.9740096926689148,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": null
+    },
+    {
+      "text": "volume",
+      "type": "T081",
+      "umls_id": "C0449468",
+      "score": 0.9937787055969238,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The amount of three dimensional space occupied by an object or the capacity of a space or container."
+    },
+    {
+      "text": "distribution",
+      "type": "T082",
+      "umls_id": "C0037775",
+      "score": 0.9691138863563538,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The placement, arrangement of instance of entities within a space."
+    },
+    {
+      "text": "heparin",
+      "type": "T109",
+      "umls_id": "C0019134",
+      "score": 0.9821662902832031,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T123"
+      ],
+      "definition": "A highly acidic mucopolysaccharide formed of equal parts of sulfated D-glucosamine and D-glucuronic acid with sulfaminic bridges. The molecular weight ranges from six to twenty thousand. Heparin occurs in and is obtained from liver, lung, mast cells, etc., of vertebrates. Its function is unknown, but it is used to prevent blood clotting in vivo and vitro, in the form of many different salts."
+    },
+    {
+      "text": "mL/kg",
+      "type": "T081",
+      "umls_id": "C1300574",
+      "score": 0.9711230993270874,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A dose calculation unit equal to one milliliter of preparation per one kilogram of body mass."
+    },
+    {
+      "text": "target",
+      "type": "T169",
+      "umls_id": "C1521840",
+      "score": 0.9916039109230042,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "An object fixed as a goal or point of examination; something to point at; a destination."
+    },
+    {
+      "text": "peak plasma concentration",
+      "type": "T081",
+      "umls_id": "C2347813",
+      "score": 0.8145560026168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "This is a measurement that quantifies the maximum concentration of an experimental substance or drug in the plasma or a target organ after dose administration."
+    },
+    {
+      "text": "loading dose",
+      "type": "T081",
+      "umls_id": "C3714444",
+      "score": 0.9662420749664307,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

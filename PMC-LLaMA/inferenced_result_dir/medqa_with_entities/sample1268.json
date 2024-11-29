@@ -1,0 +1,389 @@
+{
+  "original_data": {
+    "question": "A 39-year-old woman presents to the clinic for her annual physical. Although she feels generally healthy she has noticed gaining about 9 kg (20 lb) over the last year. She eats a healthy, varied diet and exercises at the gym 4 days a week, including 20 minutes of aerobic exercise. On further questioning, she has also noted fatigue and constipation. She denies shortness of breath, chest pain, lightheadedness, or blood in her stool. At the clinic, the vital signs include: pulse 52/min, blood pressure 110/72 mm Hg, and oxygen saturation 99% on room air. The physical exam is notable only for slightly dry skin. The complete blood count (CBC) is within normal limits. Which of the following laboratory values is most likely elevated in this patient?",
+    "options": {
+      "A": "Glucose",
+      "B": "Triiodothyronine (T3)",
+      "C": "Thyroxine (T4)",
+      "D": "Thyroid-stimulating hormone (TSH)"
+    }
+  },
+  "model_response": "The patient's weight gain, fatigue, and constipation are all consistent with hypothyroidism. The normal CBC excludes anemia as a contributing factor. The most common cause of hypothyroidism in non-pregnant adults is autoimmune destruction of the thyroid gland. This patient's normal CBC and the absence of other clinical findings make other causes of hypothyroidism less likely. The most common cause of hypothyroidism in adults is Hashimoto's thyroiditis. The initial screening test of choice is a serum TSH. An elevated TSH (>5 mIU/L) confirms the diagnosis of primary hypothyroidism. The other listed choices are not likely to be elevated in this patient.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "annual",
+      "type": "T079",
+      "umls_id": "C0332181",
+      "score": 0.9425466656684875,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each year."
+    },
+    {
+      "text": "physical",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9765394330024719,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "eats",
+      "type": "T168",
+      "umls_id": "C0025017",
+      "score": 0.74507075548172,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "The edible portions of any animal used for food including cattle, swine, goats/sheep, poultry, fish, shellfish, and game."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "exercises",
+      "type": "T056",
+      "umls_id": "C0015259",
+      "score": 0.9747228622436523,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Physical activity which is usually regular and done with the intention of improving or maintaining PHYSICAL FITNESS or HEALTH. Contrast with PHYSICAL EXERTION which is concerned largely with the physiologic and metabolic response to energy expenditure."
+    },
+    {
+      "text": "gym 4",
+      "type": "T073",
+      "umls_id": "C0600623",
+      "score": 0.8575816750526428,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities having programs intended to promote and maintain a state of physical well-being for optimal performance and health."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "aerobic exercise",
+      "type": "T061",
+      "umls_id": "C0001701",
+      "score": 0.9765087962150574,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Sustained exercise that places an increased oxygen demand on the cardiovascular system and promotes an increased efficiency of the body's use of oxygen."
+    },
+    {
+      "text": "questioning",
+      "type": "T041",
+      "umls_id": "C0876928",
+      "score": 0.9653850197792053,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Used to describe an individual who is unsure of their sexual orientation."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "constipation",
+      "type": "T184",
+      "umls_id": "C0009806",
+      "score": 0.953432559967041,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Infrequent or difficult evacuation of FECES. These symptoms are associated with a variety of causes, including low DIETARY FIBER intake, emotional or nervous disturbances, systemic and structural disorders, drug-induced aggravation, and infections."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "lightheadedness",
+      "type": "T184",
+      "umls_id": "C0220870",
+      "score": 0.9825802445411682,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of faintness; a reeling sensation. Lightheadedness is medically distinct from dizziness, unsteadiness, and vertigo."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "stool",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.9800705909729004,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "dry skin",
+      "type": "T184",
+      "umls_id": "C0151908",
+      "score": 0.9698911905288696,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The pores are generally fine with a papery thin texture that feels dry to the touch. Usually flaky and dull looking."
+    },
+    {
+      "text": "CBC",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.9881873726844788,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "laboratory values",
+      "type": "T034",
+      "umls_id": "C4277633",
+      "score": 0.859666645526886,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "Test results which deviate substantially from normal ranges of REFERENCE VALUES or other qualitative results. They trigger CLINICAL LABORATORY SERVICES to place a special alert to ensure PATIENT SAFETY."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "39-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

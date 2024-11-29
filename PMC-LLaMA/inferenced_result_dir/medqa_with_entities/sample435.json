@@ -1,0 +1,281 @@
+{
+  "original_data": {
+    "question": "A 45-year-old mechanic presents to the emergency department complaining of acute-onset shortness of breath while repairing a plowing tractor for his neighbor. The patient denies having any history of asthma or respiratory symptoms, and does not smoke. His temperature is 99.8°F (37.7°C), pulse is 65/min, blood pressure is 126/86 mmHg, and respirations are 20/min. His oxygen saturation is 97%. On exam, he is pale and diaphoretic. His pupils are contracted. Diffuse wheezes are noted in all lung fields. What is the best treatment for his condition?",
+    "options": {
+      "A": "Succinylcholine",
+      "B": "Inhaled ipratropium and oxygen",
+      "C": "Atropine and pralidoxime",
+      "D": "Inhaled albuterol and oxygen"
+    }
+  },
+  "model_response": "The patient's presentation is consistent with organophosphate poisoning. The initial treatment for organophosphate poisoning is atropine and pralidoxime. Succinylcholine is a depolarizing neuromuscular blocking agent used to induce muscle relaxation for intubation. Inhaled ipratropium and oxygen is the treatment for acute asthma exacerbations. Inhaled albuterol and oxygen is the treatment for acute asthma exacerbations.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "mechanic",
+      "type": "T070",
+      "umls_id": "C0376706",
+      "score": 0.9729796648025513,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "The branch of physics which deals with the motions of material bodies, including kinematics, dynamics, and statics. When the laws of mechanics are applied to living structures, as to the locomotor system, it is referred to as BIOMECHANICAL PHENOMENA. (From Dorland, 28th ed)"
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "acute-onset",
+      "type": "T079",
+      "umls_id": "C0205178",
+      "score": 0.7659478783607483,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Having a severe and rapid onset of symptoms with short duration."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "plowing tractor",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "neighbor",
+      "type": "T098",
+      "umls_id": "C1553702",
+      "score": 0.9510049819946289,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "<p>The player of the role lives near or next to the scoping person.</p>"
+    },
+    {
+      "text": "patient denies",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213225364685059,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "respiratory symptoms",
+      "type": "T184",
+      "umls_id": "C0037090",
+      "score": 0.9759910702705383,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Respiratory system manifestations of diseases of the respiratory tract or of other organs."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "His oxygen saturation",
+      "type": "T201",
+      "umls_id": "C0483415",
+      "score": 0.8813819885253906,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Extent to which HEMOGLOBIN is saturated with OXYGEN typically as measured in arterial blood. It can be measured by various methods (e.g., PULSE OXYMETER, blood gas analysis). A low blood oxygen saturation level indicates a condition called HYPOXEMIA."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "pale",
+      "type": "T033",
+      "umls_id": "C0030232",
+      "score": 0.9875780344009399,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical manifestation consisting of an unnatural paleness of the skin."
+    },
+    {
+      "text": "diaphoretic",
+      "type": "T080",
+      "umls_id": "C1707737",
+      "score": 0.9853863716125488,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Pertaining to, characterized by, or promoting sweating, e.g. procedure or an agent that promotes sweating."
+    },
+    {
+      "text": "His pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.8050362467765808,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "Diffuse wheezes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lung fields",
+      "type": "T029",
+      "umls_id": "C0225759",
+      "score": 0.9756964445114136,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

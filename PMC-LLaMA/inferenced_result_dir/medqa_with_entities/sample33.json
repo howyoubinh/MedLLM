@@ -1,0 +1,246 @@
+{
+  "original_data": {
+    "question": "An otherwise healthy 50-year-old man comes to the physician because of a 6-month history of increasingly frequent episodes of upper abdominal pain, nausea, vomiting, and diarrhea. He has had a 3.2-kg (7-lb) weight loss during this time. Physical examination shows bilateral pitting pedal edema. An endoscopy shows prominent rugae in the gastric fundus. Biopsy shows parietal cell atrophy. Which of the following is the most likely underlying cause?",
+    "options": {
+      "A": "Serotonin-secreting gastric tumor",
+      "B": "Proliferation of gastric mucus-producing cells",
+      "C": "Excessive somatostatin secretion",
+      "D": "Ectopic secretion of gastrin"
+    }
+  },
+  "model_response": "The patient has achlorhydria, which is associated with pernicious anemia. This is caused by autoimmune destruction of parietal cells and eventual atrophy of gastric glands. The loss of parietal cells reduces the ability of the stomach to secrete acid and intrinsic factor. Intrinsic factor is required for the absorption of dietary vitamin B12, and a vitamin B12 deficiency develops. Vitamin B12 deficiency causes a megaloblastic anemia that progresses to a demyelinating neuropathy (pernicious anemia). The patient may also have a low serum folate level because of the loss of the pteroyl-glutamic acid side chain of folic acid, which is normally cleaved in the acid environment of the stomach. The diagnosis of pernicious anemia can be confirmed by the Schilling test, which shows no increase in urinary excretion of radioactive vitamin B12 after the oral administration of intrinsic factor. A serotonin-secreting tumor (carcinoid) can cause diarrhea, but it does not cause achlorhydria. Proliferation of gastric mucus-producing cells (Ménétrier disease) causes an increase in gastric mucosal thickness, but it does not cause achlorhydria. Excessive somatostatin secretion inhibits the release of gastrin and thus reduces acid secretion, but it does not cause achlorhydria. Ectopic secretion of gastrin causes Zollinger-Ellison syndrome, which is characterized by excessive acid secretion and peptic ulcer disease.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "increasingly",
+      "type": "T047",
+      "umls_id": "C0221106",
+      "score": 0.7193881273269653,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An abnormally high blood pH (usually defined as 7.41 or above). [PMID:24381489]"
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "upper abdominal pain",
+      "type": "T184",
+      "umls_id": "C0232492",
+      "score": 0.9738743901252747,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "bilateral pitting pedal edema",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "endoscopy",
+      "type": "T060",
+      "umls_id": "C0014245",
+      "score": 0.9926842451095581,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures of applying ENDOSCOPES for disease diagnosis and treatment. Endoscopy involves passing an optical instrument through a small incision in the skin i.e., percutaneous; or through a natural orifice and along natural body pathways such as the digestive tract; and/or through an incision in the wall of a tubular structure or organ, i.e. transluminal, to examine or perform surgery on the interior parts of the body."
+    },
+    {
+      "text": "prominent",
+      "type": "T080",
+      "umls_id": "C0205402",
+      "score": 0.9741337299346924,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rugae",
+      "type": "T023",
+      "umls_id": "C4224391",
+      "score": 0.9707951545715332,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gastric fundus",
+      "type": "T023",
+      "umls_id": "C0017129",
+      "score": 0.9760697484016418,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The superior portion of the body of the stomach above the level of the cardiac notch."
+    },
+    {
+      "text": "Biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "parietal cell",
+      "type": "T025",
+      "umls_id": "C0030559",
+      "score": 0.9816803336143494,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Rounded or pyramidal cells of the GASTRIC GLANDS. They secrete HYDROCHLORIC ACID and produce gastric intrinsic factor, a glycoprotein that binds VITAMIN B12."
+    },
+    {
+      "text": "cause",
+      "type": "T169",
+      "umls_id": "C0015127",
+      "score": 0.9771540760993958,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for causative agents including microorganisms and includes environmental and social factors and personal habits as contributing factors. It includes pathogenesis."
+    },
+    {
+      "text": "50-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

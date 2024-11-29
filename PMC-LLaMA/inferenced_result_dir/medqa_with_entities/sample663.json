@@ -1,0 +1,272 @@
+{
+  "original_data": {
+    "question": "A 58-year-old man is brought to the emergency department because of sudden-onset right-sided body numbness for 1 hour. He reports that he has a 15-year history of hypertension treated with hydrochlorothiazide. He is alert and oriented to time, place, and person. Neurological examination shows decreased sensation to light pinprick and temperature on the right side of the face and body. Motor strength is 5/5 and deep tendon reflexes are 2+ bilaterally. Perfusion of which of the following structures of the brain is most likely impaired in this patient?",
+    "options": {
+      "A": "Posterior limb of the internal capsule",
+      "B": "Lateral medulla",
+      "C": "Basal pons",
+      "D": "Ventral thalamus"
+    }
+  },
+  "model_response": "The symptoms of this patient suggest a lesion of the posterior limb of the internal capsule. This structure contains the corticospinal and corticobulbar fibers, which are responsible for the motor deficit and hyperreflexia. The symptoms of this patient do not suggest involvement of the lateral medulla (Wallenberg syndrome), basal pons, ventral thalamus, or cerebellum.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "sudden-onset right-sided body numbness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hour",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9982005953788757,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "oriented",
+      "type": "T082",
+      "umls_id": "C1704322",
+      "score": 0.9877923130989075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Position or alignment relative to points of the compass or other specific directions."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "Neurological examination",
+      "type": "T060",
+      "umls_id": "C0027853",
+      "score": 0.9707840085029602,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Assessment of sensory and motor responses and reflexes that is used to determine impairment of the nervous system."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "light pinprick",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "body",
+      "type": "T016",
+      "umls_id": "C0242821",
+      "score": 0.9960200190544128,
+      "semantic_types": [
+        "T016"
+      ],
+      "definition": "The human being as a non-anatomical and non-zoological entity. The emphasis is on the philosophical or artistic treatment of the human being, and includes lay and social attitudes toward the body in history. (From J. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "Motor strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.7623494267463684,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "deep tendon reflexes",
+      "type": "T201",
+      "umls_id": "C0489815",
+      "score": 0.9582180380821228,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Contraction of a muscle triggered by a signal from a muscle spindle in response to a stimulus applied to a specific trigger point on the body. The strength of the response can provide insight into central and peripheral nerve performance."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Perfusion",
+      "type": "T061",
+      "umls_id": "C0031001",
+      "score": 0.941124677658081,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Treatment process involving the injection of fluid into an organ or tissue."
+    },
+    {
+      "text": "structures",
+      "type": "T082",
+      "umls_id": "C0678594",
+      "score": 0.9937869906425476,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The components and their relationship and manner of arrangement in constituting a whole."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

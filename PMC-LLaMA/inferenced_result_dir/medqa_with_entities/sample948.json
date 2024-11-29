@@ -1,0 +1,363 @@
+{
+  "original_data": {
+    "question": "A 67-year-old man presents to his primary care physician for a follow up appointment. He was released from the hospital 1 week ago for an appropriately managed ST-elevation myocardial infarction (STEMI); however, he has not filled any of his prescriptions and did not attend his follow up appointment as scheduled. The patient has a past medical history of hypertension and peripheral vascular disease. His temperature is 97.5°F (36.4°C), blood pressure is 167/118 mmHg, pulse is 90/min, respirations are 14/min, and oxygen saturation is 99% on room air. Physical exam is notable for jugular venous distention and bilateral lower extremity pitting edema. Echocardiography demonstrates an ejection fraction of 55%. Which of the following medications will have the greatest mortality benefit in this patient?",
+    "options": {
+      "A": "Atenolol",
+      "B": "Lisinopril",
+      "C": "Metoprolol succinate",
+      "D": "Propranolol"
+    }
+  },
+  "model_response": "The patient is presenting with signs and symptoms of heart failure. The most important medication for this patient is a beta blocker. Beta blockers have been shown to decrease mortality in patients with heart failure. Atenolol, metoprolol succinate, and carvedilol are all beta blockers that have been shown to decrease mortality in patients with heart failure. Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor that has been shown to decrease hospitalizations for heart failure and death from progressive heart failure. However, the data do not support a decrease in all-cause mortality with the use of ACE inhibitors in patients with heart failure. Propranolol is a nonselective beta blocker that has been shown to decrease hospitalizations for heart failure and death from progressive heart failure. However, the data do not support a decrease in all-cause mortality with the use of nonselective beta blockers in patients with heart failure.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "hospital 1 week",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.770869791507721,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "ST-elevation",
+      "type": "T033",
+      "umls_id": "C0520886",
+      "score": 0.7329222559928894,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An electrocardiographic finding of ST segment elevation above the baseline."
+    },
+    {
+      "text": "myocardial infarction",
+      "type": "T047",
+      "umls_id": "C0027051",
+      "score": 0.952881395816803,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "NECROSIS of the MYOCARDIUM caused by an obstruction of the blood supply to the heart (CORONARY CIRCULATION)."
+    },
+    {
+      "text": "STEMI",
+      "type": "T047",
+      "umls_id": "C1536220",
+      "score": 0.9627987742424011,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A clinical syndrome defined by MYOCARDIAL ISCHEMIA symptoms; persistent elevation in the ST segments of the ELECTROCARDIOGRAM; and release of BIOMARKERS of myocardial NECROSIS (e.g., elevated TROPONIN levels). ST segment elevation in the ECG is often used in determining the treatment protocol (see also NON-ST ELEVATION MYOCARDIAL INFARCTION)."
+    },
+    {
+      "text": "prescriptions",
+      "type": "T058",
+      "umls_id": "C0033080",
+      "score": 0.9755309224128723,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Directions written for the obtaining and use of PHARMACEUTICAL PREPARATIONS; MEDICAL DEVICES; corrective LENSES; and a variety of other medical remedies."
+    },
+    {
+      "text": "follow up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9954333305358887,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "scheduled",
+      "type": "T170",
+      "umls_id": "C0086960",
+      "score": 0.9860287308692932,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An ordered list of times at which things are planned to occur."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "peripheral vascular disease",
+      "type": "T047",
+      "umls_id": "C0085096",
+      "score": 0.9820131659507751,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pathological processes involving any one of the BLOOD VESSELS in the vasculature outside the HEART."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "jugular",
+      "type": "T023",
+      "umls_id": "C0022427",
+      "score": 0.8375517129898071,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Veins in the neck which drain the brain, face, and neck into the brachiocephalic or subclavian veins."
+    },
+    {
+      "text": "venous distention",
+      "type": "T033",
+      "umls_id": "C0241668",
+      "score": 0.9768679141998291,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "lower extremity pitting edema",
+      "type": "T046",
+      "umls_id": "C0239340",
+      "score": 0.8424325585365295,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "An abnormal accumulation of excess fluid in the lower extremity resulting in swelling of the feet and extending upward to the lower leg. [HPO:probinson]"
+    },
+    {
+      "text": "Echocardiography",
+      "type": "T060",
+      "umls_id": "C0013516",
+      "score": 0.993293821811676,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonic recording of the size, motion, and composition of the heart and surrounding tissues. The standard approach is transthoracic."
+    },
+    {
+      "text": "ejection fraction",
+      "type": "T060",
+      "umls_id": "C0489482",
+      "score": 0.9259448647499084,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "amount of blood pumped out of the left lower chamber of the heart with each heart beat"
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "mortality",
+      "type": "T081",
+      "umls_id": "C0026565",
+      "score": 0.9923762679100037,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "All deaths reported in a given population."
+    },
+    {
+      "text": "benefit",
+      "type": "T081",
+      "umls_id": "C0814225",
+      "score": 0.9704387187957764,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The positive effects of something."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "67-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

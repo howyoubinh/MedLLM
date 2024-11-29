@@ -1,0 +1,285 @@
+{
+  "original_data": {
+    "question": "A 29-year-old man is referred by his marriage counselor to the outpatient psychiatry clinic. The patient’s wife is with him and states that her husband is always complaining and critical of others. He was recently fired from his job to which he claims that his boss was jealous of his hard work. He also does not trust his neighbors and thinks they are out to get all the nice things he has. His wife also says that he has begun to doubt her fidelity and believes that even the marriage counselor is on her side. Which of the following psychiatric disorders also belongs to the same cluster of symptoms?",
+    "options": {
+      "A": "Schizotypal personality disorder",
+      "B": "Obsessive-compulsive personality disorder",
+      "C": "Antisocial personality disorder",
+      "D": "Personality disorder not otherwise specified"
+    }
+  },
+  "model_response": "The patient’s symptoms are suggestive of paranoid personality disorder. Paranoid personality disorder is characterized by generalized mistrust and suspiciousness about the motives and actions of others and a tendency to interpret them as malevolent. The patient believes that: “Others are taking advantage of him.” “Others are not loyal to him.” “Others are envious of him.” “Others are lying to him.”\n\nSchizotypal personality disorder is characterized by eccentricities of behavior, appearance, and interpersonal relationships. Examples include odd beliefs or magical thinking, odd perceptual disturbances, and difficulties in sustaining long-term relationships.\n\nObsessive-compulsive personality disorder is characterized by a pervasive pattern of preoccupation with orderliness, perfectionism, and mental and interpersonal control. Patients may be stingy as well as stubborn and indecisive.\n\nAntisocial personality disorder is characterized by a disregard for and violation of the rights of the other and the rules of the society. It is characterized by repeated violations of the law and rules of the society (Drug abuse); Physical aggressiveness; Reckless disregard for safety of self or others; Consistent irresponsibility in work and family environment and lack of remorse.\n\nPersonality disorder not otherwise specified is a residual category for personality disorders that do not fit into any of the above categories.\n\nRef: Shelton R.C. (2008). Chapter 16. Personality Disorders. In M.H. Ebe, P.T. Loosen, B. Nurcombe, J.F. Leckman (Eds), CURRENT Diagnosis & Treatment: Psychiatry, 2e.\n\n### END OF SAMPLE CURRENT DIAGNOSIS & TREATMENT: PSYCHIATRY, 2nd EDITION\n</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "marriage",
+      "type": "T033",
+      "umls_id": "C0024841",
+      "score": 0.9866358637809753,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The social institution involving legal and/or religious sanction whereby individuals are joined together."
+    },
+    {
+      "text": "counselor",
+      "type": "T033",
+      "umls_id": "C1561602",
+      "score": 0.9853266477584839,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "outpatient",
+      "type": "T101",
+      "umls_id": "C0029921",
+      "score": 0.9540979862213135,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Persons who receive ambulatory care at an outpatient department or clinic without room and board being provided."
+    },
+    {
+      "text": "patient’s wife",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7197649478912354,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "critical",
+      "type": "T080",
+      "umls_id": "C1511545",
+      "score": 0.9743494987487793,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Being in or verging on a state of crisis or emergency; urgently needed; absolutely necessary."
+    },
+    {
+      "text": "fired",
+      "type": "T033",
+      "umls_id": "C0014007",
+      "score": 0.9838417768478394,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "job",
+      "type": "T090",
+      "umls_id": "C0028811",
+      "score": 0.9788143038749695,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Crafts, trades, professions, or other means of earning a living."
+    },
+    {
+      "text": "boss",
+      "type": "T080",
+      "umls_id": "C4518531",
+      "score": 0.749133825302124,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "This attribute represents an ingredient that is the part of the active ingredient that the strength of a given product is based upon."
+    },
+    {
+      "text": "jealous",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hard work",
+      "type": "T056",
+      "umls_id": "C2987222",
+      "score": 0.9914928674697876,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Work tasks that require a great amount of physical or mental effort."
+    },
+    {
+      "text": "neighbors",
+      "type": "T098",
+      "umls_id": "C1553702",
+      "score": 0.8319588303565979,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "<p>The player of the role lives near or next to the scoping person.</p>"
+    },
+    {
+      "text": "thinks",
+      "type": "T041",
+      "umls_id": "C0039869",
+      "score": 0.966398298740387,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Mental activity that is not predominantly perceptual by which one apprehends some aspect of an object or situation based on past learning and experience."
+    },
+    {
+      "text": "nice",
+      "type": "T109",
+      "umls_id": "C4087029",
+      "score": 0.9928985238075256,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "An antimicrobial lock solution (ALS) containing the nitrate nitroglycerin, sodium citrate and ethanol, with potential antimicrobial and anticoagulant activities. Upon application to the catheter as an ALS, the nitroglycerin is converted into nitric oxide (NO), which exerts antimicrobial activity. The citrate exerts anticoagulant activity, thereby preventing blood clotting and occlusion and maintaining the fluidity of the administered solution. In addition, both citrate and ethanol exert antimicrobial activity. This may prevent bacterial colonization on the surface of the catheter, biofilm formation and prevents catheter-associated infections."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fidelity",
+      "type": "T054",
+      "umls_id": "C0680011",
+      "score": 0.9802190065383911,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "believes",
+      "type": "T041",
+      "umls_id": "C0004951",
+      "score": 0.9751147627830505,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "To accept (something) as true; feel sure of the truth of."
+    },
+    {
+      "text": "marriage",
+      "type": "T033",
+      "umls_id": "C0024841",
+      "score": 0.9866358637809753,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The social institution involving legal and/or religious sanction whereby individuals are joined together."
+    },
+    {
+      "text": "counselor",
+      "type": "T033",
+      "umls_id": "C1561602",
+      "score": 0.9853266477584839,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "side",
+      "type": "T082",
+      "umls_id": "C0441987",
+      "score": 0.9864407777786255,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A line segment forming part of the perimeter of a plane figure."
+    },
+    {
+      "text": "psychiatric disorders",
+      "type": "T048",
+      "umls_id": "C0004936",
+      "score": 0.9857374429702759,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Psychiatric illness or diseases manifested by breakdowns in the adaptational process expressed primarily as abnormalities of thought, feeling, and behavior producing either distress or impairment of function."
+    },
+    {
+      "text": "cluster",
+      "type": "T170",
+      "umls_id": "C1555715",
+      "score": 0.9679627418518066,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>**Description:**An ACT that organizes a set of component acts into a semantic grouping that have a shared subject. The subject may be either a subject participation (SBJ), subject act relationship (SUBJ), or child participation/act relationship types.</p><b>Discussion:</b>The focus in a CLUSTER act is the grouping of the contained acts. For example \"a request to cluster\" (RQO), \"a type of cluster that is allowed to occur\" (DEF), etc.<b>Examples:</b><p>* Radiologic investigations that might include administration of a dye, followed by radiographic observations; * \"Isolate cluster\" which includes all testing and specimen processing performed on a specific isolate; * a set of actions to perform at a particular stage in a clinical trial.</p>"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "29-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

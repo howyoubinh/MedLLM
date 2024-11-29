@@ -1,0 +1,387 @@
+{
+  "original_data": {
+    "question": "A 47-year-old woman presents to her primary care physician for evaluation of her right hand. Specifically, she says that she was gardening 8 hours prior to presentation when she sustained a laceration over her distal interphalangeal (DIP) joints. Since then, they have become red and swollen. She has also had pain in her proximal interphalangeal (PIP) joints and metacarpophalangeal (MCP) joints for several years and reports that this pain is worse in the morning but improves over the day. The cells that are present in this patient's DIP joints and PIP joints are analyzed and compared. Which of the following is most likely to be true about this patient's findings?",
+    "options": {
+      "A": "DIP has fewer neutrophils and more monocytes than PIP",
+      "B": "DIP has more neutrophils and fewer monocytes than PIP",
+      "C": "DIP has more neutrophils and more monocytes than PIP",
+      "D": "DIP and PIP have similar numbers of neutrophils and monocytes"
+    }
+  },
+  "model_response": "{'A': 'Correct', 'B': 'Not correct', 'C': 'Not correct', 'D': 'Not correct'}\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "right hand",
+      "type": "T023",
+      "umls_id": "C0230370",
+      "score": 0.9948804974555969,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gardening",
+      "type": "T056",
+      "umls_id": "C0868963",
+      "score": 0.9831878542900085,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Cultivation of PLANTS; (FRUIT; VEGETABLES; MEDICINAL HERBS) on small plots of ground or in containers."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "sustained",
+      "type": "T169",
+      "umls_id": "C0443318",
+      "score": 0.9774273037910461,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "laceration",
+      "type": "T037",
+      "umls_id": "C0043246",
+      "score": 0.9825586080551147,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Torn, ragged, mangled wounds."
+    },
+    {
+      "text": "distal",
+      "type": "T082",
+      "umls_id": "C0205108",
+      "score": 0.9876012802124023,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated farthest from a point of attachment or origin, as of a limb or bone; or directed away from the midline of the body."
+    },
+    {
+      "text": "DIP",
+      "type": "T131",
+      "umls_id": "C0037390",
+      "score": 0.9796738624572754,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "A fine-grain tobacco that that users hold between their lower lip and gum."
+    },
+    {
+      "text": "joints",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9911827445030212,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "red",
+      "type": "T033",
+      "umls_id": "C0332575",
+      "score": 0.9793647527694702,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "proximal",
+      "type": "T082",
+      "umls_id": "C0205107",
+      "score": 0.9636295437812805,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated nearest to a point of attachment or origin."
+    },
+    {
+      "text": "PIP",
+      "type": "T061",
+      "umls_id": "C0279391",
+      "score": 0.9974372386932373,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "joints",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9911827445030212,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "metacarpophalangeal",
+      "type": "T030",
+      "umls_id": "C0025525",
+      "score": 0.8835145235061646,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The articulation between a metacarpal bone and a phalanx."
+    },
+    {
+      "text": "MCP",
+      "type": "T116",
+      "umls_id": "C0285488",
+      "score": 0.990529477596283,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "A ubiquitously expressed complement receptor that binds COMPLEMENT C3B and COMPLEMENT C4B and serves as a co-factor for their inactivation by COMPLEMENT FACTOR I. It also interacts with a wide variety of pathogens and mediates the immune response."
+    },
+    {
+      "text": "joints",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9911827445030212,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "DIP",
+      "type": "T131",
+      "umls_id": "C0037390",
+      "score": 0.9796738624572754,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "A fine-grain tobacco that that users hold between their lower lip and gum."
+    },
+    {
+      "text": "joints",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9911827445030212,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "PIP",
+      "type": "T061",
+      "umls_id": "C0279391",
+      "score": 0.9974372386932373,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "joints",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9911827445030212,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "analyzed",
+      "type": "T062",
+      "umls_id": "C0936012",
+      "score": 0.9374892115592957,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Examination and interpretation; the process of identifying an issue to be understood and addressed, modelling the issue, investigating the model results, interpreting the results, and possibly making a recommendation. The concept also refers to the examination and study of a whole in terms of the parts composing it."
+    },
+    {
+      "text": "compared",
+      "type": "T052",
+      "umls_id": "C1707455",
+      "score": 0.9827839136123657,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The examination of two or more people or things in order to detect similarities and differences."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "47-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

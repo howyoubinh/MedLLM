@@ -1,0 +1,342 @@
+{
+  "original_data": {
+    "question": "A 28-year-old woman presents with facial flushing, weakness, and chronic diarrhea for the past month. She denies any history of smoking, alcohol use, or recreational drug use. The patient was on a trip to Thailand 2 years ago with her family but denies any recent travel. Her blood pressure is 120/88 mm Hg, pulse is 78/min, temperature is 37.2°C (99.0°F), and respiratory rate is 16/min. Laboratory findings are unremarkable, except for a potassium level of 3.3 mmol/L and serum calcium of 11 mg/dL. The attending physician suspects that this might be a case of a genetic mutation in the menin 1 gene on chromosome 11 and orders a genetic analysis. Which of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Vibrio cholera infection",
+      "B": "VIPoma",
+      "C": "Rotavirus",
+      "D": "Campylobacter jejuni"
+    }
+  },
+  "model_response": "The patient's presentation is consistent with hyperparathyroidism, which can be caused by genetic mutations in the menin 1 gene. This mutation is associated with multiple endocrine neoplasia type 1 (MEN1), which includes tumors of the parathyroid gland, pancreas, and pituitary gland. The most common presentation of MEN1 is hyperparathyroidism, which can manifest as weakness, bone pain, and chronic diarrhea. The chronic diarrhea is caused by the release of VIP (vasoactive intestinal peptide) from the tumor. The genetic analysis will confirm the diagnosis. Vibrio cholera infection can cause watery diarrhea, but it is associated with a history of recent travel to an endemic area. Rotavirus infection is more common in children and presents with watery diarrhea. Campylobacter jejuni infection can cause bloody diarrhea, but it is associated with a history of recent travel to an endemic area. VIPoma is a tumor that secretes vasoactive intestinal peptide, which can cause a syndrome of watery diarrhea, hypokalemia, and achlorhydria. However, this syndrome is usually not associated with a family history of tumors.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "facial flushing",
+      "type": "T184",
+      "umls_id": "C0016382",
+      "score": 0.9707452654838562,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A transient reddening of the face that may be due to fever, certain drugs, exertion, or stress."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "chronic diarrhea",
+      "type": "T047",
+      "umls_id": "C0401151",
+      "score": 0.9815161824226379,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The presence of chronic diarrhea, which is usually taken to mean diarrhea that has persisted for over 4 weeks. [HPO:probinson]"
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9823688864707947,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "smoking",
+      "type": "T055",
+      "umls_id": "C0037369",
+      "score": 0.963042676448822,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Willful or deliberate act of inhaling and exhaling SMOKE from burning substances or agents held by hand."
+    },
+    {
+      "text": "alcohol use",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.9848212599754333,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "recreational drug use",
+      "type": "T048",
+      "umls_id": "C0013146",
+      "score": 0.9681465029716492,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of a drug for a reason other than which it was intended or in a manner or in quantities other than directed."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Thailand 2 years",
+      "type": "T083",
+      "umls_id": "C0039725",
+      "score": 0.7393521070480347,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Formerly known as Siam, this is a Southeast Asian nation at the center of the Indochina peninsula. Bangkok is the capital city."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "travel",
+      "type": "T056",
+      "umls_id": "C0040802",
+      "score": 0.9811955094337463,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "MOVEMENT across different GEOGRAPHIC LOCATIONS."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "potassium",
+      "type": "T121",
+      "umls_id": "C0032821",
+      "score": 0.9785500764846802,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element in the alkali group of metals with an atomic symbol K, atomic number 19, and atomic weight 39.10. It is the chief cation in the intracellular fluid of muscle and other cells. Potassium ion is a strong electrolyte that plays a significant role in the regulation of fluid volume and maintenance of the WATER-ELECTROLYTE BALANCE."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "serum calcium",
+      "type": "T201",
+      "umls_id": "C0036785",
+      "score": 0.9727125763893127,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "attending",
+      "type": "T097",
+      "umls_id": "C1547429",
+      "score": 0.9824391007423401,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physician suspects",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.725096583366394,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "genetic mutation",
+      "type": "T045",
+      "umls_id": "C0026882",
+      "score": 0.9741377234458923,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "Any detectable and heritable change in the genetic material that causes a change in the GENOTYPE and which is transmitted to daughter cells and to succeeding generations."
+    },
+    {
+      "text": "menin 1 gene",
+      "type": "T028",
+      "umls_id": "C0694884",
+      "score": 0.9901919960975647,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "This gene is involved in transcriptional regulation and has tumor suppressor activity."
+    },
+    {
+      "text": "chromosome 11",
+      "type": "T026",
+      "umls_id": "C0008653",
+      "score": 0.9918992519378662,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "A specific pair of GROUP C CHROMOSOMES of the human chromosome classification."
+    },
+    {
+      "text": "orders",
+      "type": "T170",
+      "umls_id": "C3244315",
+      "score": 0.9923031330108643,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>Represents the HL7 content \"domain\" that supports orders - and \"comprises the models, messages, and other artifacts that are needed to support messaging related to ordering basic healthcare services.\"<i>UsageNote:</i>V3 Specifications are published in a set of \"domains\", which contain interactions and related specifications for a single area of health care within which can be supported by a single, coherent set of interoperability specifications."
+    },
+    {
+      "text": "genetic analysis",
+      "type": "T059",
+      "umls_id": "C0796344",
+      "score": 0.9830151796340942,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

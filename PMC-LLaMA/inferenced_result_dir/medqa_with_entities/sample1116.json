@@ -1,0 +1,503 @@
+{
+  "original_data": {
+    "question": "A 46-year-old woman comes to the physician because of severe muscle and joint pain for 5 months. The pain varies in location and intensity. She also has joint stiffness in the morning and reports fatigue throughout the day that she attributes to not sleeping well. She reports a tingling sensation in her lower limbs. Her bowel habits are unchanged but she often feels bloated. She has primary hypertension and occasional migraine headaches. She does not smoke or consume alcohol. Her medications include propranolol and sumatriptan. She appears healthy. Examination shows symmetric muscular tenderness at the base of the neck, over the shoulders, and in the lumbosacral area. Strength and deep tendon reflexes are normal. Laboratory studies show:\nHemoglobin 14.3 g/dL\nLeukocyte count 9300/mm3\nPlatelet count 230,000/mm3\nMean corpuscular volume 85 μm3\nErythrocyte sedimentation rate 12 mm/h\nSerum\nGlucose 92 mg/dL\nCreatinine 0.6 mg/dL\nTSH 3.1 μU/mL\nUrinalysis is within normal limits. Which of the following is the most appropriate therapy for this patient?\"",
+    "options": {
+      "A": "Temazepam",
+      "B": "Vitamin B12",
+      "C": "Amitriptyline",
+      "D": "Methotrexate\n\""
+    }
+  },
+  "model_response": "The symptoms of the patient are suggestive of fibromyalgia. Fibromyalgia is a syndrome of musculoskeletal pain and tenderness along with neuropsychiatric symptoms. The diagnosis of fibromyalgia is based on a thorough history and physical examination. Laboratory and radiographic studies are usually normal. The American College of Rheumatology has established clinical criteria for diagnosis of fibromyalgia. The patient must have widespread musculoskeletal pain for at least 3 months and tenderness in at least 11 of 18 specific points on examination. These points are located over the occiput, neck, low back, and bilateral upper and lower extremities. The symptoms of this patient are suggestive of fibromyalgia. The normal laboratory results rule out other causes of musculoskeletal pain. The patient does not have the sleep, memory, and mood problems of patients with polymyalgia rheumatica. The patient does not have enough joint problems to diagnose rheumatoid arthritis. The patient does not have enough abnormal laboratory results to diagnose polymyalgia rheumatica. The patient does not have enough abnormal laboratory results to diagnose systemic lupus erythematosus. The patient does not have enough abnormal laboratory results to diagnose polymyositis. The treatment of fibromyalgia includes patient education, aerobic exercise, and medications for sleep and pain. Patients should be educated about fibromyalgia, its symptoms, and its treatment. They should be reassured that they do not have a progressive disease. Patients should be instructed to engage in aerobic exercise. This should be initiated slowly and may be difficult for patients with this disease. Patients should be cautioned that exercise may exacerbate their symptoms initially but that, over time, they will benefit from it. Medications for sleep and pain should be prescribed. Tricyclic antidepressants, serotonin reuptake inhibitors, and cyclobenzaprine are commonly used. The patient should be warned that medications may have side effects and may be habit-forming. Temazepam is a benzodiazepine that may be used for sleep. It has the potential for habituation and may worsen symptoms of fibromyalgia. Vitamin B12 is not indicated because the patient's methylmalonic acid is normal. Amitriptyline is a tricyclic antidepressant that may be used for pain. It has anticholinergic side effects and may worsen symptoms of fibromyalgia. Methotrexate is not indicated because the patient's methylmalonic acid is normal. Polymyalgia rheumatica is a disease of older individuals characterized by stiffness and pain in the neck, shoulders, and hips. It is associated with an elevated erythrocyte sedimentation rate. Rheumatoid arthritis is a chronic inflammatory disease characterized by symmetric joint pain and swelling. Systemic lupus erythematosus is a multisystem autoimmune disease characterized by arthritis, rash, and many other symptoms. Polymyositis is an inflammatory myopathy characterized by symmetric joint pain and weakness.\n\n### QUESTION REF: 101-102\n\n### ANSWER: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "muscle",
+      "type": "T024",
+      "umls_id": "C0026845",
+      "score": 0.9935406446456909,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Contractile tissue that produces movement in animals."
+    },
+    {
+      "text": "joint pain",
+      "type": "T184",
+      "umls_id": "C0003862",
+      "score": 0.9798861742019653,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the joint."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "location",
+      "type": "T082",
+      "umls_id": "C0450429",
+      "score": 0.9696084260940552,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A position, site, or point in space where something can be found."
+    },
+    {
+      "text": "intensity",
+      "type": "T080",
+      "umls_id": "C0522510",
+      "score": 0.9910919070243835,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The degree or magnitude of strength, energy, or feeling."
+    },
+    {
+      "text": "joint stiffness",
+      "type": "T184",
+      "umls_id": "C0162298",
+      "score": 0.9500554203987122,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort and tightness while moving a joint. Typically there is decreased joint range of motion. Causes include arthritis, joint overuse, joint injury, and the aging process."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "attributes",
+      "type": "T078",
+      "umls_id": "C0449234",
+      "score": 0.851893961429596,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any of the properties, roles, or associations, that define a concept."
+    },
+    {
+      "text": "tingling",
+      "type": "T047",
+      "umls_id": "C0030554",
+      "score": 0.9621715545654297,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Subjective cutaneous sensations (e.g., cold, warmth, tingling, pressure, etc.) that are experienced spontaneously in the absence of stimulation."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "lower limbs",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9674533605575562,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "bowel habits",
+      "type": "T040",
+      "umls_id": "C0011135",
+      "score": 0.9857979416847229,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The normal process of elimination of fecal material from the RECTUM."
+    },
+    {
+      "text": "unchanged",
+      "type": "T033",
+      "umls_id": "C0442739",
+      "score": 0.9807156324386597,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**There was (or is to be) no change to the item. This is primarily used when this element has not changed, but other attributes in the instance have changed.</p>"
+    },
+    {
+      "text": "feels bloated",
+      "type": "T170",
+      "umls_id": "C4082763",
+      "score": 0.85014408826828,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual feels or felt bloated."
+    },
+    {
+      "text": "primary hypertension",
+      "type": "T047",
+      "umls_id": "C0085580",
+      "score": 0.9843559861183167,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hypertension that occurs without known cause, or preexisting renal disease. Associated polymorphisms for a number of genes have been identified, including AGT, GNB3, and ECE1. OMIM: 145500"
+    },
+    {
+      "text": "occasional migraine",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "consume",
+      "type": "T098",
+      "umls_id": "C1707496",
+      "score": 0.8150765299797058,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A person who uses goods or services."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "propranolol",
+      "type": "T109",
+      "umls_id": "C0033497",
+      "score": 0.9734627604484558,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A widely used non-cardioselective beta-adrenergic antagonist. Propranolol has been used for MYOCARDIAL INFARCTION; ARRHYTHMIA; ANGINA PECTORIS; HYPERTENSION; HYPERTHYROIDISM; MIGRAINE; PHEOCHROMOCYTOMA; and ANXIETY but adverse effects instigate replacement by newer drugs."
+    },
+    {
+      "text": "sumatriptan",
+      "type": "T109",
+      "umls_id": "C0075632",
+      "score": 0.9816184639930725,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A serotonin agonist that acts selectively at 5HT1 receptors. It is used in the treatment of MIGRAINE DISORDERS."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "symmetric",
+      "type": "T033",
+      "umls_id": "C0332516",
+      "score": 0.9556925296783447,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "muscular tenderness",
+      "type": "T184",
+      "umls_id": "C0575064",
+      "score": 0.765025794506073,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful sensation felt when pressure is applied to the muscles."
+    },
+    {
+      "text": "base",
+      "type": "T120",
+      "umls_id": "C0178499",
+      "score": 0.9794395565986633,
+      "semantic_types": [
+        "T120"
+      ],
+      "definition": "A substance that dissociates to give hydroxide ions in aqueous solutions; a substance capable of donating a pair of electrons (to an acid) for the formation of a coordinate covalent bond; a substance whose molecule or ion can combine with a proton (hydrogen ion); a substance that combines with acids to form salts."
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "shoulders",
+      "type": "T029",
+      "umls_id": "C0037004",
+      "score": 0.9912119507789612,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Part of the body in humans and primates where the arms connect to the trunk. The shoulder has five joints; ACROMIOCLAVICULAR joint, CORACOCLAVICULAR joint, GLENOHUMERAL joint, scapulathoracic joint, and STERNOCLAVICULAR joint."
+    },
+    {
+      "text": "lumbosacral area",
+      "type": "T029",
+      "umls_id": "C0024094",
+      "score": 0.7238619923591614,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Region of the back including the LUMBAR VERTEBRAE, SACRUM, and nearby structures."
+    },
+    {
+      "text": "Strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.9718086123466492,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "deep tendon",
+      "type": "T023",
+      "umls_id": "C0039508",
+      "score": 0.7640609741210938,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Fibrous bands or cords of CONNECTIVE TISSUE at the ends of SKELETAL MUSCLE FIBERS that serve to attach the MUSCLES to bones and other structures."
+    },
+    {
+      "text": "reflexes",
+      "type": "T042",
+      "umls_id": "C0034929",
+      "score": 0.959754467010498,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "An involuntary movement or exercise of function in a part, excited in response to a stimulus applied to the periphery and transmitted to the brain or spinal cord."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "sedimentation",
+      "type": "T059",
+      "umls_id": "C0597428",
+      "score": 0.9737226366996765,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The act or process of settling particles by mechanical means from a state of suspension in air or water."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "Serum\nGlucose 92",
+      "type": "T059",
+      "umls_id": "C0202041",
+      "score": 0.9154545664787292,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of glucose present in a sample of serum."
+    },
+    {
+      "text": "Urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "46-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

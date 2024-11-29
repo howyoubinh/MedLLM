@@ -1,0 +1,207 @@
+{
+  "original_data": {
+    "question": "A 26-year-old female complains of frequent, large volume urination. This negatively affects her sleep, as she has to frequently wake up at night to urinate. She also complains of increased thirst. Her past medical history is significant for bipolar disorder that is treated with lithium for 3 years. Serum osmolality is 425 mOsm/kg, and urine osmolality is 176 mOsm/kg. Which of the following best explains this patient’s serum and urine osmolality?",
+    "options": {
+      "A": "Hypothalamic over-production of antidiuretic hormone (ADH)",
+      "B": "Decreased production of ADH",
+      "C": "ADH resistance in the renal collecting ducts",
+      "D": "Increased sodium reabsorption and potassium excretion"
+    }
+  },
+  "model_response": "The patient’s urine osmolality is lower than serum osmolality, which is inappropriately low given the serum osmolality. This is diagnostic of nephrogenic diabetes insipidus (NDI). Lithium is a known cause of NDI. The most common cause of NDI is an acquired defect in the ability of the kidney to respond to ADH. This can occur in the hypothalamus or in the renal collecting ducts. In the hypothalamus, the defect could be due to overproduction of ADH or due to a resistance to the action of ADH. In the renal collecting ducts, the defect could be due to a resistance to the action of ADH or due to decreased production of ADH. In this case, the defect is in the renal collecting ducts, since the urine osmolality is low despite an elevated serum osmolality. The defect in the renal collecting ducts is due to a resistance to the action of ADH. This resistance is due to a mutation in the gene that produces aquaporin-2, a water channel protein that is responsive to ADH. When ADH acts on the renal collecting ducts, aquaporin-2 channels are produced, which allow water to be reabsorbed into the blood. In NDI, the channels do not allow water to be reabsorbed, which results in the production of dilute urine and polyuria.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "volume urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.7548995614051819,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "negatively",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.7763431072235107,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "urinate",
+      "type": "T184",
+      "umls_id": "C0085606",
+      "score": 0.7243622541427612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An acute and compelling urge to urinate."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "bipolar disorder",
+      "type": "T048",
+      "umls_id": "C0005586",
+      "score": 0.9751492738723755,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A major affective disorder marked by severe mood swings (manic or major depressive episodes) and a tendency to remission and recurrence."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lithium",
+      "type": "T121",
+      "umls_id": "C0023870",
+      "score": 0.9728432297706604,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "An element in the alkali metals family. It has the atomic symbol Li, atomic number 3, and atomic weight [6.938; 6.997]. Salts of lithium are used in treating BIPOLAR DISORDER."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "Serum osmolality",
+      "type": "T034",
+      "umls_id": "C0428311",
+      "score": 0.9796969890594482,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "urine osmolality",
+      "type": "T059",
+      "umls_id": "C0740085",
+      "score": 0.9765927195549011,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient’s serum",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "urine osmolality",
+      "type": "T059",
+      "umls_id": "C0740085",
+      "score": 0.9765927195549011,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "26-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

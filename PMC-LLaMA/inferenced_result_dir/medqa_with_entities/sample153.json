@@ -1,0 +1,385 @@
+{
+  "original_data": {
+    "question": "A 71-year-old man comes to the physician for a routine visit. His psychiatric history is significant for major depression with psychotic features. He was diagnosed after his wife died from pancreatic cancer four years earlier. Three years ago, he deliberately overdosed on sleeping pills. Today, he feels well but still wakes up frequently at night and cannot sleep through the night. He lives alone in his apartment and has no children. He does not possess a firearm at home but has access to weapons at a local hunting club. The patient currently denies suicidal thoughts or thoughts of self-harm. He takes sertraline and olanzapine. He does not smoke or drink alcohol. Which of the following is the strongest risk factor for suicide in this patient?",
+    "options": {
+      "A": "Previous suicide attempt",
+      "B": "History of psychosis",
+      "C": "Sleeping disorder",
+      "D": "Age\n\""
+    }
+  },
+  "model_response": "{'A': 'Previous suicide attempt', 'B': 'History of psychosis', 'C': 'Sleeping disorder', 'D': 'Age\\n\"'}\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "routine visit",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.7483723163604736,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "psychiatric history",
+      "type": "T091",
+      "umls_id": "C0033873",
+      "score": 0.7691364288330078,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The medical science that deals with the origin, diagnosis, prevention, and treatment of mental disorders."
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "psychotic features",
+      "type": "T033",
+      "umls_id": "C5436702",
+      "score": 0.9734627604484558,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "pancreatic cancer",
+      "type": "T191",
+      "umls_id": "C0235974",
+      "score": 0.9861518740653992,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A carcinoma arising from the exocrine pancreas. The overwhelming majority of pancreatic carcinomas are adenocarcinomas."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "overdosed",
+      "type": "T037",
+      "umls_id": "C0029944",
+      "score": 0.8443024754524231,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Exposure to, or intake of, an excessive amount of a substance."
+    },
+    {
+      "text": "sleeping pills",
+      "type": "T200",
+      "umls_id": "C0599396",
+      "score": 0.9771730303764343,
+      "semantic_types": [
+        "T200"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "lives",
+      "type": "T033",
+      "umls_id": "C0595998",
+      "score": 0.979897141456604,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "apartment",
+      "type": "T073",
+      "umls_id": "C0457933",
+      "score": 0.9560219645500183,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A room or suite of rooms designed as a residence and generally located in a building occupied by more than one household used as an element of an address."
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "firearm",
+      "type": "T073",
+      "umls_id": "C0016139",
+      "score": 0.9920914769172668,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Small-arms weapons, including handguns, pistols, revolvers, rifles, shotguns, etc."
+    },
+    {
+      "text": "weapons",
+      "type": "T073",
+      "umls_id": "C0336663",
+      "score": 0.9766200184822083,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Devices or tools used in combat or fighting in order to kill or incapacitate."
+    },
+    {
+      "text": "club",
+      "type": "T073",
+      "umls_id": "C0221096",
+      "score": 0.9784071445465088,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "suicidal thoughts",
+      "type": "T033",
+      "umls_id": "C0424000",
+      "score": 0.9490581750869751,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Thoughts of taking one's own life."
+    },
+    {
+      "text": "thoughts",
+      "type": "T041",
+      "umls_id": "C0039869",
+      "score": 0.9591513276100159,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Mental activity that is not predominantly perceptual by which one apprehends some aspect of an object or situation based on past learning and experience."
+    },
+    {
+      "text": "self-harm",
+      "type": "T055",
+      "umls_id": "C0085271",
+      "score": 0.9655666947364807,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behavior in which persons hurt or harm themselves without the motive of suicide or of sexual deviation."
+    },
+    {
+      "text": "sertraline",
+      "type": "T109",
+      "umls_id": "C0074393",
+      "score": 0.9715209007263184,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective serotonin uptake inhibitor that is used in the treatment of depression."
+    },
+    {
+      "text": "olanzapine",
+      "type": "T109",
+      "umls_id": "C0171023",
+      "score": 0.9628050923347473,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic derivative of thienobenzodiazepine with antipsychotic, antinausea, and antiemetic activities. As a selective monoaminergic antagonist, olanzapine binds with high affinity binding to the following receptors: serotoninergic, dopaminergic, muscarinic M1-5, histamine H1, and alpha-1-adrenergic receptors; it binds weakly to gamma-aminobutyric acid type A, benzodiazepine, and beta-adrenergic receptors. The antinausea and antiemetic effects of this agent appear to be due to the blockade of 5-HT2 and 5-HT3 receptors for serotonin. Although its exact mechanism of action in schizophrenia is unknown, it has been proposed that olanzapine's antipsychotic activity is mediated through antagonism to dopamine D2 receptors with rapid ligand-receptor dissociation kinetics that help to minimize extrapyramidal symptoms (EPS). Olanzapine may also stimulate appetite."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drink",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9850457310676575,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "risk factor",
+      "type": "T033",
+      "umls_id": "C0035648",
+      "score": 0.9703672528266907,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An aspect of personal behavior or lifestyle, environmental exposure, inborn or inherited characteristic, which, based on epidemiological evidence, is known to be associated with a health-related condition considered important to prevent."
+    },
+    {
+      "text": "suicide",
+      "type": "T033",
+      "umls_id": "C0038661",
+      "score": 0.9461096525192261,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The act of killing oneself."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "71-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

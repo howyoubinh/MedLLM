@@ -1,0 +1,74 @@
+{
+  "original_data": {
+    "question": "A scientist observes a myocyte beating in cell culture. Which step is the most direct necessary component of relaxation for this cell?",
+    "options": {
+      "A": "Influx of sodium ions",
+      "B": "Influx of calcium ions from the sacroplasmic reticulum",
+      "C": "Influx of calcium ions from outside the myocyte",
+      "D": "Efflux of calcium ions"
+    }
+  },
+  "model_response": "The correct answer is B. The calcium ions from the sacroplasmic reticulum are responsible for relaxation. The calcium ions from outside the myocyte (option C) and the efflux of calcium ions (option D) are involved in excitation. The influx of sodium ions (option A) is involved in depolarization.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "scientist",
+      "type": "T097",
+      "umls_id": "C0402112",
+      "score": 0.9843286871910095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "myocyte",
+      "type": "T025",
+      "umls_id": "C0596981",
+      "score": 0.9845249056816101,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Mature contractile cells, commonly known as myocytes, that form one of three kinds of muscle. The three types of muscle cells are skeletal (MUSCLE FIBERS, SKELETAL), cardiac (MYOCYTES, CARDIAC), and smooth (MYOCYTES, SMOOTH MUSCLE). They are derived from embryonic (precursor) muscle cells called MYOBLASTS."
+    },
+    {
+      "text": "beating",
+      "type": "T054",
+      "umls_id": "C0868443",
+      "score": 0.9643404483795166,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cell culture",
+      "type": "T059",
+      "umls_id": "C0007585",
+      "score": 0.9806018471717834,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any laboratory procedure for growing cells or tissues in vitro."
+    },
+    {
+      "text": "relaxation",
+      "type": "T052",
+      "umls_id": "C0035028",
+      "score": 0.9327152371406555,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Activity which reduces the feelings of tension and the effects of STRESS, PHYSIOLOGICAL."
+    },
+    {
+      "text": "cell",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.995521068572998,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    }
+  ]
+}

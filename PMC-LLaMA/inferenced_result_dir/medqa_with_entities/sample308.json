@@ -1,0 +1,83 @@
+{
+  "original_data": {
+    "question": "A 50-year-old man with congestive heart failure (CHF) was started on an experimental analog of atrial natriuretic peptide. Which of the following would he expect to experience?",
+    "options": {
+      "A": "Increased water reabsorption by the renal collecting ducts",
+      "B": "Vasoconstriction, increased blood pressure, aldosterone release",
+      "C": "Increased glomerular filtration rate, restricted aldosterone release, vascular smooth muscle dilation",
+      "D": "Increased plasma calcium and decreased renal reabsorption of phosphate"
+    }
+  },
+  "model_response": "{'A': false, 'B': false, 'C': true, 'D': false}\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "congestive heart failure",
+      "type": "T047",
+      "umls_id": "C0018802",
+      "score": 0.977027952671051,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Heart failure accompanied by EDEMA, such as swelling of the legs and ankles and congestion in the lungs."
+    },
+    {
+      "text": "CHF",
+      "type": "T047",
+      "umls_id": "C0018802",
+      "score": 0.9424222707748413,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Heart failure accompanied by EDEMA, such as swelling of the legs and ankles and congestion in the lungs."
+    },
+    {
+      "text": "experimental analog",
+      "type": "T080",
+      "umls_id": "C1517586",
+      "score": 0.7769677042961121,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In the process of being studied; experimental."
+    },
+    {
+      "text": "atrial natriuretic peptide",
+      "type": "T116",
+      "umls_id": "C0027481",
+      "score": 0.9783117771148682,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "A potent natriuretic and vasodilatory peptide or mixture of different-sized low molecular weight PEPTIDES derived from a common precursor and secreted mainly by the HEART ATRIUM. All these peptides share a sequence of about 20 AMINO ACIDS."
+    },
+    {
+      "text": "experience",
+      "type": "T041",
+      "umls_id": "C0237607",
+      "score": 0.9646604657173157,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "50-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

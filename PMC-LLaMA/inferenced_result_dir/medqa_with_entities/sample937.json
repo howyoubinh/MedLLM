@@ -1,0 +1,462 @@
+{
+  "original_data": {
+    "question": "A 24-year-old Asian woman is admitted to the hospital at 30 weeks gestation with nausea, vomiting, and right upper quadrant pain. She is gravida 2 para 0 with a history of the same complaints in her last pregnancy which ended with a stillbirth at the 31st week. Her older sister had preeclampsia in both of her pregnancies. Currently, the patient is responsive but lethargic. The vital signs are as follows: blood pressure 150/90 mm Hg, heart rate 85/min, respiratory rate 15/min, and temperature 36.4°C (97.5°F). The physical examination shows jaundice, right upper quadrant tenderness, and 2+ pitting edema of the lower extremities. The patient’s laboratory findings are as follows:\nErythrocyte count 2.7 million/mm3\nHemoglobin 10.1 g/dL\nHematocrit 0.56\nReticulocyte count 1.1%\nLeukocyte count 8,300/mm3\nThrombocyte count 190,000/mm3\nTotal bilirubin 5.3 mg/dL (91 µmol/L)\nConjugated bilirubin 4.2 mg/dL (72 µmol/L)\nAlanine Transaminase (ALT) 101 U/L\nAspartate Transaminase (AST) 99 U/L\nCreatinine 0.9 mg/dL (80 µmol/L)\nWhich of the following factors is a risk factor for this patient’s condition?",
+    "options": {
+      "A": "The patient’s age",
+      "B": "Nulliparity",
+      "C": "History in the previous pregnancy",
+      "D": "History of preeclampsia in a sibling"
+    }
+  },
+  "model_response": "The patient’s age is not a risk factor for this condition.\nNulliparity is a risk factor for this condition.\nHistory in the previous pregnancy is a risk factor for this condition.\nHistory of preeclampsia in a sibling is a risk factor for this condition.\n\nThe patient’s presentation is consistent with acute fatty liver of pregnancy (AFLP). The patient’s age, nulliparity, family history of preeclampsia, and previous stillbirth are all risk factors for AFLP. The patient’s laboratory findings are consistent with AFLP. The liver enzymes are only mildly elevated, but the serum bilirubin is significantly elevated. The liver biopsy is characterized by microvesicular fatty infiltration. The treatment is delivery of the fetus and supportive therapy.\n\nAmerican College of Obstetricians and Gynecologists. Obstetric Neuropathy. ACOG Committee Opinion No. 299. Washington, DC: American College of Obstetricians and Gynecologists; 2007.\n\nCunningham F.G., Leveno K.J., Bloom S.L., Hauth J.C., Rouse D.J., Spong C.Y. (2010). Chapter 34.\n\nHepatic Complications. In F.G. Cunningham, K.J. Leveno, S.L. Bloom, J.C. Hauth, D.J. Rouse, C.Y. Spong (Eds), Williams Obstetrics, 23e.\n\n###REF:\n\n###ANSWER: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "Asian",
+      "type": "T098",
+      "umls_id": "C0003988",
+      "score": 0.9975364804267883,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam (https://www.federalregister.gov/documents/1997/10/30/97-28653/revisions-to-the-standards-for-the-classification-of-federal-data-on-race-and-ethnicity). In the United States it is used for classification of federal government data on race and ethnicity. Race and ethnicity terms are self-identified social construct and may include terms outdated and offensive in MeSH to assist users who are interested in retrieving comprehensive search results for studies such as in longitudinal studies."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "right upper quadrant pain",
+      "type": "T184",
+      "umls_id": "C0235299",
+      "score": 0.9756755232810974,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gravida 2 para",
+      "type": "T033",
+      "umls_id": "C0600457",
+      "score": 0.7519651055335999,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of pregnancies, complete or incomplete, experienced by a female. It is different from PARITY, which is the number of offspring borne. (From Stedman, 26th ed)"
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "stillbirth",
+      "type": "T033",
+      "umls_id": "C0595939",
+      "score": 0.966802179813385,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A fetus of at least 20 weeks gestation, or of a birth weight of at least 350 grams if the gestational age is unknown, that is born without signs of life at the time of delivery, and with an Apgar score of zero at both one and five minutes."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "older sister",
+      "type": "T099",
+      "umls_id": "C0337524",
+      "score": 0.9694116711616516,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": null
+    },
+    {
+      "text": "preeclampsia",
+      "type": "T046",
+      "umls_id": "C0032914",
+      "score": 0.9656036496162415,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A complication of PREGNANCY, characterized by a complex of symptoms including maternal HYPERTENSION and PROTEINURIA with or without pathological EDEMA. Symptoms may range between mild and severe. Pre-eclampsia usually occurs after the 20th week of gestation, but may develop before this time in the presence of trophoblastic disease."
+    },
+    {
+      "text": "pregnancies",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.9770646691322327,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "responsive",
+      "type": "T169",
+      "umls_id": "C0205342",
+      "score": 0.984087347984314,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate 85/min",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.7683761119842529,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "jaundice",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.947461724281311,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "right upper quadrant tenderness",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.7828248143196106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "pitting edema",
+      "type": "T033",
+      "umls_id": "C0333243",
+      "score": 0.976106584072113,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling due to excessive accumulation of fluid under the skin defined by a persistent indentation when pressure is applied to the swollen area. Causes include systemic conditions (e.g., heart failure, liver failure, or kidney failure) and local conditions affecting the extremities."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "million/mm3\nHemoglobin 10.1 g/dL\nHematocrit",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Reticulocyte",
+      "type": "T025",
+      "umls_id": "C0035286",
+      "score": 0.9877743124961853,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Immature ERYTHROCYTES. In humans, these are ERYTHROID CELLS that have just undergone extrusion of their CELL NUCLEUS. They still contain some organelles that gradually decrease in number as the cells mature. RIBOSOMES are last to disappear. Certain staining techniques cause components of the ribosomes to precipitate into characteristic \"reticulum\" (not the same as the ENDOPLASMIC RETICULUM), hence the name reticulocytes."
+    },
+    {
+      "text": "Total bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9635241627693176,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "Alanine Transaminase",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9752312302589417,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "ALT",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9907079935073853,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "AST",
+      "type": "T116",
+      "umls_id": "C0004002",
+      "score": 0.9983407855033875,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Enzymes of the transferase class that catalyze the conversion of L-aspartate and 2-ketoglutarate to oxaloacetate and L-glutamate. EC 2.6.1.1."
+    },
+    {
+      "text": "factors",
+      "type": "T114",
+      "umls_id": "C1257900",
+      "score": 0.8513578176498413,
+      "semantic_types": [
+        "T114",
+        "T123"
+      ],
+      "definition": "Plasmids encoding COLICINS."
+    },
+    {
+      "text": "risk factor",
+      "type": "T033",
+      "umls_id": "C0035648",
+      "score": 0.9703672528266907,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An aspect of personal behavior or lifestyle, environmental exposure, inborn or inherited characteristic, which, based on epidemiological evidence, is known to be associated with a health-related condition considered important to prevent."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

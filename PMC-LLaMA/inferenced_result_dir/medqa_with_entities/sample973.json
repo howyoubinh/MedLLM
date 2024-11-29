@@ -1,0 +1,262 @@
+{
+  "original_data": {
+    "question": "A 63-year-old female complains of weakness, light-headedness, palpitations, and soreness of the tongue. She has a past medical history of Hashimoto’s thyroiditis. Her hematocrit is 29%. On peripheral blood smear, you notice neutrophils with 7 lobes and large oval-shaped red blood cells. On physical exam, you notice the patient has decreased position sense and a loss in vibratory sensation in her lower extremities. Which of the following is most likely present in this patient?",
+    "options": {
+      "A": "Atrophy of G cells",
+      "B": "Anti-intrinsic factor antibodies",
+      "C": "Decreased methylmalonic acid levels",
+      "D": "Antithrombotic state"
+    }
+  },
+  "model_response": "This patient’s symptoms are consistent with vitamin B12 deficiency. The macrocytic anemia and neurological symptoms are classic. The tongue soreness is likely glossitis secondary to the deficiency. The intrinsic factor (IF) is necessary for the absorption of vitamin B12 in the terminal ileum. In this patient, the likely cause of the deficiency is Hashimoto’s thyroiditis, which can be associated with pernicious anemia. Pernicious anemia is an autoimmune atrophic process that affects the body’s ability to absorb vitamin B12. Anti-intrinsic factor antibodies are present in 90% of patients with pernicious anemia. The deficiency of vitamin B12 leads to a megaloblastic anemia and neurological symptoms. The anemia is macrocytic and the red blood cells are oval-shaped. The macrocytes are larger than 7 microns, hence the term macrocytic. The mean corpuscular volume (MCV) is usually greater than 100. The mean corpuscular hemoglobin (MCH) is normal. The mean corpuscular hemoglobin concentration (MCHC) is usually elevated. The reticulocyte count is low. The serum vitamin B12 level is low and the homocysteine level is elevated. The methylmalonic acid level is elevated in vitamin B12 deficiency. This is due to the accumulation of the byproducts of the metabolism of methylmalonyl-CoA. The accumulation occurs because the enzyme methylmalonyl-CoA mutase requires vitamin B12 as a co-factor. The accumulation of methylmalonic acid is toxic to the nervous system. The treatment of choice is vitamin B12 replacement.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "light-headedness",
+      "type": "T184",
+      "umls_id": "C0220870",
+      "score": 0.9676785469055176,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of faintness; a reeling sensation. Lightheadedness is medically distinct from dizziness, unsteadiness, and vertigo."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "soreness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9978673458099365,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "tongue",
+      "type": "T023",
+      "umls_id": "C0040408",
+      "score": 0.9851449131965637,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscular organ in the mouth that is covered with pink tissue called mucosa, tiny bumps called papillae, and thousands of taste buds. The tongue is anchored to the mouth and is vital for chewing, swallowing, and for speech."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "Hashimoto’s thyroiditis",
+      "type": "T047",
+      "umls_id": "C0677607",
+      "score": 0.9672597646713257,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An autoimmune disorder caused by the production of autoantibodies against thyroid tissue. There is progressive destruction of the thyroid follicles leading to hypothyroidism."
+    },
+    {
+      "text": "hematocrit",
+      "type": "T059",
+      "umls_id": "C0018935",
+      "score": 0.9932670593261719,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value."
+    },
+    {
+      "text": "peripheral blood smear",
+      "type": "T031",
+      "umls_id": "C0229664",
+      "score": 0.8488079905509949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A liquid tissue; its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood."
+    },
+    {
+      "text": "notice",
+      "type": "T170",
+      "umls_id": "C3242050",
+      "score": 0.7516040205955505,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>Usage notes.</p>"
+    },
+    {
+      "text": "neutrophils",
+      "type": "T025",
+      "umls_id": "C0027950",
+      "score": 0.9817454218864441,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Granular leukocytes having a nucleus with three to five lobes connected by slender threads of chromatin, and cytoplasm containing fine inconspicuous granules and stainable by neutral dyes."
+    },
+    {
+      "text": "lobes",
+      "type": "T023",
+      "umls_id": "C0796494",
+      "score": 0.9748649001121521,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A portion of an organ, such as the liver, lung, breast, or brain."
+    },
+    {
+      "text": "oval-shaped red blood cells",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.736085057258606,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "position",
+      "type": "T082",
+      "umls_id": "C0733755",
+      "score": 0.977912187576294,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A reference to the alignment of an object, a particular situation or view of a situation, or the location of an object."
+    },
+    {
+      "text": "loss",
+      "type": "T081",
+      "umls_id": "C1517945",
+      "score": 0.9933460354804993,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A gradual decline in amount or activity."
+    },
+    {
+      "text": "vibratory",
+      "type": "T073",
+      "umls_id": "C0184304",
+      "score": 0.8380855917930603,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A mechanical device designed to create a vibratory motion."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "lower extremities",
+      "type": "T023",
+      "umls_id": "C0023216",
+      "score": 0.9922428727149963,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the lower limb in animals, extending from the gluteal region to the FOOT, and including the BUTTOCKS; HIP; and LEG."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "63-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

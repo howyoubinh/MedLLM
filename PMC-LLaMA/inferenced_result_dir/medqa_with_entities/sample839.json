@@ -1,0 +1,295 @@
+{
+  "original_data": {
+    "question": "A 48-year-old woman comes to the physician because of a 4-month history of lightheadedness, intermittent headaches, and easy bruising. Five months ago, she was treated for an episode of thrombophlebitis. Physical examination shows multiple bruises on her limbs. Laboratory studies show a platelet count of 900,000/mm3 and elevated levels of serum lactate dehydrogenase and uric acid. Treatment with a medication is begun that is also used in the treatment of sickle cell disease. Which of the following mechanisms is most likely responsible for the beneficial effect of this drug in sickle cell disease?",
+    "options": {
+      "A": "Inhibition of thrombocyte aggregation",
+      "B": "Increase in circulating fetal hemoglobin",
+      "C": "Inhibition of stem cell differentiation",
+      "D": "Restoration of the body's iron stores"
+    }
+  },
+  "model_response": "The patient has a form of chronic myelogenous leukemia (CML) characterized by the Philadelphia chromosome. The drug is hydroxyurea, which inhibits the production of DNA and RNA in the S phase of the cell cycle. It also increases the production of fetal hemoglobin, which has a reduced affinity for oxygen and may protect the red cells from sickling. Stem cell differentiation is inhibited by the drug methotrexate, which inhibits dihydrofolate reductase. Restoration of iron stores is the mechanism of action of the drug deferoxamine. Inhibition of thrombocyte aggregation is the mechanism of action of aspirin.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "lightheadedness",
+      "type": "T184",
+      "umls_id": "C0220870",
+      "score": 0.9825802445411682,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of faintness; a reeling sensation. Lightheadedness is medically distinct from dizziness, unsteadiness, and vertigo."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "bruising",
+      "type": "T037",
+      "umls_id": "C0009938",
+      "score": 0.9562113285064697,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Injuries resulting in hemorrhage, usually manifested in the skin."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "episode of",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9742043614387512,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "thrombophlebitis",
+      "type": "T046",
+      "umls_id": "C0040046",
+      "score": 0.9700196981430054,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Inflammation of a vein associated with a blood clot (THROMBUS)."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "limbs",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9794425964355469,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "platelet count",
+      "type": "T059",
+      "umls_id": "C0032181",
+      "score": 0.9868485927581787,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of PLATELETS per unit volume in a sample of venous BLOOD."
+    },
+    {
+      "text": "900,000/mm3",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "levels",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882259964942932,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "serum lactate dehydrogenase",
+      "type": "T059",
+      "umls_id": "C1278052",
+      "score": 0.9836252927780151,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of lactate dehydrogenase present in a sample of serum."
+    },
+    {
+      "text": "uric acid",
+      "type": "T109",
+      "umls_id": "C0041980",
+      "score": 0.9921275973320007,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "An oxidation product, via XANTHINE OXIDASE, of oxypurines such as XANTHINE and HYPOXANTHINE. It is the final oxidation product of purine catabolism in humans and primates, whereas in most other mammals URATE OXIDASE further oxidizes it to ALLANTOIN."
+    },
+    {
+      "text": "Treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "sickle cell disease",
+      "type": "T047",
+      "umls_id": "C0002895",
+      "score": 0.9725584983825684,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease characterized by chronic hemolytic anemia, episodic painful crises, and pathologic involvement of many organs. It is the clinical expression of homozygosity for hemoglobin S."
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "effect",
+      "type": "T080",
+      "umls_id": "C1280500",
+      "score": 0.9828534126281738,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A phenomenon that follows and is caused by some previous phenomenon."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "sickle cell disease",
+      "type": "T047",
+      "umls_id": "C0002895",
+      "score": 0.9725584983825684,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disease characterized by chronic hemolytic anemia, episodic painful crises, and pathologic involvement of many organs. It is the clinical expression of homozygosity for hemoglobin S."
+    },
+    {
+      "text": "48-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

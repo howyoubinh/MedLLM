@@ -1,0 +1,655 @@
+{
+  "original_data": {
+    "question": "A 27-year-old man presents to the emergency department after a motor vehicle accident. The patient has a past medical history of asthma and cocaine use. His current medications include albuterol and ibuprofen. His temperature is 99.5°F (37.5°C), blood pressure is 70/35 mmHg, pulse is 150/min, respirations are 19/min, and oxygen saturation is 98% on room air. On initial trauma evaluation, his airway is intact and he is breathing spontaneously. The patient's dorsalis pedis and radial pulses are palpable bilaterally. His Glasgow Coma Scale is 9. Head to toe examination reveals instability of the pelvis when downwards force is applied. The patient is started on IV fluids and norepinephrine, and a pelvic binder is placed. The patient's vitals are measured again and his temperature is 99.5°F (37.5°C), blood pressure is 100/55 mmHg, pulse is 150/min, respirations are 17/min, and oxygen saturation is 98% on room air. A blood transfusion is started, and the patient is given hydromorphone. The patient suddenly becomes short of breath with notable bilateral wheezing with poor air movement. His blood pressure is 60/35 mmHg and pulse is 160/min. The patient is treated appropriately, intubated, stabilized, and transferred to the surgical intensive care unit. Which of the following is most likely to be found in this patient's history?",
+    "options": {
+      "A": "Hemolytic anemia and ataxia",
+      "B": "Gum disease and poor wound healing",
+      "C": "Irregularly irregular heart rhythm",
+      "D": "Anti-A, B, or O antibodies in the serum"
+    }
+  },
+  "model_response": "The patient's presentation is consistent with severe trauma and hemorrhagic shock. The patient's asthma is exacerbated by his trauma and subsequent hypovolemia. The patient's temperature is normal, but his blood pressure and pulse are indicative of shock. The patient's presentation is consistent with an anaphylactoid reaction. The most common cause of anaphylactoid reactions is iodinated contrast dye. The patient's presentation is also consistent with an anaphylactoid reaction to a medication. The patient's presentation is not consistent with a drug-induced lupus erythematosus reaction, which is more common in older patients and is associated with anti-histone antibodies. The patient's presentation is not consistent with a serum sickness reaction, which is more common in older patients and is associated with anti-nuclear antibodies. The patient's presentation is not consistent with a Goodpasture syndrome reaction, which is more common in young men and is associated with anti-glomerular basement membrane antibodies. The patient's presentation is not consistent with a post-infectious glomerulonephritis reaction, which is more common in young men and is associated with anti-streptococcal antibodies.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "motor vehicle accident",
+      "type": "T037",
+      "umls_id": "C0000932",
+      "score": 0.961533784866333,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Accidents on streets, roads, and highways involving drivers, passengers, pedestrians, or vehicles. Traffic accidents refer to AUTOMOBILES (passenger cars, buses, and trucks), BICYCLING, and MOTORCYCLES but not OFF-ROAD MOTOR VEHICLES; RAILROADS nor snowmobiles."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "cocaine use",
+      "type": "T033",
+      "umls_id": "C0239076",
+      "score": 0.9717860221862793,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "ibuprofen",
+      "type": "T109",
+      "umls_id": "C0020740",
+      "score": 0.9725996851921082,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "trauma",
+      "type": "T037",
+      "umls_id": "C0043251",
+      "score": 0.9664932489395142,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Damage inflicted on the body as the direct or indirect result of an external force, with or without disruption of structural continuity."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "airway",
+      "type": "T074",
+      "umls_id": "C0178987",
+      "score": 0.9872346520423889,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices designed to permit the passage of gases (e.g., air, oxygen) to the lungs while preventing obstruction of the patient's upper airway. These airways include a variety of devices according to the technique used to facilitate the passage of gases, the intended application, and the expected time of use. In emergency and/or for short-time use, esophageal obturation with one- or two-lumen tubes and oropharyngeal artificial airways are typically used. For a few days of intubation, nasopharyngeal artificial airways are the most commonly used devices, while for longer periods (up to three weeks) endotracheal tubes are the preferred devices. When long-term mechanical ventilation is needed, tracheostomy tubes are used. Artificial airways are available in a variety of configurations from newborn to adult sizes."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "spontaneously",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.8442990779876709,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "patient's dorsalis",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pedis",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "radial pulses",
+      "type": "T042",
+      "umls_id": "C0232142",
+      "score": 0.9676663875579834,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Glasgow Coma Scale",
+      "type": "T170",
+      "umls_id": "C0017594",
+      "score": 0.9336101412773132,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A scale that assesses the response to stimuli in patients with craniocerebral injuries. The parameters are eye opening, motor response, and verbal response."
+    },
+    {
+      "text": "toe examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.8521150946617126,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "instability",
+      "type": "T033",
+      "umls_id": "C1444783",
+      "score": 0.9865732192993164,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pelvis",
+      "type": "T023",
+      "umls_id": "C0030797",
+      "score": 0.9743636250495911,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The space or compartment surrounded by the pelvic girdle (bony pelvis). It is subdivided into the greater pelvis and LESSER PELVIS. The pelvic girdle is formed by the PELVIC BONES and SACRUM."
+    },
+    {
+      "text": "downwards force",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "IV fluids",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.8582273125648499,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "norepinephrine",
+      "type": "T109",
+      "umls_id": "C0028351",
+      "score": 0.9764626622200012,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "Precursor of epinephrine that is secreted by the ADRENAL MEDULLA and is a widespread central and autonomic neurotransmitter. Norepinephrine is the principal transmitter of most postganglionic sympathetic fibers, and of the diffuse projection system in the brain that arises from the LOCUS CERULEUS. It is also found in plants and is used pharmacologically as a sympathomimetic."
+    },
+    {
+      "text": "pelvic binder",
+      "type": "T074",
+      "umls_id": "C4708190",
+      "score": 0.9722041487693787,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "measured",
+      "type": "T080",
+      "umls_id": "C0444706",
+      "score": 0.9881680607795715,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having been determined by measurement."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "blood transfusion",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9712764620780945,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hydromorphone",
+      "type": "T109",
+      "umls_id": "C0012306",
+      "score": 0.988197386264801,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An opioid analgesic made from MORPHINE and used mainly as an analgesic. It has a shorter duration of action than morphine."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "wheezing",
+      "type": "T184",
+      "umls_id": "C0043144",
+      "score": 0.9590449929237366,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom and a finding during physical examination, characterized by a high-pitched, whistling sound during breathing. It results from the narrowing or obstruction of the respiratory airways. The most common causes of wheezing are asthma, chronic obstructive pulmonary disease, tracheobronchitis, and pulmonary edema."
+    },
+    {
+      "text": "poor air movement",
+      "type": "T070",
+      "umls_id": "C0001868",
+      "score": 0.8289197683334351,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "The motion of air currents."
+    },
+    {
+      "text": "His blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.8905147314071655,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "intubated",
+      "type": "T033",
+      "umls_id": "C4698386",
+      "score": 0.9586788415908813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stabilized",
+      "type": "T033",
+      "umls_id": "C0184512",
+      "score": 0.9797994494438171,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition did not change and required not further care to maintain condition"
+    },
+    {
+      "text": "transferred",
+      "type": "T169",
+      "umls_id": "C0348011",
+      "score": 0.9822731614112854,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "surgical",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.990713357925415,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "patient's history",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

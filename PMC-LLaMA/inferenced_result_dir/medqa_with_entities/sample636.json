@@ -1,0 +1,187 @@
+{
+  "original_data": {
+    "question": "A 2-day-old boy delivered at 34 weeks gestation is found to have a murmur on routine exam. He is lying supine and is not cyanotic. He has a pulse of 195/min, and respirations of 59/min. He is found to have a nonradiating continuous machine-like murmur at the left upper sternal border. S1 and S2 are normal. The peripheral pulses are bounding. Assuming this patient has no other cardiovascular defects, what is the most appropriate treatment?",
+    "options": {
+      "A": "Indomethacin",
+      "B": "Thiazide diuretic",
+      "C": "Aspirin",
+      "D": "Penicillin"
+    }
+  },
+  "model_response": "This patient most likely has a patent ductus arteriosus (PDA). The continuous machine-like murmur is characteristic. The bounding pulses are secondary to the wide pulse pressure caused by the runoff from the aorta to the ductus. The treatment of choice in a full-term infant without other cardiovascular anomalies is indomethacin. This medication will close the ductus in the majority of patients. If the ductus does not close after 48 hours of indomethacin therapy, surgical ligation and division should be performed. In premature infants, indomethacin may not close the ductus, and surgical intervention may be required at a later time. In older children, the ductus can be closed by open surgical or catheter techniques.\n\nThiazide diuretics are used in the treatment of hypeension and fluid retention. Aspirin is used in the treatment of Kawasaki disease. Penicillin is used in the treatment of infective endocarditis.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "2-day-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "supine",
+      "type": "T082",
+      "umls_id": "C0038846",
+      "score": 0.9549219012260437,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The posture of an individual lying face up."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "nonradiating continuous machine-like murmur",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "left upper",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.8117914199829102,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "S1",
+      "type": "T109",
+      "umls_id": "C0879262",
+      "score": 0.9987967610359192,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "a kind of cancer treatment drug"
+    },
+    {
+      "text": "S2",
+      "type": "T029",
+      "umls_id": "C1179705",
+      "score": 0.9995278120040894,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "peripheral pulses",
+      "type": "T042",
+      "umls_id": "C0232139",
+      "score": 0.9620832800865173,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bounding",
+      "type": "T082",
+      "umls_id": "C0332297",
+      "score": 0.9746332168579102,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "cardiovascular",
+      "type": "T022",
+      "umls_id": "C0007226",
+      "score": 0.9832010865211487,
+      "semantic_types": [
+        "T022"
+      ],
+      "definition": "The HEART and the BLOOD VESSELS by which BLOOD is pumped and circulated through the body."
+    },
+    {
+      "text": "defects",
+      "type": "T169",
+      "umls_id": "C0243067",
+      "score": 0.9783581495285034,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    }
+  ]
+}

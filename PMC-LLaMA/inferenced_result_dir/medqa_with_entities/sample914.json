@@ -1,0 +1,196 @@
+{
+  "original_data": {
+    "question": "A 27-year-old graduate student is bitten by a coral snake while he was hiking alone through the woods and dies 2 hours later from respiratory failure. His body was discovered 7 hours later by a group of campers who promptly called the police. On arrival, the police found his body to be cold and stiff. Which of the following processes is responsible for the rigidity observed?",
+    "options": {
+      "A": "Activation of muscle contraction by neurotoxins",
+      "B": "Effect of low temperature on muscle proteins",
+      "C": "Inhibition of cross-bridge cycling",
+      "D": "Depletion of intracellular calcium"
+    }
+  },
+  "model_response": "The student died of respiratory failure caused by the neurotoxin of the coral snake. Muscles are incapable of contracting without an adequate supply of calcium ions, and the neurotoxin acted to deplete intracellular calcium. The cold temperature of the environment would tend to inhibit muscle contraction by decreasing the activation energy required for the conformational change of the cross-bridge cycle. A muscle in a rigor mortis state is incapable of contracting because of the inhibition of cross-bridge cycling. The activation of muscle contraction by neurotoxins is not a likely process in this case because the student was alone when he was bitten.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "graduate",
+      "type": "T098",
+      "umls_id": "C0588053",
+      "score": 0.966830849647522,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "bitten",
+      "type": "T080",
+      "umls_id": "C0235290",
+      "score": 0.7438154220581055,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a sharp, pungent taste."
+    },
+    {
+      "text": "coral snake",
+      "type": "T014",
+      "umls_id": "C4317053",
+      "score": 0.9410003423690796,
+      "semantic_types": [
+        "T014"
+      ],
+      "definition": "Elapid snakes indigenous to the Southern United States, Central, and South America. They are generally less than 1 meter in length and have colored ring patterns."
+    },
+    {
+      "text": "woods",
+      "type": "T167",
+      "umls_id": "C0043217",
+      "score": 0.9857398271560669,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A product of hard secondary xylem composed of CELLULOSE, hemicellulose, and LIGNANS, that is under the bark of trees and shrubs. It is used in construction and as a source of CHARCOAL and many other products."
+    },
+    {
+      "text": "dies 2 hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.7057161331176758,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "respiratory failure",
+      "type": "T047",
+      "umls_id": "C1145670",
+      "score": 0.9754825830459595,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The significant impairment of gas exchange within the lungs resulting in hypoxia, hypercarbia, or both, to the extent that organ tissue perfusion is severely compromised. Causes include chronic obstructive pulmonary disease, asthma, emphysema, acute respiratory distress syndrome, pneumonia, pulmonary edema, pneumothorax, and congestive heart failure. Treatment requires intubation and mechanical ventilation until the time the lungs recover sufficient function."
+    },
+    {
+      "text": "His body",
+      "type": "T016",
+      "umls_id": "C0242821",
+      "score": 0.752920389175415,
+      "semantic_types": [
+        "T016"
+      ],
+      "definition": "The human being as a non-anatomical and non-zoological entity. The emphasis is on the philosophical or artistic treatment of the human being, and includes lay and social attitudes toward the body in history. (From J. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "campers",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "police",
+      "type": "T097",
+      "umls_id": "C0085098",
+      "score": 0.9958091974258423,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Agents of the law charged with the responsibility of maintaining and enforcing law and order among the citizenry."
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "police",
+      "type": "T097",
+      "umls_id": "C0085098",
+      "score": 0.9958091974258423,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Agents of the law charged with the responsibility of maintaining and enforcing law and order among the citizenry."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "stiff",
+      "type": "T184",
+      "umls_id": "C0221170",
+      "score": 0.9654425978660583,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of tension or tightness in one or more muscles."
+    },
+    {
+      "text": "processes",
+      "type": "T041",
+      "umls_id": "C0025361",
+      "score": 0.8121208548545837,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Conceptual functions or thinking in all its forms."
+    },
+    {
+      "text": "rigidity",
+      "type": "T184",
+      "umls_id": "C0026837",
+      "score": 0.9781013131141663,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Continuous involuntary sustained muscle contraction which is often a manifestation of BASAL GANGLIA DISEASES. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from MUSCLE SPASTICITY. (From Adams et al., Principles of Neurology, 6th ed, p73)"
+    },
+    {
+      "text": "observed",
+      "type": "T169",
+      "umls_id": "C1441672",
+      "score": 0.9848852157592773,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Ascertained or determined through monitoring or observation."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

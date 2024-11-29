@@ -1,0 +1,245 @@
+{
+  "original_data": {
+    "question": "A medical student is preparing a patient for an appendectomy. He is asked by the surgeon to disinfect the patient’s skin with a chlorhexidine-isopropyl alcohol solution before the procedure. Recent studies have shown that this solution substantially reduces the risk of surgical site infections compared with a povidone-iodine preparation without alcohol in clean-contaminated surgery. Which of the following mechanisms best describes the mechanism of action of chlorhexidine?",
+    "options": {
+      "A": "Bactericidal at low concentrations",
+      "B": "Cell wall damage by free radical release",
+      "C": "Attack of free-sulfur amino acids, nucleotides, and fatty acids within the bacteria",
+      "D": "Its activity depends on pH and is greatly reduced in the presence of organic matter"
+    }
+  },
+  "model_response": "The activity of chlorhexidine is not greatly reduced in the presence of organic matter. Chlorhexidine is a relatively slow-acting agent that is bactericidal at low concentrations. Its action depends on the ionic nature of the compound, and thus its activity is enhanced at alkaline pH and is greatly reduced in the presence of organic matter. Chlorhexidine has a good safety profile, although it should not be instilled into ears or used in the immediate period after an acid-base balance has been stabilized. Chlorhexidine is an excellent skin antiseptic and is used commonly for this purpose. It is also used as a mouthwash to reduce oral flora. Povidone-iodine, in contrast, is bactericidal at higher concentrations and is more active in the presence of organic material. It acts by attacking free-sulfur amino acids, nucleotides, and fatty acids within the bacteria. The free iodine within the povidone-iodine preparation is the active component, and its action is enhanced by the addition of an alcohol to the preparation.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "medical",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.991391122341156,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "appendectomy",
+      "type": "T061",
+      "umls_id": "C0003611",
+      "score": 0.9926513433456421,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Surgical removal of the vermiform appendix. (Dorland, 28th ed)"
+    },
+    {
+      "text": "surgeon",
+      "type": "T097",
+      "umls_id": "C0582175",
+      "score": 0.9574177265167236,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Medical practitioners qualified to practice surgery."
+    },
+    {
+      "text": "disinfect",
+      "type": "T061",
+      "umls_id": "C0012683",
+      "score": 0.8470068573951721,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Rendering pathogens harmless through the use of heat, antiseptics, antibacterial agents, etc."
+    },
+    {
+      "text": "patient’s",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9292125701904297,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chlorhexidine-isopropyl alcohol solution",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "procedure",
+      "type": "T061",
+      "umls_id": "C0184661",
+      "score": 0.987176775932312,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An activity that produces an effect, or that is intended to alter the course of a disease in a patient or population. This is a general term that encompasses the medical, social, behavioral, and environmental acts that can have preventive, therapeutic, or palliative effects."
+    },
+    {
+      "text": "studies",
+      "type": "T062",
+      "umls_id": "C0947630",
+      "score": 0.9763050079345703,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": null
+    },
+    {
+      "text": "solution",
+      "type": "T167",
+      "umls_id": "C0037633",
+      "score": 0.9743921160697937,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "The homogeneous mixtures formed by the mixing of a solid, liquid, or gaseous substance (solute) with a liquid (the solvent), from which the dissolved substances can be recovered by physical processes. (From Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "reduces",
+      "type": "T033",
+      "umls_id": "C0392756",
+      "score": 0.7290320992469788,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Made less in size or amount or degree."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "surgical site",
+      "type": "T082",
+      "umls_id": "C0332850",
+      "score": 0.9847617745399475,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The anatomical site on which surgery was performed."
+    },
+    {
+      "text": "infections",
+      "type": "T047",
+      "umls_id": "C0851162",
+      "score": 0.9714444875717163,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "compared",
+      "type": "T052",
+      "umls_id": "C1707455",
+      "score": 0.9827839136123657,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The examination of two or more people or things in order to detect similarities and differences."
+    },
+    {
+      "text": "povidone-iodine",
+      "type": "T109",
+      "umls_id": "C0032857",
+      "score": 0.9556292295455933,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An iodinated polyvinyl polymer used as topical antiseptic in surgery and for skin and mucous membrane infections, also as aerosol. The iodine may be radiolabeled for research purposes."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "clean-contaminated surgery",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chlorhexidine",
+      "type": "T109",
+      "umls_id": "C0008196",
+      "score": 0.9728082418441772,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A disinfectant and topical anti-infective agent used also as mouthwash to prevent oral plaque."
+    }
+  ]
+}

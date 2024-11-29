@@ -1,0 +1,480 @@
+{
+  "original_data": {
+    "question": "A 27-year-old woman comes to the physician because of increasing shortness of breath and a non-productive cough for 2 months. She has been unable to perform her daily activities. She has had malaise and bilateral ankle pain during this period. She noticed her symptoms after returning from a vacation to Arizona. She is a research assistant at the university geology laboratory. She is originally from Nigeria and visits her family there twice a year; her last trip was 3 months ago. Her temperature is 37.8°C (100°F), pulse is 100/min, respirations are 24/min, and blood pressure is 112/72 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 94%. There is no palpable cervical or axillary lymphadenopathy. The lungs are clear to auscultation. Her left eye is notable for ciliary injection and photophobia. The remainder of the examination shows no abnormalities. A complete blood count is within the reference range. An x-ray of the chest is shown. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Sarcoidosis",
+      "B": "Pulmonary tuberculosis",
+      "C": "Hodgkin's lymphoma",
+      "D": "Histoplasmosis"
+    }
+  },
+  "model_response": "The x-ray shows bilateral hilar adenopathy with a \"salt and pepper\" appearance. The cardiac border is clear. There is no parenchymal infiltrate. The clinical findings, including the low oxygen saturation, are consistent with a pulmonary hemorrhage syndrome. The differential diagnosis includes granulomatous diseases such as tuberculosis and sarcoidosis, as well as malignancy and histoplasmosis. The presence of ankle pain and the \"salt and pepper\" appearance of the hila suggest the diagnosis of sarcoidosis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "non-productive cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9727606773376465,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "daily activities",
+      "type": "T056",
+      "umls_id": "C0871707",
+      "score": 0.9752006530761719,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": null
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "bilateral ankle",
+      "type": "T023",
+      "umls_id": "C0230456",
+      "score": 0.9532074928283691,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "returning",
+      "type": "T033",
+      "umls_id": "C0425105",
+      "score": 0.7223616242408752,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Resumption of normal work routine following a hiatus or period of absence due to injury, disability, or other reasons."
+    },
+    {
+      "text": "vacation",
+      "type": "T056",
+      "umls_id": "C0680199",
+      "score": 0.9553497433662415,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Leisure time away from work devoted to rest or pleasure."
+    },
+    {
+      "text": "Arizona",
+      "type": "T083",
+      "umls_id": "C0003787",
+      "score": 0.980118989944458,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State of the UNITED STATES OF AMERICA bounded on the east by New Mexico, on the north by Utah, on the west by Nevada and California, and on the south by Mexico."
+    },
+    {
+      "text": "research",
+      "type": "T062",
+      "umls_id": "C0035168",
+      "score": 0.985704243183136,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Critical and exhaustive investigation or experimentation, having for its aim the discovery of new facts and their correct interpretation, the revision of accepted conclusions, theories, or laws in the light of newly discovered facts, or the practical application of such new or revised conclusions, theories, or laws. (Webster, 3d ed)"
+    },
+    {
+      "text": "assistant",
+      "type": "T097",
+      "umls_id": "C0011327",
+      "score": 0.995733380317688,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals who assist the dentist or the dental hygienist."
+    },
+    {
+      "text": "university geology",
+      "type": "T073",
+      "umls_id": "C0041740",
+      "score": 0.753564715385437,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Educational institutions providing facilities for teaching and research and authorized to grant academic degrees."
+    },
+    {
+      "text": "laboratory",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.9852399826049805,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "Nigeria",
+      "type": "T083",
+      "umls_id": "C0028075",
+      "score": 0.9790048599243164,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A republic in western Africa, south of NIGER between BENIN and CAMEROON. Its capital is Abuja."
+    },
+    {
+      "text": "visits",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9925670623779297,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.9935671091079712,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "trip",
+      "type": "T116",
+      "umls_id": "C0077275",
+      "score": 0.9809439182281494,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH). Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion. After chronic, continuous administration, this agent effects sustained decreases in LH and FSH production and testicular and ovarian steroidogenesis. Serum testosterone concentrations may fall to levels typically observed in surgically castrated men. (NCI04)"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cervical",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9779219031333923,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "axillary lymphadenopathy",
+      "type": "T046",
+      "umls_id": "C0578735",
+      "score": 0.9857603311538696,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A clinical finding indicating the enlargement of the lymph nodes in the axillary region. It may be caused by infections, systemic diseases, or cancer."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "left eye",
+      "type": "T023",
+      "umls_id": "C0229090",
+      "score": 0.9813959002494812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The eye positioned in the left orbit."
+    },
+    {
+      "text": "ciliary",
+      "type": "T023",
+      "umls_id": "C0229167",
+      "score": 0.8576728105545044,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An annular zone of the ciliary body continuous with the retina at the ora serrata and covered with ciliary plicae."
+    },
+    {
+      "text": "injection",
+      "type": "T061",
+      "umls_id": "C0021485",
+      "score": 0.9671467542648315,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "photophobia",
+      "type": "T184",
+      "umls_id": "C0085636",
+      "score": 0.9786372780799866,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Abnormal sensitivity to light. This may occur as a manifestation of EYE DISEASES; MIGRAINE; SUBARACHNOID HEMORRHAGE; MENINGITIS; and other disorders. Photophobia may also occur in association with DEPRESSION and other MENTAL DISORDERS."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "blood count",
+      "type": "T059",
+      "umls_id": "C0005771",
+      "score": 0.8614948391914368,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of LEUKOCYTES and ERYTHROCYTES per unit volume in a sample of venous BLOOD. A complete blood count (CBC) also includes measurement of the HEMOGLOBIN; HEMATOCRIT; and ERYTHROCYTE INDICES."
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

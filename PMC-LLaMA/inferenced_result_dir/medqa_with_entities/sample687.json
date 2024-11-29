@@ -1,0 +1,250 @@
+{
+  "original_data": {
+    "question": "A 31-year-old woman comes to the physician because of dragging pelvic pain and a 3 kg (6 lb 9 oz) weight loss over the past 6 months. Menses occur at irregular 30- to 45-day intervals; her last menstrual period was 5 weeks ago. Her temperature is 38°C (100.4°F), heart rate is 102/min, and blood pressure is 128/84 mm Hg. Physical examination shows hyperreflexia. Urine pregnancy test is negative. Ultrasonography shows a 6-cm hypoechoic adnexal mass. This adnexal mass is most likely derived from which of the following cell types?",
+    "options": {
+      "A": "Germ cells",
+      "B": "Chorionic epithelial cells",
+      "C": "Endometrial cells",
+      "D": "Stromal cells"
+    }
+  },
+  "model_response": "The most common ovarian tumor in a woman of reproductive age is a benign cystic teratoma (dermoid cyst). These are derived from germ cells. The other tumors listed are derived from other cell types.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "dragging",
+      "type": "T033",
+      "umls_id": "C0229197",
+      "score": 0.7869089841842651,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A crease in the retina."
+    },
+    {
+      "text": "pelvic pain",
+      "type": "T184",
+      "umls_id": "C0030794",
+      "score": 0.9685612916946411,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the pelvic region of genital and non-genital origin."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "Menses",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9790869355201721,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "intervals",
+      "type": "T079",
+      "umls_id": "C1272706",
+      "score": 0.96578049659729,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time period, or other type of interval, during which something may be achieved, obtained or observed."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "hyperreflexia",
+      "type": "T033",
+      "umls_id": "C0151889",
+      "score": 0.978400707244873,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Autonomic nervous system overreaction to stimuli, most commonly after spinal cord injury at a T-5 level and above."
+    },
+    {
+      "text": "Urine pregnancy test",
+      "type": "T059",
+      "umls_id": "C0430056",
+      "score": 0.9804611802101135,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Ultrasonography",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9924961924552917,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "hypoechoic adnexal mass",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "adnexal mass",
+      "type": "T190",
+      "umls_id": "C0149614",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T190"
+      ],
+      "definition": "An abnormal growth in the ovary, fallopian tube, or surrounding connective tissue."
+    },
+    {
+      "text": "cell types",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9867391586303711,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "31-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

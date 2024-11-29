@@ -1,0 +1,352 @@
+{
+  "original_data": {
+    "question": "A 35-year-old woman presents to the physician because of episodes of difficulty swallowing for the past 3 months. She feels solid food getting stuck in her chest behind the sternum. She does not have any issues with liquids. She has no coughing or nasal regurgitation. She has no hoarseness or weight loss. She reports occasional heartburn that has lasted for about a year. Her past medical history is significant for asthma and eczema. She has no history of any serious illness and takes no medications. Her vital signs are within normal limits. Physical examination shows no abnormal findings. An endoscopic image of the esophagus is shown. Mucosal biopsy shows eosinophilic infiltration. Which of the following is the most appropriate pharmacotherapy at this time?",
+    "options": {
+      "A": "Budesonide",
+      "B": "Fluconazole",
+      "C": "Nitroglycerin",
+      "D": "Omeprazole"
+    }
+  },
+  "model_response": "The image shows a ring-like narrowing in the distal esophagus, known as a Schatzki ring. This is a disorder characterized by intermittent episodes of food impaction. The episodes of food impaction are precipitated by the presence of an esophageal smooth muscle spasm or a lack of propulsive force in the esophagus. The lack of propulsive force can be caused by ineffective esophageal motility or a lack of opening of the lower esophageal sphincter. The eosinophilic infiltration seen on biopsy is consistent with the diagnosis of eosinophilic esophagitis. This is an allergic inflammatory disorder that is increasingly being diagnosed in children and adults. The treatment of eosinophilic esophagitis includes the use of high-dose antihistamines, such as cetirizine, and the use of glucocorticoids, such as budesonide. Fluconazole is used to treat fungal infections of the esophagus. Nitroglycerin is used to treat angina pectoris. Omeprazole is a proton pump inhibitor used to treat gastroesophageal reflux disease.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "episodes of",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.881741464138031,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "difficulty swallowing",
+      "type": "T047",
+      "umls_id": "C0011168",
+      "score": 0.9734892249107361,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Difficulty in SWALLOWING which may result from neuromuscular disorder or mechanical obstruction. Dysphagia is classified into two distinct types: oropharyngeal dysphagia due to malfunction of the PHARYNX and UPPER ESOPHAGEAL SPHINCTER; and esophageal dysphagia due to malfunction of the ESOPHAGUS."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "solid food",
+      "type": "T168",
+      "umls_id": "C0453855",
+      "score": 0.9931538105010986,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": null
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "sternum",
+      "type": "T023",
+      "umls_id": "C0038293",
+      "score": 0.9604005217552185,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A long, narrow, and flat bone commonly known as BREASTBONE occurring in the midsection of the anterior thoracic segment or chest region, which stabilizes the rib cage and serves as the point of origin for several muscles that move the arms, head, and neck."
+    },
+    {
+      "text": "issues",
+      "type": "T170",
+      "umls_id": "C3245461",
+      "score": 0.8038495779037476,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>**Description:**Result set should be filtered to only include records with associated issues.</p>"
+    },
+    {
+      "text": "liquids",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9911609888076782,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "nasal regurgitation",
+      "type": "T184",
+      "umls_id": "C0232608",
+      "score": 0.954617977142334,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Regurgitation of milk through the nose. [DDD:ncarter]"
+    },
+    {
+      "text": "hoarseness",
+      "type": "T184",
+      "umls_id": "C0019825",
+      "score": 0.9738039374351501,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unnaturally deep or rough quality of voice."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "heartburn",
+      "type": "T184",
+      "umls_id": "C0018834",
+      "score": 0.948246419429779,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Substernal pain or burning sensation, usually associated with regurgitation of gastric juice into the esophagus."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "eczema",
+      "type": "T047",
+      "umls_id": "C0013595",
+      "score": 0.9661315083503723,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A pruritic papulovesicular dermatitis occurring as a reaction to many endogenous and exogenous agents (Dorland, 27th ed)."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abnormal",
+      "type": "T033",
+      "umls_id": "C0205161",
+      "score": 0.9744299054145813,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Deviating in any way from the state, position, structure, condition, behavior, or rule which is considered a norm."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "endoscopic image",
+      "type": "T060",
+      "umls_id": "C0014245",
+      "score": 0.8134812116622925,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures of applying ENDOSCOPES for disease diagnosis and treatment. Endoscopy involves passing an optical instrument through a small incision in the skin i.e., percutaneous; or through a natural orifice and along natural body pathways such as the digestive tract; and/or through an incision in the wall of a tubular structure or organ, i.e. transluminal, to examine or perform surgery on the interior parts of the body."
+    },
+    {
+      "text": "esophagus",
+      "type": "T023",
+      "umls_id": "C0014876",
+      "score": 0.9765878915786743,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The muscular membranous segment between the PHARYNX and the STOMACH in the UPPER GASTROINTESTINAL TRACT."
+    },
+    {
+      "text": "Mucosal biopsy",
+      "type": "T060",
+      "umls_id": "C0852695",
+      "score": 0.9749134182929993,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of mucosal tissue for microscopic examination."
+    },
+    {
+      "text": "eosinophilic",
+      "type": "T169",
+      "umls_id": "C0333930",
+      "score": 0.974848747253418,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "infiltration",
+      "type": "T046",
+      "umls_id": "C0332448",
+      "score": 0.9400744438171387,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The process of the diffusion or accumulation in a tissue or cells of a substance not normal to it or in amounts above normal. (NCI)"
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

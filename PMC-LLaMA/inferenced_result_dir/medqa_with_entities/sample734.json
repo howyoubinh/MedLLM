@@ -1,0 +1,405 @@
+{
+  "original_data": {
+    "question": "A 10-year-old girl is brought to a clinic by her parents after 1 week of difficulty breathing, dry cough, and low-grade fevers. She has also developed shallow erythematous ulcers inside of her mouth. There is no history of chills, rigors, or headaches. Her appetite has decreased. The girl has been HIV-positive since birth and is being treated with HAART. Her baseline viral load is <50/mL. On general examination, the girl appears ill. Diffuse inspiratory crackles are heard on chest auscultation with normal heart sounds. No lymphadenopathy or hepatosplenomegaly is noted on physical examination. A blood sample is drawn, which shows a CD4 count of 100/mm3 and a viral load of 25,050/mL. What is the most likely mechanism responsible for the lack of responsiveness to therapy?",
+    "options": {
+      "A": "Ineffective CD8 cytotoxicity",
+      "B": "env gene mutation",
+      "C": "pol gene mutation",
+      "D": "Decreased viral replication"
+    }
+  },
+  "model_response": "The development of resistance to antiretroviral drugs is an increasingly common problem with the use of HAART. Resistance is most commonly due to mutations in the reverse transcriptase enzyme, which can be detected by PCR. Resistance mutations can also occur in the viral protease and env genes. The development of resistance to multiple drugs necessitates the use of complicated drug regimens. The patient in the question likely has a resistant form of HIV and therefore her symptoms are not due to the HAART therapy. The most likely cause of her symptoms is a decrease in CD4 count, which predisposes her to opportunistic infections. The lack of CD8 cytotoxicity would not cause a lack of response to HAART. An env gene mutation would not cause a lack of response to HAART. A pol gene mutation would not cause a lack of response to HAART. Decreased viral replication would not cause a lack of response to HAART.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "difficulty breathing",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.980121910572052,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "dry cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9643693566322327,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "low-grade",
+      "type": "T191",
+      "umls_id": "C1518005",
+      "score": 0.8834829926490784,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A precancerous neoplastic process that affects the cervical squamous epithelium without evidence of invasion. It is usually associated with human papillomavirus infection. It is characterized by the presence of mild atypia in the superficial epithelial layer that may be associated with koilocytosis. Maturation is present in the upper two thirds of the epithelium. Mitotic figures are not numerous and are present in the basal third of the epithelium."
+    },
+    {
+      "text": "fevers",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9832536578178406,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "shallow erythematous ulcers",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mouth",
+      "type": "T030",
+      "umls_id": "C0226896",
+      "score": 0.9870113730430603,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The oval-shaped oral cavity located at the apex of the digestive tract and consisting of two parts: the vestibule and the oral cavity proper."
+    },
+    {
+      "text": "no history of",
+      "type": "T080",
+      "umls_id": "C0332122",
+      "score": 0.9844964146614075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rigors",
+      "type": "T184",
+      "umls_id": "C0424790",
+      "score": 0.981951892375946,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Severe chills accompanied by vigorous shaking."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "appetite",
+      "type": "T040",
+      "umls_id": "C0003618",
+      "score": 0.9883872270584106,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Natural recurring desire for food. Alterations may be induced by APPETITE DEPRESSANTS or APPETITE STIMULANTS."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "HIV-positive",
+      "type": "T034",
+      "umls_id": "C0019699",
+      "score": 0.7515782713890076,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "Development of neutralizing antibodies in individuals who have been exposed to the human immunodeficiency virus (HIV/HTLV-III/LAV)."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "HAART",
+      "type": "T061",
+      "umls_id": "C0887947",
+      "score": 0.946277379989624,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Drug regimens, for patients with HIV INFECTIONS, that aggressively suppress HIV replication. The regimens usually involve administration of three or more different drugs including a protease inhibitor."
+    },
+    {
+      "text": "baseline",
+      "type": "T122",
+      "umls_id": "C0168634",
+      "score": 0.9804818034172058,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": null
+    },
+    {
+      "text": "viral load",
+      "type": "T033",
+      "umls_id": "C0376705",
+      "score": 0.960776150226593,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The quantity of measurable virus in a body fluid. Change in viral load, measured in plasma, is sometimes used as a SURROGATE MARKER in disease progression."
+    },
+    {
+      "text": "general examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.8069860339164734,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Diffuse inspiratory crackles",
+      "type": "T033",
+      "umls_id": "C0577961",
+      "score": 0.8341410160064697,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Crackles that are heard during the inspiratory phase. [PMID:26229557]"
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "normal heart sounds",
+      "type": "T033",
+      "umls_id": "C0577821",
+      "score": 0.9802064299583435,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "No lymphadenopathy",
+      "type": "T033",
+      "umls_id": "C0558762",
+      "score": 0.9889369010925293,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "type": "T184",
+      "umls_id": "C0019214",
+      "score": 0.9937257170677185,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal enlargement of both the liver and spleen."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "blood sample",
+      "type": "T031",
+      "umls_id": "C0178913",
+      "score": 0.9927552938461304,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A small volume of blood removed for testing or storage."
+    },
+    {
+      "text": "CD4 count",
+      "type": "T059",
+      "umls_id": "C0243009",
+      "score": 0.9559555649757385,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of CD4-POSITIVE T-LYMPHOCYTES per unit volume of BLOOD. Determination requires the use of a fluorescence-activated flow cytometer."
+    },
+    {
+      "text": "100/mm3",
+      "type": "T034",
+      "umls_id": "C1709221",
+      "score": 0.7076535224914551,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "Indicates a neutrophil count of at least 1000 per cubic millimeter."
+    },
+    {
+      "text": "viral load",
+      "type": "T033",
+      "umls_id": "C0376705",
+      "score": 0.960776150226593,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The quantity of measurable virus in a body fluid. Change in viral load, measured in plasma, is sometimes used as a SURROGATE MARKER in disease progression."
+    },
+    {
+      "text": "25,050/mL.",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "lack",
+      "type": "T080",
+      "umls_id": "C0332268",
+      "score": 0.9926170110702515,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "responsiveness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "10-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

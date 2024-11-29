@@ -1,0 +1,240 @@
+{
+  "original_data": {
+    "question": "A 7-year-old boy is brought to the physician by his mother for evaluation of progressively worsening swelling around the eyes. He has no history of major medical illness. He had a sore throat and cough 2 weeks ago that resolved spontaneously. Physical examination shows moderate periorbital edema and 2+ pitting edema of the lower extremities bilaterally. A kidney biopsy specimen shows effacement of the podocytes on electron microscopy. Which of the following is most likely to be found on urinalysis?",
+    "options": {
+      "A": "Hyaline casts and immunoglobulins",
+      "B": "Fatty casts and albumin",
+      "C": "White blood cell casts and eosinophils",
+      "D": "Granular casts and tubular epithelial cells"
+    }
+  },
+  "model_response": "The patient has nephrotic syndrome. The most common cause in children is minimal change disease, which is characterized by effacement of the podocyte foot processes on electron microscopy. The loss of anionic sites on the podocytes results in selective proteinuria of low molecular weight proteins (albumin, 70 kD) and thus hypoalbuminemia. The urine shows heavy proteinuria (nephrotic range >3 g/d), which results in hypoalbuminemia (serum albumin <2.5 g/dL). The resultant fall in plasma oncotic pressure leads to interstitial edema and thus to a rise in plasma hyaluronic acid. The urine also shows large amounts of hyaline casts. Immunoglobulin excretion is increased in some patients with minimal change disease (up to 1 to 2 g/d), but is not a feature of the disease that leads to the presentation in this case. Fatty casts and albumin are features of the nephrotic syndrome, but are not specific for minimal change disease. White blood cell casts and eosinophils are features of acute pyelonephritis. Granular casts and tubular epithelial cells are features of acute tubular necrosis.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "medical illness",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.7010193467140198,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "sore throat",
+      "type": "T047",
+      "umls_id": "C0031350",
+      "score": 0.9937487840652466,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammation of the throat (PHARYNX)."
+    },
+    {
+      "text": "cough 2 weeks",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "spontaneously",
+      "type": "T169",
+      "umls_id": "C0205359",
+      "score": 0.8442990779876709,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Happening or arising without apparent external cause."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "moderate",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.9828923940658569,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "periorbital edema",
+      "type": "T046",
+      "umls_id": "C0151205",
+      "score": 0.9701411724090576,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Swelling due to an excessive accumulation of fluid around the orbits of the face."
+    },
+    {
+      "text": "2+ pitting edema",
+      "type": "T033",
+      "umls_id": "C0333243",
+      "score": 0.9036990404129028,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling due to excessive accumulation of fluid under the skin defined by a persistent indentation when pressure is applied to the swollen area. Causes include systemic conditions (e.g., heart failure, liver failure, or kidney failure) and local conditions affecting the extremities."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "kidney biopsy",
+      "type": "T060",
+      "umls_id": "C0194073",
+      "score": 0.980898380279541,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the kidney, for microscopic examination."
+    },
+    {
+      "text": "podocytes",
+      "type": "T025",
+      "umls_id": "C1328818",
+      "score": 0.9862922430038452,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A modified epithelial cell of the capsular epithelium of the renal glomerulus. It has a small perikaryon and a number of primary and secondary foot-like radiating processes (pedicels) that interdigitate with those of other podocytes and embrace the basal lamina of glomerular capillaries."
+    },
+    {
+      "text": "electron microscopy",
+      "type": "T059",
+      "umls_id": "C0026019",
+      "score": 0.988995373249054,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Microscopy using an electron beam, instead of light, to visualize the sample, thereby allowing much greater magnification. The interactions of ELECTRONS with specimens are used to provide information about the fine structure of that specimen. In TRANSMISSION ELECTRON MICROSCOPY the reactions of the electrons that are transmitted through the specimen are imaged. In SCANNING ELECTRON MICROSCOPY an electron beam falls at a non-normal angle on the specimen and the image is derived from the reactions occurring above the plane of the specimen."
+    },
+    {
+      "text": "urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "7-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

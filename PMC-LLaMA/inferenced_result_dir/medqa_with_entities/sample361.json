@@ -1,0 +1,325 @@
+{
+  "original_data": {
+    "question": "A 6-day-old male newborn is brought to the physician because he has become increasingly irritable and restless over the past 2 days. During this period, he has had 12 bowel movements. He feeds 10 to 12 times a day. He was born at 38 weeks' gestation and weighed 1800 g (3 lb 15 oz); he currently weighs 1700 g (3 lb 12 oz). His mother has Graves' disease and received propylthiouracil during the last trimester of pregnancy. She has a history of intravenous heroin use. His temperature is 36.9°C (98.4°F), pulse is 180/min, and respirations are 50/min. Examination shows mild diaphoresis and a firm 2-cm midline neck swelling. The lungs are clear to auscultation. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Methimazole and propranolol therapy",
+      "B": "Potassium iodide therapy",
+      "C": "Naloxone therapy",
+      "D": "Calcium gluconate therapy"
+    }
+  },
+  "model_response": "The clinical findings are most consistent with neonatal thyrotoxicosis. This is a rare condition that occurs in newborns of mothers with Graves' disease who have been treated with propylthiouracil. The onset of symptoms usually occurs on the first day of life. The diagnosis is confirmed by demonstrating elevated serum unbound thyroxine levels. Treatment consists of propranolol, 2 mg/kg per dose every 4 hours, to control the symptoms of increased sympathetic tone. Methimazole is also given at a dosage of 0.2 mg/kg per day. In addition, the newborn should be given prophylactic treatment for candidiasis.\n\nThe treatment of thyrotoxicosis with iodides or thyroidectomy is contraindicated in the newborn because these measures may precipitate thyroid crisis. Calcium gluconate therapy is used in thyrotoxic crisis, not in the treatment of neonatal thyrotoxicosis. Naloxone is used to reverse the effects of opioid use.\n\nThe firm midline neck mass is a enlarged thyroid gland. The increased thyroid hormone levels may cause tachycardia and hypertension. The increased metabolic rate may cause increased insensible water loss and diaphoresis.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "6-day-old",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "restless",
+      "type": "T184",
+      "umls_id": "C0085631",
+      "score": 0.9626700282096863,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of restlessness associated with unpleasant feelings of irritability and tension. Causes include pain, stress, fever, alcohol and nicotine withdrawal, cocaine and hallucinogenic drugs use, depression, bipolar disorders, and schizophrenia."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "bowel movements",
+      "type": "T040",
+      "umls_id": "C0011135",
+      "score": 0.9731019735336304,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The normal process of elimination of fecal material from the RECTUM."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "weighs",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7179433107376099,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "Graves' disease",
+      "type": "T047",
+      "umls_id": "C0018213",
+      "score": 0.9502441883087158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hyperthyroidism associated with diffuse hyperplasia of the thyroid gland (goiter), resulting from production of antibodies that are directed against the thyrotropin receptor complex of the follicular epithelial cells. As a result, the thyroid gland enlarges and secretes increased amounts of thyroid hormones."
+    },
+    {
+      "text": "propylthiouracil",
+      "type": "T114",
+      "umls_id": "C0033511",
+      "score": 0.9779853820800781,
+      "semantic_types": [
+        "T114",
+        "T121"
+      ],
+      "definition": "A thiourea antithyroid agent. Propythiouracil inhibits the synthesis of thyroxine and inhibits the peripheral conversion of throxine to tri-iodothyronine. It is used in the treatment of hyperthyroidism. (From Martindale, The Extra Pharmacopeoia, 30th ed, p534)"
+    },
+    {
+      "text": "trimester",
+      "type": "T079",
+      "umls_id": "C0032982",
+      "score": 0.9801682233810425,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The three approximately equal periods of a normal human PREGNANCY. Each trimester is about three months or 13 to 14 weeks in duration depending on the designation of the first day of gestation."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "intravenous",
+      "type": "T082",
+      "umls_id": "C0348016",
+      "score": 0.9687822461128235,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "heroin",
+      "type": "T109",
+      "umls_id": "C0011892",
+      "score": 0.9867653250694275,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "A narcotic analgesic that may be habit-forming. It is a controlled substance (opium derivative) listed in the U.S. Code of Federal Regulations, Title 21 Parts 329.1, 1308.11 (1987). Sale is forbidden in the United States by Federal statute. (Merck Index, 11th ed)"
+    },
+    {
+      "text": "use",
+      "type": "T169",
+      "umls_id": "C0042153",
+      "score": 0.9852904677391052,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with equipment, facilities, programs, services, and health personnel for discussions, usually with data, of how much they are used. It includes discussions of overuse and underuse."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mild diaphoresis",
+      "type": "T033",
+      "umls_id": "C0700590",
+      "score": 0.8442463278770447,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Profuse sweating."
+    },
+    {
+      "text": "midline neck swelling",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "original_data": {
+    "question": "A 34-year-old male suffers from inherited hemophilia A. He and his wife have three unaffected daughters. What is the probability that the second daughter is a carrier of the disease?",
+    "options": {
+      "A": "0%",
+      "B": "25%",
+      "C": "50%",
+      "D": "100%"
+    }
+  },
+  "model_response": "The probability that the second daughter is a carrier of the disease is 25%. This is because each child has a 50% chance of being a carrier and the order of birth does not affect the probability.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male suffers",
+      "type": "T048",
+      "umls_id": "C0683278",
+      "score": 0.7716025710105896,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "State of severe distress associated with events that threaten the intactness of the person, can be physical, mental, or emotional."
+    },
+    {
+      "text": "inherited",
+      "type": "T169",
+      "umls_id": "C0439660",
+      "score": 0.9524103999137878,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Transmitted through genes from parents to offspring. (genome.gov)"
+    },
+    {
+      "text": "hemophilia",
+      "type": "T047",
+      "umls_id": "C0019069",
+      "score": 0.9889121651649475,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The classic hemophilia resulting from a deficiency of factor VIII. It is an inherited disorder of blood coagulation characterized by a permanent tendency to hemorrhage."
+    },
+    {
+      "text": "A. He",
+      "type": "T047",
+      "umls_id": "C0013902",
+      "score": 0.7022734880447388,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An intrinsic defect of erythrocytes inherited as an autosomal dominant trait. The erythrocytes assume an oval or elliptical shape."
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "unaffected daughters",
+      "type": "T077",
+      "umls_id": "C2986417",
+      "score": 0.7017505168914795,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "This term applies to a family member in whom the diagnosis that is the primary focus of investigation is excluded. []"
+    },
+    {
+      "text": "probability",
+      "type": "T081",
+      "umls_id": "C0033204",
+      "score": 0.9757341146469116,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The study of chance processes or the relative frequency characterizing a chance process."
+    },
+    {
+      "text": "carrier",
+      "type": "T033",
+      "umls_id": "C0007294",
+      "score": 0.976212739944458,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An individual who carries an inheritable genetic mutation without manifestation of the associated condition."
+    },
+    {
+      "text": "disease",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9868216514587402,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

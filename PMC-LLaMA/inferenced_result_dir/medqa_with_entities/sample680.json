@@ -1,0 +1,325 @@
+{
+  "original_data": {
+    "question": "A 25-year-old man presents to the office because of extreme fatigue for the past 2 days. He is also worried about his skin looking yellow. He does not have any other complaints and denies fever and headache. He admits to using illicit intravenous drugs in the past. He does not have any immunization records because he moved from Africa to the US at the age of 18. His vital signs are as follows: heart rate 72/min, respiratory rate 14/min, temperature 37.9°C (100.2°F), and blood pressure 100/74 mm Hg. Physical examination is not significant except for mild diffuse abdominal tenderness. His blood is drawn for routine tests and shows an alanine aminotransferase level (ALT) of 2,000 IU/L. A hepatitis viral panel is ordered which shows:\nAnti-HAV IgM negative\nHBsAg positive\nAnti-HBs negative\nIgM anti-HBc positive\nAnti-HCV negative\nAnti-HDV negative\nWhat is the most likely diagnosis?",
+    "options": {
+      "A": "Past hepatitis B infection",
+      "B": "Acute hepatitis A",
+      "C": "Acute hepatitis D superinfection",
+      "D": "Acute hepatitis B"
+    }
+  },
+  "model_response": "This patient has evidence of a current hepatitis B infection (positive HBsAg) with a negative anti-HBs (which would be positive if immunity from a prior infection was present). The positive IgM anti-HBc indicates acute infection. The absence of anti-HCV rules out acute hepatitis C infection. The absence of anti-HDV rules out acute hepatitis D infection. The most likely diagnosis is acute hepatitis B.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "skin looking",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "denies fever",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "illicit intravenous drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.7107441425323486,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "immunization records",
+      "type": "T061",
+      "umls_id": "C0020971",
+      "score": 0.7614030838012695,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Deliberate stimulation of the host's immune response. ACTIVE IMMUNIZATION involves administration of ANTIGENS or IMMUNOLOGIC ADJUVANTS. PASSIVE IMMUNIZATION involves administration of IMMUNE SERA or LYMPHOCYTES or their extracts (e.g., transfer factor, immune RNA) or transplantation of immunocompetent cell producing tissue (thymus or bone marrow)."
+    },
+    {
+      "text": "moved",
+      "type": "T169",
+      "umls_id": "C1269909",
+      "score": 0.9783155918121338,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Africa",
+      "type": "T083",
+      "umls_id": "C0001737",
+      "score": 0.9684620499610901,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "The continent south of EUROPE, east of the ATLANTIC OCEAN and west of the INDIAN OCEAN."
+    },
+    {
+      "text": "US",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9488214254379272,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mild diffuse",
+      "type": "T082",
+      "umls_id": "C0205219",
+      "score": 0.7766000628471375,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Widely spread; not localized or confined."
+    },
+    {
+      "text": "His blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.790098249912262,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "routine tests",
+      "type": "T060",
+      "umls_id": "C0696216",
+      "score": 0.7572842240333557,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A multiple puncture tuberculin skin test in which tuberculin antigen (either purified protein derivative or old) is pushed into the skin via a device containing 4-6 needles that are coated in tuberculin antigen."
+    },
+    {
+      "text": "alanine aminotransferase level",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.8945274353027344,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "ALT",
+      "type": "T116",
+      "umls_id": "C0001899",
+      "score": 0.9907079935073853,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of L-alanine and 2-oxoglutarate to pyruvate and L-glutamate. (From Enzyme Nomenclature, 1992) EC 2.6.1.2."
+    },
+    {
+      "text": "hepatitis viral panel",
+      "type": "T047",
+      "umls_id": "C0019159",
+      "score": 0.8416498899459839,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "INFLAMMATION of the LIVER in humans caused by a member of the HEPATOVIRUS genus, HUMAN HEPATITIS A VIRUS. It can be transmitted through fecal contamination of food or water."
+    },
+    {
+      "text": "ordered",
+      "type": "T080",
+      "umls_id": "C1705176",
+      "score": 0.992306649684906,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A logical or comprehensible arrangement of separate elements; a condition of regular or proper arrangement."
+    },
+    {
+      "text": "Anti-HAV IgM",
+      "type": "T116",
+      "umls_id": "C0062524",
+      "score": 0.803012490272522,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "An antibody produced by B lymphocytes in response to hepatitis A enteroviral infection."
+    },
+    {
+      "text": "anti-HBc",
+      "type": "T116",
+      "umls_id": "C0312631",
+      "score": 0.9246112704277039,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "An antibody produced by B lymphocytes to the hepatitis B core antigen as part of the immune response to hepatitis B viral infection."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

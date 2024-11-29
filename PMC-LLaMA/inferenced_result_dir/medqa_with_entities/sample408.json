@@ -1,0 +1,456 @@
+{
+  "original_data": {
+    "question": "A 42-year-old man comes to the physician after elevated liver function tests were found after a routine screening. He has had occasional headaches over the past year, but otherwise feels well. The patient reports that he was involved in a severe car accident 30 years ago. He does not smoke or drink alcohol. He has never used illicit intravenous drugs. He takes no medications and has no known allergies. His father had a history of alcoholism and died of liver cancer. The patient appears thin. His temperature is 37.8°C (100°F), pulse is 100/min, and blood pressure is 110/70 mm Hg. Physical examination shows no abnormalities. Laboratory studies show:\nHemoglobin 14 g/dL\nLeukocyte count 10,000/mm3\nPlatelet count 146,000/mm3\nSerum\nGlucose 150 mg/dL\nAlbumin 3.2 g/dL\nTotal bilirubin 1.5 mg/dL\nAlkaline phosphatase 75 U/L\nAST 95 U/L\nALT 73 U/L\nHIV negative\nHepatitis B surface antigen negative\nHepatitis C antibody positive\nHCV RNA positive\nHCV genotype 1\nA liver biopsy is performed and shows mononuclear infiltrates that are limited to portal tracts and periportal hepatocyte necrosis. Which of the following is the most appropriate next step in management?\"",
+    "options": {
+      "A": "Sofosbuvir and ledipasvir therapy",
+      "B": "Tenofovir and velpatasvir therapy",
+      "C": "Interferon and ribavirin therapy",
+      "D": "Tenofovir and entecavir therapy"
+    }
+  },
+  "model_response": "{'A': 'RETIRED'}\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "liver function",
+      "type": "T042",
+      "umls_id": "C0232741",
+      "score": 0.9688520431518555,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "physiological activity and functions of the liver, including production of bile, removal of glucose from blood, destruction or transformation of toxic compounds, and production of various blood proteins."
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "screening",
+      "type": "T060",
+      "umls_id": "C0199230",
+      "score": 0.9829955697059631,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures performed on people to identify those who have NEOPLASMS or PRENEOPLASTIC CONDITIONS."
+    },
+    {
+      "text": "occasional",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.9617764949798584,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "patient reports",
+      "type": "T170",
+      "umls_id": "C0747307",
+      "score": 0.9660993218421936,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An indication that the patient provides information about their vital signs, status, or subjective feelings. Some systems also consider information reported by the patient's family or guardian as patient-reported."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "car accident",
+      "type": "T067",
+      "umls_id": "C1367973",
+      "score": 0.9835779070854187,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "An accident occurring while aboard, or involving, an automobile."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drink",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9850457310676575,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "illicit intravenous drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.7107441425323486,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "allergies",
+      "type": "T046",
+      "umls_id": "C0020517",
+      "score": 0.9737498760223389,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen."
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "alcoholism",
+      "type": "T048",
+      "umls_id": "C0001973",
+      "score": 0.9889821410179138,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A primary, chronic disease with genetic, psychosocial, and environmental factors influencing its development and manifestations. The disease is often progressive and fatal. It is characterized by impaired control over drinking, preoccupation with the drug alcohol, use of alcohol despite adverse consequences, and distortions in thinking, most notably denial. Each of these symptoms may be continuous or periodic. (Morse & Flavin for the Joint Commission of the National Council on Alcoholism and Drug Dependence and the American Society of Addiction Medicine to Study the Definition and Criteria for the Diagnosis of Alcoholism: in JAMA 1992;268:1012-4)"
+    },
+    {
+      "text": "died",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.975152313709259,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "liver cancer",
+      "type": "T191",
+      "umls_id": "C0279000",
+      "score": 0.9816758632659912,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A carcinoma that arises from the hepatocytes or intrahepatic bile ducts. The main subtypes are hepatocellular carcinoma (hepatoma) and cholangiocarcinoma."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Serum\nGlucose 150",
+      "type": "T059",
+      "umls_id": "C0202041",
+      "score": 0.8844131231307983,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of glucose present in a sample of serum."
+    },
+    {
+      "text": "Hepatitis B surface antigen",
+      "type": "T116",
+      "umls_id": "C0019168",
+      "score": 0.9786869287490845,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Those hepatitis B antigens found on the surface of the Dane particle and on the 20 nm spherical and tubular particles. Several subspecificities of the surface antigen are known. These were formerly called the Australia antigen."
+    },
+    {
+      "text": "Hepatitis C antibody",
+      "type": "T116",
+      "umls_id": "C0166049",
+      "score": 0.9826622605323792,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Antibodies to the HEPATITIS C ANTIGENS including antibodies to envelope, core, and non-structural proteins."
+    },
+    {
+      "text": "HCV",
+      "type": "T047",
+      "umls_id": "C0019196",
+      "score": 0.9888982772827148,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "INFLAMMATION of the LIVER in humans caused by HEPATITIS C VIRUS, a single-stranded RNA virus. Its incubation period is 30-90 days. Hepatitis C is transmitted primarily by contaminated blood parenterally and is often associated with transfusion and intravenous drug abuse. However, in a significant number of cases, the source of hepatitis C infection is unknown."
+    },
+    {
+      "text": "liver biopsy",
+      "type": "T060",
+      "umls_id": "C0193388",
+      "score": 0.973344087600708,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the liver for microscopic examination."
+    },
+    {
+      "text": "mononuclear infiltrates",
+      "type": "T201",
+      "umls_id": "C1513475",
+      "score": 0.7025306820869446,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Possessing a single nucleus."
+    },
+    {
+      "text": "portal",
+      "type": "T029",
+      "umls_id": "C0205054",
+      "score": 0.9715936779975891,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Pertaining to, affecting, or associated with the liver."
+    },
+    {
+      "text": "periportal",
+      "type": "T030",
+      "umls_id": "C0227532",
+      "score": 0.7893615961074829,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The perilobular lymph space located at the periphery of the hepatic lobule."
+    },
+    {
+      "text": "hepatocyte necrosis",
+      "type": "T047",
+      "umls_id": "C1855038",
+      "score": 0.9872062802314758,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

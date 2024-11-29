@@ -1,0 +1,216 @@
+{
+  "original_data": {
+    "question": "A 70-year-old man with chronic heart failure presents to the emergency department due to difficulty in breathing. The patient is a known hypertensive for 20 years maintained on amlodipine and telmisartan. The physician notes that he is also being given a diuretic that blocks the Na+ channels in the cortical collecting tubule. Which drug is being referred to in this case?",
+    "options": {
+      "A": "Furosemide",
+      "B": "Hydrochlorothiazide",
+      "C": "Triamterene",
+      "D": "Acetazolamide"
+    }
+  },
+  "model_response": "The physician is referring to furosemide, a loop diuretic that acts on the Na+/K+/2Cl- cotransporter in the thick ascending limb of the loop of Henle.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "chronic heart failure",
+      "type": "T047",
+      "umls_id": "C0264716",
+      "score": 0.9782274961471558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "breathing",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9880034327507019,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hypertensive",
+      "type": "T033",
+      "umls_id": "C0857121",
+      "score": 0.9903165102005005,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "maintained",
+      "type": "T169",
+      "umls_id": "C1314677",
+      "score": 0.9816700220108032,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "amlodipine",
+      "type": "T109",
+      "umls_id": "C0051696",
+      "score": 0.9584440588951111,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION."
+    },
+    {
+      "text": "telmisartan",
+      "type": "T109",
+      "umls_id": "C0248719",
+      "score": 0.9811017513275146,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A benzimidazole derivative and a non-peptide angiotensin II receptor antagonist with antihypertensive property. Telmisartan selectively antagonizes angiotensin II binding to the AT1 subtype receptor, located in vascular smooth muscle and adrenal gland. The antagonism results in vasodilation and inhibits the angiotensin II-mediated aldosterone production, which in turn leading to a decrease in sodium and water as well as an increase in potassium excretion leading to a subsequent reduction in blood pressure."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "notes",
+      "type": "T170",
+      "umls_id": "C1317574",
+      "score": 0.988599419593811,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A brief written record."
+    },
+    {
+      "text": "diuretic",
+      "type": "T121",
+      "umls_id": "C0012798",
+      "score": 0.9634953141212463,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Agents that promote the excretion of urine through their effects on kidney function."
+    },
+    {
+      "text": "blocks",
+      "type": "T033",
+      "umls_id": "C0028778",
+      "score": 0.9835858345031738,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blockage of the normal flow of the contents of an anatomical passageway."
+    },
+    {
+      "text": "Na+ channels",
+      "type": "T116",
+      "umls_id": "C0022009",
+      "score": 0.7515565752983093,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Gated, ion-selective glycoproteins that traverse membranes. The stimulus for ION CHANNEL GATING can be due to a variety of stimuli such as LIGANDS, a TRANSMEMBRANE POTENTIAL DIFFERENCE, mechanical deformation or through INTRACELLULAR SIGNALING PEPTIDES AND PROTEINS."
+    },
+    {
+      "text": "cortical collecting tubule",
+      "type": "T023",
+      "umls_id": "C0022675",
+      "score": 0.8031861782073975,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Straight tubes commencing in the radiate part of the kidney cortex where they receive the curved ends of the distal convoluted tubules. In the medulla the collecting tubules of each pyramid converge to join a central tube (duct of Bellini) which opens on the summit of the papilla."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "case",
+      "type": "T169",
+      "umls_id": "C0868928",
+      "score": 0.9685807228088379,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "70-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

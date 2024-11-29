@@ -1,0 +1,395 @@
+{
+  "original_data": {
+    "question": "A 55-year-old woman presents with severe pruritus and fatigue. She denies any similar symptoms in the past. No significant past medical history. Upon physical examination, scleral icterus is present, and significant hepatosplenomegaly is noted. Mild peripheral edema is also present. Laboratory findings are significant for elevated serum levels of bilirubin, aminotransferases, alkaline phosphatase (ALP), γ-glutamyl transpeptidase (GGTP), immunoglobulins, as well as cholesterol (especially HDL fraction). Antiviral antibodies are not present. The erythrocyte sedimentation rate is also elevated. Anti-mitochondrial antibodies are found. A liver biopsy is performed, and the histopathologic examination shows bile duct injury, cholestasis, and granuloma formation. Which of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Primary biliary cirrhosis",
+      "B": "Hemolytic anemia",
+      "C": "Hepatitis A",
+      "D": "Gilbert syndrome"
+    }
+  },
+  "model_response": "The clinical and laboratory findings are consistent with a diagnosis of primary biliary cirrhosis (PBC). PBC is a chronic, progressive, and often fatal cholestatic disorder of unknown etiology that most commonly affects middle-aged women. The disease is characterized by an autoimmune injury of intrahepatic bile ducts, which can be demonstrated by the presence of antimitochondrial antibodies in the serum. The histopathologic findings of granuloma formation are also consistent with PBC. Hemolytic anemia is unlikely because the complete blood count is normal. Hepatitis A usually presents with a history of recent exposure to a high-risk individual, fever, nausea, vomiting, and jaundice. Gilbert syndrome is a benign condition that presents with intermittent jaundice and normal hepatic function. Primary sclerosing cholangitis is more likely to occur in young men and is often associated with ulcerative colitis.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "pruritus",
+      "type": "T184",
+      "umls_id": "C0033774",
+      "score": 0.9500237107276917,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An intense itching sensation that produces the urge to rub or scratch the skin to obtain relief."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "No significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8911901712417603,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "hepatosplenomegaly",
+      "type": "T184",
+      "umls_id": "C0019214",
+      "score": 0.9937257170677185,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal enlargement of both the liver and spleen."
+    },
+    {
+      "text": "Mild peripheral edema",
+      "type": "T046",
+      "umls_id": "C0085649",
+      "score": 0.8586734533309937,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Swelling due to an excessive accumulation of fluid in the upper or lower extremities."
+    },
+    {
+      "text": "Laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9655847549438477,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "aminotransferases",
+      "type": "T116",
+      "umls_id": "C0002594",
+      "score": 0.9857050776481628,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "A subclass of enzymes of the transferase class that catalyze the transfer of an amino group from a donor (generally an amino acid) to an acceptor (generally a 2-keto acid). Most of these enzymes are pyridoxyl phosphate proteins. (Dorland, 28th ed) EC 2.6.1."
+    },
+    {
+      "text": "alkaline phosphatase",
+      "type": "T116",
+      "umls_id": "C0002059",
+      "score": 0.9689714908599854,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of an orthophosphoric monoester and water to an alcohol and orthophosphate. EC 3.1.3.1."
+    },
+    {
+      "text": "ALP",
+      "type": "T116",
+      "umls_id": "C0002059",
+      "score": 0.9726741909980774,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme that catalyzes the conversion of an orthophosphoric monoester and water to an alcohol and orthophosphate. EC 3.1.3.1."
+    },
+    {
+      "text": "γ-glutamyl transpeptidase",
+      "type": "T116",
+      "umls_id": "C0017040",
+      "score": 0.9184950590133667,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme, sometimes called GGT, with a key role in the synthesis and degradation of GLUTATHIONE; (GSH, a tripeptide that protects cells from many toxins). It catalyzes the transfer of the gamma-glutamyl moiety to an acceptor amino acid."
+    },
+    {
+      "text": "GGTP",
+      "type": "T116",
+      "umls_id": "C0017040",
+      "score": 0.9949359893798828,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "An enzyme, sometimes called GGT, with a key role in the synthesis and degradation of GLUTATHIONE; (GSH, a tripeptide that protects cells from many toxins). It catalyzes the transfer of the gamma-glutamyl moiety to an acceptor amino acid."
+    },
+    {
+      "text": "immunoglobulins",
+      "type": "T116",
+      "umls_id": "C0021027",
+      "score": 0.9971064925193787,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Multi-subunit proteins which function in IMMUNITY. They are produced by B LYMPHOCYTES from the IMMUNOGLOBULIN GENES. They are comprised of two heavy (IMMUNOGLOBULIN HEAVY CHAINS) and two light chains (IMMUNOGLOBULIN LIGHT CHAINS) with additional ancillary polypeptide chains depending on their isoforms. The variety of isoforms include monomeric or polymeric forms, and transmembrane forms (B-CELL ANTIGEN RECEPTORS) or secreted forms (ANTIBODIES). They are divided by the amino acid sequence of their heavy chains into five classes (IMMUNOGLOBULIN A; IMMUNOGLOBULIN D; IMMUNOGLOBULIN E; IMMUNOGLOBULIN G; IMMUNOGLOBULIN M) and various subclasses."
+    },
+    {
+      "text": "cholesterol",
+      "type": "T109",
+      "umls_id": "C0008377",
+      "score": 0.991095781326294,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The principal sterol of all higher animals, distributed in body tissues, especially the brain and spinal cord, and in animal fats and oils."
+    },
+    {
+      "text": "HDL fraction",
+      "type": "T081",
+      "umls_id": "C1264633",
+      "score": 0.8303894400596619,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A part, a fragment of a whole."
+    },
+    {
+      "text": "Antiviral antibodies",
+      "type": "T116",
+      "umls_id": "C0003253",
+      "score": 0.8459697365760803,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Immunoglobulins produced in response to VIRAL ANTIGENS."
+    },
+    {
+      "text": "erythrocyte",
+      "type": "T025",
+      "umls_id": "C0014792",
+      "score": 0.9888004660606384,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Red blood cells. Mature erythrocytes are non-nucleated, biconcave disks containing HEMOGLOBIN whose function is to transport OXYGEN."
+    },
+    {
+      "text": "sedimentation",
+      "type": "T059",
+      "umls_id": "C0597428",
+      "score": 0.9737226366996765,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The act or process of settling particles by mechanical means from a state of suspension in air or water."
+    },
+    {
+      "text": "rate",
+      "type": "T052",
+      "umls_id": "C0871208",
+      "score": 0.9951978921890259,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of ascertaining or fixing the value or worth of something."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "Anti-mitochondrial antibodies",
+      "type": "T033",
+      "umls_id": "C4021051",
+      "score": 0.7694567441940308,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The presence of autoantibodies (immunoglobulins) in the serum that react against mitochondria. [HPO:probinson]"
+    },
+    {
+      "text": "liver biopsy",
+      "type": "T060",
+      "umls_id": "C0193388",
+      "score": 0.973344087600708,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the liver for microscopic examination."
+    },
+    {
+      "text": "histopathologic examination",
+      "type": "T091",
+      "umls_id": "C0677043",
+      "score": 0.9780940413475037,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The microscopic study of characteristic tissue abnormalities by employing various cytochemical and immunocytochemical stains."
+    },
+    {
+      "text": "bile duct injury",
+      "type": "T037",
+      "umls_id": "C0434034",
+      "score": 0.9786789417266846,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cholestasis",
+      "type": "T047",
+      "umls_id": "C0008370",
+      "score": 0.9923781156539917,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Impairment of bile flow due to obstruction in small bile ducts (INTRAHEPATIC CHOLESTASIS) or obstruction in large bile ducts (EXTRAHEPATIC CHOLESTASIS)."
+    },
+    {
+      "text": "granuloma formation",
+      "type": "T038",
+      "umls_id": "C1817882",
+      "score": 0.9753488302230835,
+      "semantic_types": [
+        "T038"
+      ],
+      "definition": "The formation of nodular inflammatory lesions, usually small or granular, firm, persistent, well-structured, and containing compactly grouped T lymphocytes and modified phagocytes such as epithelioid cells, giant cells, and other macrophages. Granuloma formation represents a chronic inflammatory response initiated by various infectious and noninfectious agents. The center of a granuloma consists of fused macrophages, which can become necrotic. [GO_REF:0000022, GOC:add, ISBN:068340007X, ISBN:0721601464, ISBN:081533642X]"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

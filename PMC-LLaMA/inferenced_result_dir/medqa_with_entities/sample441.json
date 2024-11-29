@@ -1,0 +1,256 @@
+{
+  "original_data": {
+    "question": "A 40-year-old female presents to your office complaining of a tender neck and general lethargy. Upon further questioning, she reports decreased appetite, fatigue, constipation, and jaw pain. Her pulse is 60 bpm and her blood pressure is 130/110 mm Hg. Biopsy of her thyroid reveals granulomatous inflammation and multinucleate giant cells surrounding fragmented colloid. Which of the following likely precipitated the patient’s condition:",
+    "options": {
+      "A": "Iodine deficiency",
+      "B": "Thryoglossal duct cyst",
+      "C": "Infection",
+      "D": "Chronic renal disease"
+    }
+  },
+  "model_response": "The patient has subacute thyroiditis, which is thought to be caused by a viral infection. The initial insult is an inflammatory process that causes follicular destruction and release of thyroid hormone. The resultant hyperthyroidism causes the symptoms of anxiety, palpitations, and sweating. The destruction of the follicles also releases excess colloid, which can be seen as enlarged, multinucleate, hyperplastic follicles on biopsy. The hyperthyroidism is followed by a phase of hypothyroidism as the inflammation causes follicular destruction and the thyroid gland is unable to secrete sufficient thyroid hormone. The hypothyroidism is followed by a return to normal thyroid function.\n\nIodine deficiency can cause endemic goiter, which is characterized by diffuse hyperplasia of the thyroid gland. Thyroglossal duct cysts are congenital cysts that occur in the midline of the neck. They are characterized by a cystic swelling that moves upward with swallowing and notably with tongue protrusion. Infection of the thyroid gland can cause an abscess or acute suppurative thyroiditis. Chronic renal disease can cause secondary hyperparathyroidism, but does not typically cause thyroiditis.\n\nSubacute thyroiditis is also known as granulomatous or de Quervain thyroiditis.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "general lethargy",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.7207130789756775,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "questioning",
+      "type": "T041",
+      "umls_id": "C0876928",
+      "score": 0.9653850197792053,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Used to describe an individual who is unsure of their sexual orientation."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "appetite",
+      "type": "T040",
+      "umls_id": "C0003618",
+      "score": 0.9883872270584106,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Natural recurring desire for food. Alterations may be induced by APPETITE DEPRESSANTS or APPETITE STIMULANTS."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "constipation",
+      "type": "T184",
+      "umls_id": "C0009806",
+      "score": 0.953432559967041,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Infrequent or difficult evacuation of FECES. These symptoms are associated with a variety of causes, including low DIETARY FIBER intake, emotional or nervous disturbances, systemic and structural disorders, drug-induced aggravation, and infections."
+    },
+    {
+      "text": "jaw pain",
+      "type": "T184",
+      "umls_id": "C0236000",
+      "score": 0.9539809823036194,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the jaw. [HPO:probinson]"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "bpm",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "thyroid",
+      "type": "T023",
+      "umls_id": "C0040132",
+      "score": 0.9902244210243225,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A highly vascularized endocrine gland consisting of two lobes joined by a thin band of tissue with one lobe on each side of the TRACHEA. It secretes THYROID HORMONES from the follicular cells and CALCITONIN from the parafollicular cells thereby regulating METABOLISM and CALCIUM level in blood, respectively."
+    },
+    {
+      "text": "granulomatous inflammation",
+      "type": "T046",
+      "umls_id": "C0553697",
+      "score": 0.9685368537902832,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "multinucleate giant cells",
+      "type": "T025",
+      "umls_id": "C0017526",
+      "score": 0.9358111619949341,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "Multinucleated masses produced by the fusion of many cells; often associated with viral infections. In AIDS, they are induced when the envelope glycoprotein of the HIV virus binds to the CD4 antigen of uninfected neighboring T4 cells. The resulting syncytium leads to cell death and thus may account for the cytopathic effect of the virus."
+    },
+    {
+      "text": "colloid",
+      "type": "T122",
+      "umls_id": "C0009361",
+      "score": 0.982075572013855,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "Two-phase systems in which one is uniformly dispersed in another as particles small enough so they cannot be filtered or will not settle out. The dispersing or continuous phase or medium envelops the particles of the discontinuous phase. All three states of matter can form colloids among each other."
+    },
+    {
+      "text": "precipitated",
+      "type": "T080",
+      "umls_id": "C1444748",
+      "score": 0.8952146768569946,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Something that sets into motion some course of events; a device that activates or releases or causes something to happen."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "40-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

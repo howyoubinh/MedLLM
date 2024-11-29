@@ -1,0 +1,511 @@
+{
+  "original_data": {
+    "question": "A 2-hour-old, 3.2 kg (7.0 lb) newborn boy born by cesarean delivery is being evaluated by the resident on-call. The child was born to a gravida 2, para 0 mother with known hepatitis B. The mother made it to all of her prenatal appointments and took the recommended dose of folic acid since conception. She gave up smoking when she discovered she was pregnant. The infant’s heart rate is 150/min, respiratory rate is 48/min, temperature is 37.5°C (99.5°F), and blood pressure is 80/52 mm Hg. APGAR testing exhibits a score of 7 and 8 at 1 and 5 minutes, respectively. The head is normocephalic. No neural tube defects are present on inspection or palpation of the spine. There is strong flexion in all 4 extremities. Cranial nerves 2–12 are intact. Sensory and deep tendon reflexes are without any abnormalities. Which of the following is the best course of action for the newborn child?\nHepatitis B serology\nHBsAg positive\nHBeAg positive\nIgM HBc negative\nTotal anti-HBc positive\nAnti-HBs negative\nAnti-HBc negative\nHBV DNA greater than 1 million IU/mL\nAlanine transferase normal",
+    "options": {
+      "A": "Administer hepatitis B vaccine",
+      "B": "Administer hepatitis B immunoglobulin (HBIG)",
+      "C": "Administer hepatitis B vaccine and HBIG",
+      "D": "Check hepatitis B serology"
+    }
+  },
+  "model_response": "The child should receive both the hepatitis B vaccine and the hepatitis B immunoglobulin (HBIG). The mother was positive for hepatitis B surface antigen (HBsAg) and hence the child is at risk for this disease. The mother was not positive for hepatitis B envelope antigen (HBeAg), so the child likely does not have an active infection. The child should receive the hepatitis B vaccine and HBIG to prevent infection from the virus.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "newborn",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.9792102575302124,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "cesarean delivery",
+      "type": "T061",
+      "umls_id": "C0007876",
+      "score": 0.9827699661254883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Extraction of the FETUS by means of abdominal HYSTEROTOMY."
+    },
+    {
+      "text": "evaluated",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9714561700820923,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "resident",
+      "type": "T097",
+      "umls_id": "C1320928",
+      "score": 0.9801149368286133,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A physician who has completed medical school and an internship and is in the process of receiving specialised training."
+    },
+    {
+      "text": "on-call",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "born",
+      "type": "T040",
+      "umls_id": "C1148523",
+      "score": 0.985282301902771,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The event of being born."
+    },
+    {
+      "text": "gravida 2",
+      "type": "T033",
+      "umls_id": "C0232997",
+      "score": 0.9864724278450012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "para",
+      "type": "T033",
+      "umls_id": "C0030563",
+      "score": 0.9971686005592346,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of offspring a female has borne. It is contrasted with GRAVIDITY, which refers to the number of pregnancies, regardless of outcome."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "hepatitis",
+      "type": "T047",
+      "umls_id": "C0019158",
+      "score": 0.9838292002677917,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "INFLAMMATION of the LIVER."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "prenatal appointments",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.751394510269165,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "recommended",
+      "type": "T078",
+      "umls_id": "C0034866",
+      "score": 0.9742531180381775,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Advice telling someone what the best thing to do is."
+    },
+    {
+      "text": "dose",
+      "type": "T081",
+      "umls_id": "C0178602",
+      "score": 0.9949097037315369,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time."
+    },
+    {
+      "text": "folic acid",
+      "type": "T109",
+      "umls_id": "C0016410",
+      "score": 0.9900990128517151,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A member of the vitamin B family that stimulates the hematopoietic system. It is present in the liver and kidney and is found in mushrooms, spinach, yeast, green leaves, and grasses (POACEAE). Folic acid is used in the treatment and prevention of folate deficiencies and megaloblastic anemia."
+    },
+    {
+      "text": "conception",
+      "type": "T040",
+      "umls_id": "C0009637",
+      "score": 0.9757808446884155,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Fertilization of an ovum by a spermatozoon resulting in formation of a viable zygote."
+    },
+    {
+      "text": "smoking",
+      "type": "T055",
+      "umls_id": "C0037369",
+      "score": 0.963042676448822,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Willful or deliberate act of inhaling and exhaling SMOKE from burning substances or agents held by hand."
+    },
+    {
+      "text": "discovered",
+      "type": "T052",
+      "umls_id": "C1880355",
+      "score": 0.7977019548416138,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "See for the first time; identify."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "infant",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9474613070487976,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "’s heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "APGAR",
+      "type": "T060",
+      "umls_id": "C0741195",
+      "score": 0.9514255523681641,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "testing",
+      "type": "T169",
+      "umls_id": "C0039593",
+      "score": 0.993883490562439,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A procedure for critical evaluation; a means of determining the presence, quality, or truth of something."
+    },
+    {
+      "text": "score",
+      "type": "T033",
+      "umls_id": "C0449820",
+      "score": 0.9976978898048401,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A number or range of numeric values measuring performance, function, quality, or ability."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "normocephalic",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "neural tube",
+      "type": "T018",
+      "umls_id": "C0231024",
+      "score": 0.9781482219696045,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "A tube of ectodermal tissue in an embryo that will give rise to the CENTRAL NERVOUS SYSTEM, including the SPINAL CORD and the BRAIN. Lumen within the neural tube is called neural canal which gives rise to the central canal of the spinal cord and the ventricles of the brain. For malformation of the neural tube, see NEURAL TUBE DEFECTS."
+    },
+    {
+      "text": "inspection",
+      "type": "T058",
+      "umls_id": "C0199219",
+      "score": 0.9725878834724426,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An exploration using the sense of sight, done with the eyes"
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "spine",
+      "type": "T023",
+      "umls_id": "C0037949",
+      "score": 0.9688174724578857,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The spinal or vertebral column."
+    },
+    {
+      "text": "flexion",
+      "type": "T060",
+      "umls_id": "C1627359",
+      "score": 0.8092179894447327,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tests for iliosacral or sacroiliac somatic dysfunction."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "Cranial nerves",
+      "type": "T023",
+      "umls_id": "C0010268",
+      "score": 0.9829726815223694,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Twelve pairs of nerves that carry general afferent, visceral afferent, special afferent, somatic efferent, and autonomic efferent fibers."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "Sensory",
+      "type": "T080",
+      "umls_id": "C0445254",
+      "score": 0.9848048090934753,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "deep tendon",
+      "type": "T023",
+      "umls_id": "C0039508",
+      "score": 0.7640609741210938,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Fibrous bands or cords of CONNECTIVE TISSUE at the ends of SKELETAL MUSCLE FIBERS that serve to attach the MUSCLES to bones and other structures."
+    },
+    {
+      "text": "reflexes",
+      "type": "T042",
+      "umls_id": "C0034929",
+      "score": 0.959754467010498,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "An involuntary movement or exercise of function in a part, excited in response to a stimulus applied to the periphery and transmitted to the brain or spinal cord."
+    },
+    {
+      "text": "abnormalities",
+      "type": "T019",
+      "umls_id": "C0000768",
+      "score": 0.9868227243423462,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Malformations of organs or body parts during development in utero."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "newborn child",
+      "type": "T100",
+      "umls_id": "C0021289",
+      "score": 0.747884213924408,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "An infant during the first 28 days after birth."
+    },
+    {
+      "text": "Hepatitis B serology\n",
+      "type": "T059",
+      "umls_id": "C0744837",
+      "score": 0.9860015511512756,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "HBsAg",
+      "type": "T116",
+      "umls_id": "C0019168",
+      "score": 0.9870002865791321,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T129"
+      ],
+      "definition": "Those hepatitis B antigens found on the surface of the Dane particle and on the 20 nm spherical and tubular particles. Several subspecificities of the surface antigen are known. These were formerly called the Australia antigen."
+    },
+    {
+      "text": "Alanine transferase",
+      "type": "T116",
+      "umls_id": "C0057041",
+      "score": 0.8673190474510193,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "A PYRIDOXAL PHOSPHATE containing enzyme that catalyzes the reversible transfer of an amino group between D-Alanine and alpha-ketoglutarate to form PYRUVATE and D-GLUTAMATE, respectively. It plays a role in the synthesis of the bacterial CELL WALL. This enzyme was formerly classified as EC 2.6.1.10."
+    }
+  ]
+}

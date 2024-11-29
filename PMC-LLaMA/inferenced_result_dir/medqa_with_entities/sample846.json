@@ -1,0 +1,470 @@
+{
+  "original_data": {
+    "question": "A 35-year-old woman comes to the physician for the evaluation of increasing weakness and numbness of the upper extremities for 5 days. During the past 2 days, she has had urinary incontinence not related to sneezing or laughing. Last summer, she had weakness and numbness of her right lower extremity that was worse when she was outside; she regained her strength 3 weeks later. She has no history of serious illness. She has had 10 male sexual partners in her lifetime and uses condoms inconsistently. Vital signs are within normal limits. Examination shows an impaired tandem gait. There is mild spasticity and muscle strength is decreased in both upper extremities. Deep tendon reflexes are 4+ bilaterally. The abdominal reflex is absent. Muscle strength in the right lower extremity is mildly decreased. Sensation to vibration and fine touch is decreased over the upper extremities. Which of the following is the most appropriate next step in diagnosis?",
+    "options": {
+      "A": "Muscle biopsy",
+      "B": "Rapid plasma reagin test",
+      "C": "MRI of the brain and spine",
+      "D": "Lumbar puncture"
+    }
+  },
+  "model_response": "The clinical manifestations are consistent with a demyelinating process involving the brain and spinal cord. The most likely diagnosis is multiple sclerosis (MS). An MRI of the brain and spine would show multiple hyperintense white matter lesions on T2-weighted images consistent with demyelinating plaques. An increased incidence of MS is associated with a history of infection with Epstein-Barr virus (EBV), a history of lower socioeconomic status, and female sex. The CSF in patients with MS usually shows a mild mononuclear pleocytosis. The rapid plasma reagin (RPR) test is a screening test for syphilis. The VDRL is a specific test for syphilis. A muscle biopsy would be appropriate if the clinical examination suggested a muscular dystrophy. A positive test for syphilis would be consistent with tabes dorsalis, but the presentation is not typical.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "numbness",
+      "type": "T033",
+      "umls_id": "C0020580",
+      "score": 0.9541221857070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Absent or reduced sensitivity to cutaneous stimulation."
+    },
+    {
+      "text": "upper extremities",
+      "type": "T023",
+      "umls_id": "C1140618",
+      "score": 0.9906526207923889,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the upper limb in animals, extending from the deltoid region to the HAND, and including the ARM; AXILLA; and SHOULDER."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "urinary incontinence",
+      "type": "T046",
+      "umls_id": "C0042024",
+      "score": 0.9851688146591187,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Involuntary loss of URINE, such as leaking of urine. It is a symptom of various underlying pathological processes. Major types of incontinence include URINARY URGE INCONTINENCE and URINARY STRESS INCONTINENCE."
+    },
+    {
+      "text": "sneezing",
+      "type": "T184",
+      "umls_id": "C0037383",
+      "score": 0.9582226276397705,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden, forceful, involuntary expulsion of air from the NOSE and MOUTH caused by irritation to the MUCOUS MEMBRANES of the upper RESPIRATORY TRACT."
+    },
+    {
+      "text": "laughing",
+      "type": "T054",
+      "umls_id": "C0023133",
+      "score": 0.9510253667831421,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "An involuntary expression of merriment and pleasure; it includes the patterned motor responses as well as the inarticulate vocalization."
+    },
+    {
+      "text": "summer",
+      "type": "T079",
+      "umls_id": "C0241301",
+      "score": 0.952972412109375,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The season between the summer solstice and the autumnal equinox."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "numbness",
+      "type": "T033",
+      "umls_id": "C0020580",
+      "score": 0.9541221857070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Absent or reduced sensitivity to cutaneous stimulation."
+    },
+    {
+      "text": "right lower extremity",
+      "type": "T023",
+      "umls_id": "C0230415",
+      "score": 0.9952425956726074,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the right side of the body."
+    },
+    {
+      "text": "outside",
+      "type": "T082",
+      "umls_id": "C0205101",
+      "score": 0.9652777910232544,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Happening or arising or located outside or beyond some limits, or especially, some surface."
+    },
+    {
+      "text": "regained",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "sexual partners",
+      "type": "T098",
+      "umls_id": "C0036911",
+      "score": 0.9519425630569458,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Married or single individuals who share sexual relations."
+    },
+    {
+      "text": "lifetime",
+      "type": "T079",
+      "umls_id": "C4071830",
+      "score": 0.988922655582428,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "condoms",
+      "type": "T074",
+      "umls_id": "C0009653",
+      "score": 0.9629577398300171,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A sheath that is worn over the penis during sexual behavior in order to prevent pregnancy or spread of sexually transmitted disease."
+    },
+    {
+      "text": "Vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "tandem gait",
+      "type": "T184",
+      "umls_id": "C0231779",
+      "score": 0.9687066674232483,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mild spasticity",
+      "type": "T184",
+      "umls_id": "C4229404",
+      "score": 0.9783486127853394,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.9795353412628174,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "upper extremities",
+      "type": "T023",
+      "umls_id": "C1140618",
+      "score": 0.9906526207923889,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the upper limb in animals, extending from the deltoid region to the HAND, and including the ARM; AXILLA; and SHOULDER."
+    },
+    {
+      "text": "Deep tendon reflexes",
+      "type": "T201",
+      "umls_id": "C0489815",
+      "score": 0.9582180380821228,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Contraction of a muscle triggered by a signal from a muscle spindle in response to a stimulus applied to a specific trigger point on the body. The strength of the response can provide insight into central and peripheral nerve performance."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "abdominal reflex",
+      "type": "T042",
+      "umls_id": "C0034932",
+      "score": 0.9648590087890625,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Contractions of the abdominal muscles upon stimulation of the skin (superficial abdominal reflex) or tapping neighboring bony structures (deep abdominal reflex). The superficial reflex may be weak or absent, for example, after a stroke, a sign of upper (suprasegmental) motor neuron lesions. (Stedman, 25th ed & Best & Taylor's Physiological Basis of Medical Practice, 12th ed, p1073)"
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "Muscle strength",
+      "type": "T042",
+      "umls_id": "C0517349",
+      "score": 0.9795353412628174,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The amount of force generated by MUSCLE CONTRACTION. Muscle strength can be measured during isometric, isotonic, or isokinetic contraction, either manually or using a device such as a MUSCLE STRENGTH DYNAMOMETER."
+    },
+    {
+      "text": "right lower extremity",
+      "type": "T023",
+      "umls_id": "C0230415",
+      "score": 0.9952425956726074,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the right side of the body."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "Sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "vibration",
+      "type": "T061",
+      "umls_id": "C0455941",
+      "score": 0.9607577323913574,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fine touch",
+      "type": "T061",
+      "umls_id": "C0152054",
+      "score": 0.725012481212616,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Placing of the hands of the healer upon the person to be cured with the intent of spiritual energetic healing."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "upper extremities",
+      "type": "T023",
+      "umls_id": "C1140618",
+      "score": 0.9906526207923889,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the upper limb in animals, extending from the deltoid region to the HAND, and including the ARM; AXILLA; and SHOULDER."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

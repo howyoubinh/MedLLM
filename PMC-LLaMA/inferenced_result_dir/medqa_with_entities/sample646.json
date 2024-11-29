@@ -1,0 +1,273 @@
+{
+  "original_data": {
+    "question": "A 53-year-old female patient comes to the physician’s office for her annual check-up visit. She has no complaints and her past medical history is notable for diabetes and hypertension. During this visit, the patient undergoes screening procedures per guidelines including a mammogram. On the screening mammogram a spiculated, irregular mass is found on the left breast. Further diagnostic mammography and biopsy reveal ductal adenocarcinoma of the breast in the upper outer quadrant of the left breast. Which of the following is the most important factor in determining this patient’s prognosis?",
+    "options": {
+      "A": "Tumor grade",
+      "B": "Tumor stage",
+      "C": "Age",
+      "D": "Location of the tumor on the breast"
+    }
+  },
+  "model_response": "The most important factor in determining the prognosis of a patient with breast cancer is tumor stage. The TNM (tumor, nodes, metastasis) staging system is used. This system takes into account the size of the tumor (T), the involvement of regional lymph nodes (N), and the presence of metastases (M). The patient's age and location of the tumor on the breast are important but are less critical than the stage. Tumor grade is also important but is less critical than stage.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "physician’s office",
+      "type": "T073",
+      "umls_id": "C0031834",
+      "score": 0.957046389579773,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "The room or rooms in which the physician and staff provide patient care. The offices include all rooms in the physician's office suite."
+    },
+    {
+      "text": "annual",
+      "type": "T079",
+      "umls_id": "C0332181",
+      "score": 0.9425466656684875,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each year."
+    },
+    {
+      "text": "check-up visit",
+      "type": "T058",
+      "umls_id": "C0598836",
+      "score": 0.7491618394851685,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Checkup is a general examination or inspection, especially one carried out by a doctor or dentist."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "guidelines",
+      "type": "T170",
+      "umls_id": "C0162791",
+      "score": 0.9796518087387085,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A systematic statement of policy rules or principles. Guidelines may be developed by government agencies at any level, institutions, professional societies, governing boards, or by convening expert panels."
+    },
+    {
+      "text": "mammogram",
+      "type": "T060",
+      "umls_id": "C0024671",
+      "score": 0.9884366989135742,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Radiographic examination of the breast."
+    },
+    {
+      "text": "screening mammogram",
+      "type": "T060",
+      "umls_id": "C0203028",
+      "score": 0.9832854866981506,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spiculated",
+      "type": "T201",
+      "umls_id": "C1519453",
+      "score": 0.8350075483322144,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Covered with or having small needlelike structures (spicules) or fine fleshy points."
+    },
+    {
+      "text": "irregular mass",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.8153923749923706,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "left breast",
+      "type": "T023",
+      "umls_id": "C0222601",
+      "score": 0.9939004778862,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hemispheric projection, including the mammary gland, located on the anterior portion of the chest, lateral to the midline, on the side of the body to the west when facing north."
+    },
+    {
+      "text": "diagnostic mammography",
+      "type": "T060",
+      "umls_id": "C0411881",
+      "score": 0.9816915392875671,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Mammography done after suspicious results on a screening mammogram or after other signs of possible breast cancer."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "ductal adenocarcinoma",
+      "type": "T191",
+      "umls_id": "C1527349",
+      "score": 0.9899917840957642,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A breast carcinoma arising from the ducts. While ductal carcinomas can arise at other sites, this term is universally used to refer to carcinomas of the breast. Ductal carcinomas account for about two thirds of all breast cancers. Two types of ductal carcinomas have been described: ductal carcinoma in situ (DCIS) and invasive breast carcinoma of no special type. The latter often spreads to the axillary lymph nodes and other anatomic sites. The two forms of ductal carcinoma often coexist."
+    },
+    {
+      "text": "breast",
+      "type": "T023",
+      "umls_id": "C0006141",
+      "score": 0.9924376010894775,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "In humans, one of the paired regions in the anterior portion of the THORAX. The breasts consist of the MAMMARY GLANDS, the SKIN, the MUSCLES, the ADIPOSE TISSUE, and the CONNECTIVE TISSUES."
+    },
+    {
+      "text": "upper",
+      "type": "T082",
+      "umls_id": "C1282910",
+      "score": 0.9845365285873413,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is higher."
+    },
+    {
+      "text": "outer quadrant",
+      "type": "T082",
+      "umls_id": "C1631280",
+      "score": 0.7589668035507202,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "One quarter of a circle. In anatomy, one part of an area divided into quarters for descriptive purposes."
+    },
+    {
+      "text": "left breast",
+      "type": "T023",
+      "umls_id": "C0222601",
+      "score": 0.9939004778862,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hemispheric projection, including the mammary gland, located on the anterior portion of the chest, lateral to the midline, on the side of the body to the west when facing north."
+    },
+    {
+      "text": "factor",
+      "type": "T169",
+      "umls_id": "C1521761",
+      "score": 0.9910856485366821,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Anything that contributes causally to a result."
+    },
+    {
+      "text": "patient’s prognosis",
+      "type": "T058",
+      "umls_id": "C0033325",
+      "score": 0.7436450123786926,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A prediction of the probable outcome of a disease based on a individual's condition and the usual course of the disease as seen in similar situations."
+    },
+    {
+      "text": "53-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

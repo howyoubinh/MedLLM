@@ -1,0 +1,202 @@
+{
+  "original_data": {
+    "question": "A 64-year-old man with multiple sclerosis comes to the physician because of a 4-month history of urinary incontinence. The urge to urinate occurs suddenly, and he often is unable to make it to the bathroom before leaking urine. He has no incontinence with coughing or laughing. Digital rectal examination shows no abnormalities. Ultrasonography shows a normal post-void residual volume. Which of the following is the most appropriate pharmacotherapy for this patient's incontinence?",
+    "options": {
+      "A": "Midodrine",
+      "B": "Rivastigmine",
+      "C": "Mirtazapine",
+      "D": "Tolterodine"
+    }
+  },
+  "model_response": "Midodrine, an a-agonist, is the most appropriate pharmacotherapy for this patient's urinary incontinence. Urge incontinence, which is the involuntary loss of urine associated with a strong desire to urinate, is the most common type of incontinence in older men and women. It is often related to detrusor or bladder instability and can be treated with anticholinergic agents such as tolterodine or oxybutynin. However, because this patient has multiple sclerosis, he may have detrusor hyperreflexia related to spinal cord involvement. In such cases, treatment with midodrine, an a-agonist that helps to control bladder hyperreflexia, may be effective. In addition, because this patient has no post-void residual volume, he does not have detrusor-sphincter dyssynergia, which is another common cause of urinary incontinence in patients with multiple sclerosis. Rivastigmine is used for the treatment of Alzheimer's disease. Mirtazapine is an antidepressant.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "multiple sclerosis",
+      "type": "T047",
+      "umls_id": "C0026769",
+      "score": 0.9869281649589539,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An autoimmune disorder mainly affecting young adults and characterized by destruction of myelin in the central nervous system. Pathologic findings include multiple sharply demarcated areas of demyelination throughout the white matter of the central nervous system. Clinical manifestations include visual loss, extra-ocular movement disorders, paresthesias, loss of sensation, weakness, dysarthria, spasticity, ataxia, and bladder dysfunction. The usual pattern is one of recurrent attacks followed by partial recovery (see MULTIPLE SCLEROSIS, RELAPSING-REMITTING), but acute fulminating and chronic progressive forms (see MULTIPLE SCLEROSIS, CHRONIC PROGRESSIVE) also occur. (Adams et al., Principles of Neurology, 6th ed, p903)"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "urinary incontinence",
+      "type": "T046",
+      "umls_id": "C0042024",
+      "score": 0.9851688146591187,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Involuntary loss of URINE, such as leaking of urine. It is a symptom of various underlying pathological processes. Major types of incontinence include URINARY URGE INCONTINENCE and URINARY STRESS INCONTINENCE."
+    },
+    {
+      "text": "urinate",
+      "type": "T184",
+      "umls_id": "C0085606",
+      "score": 0.7243622541427612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An acute and compelling urge to urinate."
+    },
+    {
+      "text": "bathroom",
+      "type": "T073",
+      "umls_id": "C0040364",
+      "score": 0.9783955216407776,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Facilities containing equipment for disposal of human excrement, often with an accompanying hand-washing station."
+    },
+    {
+      "text": "urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "incontinence",
+      "type": "T047",
+      "umls_id": "C0021167",
+      "score": 0.981616735458374,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Involuntary passage of stool or urine from the body."
+    },
+    {
+      "text": "coughing",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9390369057655334,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "laughing",
+      "type": "T054",
+      "umls_id": "C0023133",
+      "score": 0.9510253667831421,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "An involuntary expression of merriment and pleasure; it includes the patterned motor responses as well as the inarticulate vocalization."
+    },
+    {
+      "text": "Digital rectal examination",
+      "type": "T060",
+      "umls_id": "C0199900",
+      "score": 0.959287166595459,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Ultrasonography",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9924961924552917,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "post-void residual",
+      "type": "T033",
+      "umls_id": "C0080274",
+      "score": 0.7160695195198059,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Inability to empty the URINARY BLADDER with voiding (URINATION)."
+    },
+    {
+      "text": "volume",
+      "type": "T081",
+      "umls_id": "C0449468",
+      "score": 0.9937787055969238,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The amount of three dimensional space occupied by an object or the capacity of a space or container."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "incontinence",
+      "type": "T047",
+      "umls_id": "C0021167",
+      "score": 0.981616735458374,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Involuntary passage of stool or urine from the body."
+    },
+    {
+      "text": "64-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

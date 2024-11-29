@@ -1,0 +1,292 @@
+{
+  "original_data": {
+    "question": "A 73-year-old woman is brought to the physician by her daughter for evaluation of impaired memory and word-finding difficulties for 2 years. She was recently asked to step down from her position as volunteer accountant for a local charity organization because she was no longer able to coordinate her tasks. She reports that she has become unable to taste or smell her food. Two years later, the patient dies. At autopsy, examination of the brain shows generalized cortical atrophy. A photomicrograph of a section of the brain is shown. The inclusions indicated by the arrows are predominantly composed of which of the following substances?",
+    "options": {
+      "A": "Alpha-synuclein",
+      "B": "Amyloid-β",
+      "C": "Hyperphosphorylated tau",
+      "D": "Prion protein"
+    }
+  },
+  "model_response": "The clinical history and pathologic findings are consistent with sporadic Alzheimer disease (AD). The cortical atrophy and neuritic (senile) plaques are characteristic of AD. The major component of the neuritic plaque is amyloid-β (Aβ). The other choices are not components of neuritic plaques.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "impaired",
+      "type": "T169",
+      "umls_id": "C0221099",
+      "score": 0.9897602796554565,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Loss or abnormality of psychological, physiological, or anatomic structure or function."
+    },
+    {
+      "text": "memory",
+      "type": "T041",
+      "umls_id": "C0025260",
+      "score": 0.9859048128128052,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Complex mental function having four distinct phases: (1) memorizing or learning, (2) retention, (3) recall, and (4) recognition. Clinically, it is usually subdivided into immediate, recent, and remote memory."
+    },
+    {
+      "text": "word-finding difficulties",
+      "type": "T048",
+      "umls_id": "C0454643",
+      "score": 0.956645131111145,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "position",
+      "type": "T082",
+      "umls_id": "C0733755",
+      "score": 0.977912187576294,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A reference to the alignment of an object, a particular situation or view of a situation, or the location of an object."
+    },
+    {
+      "text": "volunteer",
+      "type": "T097",
+      "umls_id": "C0042960",
+      "score": 0.967129111289978,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Persons who donate their services."
+    },
+    {
+      "text": "accountant",
+      "type": "T097",
+      "umls_id": "C0000937",
+      "score": 0.9748481512069702,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "local charity",
+      "type": "T095",
+      "umls_id": "C0007962",
+      "score": 0.7593690752983093,
+      "semantic_types": [
+        "T095"
+      ],
+      "definition": "Social welfare organizations with programs designed to assist individuals in need."
+    },
+    {
+      "text": "coordinate",
+      "type": "T033",
+      "umls_id": "C0427184",
+      "score": 0.9533495306968689,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tasks",
+      "type": "T074",
+      "umls_id": "C0024861",
+      "score": 0.7007325291633606,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Devices that cover the nose and mouth to maintain aseptic conditions often for the prevention of the spread of infections (e.g. COVID19) or to administer inhaled anesthetics or other gases."
+    },
+    {
+      "text": "taste",
+      "type": "T042",
+      "umls_id": "C0039336",
+      "score": 0.9910558462142944,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The ability to detect chemicals through gustatory receptors in the mouth, including those on the TONGUE; the PALATE; the PHARYNX; and the EPIGLOTTIS."
+    },
+    {
+      "text": "food",
+      "type": "T168",
+      "umls_id": "C0016452",
+      "score": 0.991826593875885,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Substances taken in by the body to provide nourishment."
+    },
+    {
+      "text": "patient dies",
+      "type": "T033",
+      "umls_id": "C1306577",
+      "score": 0.9763363599777222,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "autopsy",
+      "type": "T060",
+      "umls_id": "C0004398",
+      "score": 0.9929856657981873,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Postmortem examination of the body."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "cortical atrophy",
+      "type": "T047",
+      "umls_id": "C0235946",
+      "score": 0.9833476543426514,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Atrophy of the cerebrum caused by focal or generalized neuronal loss."
+    },
+    {
+      "text": "photomicrograph",
+      "type": "T059",
+      "umls_id": "C0031753",
+      "score": 0.895453155040741,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Photography of objects viewed under a microscope using ordinary photographic methods."
+    },
+    {
+      "text": "section",
+      "type": "T059",
+      "umls_id": "C0700320",
+      "score": 0.9732531309127808,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "To cut a an entity into slices."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "inclusions",
+      "type": "T026",
+      "umls_id": "C0007637",
+      "score": 0.9773633480072021,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "A generic term for any circumscribed mass of foreign (e.g., lead or viruses) or metabolically inactive materials (e.g., ceroid or MALLORY BODIES), within the cytoplasm or nucleus of a cell. Inclusion bodies are in cells infected with certain filtrable viruses, observed especially in nerve, epithelial, or endothelial cells. (Stedman, 25th ed)"
+    },
+    {
+      "text": "arrows",
+      "type": "T073",
+      "umls_id": "C0336721",
+      "score": 0.9818645715713501,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "substances",
+      "type": "T167",
+      "umls_id": "C0439861",
+      "score": 0.9935278296470642,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical."
+    },
+    {
+      "text": "73-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

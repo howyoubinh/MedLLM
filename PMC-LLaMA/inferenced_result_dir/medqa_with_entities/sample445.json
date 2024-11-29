@@ -1,0 +1,434 @@
+{
+  "original_data": {
+    "question": "Three days after undergoing a laparoscopic Whipple's procedure, a 43-year-old woman has swelling of her right leg. She does not have pain. She has nausea but has not vomited. She was diagnosed with pancreatic cancer 1 month ago. She has been using an incentive spirometer every 6 hours since recovering from her surgery. Prior to admission, her only medications were a multivitamin and an herbal weight-loss preparation. She appears uncomfortable. Her temperature is 38°C (100.4°F), pulse is 90/min, and blood pressure is 118/78 mm Hg. Examination shows mild swelling of the right thigh to the ankle; there is no erythema or pitting edema. Homan's sign is negative. The abdomen is soft and shows diffuse tenderness to palpation. There are five abdominal laparoscopic incisions with no erythema or discharge. The lungs are clear to auscultation. The remainder of the examination shows no abnormalities. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "CT pulmonary angiography",
+      "B": "Compression ultrasonography",
+      "C": "D-dimer level",
+      "D": "2 sets of blood cultures\n\""
+    }
+  },
+  "model_response": "The patient has signs and symptoms of deep venous thrombosis (DVT) and pulmonary embolism (PE). The most appropriate next step in management is CT pulmonary angiography. The other tests are used to exclude DVT. The Wells' criteria are used to determine the risk of DVT and PE. This patient has one risk factor (cancer) and two clinical signs (swelling and temperature > 38°C). The most appropriate test is a CT pulmonary angiography. Compression ultrasonography is used to diagnose DVT. D-dimer level is used to exclude PE. Blood cultures are obtained to rule out bacteremia.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "laparoscopic Whipple's procedure",
+      "type": "T060",
+      "umls_id": "C0031150",
+      "score": 0.8217198848724365,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A procedure in which a laparoscope (LAPAROSCOPES) is inserted through a small incision near the navel to examine the abdominal and pelvic organs in the PERITONEAL CAVITY. If appropriate, biopsy or surgery can be performed during laparoscopy."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "right leg",
+      "type": "T023",
+      "umls_id": "C0230415",
+      "score": 0.9768746495246887,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the right side of the body."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "pancreatic cancer",
+      "type": "T191",
+      "umls_id": "C0235974",
+      "score": 0.9861518740653992,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A carcinoma arising from the exocrine pancreas. The overwhelming majority of pancreatic carcinomas are adenocarcinomas."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "incentive spirometer",
+      "type": "T074",
+      "umls_id": "C1961253",
+      "score": 0.9779035449028015,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "An incentive spirometer is a device that indicates a patient's breathing volume or flow and that provides an incentive to the patient to improve his or her ventilation."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "multivitamin",
+      "type": "T109",
+      "umls_id": "C0301532",
+      "score": 0.987159252166748,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)"
+    },
+    {
+      "text": "herbal weight-loss",
+      "type": "T061",
+      "umls_id": "C0012167",
+      "score": 0.7002044916152954,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A diet designed to cause an individual to lose weight."
+    },
+    {
+      "text": "preparation",
+      "type": "T052",
+      "umls_id": "C1521827",
+      "score": 0.9771103858947754,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act or process of making something ready."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "mild swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.7791690826416016,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "right thigh",
+      "type": "T023",
+      "umls_id": "C0230425",
+      "score": 0.9866852164268494,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A part of the lower limb, located between the hip and the knee and located on the right side of the body."
+    },
+    {
+      "text": "ankle",
+      "type": "T029",
+      "umls_id": "C0003086",
+      "score": 0.9610454440116882,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the lower limb between the FOOT and the LEG."
+    },
+    {
+      "text": "no erythema",
+      "type": "T033",
+      "umls_id": "C4015731",
+      "score": 0.9870508313179016,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pitting edema",
+      "type": "T033",
+      "umls_id": "C0333243",
+      "score": 0.976106584072113,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling due to excessive accumulation of fluid under the skin defined by a persistent indentation when pressure is applied to the swollen area. Causes include systemic conditions (e.g., heart failure, liver failure, or kidney failure) and local conditions affecting the extremities."
+    },
+    {
+      "text": "Homan's sign",
+      "type": "T184",
+      "umls_id": "C0231781",
+      "score": 0.9700875282287598,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "diffuse tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.7597489953041077,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "abdominal laparoscopic",
+      "type": "T074",
+      "umls_id": "C3689189",
+      "score": 0.8476648926734924,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Trocars designed to puncture the abdominal wall in order to provide access to the peritoneum and abdominal organs during laparoscopic procedures. These instruments typically include a manual, handheld device (i.e., the trocar) to facilitate the insertion, and an outer cannula or sheath which becomes a port to allow passage of instruments and insufflation. There is a large variety of trocar designs available but they may be classified in two types: cutting trocars that incorporate a sharp metal or plastic rod with a cutting pyramidal or conical tip, and dilating trocars with a tip that bluntly separates and dilates tissue as force is applied; some instruments incorporate elements of both cutting and dilating trocars. The trocar is used to pierce the skin and the abdominal wall (i.e., percutaneously) and then it is usually removed, leaving the cannula or sleeve in place. Laparoscopic trocars are intended to provide access to the abdominal cavity by permitting the performance of diagnostic, therapeutic, and/or surgical procedures. Trocars are used in laparoscopic surgery to provide access for the introduction of devices such as surgical instruments and video cameras. Both reusable and single-use trocars are available."
+    },
+    {
+      "text": "incisions",
+      "type": "T061",
+      "umls_id": "C0184898",
+      "score": 0.97511225938797,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An intentional cut made to an individual's body with the intent of performing a diagnostic or therapeutic intervention."
+    },
+    {
+      "text": "discharge",
+      "type": "T031",
+      "umls_id": "C0012621",
+      "score": 0.990285336971283,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The pouring forth of a fluid."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "43-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

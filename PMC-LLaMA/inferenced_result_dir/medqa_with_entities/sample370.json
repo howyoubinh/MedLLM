@@ -1,0 +1,387 @@
+{
+  "original_data": {
+    "question": "A 15-year-old boy with poorly controlled asthma presents to the emergency room complaining of severe shortness of breath. His mother reports that he had trouble breathing soon after he started playing soccer with some friends and was unable to use his inhaler as it was empty. His family history is notable for emphysema in his paternal uncle and cirrhosis in his maternal grandfather. The child’s temperature is 99.0°F (37.2°C), blood pressure is 130/90 mmHg, pulse is 130/min, respirations are 28/min, and oxygen saturation is 91% on room air. Physical examination demonstrates wheezing bilaterally in all lung fields. The child is started on supplemental oxygen and a nebulized bronchodilator. Which of the following is a downstream effect of this medication?",
+    "options": {
+      "A": "Decreased leukotriene activity",
+      "B": "Activation of muscarinic receptors",
+      "C": "Decreased phosphodiesterase activity",
+      "D": "Increased adenylate cyclase activity"
+    }
+  },
+  "model_response": "The child’s symptoms are consistent with an acute exacerbation of asthma. The primary pathology in asthma is airway hyper-reactivity (AHR), which is the excessive bronchoconstriction to a given stimulus. The most common medications used to treat asthma are bronchodilators, which work by increasing levels of cAMP via stimulation of b2 -adrenergic receptors, which are GsPCRs. This results in activation of protein kinase A (PKA), which phosphorylates proteins leading to relaxation of airway smooth muscle and bronchodilation. The other choices are not downstream effects of b2 -adrenergic receptor stimulation. Leukotrienes are potent bronchoconstrictors that are increased in asthmatic airways and can be targeted by montelukast, which is a leukotriene receptor antagonist. Muscarinic receptors are activated by acetylcholine and can cause bronchoconstriction. This is why medications such as ipratropium bromide, which are muscarinic receptor antagonists, can be used in the treatment of COPD. Phosphodiesterases (PDEs) are enzymes that break down cAMP, so inhibition of PDEs would lead to increased cAMP levels and activation of PKA. However, PDE inhibitors are not commonly used to treat asthma. Adenylate cyclase is the enzyme that converts ATP to cAMP, so increasing adenylate cyclase activity would also lead to increased cAMP levels and activation of PKA.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "poorly",
+      "type": "T080",
+      "umls_id": "C0205169",
+      "score": 0.9706488847732544,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having undesirable or negative qualities."
+    },
+    {
+      "text": "controlled asthma",
+      "type": "T169",
+      "umls_id": "C2587213",
+      "score": 0.7778357267379761,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "breath",
+      "type": "T031",
+      "umls_id": "C0225386",
+      "score": 0.9942715167999268,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The air that is inhaled and exhaled during respiration."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "breathing soon",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.8220685720443726,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "soccer",
+      "type": "T056",
+      "umls_id": "C0037393",
+      "score": 0.9711228013038635,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A game in which a round inflated ball is advanced by kicking or propelling with any part of the body except the hands or arms. The object of the game is to place the ball in opposite goals."
+    },
+    {
+      "text": "friends",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9840391874313354,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "inhaler",
+      "type": "T074",
+      "umls_id": "C0021461",
+      "score": 0.9644812345504761,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A device by means of which a medicinal product can be administered by inspiration through the nose or the mouth."
+    },
+    {
+      "text": "empty",
+      "type": "T080",
+      "umls_id": "C1880497",
+      "score": 0.9858817458152771,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Holding or containing nothing."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "emphysema",
+      "type": "T046",
+      "umls_id": "C0013990",
+      "score": 0.9891530871391296,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A pathological accumulation of air in tissues or organs."
+    },
+    {
+      "text": "paternal uncle",
+      "type": "T099",
+      "umls_id": "C3714276",
+      "score": 0.9825509190559387,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "<p>**Description:**The player of the role is a biological brother of the scoping person's biological father.</p>"
+    },
+    {
+      "text": "cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023890",
+      "score": 0.976765513420105,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Liver disease in which the normal microcirculation, the gross vascular anatomy, and the hepatic architecture have been variably destroyed and altered with fibrous septa surrounding regenerated or regenerating parenchymal nodules."
+    },
+    {
+      "text": "maternal grandfather",
+      "type": "T099",
+      "umls_id": "C1273523",
+      "score": 0.9249635338783264,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "<p>**Description:**The player of the role is the biological father of the scoping person's biological mother.</p>"
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "lung fields",
+      "type": "T029",
+      "umls_id": "C0225759",
+      "score": 0.9756964445114136,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "child",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9870250225067139,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "supplemental oxygen",
+      "type": "T033",
+      "umls_id": "C4534306",
+      "score": 0.9702228903770447,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nebulized",
+      "type": "T029",
+      "umls_id": "C1549531",
+      "score": 0.9735028743743896,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bronchodilator",
+      "type": "T121",
+      "umls_id": "C0006280",
+      "score": 0.9903401732444763,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Agents that cause an increase in the expansion of a bronchus or bronchial tubes."
+    },
+    {
+      "text": "downstream",
+      "type": "T082",
+      "umls_id": "C0522506",
+      "score": 0.9650725722312927,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "15-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

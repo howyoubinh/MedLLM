@@ -1,0 +1,434 @@
+{
+  "original_data": {
+    "question": "A 30-year-old man presents to the emergency room complaining of malaise. Two hours prior to presentation, he developed muscle cramps and nausea. He has had 3 episodes of non-bloody watery stools since his symptoms started. He reports that he has experienced similar symptoms multiple times over the past 5 years since he started working at his local zoo as a reptilian caretaker. His medical history is unremarkable. He takes fish oil and a multivitamin daily. His temperature is 101°F (38.3°C), blood pressure is 130/90 mmHg, pulse is 90/min, and respirations are 17/min. On exam, he demonstrates sensitivity to bright light. He is tired-appearing but alert and fully oriented. A stool sample and culture demonstrates abundant non-lactose fermenting, oxidase-negative, and H2S-producing gram-negative bacilli. The pathogen responsible for this patient’s condition relies on a virulence factor with which of the following mechanisms of action?",
+    "options": {
+      "A": "ADP ribosylation of elongation factor 2",
+      "B": "Blocking antibody attack on the O antigen",
+      "C": "Cleaving immunoglobulin A molecules",
+      "D": "Cleaving lecithin"
+    }
+  },
+  "model_response": "The patient has infection with Vibrio cholerae, which is a gram-negative bacterium that causes cholera. Cholera is characterized by the sudden onset of severe watery diarrhea and is associated with a massive secretion of water and electrolytes from the gastrointestinal tract. The toxin responsible for this condition is the cholera toxin, which is composed of an A subunit and a B subunit. The B subunit binds to the enterocyte receptors, while the A subunit ADP ribosylates the Gs protein, resulting in the activation of adenylate cyclase. The subsequent overproduction of cyclic AMP leads to the outpouring of isotonic fluid from the cell. The cholera enterotoxin is structurally and functionally similar to the heat-labile toxin of enterotoxigenic Escherichia coli. The other toxins listed are not associated with cholera.\n\nBlocking antibody attack on the O antigen (choice B) is a mechanism of action of the capsule of certain bacteria, such as Streptococcus pneumoniae. The capsule prevents phagocytosis by neutrophils. \n\nVibrio cholerae (choice E) does not produce lecithinase. Lecithinase is an enzyme that cleaves lecithin, which is a component of the cell membrane. Bacteria that produce lecithinase include Clostridium perfringens and Bacillus cereus.\n\nDiagnosis: Cholera, Vibrio\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "muscle cramps",
+      "type": "T184",
+      "umls_id": "C0026821",
+      "score": 0.9865601062774658,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sustained and usually painful contraction of muscle fibers. This may occur as an isolated phenomenon or as a manifestation of an underlying disease process (e.g., UREMIA; HYPOTHYROIDISM; MOTOR NEURON DISEASE; etc.). (From Adams et al., Principles of Neurology, 6th ed, p1398)"
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "non-bloody",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "working",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.9615688323974609,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "reptilian",
+      "type": "T014",
+      "umls_id": "C0035161",
+      "score": 0.8409286141395569,
+      "semantic_types": [
+        "T014"
+      ],
+      "definition": "Cold-blooded, air-breathing VERTEBRATES belonging to the class Reptilia, usually covered with external scales or bony plates."
+    },
+    {
+      "text": "caretaker",
+      "type": "T097",
+      "umls_id": "C0335350",
+      "score": 0.9704136252403259,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "fish oil",
+      "type": "T109",
+      "umls_id": "C0016157",
+      "score": 0.9935411214828491,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Oils high in unsaturated fats extracted from the bodies of fish or fish parts, especially the LIVER. Those from the liver are usually high in VITAMIN A. The oils are used as DIETARY SUPPLEMENTS. They are also used in soaps and detergents and as protective coatings."
+    },
+    {
+      "text": "multivitamin",
+      "type": "T109",
+      "umls_id": "C0301532",
+      "score": 0.987159252166748,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)"
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "sensitivity",
+      "type": "T046",
+      "umls_id": "C0020517",
+      "score": 0.9969706535339355,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Altered reactivity to an antigen, which can result in pathologic reactions upon subsequent exposure to that particular antigen."
+    },
+    {
+      "text": "bright light",
+      "type": "T028",
+      "umls_id": "C3539536",
+      "score": 0.8711862564086914,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": "Human ARID1B wild-type allele is located in the vicinity of 6q25.1 and is approximately 433 kb in length. This allele, which encodes AT-rich interactive domain-containing protein 1B, is involved in both cell type-specific transcriptional regulation and chromatin remodeling."
+    },
+    {
+      "text": "alert",
+      "type": "T033",
+      "umls_id": "C0239110",
+      "score": 0.9975212812423706,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oriented",
+      "type": "T082",
+      "umls_id": "C1704322",
+      "score": 0.9877923130989075,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Position or alignment relative to points of the compass or other specific directions."
+    },
+    {
+      "text": "stool sample",
+      "type": "T031",
+      "umls_id": "C1550661",
+      "score": 0.983421266078949,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "culture",
+      "type": "T078",
+      "umls_id": "C0010453",
+      "score": 0.976164698600769,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collective expression for all behavior patterns acquired and socially transmitted through symbols. Culture includes customs, traditions, and language."
+    },
+    {
+      "text": "non-lactose",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "fermenting",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "oxidase-negative",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "gram-negative bacilli",
+      "type": "T007",
+      "umls_id": "C0314752",
+      "score": 0.8658224940299988,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "Any rod shaped bacteria that contains low levels of peptidoglycan in its cell wall and stains pink with the Gram staining technique."
+    },
+    {
+      "text": "pathogen",
+      "type": "T001",
+      "umls_id": "C0450254",
+      "score": 0.9801281094551086,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "An agent of disease; a disease producer."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "’s condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "virulence factor",
+      "type": "T109",
+      "umls_id": "C1136170",
+      "score": 0.9853609800338745,
+      "semantic_types": [
+        "T109",
+        "T123",
+        "T131"
+      ],
+      "definition": "Those components of an organism that determine its capacity to cause disease but are not required for its viability per se. Two classes have been characterized: TOXINS, BIOLOGICAL and surface adhesion molecules that effect the ability of the microorganism to invade and colonize a host. (From Davis et al., Microbiology, 4th ed. p486)"
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "30-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

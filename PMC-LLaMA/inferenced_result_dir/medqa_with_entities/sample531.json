@@ -1,0 +1,529 @@
+{
+  "original_data": {
+    "question": "A 24-year-old woman is brought to the emergency room (ER) by her co-workers after they found her unconscious in her cubicle when they returned from lunch. They tell you that she has diabetes but do not know anything more about her condition. The woman’s vital signs include: pulse 110/min, respiratory rate 24/min, temperature 36.7°C (98.0°F), and blood pressure 90/60 mm Hg. On physical examination, the patient is breathing heavily and gives irrelevant responses to questions. The skin and mucous membranes appear dry. Examination of the abdomen reveals mild diffuse tenderness to palpation. Deep tendon reflexes in the extremities are 1+ bilaterally. Laboratory studies show:\nFinger stick glucose 630 mg/dL\nArterial blood gas analysis:\npH 7.1\nPO2 90 mm Hg\nPCO2 33 mm Hg\nHCO3 8 mEq/L\nSerum:\nSodium 135 mEq/L\nPotassium 3.1 mEq/L\nChloride 136 mEq/L\nBlood urea nitrogen 20 mg/dL\nSerum creatinine 1.2 mg/dL\nUrine examination shows:\nGlucose Positive\nKetones Positive\nLeukocytes Negative\nNitrite Negative\nRBCs Negative\nCasts Negative\nThe patient is immediately started on a bolus of intravenous (IV) 0.9% sodium chloride (NaCl). Which of the following is the next best step in the management of this patient?",
+    "options": {
+      "A": "Infuse NaHCO3 slowly",
+      "B": "Switch fluids to 0.45% NaCl",
+      "C": "Start IV insulin infusion",
+      "D": "Replace potassium intravenously"
+    }
+  },
+  "model_response": "The patient is presenting with diabetic ketoacidosis (DKA), which is a state of absolute or relative insulin deficiency and is characterized by an anion gap metabolic acidosis due to ketone body production. The treatment of DKA includes insulin replacement to inhibit ketogenesis and glucose oxidation, correction of dehydration with normal saline, and correction of electrolyte imbalance, especially hypokalemia. Bicarbonate replacement is controversial and some experts recommend not replacing bicarbonate unless the pH falls below 7.1. IV regular insulin is given in a bolus dose of 0.1 U/kg IV, followed by a continuous infusion of 0.1 U/kg/h, with the goal of lowering the blood glucose by 50-75 mg/dL/h. The normal saline is isotonic (0.9% NaCl) and should not be changed.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "ER",
+      "type": "T026",
+      "umls_id": "C0014239",
+      "score": 0.9607449173927307,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "A system of cisternae in the CYTOPLASM of many cells. In places the endoplasmic reticulum is continuous with the plasma membrane (CELL MEMBRANE) or outer membrane of the nuclear envelope. If the outer surfaces of the endoplasmic reticulum membranes are coated with ribosomes, the endoplasmic reticulum is said to be rough-surfaced (ENDOPLASMIC RETICULUM, ROUGH); otherwise it is said to be smooth-surfaced (ENDOPLASMIC RETICULUM, SMOOTH). (King & Stansfield, A Dictionary of Genetics, 4th ed)"
+    },
+    {
+      "text": "co-workers",
+      "type": "T097",
+      "umls_id": "C1527116",
+      "score": 0.7163147330284119,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Members of the various professions (e.g., PHYSICIANS) or occupations (e.g., POLICE)."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "cubicle",
+      "type": "T073",
+      "umls_id": "C0180240",
+      "score": 0.7447595000267029,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Cubicle curtains are intended to partition off an area (i.e., form a cubicle). They are used in many areas of healthcare facilities such as holding areas, preparation areas, procedure areas, overflow areas, examination rooms, patient rooms, and inventory areas. They are designed to block out light and/or provide privacy by keeping people outside the curtain from being able to see inside. These curtains usually consist of a piece of fabric hung from a ceiling track. Cubicle curtains are manually or power operated; they can come in a variety of shapes, sizes and materials (e.g., cotton, polyester, nylon, vinyl). Fire-retardant, tear and mildew-resistant, and liquid-repellant cubicle curtains are available. Disposable and reusable cubicle curtains are available."
+    },
+    {
+      "text": "lunch",
+      "type": "T056",
+      "umls_id": "C2697949",
+      "score": 0.9940344095230103,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A midday meal sometimes also called dinner."
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anything",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "woman’s vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.8070098161697388,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "responses",
+      "type": "T032",
+      "umls_id": "C0871261",
+      "score": 0.982933521270752,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "Any act or phenomena, or behavior, constituting a reply or reaction of a living organism or its part to some foregoing stimulus or agent."
+    },
+    {
+      "text": "questions",
+      "type": "T170",
+      "umls_id": "C1522634",
+      "score": 0.8235301375389099,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine)."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "Deep tendon reflexes",
+      "type": "T201",
+      "umls_id": "C0489815",
+      "score": 0.9582180380821228,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Contraction of a muscle triggered by a signal from a muscle spindle in response to a stimulus applied to a specific trigger point on the body. The strength of the response can provide insight into central and peripheral nerve performance."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Arterial blood gas analysis",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9822935461997986,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "PO2",
+      "type": "T059",
+      "umls_id": "C1283004",
+      "score": 0.9435220956802368,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the pressure of oxygen dissolved in the blood and how well oxygen is able to move from the airspace of the lungs into the blood."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "PCO2",
+      "type": "T034",
+      "umls_id": "C0391839",
+      "score": 0.996638834476471,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Potassium",
+      "type": "T121",
+      "umls_id": "C0032821",
+      "score": 0.9785500764846802,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element in the alkali group of metals with an atomic symbol K, atomic number 19, and atomic weight 39.10. It is the chief cation in the intracellular fluid of muscle and other cells. Potassium ion is a strong electrolyte that plays a significant role in the regulation of fluid volume and maintenance of the WATER-ELECTROLYTE BALANCE."
+    },
+    {
+      "text": "Serum creatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "Urine examination",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9677540063858032,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "Positive\n",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Negative\nNitrite",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.71356201171875,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Negative\nRBCs",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.7977865934371948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Negative\nCasts",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.7664885520935059,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "bolus of intravenous (IV",
+      "type": "T169",
+      "umls_id": "C1522229",
+      "score": 0.8558248281478882,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "A volume of drug intended to be administered into a vein at a relatively fast rate. The volume of drug and the rate of administration are specified."
+    },
+    {
+      "text": "sodium chloride",
+      "type": "T197",
+      "umls_id": "C0037494",
+      "score": 0.9903866648674011,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "A ubiquitous sodium salt that is commonly used to season food."
+    },
+    {
+      "text": "NaCl",
+      "type": "T197",
+      "umls_id": "C0037494",
+      "score": 0.9911061525344849,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "A ubiquitous sodium salt that is commonly used to season food."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

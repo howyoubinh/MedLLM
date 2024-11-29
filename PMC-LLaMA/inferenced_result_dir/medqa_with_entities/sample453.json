@@ -1,0 +1,509 @@
+{
+  "original_data": {
+    "question": "A 34-year-old man presents to the emergency department complaining of headache, fever, chills, cough, shortness of breath, and chest pain for the past 4 days. He smokes 2 packs per day and drinks 2–3 beers every day. He denies any previous medical problems except for seasonal allergies for which he takes diphenhydramine on occasions. At the hospital, the vital signs include: temperature 40.0°C (104.0°F), blood pressure 140/80 mm Hg, heart rate 98/min, and respiratory rate 28/min. On physical exam, he is thin and poorly kept. His clothes appear dirty. Small scars are visible in the decubitus region of both arms. The lung sounds are equal with bilateral crackles, and heart auscultation reveals a systolic murmur that radiates to the left axilla. Petechiae are seen on the hard palate and palms of his hands. A chest X-ray and blood cultures are ordered. What is the most likely organism causing his symptoms?",
+    "options": {
+      "A": "Streptococci viridans",
+      "B": "Staphylococcus aureus",
+      "C": "Aspergillus fumigatus",
+      "D": "Staphylococcus epidermidis"
+    }
+  },
+  "model_response": "The chest X-ray shows a large cavitary lesion in the right upper lobe. The blood cultures reveal a gram-positive cocci in clusters. The patient is diagnosed with lung abscess secondary to right upper lobe pneumonia. The most likely organism causing his symptoms is Streptococci viridans. Staphylococcus aureus is a common cause of community-acquired pneumonia, but it is more likely to cause a necrotizing pneumonia. Aspergillus fumigatus is a fungus that can cause a fungus ball in a cavitary lesion. Staphylococcus epidermidis is a common cause of prosthetic valve endocarditis.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chills",
+      "type": "T184",
+      "umls_id": "C0085593",
+      "score": 0.9896153211593628,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden sensation of being cold. It may be accompanied by SHIVERING."
+    },
+    {
+      "text": "cough",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.9633718132972717,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "shortness of",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.8000118732452393,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "packs",
+      "type": "T074",
+      "umls_id": "C0441122",
+      "score": 0.9747228026390076,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beers",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9762206673622131,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medical problems",
+      "type": "T033",
+      "umls_id": "C1254481",
+      "score": 0.8567705750465393,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An issue is based on the patient."
+    },
+    {
+      "text": "seasonal allergies",
+      "type": "T047",
+      "umls_id": "C0018621",
+      "score": 0.9719552993774414,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Allergic rhinitis caused by outdoor allergens."
+    },
+    {
+      "text": "diphenhydramine",
+      "type": "T109",
+      "umls_id": "C0012522",
+      "score": 0.9719389081001282,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A histamine H1 antagonist used as an antiemetic, antitussive, for dermatoses and pruritus, for hypersensitivity reactions, as a hypnotic, an antiparkinson, and as an ingredient in common cold preparations. It has some undesired antimuscarinic and sedative effects."
+    },
+    {
+      "text": "occasions",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.7853838801383972,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "poorly",
+      "type": "T080",
+      "umls_id": "C0205169",
+      "score": 0.9706488847732544,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having undesirable or negative qualities."
+    },
+    {
+      "text": "clothes",
+      "type": "T073",
+      "umls_id": "C0009072",
+      "score": 0.9869227409362793,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Fabric or other material used to cover the body."
+    },
+    {
+      "text": "dirty",
+      "type": "T073",
+      "umls_id": "C2712741",
+      "score": 0.732062578201294,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A device that disperses radioactive material by conventional explosive or other mechanical means, such as a spray."
+    },
+    {
+      "text": "Small scars",
+      "type": "T019",
+      "umls_id": "C0152423",
+      "score": 0.7250694632530212,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Underdevelopment of the external ear. [HPO:probinson, PMID:19152421, PMID:3270622]"
+    },
+    {
+      "text": "decubitus region",
+      "type": "T047",
+      "umls_id": "C0011127",
+      "score": 0.7494807839393616,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Death of tissue due to external pressure."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "lung sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9856062531471252,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "bilateral crackles",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.7125228047370911,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "heart auscultation",
+      "type": "T060",
+      "umls_id": "C0018793",
+      "score": 0.9723694920539856,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the heart."
+    },
+    {
+      "text": "systolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.9936463832855225,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "radiates",
+      "type": "T169",
+      "umls_id": "C0332301",
+      "score": 0.9913275837898254,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left axilla",
+      "type": "T029",
+      "umls_id": "C0230338",
+      "score": 0.9790101647377014,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Petechiae",
+      "type": "T047",
+      "umls_id": "C0031256",
+      "score": 0.9828585982322693,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Purple or red hemorrhagic pinpoint spots in the skin or mucous membranes."
+    },
+    {
+      "text": "hard palate",
+      "type": "T023",
+      "umls_id": "C0226901",
+      "score": 0.9865142703056335,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The anteriorly located rigid section of the PALATE."
+    },
+    {
+      "text": "palms of his hands",
+      "type": "T029",
+      "umls_id": "C0230373",
+      "score": 0.7877722978591919,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The undersurface of the hand."
+    },
+    {
+      "text": "chest X-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "blood cultures",
+      "type": "T059",
+      "umls_id": "C0200949",
+      "score": 0.9821042418479919,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Test to determine the presence of blood infection (e.g. SEPSIS; BACTEREMIA)."
+    },
+    {
+      "text": "ordered",
+      "type": "T080",
+      "umls_id": "C1705176",
+      "score": 0.992306649684906,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A logical or comprehensible arrangement of separate elements; a condition of regular or proper arrangement."
+    },
+    {
+      "text": "organism",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.9949436187744141,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "34-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

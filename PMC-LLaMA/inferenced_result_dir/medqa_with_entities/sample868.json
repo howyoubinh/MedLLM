@@ -1,0 +1,526 @@
+{
+  "original_data": {
+    "question": "An 80-year-old man is brought to the emergency department because of fatigue and lightheadedness. He does not have chest pain, palpitations, or difficulty breathing. He has a history of hyperlipidemia, type 2 diabetes mellitus, hypertension, osteoarthritis, and asthma. Current medications include simvastatin, metformin, lisinopril, albuterol, and ibuprofen. His pulse is 48/min and blood pressure is 89/50 mm Hg. He responds slowly to questions but is oriented to person, place, and time. Examination shows dry mucous membranes. His lungs are clear to auscultation and bowel sounds are positive with no pulsatile masses or bruits. Pedal pulses are nonpalpable, distal extremities are cold, and capillary refill time is 4 seconds. An ECG shows left axis deviation, a Q wave in lead III, a constant PR interval of 0.15 seconds with every third P wave that is nonconducted, and a QRS interval of .09 seconds. Which of the following is the most appropriate next step in management?",
+    "options": {
+      "A": "Dobutamine",
+      "B": "Norepinephrine",
+      "C": "Cardiac pacing",
+      "D": "Epinephrine"
+    }
+  },
+  "model_response": "The patient's clinical presentation suggests severe bradycardia. The ECG findings are consistent with complete heart block. The patient's symptoms of fatigue and lightheadedness are likely due to the bradycardia. The elevated CVP suggests fluid depletion due to inadequate cardiac output. The first step in management should be intravenous fluids. If the patient remains hypotensive, inotropic support with dobutamine or dopamine may be necessary. However, the patient's rhythm is likely due to a mechanical cause (complete heart block) and will require a temporary transvenous pacemaker. Epinephrine and norepinephrine will increase peripheral vascular resistance and increase coronary perfusion pressure, but will not correct the underlying problem of inadequate cardiac output due to complete heart block. Cardiac pacing is unlikely to be effective because of the mechanical obstruction at the level of the atrioventricular node.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "lightheadedness",
+      "type": "T184",
+      "umls_id": "C0220870",
+      "score": 0.9825802445411682,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of faintness; a reeling sensation. Lightheadedness is medically distinct from dizziness, unsteadiness, and vertigo."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "difficulty breathing",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.980121910572052,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "type 2 diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9807969927787781,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "osteoarthritis",
+      "type": "T047",
+      "umls_id": "C0029408",
+      "score": 0.9689512848854065,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A progressive, degenerative joint disease, the most common form of arthritis, especially in older persons. The disease is thought to result not from the aging process but from biochemical changes and biomechanical stresses affecting articular cartilage. In the foreign literature it is often called osteoarthrosis deformans."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "simvastatin",
+      "type": "T109",
+      "umls_id": "C0074554",
+      "score": 0.9242107272148132,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A derivative of LOVASTATIN and potent competitive inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase (HYDROXYMETHYLGLUTARYL COA REDUCTASES), which is the rate-limiting enzyme in cholesterol biosynthesis. It may also interfere with steroid hormone production. Due to the induction of hepatic LDL RECEPTORS, it increases breakdown of LDL CHOLESTEROL."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "albuterol",
+      "type": "T109",
+      "umls_id": "C0001927",
+      "score": 0.9752848744392395,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A short-acting beta-2 adrenergic agonist that is primarily used as a bronchodilator agent to treat ASTHMA. Albuterol is prepared as a racemic mixture of R(-) and S(+) stereoisomers. The stereospecific preparation of R(-) isomer of albuterol is referred to as levalbuterol."
+    },
+    {
+      "text": "ibuprofen",
+      "type": "T109",
+      "umls_id": "C0020740",
+      "score": 0.9725996851921082,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "responds",
+      "type": "T169",
+      "umls_id": "C1553423",
+      "score": 0.7422023415565491,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The entity is the one to which the response or reply to the transmission should be sent.</p>"
+    },
+    {
+      "text": "questions",
+      "type": "T170",
+      "umls_id": "C1522634",
+      "score": 0.8235301375389099,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A sentence of inquiry that asks for a reply; a request for information (e.g., a formal request to a database or search engine)."
+    },
+    {
+      "text": "person",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9640272855758667,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "mucous membranes",
+      "type": "T024",
+      "umls_id": "C0026724",
+      "score": 0.9764407277107239,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "An EPITHELIUM with MUCUS-secreting cells, such as GOBLET CELLS. It forms the lining of many body cavities, such as the DIGESTIVE TRACT, the RESPIRATORY TRACT, and the reproductive tract. Mucosa, rich in blood and lymph vessels, comprises an inner epithelium, a middle layer (lamina propria) of loose CONNECTIVE TISSUE, and an outer layer (muscularis mucosae) of SMOOTH MUSCLE CELLS that separates the mucosa from submucosa."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "bowel sounds",
+      "type": "T033",
+      "umls_id": "C0232693",
+      "score": 0.9843449592590332,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "pulsatile masses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "bruits",
+      "type": "T033",
+      "umls_id": "C0006318",
+      "score": 0.9850603342056274,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Pedal pulses",
+      "type": "T042",
+      "umls_id": "C0232157",
+      "score": 0.962354838848114,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nonpalpable",
+      "type": "T201",
+      "umls_id": "C4086626",
+      "score": 0.9538418650627136,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Incapable of being handled, touched or felt through palpation."
+    },
+    {
+      "text": "distal extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.7996006608009338,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "capillary refill time",
+      "type": "T201",
+      "umls_id": "C0425716",
+      "score": 0.9852696657180786,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "seconds",
+      "type": "T079",
+      "umls_id": "C0457385",
+      "score": 0.9833773970603943,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit of time, one of the seven base units of the International System of Units (Systeme International d'Unites, SI). The second is the duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the caesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute; 3,600 seconds constitute one hour."
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "left axis deviation",
+      "type": "T033",
+      "umls_id": "C0232297",
+      "score": 0.9610381722450256,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An electrocardiographic finding of the Q axis from -30 to -90 degrees."
+    },
+    {
+      "text": "Q wave",
+      "type": "T060",
+      "umls_id": "C0429089",
+      "score": 0.9664025902748108,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lead III",
+      "type": "T082",
+      "umls_id": "C0449214",
+      "score": 0.9881739616394043,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A bipolar electrocardiogram limb lead which records the voltage between the negative electrode on the left thoracic limb and the positive electrode on the left pelvic limb."
+    },
+    {
+      "text": "constant",
+      "type": "T170",
+      "umls_id": "C1720529",
+      "score": 0.9768766760826111,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "PR",
+      "type": "T083",
+      "umls_id": "C0034044",
+      "score": 0.9120377898216248,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "An island in the Greater Antilles in the West Indies. Its capital is San Juan. It is a self-governing commonwealth in union with the United States. It was discovered by Columbus in 1493 but no colonization was attempted until 1508. It belonged to Spain until ceded to the United States in 1898. It became a commonwealth with autonomy in internal affairs in 1952. Columbus named the island San Juan for St. John's Day, the Monday he arrived, and the bay Puerto Rico, rich harbor. The island became Puerto Rico officially in 1932. (From Webster's New Geographical Dictionary, 1988, p987 & Room, Brewer's Dictionary of Names, 1992, p436)"
+    },
+    {
+      "text": "interval",
+      "type": "T079",
+      "umls_id": "C1272706",
+      "score": 0.9620015621185303,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time period, or other type of interval, during which something may be achieved, obtained or observed."
+    },
+    {
+      "text": "wave",
+      "type": "T070",
+      "umls_id": "C0678544",
+      "score": 0.9773618578910828,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nonconducted",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "QRS interval",
+      "type": "T079",
+      "umls_id": "C1272706",
+      "score": 0.820397675037384,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A time period, or other type of interval, during which something may be achieved, obtained or observed."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "80-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

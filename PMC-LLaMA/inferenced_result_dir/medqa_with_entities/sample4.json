@@ -1,0 +1,324 @@
+{
+  "original_data": {
+    "question": "A 35-year-old man comes to the physician because of itchy, watery eyes for the past week. He has also been sneezing multiple times a day during this period. He had a similar episode 1 year ago around springtime. He has iron deficiency anemia and ankylosing spondylitis. Current medications include ferrous sulfate, artificial tear drops, and indomethacin. He works as an elementary school teacher. His vital signs are within normal limits. Visual acuity is 20/20 without correction. Physical examination shows bilateral conjunctival injection with watery discharge. The pupils are 3 mm, equal, and reactive to light. Examination of the anterior chamber of the eye is unremarkable. Which of the following is the most appropriate treatment?",
+    "options": {
+      "A": "Erythromycin ointment",
+      "B": "Ketotifen eye drops",
+      "C": "Warm compresses",
+      "D": "Fluorometholone eye drops"
+    }
+  },
+  "model_response": "The patient has seasonal allergic conjunctivitis. The treatment is usually symptomatic. Erythromycin ointment is used to treat bacterial conjunctivitis. Ketotifen eye drops are used to treat seasonal allergic conjunctivitis. Warm compresses are used to treat eyelid disorders. Fluorometholone eye drops are used to treat inflammatory conditions of the eye.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "itchy",
+      "type": "T184",
+      "umls_id": "C0033774",
+      "score": 0.9936997294425964,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An intense itching sensation that produces the urge to rub or scratch the skin to obtain relief."
+    },
+    {
+      "text": "watery",
+      "type": "T080",
+      "umls_id": "C0443350",
+      "score": 0.9556147456169128,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "episode 1",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.925693690776825,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "iron deficiency anemia",
+      "type": "T047",
+      "umls_id": "C0162316",
+      "score": 0.9790340065956116,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Anemia characterized by decreased or absent iron stores, low serum iron concentration, low transferrin saturation, and low hemoglobin concentration or hematocrit value. The erythrocytes are hypochromic and microcytic and the iron binding capacity is increased."
+    },
+    {
+      "text": "ankylosing spondylitis",
+      "type": "T047",
+      "umls_id": "C0038013",
+      "score": 0.9541828036308289,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic inflammatory condition affecting the axial joints, such as the SACROILIAC JOINT and other intervertebral or costovertebral joints. It occurs predominantly in young males and is characterized by pain and stiffness of joints (ANKYLOSIS) with inflammation at tendon insertions."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "ferrous sulfate",
+      "type": "T121",
+      "umls_id": "C0060282",
+      "score": 0.9748814702033997,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A sulfate salt of mineral iron formulated for oral administration and used as a dietary supplement, ferrous sulfate is absorbed in the stomach and small intestine and combines with apoferritin to form ferritin, which is stored in the liver, spleen, red bone marrow, and intestinal mucosa. Important in transport of oxygen by hemoglobin to the tissues, iron is also found in myoglobin, transferrin, and ferritin, and is a component of many enzymes such as catalase, peroxidase, and cytochromes."
+    },
+    {
+      "text": "artificial tear drops",
+      "type": "T121",
+      "umls_id": "C2608262",
+      "score": 0.8468706607818604,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Ophthalmic solutions that include LUBRICANTS and WETTING AGENTS such as POLYETHYLENE GLYCOL; HYPROMELLOSE; GLYCEROL; PROPYLENE GLYCOL. They are used to treat conditions caused by deficient tear production such as DRY EYE SYNDROME."
+    },
+    {
+      "text": "indomethacin",
+      "type": "T109",
+      "umls_id": "C0021246",
+      "score": 0.9749702215194702,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent (NSAID) that inhibits CYCLOOXYGENASE, which is necessary for the formation of PROSTAGLANDINS and other AUTACOIDS. It also inhibits the motility of POLYMORPHONUCLEAR LEUKOCYTES."
+    },
+    {
+      "text": "elementary school teacher",
+      "type": "T097",
+      "umls_id": "C0870482",
+      "score": 0.980191171169281,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Visual acuity",
+      "type": "T201",
+      "umls_id": "C0042812",
+      "score": 0.9590803384780884,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Clarity or sharpness of OCULAR VISION or the ability of the eye to see fine details. Visual acuity depends on the functions of RETINA, neuronal transmission, and the interpretative ability of the brain. Normal visual acuity is expressed as 20/20 indicating that one can see at 20 feet what should normally be seen at that distance. Visual acuity can also be influenced by brightness, color, and contrast."
+    },
+    {
+      "text": "correction",
+      "type": "T079",
+      "umls_id": "C1546923",
+      "score": 0.9628809690475464,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "conjunctival",
+      "type": "T023",
+      "umls_id": "C0009758",
+      "score": 0.9646084308624268,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The mucous membrane that covers the posterior surface of the eyelids and the anterior pericorneal surface of the eyeball."
+    },
+    {
+      "text": "injection",
+      "type": "T061",
+      "umls_id": "C0021485",
+      "score": 0.9671467542648315,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "watery discharge",
+      "type": "T031",
+      "umls_id": "C0012621",
+      "score": 0.7670717239379883,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The pouring forth of a fluid."
+    },
+    {
+      "text": "pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "reactive to light",
+      "type": "T033",
+      "umls_id": "C4068744",
+      "score": 0.9880549907684326,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "anterior chamber",
+      "type": "T023",
+      "umls_id": "C0003151",
+      "score": 0.9722033739089966,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The space in the eye, filled with aqueous humor, bounded anteriorly by the cornea and a small portion of the sclera and posteriorly by a small portion of the ciliary body, the iris, and that part of the crystalline lens which presents through the pupil. (Cline et al., Dictionary of Visual Science, 4th ed, p109)"
+    },
+    {
+      "text": "eye",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9994997978210449,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

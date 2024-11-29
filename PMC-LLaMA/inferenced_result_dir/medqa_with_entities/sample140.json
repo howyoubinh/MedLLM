@@ -1,0 +1,439 @@
+{
+  "original_data": {
+    "question": "A 24-year-old pregnant woman at 28 weeks gestation presents to the emergency department with complaints of fever with chills and pain in her knee and ankle joints for the past 2 days. She also complains of headaches and difficulty moving her neck. Further questioning reveals that she had a tick bite on her arm while gardening a few days ago. Past medical history is noncontributory. She takes a multivitamin with iron and folate every day and has been receiving regular prenatal care and the pregnancy is progressing normally. On examination, an erythematous rash is seen on her right arm, as shown in the accompanying photograph. Her obstetric examination is normal. Ultrasound of the fetus is reassuring with a normal heartbeat and no gross abnormalities. A specimen is collected to test for Lyme disease. What is the next best step for this patient?",
+    "options": {
+      "A": "Ibuprofen",
+      "B": "Tetracycline",
+      "C": "Amoxicilin",
+      "D": "Gentamicin"
+    }
+  },
+  "model_response": "This patient's clinical presentation is consistent with early Lyme disease. The rash, called erythema migrans, is seen in 80% of patients with Lyme disease. The rash is usually red and expands slowly with central clearing. It is usually seen on the extremities. Lyme disease is caused by a spirochete, Borrelia burgdorferi, which is transmitted by the bite of a tick. The initial treatment is doxycycline or amoxicillin. Tetracycline is contraindicated in pregnancy. In this case, because the pregnancy is progressing normally and the fetal heartbeat is normal, treatment with doxycycline would be the treatment of choice. Gentamicin is not used to treat Lyme disease. Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that may help with symptomatic relief but will not cure Lyme disease.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "pregnant woman",
+      "type": "T098",
+      "umls_id": "C0033011",
+      "score": 0.9548408389091492,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females who are pregnant, as cultural, psychological, or sociological entities."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "fever with",
+      "type": "T184",
+      "umls_id": "C0085594",
+      "score": 0.7544333338737488,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Shivering secondary to a febrile process."
+    },
+    {
+      "text": "chills",
+      "type": "T184",
+      "umls_id": "C0085593",
+      "score": 0.9896153211593628,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden sensation of being cold. It may be accompanied by SHIVERING."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "knee",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9991382360458374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "ankle joints",
+      "type": "T030",
+      "umls_id": "C0003087",
+      "score": 0.9740623235702515,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "The joint that is formed by the inferior articular and malleolar articular surfaces of the TIBIA; the malleolar articular surface of the FIBULA; and the medial malleolar, lateral malleolar, and superior surfaces of the TALUS."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "difficulty moving",
+      "type": "T033",
+      "umls_id": "C0578673",
+      "score": 0.976737916469574,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "neck",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.9895266890525818,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "questioning",
+      "type": "T041",
+      "umls_id": "C0876928",
+      "score": 0.9653850197792053,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Used to describe an individual who is unsure of their sexual orientation."
+    },
+    {
+      "text": "tick bite",
+      "type": "T037",
+      "umls_id": "C0241407",
+      "score": 0.9801117777824402,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "The effects, both local and systemic, caused by the bites of TICKS."
+    },
+    {
+      "text": "arm",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9877879619598389,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "gardening",
+      "type": "T056",
+      "umls_id": "C0868963",
+      "score": 0.9831878542900085,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Cultivation of PLANTS; (FRUIT; VEGETABLES; MEDICINAL HERBS) on small plots of ground or in containers."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "noncontributory",
+      "type": "T052",
+      "umls_id": "C1880177",
+      "score": 0.8284522891044617,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The part played by somebody or something in bringing about an end or result."
+    },
+    {
+      "text": "multivitamin",
+      "type": "T109",
+      "umls_id": "C0301532",
+      "score": 0.987159252166748,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A dietary supplement containing all or most of the vitamins that may not be readily available in the diet. Vitamins may be classified according to their solubility either in lipids (vitamins A, D, E, K, F) or in water (vitamins C, B-complex). Present in minute amounts in various foods, vitamins are essential to maintaining normal metabolism and biochemical functions. (NCI04)"
+    },
+    {
+      "text": "iron",
+      "type": "T121",
+      "umls_id": "C0302583",
+      "score": 0.9652329683303833,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "A metallic element with atomic symbol Fe, atomic number 26, and atomic weight 55.85. It is an essential constituent of HEMOGLOBINS; CYTOCHROMES; and IRON-BINDING PROTEINS. It plays a role in cellular redox reactions and in the transport of OXYGEN."
+    },
+    {
+      "text": "folate",
+      "type": "T109",
+      "umls_id": "C0178638",
+      "score": 0.9847492575645447,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "A cofactor for 1-carbon transfer involved with DNA synthesis."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "prenatal care",
+      "type": "T058",
+      "umls_id": "C0033052",
+      "score": 0.9855771064758301,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Care provided the pregnant woman in order to prevent complications, and decrease the incidence of maternal and prenatal mortality."
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "erythematous rash",
+      "type": "T184",
+      "umls_id": "C0234913",
+      "score": 0.9757339954376221,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right arm",
+      "type": "T023",
+      "umls_id": "C0230346",
+      "score": 0.9902463555335999,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "photograph",
+      "type": "T073",
+      "umls_id": "C0441468",
+      "score": 0.9877880811691284,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An image recorded by a camera."
+    },
+    {
+      "text": "obstetric examination",
+      "type": "T058",
+      "umls_id": "C0436139",
+      "score": 0.969884991645813,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "fetus",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.965303361415863,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "heartbeat",
+      "type": "T201",
+      "umls_id": "C0232117",
+      "score": 0.9336593151092529,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of the pulse as observed in an artery, expressed as beats per minute. It can be measured at several anatomic sites, including the wrist, neck, temple, groin, behind the knees, or on top of the foot."
+    },
+    {
+      "text": "gross abnormalities",
+      "type": "T019",
+      "umls_id": "C0000768",
+      "score": 0.838638186454773,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Malformations of organs or body parts during development in utero."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "test",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9994137287139893,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "Lyme disease",
+      "type": "T047",
+      "umls_id": "C0024198",
+      "score": 0.9876024127006531,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An infectious disease caused by a spirochete, BORRELIA BURGDORFERI, which is transmitted chiefly by Ixodes dammini (see IXODES) and pacificus ticks in the United States and Ixodes ricinis (see IXODES) in Europe. It is a disease with early and late cutaneous manifestations plus involvement of the nervous system, heart, eye, and joints in variable combinations. The disease was formerly known as Lyme arthritis and first discovered at Old Lyme, Connecticut."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "24-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

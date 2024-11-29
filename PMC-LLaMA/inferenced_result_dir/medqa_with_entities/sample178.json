@@ -1,0 +1,243 @@
+{
+  "original_data": {
+    "question": "A 40-year-old businessman who was previously well is brought into the emergency department by his assistant with a complaint of left-sided weakness after a chiropractic neck manipulation. He has never felt like this before. Past medical history is insignificant. His blood pressure is 125/75 mm Hg, pulse 86/min, respiratory rate 13/min, temperature 36.8°C (98.2°F). A T2-weighted MRI shows a left C5 hemicord lesion. The patient is treated with cervical immobilization, a course of steroids, and physical therapy. What other finding will most likely be seen in this patient?",
+    "options": {
+      "A": "Spastic paralysis at the level of lesion",
+      "B": "Right-sided Horner's syndrome",
+      "C": "Contralateral corticospinal tract involvement",
+      "D": "Right-sided analgesia"
+    }
+  },
+  "model_response": "The patient has a central cord syndrome. The central cord syndrome results from damage to the gray matter nerve cells and crossing spinothalamic tracts surrounding the central canal. The central portion of the cord is impaired, and the peripheral portions are spared. This results in arm weakness out of proportion to leg weakness and a loss of pain and temperature sensation from the central portion of the body. Horner's syndrome is seen with lesions of the lateral medulla. The corticospinal tract is found in the lateral white matter of the spinal cord and would not be affected by a central cord lesion. Sensory loss for pain and temperature is found over the contralateral face with a lesion of the spinal nucleus of the trigeminal nerve in the pons.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "businessman",
+      "type": "T073",
+      "umls_id": "C0683757",
+      "score": 0.7390730977058411,
+      "semantic_types": [
+        "T073",
+        "T092"
+      ],
+      "definition": "Any formal business entity for profit, which may be a corporation, a partnership, association or individual proprietorship."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "assistant",
+      "type": "T097",
+      "umls_id": "C0011327",
+      "score": 0.995733380317688,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals who assist the dentist or the dental hygienist."
+    },
+    {
+      "text": "complaint",
+      "type": "T201",
+      "umls_id": "C3864418",
+      "score": 0.9737823009490967,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left-sided weakness",
+      "type": "T033",
+      "umls_id": "C1698038",
+      "score": 0.8732028603553772,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A reduction in the strength of the muscles in the left side of the body."
+    },
+    {
+      "text": "chiropractic",
+      "type": "T091",
+      "umls_id": "C0008138",
+      "score": 0.9814528226852417,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "An occupational discipline founded by D.D. Palmer in the 1890's based on the relationship of the spine to health and disease."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "insignificant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8140692114830017,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "His blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.8905147314071655,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse 86/min",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "T2-weighted MRI",
+      "type": "T060",
+      "umls_id": "C5556594",
+      "score": 0.9590515494346619,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A method of magnetic resonance imaging (MRI) that creates contrast between tissues based on differences in the transverse relaxation of a tissue's net magnetization vector; it measures the time taken for spinning protons to lose phase coherence among the nuclei spinning perpendicular to the main field. This MRI sequence is produced by using a longer time to echo (TE) and repetition time (TR) than a T1-weighted sequence."
+    },
+    {
+      "text": "left",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9974963068962097,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "C5 hemicord",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lesion",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9757081866264343,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cervical immobilization",
+      "type": "T061",
+      "umls_id": "C0020944",
+      "score": 0.7680867314338684,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The restriction of the MOVEMENT of whole or part of the body by physical means (RESTRAINT, PHYSICAL) or chemically by ANALGESIA, or the use of TRANQUILIZING AGENTS or NEUROMUSCULAR NONDEPOLARIZING AGENTS. It includes experimental protocols used to evaluate the physiologic effects of immobility."
+    },
+    {
+      "text": "steroids",
+      "type": "T109",
+      "umls_id": "C0038317",
+      "score": 0.9680830836296082,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A group of polycyclic compounds closely related biochemically to TERPENES. They include cholesterol, numerous hormones, precursors of certain vitamins, bile acids, alcohols (STEROLS), and certain natural drugs and poisons. Steroids have a common nucleus, a fused, reduced 17-carbon atom ring system, cyclopentanoperhydrophenanthrene. Most steroids also have two methyl groups and an aliphatic side-chain attached to the nucleus. (From Hawley's Condensed Chemical Dictionary, 11th ed)"
+    },
+    {
+      "text": "physical therapy",
+      "type": "T091",
+      "umls_id": "C0699718",
+      "score": 0.9791001081466675,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": null
+    },
+    {
+      "text": "finding",
+      "type": "T184",
+      "umls_id": "C0037088",
+      "score": 0.9943349957466125,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical manifestations that can be either objective when observed by a physician, or subjective when perceived by the patient."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "40-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

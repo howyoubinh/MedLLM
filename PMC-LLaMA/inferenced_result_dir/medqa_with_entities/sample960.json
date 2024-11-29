@@ -1,0 +1,546 @@
+{
+  "original_data": {
+    "question": "A 52-year-old man presents to the clinic with a headache and dizziness for the past month. The patient reports that about 4 weeks ago he developed a “nagging” headache. He thought he had a cold, so he tried over the counter ibuprofen that provided only mild and temporary relief. Recently, he also started feeling dizzy and nauseous, which only resolves when he steps outside to shovel the snow. The patient’s medical history is significant for hypertension, type II diabetes mellitus, and asthma. His medications include amlodipine, metformin, glimepiride, and a fluticasone/salmeterol inhaler. The patient has been living at his upstate cabin for the past 5 weeks but denies other recent travel. He denies smoking tobacco or illicit drug use. The patient’s temperature is 99°F (37.2°C), blood pressure is 130/78 mmHg, pulse is 72/min, and respirations are 16/min with an oxygen saturation of 98% on room air. The patient is currently asymptomatic while sitting in the office, and physical examination is unremarkable. Labs are drawn, as shown below:\n\nHemoglobin: 20 g/dL\nHematocrit: 60%\nLeukocyte count: 10,050 cells/mm^3 with normal differential\nPlatelet count: 350,000/mm^3\n\nWhich of the following underlies the patient’s most likely diagnosis?",
+    "options": {
+      "A": "Medication side effect",
+      "B": "Myeloproliferative neoplasm",
+      "C": "Neuronal hyperexcitability",
+      "D": "Toxic exposure"
+    }
+  },
+  "model_response": "The patient’s laboratory values are consistent with a diagnosis of hyponatremia. The combination of symptoms, including headache, dizziness, nausea, and improvement with increased fresh air, is classic for a condition known as chronic mountain sickness. This condition occurs in individuals who ascend rapidly to high altitudes, leading to impaired oxygenation and subsequent hypoxia. The hypoxia leads to a decrease in the partial pressure of oxygen in the blood, which in turn leads to increased erythropoietin production and subsequent polycythemia. The increased red blood cell mass leads to an increase in carbon dioxide, which in turn leads to an increase in respiratory rate. The respiratory alkalosis that results from the increased respiratory rate leads to a decrease in the partial pressure of carbon dioxide in the blood, which in turn leads to a decrease in oxygen content. This decrease in oxygen content fuher exacerbates the symptoms of hypoxia. The treatment for chronic mountain sickness is to descend to a lower altitude. The patient’s symptoms are not consistent with a myeloproliferative neoplasm, neuronal hyperexcitability, medication side effect, or toxic exposure.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "patient reports",
+      "type": "T170",
+      "umls_id": "C0747307",
+      "score": 0.9660993218421936,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An indication that the patient provides information about their vital signs, status, or subjective feelings. Some systems also consider information reported by the patient's family or guardian as patient-reported."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "nagging",
+      "type": "T080",
+      "umls_id": "C0559222",
+      "score": 0.826850950717926,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A sensation of discomfort or distress that is persistent and continuous."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "ibuprofen",
+      "type": "T109",
+      "umls_id": "C0020740",
+      "score": 0.9725996851921082,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties"
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temporary",
+      "type": "T079",
+      "umls_id": "C0205374",
+      "score": 0.9846392273902893,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not permanent; not lasting; lacking continuity or regularity."
+    },
+    {
+      "text": "relief",
+      "type": "T033",
+      "umls_id": "C0564405",
+      "score": 0.9670310616493225,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "dizzy",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9601719975471497,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "nauseous",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9677346348762512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "resolves",
+      "type": "T077",
+      "umls_id": "C2699488",
+      "score": 0.8033813834190369,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A means of finding a solution to a problem, or a means of finding agreement or harmony."
+    },
+    {
+      "text": "snow",
+      "type": "T109",
+      "umls_id": "C0009170",
+      "score": 0.9926275014877319,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "An alkaloid ester extracted from the leaves of plants including coca. It is a local anesthetic and vasoconstrictor and is clinically used for that purpose, particularly in the eye, ear, nose, and throat. It also has powerful central nervous system effects similar to the amphetamines and is a drug of abuse. Cocaine, like amphetamines, acts by multiple mechanisms on brain catecholaminergic neurons; the mechanism of its reinforcing effects is thought to involve inhibition of dopamine uptake."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "type II diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.9810224771499634,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "asthma",
+      "type": "T047",
+      "umls_id": "C0004096",
+      "score": 0.970723569393158,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of bronchial disorder with three distinct components: airway hyper-responsiveness (RESPIRATORY HYPERSENSITIVITY), airway INFLAMMATION, and intermittent AIRWAY OBSTRUCTION. It is characterized by spasmodic contraction of airway smooth muscle, WHEEZING, and dyspnea (DYSPNEA, PAROXYSMAL)."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "amlodipine",
+      "type": "T109",
+      "umls_id": "C0051696",
+      "score": 0.9584440588951111,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting dihydropyridine calcium channel blocker. It is effective in the treatment of ANGINA PECTORIS and HYPERTENSION."
+    },
+    {
+      "text": "metformin",
+      "type": "T109",
+      "umls_id": "C0025598",
+      "score": 0.936187207698822,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A biguanide hypoglycemic agent used in the treatment of non-insulin-dependent diabetes mellitus not responding to dietary modification. Metformin improves glycemic control by improving insulin sensitivity and decreasing intestinal absorption of glucose. (From Martindale, The Extra Pharmacopoeia, 30th ed, p289)"
+    },
+    {
+      "text": "glimepiride",
+      "type": "T109",
+      "umls_id": "C0061323",
+      "score": 0.9774118065834045,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A long-acting, third-generation sulfonylurea with hypoglycemic activity. Compared to other generations of sulfonylurea compounds, glimepiride is very potent and has a longer duration of action. This agent is metabolized by CYP2C9 and shows peroxisome proliferator-activated receptor gamma (PPARgamma) agonistic activity."
+    },
+    {
+      "text": "fluticasone/salmeterol inhaler",
+      "type": "T121",
+      "umls_id": "C0939232",
+      "score": 0.8368250727653503,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "A drug combination of fluticasone and salmeterol that is used as an inhaler formulation to manage the symptoms of ASTHMA and CHRONIC OBSTRUCTIVE PULMONARY DISEASE."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "upstate",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "cabin",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "travel",
+      "type": "T056",
+      "umls_id": "C0040802",
+      "score": 0.9811955094337463,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "MOVEMENT across different GEOGRAPHIC LOCATIONS."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "smoking tobacco",
+      "type": "T131",
+      "umls_id": "C0302836",
+      "score": 0.9668868780136108,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Tobacco that is inhaled or puffed from a lit cigar, cigarette or pipe. (ACC)"
+    },
+    {
+      "text": "illicit drug use",
+      "type": "T048",
+      "umls_id": "C0281875",
+      "score": 0.9898788928985596,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "asymptomatic",
+      "type": "T033",
+      "umls_id": "C0231221",
+      "score": 0.9688202142715454,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Without clinical signs or indications that raise the possibility of a particular disorder or dysfunction."
+    },
+    {
+      "text": "sitting",
+      "type": "T033",
+      "umls_id": "C0277814",
+      "score": 0.9747529029846191,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state or act of one who sits; the posture of one who occupies a seat."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "Labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Hemoglobin",
+      "type": "T109",
+      "umls_id": "C0008721",
+      "score": 0.9878804683685303,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An extract of Goa powder; a complex mixture of reduction products of chrysophanic acid, emodin, and emodin monomethyl ether; used locally in ringworm, psoriasis, and eczema."
+    },
+    {
+      "text": "cells/mm^3",
+      "type": "T081",
+      "umls_id": "C2699156",
+      "score": 0.7010768055915833,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A unit of cell concentration expressed in cells per unit of volume equal to one milliliter."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "52-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

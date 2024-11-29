@@ -1,0 +1,481 @@
+{
+  "original_data": {
+    "question": "A 39-year-old man is brought to the emergency department unconscious following 2 episodes of generalized tonic-clonic seizures. According to the attendants, he has complained of recurrent headaches for the past 2 weeks. There is no history of fever, head trauma, or a seizure disorder. The patient does not smoke cigarettes but reportedly drinks 2 glasses of wine daily. He has multiple sexual partners and history regarding the contraceptive use is unavailable. The patient’s vitals include: blood pressure 137/88 mm Hg, temperature 37.2°C (99.0°F). On physical examination, he is obtunded. He grimaces on pain and localizes in response to pain in both upper extremities. Pupils are bilateral 3-mm in diameter and equally round and reactive. Laboratory tests are within normal limits. An MRI of the brain with contrast is shown in the exhibit (see image). A brain biopsy is performed that reveals perivascular clusters of lymphocytes. Which of the following is most associated with this patient’s condition?",
+    "options": {
+      "A": "Epstein-Barr virus",
+      "B": "Human herpes virus",
+      "C": "Human papilloma virus",
+      "D": "Schistosoma haematobium"
+    }
+  },
+  "model_response": "The patient’s obtunded state and the MRI showing contrast enhancement of the brain is consistent with viral encephalitis. The CSF analysis reveals a lymphocytic pleocytosis, which is also consistent with viral encephalitis. The brain biopsy showing perivascular clusters of lymphocytes is consistent with a viral encephalitis. The most common cause of viral encephalitis in an immunocompetent patient is HSV-1. The most common cause of viral encephalitis in patients with AIDS is CMV. The Epstein-Barr virus is associated with the development of lymphomas in immunocompromised patients. Human herpes virus is associated with the development of Kaposi sarcoma in patients with AIDS. Human papilloma virus is associated with the development of cervical cancer. Schistosoma haematobium is associated with the development of squamous cell carcinoma of the bladder. Ref: Roos K.L., Tyler K.L. (2012). Chapter 381. Meningitis, Encephalitis, Brain Abscess, and Empyema. In D.L. Longo, A.S. Fauci, D.L. Kasper, S.L. Hauser, J.L. Jameson, J. Loscalzo (Eds), Harrison's Principles of Internal Medicine, 18e.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "generalized tonic-clonic seizures",
+      "type": "T047",
+      "umls_id": "C0494475",
+      "score": 0.9558674097061157,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A generalized tonic-clinic seizure, characterized by loss of consciousness. This type of seizure may be preceded by an aura and is frequently followed by a period of confusion and lethargy (post-ictal state)."
+    },
+    {
+      "text": "attendants",
+      "type": "T097",
+      "umls_id": "C0237485",
+      "score": 0.9878290891647339,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complained",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7599999308586121,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "no history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.8768706917762756,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "head trauma",
+      "type": "T037",
+      "umls_id": "C0018674",
+      "score": 0.9770915508270264,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Traumatic injuries involving the cranium and intracranial structures (i.e., BRAIN; CRANIAL NERVES; MENINGES; and other structures). Injuries may be classified by whether or not the skull is penetrated (i.e., penetrating vs. nonpenetrating) or whether there is an associated hemorrhage."
+    },
+    {
+      "text": "seizure",
+      "type": "T184",
+      "umls_id": "C0036572",
+      "score": 0.955420732498169,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical or subclinical disturbances of cortical function due to a sudden, abnormal, excessive, and disorganized discharge of brain cells. Clinical manifestations include abnormal motor, sensory and psychic phenomena. Recurrent seizures are usually referred to as EPILEPSY or \"seizure disorder.\""
+    },
+    {
+      "text": "disorder",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9945809245109558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "smoke cigarettes",
+      "type": "T131",
+      "umls_id": "C0239059",
+      "score": 0.9804567098617554,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": null
+    },
+    {
+      "text": "glasses",
+      "type": "T074",
+      "umls_id": "C0015421",
+      "score": 0.9843721389770508,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A pair of ophthalmic lenses in a frame or mounting which is supported by the nose and ears. The purpose is to aid or improve vision. It does not include goggles or nonprescription sun glasses for which EYE PROTECTIVE DEVICES is available."
+    },
+    {
+      "text": "wine daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.7358837127685547,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "sexual partners",
+      "type": "T098",
+      "umls_id": "C0036911",
+      "score": 0.9519425630569458,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Married or single individuals who share sexual relations."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "contraceptive use",
+      "type": "T121",
+      "umls_id": "C0009871",
+      "score": 0.8961634039878845,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Chemical substances that prevent or reduce the probability of CONCEPTION."
+    },
+    {
+      "text": "patient’s vitals",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "grimaces",
+      "type": "T184",
+      "umls_id": "C0239779",
+      "score": 0.9842705726623535,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "localizes",
+      "type": "T082",
+      "umls_id": "C0392752",
+      "score": 0.7529182434082031,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being confined or restricted to a particular location. [HPO:probinson]"
+    },
+    {
+      "text": "response to",
+      "type": "T043",
+      "umls_id": "C4327510",
+      "score": 0.9015359282493591,
+      "semantic_types": [
+        "T043"
+      ],
+      "definition": "Any process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a phosphatidylethanolamine stimulus. [GO_REF:0000071, GOC:TermGenie, PMID:1657995]"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "upper extremities",
+      "type": "T023",
+      "umls_id": "C1140618",
+      "score": 0.9906526207923889,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The region of the upper limb in animals, extending from the deltoid region to the HAND, and including the ARM; AXILLA; and SHOULDER."
+    },
+    {
+      "text": "Pupils",
+      "type": "T023",
+      "umls_id": "C0034121",
+      "score": 0.9859640002250671,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The aperture in the iris through which light passes."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "diameter",
+      "type": "T081",
+      "umls_id": "C1301886",
+      "score": 0.9675867557525635,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The length of a straight line passing through the center of a circle or sphere and connecting two points on the circumference."
+    },
+    {
+      "text": "reactive",
+      "type": "T080",
+      "umls_id": "C0205332",
+      "score": 0.9803516864776611,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>A presence finding used to indicate that the specified component / analyte reacted with the reagent above the reliably measurable limit of the performed test.</p>"
+    },
+    {
+      "text": "Laboratory tests",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9844176769256592,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "MRI",
+      "type": "T060",
+      "umls_id": "C0024485",
+      "score": 0.9940130114555359,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Non-invasive method of demonstrating internal anatomy based on the principle that atomic nuclei in a strong magnetic field absorb pulses of radiofrequency energy and emit them as radiowaves which can be reconstructed into computerized images. The concept includes proton spin tomographic techniques."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "contrast",
+      "type": "T130",
+      "umls_id": "C0009924",
+      "score": 0.9940016269683838,
+      "semantic_types": [
+        "T130"
+      ],
+      "definition": "Substances used to allow enhanced visualization of tissues."
+    },
+    {
+      "text": "image",
+      "type": "T170",
+      "umls_id": "C1696103",
+      "score": 0.9951585531234741,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>A characteristic representing a single file reference that contains two or more views of the same dosage form of the product; in most cases this should represent front and back views of the dosage form, but occasionally additional views might be needed in order to capture all of the important physical characteristics of the dosage form. Any imprint and/or symbol should be clearly identifiable, and the viewer should not normally need to rotate the image in order to read it. Images that are submitted with SPL should be included in the same directory as the SPL file."
+    },
+    {
+      "text": "brain biopsy",
+      "type": "T060",
+      "umls_id": "C0740294",
+      "score": 0.9743643999099731,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of brain tissue for microscopic examination."
+    },
+    {
+      "text": "perivascular clusters",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lymphocytes",
+      "type": "T025",
+      "umls_id": "C0024264",
+      "score": 0.9918518662452698,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells formed in the body's lymphoid tissue. The nucleus is round or ovoid with coarse, irregularly clumped chromatin while the cytoplasm is typically pale blue with azurophilic (if any) granules. Most lymphocytes can be classified as either T or B (with subpopulations of each), or NATURAL KILLER CELLS."
+    },
+    {
+      "text": "associated with",
+      "type": "T080",
+      "umls_id": "C0332281",
+      "score": 0.9891291260719299,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Joined in some kind of relationship."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "39-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "original_data": {
+    "question": "A 33-year-old G2P1 woman presents to the office because of poor diabetic control. She is currently at 18 weeks gestation and admits to having poor control of her type 1 diabetes before becoming pregnant. Her family history is non-contributory. The physical examination shows a pregnant woman with a fundal height of 20 cm (7.9 in). An abdominal ultrasound is ordered. Which of the following is the most likely congenital abnormality shown on the ultrasound?",
+    "options": {
+      "A": "Amelia",
+      "B": "Sacral agenesis",
+      "C": "Spina bifida",
+      "D": "Ventricular septal defect"
+    }
+  },
+  "model_response": "The ultrasound shows a 4-chamber view of the heart. The ventricular septal defect (arrow) is the most common congenital heart defect in the fetus of a diabetic mother.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "G2P1",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "poor diabetic control",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "admits",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9905877709388733,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "type 1 diabetes",
+      "type": "T047",
+      "umls_id": "C0011854",
+      "score": 0.9843959212303162,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic condition characterized by minimal or absent production of insulin by the pancreas."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "non-contributory",
+      "type": "T052",
+      "umls_id": "C1880177",
+      "score": 0.8021453619003296,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The part played by somebody or something in bringing about an end or result."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pregnant woman",
+      "type": "T098",
+      "umls_id": "C0033011",
+      "score": 0.9548408389091492,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females who are pregnant, as cultural, psychological, or sociological entities."
+    },
+    {
+      "text": "fundal height",
+      "type": "T033",
+      "umls_id": "C0426012",
+      "score": 0.9744359254837036,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A measurement of the distance between the pubic symphysis and the top of the palpable uterus."
+    },
+    {
+      "text": "abdominal ultrasound",
+      "type": "T060",
+      "umls_id": "C2348813",
+      "score": 0.9747382998466492,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A method of ultrasound imaging in which the ultrasound probe is pressed against the skin of the abdomen in order to create an image of the abdominal organs."
+    },
+    {
+      "text": "congenital abnormality",
+      "type": "T019",
+      "umls_id": "C0000768",
+      "score": 0.9836742877960205,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "Malformations of organs or body parts during development in utero."
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "33-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

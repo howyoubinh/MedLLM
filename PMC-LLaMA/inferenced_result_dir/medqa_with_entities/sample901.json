@@ -1,0 +1,522 @@
+{
+  "original_data": {
+    "question": "A 27-year-old G3P1010 makes an appointment with her gynecologist for evaluation of profuse bleeding, which began two days ago. She is 13 weeks pregnant based on the date of her last menstrual period. She is dizzy and weak, and is unable to move around the house and perform her daily tasks. Initially, she had only light spotting, but later on in the day the bleeding increased. Thus far, she has used six sanitary pads. The blood pressure is 90/60 mm Hg, the temperature is 37.8°C (100°F), the pulse is 125/min, and the respiratory rate is 14/min. A saline infusion is started, and blood and urine specimens are sent for analysis. On pelvic examination, the vagina contains blood and the cervical os is open. She also complains of cervical motion and adnexal tenderness on examination. An ultrasound shows an intrauterine gestational sac low in the uterine cavity. No fetal movement or cardiac activity are observed. She is advised to rest for a couple of hours, after which the scan is repeated. Slight downward migration of the gestational sac is observed with no change in the fetal status. Which of the following is the next step in management?",
+    "options": {
+      "A": "Antibiotics",
+      "B": "Magnesium sulfate",
+      "C": "Methotrexate",
+      "D": "Dilation and curettage"
+    }
+  },
+  "model_response": "This patient is experiencing a threatened abortion. She has bleeding and crampy abdominal pain, but no cervical dilatation or effacement. The initial treatment is conservative, consisting of rest, sedation, and hydration. If the pregnancy does not stabilize, then consideration is given to more aggressive management, such as administration of intramuscular beta-agonist, use of mineral oil as a cervical lubricant, and/or curettage. If the pregnancy continues to be threatened, then consideration is given to use of antibiotics, coagulation defects, and/or autoimmune disease. If the pregnancy is inevitably doomed, then the uterus is evacuated. Magnesium sulfate is used in the treatment of preeclampsia. Methotrexate is used in the treatment of ectopic pregnancy.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "gynecologist",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.9785490036010742,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "profuse bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.7069668173789978,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pregnant",
+      "type": "T033",
+      "umls_id": "C0549206",
+      "score": 0.9707520604133606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Observed to be or have been pregnant."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "dizzy",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9601719975471497,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "weak",
+      "type": "T080",
+      "umls_id": "C1762617",
+      "score": 0.9965013265609741,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having strength, power, or intensity less than average or expected."
+    },
+    {
+      "text": "house",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9867501854896545,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9680540561676025,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sanitary pads",
+      "type": "T073",
+      "umls_id": "C1720866",
+      "score": 0.9695367217063904,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Absorption pads designed to be worn by women during their menstrual periods to absorb menstrual fluids. They can also be worn by new mothers at the post-partum period to help with discharge. They are held in place between the woman's vulva and her undergarment either by being adhered onto the user's undergarment or wrapped around the undergarment's gusset. Rarely, they are held in place by being attached to clips or pins on a menstrual belt worn around the woman's waist. Some menstruation pads are designed to be worn once and disposed after use; others are designed to be reused or reworn by washing and drying them after wearing. Reusable pads are usually made of cotton fabric pockets into which absorbent cotton fleece leak-resistant pads are inserted. The absorbent inserts can be layered to accommodate light, moderate, or heavy menstrual flow. They are held in place by wrapping extended fabric tabs around the undergarment's gusset; these flaps may include snaps to help hold the pad in place. Single use disposable pads are usually made of an underlying non-permeable layer (usually made of plastic) which is held against the undergarment; an absorbent layer (usually made of polyacrylate gel, or wood cellulose fibers, or other absorbent material); and a soft, perforated, plastic surface layer that is held against the wearer's body. Disposable pads are available in several different sizes, such as mini, maxi, long, and to accommodate light, moderate, or heavy menstrual flow."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "saline infusion",
+      "type": "T061",
+      "umls_id": "C0574032",
+      "score": 0.7221256494522095,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Any form of treatment that is introduced into the body via a blood vessel, a muscle, or the spinal cord."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "urine specimens",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.7856120467185974,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "analysis",
+      "type": "T059",
+      "umls_id": "C0002778",
+      "score": 0.9811744093894958,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "vagina",
+      "type": "T023",
+      "umls_id": "C0042232",
+      "score": 0.9829220771789551,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The genital canal in the female, extending from the UTERUS to the VULVA. (Stedman, 25th ed)"
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "cervical os",
+      "type": "T030",
+      "umls_id": "C1185785",
+      "score": 0.9733111262321472,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "cervical motion",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.7392394542694092,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "adnexal tenderness",
+      "type": "T033",
+      "umls_id": "C0238594",
+      "score": 0.9649404287338257,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "intrauterine gestational sac",
+      "type": "T074",
+      "umls_id": "C4489410",
+      "score": 0.7269240617752075,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "An intrauterine device impregnated with progestin (synthetic progesterone) that can be inserted into the uterus to prevent conception."
+    },
+    {
+      "text": "low",
+      "type": "T080",
+      "umls_id": "C0205251",
+      "score": 0.9944548606872559,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A minimum level or position or degree; less than normal in degree, intensity or amount."
+    },
+    {
+      "text": "uterine cavity",
+      "type": "T030",
+      "umls_id": "C0227844",
+      "score": 0.9678556323051453,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "A space inside the uterus lined by a layer of mucus membranes called the endometrium."
+    },
+    {
+      "text": "No fetal",
+      "type": "T018",
+      "umls_id": "C0015965",
+      "score": 0.8138518333435059,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The unborn young of a viviparous mammal, in the postembryonic period, after the major structures have been outlined. In humans, the unborn young from the end of the eighth week after CONCEPTION until BIRTH, as distinguished from the earlier EMBRYO, MAMMALIAN."
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "cardiac activity",
+      "type": "T033",
+      "umls_id": "C0443168",
+      "score": 0.987648069858551,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "couple",
+      "type": "T099",
+      "umls_id": "C0010222",
+      "score": 0.9695232510566711,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": null
+    },
+    {
+      "text": "scan",
+      "type": "T060",
+      "umls_id": "C0034606",
+      "score": 0.9957098364830017,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The production of an image obtained by cameras that detect the radioactive emissions of an injected radionuclide as it has distributed differentially throughout tissues in the body. The image obtained from a moving detector is called a scan, while the image obtained from a stationary camera device is called a scintiphotograph."
+    },
+    {
+      "text": "downward",
+      "type": "T082",
+      "umls_id": "C0205104",
+      "score": 0.9540354013442993,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "migration",
+      "type": "T169",
+      "umls_id": "C4551669",
+      "score": 0.9396822452545166,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Non-random movement of an object(s) from one location to another."
+    },
+    {
+      "text": "gestational sac",
+      "type": "T018",
+      "umls_id": "C0553498",
+      "score": 0.9660133123397827,
+      "semantic_types": [
+        "T018"
+      ],
+      "definition": "The sac that envelops the embryo. It is composed of extraembryonic membranes."
+    },
+    {
+      "text": "no change",
+      "type": "T033",
+      "umls_id": "C0442739",
+      "score": 0.9964219927787781,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**There was (or is to be) no change to the item. This is primarily used when this element has not changed, but other attributes in the instance have changed.</p>"
+    },
+    {
+      "text": "fetal status",
+      "type": "T033",
+      "umls_id": "C2019882",
+      "score": 0.7529071569442749,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The relationship of the presenting part of the fetus to the maternal ischial spines during labor and delivery."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

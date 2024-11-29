@@ -1,0 +1,589 @@
+{
+  "original_data": {
+    "question": "A 35-year-old woman arrives to the clinic complaining of progressive urinary leakage that has occurred for the past 1 year. At first, she would notice leakage only during athletic exercise, but now the incontinence occurs even when she laughs or coughs. The patient states that she goes to the bathroom more frequently to try to prevent “wetting myself.” She wakes up once a night to urinate. She denies dysuria, hematuria, abdominal pain, and abnormal vaginal discharge. The patient has bipolar syndrome and takes lithium. She had an uncomplicated vaginal delivery 10 years ago and a cesarean section 4 years ago. She has had no other surgeries. She drinks at least 6 glasses of water a day but may drink more on days she goes for a long run. She also has a large coffee in the morning and another coffee mid-day if she “needs to focus.” The patient denies tobacco, alcohol, and other recreational drug use. Pelvic examination and speculum examination are unremarkable. When that patient is asked to Valsalva, leakage of urine is observed. A urinalysis, including specific gravity, is within normal limits. A beta-human chorionic gonadotropin is negative. Which of the following is the most likely cause of the patient’s symptoms?",
+    "options": {
+      "A": "Diabetic polyuria",
+      "B": "Primary polydipsia",
+      "C": "Urethral hypermobility",
+      "D": "Vescicovaginal fistula"
+    }
+  },
+  "model_response": "The patient’s symptoms are most consistent with urethral hypermobility. The patient’s history of progressive urinary incontinence, which has worsened to the point of leakage with coughing and laughter, is typical of urethral hypermobility. This condition is often seen in multiparous women and is caused by weakening of the support of the urethra and bladder neck. The patient’s history of a previous cesarean section and large amounts of fluid intake likely contribute to this condition. The negative beta-human chorionic gonadotropin rules out pregnancy. Primary polydipsia is unlikely because the patient’s specific gravity is within normal limits. Although diabetic polyuria can cause urinary incontinence, the patient’s symptoms of leakage with coughing and laughter are more consistent with urethral hypermobility. A vesicovaginal fistula should be suspected in patients with a history of recent gynecologic surgery, pelvic trauma, or radiation. The patient’s history does not include these risk factors.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "urinary",
+      "type": "T023",
+      "umls_id": "C0042027",
+      "score": 0.9912776947021484,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The duct which coveys URINE from the pelvis of the KIDNEY through the URETERS, BLADDER, and URETHRA."
+    },
+    {
+      "text": "leakage",
+      "type": "T046",
+      "umls_id": "C0015376",
+      "score": 0.9561432600021362,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The leakage of body fluid or cells from the vascular system to the surrounding tissues. This process occurs either by force or as a result of a pathologic reaction (e.g., inflammation). This process may sometimes allow cancer cells to migrate from capillaries to adjacent tissues, initiating micro-metastases."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "notice",
+      "type": "T170",
+      "umls_id": "C3242050",
+      "score": 0.7516040205955505,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>Usage notes.</p>"
+    },
+    {
+      "text": "leakage",
+      "type": "T046",
+      "umls_id": "C0015376",
+      "score": 0.9561432600021362,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The leakage of body fluid or cells from the vascular system to the surrounding tissues. This process occurs either by force or as a result of a pathologic reaction (e.g., inflammation). This process may sometimes allow cancer cells to migrate from capillaries to adjacent tissues, initiating micro-metastases."
+    },
+    {
+      "text": "athletic exercise",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "incontinence",
+      "type": "T047",
+      "umls_id": "C0021167",
+      "score": 0.981616735458374,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Involuntary passage of stool or urine from the body."
+    },
+    {
+      "text": "occurs",
+      "type": "T079",
+      "umls_id": "C3242296",
+      "score": 0.7854450941085815,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "<p>A relationship in which the source act's effective time is wholly within the target act's effective time (including end points, as defined in the act's effective times)</p><i>UsageNote:</i>Inverse code is<b>SBSEAE</b>"
+    },
+    {
+      "text": "laughs",
+      "type": "T054",
+      "umls_id": "C0023133",
+      "score": 0.7243733406066895,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "An involuntary expression of merriment and pleasure; it includes the patterned motor responses as well as the inarticulate vocalization."
+    },
+    {
+      "text": "coughs",
+      "type": "T184",
+      "umls_id": "C0010200",
+      "score": 0.931743323802948,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sudden, audible expulsion of air from the lungs through a partially closed glottis, preceded by inhalation. It is a protective response that serves to clear the trachea, bronchi, and/or lungs of irritants and secretions, or to prevent aspiration of foreign materials into the lungs."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "bathroom",
+      "type": "T073",
+      "umls_id": "C0040364",
+      "score": 0.9783955216407776,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Facilities containing equipment for disposal of human excrement, often with an accompanying hand-washing station."
+    },
+    {
+      "text": "prevent",
+      "type": "T121",
+      "umls_id": "C0309872",
+      "score": 0.9771769642829895,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "brand of veterinary medicine"
+    },
+    {
+      "text": "wetting myself",
+      "type": "T170",
+      "umls_id": "C4054119",
+      "score": 0.7450577616691589,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about an individual's total assessment of their abilities."
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "urinate",
+      "type": "T184",
+      "umls_id": "C0085606",
+      "score": 0.7243622541427612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An acute and compelling urge to urinate."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "dysuria",
+      "type": "T184",
+      "umls_id": "C0013428",
+      "score": 0.9521861672401428,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Painful URINATION. It is often associated with infections of the lower URINARY TRACT."
+    },
+    {
+      "text": "hematuria",
+      "type": "T047",
+      "umls_id": "C0018965",
+      "score": 0.9939060807228088,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Presence of blood in the urine."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "abnormal vaginal discharge",
+      "type": "T033",
+      "umls_id": "C0566986",
+      "score": 0.9702969789505005,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal secretions from the vagina."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "bipolar syndrome",
+      "type": "T047",
+      "umls_id": "C0039082",
+      "score": 0.7259938716888428,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A characteristic symptom complex."
+    },
+    {
+      "text": "lithium",
+      "type": "T121",
+      "umls_id": "C0023870",
+      "score": 0.9728432297706604,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "An element in the alkali metals family. It has the atomic symbol Li, atomic number 3, and atomic weight [6.938; 6.997]. Salts of lithium are used in treating BIPOLAR DISORDER."
+    },
+    {
+      "text": "vaginal delivery",
+      "type": "T033",
+      "umls_id": "C0566690",
+      "score": 0.9775388836860657,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "cesarean section",
+      "type": "T061",
+      "umls_id": "C0007876",
+      "score": 0.9648112058639526,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Extraction of the FETUS by means of abdominal HYSTEROTOMY."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "surgeries",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9818902015686035,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "glasses",
+      "type": "T074",
+      "umls_id": "C0015421",
+      "score": 0.9843721389770508,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A pair of ophthalmic lenses in a frame or mounting which is supported by the nose and ears. The purpose is to aid or improve vision. It does not include goggles or nonprescription sun glasses for which EYE PROTECTIVE DEVICES is available."
+    },
+    {
+      "text": "water",
+      "type": "T121",
+      "umls_id": "C0043047",
+      "score": 0.9369778037071228,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A clear, odorless, tasteless liquid that is essential for most animal and plant life and is an excellent solvent for many substances. The chemical formula is hydrogen oxide (H2O). (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "goes",
+      "type": "T204",
+      "umls_id": "C1947959",
+      "score": 0.9558348655700684,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": null
+    },
+    {
+      "text": "coffee",
+      "type": "T168",
+      "umls_id": "C0009237",
+      "score": 0.9724447727203369,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A beverage made from ground COFFEA beans (SEEDS) infused in hot water. It generally contains CAFFEINE and THEOPHYLLINE unless it is decaffeinated."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "coffee",
+      "type": "T168",
+      "umls_id": "C0009237",
+      "score": 0.9724447727203369,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A beverage made from ground COFFEA beans (SEEDS) infused in hot water. It generally contains CAFFEINE and THEOPHYLLINE unless it is decaffeinated."
+    },
+    {
+      "text": "mid-day",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient denies",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213225364685059,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "recreational drug use",
+      "type": "T048",
+      "umls_id": "C0013146",
+      "score": 0.9681465029716492,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of a drug for a reason other than which it was intended or in a manner or in quantities other than directed."
+    },
+    {
+      "text": "Pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "speculum examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.7314515113830566,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Valsalva",
+      "type": "T061",
+      "umls_id": "C0750122",
+      "score": 0.9860107898712158,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "leakage",
+      "type": "T046",
+      "umls_id": "C0015376",
+      "score": 0.9561432600021362,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The leakage of body fluid or cells from the vascular system to the surrounding tissues. This process occurs either by force or as a result of a pathologic reaction (e.g., inflammation). This process may sometimes allow cancer cells to migrate from capillaries to adjacent tissues, initiating micro-metastases."
+    },
+    {
+      "text": "urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "gravity",
+      "type": "T070",
+      "umls_id": "C0282189",
+      "score": 0.9929677248001099,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "acceleration produced by the mutual attraction of two masses, and of magnitude inversely proportional to the square of the distance between the two centers of mass; it is also the force imparted by the earth, moon, or a planet to an object near its surface."
+    },
+    {
+      "text": "beta-human chorionic gonadotropin",
+      "type": "T116",
+      "umls_id": "C0106132",
+      "score": 0.9025132656097412,
+      "semantic_types": [
+        "T116",
+        "T125"
+      ],
+      "definition": "The beta subunit of human CHORIONIC GONADOTROPIN. Its structure is similar to the beta subunit of LUTEINIZING HORMONE, except for the additional 30 amino acids at the carboxy end with the associated carbohydrate residues. HCG-beta is used as a diagnostic marker for early detection of pregnancy, spontaneous abortion (ABORTION, SPONTANEOUS); ECTOPIC PREGNANCY; HYDATIDIFORM MOLE; CHORIOCARCINOMA; or DOWN SYNDROME."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

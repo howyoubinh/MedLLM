@@ -1,0 +1,344 @@
+{
+  "original_data": {
+    "question": "A 54-year-old man comes to the clinic for management of his gastroesophageal reflux disease (GERD). He is currently on cimetidine for his condition and reports that his GERD initially improved. However, following his recent move to Michigan, he is experiencing more frequent episodes of chest pain (4-5 times a week). The pain is described as burning in quality and is concentrated around his epigastric region following food ingestion. It does not radiate anywhere and is alleviated when he takes antacids. A physical examination demonstrates a healthy male with unremarkable findings. He is subsequently prescribed a new medication for control of his symptoms. What is the most likely mechanism of action of this new medication?",
+    "options": {
+      "A": "Irreversible inactivation of cyclooxygenase enzyme",
+      "B": "Irreversible inhibition of H+/K+-ATPase at parietal cells",
+      "C": "Reversible inhibition of H+/K+-ATPase at parietal cells",
+      "D": "Reversible inhibition of histamine H2 receptors"
+    }
+  },
+  "model_response": "The patient is currently experiencing acid reflux disease, which is being managed with a histamine H2 receptor antagonist. These medications (such as ranitidine) block the action of histamine on H2 receptors at parietal cells, thus inhibiting the release of gastric acid. PGE1 analogues (such as misoprostol) work by increasing the prostaglandin concentration in the stomach. This results in increased mucus production, which acts as a physical barrier to protect the gastric epithelium from acid and pepsin. PGE1 analogues also increase the tone of the lower esophageal sphincter, thus preventing acid reflux. Cimetidine is an H1 receptor antagonist that is used to treat GERD. It works by decreasing the concentration of histamine at H1 receptors on parietal cells, thus inhibiting the release of gastric acid. Omeprazole is a proton pump inhibitor that irreversibly inhibits the H+/K+-ATPase at parietal cells. This results in decreased acid production.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "gastroesophageal reflux disease",
+      "type": "T047",
+      "umls_id": "C0017168",
+      "score": 0.9646492600440979,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Retrograde flow of gastric juice (GASTRIC ACID) and/or duodenal contents (BILE ACIDS; PANCREATIC JUICE) into the distal ESOPHAGUS, commonly due to incompetence of the LOWER ESOPHAGEAL SPHINCTER."
+    },
+    {
+      "text": "GERD",
+      "type": "T047",
+      "umls_id": "C0017168",
+      "score": 0.9832212328910828,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Retrograde flow of gastric juice (GASTRIC ACID) and/or duodenal contents (BILE ACIDS; PANCREATIC JUICE) into the distal ESOPHAGUS, commonly due to incompetence of the LOWER ESOPHAGEAL SPHINCTER."
+    },
+    {
+      "text": "cimetidine",
+      "type": "T109",
+      "umls_id": "C0008783",
+      "score": 0.9832199215888977,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A histamine congener, it competitively inhibits HISTAMINE binding to HISTAMINE H2 RECEPTORS. Cimetidine has a range of pharmacological actions. It inhibits GASTRIC ACID secretion, as well as PEPSIN and GASTRIN output."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "GERD",
+      "type": "T047",
+      "umls_id": "C0017168",
+      "score": 0.9832212328910828,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Retrograde flow of gastric juice (GASTRIC ACID) and/or duodenal contents (BILE ACIDS; PANCREATIC JUICE) into the distal ESOPHAGUS, commonly due to incompetence of the LOWER ESOPHAGEAL SPHINCTER."
+    },
+    {
+      "text": "improved",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.9708120822906494,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "Michigan",
+      "type": "T083",
+      "umls_id": "C0025939",
+      "score": 0.9909399151802063,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by the Great Lakes, on the east by Canada, on the south by Wisconsin, Indiana, and Ohio, and on the west by Lake Michigan and Wisconsin."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.9849169850349426,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "burning",
+      "type": "T184",
+      "umls_id": "C0085624",
+      "score": 0.9737390279769897,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of stinging or heat, not necessarily accompanied by redness or physical signs of irritation."
+    },
+    {
+      "text": "quality",
+      "type": "T080",
+      "umls_id": "C0332306",
+      "score": 0.9978040456771851,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An essential and distinguishing attribute of something or someone; a degree or grade of excellence or worth."
+    },
+    {
+      "text": "epigastric region",
+      "type": "T029",
+      "umls_id": "C0230185",
+      "score": 0.9708974957466125,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper central region of the abdomen between the costal margins and the subcostal plane."
+    },
+    {
+      "text": "food ingestion",
+      "type": "T038",
+      "umls_id": "C0232478",
+      "score": 0.8003155589103699,
+      "semantic_types": [
+        "T038"
+      ],
+      "definition": "The act of taking food, medicines, and other substances into the body by mouth."
+    },
+    {
+      "text": "antacids",
+      "type": "T121",
+      "umls_id": "C0003138",
+      "score": 0.9707466959953308,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Substances that counteract or neutralize acidity of the GASTROINTESTINAL TRACT."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mechanism",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.9824716448783875,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "54-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "original_data": {
+    "question": "An obese 42-year-old female presents to her primary care physician with a complaint of left knee pain for the past 3 months. She describes the pain as affecting the inside part of the knee as well as the front of her knee, below the kneecap. She denies any inciting injury or trauma to the knee but reports that the pain is worse when she is climbing up stairs or rising from a chair. Physical examination is significant for localized tenderness to palpation over the left anteromedial proximal tibia, 6 cm inferior to the joint line. There is no joint effusion noted. Valgus stress testing is negative for any pain or instability of the knee joint. Radiographs of the left knee are obtained and reveal only mild arthritis, without evidence of any fractures or bony lesions. Which of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Stress fracture of proximal tibia",
+      "B": "Medial meniscus tear",
+      "C": "Medical collateral ligament (MCL) sprain",
+      "D": "Pes anserine bursitis"
+    }
+  },
+  "model_response": "The most likely diagnosis in this patient is pes anserine bursitis. The pes anserine bursa is located on the medial aspect of the knee, just below the tibial plateau and separates the conjoined tendons of the sartorius, gracilis, and semitendinosus from the tibia. Pes anserine bursitis is a common cause of knee pain in obese patients, especially those who are \"weekend warriors\" or who have recently begun an exercise program. The pain is usually exacerbated by climbing stairs or rising from a chair, as these activities increase the pressure on the bursa. The physical examination findings of localized tenderness to palpation and the characteristic location of the bursa are consistent with this diagnosis. Stress fractures of the tibia typically present with localized pain aggravated by weight-bearing activities such as walking or climbing stairs. The physical examination findings of localized tenderness to palpation and the characteristic location of the bursa are not consistent with this diagnosis. Medial meniscus tear is unlikely in this patient because the pain is not exacerbated by valgus stress testing. The physical examination findings of localized tenderness to palpation and the characteristic location of the bursa are not consistent with this diagnosis. MCL sprain is unlikely in this patient because the pain is not exacerbated by valgus stress testing. The physical examination findings of localized tenderness to palpation and the characteristic location of the bursa are not consistent with this diagnosis.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "obese",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9816532731056213,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "complaint",
+      "type": "T201",
+      "umls_id": "C3864418",
+      "score": 0.9737823009490967,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "left knee pain",
+      "type": "T184",
+      "umls_id": "C5442019",
+      "score": 0.9736101627349854,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "affecting",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.9712433218955994,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "inside",
+      "type": "T082",
+      "umls_id": "C0205102",
+      "score": 0.9803414344787598,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Happening or arising or located within some limits, or especially, within some surface."
+    },
+    {
+      "text": "knee",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9991382360458374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "knee",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9991382360458374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "kneecap",
+      "type": "T023",
+      "umls_id": "C0030647",
+      "score": 0.9935348033905029,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The flat, triangular bone situated at the anterior part of the KNEE."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "inciting injury",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "trauma",
+      "type": "T037",
+      "umls_id": "C0043251",
+      "score": 0.9664932489395142,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Damage inflicted on the body as the direct or indirect result of an external force, with or without disruption of structural continuity."
+    },
+    {
+      "text": "knee",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9991382360458374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "stairs",
+      "type": "T033",
+      "umls_id": "C4300351",
+      "score": 0.9850608706474304,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rising",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "chair",
+      "type": "T073",
+      "umls_id": "C0179847",
+      "score": 0.9882153272628784,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A seat, typically for one person, that has a back and legs."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "localized",
+      "type": "T082",
+      "umls_id": "C0392752",
+      "score": 0.9746999740600586,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being confined or restricted to a particular location. [HPO:probinson]"
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "left anteromedial",
+      "type": "T082",
+      "umls_id": "C1179847",
+      "score": 0.8561068177223206,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Denoting the front portion of the body towards the median plane."
+    },
+    {
+      "text": "inferior",
+      "type": "T082",
+      "umls_id": "C0542339",
+      "score": 0.9803410768508911,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "In a place or position that is lower."
+    },
+    {
+      "text": "joint line",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.7331812977790833,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "joint effusion",
+      "type": "T046",
+      "umls_id": "C1253936",
+      "score": 0.9588077664375305,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Accumulation of watery fluid in the cavity of a joint. (Dorland, 27th ed)"
+    },
+    {
+      "text": "Valgus stress testing",
+      "type": "T060",
+      "umls_id": "C0015260",
+      "score": 0.8226826190948486,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Controlled physical activity which is performed in order to allow assessment of physiological functions, particularly cardiovascular and pulmonary, but also aerobic capacity. Maximal (most intense) exercise is usually required but submaximal exercise is also used."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "instability",
+      "type": "T033",
+      "umls_id": "C1444783",
+      "score": 0.9865732192993164,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "knee joint",
+      "type": "T030",
+      "umls_id": "C0022745",
+      "score": 0.9778297543525696,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "A synovial hinge connection formed between the bones of the FEMUR; TIBIA; and PATELLA."
+    },
+    {
+      "text": "Radiographs",
+      "type": "T060",
+      "umls_id": "C1306645",
+      "score": 0.972327709197998,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An image produced on a radiosensitive surface by x-ray radiation that has penetrated and passed through a structure."
+    },
+    {
+      "text": "left knee",
+      "type": "T023",
+      "umls_id": "C0230432",
+      "score": 0.979669988155365,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mild arthritis",
+      "type": "T047",
+      "umls_id": "C0003864",
+      "score": 0.8221918344497681,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Acute or chronic inflammation of JOINTS."
+    },
+    {
+      "text": "evidence",
+      "type": "T078",
+      "umls_id": "C3887511",
+      "score": 0.9744833707809448,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Knowledge on which to base belief."
+    },
+    {
+      "text": "fractures",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9890090227127075,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "bony lesions",
+      "type": "T047",
+      "umls_id": "C0238792",
+      "score": 0.8337255716323853,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of bone."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

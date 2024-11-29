@@ -1,0 +1,218 @@
+{
+  "original_data": {
+    "question": "A 78-year-old right-handed man is brought to the emergency department by his daughter for sudden onset speech changes. The patient lives with his daughter and was chatting with her when suddenly his speech became distorted with random and disconnected words that made no sense. He seems to be physically frustrated that no one understands him. Physical examination demonstrates weakness of the right arm. Damage to which location would best explain this patient’s symptoms?",
+    "options": {
+      "A": "Left frontal lobe",
+      "B": "Left temporal lobe",
+      "C": "Right frontal lobe",
+      "D": "Right temporal lobe"
+    }
+  },
+  "model_response": "The patient has expressive aphasia, which is caused by lesions of the dominant (usually left) hemisphere and is most often due to thrombosis of the middle cerebral artery. The middle cerebral artery supplies the entire lateral surface of the brain, including the frontal, parietal, and temporal lobes, as well as the internal capsule. The patient's right-hand weakness is a consequence of the same lesion that caused the aphasia. A lesion of the left frontal lobe would cause a nonfluent aphasia. A lesion of the left temporal lobe would cause Wernicke's aphasia. A lesion of the right frontal lobe would cause a nonfluent aphasia. A lesion of the right temporal lobe would cause receptive aphasia.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "right-handed man",
+      "type": "T114",
+      "umls_id": "C0919262",
+      "score": 0.7597468495368958,
+      "semantic_types": [
+        "T114",
+        "T123"
+      ],
+      "definition": "The most common form of DNA found in nature. It is a right-handed helix with 10 base pairs per turn, a pitch of 0.338 nm per base pair and a helical diameter of 1.9 nm."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "sudden onset",
+      "type": "T170",
+      "umls_id": "C1272517",
+      "score": 0.9585756063461304,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "speech changes",
+      "type": "T169",
+      "umls_id": "C0392747",
+      "score": 0.7229225039482117,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of alteration or modification; changed or altered in form or character."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "daughter",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.938646137714386,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "distorted",
+      "type": "T169",
+      "umls_id": "C0700135",
+      "score": 0.9952375888824463,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "random",
+      "type": "T080",
+      "umls_id": "C0439605",
+      "score": 0.9898630380630493,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Governed by or depending on chance; lacking any definite plan or order or purpose."
+    },
+    {
+      "text": "disconnected",
+      "type": "T033",
+      "umls_id": "C1880354",
+      "score": 0.9764173030853271,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Problem associated with the linking of the device having a sufficient open space to prevent gas, liquid or electrical current flow between connectors."
+    },
+    {
+      "text": "words",
+      "type": "T048",
+      "umls_id": "C0003537",
+      "score": 0.7869536876678467,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A cognitive disorder marked by an impaired ability to comprehend or express language in its written or spoken form. This condition is caused by diseases which affect the language areas of the dominant hemisphere. Clinical features are used to classify the various subtypes of this condition. General categories include receptive, expressive, and mixed forms of aphasia."
+    },
+    {
+      "text": "physically frustrated",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "understands",
+      "type": "T041",
+      "umls_id": "C0162340",
+      "score": 0.9793269038200378,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or fact of grasping the meaning, nature, or importance of; understanding. (American Heritage Dictionary, 4th ed) Includes understanding by a patient or research subject of information disclosed orally or in writing."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "right arm",
+      "type": "T023",
+      "umls_id": "C0230346",
+      "score": 0.9902463555335999,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Damage",
+      "type": "T037",
+      "umls_id": "C0010957",
+      "score": 0.9869447946548462,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": null
+    },
+    {
+      "text": "location",
+      "type": "T082",
+      "umls_id": "C0450429",
+      "score": 0.9696084260940552,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A position, site, or point in space where something can be found."
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "78-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

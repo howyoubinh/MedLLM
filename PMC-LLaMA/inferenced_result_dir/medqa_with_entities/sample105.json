@@ -1,0 +1,337 @@
+{
+  "original_data": {
+    "question": "A 28-year-old woman presents following a suicide attempt 2 days ago. She says that her attempt was a result of a fight with her boyfriend and that she slit her wrists in an attempt to keep him from breaking up with her. In the past, she has had many turbulent relationships, both romantic and in her family life. Her family members describe her as being very impulsive and frequently acting to manipulate people’s feelings. Since she was admitted to the hospital, she has spit at several staff members and alternated between sobbing and anger. She has no significant past medical history. The patient denies any history of smoking, alcohol use, or recreational drug use. Which of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Histrionic personality disorder",
+      "B": "Borderline personality disorder",
+      "C": "Dependent personality disorder",
+      "D": "Narcissistic personality disorder"
+    }
+  },
+  "model_response": "The patient's pattern of intense and unstable relationships, self-harming behavior, and impulsivity are consistent with a diagnosis of borderline personality disorder (BPD). People with BPD tend to have difficulty regulating their emotions and often act impulsively. They may engage in self-harming behavior, such as cutting or burning, and a small percentage of people with BPD commit suicide. People with BPD may have difficulty controlling their anger and have intense and unstable relationships. They may have trouble controlling their emotions and have problems with their self-image. People with BPD may have difficulty distinguishing between fantasy and reality and may have distorted ideas about other people's motivations and intentions. They may have trouble regulating their emotions and have intense and unstable relationships. People with BPD may have a history of suicide attempts, self-harming behavior, and intense and unstable relationships. They may have difficulty controlling their anger and have problems with their self-image.\n\nHistrionic personality disorder is characterized by excessive emotionality and attention-seeking behavior. People with this disorder often act in a dramatic and seductive manner. They may be easily influenced by others and may change their opinions often. While they may be charming and fun, their attention-seeking behavior and need for validation can become tiring and annoying to others. Dependent personality disorder is characterized by an excessive need to be taken care of and a fear of separation. People with this disorder often have difficulty making decisions and are very sensitive to criticism. They may have a hard time asserting themselves and may have low self-confidence. Narcissistic personality disorder is characterized by a need for admiration, a lack of empathy for others, and a sense of entitlement. People with this disorder often have a grandiose sense of self-importance and may be easily angered by criticism. They may have a need to be the center of attention and may have a lack of empathy for others.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "suicide",
+      "type": "T033",
+      "umls_id": "C0038661",
+      "score": 0.9461096525192261,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The act of killing oneself."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "attempt",
+      "type": "T051",
+      "umls_id": "C1516084",
+      "score": 0.9871950745582581,
+      "semantic_types": [
+        "T051"
+      ],
+      "definition": "An activity intended to do or accomplish something. Routinely used as in \"number of tries to complete a procedure\"."
+    },
+    {
+      "text": "fight",
+      "type": "T054",
+      "umls_id": "C0424324",
+      "score": 0.9597088694572449,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "boyfriend",
+      "type": "T098",
+      "umls_id": "C0521319",
+      "score": 0.9161818623542786,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "A boy or man who is the lover of a girl or woman."
+    },
+    {
+      "text": "slit",
+      "type": "T061",
+      "umls_id": "C0184904",
+      "score": 0.9824644923210144,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wrists",
+      "type": "T029",
+      "umls_id": "C0043262",
+      "score": 0.984144926071167,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the upper limb between the metacarpus and the FOREARM."
+    },
+    {
+      "text": "turbulent",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "relationships",
+      "type": "T080",
+      "umls_id": "C0439849",
+      "score": 0.9497746229171753,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of connectedness between people, objects, or events; to be associated or connected with something."
+    },
+    {
+      "text": "romantic",
+      "type": "T041",
+      "umls_id": "C0683275",
+      "score": 0.9900952577590942,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": null
+    },
+    {
+      "text": "family life",
+      "type": "T054",
+      "umls_id": "C0015608",
+      "score": 0.9841569066047668,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "Behavioral, psychological, and social relations among various members of the nuclear family and the extended family."
+    },
+    {
+      "text": "family members",
+      "type": "T099",
+      "umls_id": "C0086282",
+      "score": 0.9905901551246643,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Any of the individuals who are descended from a common progenitor, related by marriage or other legal tie, or by a feeling of closeness."
+    },
+    {
+      "text": "impulsive",
+      "type": "T048",
+      "umls_id": "C0021125",
+      "score": 0.9822477698326111,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An act performed without delay, reflection, voluntary direction or obvious control in response to a stimulus."
+    },
+    {
+      "text": "manipulate",
+      "type": "T061",
+      "umls_id": "C0947647",
+      "score": 0.9639009237289429,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Move, treat, or operate with the hands or by mechanical means, especially in a skillful manner."
+    },
+    {
+      "text": "people",
+      "type": "T098",
+      "umls_id": "C0027361",
+      "score": 0.9665451645851135,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons as individuals (e.g., ABORTION APPLICANTS) or as members of a group (e.g., HISPANIC AMERICANS). It is not used for members of the various professions (e.g., PHYSICIANS) or occupations (e.g., LIBRARIANS) for which OCCUPATIONAL GROUPS is available."
+    },
+    {
+      "text": "’s feelings",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9701847434043884,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "admitted to",
+      "type": "T058",
+      "umls_id": "C4482331",
+      "score": 0.977683424949646,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "spit",
+      "type": "T039",
+      "umls_id": "C0232515",
+      "score": 0.9594624638557434,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "To clear material from the throat or lungs by coughing it up and spitting it out."
+    },
+    {
+      "text": "staff members",
+      "type": "T097",
+      "umls_id": "C1552089",
+      "score": 0.8693668842315674,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "<p>Staff member of the health care organization</p>"
+    },
+    {
+      "text": "alternated",
+      "type": "T080",
+      "umls_id": "C1523987",
+      "score": 0.8402805328369141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Available in place of something else."
+    },
+    {
+      "text": "sobbing",
+      "type": "T055",
+      "umls_id": "C0010399",
+      "score": 0.9391965866088867,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "To utter an inarticulate, characteristic sound in order to communicate or express a feeling, or desire for attention."
+    },
+    {
+      "text": "anger",
+      "type": "T041",
+      "umls_id": "C0002957",
+      "score": 0.9786626696586609,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A strong emotional feeling of displeasure aroused by being interfered with, injured or threatened."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "patient denies",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213225364685059,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9823688864707947,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "smoking",
+      "type": "T055",
+      "umls_id": "C0037369",
+      "score": 0.963042676448822,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Willful or deliberate act of inhaling and exhaling SMOKE from burning substances or agents held by hand."
+    },
+    {
+      "text": "alcohol use",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.9848212599754333,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "recreational drug use",
+      "type": "T048",
+      "umls_id": "C0013146",
+      "score": 0.9681465029716492,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of a drug for a reason other than which it was intended or in a manner or in quantities other than directed."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "28-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

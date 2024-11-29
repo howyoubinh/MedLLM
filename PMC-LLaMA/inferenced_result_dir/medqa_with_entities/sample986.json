@@ -1,0 +1,266 @@
+{
+  "original_data": {
+    "question": "A 60-year-old man comes to the physician because of a 2-month history of cough productive of yellow sputum with occasional streaks of blood. He has a history of pulmonary tuberculosis. He is afebrile. Pulmonary examination shows inspiratory crackles at the left infraclavicular area. An x-ray of his chest shows a radiopaque mass in the left upper lung lobe that shifts upon repositioning. A sputum sample does not grow acid-fast bacteria despite multiple cultures. Which of the following is the most likely cause of this patient's condition?",
+    "options": {
+      "A": "Asbestos inhalation",
+      "B": "Neoplastic transformation",
+      "C": "Opportunistic colonization",
+      "D": "Abscess formation"
+    }
+  },
+  "model_response": "The patient has a lung abscess. Lung abscesses are most commonly caused by aspiration of oral flora. The presence of a radiopaque mass suggests a neoplasm, which could be a metastasis. The history of pulmonary tuberculosis suggests that the patient has a weakened immune system, which could predispose him to opportunistic colonization. Asbestos inhalation can lead to pulmonary fibrosis and carcinoma.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "cough productive",
+      "type": "T033",
+      "umls_id": "C0239134",
+      "score": 0.9714952111244202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A cough accompanied by expectorated secretions."
+    },
+    {
+      "text": "yellow sputum",
+      "type": "T033",
+      "umls_id": "C0457096",
+      "score": 0.9610604643821716,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "occasional streaks",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.7376490235328674,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "pulmonary tuberculosis",
+      "type": "T047",
+      "umls_id": "C0041327",
+      "score": 0.9876171350479126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "MYCOBACTERIUM infections of the lung."
+    },
+    {
+      "text": "afebrile",
+      "type": "T033",
+      "umls_id": "C0277797",
+      "score": 0.9714973568916321,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Pulmonary examination",
+      "type": "T042",
+      "umls_id": "C1373189",
+      "score": 0.7425879836082458,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The discharge of substances from the pulmonary capillary blood into the alveolar space to be exhaled or removed by MUCOCILIARY CLEARANCE."
+    },
+    {
+      "text": "inspiratory",
+      "type": "T040",
+      "umls_id": "C0004048",
+      "score": 0.9872371554374695,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Taking ambient air into the lungs; breathing in."
+    },
+    {
+      "text": "left infraclavicular area",
+      "type": "T029",
+      "umls_id": "C0230108",
+      "score": 0.7887568473815918,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region below the clavicle."
+    },
+    {
+      "text": "x-ray",
+      "type": "T169",
+      "umls_id": "C0034571",
+      "score": 0.9930586218833923,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with organs, regions, and diseases for x-ray examinations."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "radiopaque",
+      "type": "T130",
+      "umls_id": "C2930749",
+      "score": 0.8839680552482605,
+      "semantic_types": [
+        "T130"
+      ],
+      "definition": "Contrast media used to enhance the differences in signal intensity emitted from tissues during x-ray-based imaging procedures (e.g., computed tomography, fluoroscopy). Radiographic contrast media typically consist of chemicals incorporating elements with high molecular weights that attenuate x-rays much more than soft tissue or body fluids (e.g., barium, iodine). Radiographic contrast media may be administered by various routes including intravenous injection or direct administration into body cavities (e.g., genitourinary tract injection, oral ingestion, rectal enema)."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "left upper lung lobe",
+      "type": "T023",
+      "umls_id": "C1261076",
+      "score": 0.9833280444145203,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The smaller lobe of the left lung, situated above and in front the oblique fissure, which includes the apex."
+    },
+    {
+      "text": "shifts",
+      "type": "T169",
+      "umls_id": "C0333051",
+      "score": 0.9777125120162964,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sputum sample",
+      "type": "T031",
+      "umls_id": "C0444159",
+      "score": 0.9595731496810913,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "acid-fast bacteria",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "cultures",
+      "type": "T078",
+      "umls_id": "C0010453",
+      "score": 0.9716622829437256,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collective expression for all behavior patterns acquired and socially transmitted through symbols. Culture includes customs, traditions, and language."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "60-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

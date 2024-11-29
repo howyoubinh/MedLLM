@@ -1,0 +1,297 @@
+{
+  "original_data": {
+    "question": "A medical research study is evaluating an investigational novel drug (medication 1) compared with standard therapy (medication 2) in patients presenting to the emergency department with myocardial infarction (MI). The study enrolled a total of 3,000 subjects, 1,500 in each study arm. Follow-up was conducted at 45 days post-MI. The following are the results of the trial:\nEndpoints Medication 1 Medication 2 P-Value\nPrimary: death from cardiac causes 134 210 0.03\nSecondary: hyperkalemia 57 70 0.4\nWhat is the number needed to treat (NNT) for the primary endpoint of death from cardiac causes? (Round to the nearest whole number.)",
+    "options": {
+      "A": "5",
+      "B": "16",
+      "C": "20",
+      "D": "50"
+    }
+  },
+  "model_response": "The NNT is calculated as 1 divided by the absolute risk reduction (ARR), which is the difference in outcome rates between the two groups (death from cardiac causes) divided by the smaller of the two groups. In this case, the ARR is 80 (210 - 134) and the larger group size is 1,500, so the NNT is 1 divided by 80 divided by 1,500, which equals 5.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "medical research study",
+      "type": "T062",
+      "umls_id": "C0681814",
+      "score": 0.7888604402542114,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing."
+    },
+    {
+      "text": "investigational",
+      "type": "T080",
+      "umls_id": "C1517586",
+      "score": 0.9590629935264587,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In the process of being studied; experimental."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "compared",
+      "type": "T052",
+      "umls_id": "C1707455",
+      "score": 0.9827839136123657,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The examination of two or more people or things in order to detect similarities and differences."
+    },
+    {
+      "text": "standard therapy",
+      "type": "T058",
+      "umls_id": "C2936643",
+      "score": 0.9807513952255249,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The minimum acceptable patient care, based on statutes, court decisions, policies, or professional guidelines."
+    },
+    {
+      "text": "medication 2",
+      "type": "T033",
+      "umls_id": "C3840903",
+      "score": 0.9790505766868591,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "myocardial infarction",
+      "type": "T047",
+      "umls_id": "C0027051",
+      "score": 0.952881395816803,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "NECROSIS of the MYOCARDIUM caused by an obstruction of the blood supply to the heart (CORONARY CIRCULATION)."
+    },
+    {
+      "text": "MI",
+      "type": "T083",
+      "umls_id": "C0025939",
+      "score": 0.9633074402809143,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by the Great Lakes, on the east by Canada, on the south by Wisconsin, Indiana, and Ohio, and on the west by Lake Michigan and Wisconsin."
+    },
+    {
+      "text": "study",
+      "type": "T062",
+      "umls_id": "C0008972",
+      "score": 0.9773595929145813,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes. The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans."
+    },
+    {
+      "text": "subjects",
+      "type": "T098",
+      "umls_id": "C0080105",
+      "score": 0.8101776242256165,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons who are enrolled in research studies or who are otherwise the subjects of research."
+    },
+    {
+      "text": "study arm",
+      "type": "T062",
+      "umls_id": "C5400986",
+      "score": 0.9794644713401794,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A planned pathway assigned to the subject as they progress through the study, usually referred to by a name that reflects one or more treatments, exposures, and/or controls included in the path."
+    },
+    {
+      "text": "Follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "post-MI",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "trial",
+      "type": "T062",
+      "umls_id": "C0008976",
+      "score": 0.9868822693824768,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "Works about pre-planned studies of the safety, efficacy, or optimum dosage schedule (if appropriate) of one or more diagnostic, therapeutic, or prophylactic drugs, devices, or techniques selected according to predetermined criteria of eligibility and observed for predefined evidence of favorable and unfavorable effects. This concept includes clinical trials conducted both in the U.S. and in other countries."
+    },
+    {
+      "text": "death",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.9843130111694336,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "cardiac",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9875530004501343,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "Secondary",
+      "type": "T191",
+      "umls_id": "C0027627",
+      "score": 0.9853084683418274,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "The transfer of a neoplasm from one organ or part of the body to another remote from the primary site."
+    },
+    {
+      "text": "hyperkalemia",
+      "type": "T033",
+      "umls_id": "C0020461",
+      "score": 0.9606524705886841,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally high potassium concentration in the blood, most often due to defective renal excretion. It is characterized clinically by electrocardiographic abnormalities (elevated T waves and depressed P waves, and eventually by atrial asystole). In severe cases, weakness and flaccid paralysis may occur. (Dorland, 27th ed)"
+    },
+    {
+      "text": "treat",
+      "type": "T169",
+      "umls_id": "C1292734",
+      "score": 0.9973037838935852,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The use of a particular medical device, medication or treatment to treat a pre-existing disease or condition."
+    },
+    {
+      "text": "NNT",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "primary endpoint",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "death",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.9843130111694336,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "cardiac causes",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.7464832067489624,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "Round",
+      "type": "T082",
+      "umls_id": "C0332490",
+      "score": 0.9902244806289673,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The shape of a circle."
+    },
+    {
+      "text": "nearest",
+      "type": "T082",
+      "umls_id": "C0205107",
+      "score": 0.9920611381530762,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated nearest to a point of attachment or origin."
+    },
+    {
+      "text": "whole number",
+      "type": "T081",
+      "umls_id": "C1883556",
+      "score": 0.9843636155128479,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Any of the natural numbers (positives) or zero."
+    }
+  ]
+}

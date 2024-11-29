@@ -1,0 +1,380 @@
+{
+  "original_data": {
+    "question": "A 48-year-old man seeks evaluation at a clinic with a complaint of breathlessness for the past couple of weeks. He says that he finds it difficult to walk a few blocks and has to rest. He also complains of a cough for the past 3 months, which is dry and hacking in nature. The medical history is relevant for an idiopathic arrhythmia for which he takes amiodarone daily. He is a non-smoker and does not drink alcohol. He denies any use of illicit drugs. The vital signs are as follows: heart rate 98/min, respiratory rate 16/min, temperature 37.6°C (99.68°F), and blood pressure 132/70 mm Hg. The physical examination is significant for inspiratory crackles over the lung bases. An echocardiogram shows a normal ejection fraction. A chest radiograph is performed and shown below. Which of the following findings will most likely be noted on spirometry?",
+    "options": {
+      "A": "Decreased FEV1 and normal FVC",
+      "B": "Decreased FEV1 and FVC with decreased FEV1/FVC ratio",
+      "C": "Decreased FEV1 and FVC with normal FEV1/FVC ratio",
+      "D": "Increased FEV1 and FVC"
+    }
+  },
+  "model_response": "The chest radiograph shows diffuse bilateral infiltrates predominantly in the lower lobes. This patient has a history of recent-onset breathlessness, cough, and crackles on examination. The chest radiograph is consistent with a pulmonary infiltrate. The patient is taking amiodarone, which can cause pulmonary toxicity. The most likely finding on spirometry will be decreased FEV1 and FVC with a decreased FEV1/FVC ratio.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "seeks",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "clinic",
+      "type": "T073",
+      "umls_id": "C0002424",
+      "score": 0.9877153038978577,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Those facilities which administer health services to individuals who do not require hospitalization or institutionalization."
+    },
+    {
+      "text": "complaint",
+      "type": "T201",
+      "umls_id": "C3864418",
+      "score": 0.9737823009490967,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "breathlessness",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.959090530872345,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "couple",
+      "type": "T099",
+      "umls_id": "C0010222",
+      "score": 0.9695232510566711,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "finds",
+      "type": "T033",
+      "umls_id": "C0243095",
+      "score": 0.7007334232330322,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The result of an examination or inquiry."
+    },
+    {
+      "text": "walk",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9948952794075012,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "blocks",
+      "type": "T033",
+      "umls_id": "C0028778",
+      "score": 0.9835858345031738,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blockage of the normal flow of the contents of an anatomical passageway."
+    },
+    {
+      "text": "rest",
+      "type": "T056",
+      "umls_id": "C0035253",
+      "score": 0.9951050877571106,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Freedom from activity."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "hacking",
+      "type": "T082",
+      "umls_id": "C0546881",
+      "score": 0.7015082836151123,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The act or process of following a person, animal, or object through space or time."
+    },
+    {
+      "text": "nature",
+      "type": "T078",
+      "umls_id": "C0349590",
+      "score": 0.9956550002098083,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The system of all phenomena in space and time; the totality of physical reality. It is both a scientific and philosophic concept appearing in all historic eras. (Webster 2d; Dr. James H. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "idiopathic arrhythmia",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "non-smoker",
+      "type": "T033",
+      "umls_id": "C0337672",
+      "score": 0.9623507857322693,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "illicit drugs",
+      "type": "T131",
+      "umls_id": "C0086190",
+      "score": 0.9839807748794556,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Drugs that are manufactured, obtained, or sold illegally. They include prescription drugs obtained or sold without prescription and non-prescription drugs. Illicit drugs are widely distributed, tend to be grossly impure and may cause unexpected toxicity."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "inspiratory crackles",
+      "type": "T033",
+      "umls_id": "C0577961",
+      "score": 0.9757741689682007,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Crackles that are heard during the inspiratory phase. [PMID:26229557]"
+    },
+    {
+      "text": "lung bases",
+      "type": "T023",
+      "umls_id": "C0225704",
+      "score": 0.9768055081367493,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The bottom concave portion of the lung that is situated on the convexity of the diaphragm."
+    },
+    {
+      "text": "echocardiogram",
+      "type": "T060",
+      "umls_id": "C0013516",
+      "score": 0.9934785962104797,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Ultrasonic recording of the size, motion, and composition of the heart and surrounding tissues. The standard approach is transthoracic."
+    },
+    {
+      "text": "chest radiograph",
+      "type": "T060",
+      "umls_id": "C3842377",
+      "score": 0.9901647567749023,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "findings",
+      "type": "T169",
+      "umls_id": "C2607943",
+      "score": 0.969456672668457,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spirometry",
+      "type": "T060",
+      "umls_id": "C0037981",
+      "score": 0.9782983660697937,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Measurement of volume of air inhaled or exhaled by the lung."
+    },
+    {
+      "text": "48-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

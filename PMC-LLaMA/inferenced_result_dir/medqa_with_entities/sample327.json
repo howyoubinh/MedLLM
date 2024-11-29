@@ -1,0 +1,283 @@
+{
+  "original_data": {
+    "question": "A 22-year-old man from Nepal presents to the emergency department complaining of swelling and pain in his right testicle. The patient states that he just arrived in the United States to live with his wife, with whom he is monogamous. The patient denies painful urination or urethral discharge, but admits that 10 days ago he “felt like he had a fever” and the right side of his face was swollen and painful. Which of the following is characteristic of the most likely diagnosis?",
+    "options": {
+      "A": "Preventable by a live attenuated vaccine",
+      "B": "Original presentation in the form of a painless chancre",
+      "C": "Cause buboes in the inguinal lymph nodes",
+      "D": "Is a common cause of septic arthritis in this patient’s age group"
+    }
+  },
+  "model_response": "The patient’s presentation is most consistent with syphilis, which is caused by Treponema pallidum. The spirochete enters the body through breaks in the skin or mucous membranes, and the primary lesion (chancre) appears at the site 10 to 90 days after exposure. The chancre is painless, relatively avascular, circumscribed, indurated, and indistinct. Buboes (swelling in the inguinal lymph nodes) may be present. The spirochetes spread hematogenously to other organs, and the clinical picture can vary greatly. The spirochetes can also spread to the central nervous system (CNS), causing meningitis or meningoencephalitis. Late symptoms of syphilis include paresis, cardiovascular lesions, and tabes dorsalis. The disease can be diagnosed by dark-field microscopy, immunofluorescence, or serology.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Nepal",
+      "type": "T083",
+      "umls_id": "C0027689",
+      "score": 0.9634356498718262,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Country located in southern Asia, between China and India. The capital is Kathmandu."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "right testicle",
+      "type": "T023",
+      "umls_id": "C0227997",
+      "score": 0.9929967522621155,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The testis on the right side of the body."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "arrived",
+      "type": "T052",
+      "umls_id": "C1706079",
+      "score": 0.9754970073699951,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The act of reaching a destination."
+    },
+    {
+      "text": "United States",
+      "type": "T083",
+      "umls_id": "C0041703",
+      "score": 0.9899754524230957,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in NORTH AMERICA between CANADA and MEXICO."
+    },
+    {
+      "text": "live",
+      "type": "T080",
+      "umls_id": "C1548795",
+      "score": 0.9870380163192749,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "wife",
+      "type": "T099",
+      "umls_id": "C0242665",
+      "score": 0.9650938510894775,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female partner in marriage."
+    },
+    {
+      "text": "monogamous",
+      "type": "T033",
+      "umls_id": "C0558125",
+      "score": 0.9773242473602295,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An indication that an individual is or was married to single individual at a given time."
+    },
+    {
+      "text": "patient denies",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213225364685059,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "painful",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9710636734962463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "urination",
+      "type": "T040",
+      "umls_id": "C0042034",
+      "score": 0.9745711088180542,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Discharge of URINE, liquid waste processed by the KIDNEY, from the body."
+    },
+    {
+      "text": "urethral discharge",
+      "type": "T184",
+      "umls_id": "C0152447",
+      "score": 0.98056960105896,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "felt",
+      "type": "T170",
+      "umls_id": "C3641757",
+      "score": 0.7752646803855896,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual feels or has felt tense."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "painful",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9710636734962463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "22-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

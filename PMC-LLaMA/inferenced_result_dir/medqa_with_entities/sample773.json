@@ -1,0 +1,186 @@
+{
+  "original_data": {
+    "question": "A 21-year-old female presents to the office after a health screening in which she was found to have high blood pressure. At the office, the blood pressure is 168/114 mm Hg. You have seen the patient in the past for amenorrhea and infertility issues, but she denies taking any medication at this time. On examination, the patient is short and normal weight but has a webbed neck. Which of the following is the most likely cause of the elevated blood pressure?",
+    "options": {
+      "A": "Central fusion of the inferior poles of the kidneys ",
+      "B": "Genetic predisposition to essential hypertension",
+      "C": "Neuroendocrine tumor of the adrenal gland",
+      "D": "Oral contraceptive use"
+    }
+  },
+  "model_response": "The patient has features of Conn syndrome, which is a genetic predisposition to essential hypertension. The physical examination findings of a webbed neck and abnormal weight gain are consistent with hyperaldosteronism. The most common cause of Conn syndrome is a neoplasm of the adrenal gland, which can be either benign or malignant. The other choices are not consistent with the clinical presentation.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "health screening",
+      "type": "T060",
+      "umls_id": "C0220908",
+      "score": 0.9844546914100647,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Evaluation strategies used to identify risk for conditions, diagnose disease early, and monitor change/progression over time."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "amenorrhea",
+      "type": "T033",
+      "umls_id": "C0002453",
+      "score": 0.9864200353622437,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Absence of menstruation."
+    },
+    {
+      "text": "infertility issues",
+      "type": "T033",
+      "umls_id": "C0021359",
+      "score": 0.8655308485031128,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A reduced or absent capacity to reproduce."
+    },
+    {
+      "text": "denies",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "normal weight",
+      "type": "T033",
+      "umls_id": "C2712185",
+      "score": 0.9694346189498901,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "webbed neck",
+      "type": "T019",
+      "umls_id": "C0221217",
+      "score": 0.9614974856376648,
+      "semantic_types": [
+        "T019"
+      ],
+      "definition": "A congenital, usually bilateral, thick web-like fold of skin that extends from the acromion to the mastoid process. This deformity is associated with Turner Syndrome and Noonan Syndrome."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "21-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

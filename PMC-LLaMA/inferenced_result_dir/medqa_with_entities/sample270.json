@@ -1,0 +1,246 @@
+{
+  "original_data": {
+    "question": "A 31-year-old female patient complains of numbness and tingling in her left hand, weakness, difficulty with walking, dizziness, and bladder dysfunction. She said that about a year ago, she had trouble with her vision, and that it eventually recovered in a few days. On physical exam, bilateral internuclear ophthalmoplegia, hyperreflexia in both patella, and bilateral clonus, are noted. A magnetic resonance imaging (MRI) study was done (Figure 1). If a lumbar puncture is performed in this patient, which of the following would most likely be found in cerebrospinal fluid analysis?",
+    "options": {
+      "A": "Presence of 14-3-3 protein",
+      "B": "Decreased glucose with neutrophilic predominance",
+      "C": "Oligoclonal IgG bands on electrophoresis",
+      "D": "Decreased IgG CSF concentration"
+    }
+  },
+  "model_response": "The clinical scenario and MRI findings are consistent with multiple sclerosis (MS). The most specific finding in the cerebrospinal fluid (CSF) for MS is the presence of oligoclonal IgG bands on electrophoresis. These bands are not specific for MS but indicate an inflammatory process in the central nervous system. The 14-3-3 protein is found in Creutzfeldt-Jakob disease. Decreased glucose with neutrophilic predominance is found in bacterial meningitis. Decreased IgG CSF concentration is found in Guillain-Barre syndrome.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "patient complains",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "numbness",
+      "type": "T033",
+      "umls_id": "C0020580",
+      "score": 0.9541221857070923,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Absent or reduced sensitivity to cutaneous stimulation."
+    },
+    {
+      "text": "tingling",
+      "type": "T047",
+      "umls_id": "C0030554",
+      "score": 0.9621715545654297,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Subjective cutaneous sensations (e.g., cold, warmth, tingling, pressure, etc.) that are experienced spontaneously in the absence of stimulation."
+    },
+    {
+      "text": "left hand",
+      "type": "T023",
+      "umls_id": "C0230371",
+      "score": 0.9930857419967651,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weakness",
+      "type": "T184",
+      "umls_id": "C0004093",
+      "score": 0.9751015901565552,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Clinical sign or symptom manifested as debility, or lack or loss of strength and energy."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "bladder dysfunction",
+      "type": "T046",
+      "umls_id": "C0232841",
+      "score": 0.9561784267425537,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "vision",
+      "type": "T040",
+      "umls_id": "C0042789",
+      "score": 0.9751997590065002,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image. [GOC:ai]"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "internuclear ophthalmoplegia",
+      "type": "T047",
+      "umls_id": "C0152134",
+      "score": 0.9797670841217041,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An abnormality of conjugate lateral gaze in which the affected eye shows impairment of adduction. The pathognomonic clinical sign of internuclear ophthalmoplegia is an impaired adduction while testing horizontal saccades on the side of the lesion in the ipsilateral medial longitudinal fascicule. [HPO:probinson, PMID:1344079, PMID:21687160, PMID:25145891]"
+    },
+    {
+      "text": "hyperreflexia",
+      "type": "T033",
+      "umls_id": "C0151889",
+      "score": 0.978400707244873,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Autonomic nervous system overreaction to stimuli, most commonly after spinal cord injury at a T-5 level and above."
+    },
+    {
+      "text": "patella",
+      "type": "T023",
+      "umls_id": "C0030647",
+      "score": 0.991476833820343,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The flat, triangular bone situated at the anterior part of the KNEE."
+    },
+    {
+      "text": "bilateral clonus",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.7585384845733643,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "magnetic resonance imaging",
+      "type": "T060",
+      "umls_id": "C0024485",
+      "score": 0.9820992350578308,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Non-invasive method of demonstrating internal anatomy based on the principle that atomic nuclei in a strong magnetic field absorb pulses of radiofrequency energy and emit them as radiowaves which can be reconstructed into computerized images. The concept includes proton spin tomographic techniques."
+    },
+    {
+      "text": "lumbar puncture",
+      "type": "T058",
+      "umls_id": "C0037943",
+      "score": 0.9850814938545227,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An invasive procedure in which a hollow needle is introduced through an intervertebral space in the lower back to access the subarachnoid space in order to sample cerebrospinal fluid or to administer medication."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "cerebrospinal fluid analysis",
+      "type": "T059",
+      "umls_id": "C2026522",
+      "score": 0.9831966757774353,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A laboratory analysis of a sample of cerebrospinal fluid."
+    },
+    {
+      "text": "31-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

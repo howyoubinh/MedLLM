@@ -1,0 +1,388 @@
+{
+  "original_data": {
+    "question": "A 38-year-old woman is being evaluated by her primary care physician for chronic, widespread pain that started around 5 months ago. This pain has been accompanied by sleeping issues. Her friend recommended that she try yoga to relieve the pain, but she says this has not helped her at all. Se says the symptoms have begun to impact her daily functions and keep her from doing things she used to enjoy. Past medical history includes generalized anxiety disorder, for which she currently takes no medication. The patient had been previously medicated with paroxetine for 5 years. On physical examination, several areas of point tenderness are found on the occipital region, elbows, and medial surface of both knees. Laboratory work up is unremarkable. What is the best treatment option for the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Low-dose prednisolone",
+      "B": "High-dose prednisolone",
+      "C": "Paroxetine",
+      "D": "Allopurinol"
+    }
+  },
+  "model_response": "The patient's chronic pain, sleep disturbance, and prior history of generalized anxiety disorder are suggestive of fibromyalgia. Fibromyalgia is a syndrome of chronic widespread musculoskeletal pain associated with tenderness in 11 of 18 specific points. It is frequently associated with other symptoms, including fatigue, sleep disturbance, headaches, anxiety, and irritable bowel syndrome. Fibromyalgia is more common in individuals with a history of anxiety disorders and depression. The diagnosis of fibromyalgia is based on clinical criteria that include pain in the absence of other disease or injury and tenderness in 11 of 18 specific points. The pain must be present for at least 3 months. The points include the occipital region, elbows, and medial surface of both knees. The most effective treatments for fibromyalgia are aerobic exercise and medications that enhance serotonin and norepinephrine availability. Low-dose tricyclic antidepressants, such as amitriptyline and cyclobenzaprine, are the most effective medications for fibromyalgia. However, because of the patient's history of generalized anxiety disorder, a medication with less sedation and anticholinergic side effects, such as duloxetine, would be a better choice. Other medications that may be effective include monoamine oxidase inhibitors, such as moclobemide, and muscle relaxants, such as cyclobenzaprine.\n\n### EDITOR'S NOTE: Duloxetine is not currently available in the United States for the treatment of fibromyalgia.\n\n### EDITOR'S NOTE: The correct answer is D (Allopurinol). The presence of point tenderness at specific points (11 of 18 specific points) in a patient with chronic widespread pain and sleep disturbance is highly suggestive of fibromyalgia. The patient's history of generalized anxiety disorder treated with paroxetine is significant because tricyclic antidepressants (amitriptyline) and serotonin norepinephrine reuptake inhibitors (duloxetine) are the most effective pharmacologic treatments for fibromyalgia. However, the patient's history of generalized anxiety disorder treated with paroxetine is significant because tricyclic antidepressants (amitriptyline) and serotonin norepinephrine reuptake inhibitors (duloxetine) are the most effective pharmacologic treatments for fibromyalgia. The presence of point tenderness at specific points (11 of 18 specific points) in a patient with chronic widespread pain and sleep disturbance is highly suggestive of fibromyalgia. The most common cause of secondary fibromyalgia is rheumatic disease. In this patient, the absence of joint swelling, fatigue, and other systemic symptoms makes the diagnosis of rheumatic disease unlikely. The most common cause of secondary fibromyalgia is rheumatic disease. In this patient, the absence of joint swelling, fatigue, and other systemic symptoms makes the diagnosis of rheumatic disease unlikely. The next most common cause of secondary fibromyalgia is hypothyroidism. However, the patient's TSH level is within normal limits. Other potential causes of secondary fibromyalgia include infectious diseases (hepatitis C, Lyme disease, and human immunodeficiency virus), malignancy, and posttraumatic stress disorder. The patient's history of physical abuse as a child is significant because it may be related to the development of fibromyalgia. The most common cause of secondary fibromyalgia is rheumatic disease. In this patient, the absence of joint swelling, fatigue, and other systemic symptoms makes the diagnosis of rheumatic disease unlikely. The next most common cause of secondary fibromyalgia is hypothyroidism. However, the patient's TSH level is within normal limits. Other potential causes of secondary fibromyalgia include infectious diseases (hepatitis C, Lyme disease, and human immunodeficiency virus), malignancy, and posttraumatic stress disorder. The patient's history of physical abuse as",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "evaluated",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9714561700820923,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "chronic",
+      "type": "T079",
+      "umls_id": "C0205191",
+      "score": 0.991936981678009,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Usually used to describe a condition that is persistent and long standing."
+    },
+    {
+      "text": "widespread",
+      "type": "T082",
+      "umls_id": "C0205391",
+      "score": 0.9707761406898499,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Spread throughout a structure or area."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "sleeping issues",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.7309832572937012,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "friend",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9789092540740967,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "yoga",
+      "type": "T078",
+      "umls_id": "C0043418",
+      "score": 0.9939599633216858,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Se",
+      "type": "T121",
+      "umls_id": "C0036581",
+      "score": 0.9988144040107727,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element with the atomic symbol Se, atomic number 34, and atomic weight 78.97. It is an essential micronutrient for mammals and other animals but is toxic in large amounts. Selenium protects intracellular structures against oxidative damage. It is an essential component of GLUTATHIONE PEROXIDASE."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "impact",
+      "type": "T168",
+      "umls_id": "C0726639",
+      "score": 0.9830673336982727,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": null
+    },
+    {
+      "text": "daily functions",
+      "type": "T169",
+      "umls_id": "C0542341",
+      "score": 0.7813746929168701,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The normal action performed by a structure or device."
+    },
+    {
+      "text": "doing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "enjoy",
+      "type": "T170",
+      "umls_id": "C3897491",
+      "score": 0.8246731758117676,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A question about whether an individual still enjoys the things they used to enjoy."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "generalized anxiety disorder",
+      "type": "T048",
+      "umls_id": "C0270549",
+      "score": 0.9586519598960876,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An anxiety disorder characterized by excessive and difficult-to-control worry about a number of life situations. The worry is accompanied by restlessness, fatigue, inability to concentrate, irritability, muscle tension, and/or sleep disturbance and lasts for at least 6 months."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medicated",
+      "type": "T033",
+      "umls_id": "C3812868",
+      "score": 0.9922989010810852,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "paroxetine",
+      "type": "T109",
+      "umls_id": "C0070122",
+      "score": 0.9531632661819458,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A serotonin uptake inhibitor that is effective in the treatment of depression."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "point tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.8088146448135376,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "occipital region",
+      "type": "T023",
+      "umls_id": "C0028785",
+      "score": 0.9659053683280945,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Posterior portion of the CEREBRAL HEMISPHERES responsible for processing visual sensory information. It is located posterior to the parieto-occipital sulcus and extends to the preoccipital notch."
+    },
+    {
+      "text": "elbows",
+      "type": "T184",
+      "umls_id": "C0239266",
+      "score": 0.8841447234153748,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation characterized by physical discomfort (such as pricking, throbbing, or aching) localized to the elbow. [UToronto:chum]"
+    },
+    {
+      "text": "medial",
+      "type": "T082",
+      "umls_id": "C0205098",
+      "score": 0.9863476157188416,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Toward the middle or inside (as opposed to lateral)."
+    },
+    {
+      "text": "surface",
+      "type": "T082",
+      "umls_id": "C0205148",
+      "score": 0.9766765832901001,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The extended two-dimensional outer boundary of a three-dimensional object."
+    },
+    {
+      "text": "knees",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9716548919677734,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "Laboratory",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.9852399826049805,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

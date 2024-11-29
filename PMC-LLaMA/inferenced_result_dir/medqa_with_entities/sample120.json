@@ -1,0 +1,382 @@
+{
+  "original_data": {
+    "question": "A 60-year-old female presents to her gynecologist with vaginal bleeding. She underwent menopause ten years prior. She has a past medical history of hypertension and diabetes mellitus. On physical examination, her uterus is uniformly enlarged. Ultrasound reveals a thickened endometrial stripe and tissue biopsy reveals neoplastic endometrial cells. A workup for metastatic disease is negative and the gynecologist recommends a laparoscopic hysterectomy. During the procedure, the surgeon ligates multiple vessels in order to remove the entire uterus. In the immediate postoperative period, the patient develops left-sided flank pain and oliguria. Serum creatinine is found to be 1.4 mg/dl whereas it was 1.0 mg/dl prior to the operation. Renal ultrasound is normal. Urinalysis is notable for hematuria. Ligation of which of the following vessels most likely contributed to this patient’s condition?",
+    "options": {
+      "A": "Artery of Sampson",
+      "B": "Ovarian artery",
+      "C": "Superior vesical artery",
+      "D": "Uterine artery"
+    }
+  },
+  "model_response": "The patient’s postoperative flank pain and oliguria are consistent with acute renal failure secondary to a ligated renal artery. The uterine artery is a branch of the internal iliac artery, which is ligated during a hysterectomy. The uterine artery gives off the artery of Sampson, which supplies the medial aspect of the upper thigh. The ovarian artery is a branch of the abdominal aorta. The superior vesical artery is a branch of the internal iliac artery that supplies the bladder. The inferior vesical artery is a branch of the internal iliac artery that supplies the bladder.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gynecologist",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.9785490036010742,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "vaginal bleeding",
+      "type": "T046",
+      "umls_id": "C2979982",
+      "score": 0.966633677482605,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Vaginal bleeding unrelated to normal menstruation."
+    },
+    {
+      "text": "menopause",
+      "type": "T039",
+      "umls_id": "C0025320",
+      "score": 0.9641866683959961,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The last menstrual period. Permanent cessation of menses (MENSTRUATION) is usually defined after 6 to 12 months of AMENORRHEA in a woman over 45 years of age. In the United States, menopause generally occurs in women between 48 and 55 years of age."
+    },
+    {
+      "text": "prior",
+      "type": "T079",
+      "umls_id": "C0332152",
+      "score": 0.9819955825805664,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Earlier in time or order."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011849",
+      "score": 0.9751484394073486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A heterogeneous group of disorders characterized by HYPERGLYCEMIA and GLUCOSE INTOLERANCE."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "uniformly enlarged",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "thickened",
+      "type": "T033",
+      "umls_id": "C0205400",
+      "score": 0.9750725626945496,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An increase in the thickness of a structure."
+    },
+    {
+      "text": "endometrial stripe",
+      "type": "T082",
+      "umls_id": "C0227843",
+      "score": 0.8189557790756226,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Relating to or composed of endometrium."
+    },
+    {
+      "text": "tissue biopsy",
+      "type": "T060",
+      "umls_id": "C0185275",
+      "score": 0.815372884273529,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of material from a soft tissue for detailed examination."
+    },
+    {
+      "text": "neoplastic endometrial cells",
+      "type": "T025",
+      "umls_id": "C0597032",
+      "score": 0.7491744756698608,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "abnormal cell which divides more than it should or does not die when it should; cells grown in vitro from neoplastic tissue may be established as a neoplastic cell line, and then can be propagated in cell culture indefinitely."
+    },
+    {
+      "text": "workup",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "metastatic disease",
+      "type": "T191",
+      "umls_id": "C0027627",
+      "score": 0.9865754246711731,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "The transfer of a neoplasm from one organ or part of the body to another remote from the primary site."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "gynecologist recommends",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.7480034232139587,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "laparoscopic hysterectomy",
+      "type": "T061",
+      "umls_id": "C0404089",
+      "score": 0.984957754611969,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "procedure",
+      "type": "T061",
+      "umls_id": "C0184661",
+      "score": 0.987176775932312,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "An activity that produces an effect, or that is intended to alter the course of a disease in a patient or population. This is a general term that encompasses the medical, social, behavioral, and environmental acts that can have preventive, therapeutic, or palliative effects."
+    },
+    {
+      "text": "surgeon",
+      "type": "T097",
+      "umls_id": "C0582175",
+      "score": 0.9574177265167236,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Medical practitioners qualified to practice surgery."
+    },
+    {
+      "text": "ligates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "multiple vessels",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.7217620611190796,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "postoperative",
+      "type": "T079",
+      "umls_id": "C0032790",
+      "score": 0.9935263395309448,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period following a surgical operation."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "patient develops",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "left-sided flank pain",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "oliguria",
+      "type": "T047",
+      "umls_id": "C0028961",
+      "score": 0.966163158416748,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Decreased URINE output that is below the normal range. Oliguria can be defined as urine output of less than or equal to 0.5 or 1 ml/kg/hr depending on the age."
+    },
+    {
+      "text": "Serum creatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "operation",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9866542220115662,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "Renal ultrasound",
+      "type": "T060",
+      "umls_id": "C0203408",
+      "score": 0.9734976887702942,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The use of ultrasound to image the kidney."
+    },
+    {
+      "text": "Urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "hematuria",
+      "type": "T047",
+      "umls_id": "C0018965",
+      "score": 0.9939060807228088,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Presence of blood in the urine."
+    },
+    {
+      "text": "Ligation",
+      "type": "T061",
+      "umls_id": "C0023690",
+      "score": 0.9589849710464478,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Application of a ligature to tie a vessel or strangulate a part."
+    },
+    {
+      "text": "vessels",
+      "type": "T023",
+      "umls_id": "C0005847",
+      "score": 0.9931622743606567,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "60-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

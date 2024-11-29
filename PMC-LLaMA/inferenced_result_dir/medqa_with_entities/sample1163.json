@@ -1,0 +1,290 @@
+{
+  "original_data": {
+    "question": "A 49-year-old man comes to the physician because of a 1-week history of diarrhea and abdominal bloating. His stools are bulky, foul-smelling, and difficult to flush. Over the past 6 months, he has had recurrent dull epigastric pain that is triggered by meals and lasts for a few days. He drinks 6 to 8 beers daily. Abdominal examination shows mild epigastric tenderness with no rebound or guarding. A CT scan of the abdomen is shown. The structure indicated by the arrows is most likely lined by which of the following?",
+    "options": {
+      "A": "Simple ductal epithelium",
+      "B": "Granulation tissue",
+      "C": "Pyogenic membrane",
+      "D": "Columnar mucinous epithelium"
+    }
+  },
+  "model_response": "The CT scan shows a collection of fluid in the lesser sac. The structure indicated by the arrows is the lesser omentum, which has protruded into the lesser sac to form a \"curtain\" between the stomach and the new fluid-filled space. The lesser omentum is lined by simple ductal epithelium. A granulation tissue forms when healing occurs after an insult. A pyogenic membrane is a pseudocapsule that forms around a liver abscess. The stomach is lined by columnar mucinous epithelium.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-week history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "abdominal bloating",
+      "type": "T033",
+      "umls_id": "C0000731",
+      "score": 0.9638038277626038,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling of the abdomen resulting from excessive food intake, malnutrition, liver disease, primary abdominal tumors, and tumors metastatic to the abdominal cavity."
+    },
+    {
+      "text": "His stools",
+      "type": "T031",
+      "umls_id": "C0015733",
+      "score": 0.7941869497299194,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Excrement from the INTESTINES, containing unabsorbed solids, waste products, secretions, and BACTERIA of the DIGESTIVE SYSTEM."
+    },
+    {
+      "text": "bulky",
+      "type": "T033",
+      "umls_id": "C5669925",
+      "score": 0.8419026732444763,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A single lesion in bulky nodal disease."
+    },
+    {
+      "text": "foul-smelling",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "flush",
+      "type": "T184",
+      "umls_id": "C0016382",
+      "score": 0.9823877811431885,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A transient reddening of the face that may be due to fever, certain drugs, exertion, or stress."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "recurrent",
+      "type": "T079",
+      "umls_id": "C1455761",
+      "score": 0.9691739678382874,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Applied to a sign, symptom, or other manifestation that occurs multiple times at usually irregular intervals. The occurences are separated by an interval in which the sign, symptom, or manifestation is not present. []"
+    },
+    {
+      "text": "dull epigastric pain",
+      "type": "T184",
+      "umls_id": "C0232493",
+      "score": 0.8606002926826477,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The location of the pain is in the upper and middle region of the abdomen, located within the sternal angle."
+    },
+    {
+      "text": "meals",
+      "type": "T056",
+      "umls_id": "C1998602",
+      "score": 0.9765107035636902,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Any of the occasions for eating food that occur by custom or habit at more or less fixed times."
+    },
+    {
+      "text": "lasts",
+      "type": "T025",
+      "umls_id": "C0368761",
+      "score": 0.7017162442207336,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A precursor cell which gives rise to a fully differentiated cell of hematopoietic lineage."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "beers",
+      "type": "T168",
+      "umls_id": "C0004922",
+      "score": 0.9762206673622131,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "An alcoholic beverage usually made from malted cereal grain (as barley), flavored with hops, and brewed by slow fermentation."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "no rebound",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "structure",
+      "type": "T082",
+      "umls_id": "C0678594",
+      "score": 0.9954383373260498,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The components and their relationship and manner of arrangement in constituting a whole."
+    },
+    {
+      "text": "arrows",
+      "type": "T073",
+      "umls_id": "C0336721",
+      "score": 0.9818645715713501,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lined",
+      "type": "T082",
+      "umls_id": "C0205132",
+      "score": 0.9745702147483826,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A mark that is long relative to its width; a length (straight or curved) without breadth or thickness; the trace of a moving point."
+    },
+    {
+      "text": "49-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

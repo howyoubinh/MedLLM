@@ -1,0 +1,334 @@
+{
+  "original_data": {
+    "question": "A 52-year-old man comes to the physician because of generalized pruritus and raised, erythematous plaques on the skin over his hands, chest, and legs for 6 hours. He reports having clear liquid discharge from his nose and sneezing. He says that his symptoms began suddenly the previous night, 30 minutes after he had dinner at a seafood restaurant. He has had similar symptoms occasionally in the past as well. Four months ago, he had an episode of narrow-angle glaucoma. He takes no medications. His vital signs are within normal limits. Nasal exam shows clear, serous secretions, with edematous and erythematous mucosa and turbinates. Paranasal sinuses are not tender to palpation. Which of the following is the most appropriate pharmacotherapy?",
+    "options": {
+      "A": "Diphenhydramine",
+      "B": "Fexofenadine",
+      "C": "Vitamin K",
+      "D": "Calamine lotion"
+    }
+  },
+  "model_response": "The patient's symptoms are consistent with an allergic reaction, most likely to shellfish. The most appropriate pharmacotherapy is diphenhydramine, an antihistamine that can help relieve the itching and uicaria. Fexofenadine is a second-generation antihistamine that is nonsedating and may be used in mild cases. Vitamin K is used in the treatment of bleeding disorders. Calamine lotion is soothing but does not relieve pruritus. Prednisone is a systemic corticosteroid that may be used in severe cases of uicaria.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "generalized pruritus",
+      "type": "T184",
+      "umls_id": "C0475858",
+      "score": 0.9589359760284424,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "raised",
+      "type": "T080",
+      "umls_id": "C0442818",
+      "score": 0.9681248664855957,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "erythematous",
+      "type": "T169",
+      "umls_id": "C0332476",
+      "score": 0.9739061594009399,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "legs",
+      "type": "T023",
+      "umls_id": "C1140621",
+      "score": 0.959001362323761,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The inferior part of the lower extremity between the KNEE and the ANKLE."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "liquid discharge",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "nose",
+      "type": "T023",
+      "umls_id": "C0028429",
+      "score": 0.9937692284584045,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A part of the upper respiratory tract. It contains the organ of SMELL. The term includes the external nose, the nasal cavity, and the PARANASAL SINUSES."
+    },
+    {
+      "text": "sneezing",
+      "type": "T184",
+      "umls_id": "C0037383",
+      "score": 0.9582226276397705,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden, forceful, involuntary expulsion of air from the NOSE and MOUTH caused by irritation to the MUCOUS MEMBRANES of the upper RESPIRATORY TRACT."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "night",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.9869015216827393,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "dinner",
+      "type": "T056",
+      "umls_id": "C4048877",
+      "score": 0.9668680429458618,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "The evening meal, usually the main meal of the day."
+    },
+    {
+      "text": "seafood",
+      "type": "T168",
+      "umls_id": "C0206208",
+      "score": 0.9739306569099426,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Marine fish and shellfish used as food or suitable for food. (Webster, 3d ed) SHELLFISH and FISH PRODUCTS are more specific types of SEAFOOD."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "narrow-angle glaucoma",
+      "type": "T047",
+      "umls_id": "C0017605",
+      "score": 0.9688122868537903,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A form of glaucoma in which the intraocular pressure increases because the angle of the anterior chamber is blocked and the aqueous humor cannot drain from the anterior chamber."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "Nasal exam",
+      "type": "T023",
+      "umls_id": "C0028429",
+      "score": 0.723615825176239,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A part of the upper respiratory tract. It contains the organ of SMELL. The term includes the external nose, the nasal cavity, and the PARANASAL SINUSES."
+    },
+    {
+      "text": "serous secretions",
+      "type": "T031",
+      "umls_id": "C0036537",
+      "score": 0.7907363772392273,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Endogenous substances produced through the activity of intact cells of glands, tissues, or organs."
+    },
+    {
+      "text": "edematous",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9656549096107483,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "erythematous mucosa",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "turbinates",
+      "type": "T023",
+      "umls_id": "C5441863",
+      "score": 0.9682148098945618,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The scroll-like bony plates with curved margins on the lateral wall of the NASAL CAVITY. Turbinates, also called nasal concha, increase the surface area of nasal cavity thus providing a mechanism for rapid warming and humidification of air as it passes to the lung."
+    },
+    {
+      "text": "Paranasal sinuses",
+      "type": "T030",
+      "umls_id": "C0030471",
+      "score": 0.9846647381782532,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Air-filled spaces located within the bones around the NASAL CAVITY. They are extensions of the nasal cavity and lined by the ciliated NASAL MUCOSA. Each sinus is named for the cranial bone in which it is located, such as the ETHMOID SINUS; the FRONTAL SINUS; the MAXILLARY SINUS; and the SPHENOID SINUS."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "pharmacotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9869977235794067,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "52-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

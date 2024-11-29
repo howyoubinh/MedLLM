@@ -1,0 +1,270 @@
+{
+  "original_data": {
+    "question": "A 76-year-old man presents to the physician because of dyspepsia and weight loss over the past 6 months. He has no history of any serious illnesses and takes no medications. A diagnostic workup including endoscopy and biopsy shows gastric adenocarcinoma. Before further workup and staging, the biopsy results are discussed with the patient. He refuses any type of life-prolonging treatment, including chemotherapy, radiation, or surgery, but he requests appropriate palliative care without any significant burden of healthcare costs. Regarding this patient’s eligibility for hospice care, what is the most appropriate next step?",
+    "options": {
+      "A": "A trial of life-extending treatment",
+      "B": "Determining patient’s life-expectancy without treatment",
+      "C": "Establishing the presence of metastasis",
+      "D": "No further steps are required because the patient already qualifies for hospice care"
+    }
+  },
+  "model_response": "The most appropriate next step is to determine patient’s life-expectancy without treatment. Hospice care is a program of care focused on the palliative needs of the terminally ill. It is appropriate when the prognosis is limited, usually defined as a life expectancy of 6 months or less. In this case, the patient has already been diagnosed with incurable gastric adenocarcinoma. The next step is to determine his life expectancy without treatment. If he has metastatic disease, he would be eligible for hospice care. If he does not have metastatic disease, his life expectancy will determine whether he is a candidate for hospice care.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "dyspepsia",
+      "type": "T184",
+      "umls_id": "C0013395",
+      "score": 0.983700156211853,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Impaired digestion, especially after eating."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "illnesses",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9646346569061279,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "diagnostic workup",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.7738381028175354,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "endoscopy",
+      "type": "T060",
+      "umls_id": "C0014245",
+      "score": 0.9926842451095581,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures of applying ENDOSCOPES for disease diagnosis and treatment. Endoscopy involves passing an optical instrument through a small incision in the skin i.e., percutaneous; or through a natural orifice and along natural body pathways such as the digestive tract; and/or through an incision in the wall of a tubular structure or organ, i.e. transluminal, to examine or perform surgery on the interior parts of the body."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "gastric adenocarcinoma",
+      "type": "T191",
+      "umls_id": "C0278701",
+      "score": 0.992245078086853,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "An adenocarcinoma arising from the stomach glandular epithelium. Gastric adenocarcinoma is primarily a disease of older individuals. It most commonly develops after a long period of atrophic gastritis and is strongly associated with Helicobacter pylori infection. The lack of early symptoms often delays the diagnosis of gastric cancer. The majority of patients present with advanced tumors which have poor rates of curability. Microscopically, two important histologic types of gastric adenocarcinoma are recognized: the intestinal and diffuse type. The overall prognosis of gastric adenocarcinomas is poor, even in patients who receive a \"curative\" resection (adapted from Sternberg's Surgical Pathology, 3rd ed., 1999)."
+    },
+    {
+      "text": "workup",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "staging",
+      "type": "T169",
+      "umls_id": "C0332305",
+      "score": 0.979615330696106,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The process of defining at what point in the natural history of a malignant disease a patient is when a diagnosis is made."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "refuses",
+      "type": "T069",
+      "umls_id": "C0017095",
+      "score": 0.9549108743667603,
+      "semantic_types": [
+        "T069"
+      ],
+      "definition": "Discarded animal and vegetable matter from a kitchen or the refuse from food preparation. (From Random House College Dictionary, 1982)"
+    },
+    {
+      "text": "life-prolonging treatment",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "chemotherapy",
+      "type": "T061",
+      "umls_id": "C0013216",
+      "score": 0.9887933135032654,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The use of DRUGS to treat a DISEASE or its symptoms. One example is the use of ANTINEOPLASTIC AGENTS to treat CANCER."
+    },
+    {
+      "text": "radiation",
+      "type": "T070",
+      "umls_id": "C0034519",
+      "score": 0.973841667175293,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Waves of oscillating electric and MAGNETIC FIELDS which move at right angles to each other and outward from the source."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "requests",
+      "type": "T052",
+      "umls_id": "C1272683",
+      "score": 0.9736456274986267,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Express the need or desire for; ask for."
+    },
+    {
+      "text": "palliative care",
+      "type": "T061",
+      "umls_id": "C0030231",
+      "score": 0.9899370670318604,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Care alleviating symptoms without curing the underlying disease. (Stedman, 25th ed)"
+    },
+    {
+      "text": "burden",
+      "type": "T078",
+      "umls_id": "C2828008",
+      "score": 0.960345983505249,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The quantity of something that is borne or carried by an individual or population."
+    },
+    {
+      "text": "healthcare costs",
+      "type": "T081",
+      "umls_id": "C0085552",
+      "score": 0.963020920753479,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The actual costs of providing services related to the delivery of health care, including the costs of procedures, therapies, and medications. It is differentiated from HEALTH EXPENDITURES, which refers to the amount of money paid for the services, and from fees, which refers to the amount charged, regardless of cost."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "eligibility",
+      "type": "T058",
+      "umls_id": "C0013893",
+      "score": 0.9845514893531799,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Criteria to determine eligibility of patients for medical care programs and services."
+    },
+    {
+      "text": "hospice care",
+      "type": "T058",
+      "umls_id": "C0085555",
+      "score": 0.9947634339332581,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Specialized health care, supportive in nature, provided to a dying person. A holistic approach is often taken, providing patients and their families with legal, financial, emotional, or spiritual counseling in addition to meeting patients' immediate physical needs. Care may be provided in the home, in the hospital, in specialized facilities (HOSPICES), or in specially designated areas of long-term care facilities. The concept also includes bereavement care for the family. (From Dictionary of Health Services Management, 2d ed)"
+    },
+    {
+      "text": "76-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "original_data": {
+    "question": "A 58-year-old male is diagnosed with hypertension and started on daily propranolol after failing antihypertensive therapy with other medications. Three months later, his blood pressure appears to be adequately controlled on this therapy. While working in his garden one afternoon, the patient is stung by a wasp and experiences a severe anaphylactic reaction that is subsequently treated with epinephrine. Which of the following effects would be expected upon administration of this epinephrine treatment?",
+    "options": {
+      "A": "Decreased bronchodilation",
+      "B": "Increased motility of the gastrointestinal tract",
+      "C": "Decreased heart rate",
+      "D": "Increased heart rate"
+    }
+  },
+  "model_response": "The patient's blood pressure would be expected to increase upon administration of epinephrine. Epinephrine activates b1 -adrenergic receptors, which increase heart rate and contractility. Epinephrine also activates a1 -adrenergic receptors, which cause vasoconstriction and increase peripheral resistance, resulting in increased blood pressure. Epinephrine does not affect motility of the gastrointestinal tract, nor does it affect motility of the sperm. Bronchodilation is caused by activation of b2 -adrenergic receptors, which is not affected by epinephrine.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "propranolol",
+      "type": "T109",
+      "umls_id": "C0033497",
+      "score": 0.9734627604484558,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A widely used non-cardioselective beta-adrenergic antagonist. Propranolol has been used for MYOCARDIAL INFARCTION; ARRHYTHMIA; ANGINA PECTORIS; HYPERTENSION; HYPERTHYROIDISM; MIGRAINE; PHEOCHROMOCYTOMA; and ANXIETY but adverse effects instigate replacement by newer drugs."
+    },
+    {
+      "text": "antihypertensive therapy",
+      "type": "T061",
+      "umls_id": "C0585941",
+      "score": 0.9702109098434448,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The treatment of hypertension via pharmacologic intervention, managing one's lifestyle (diet modification and exercise), or surgery."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "working",
+      "type": "T057",
+      "umls_id": "C0043227",
+      "score": 0.9615688323974609,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Productive or purposeful activities."
+    },
+    {
+      "text": "garden",
+      "type": "T056",
+      "umls_id": "C0868963",
+      "score": 0.9882676005363464,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Cultivation of PLANTS; (FRUIT; VEGETABLES; MEDICINAL HERBS) on small plots of ground or in containers."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "stung",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "wasp",
+      "type": "T204",
+      "umls_id": "C0043041",
+      "score": 0.9956453442573547,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": "Any of numerous winged hymenopterous insects of social as well as solitary habits and having formidable stings."
+    },
+    {
+      "text": "experiences",
+      "type": "T041",
+      "umls_id": "C0596545",
+      "score": 0.9647354483604431,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The accumulation of knowledge or skill that results from direct participation in events or activities."
+    },
+    {
+      "text": "anaphylactic reaction",
+      "type": "T046",
+      "umls_id": "C0002792",
+      "score": 0.9740079641342163,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "An acute hypersensitivity reaction due to exposure to a previously encountered ANTIGEN. The reaction may include rapidly progressing URTICARIA, respiratory distress, vascular collapse, systemic SHOCK, and death."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "epinephrine",
+      "type": "T109",
+      "umls_id": "C0014563",
+      "score": 0.9722364544868469,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "The active sympathomimetic hormone from the ADRENAL MEDULLA. It stimulates both the alpha- and beta- adrenergic systems, causes systemic VASOCONSTRICTION and gastrointestinal relaxation, stimulates the HEART, and dilates BRONCHI and cerebral vessels. It is used in ASTHMA and CARDIAC FAILURE and to delay absorption of local ANESTHETICS."
+    },
+    {
+      "text": "effects",
+      "type": "T080",
+      "umls_id": "C1280500",
+      "score": 0.9853150844573975,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A phenomenon that follows and is caused by some previous phenomenon."
+    },
+    {
+      "text": "administration",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9601402878761292,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "epinephrine",
+      "type": "T109",
+      "umls_id": "C0014563",
+      "score": 0.9722364544868469,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "The active sympathomimetic hormone from the ADRENAL MEDULLA. It stimulates both the alpha- and beta- adrenergic systems, causes systemic VASOCONSTRICTION and gastrointestinal relaxation, stimulates the HEART, and dilates BRONCHI and cerebral vessels. It is used in ASTHMA and CARDIAC FAILURE and to delay absorption of local ANESTHETICS."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

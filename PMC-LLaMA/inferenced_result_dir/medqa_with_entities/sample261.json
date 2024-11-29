@@ -1,0 +1,288 @@
+{
+  "original_data": {
+    "question": "A 30-year-old male presents to the emergency department with a complaint of abdominal pain. The patient states he was at a barbecue around noon. Lunch was arranged as a buffet without refrigeration. Within 2 to 3 hours, he had abdominal pain with 3 episodes of watery diarrhea. On exam, vital signs are T 99.1, HR 103, BP 110/55, RR 14. Abdominal exam is significant for pain to deep palpation without any rebounding or guarding. There is no blood on fecal occult testing (FOBT). What is the most likely cause of this patient's presentation?",
+    "options": {
+      "A": "Salmonella enteritidis",
+      "B": "Listeria monocytogenes",
+      "C": "Staphylococcus aureus",
+      "D": "Vibrio cholerae"
+    }
+  },
+  "model_response": "Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaint",
+      "type": "T201",
+      "umls_id": "C3864418",
+      "score": 0.9737823009490967,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": null
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Lunch",
+      "type": "T056",
+      "umls_id": "C2697949",
+      "score": 0.9940344095230103,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "A midday meal sometimes also called dinner."
+    },
+    {
+      "text": "arranged",
+      "type": "T078",
+      "umls_id": "C1546854",
+      "score": 0.9710126519203186,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "buffet",
+      "type": "T121",
+      "umls_id": "C0006353",
+      "score": 0.7423061728477478,
+      "semantic_types": [
+        "T121",
+        "T130"
+      ],
+      "definition": "A chemical system that functions to control the levels of specific ions in solution. When the level of hydrogen ion in solution is controlled the system is called a pH buffer."
+    },
+    {
+      "text": "refrigeration",
+      "type": "T066",
+      "umls_id": "C0034957",
+      "score": 0.9430331587791443,
+      "semantic_types": [
+        "T066"
+      ],
+      "definition": "The mechanical process of cooling."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "watery diarrhea",
+      "type": "T184",
+      "umls_id": "C0239182",
+      "score": 0.9706929922103882,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "HR",
+      "type": "T033",
+      "umls_id": "C0332167",
+      "score": 0.9999390244483948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "BP",
+      "type": "T058",
+      "umls_id": "C0005824",
+      "score": 0.9979794025421143,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Techniques used for measuring BLOOD PRESSURE."
+    },
+    {
+      "text": "Abdominal exam",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.8482996821403503,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "deep palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.7771643400192261,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "rebounding",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "no blood",
+      "type": "T033",
+      "umls_id": "C3844405",
+      "score": 0.9950678944587708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fecal occult testing",
+      "type": "T059",
+      "umls_id": "C0201811",
+      "score": 0.844494640827179,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A noninvasive test that detects the presence of hidden (occult) blood in the stool. This is commonly performed to screen for colon cancer."
+    },
+    {
+      "text": "FOBT",
+      "type": "T059",
+      "umls_id": "C2700166",
+      "score": 0.7350999116897583,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A fecal occult blood test that uses an immunological assay to detect hemoglobin in stool."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "presentation",
+      "type": "T078",
+      "umls_id": "C0449450",
+      "score": 0.9768714308738708,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "To show or display; the act of presenting something to sight or view: how something looks."
+    },
+    {
+      "text": "30-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

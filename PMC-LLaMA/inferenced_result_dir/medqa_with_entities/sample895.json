@@ -1,0 +1,386 @@
+{
+  "original_data": {
+    "question": "A 2-year-old boy is brought to his pediatrician by his parents for a routine visit. Since his 18-month visit, the parents have become concerned that his speech does not seem to be developing appropriately. The parents report that the patient’s vocabulary is still limited to fewer than 10 words, and he is still only using single words to describe things. The parents say that his motor milestones do not seem to be affected, as the patient is very physically active and can run and kick a ball. At times the patient seems hyperactive and can be difficult to redirect. On exam, his temperature is 98.4°F (36.9°C), blood pressure is 110/70 mmHg, pulse is 80/min, and respirations are 14/min. The rest of the exam is unremarkable, except that the patient’s face appears to be abnormally long and narrow. The patient is further referred to a geneticist, as he is believed to have a trinucleotide repeat disorder. Which of the following is the most likely inheritance pattern of this disorder?",
+    "options": {
+      "A": "Autosomal dominant",
+      "B": "Autosomal recessive",
+      "C": "Noninherited somatic mutation",
+      "D": "X-linked dominant"
+    }
+  },
+  "model_response": "The patient has Fragile X syndrome, which is the most common cause of inherited mental retardation. It is caused by a trinucleotide repeat mutation in which the sequence CGG is repeated 200 to 4000 times. It is inherited in an X-linked dominant pattern, so it primarily affects males. The physical findings of a long and narrow face, as well as large ears, are characteristic of this disorder. The patient may also have a high-pitched \"motherese\" speech pattern, similar to the speech of mothers to infants.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "boy",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "routine visit",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.7483723163604736,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "patient’s vocabulary",
+      "type": "T170",
+      "umls_id": "C0042926",
+      "score": 0.7660421133041382,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "The sum or the stock of words used by a language, a group, or an individual. (From Webster, 3d ed)"
+    },
+    {
+      "text": "words",
+      "type": "T048",
+      "umls_id": "C0003537",
+      "score": 0.7869536876678467,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A cognitive disorder marked by an impaired ability to comprehend or express language in its written or spoken form. This condition is caused by diseases which affect the language areas of the dominant hemisphere. Clinical features are used to classify the various subtypes of this condition. General categories include receptive, expressive, and mixed forms of aphasia."
+    },
+    {
+      "text": "single words",
+      "type": "T033",
+      "umls_id": "C5233327",
+      "score": 0.9705054759979248,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "things",
+      "type": "T184",
+      "umls_id": "C0233763",
+      "score": 0.7683492302894592,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Optical perception of an object, person or event in the absence of a corresponding stimulus."
+    },
+    {
+      "text": "parents say",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.8254037499427795,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "motor milestones",
+      "type": "T033",
+      "umls_id": "C1854301",
+      "score": 0.7655301690101624,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Failure to meet, or late achievement of motor development milestones."
+    },
+    {
+      "text": "affected",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.980024516582489,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "physically active",
+      "type": "T033",
+      "umls_id": "C0556453",
+      "score": 0.983367919921875,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ball",
+      "type": "T073",
+      "umls_id": "C1706910",
+      "score": 0.9862775802612305,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Any device that is spherical in shape."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hyperactive",
+      "type": "T048",
+      "umls_id": "C0424295",
+      "score": 0.9908758401870728,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Increased motor activity that is not goal directed."
+    },
+    {
+      "text": "redirect",
+      "type": "T170",
+      "umls_id": "C1552596",
+      "score": 0.7371608018875122,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<p>Indicates a work place address or telecommunication address that reaches the individual or organization directly without intermediaries. For phones, often referred to as a 'private line'.</p>"
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "abnormally",
+      "type": "T080",
+      "umls_id": "C1299351",
+      "score": 0.8206788301467896,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>The result for a quantitative observation is above the upper limit of the reference range (as defined for the respective test procedure).</p><p>Synonym: Above high normal</p>"
+    },
+    {
+      "text": "long",
+      "type": "T080",
+      "umls_id": "C0205166",
+      "score": 0.9894344806671143,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Of relatively great or greater than average spatial extension or temporal duration."
+    },
+    {
+      "text": "narrow",
+      "type": "T082",
+      "umls_id": "C0332463",
+      "score": 0.9962368011474609,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "geneticist",
+      "type": "T097",
+      "umls_id": "C0402118",
+      "score": 0.9916896224021912,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A scientist who studies or works in genetics."
+    },
+    {
+      "text": "trinucleotide repeat disorder",
+      "type": "T047",
+      "umls_id": "C5230766",
+      "score": 0.9819114208221436,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "inheritance",
+      "type": "T081",
+      "umls_id": "C0242538",
+      "score": 0.9572999477386475,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "disorder",
+      "type": "T047",
+      "umls_id": "C0012634",
+      "score": 0.9945809245109558,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A definite pathologic process with a characteristic set of signs and symptoms. It may affect the whole body or any of its parts, and its etiology, pathology, and prognosis may be known or unknown."
+    },
+    {
+      "text": "2-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

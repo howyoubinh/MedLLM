@@ -1,0 +1,310 @@
+{
+  "original_data": {
+    "question": "A 25-year-old woman presents to her physician with complaints of cyclic vomiting for 3 days. The vomitus is watery and contains undigested food particles. She also complains of feeling tired and having the “sniffles”. She has not felt like eating or drinking since her symptoms started, and she has not taken any medications. Her concern now is that she immediately gets dizzy when she stands up. Vitals signs include: pulse 120/min, respiratory rate 9/min, and blood pressure 100/70 mm Hg. Her eyes are sunken, and her tongue appears dry. Which set of lab values would best correspond to this patient’s condition?",
+    "options": {
+      "A": "pH = 7.5, Pco2 = 50 mm Hg, HCO32- = 38 mEq/L",
+      "B": "pH = 7.2, Pco2 = 25 mm Hg, HCO32- = 30 mEq/L",
+      "C": "pH = 7.5, Pco2 = 34 mm Hg, HCO32- = 38 mEq/L",
+      "D": "pH = 7.5, Pco2 = 30 mm Hg, HCO32- = 24 mEq/L"
+    }
+  },
+  "model_response": "The patient’s acid-base status is consistent with metabolic alkalosis. The low blood pressure and signs of dehydration suggest volume depletion. The low urine Na+ suggests that the aldosterone response to volume depletion is intact. The elevated urine K+ suggests that the distal convoluted tubule is not secreting this ion as it normally does. The elevated urine Cl- suggests that the distal convoluted tubule is not reabsorbing this ion as it normally does. The elevated urine HCO3- suggests that the distal convoluted tubule is not reabsorbing this ion as it normally does. The elevated urine Na+ suggests that the collecting tubule is not responding to ADH as it normally does. The low urine phosphate suggests that the proximal convoluted tubule is not reabsorbing this ion as it normally does. The low urine F- suggests that the loop of Henle is not reabsorbing this ion as it normally does. The low urine K+ suggests that the loop of Henle is not secreting this ion as it normally does. The low urine HCO3- suggests that the loop of Henle is not reabsorbing this ion as it normally does. The low urine Cl- suggests that the loop of Henle is not reabsorbing this ion as it normally does. The low urine phosphate suggests that the loop of Henle is not reabsorbing this ion as it normally does. The low urine F- suggests that the glomerulus is not filtering this ion as it normally does. The low urine HCO3- suggests that the glomerulus is not reabsorbing this ion as it normally does. The low urine Cl- suggests that the glomerulus is not reabsorbing this ion as it normally does. The low urine phosphate suggests that the glomerulus is not reabsorbing this ion as it normally does. The low urine F- suggests that the proximal convoluted tubule is not filtering this ion as it normally does. The low urine HCO3- suggests that the proximal convoluted tubule is not reabsorbing this ion as it normally does. The low urine Cl- suggests that the proximal convoluted tubule is not reabsorbing this ion as it normally does. The low urine phosphate suggests that the proximal convoluted tubule is not reabsorbing this ion as it normally does. The low urine Na+ suggests that the proximal convoluted tubule is not reabsorbing this ion as it normally does. The low urine F- suggests that the distal convoluted tubule is not filtering this ion as it normally does. The low urine HCO3- suggests that the distal convoluted tubule is not reabsorbing this ion as it normally does. The low urine Cl- suggests that the distal convoluted tubule is not reabsorbing this ion as it normally does. The low urine phosphate suggests that the distal convoluted tubule is not reabsorbing this ion as it normally does. The low urine Na+ suggests that the distal convoluted tubule is not reabsorbing this ion as it normally does. The low urine F- suggests that the collecting tubule is not filtering this ion as it normally does. The low urine HCO3- suggests that the collecting tubule is not reabsorbing this ion as it normally does. The low urine Cl- suggests that the collecting tubule is not reabsorbing this ion as it normally does. The low urine phosphate suggests that the collecting tubule is not reabsorbing this ion as it normally does. The low urine Na+ suggests that the collecting tubule is not reabsorbing this ion as it normally does. The low urine F- suggests that the glomerulus is not filtering this ion as it normally does. The low urine HCO3- suggests that the glomerulus is not reabsorbing this ion as it normally does. The low urine Cl- suggests that the glomerulus is not reabsorbing this ion as it normally does. The low urine phosphate suggests that the glomerulus is not reabsorbing this ion as it normally does. The low urine Na+ suggests that the glomerulus is not reabsorbing this ion as it normally does. The low urine F- suggests that the proximal convoluted tubule is not",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "cyclic vomiting",
+      "type": "T033",
+      "umls_id": "C4015188",
+      "score": 0.9697030782699585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "vomitus",
+      "type": "T031",
+      "umls_id": "C0042965",
+      "score": 0.9619128704071045,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Gastrointestinal contents that have returned to the mouth or are ejected beyond the mouth."
+    },
+    {
+      "text": "watery",
+      "type": "T080",
+      "umls_id": "C0443350",
+      "score": 0.9556147456169128,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "food particles",
+      "type": "T168",
+      "umls_id": "C0311119",
+      "score": 0.985628604888916,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "feeling",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9620389342308044,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "tired",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9875693321228027,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "sniffles",
+      "type": "T033",
+      "umls_id": "C0558361",
+      "score": 0.9655291438102722,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "eating",
+      "type": "T040",
+      "umls_id": "C0013470",
+      "score": 0.9728949666023254,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The consumption of edible substances."
+    },
+    {
+      "text": "drinking",
+      "type": "T055",
+      "umls_id": "C0001948",
+      "score": 0.9639207720756531,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Behaviors associated with the ingesting of ALCOHOLIC BEVERAGES, including social drinking."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "gets",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "dizzy",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9601719975471497,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "Vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate 9/min",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.8685661554336548,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "sunken",
+      "type": "T033",
+      "umls_id": "C0423224",
+      "score": 0.7873384952545166,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An eye that is more deeply recessed into the plane of the face than is typical. [PMID:19125427]"
+    },
+    {
+      "text": "tongue",
+      "type": "T023",
+      "umls_id": "C0040408",
+      "score": 0.9851449131965637,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A muscular organ in the mouth that is covered with pink tissue called mucosa, tiny bumps called papillae, and thousands of taste buds. The tongue is anchored to the mouth and is vital for chewing, swallowing, and for speech."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "lab values",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "25-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

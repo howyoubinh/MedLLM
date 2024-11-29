@@ -1,0 +1,280 @@
+{
+  "original_data": {
+    "question": "An 8-year-old girl presents to her pediatrician with intensely pruritic lesions over her buttocks, as shown. These lesions occur intermittently but have worsened over time. Her medical history is remarkable for iron deficiency, for which she is on ferrous sulfate. The patient has also experienced intermittent episodes of mild diarrhea, previously diagnosed as lactose intolerance. Her height is at the 30th percentile and weight is at the 25th percentile for age and sex. An immunoglobulin A (IgA) tissue transglutaminase titer is 5 times the upper limit of normal. Which of the following is the most likely cause of this patient's condition?",
+    "options": {
+      "A": "Crohn’s disease",
+      "B": "Celiac disease",
+      "C": "Common variable immune deficiency",
+      "D": "Henoch-Schonlein purpura"
+    }
+  },
+  "model_response": "The image shows multiple raised, erythematous plaques with central clearing and a peripheral raised border. This is consistent with the clinical presentation of dermatitis herpetiformis, which is a cutaneous manifestation of celiac disease. The IgA tissue transglutaminase titer is elevated in celiac disease. The other listed options are not associated with dermatitis herpetiformis.\n\n###Answer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "pediatrician",
+      "type": "T097",
+      "umls_id": "C0237433",
+      "score": 0.9895817041397095,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "A medical doctor with specialized training in the care of children."
+    },
+    {
+      "text": "pruritic lesions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "buttocks",
+      "type": "T029",
+      "umls_id": "C0006497",
+      "score": 0.9884652495384216,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Either of two fleshy protuberances at the lower posterior section of the trunk or HIP in humans and primate on which a person or animal sits, consisting of gluteal MUSCLES and fat."
+    },
+    {
+      "text": "lesions",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9854557514190674,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "worsened",
+      "type": "T033",
+      "umls_id": "C1457868",
+      "score": 0.981609582901001,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "In an declined condition."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "iron deficiency",
+      "type": "T047",
+      "umls_id": "C0240066",
+      "score": 0.9824650883674622,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Subnormal concentrations of iron resulting from low iron intake, inefficient iron absorption in the gastrointestinal tract, or increased iron loss."
+    },
+    {
+      "text": "ferrous sulfate",
+      "type": "T121",
+      "umls_id": "C0060282",
+      "score": 0.9748814702033997,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "A sulfate salt of mineral iron formulated for oral administration and used as a dietary supplement, ferrous sulfate is absorbed in the stomach and small intestine and combines with apoferritin to form ferritin, which is stored in the liver, spleen, red bone marrow, and intestinal mucosa. Important in transport of oxygen by hemoglobin to the tissues, iron is also found in myoglobin, transferrin, and ferritin, and is a component of many enzymes such as catalase, peroxidase, and cytochromes."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "intermittent",
+      "type": "T079",
+      "umls_id": "C0205267",
+      "score": 0.9686131477355957,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Periodically stopping and starting."
+    },
+    {
+      "text": "mild diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.802812397480011,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "lactose intolerance",
+      "type": "T047",
+      "umls_id": "C0022951",
+      "score": 0.987027108669281,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The condition resulting from the absence or deficiency of LACTASE in the MUCOSA cells of the GASTROINTESTINAL TRACT, and the inability to break down LACTOSE in milk for ABSORPTION. Bacterial fermentation of the unabsorbed lactose leads to symptoms that range from a mild indigestion (DYSPEPSIA) to severe DIARRHEA. Lactose intolerance may be an inborn error or acquired."
+    },
+    {
+      "text": "height",
+      "type": "T081",
+      "umls_id": "C0489786",
+      "score": 0.9758176207542419,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension."
+    },
+    {
+      "text": "percentile",
+      "type": "T081",
+      "umls_id": "C1264641",
+      "score": 0.97263103723526,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."
+    },
+    {
+      "text": "weight",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.9753624796867371,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "age",
+      "type": "T032",
+      "umls_id": "C0001779",
+      "score": 0.9952089190483093,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "How long something has existed; elapsed time since birth."
+    },
+    {
+      "text": "sex",
+      "type": "T040",
+      "umls_id": "C0009253",
+      "score": 0.9687879681587219,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The sexual union of a male and a female, a term used for human only."
+    },
+    {
+      "text": "immunoglobulin A (",
+      "type": "T116",
+      "umls_id": "C0020835",
+      "score": 0.9599809646606445,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Represents 15-20% of the human serum immunoglobulins, mostly as the 4-chain polymer in humans or dimer in other mammals. Secretory IgA (IMMUNOGLOBULIN A, SECRETORY) is the main immunoglobulin in secretions."
+    },
+    {
+      "text": "IgA",
+      "type": "T116",
+      "umls_id": "C0020835",
+      "score": 0.9975951313972473,
+      "semantic_types": [
+        "T116",
+        "T129"
+      ],
+      "definition": "Represents 15-20% of the human serum immunoglobulins, mostly as the 4-chain polymer in humans or dimer in other mammals. Secretory IgA (IMMUNOGLOBULIN A, SECRETORY) is the main immunoglobulin in secretions."
+    },
+    {
+      "text": "tissue transglutaminase",
+      "type": "T116",
+      "umls_id": "C0529334",
+      "score": 0.958984375,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": null
+    },
+    {
+      "text": "titer",
+      "type": "T081",
+      "umls_id": "C0475208",
+      "score": 0.9780940413475037,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Concentration of a substance in a solution as determined by the quantitative reaction with added measured volume(s) of a solution of the precisely known concentration(s) of a standard reagent."
+    },
+    {
+      "text": "upper limit of normal",
+      "type": "T081",
+      "umls_id": "C1519815",
+      "score": 0.977625846862793,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The top value of the range of statistical characteristics that are supposed to represent accepted standard, non-pathological pattern for particular laboratory result or other quantitative parameter."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "8-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

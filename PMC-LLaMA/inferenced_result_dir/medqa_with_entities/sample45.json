@@ -1,0 +1,371 @@
+{
+  "original_data": {
+    "question": "A man is brought into the emergency department by the police department. The officer state that the man has been arrested multiple times for public alcohol intoxication, but recently became homeless. On exam, the man is behaving erratically. His vitals are all within normal limits. He appears confused and has a slurred speech. On gait exam, the patient is ataxic and cannot stand without support for more than a few seconds. Labs return with the following values: Na 140, K 4, Cl 106, BUN 8, Cr 2. His ABG has pH 7.3, PaCO2 13mm, PaO2 130mm, HCO3 7. His urinalysis is shown in Figure 1. Blood salicylate levels return as normal. While you await other diagnostic tests, which of the following should be administered next to treat this patient?",
+    "options": {
+      "A": "Ethanol",
+      "B": "Naltrexone",
+      "C": "Naloxone",
+      "D": "Fomepizole"
+    }
+  },
+  "model_response": "The patient's clinical presentation is consistent with severe ethylene glycol intoxication. The urine sample shows a high RBC count, which is consistent with acute tubular necrosis due to ethylene glycol. Ethylene glycol is metabolized by alcohol dehydrogenase to glycoaldehyde, which is then metabolized to glycolic acid. This causes severe metabolic acidosis. The treatment for this condition is ethanol or fomepizole. Fomepizole is the preferred agent because it has fewer side effects. Naltrexone is an opioid antagonist. Naloxone is a narcotic antagonist used to reverse opioid overdose. Nalmefene is another opioid antagonist.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "police department",
+      "type": "T092",
+      "umls_id": "C1704729",
+      "score": 0.7563539147377014,
+      "semantic_types": [
+        "T092"
+      ],
+      "definition": "A specialized division of a large organization."
+    },
+    {
+      "text": "officer state",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "public alcohol intoxication",
+      "type": "T048",
+      "umls_id": "C0001969",
+      "score": 0.8407338857650757,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An acute brain syndrome which results from the excessive ingestion of ETHANOL or ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "homeless",
+      "type": "T098",
+      "umls_id": "C0019863",
+      "score": 0.9968299269676208,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons without adequate housing or without permanent residence. The concept excludes nomadic peoples."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "erratically",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "vitals",
+      "type": "T170",
+      "umls_id": "C5239216",
+      "score": 0.7708461880683899,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A table of data specifically regarding vitals."
+    },
+    {
+      "text": "slurred",
+      "type": "T033",
+      "umls_id": "C0234518",
+      "score": 0.974640965461731,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal coordination of muscles involved in speech. [DDD:fmunitoni]"
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "gait exam",
+      "type": "T060",
+      "umls_id": "C0558820",
+      "score": 0.7644868493080139,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Determination of the level of functional limitation that may be due to pathology, and evaluating rehabilitative intervention of the way in which the body moves from one point to another. Most often, this is done by walking."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "ataxic",
+      "type": "T184",
+      "umls_id": "C0234366",
+      "score": 0.9737235307693481,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stand",
+      "type": "T033",
+      "umls_id": "C0596013",
+      "score": 0.9981156587600708,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "return with",
+      "type": "T080",
+      "umls_id": "C0332156",
+      "score": 0.7555748820304871,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "To give something back, or the getting back thereof."
+    },
+    {
+      "text": "values",
+      "type": "T080",
+      "umls_id": "C0042295",
+      "score": 0.9790977239608765,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Na",
+      "type": "T123",
+      "umls_id": "C0037473",
+      "score": 0.9983752369880676,
+      "semantic_types": [
+        "T123",
+        "T196"
+      ],
+      "definition": "A member of the alkali group of metals. It has the atomic symbol Na, atomic number 11, and atomic weight 23."
+    },
+    {
+      "text": "K 4",
+      "type": "T116",
+      "umls_id": "C0052012",
+      "score": 0.9863472580909729,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Cl 106",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "BUN",
+      "type": "T059",
+      "umls_id": "C0005845",
+      "score": 0.9844024777412415,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The urea concentration of the blood stated in terms of nitrogen content. Serum (plasma) urea nitrogen is approximately 12% higher than blood urea nitrogen concentration because of the greater protein content of red blood cells. Increases in blood or serum urea nitrogen are referred to as azotemia and may have prerenal, renal, or postrenal causes. (From Saunders Dictionary & Encyclopedia of Laboratory Medicine and Technology, 1984)"
+    },
+    {
+      "text": "Cr 2",
+      "type": "T059",
+      "umls_id": "C0201975",
+      "score": 0.7929238677024841,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample."
+    },
+    {
+      "text": "ABG",
+      "type": "T059",
+      "umls_id": "C0150411",
+      "score": 0.9532551169395447,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the acidity (pH) and the levels of oxygen, carbon dioxide, and bicarbonate in the blood."
+    },
+    {
+      "text": "pH",
+      "type": "T081",
+      "umls_id": "C0020283",
+      "score": 0.9775795936584473,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The normality of a solution with respect to HYDROGEN ions; H+. It is related to acidity measurements in most cases by pH = log 1/2[1/(H+)], where (H+) is the hydrogen ion concentration in gram equivalents per liter of solution. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "PaCO2",
+      "type": "T059",
+      "umls_id": "C0201931",
+      "score": 0.7244967818260193,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A measurement of the partial pressure of carbon dioxide in a sample."
+    },
+    {
+      "text": "PaO2",
+      "type": "T059",
+      "umls_id": "C1283004",
+      "score": 0.9576822519302368,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Measures the pressure of oxygen dissolved in the blood and how well oxygen is able to move from the airspace of the lungs into the blood."
+    },
+    {
+      "text": "HCO3",
+      "type": "T121",
+      "umls_id": "C0005367",
+      "score": 0.9921357035636902,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": "Inorganic salts that contain the -HCO3 radical. They are an important factor in determining the pH of the blood and the concentration of bicarbonate ions is regulated by the kidney. Levels in the blood are an index of the alkali reserve or buffering capacity."
+    },
+    {
+      "text": "urinalysis",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.9850638508796692,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "Figure 1",
+      "type": "T016",
+      "umls_id": "C0242821",
+      "score": 0.7307867407798767,
+      "semantic_types": [
+        "T016"
+      ],
+      "definition": "The human being as a non-anatomical and non-zoological entity. The emphasis is on the philosophical or artistic treatment of the human being, and includes lay and social attitudes toward the body in history. (From J. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "Blood salicylate",
+      "type": "T109",
+      "umls_id": "C0036075",
+      "score": 0.8003469705581665,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "o-hydroxybenzoate."
+    },
+    {
+      "text": "await",
+      "type": "T169",
+      "umls_id": "C1610166",
+      "score": 0.7002747058868408,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>Wait for this branch to terminate.</p>"
+    },
+    {
+      "text": "diagnostic tests",
+      "type": "T060",
+      "umls_id": "C0086143",
+      "score": 0.9798427224159241,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "heading term for tests not treed elsewhere under DIAGNOSIS."
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "treat",
+      "type": "T169",
+      "umls_id": "C1292734",
+      "score": 0.9973037838935852,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The use of a particular medical device, medication or treatment to treat a pre-existing disease or condition."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    }
+  ]
+}

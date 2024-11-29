@@ -1,0 +1,530 @@
+{
+  "original_data": {
+    "question": "A 35-year-old woman presents to a psychiatrist for an initial consultation. She reports that for the past 3 years, she has experienced several periods of depressed mood. The episodes do not coincide with any specific life events and seem to resolve after 4-6 weeks. During these episodes, she experiences a depressed mood, sleep disturbances, and a poor appetite, but she at times is able to enjoy spending time with her children and husband but other times she is distressed and cannot enjoy time with them. Upon further questioning, she also reports experiencing occasional episodes of elevated mood over the past ten years. During these episodes, she is very productive at her work as a lawyer and requires less sleep than usual. Her past medical history is notable for obesity, type I diabetes mellitus, and rheumatoid arthritis. She is on insulin and takes methotrexate. She smokes marijuana occasionally. Her temperature is 99.2°F (37.3°C), blood pressure is 124/80 mmHg, pulse is 78/min, and respirations are 17/min. On exam, she is quiet with a flattened affect, but is cooperative and answers questions thoroughly. Which of the following is the most likely diagnosis in this patient?",
+    "options": {
+      "A": "Bipolar I disorder",
+      "B": "Cyclothymic disorder",
+      "C": "Persistent depressive disorder",
+      "D": "Schizoaffective disorder"
+    }
+  },
+  "model_response": "This patient's history of distinct episodes of mood disturbance lasting several weeks and not clearly linked to any specific stressor is suggestive of a mood disorder. The presence of both depressive and manic episodes suggests a diagnosis of bipolar I disorder. The depressive episodes are characterized by low mood, sleep disturbances, and appetite disturbance. During the manic episodes, the patient is very productive and requires less sleep than usual. The patient's medical history is significant for obesity, type I diabetes mellitus, and rheumatoid arthritis. These medical conditions are not directly related to the mood disorder.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "consultation",
+      "type": "T058",
+      "umls_id": "C0009818",
+      "score": 0.9568269848823547,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "A conference between two or more people to consider a particular question; the act of deliberating together; confering with another researcher, physician, or expert about an issue or a case."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "periods",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9520259499549866,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "depressed mood",
+      "type": "T048",
+      "umls_id": "C0344315",
+      "score": 0.9759973883628845,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An emotional state characterized by feelings of sadness, emptiness, and/or tearfulness."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "coincide",
+      "type": "T079",
+      "umls_id": "C0205420",
+      "score": 0.8198833465576172,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or operating at the same time."
+    },
+    {
+      "text": "specific",
+      "type": "T080",
+      "umls_id": "C0205369",
+      "score": 0.9784817099571228,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Clearly and explicitly stated."
+    },
+    {
+      "text": "life events",
+      "type": "T032",
+      "umls_id": "C0557155",
+      "score": 0.9774385094642639,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "experiences",
+      "type": "T041",
+      "umls_id": "C0596545",
+      "score": 0.9647354483604431,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The accumulation of knowledge or skill that results from direct participation in events or activities."
+    },
+    {
+      "text": "depressed mood",
+      "type": "T048",
+      "umls_id": "C0344315",
+      "score": 0.9759973883628845,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An emotional state characterized by feelings of sadness, emptiness, and/or tearfulness."
+    },
+    {
+      "text": "sleep disturbances",
+      "type": "T184",
+      "umls_id": "C0037317",
+      "score": 0.9721733927726746,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormality of sleep including such phenomena as 1) insomnia/hypersomnia, 2) non-restorative sleep, 3) sleep schedule disorder, 4) excessive daytime somnolence, 5) sleep apnea, and 6) restlessness. [HPO:curators]"
+    },
+    {
+      "text": "poor appetite",
+      "type": "T184",
+      "umls_id": "C0232462",
+      "score": 0.9712608456611633,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A reduced desire to eat. []"
+    },
+    {
+      "text": "spending time",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "husband",
+      "type": "T099",
+      "umls_id": "C0242664",
+      "score": 0.9361101984977722,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male partner in marriage."
+    },
+    {
+      "text": "distressed",
+      "type": "T041",
+      "umls_id": "C3887804",
+      "score": 0.9907926321029663,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A feeling of worry and unhappiness."
+    },
+    {
+      "text": "questioning",
+      "type": "T041",
+      "umls_id": "C0876928",
+      "score": 0.9653850197792053,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Used to describe an individual who is unsure of their sexual orientation."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "occasional",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.9617764949798584,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "mood",
+      "type": "T041",
+      "umls_id": "C0026516",
+      "score": 0.976134181022644,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A relatively temporary state of feeling."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "productive",
+      "type": "T040",
+      "umls_id": "C0035150",
+      "score": 0.7843745946884155,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The total process by which organisms produce offspring. (Stedman, 25th ed)"
+    },
+    {
+      "text": "lawyer",
+      "type": "T097",
+      "umls_id": "C0086530",
+      "score": 0.9291653037071228,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Persons whose profession is to give legal advice and assistance to clients and represent them in legal matters. (American Heritage Dictionary, 3d ed)"
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "usual",
+      "type": "T080",
+      "umls_id": "C3538928",
+      "score": 0.949625551700592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "That which is considered customary."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "obesity",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9890912771224976,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "type I diabetes mellitus",
+      "type": "T047",
+      "umls_id": "C0011854",
+      "score": 0.9797846674919128,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic condition characterized by minimal or absent production of insulin by the pancreas."
+    },
+    {
+      "text": "rheumatoid arthritis",
+      "type": "T047",
+      "umls_id": "C0003873",
+      "score": 0.9790905117988586,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A chronic systemic disease, primarily of the joints, marked by inflammatory changes in the synovial membranes and articular structures, widespread fibrinoid degeneration of the collagen fibers in mesenchymal tissues, and by atrophy and rarefaction of bony structures. Etiology is unknown, but autoimmune mechanisms have been implicated."
+    },
+    {
+      "text": "insulin",
+      "type": "T116",
+      "umls_id": "C0021641",
+      "score": 0.9696833491325378,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T125"
+      ],
+      "definition": "A 51-amino acid pancreatic hormone that plays a major role in the regulation of glucose metabolism, directly by suppressing endogenous glucose production (GLYCOGENOLYSIS; GLUCONEOGENESIS) and indirectly by suppressing GLUCAGON secretion and LIPOLYSIS. Native insulin is a globular protein comprised of a zinc-coordinated hexamer. Each insulin monomer containing two chains, A (21 residues) and B (30 residues), linked by two disulfide bonds. Insulin is used as a drug to control insulin-dependent diabetes mellitus (DIABETES MELLITUS, TYPE 1)."
+    },
+    {
+      "text": "methotrexate",
+      "type": "T109",
+      "umls_id": "C0025677",
+      "score": 0.9724632501602173,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An antineoplastic antimetabolite with immunosuppressant properties. It is an inhibitor of TETRAHYDROFOLATE DEHYDROGENASE and prevents the formation of tetrahydrofolate, necessary for synthesis of thymidylate, an essential component of DNA."
+    },
+    {
+      "text": "marijuana",
+      "type": "T109",
+      "umls_id": "C0024808",
+      "score": 0.9321199059486389,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Any part of, or extract from, the female hemp plant Cannabis sativa. Marijuana contains cannabinoids, substances with hallucinogenic, psychoactive, and addictive properties. This agent has potential use for treating cancer pain and cachexia. (NCI04)"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "quiet",
+      "type": "T080",
+      "umls_id": "C0439654",
+      "score": 0.9662524461746216,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "flattened",
+      "type": "T169",
+      "umls_id": "C0016203",
+      "score": 0.98130202293396,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "affect",
+      "type": "T041",
+      "umls_id": "C0001721",
+      "score": 0.9883648753166199,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The feeling-tone accompaniment of an idea or mental representation. It is the most direct psychic derivative of instinct and the psychic representative of the various bodily changes by means of which instincts manifest themselves."
+    },
+    {
+      "text": "cooperative",
+      "type": "T079",
+      "umls_id": "C1882154",
+      "score": 0.7873753905296326,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring during or associated with a surgical procedure."
+    },
+    {
+      "text": "answers",
+      "type": "T170",
+      "umls_id": "C1706817",
+      "score": 0.7726173996925354,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A statement (either spoken or written) that is made in reply to a question or request or criticism or accusation; a statement that solves a problem or explains how to solve the problem."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

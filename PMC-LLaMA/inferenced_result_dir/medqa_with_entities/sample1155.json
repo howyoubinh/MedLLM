@@ -1,0 +1,185 @@
+{
+  "original_data": {
+    "question": "An investigator is studying the growth pattern of a particular bacterial strain that caused a respiratory disease outbreak in children in rural Venezuela. The bacteria are found to be able to grow in a specialized culture that contains sheep blood, cystine, and potassium tellurite; the colonies are black and have a shining surface. The isolated bacteria are most likely which of the following?",
+    "options": {
+      "A": "Legionella pneumophila",
+      "B": "Haemophilus influenzae",
+      "C": "Bordetella pertussis",
+      "D": "Corynebacterium diphtheriae"
+    }
+  },
+  "model_response": "The organism is Legionella pneumophila, which is a fastidious organism that has been isolated from cooling towers and from the respiratory tract of patients with a severe pneumonia. The organism requires a special culture medium that contains cysteine, antibiotics, and charcoal. The medium is buffered with phosphates and supplemented with iron and the vitamins pyridoxine and riboflavin. The colonies are black and have a shining surface.\n\nHaemophilus influenzae grows on blood agar but does not require blood for growth. It does not produce colonies with a shiny surface.\n\nBordetella pertussis grows on blood agar but does not require blood for growth. It does not produce colonies with a shiny surface.\n\nCorynebacterium diphtheriae grows on blood agar but does not require blood for growth. It does not produce colonies with a shiny surface.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "investigator",
+      "type": "T097",
+      "umls_id": "C0035173",
+      "score": 0.9776015877723694,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those individuals engaged in research."
+    },
+    {
+      "text": "growth pattern",
+      "type": "T033",
+      "umls_id": "C1156245",
+      "score": 0.975993275642395,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bacterial strain",
+      "type": "T007",
+      "umls_id": "C5141338",
+      "score": 0.9855302572250366,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": null
+    },
+    {
+      "text": "respiratory disease",
+      "type": "T047",
+      "umls_id": "C0035204",
+      "score": 0.9868550300598145,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Diseases of the respiratory system in general or unspecified or for a specific respiratory disease not available."
+    },
+    {
+      "text": "outbreak",
+      "type": "T067",
+      "umls_id": "C0012652",
+      "score": 0.9660420417785645,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Sudden increase in the incidence of a disease. The concept includes EPIDEMICS and PANDEMICS."
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "rural Venezuela",
+      "type": "T083",
+      "umls_id": "C0042469",
+      "score": 0.7612272500991821,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in northern South America, bordering the Caribbean Sea and the North Atlantic Ocean, located between Colombia and Guyana."
+    },
+    {
+      "text": "bacteria",
+      "type": "T007",
+      "umls_id": "C0004611",
+      "score": 0.992347240447998,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "One of the three domains of life (the others being Eukarya and ARCHAEA), also called Eubacteria. They are unicellular prokaryotic microorganisms which generally possess rigid cell walls, multiply by cell division, and exhibit three principal forms: round or coccal, rodlike or bacillary, and spiral or spirochetal. Bacteria can be classified by their response to OXYGEN: aerobic, anaerobic, or facultatively anaerobic; by the mode by which they obtain their energy: chemotrophy (via chemical reaction) or PHOTOTROPHY (via light reaction); for chemotrophs by their source of chemical energy: CHEMOLITHOTROPHY (from inorganic compounds) or chemoorganotrophy (from organic compounds); and by their source for CARBON; NITROGEN; etc.; HETEROTROPHY (from organic sources) or AUTOTROPHY (from CARBON DIOXIDE). They can also be classified by whether or not they stain (based on the structure of their CELL WALLS) with CRYSTAL VIOLET dye: gram-negative or gram-positive."
+    },
+    {
+      "text": "grow",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "specialized",
+      "type": "T080",
+      "umls_id": "C0205555",
+      "score": 0.9685670137405396,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Surpassing what is common or usual or expected."
+    },
+    {
+      "text": "culture",
+      "type": "T078",
+      "umls_id": "C0010453",
+      "score": 0.976164698600769,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A collective expression for all behavior patterns acquired and socially transmitted through symbols. Culture includes customs, traditions, and language."
+    },
+    {
+      "text": "sheep",
+      "type": "T015",
+      "umls_id": "C0036945",
+      "score": 0.995182991027832,
+      "semantic_types": [
+        "T015"
+      ],
+      "definition": "Any of the ruminant mammals with curved horns in the genus Ovis, family Bovidae. They possess lachrymal grooves and interdigital glands, which are absent in GOATS."
+    },
+    {
+      "text": "cystine",
+      "type": "T116",
+      "umls_id": "C0010682",
+      "score": 0.9798964262008667,
+      "semantic_types": [
+        "T116",
+        "T121",
+        "T123"
+      ],
+      "definition": "A covalently linked dimeric nonessential amino acid formed by the oxidation of CYSTEINE. Two molecules of cysteine are joined together by a disulfide bridge to form cystine."
+    },
+    {
+      "text": "potassium tellurite",
+      "type": "T121",
+      "umls_id": "C0071782",
+      "score": 0.9822960495948792,
+      "semantic_types": [
+        "T121",
+        "T197"
+      ],
+      "definition": null
+    },
+    {
+      "text": "colonies",
+      "type": "T081",
+      "umls_id": "C0439158",
+      "score": 0.9714995622634888,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "black",
+      "type": "T098",
+      "umls_id": "C0005680",
+      "score": 0.9957549571990967,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "shining surface",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "isolated bacteria",
+      "type": "T007",
+      "umls_id": "C0004611",
+      "score": 0.701695442199707,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "One of the three domains of life (the others being Eukarya and ARCHAEA), also called Eubacteria. They are unicellular prokaryotic microorganisms which generally possess rigid cell walls, multiply by cell division, and exhibit three principal forms: round or coccal, rodlike or bacillary, and spiral or spirochetal. Bacteria can be classified by their response to OXYGEN: aerobic, anaerobic, or facultatively anaerobic; by the mode by which they obtain their energy: chemotrophy (via chemical reaction) or PHOTOTROPHY (via light reaction); for chemotrophs by their source of chemical energy: CHEMOLITHOTROPHY (from inorganic compounds) or chemoorganotrophy (from organic compounds); and by their source for CARBON; NITROGEN; etc.; HETEROTROPHY (from organic sources) or AUTOTROPHY (from CARBON DIOXIDE). They can also be classified by whether or not they stain (based on the structure of their CELL WALLS) with CRYSTAL VIOLET dye: gram-negative or gram-positive."
+    }
+  ]
+}

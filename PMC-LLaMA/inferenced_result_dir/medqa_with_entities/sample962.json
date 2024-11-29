@@ -1,0 +1,558 @@
+{
+  "original_data": {
+    "question": "A 19-year-old female presents to the emergency room with 6 days of lower abdominal pain. She states that her symptoms have progressed and she now feels feverish as well. She also notes an episode of nonbloody diarrhea 2 days ago and has been increasingly nauseous. While being evaluated in the emergency room, she vomits three times. The patient has no significant past medical history but was recently treated with ciprofloxacin for an uncomplicated urinary tract infection. She also notes irregular periods, with a last menstrual period 6 weeks ago. She is a college student who has had 3 sexual partners in the last year with inconsistent use of barrier protection. Her temperature is 100.5°C (38.1°F), blood pressure is 102/68 mmHg, pulse is 97/min, and respirations are 14/min. On exam, the patient is noticeably uncomfortable. There is marked tenderness to palpation in the suprapubic region and right lower quadrant, with voluntary guarding but no rebound. Pelvic exam shows moderate purulent discharge in the vaginal vault, cervical motion tenderness, and a tender adnexal mass on the right side. Which of the following is the best next step in treating this patient’s condition?",
+    "options": {
+      "A": "Intramuscular ceftriaxone and oral doxycycline with outpatient follow-up",
+      "B": "Intravenous cefotetan and doxycycline with inpatient admission",
+      "C": "Oral vancomycin with outpatient follow-up",
+      "D": "Methotrexate with outpatient follow-up"
+    }
+  },
+  "model_response": "The patient’s clinical presentation is consistent with pelvic inflammatory disease (PID). She has a recent history of antibiotic treatment for urinary tract infection with ciprofloxacin, which is not known for its activity against the organisms commonly associated with PID (gonorrhea and chlamydia). She has risk factors for sexually transmitted diseases (STDs) (multiple sexual partners, inconsistent use of barrier protection, and irregular periods). The physical exam is consistent with right adnexal tenderness and cervical motion tenderness. The most likely etiologies in this patient are gonorrhea and chlamydia. The treatment for PID includes coverage of N. gonorrhoeae (third-generation cephalosporin such as ceftriaxone or cefixime) and C. trachomatis (azithromycin or doxycycline). The patient should be counseled regarding the need for testing and treatment of sexual partners.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency",
+      "type": "T067",
+      "umls_id": "C0013956",
+      "score": 0.991172730922699,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A sudden unforeseen crisis that requires immediate action."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "lower abdominal pain",
+      "type": "T184",
+      "umls_id": "C0232495",
+      "score": 0.9752821922302246,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sensation of discomfort emanating from the inferior quadrants of the abdomen, which may be peritoneal or visceral in origin, or referred from an extra-abdominal location."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "progressed",
+      "type": "T169",
+      "umls_id": "C1272688",
+      "score": 0.9774375557899475,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feels feverish",
+      "type": "T184",
+      "umls_id": "C0687681",
+      "score": 0.9826931953430176,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "nonbloody",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "increasingly",
+      "type": "T047",
+      "umls_id": "C0221106",
+      "score": 0.7193881273269653,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An abnormally high blood pH (usually defined as 7.41 or above). [PMID:24381489]"
+    },
+    {
+      "text": "nauseous",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9677346348762512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "evaluated",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9714561700820923,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "vomits",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9821593761444092,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "times",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9879130721092224,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ciprofloxacin",
+      "type": "T109",
+      "umls_id": "C0008809",
+      "score": 0.9688829183578491,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A broad-spectrum antimicrobial carboxyfluoroquinoline."
+    },
+    {
+      "text": "urinary tract infection",
+      "type": "T047",
+      "umls_id": "C0042029",
+      "score": 0.9782691597938538,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inflammatory responses of the epithelium of the URINARY TRACT to microbial invasions. They are often bacterial infections with associated BACTERIURIA and PYURIA."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "periods",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9520259499549866,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "menstrual",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.9385692477226257,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "period",
+      "type": "T040",
+      "umls_id": "C0025344",
+      "score": 0.978188157081604,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The periodic shedding of the ENDOMETRIUM and associated menstrual bleeding in the MENSTRUAL CYCLE of humans and primates. Menstruation is due to the decline in circulating PROGESTERONE, and occurs at the late LUTEAL PHASE when LUTEOLYSIS of the CORPUS LUTEUM takes place."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "college",
+      "type": "T073",
+      "umls_id": "C0557806",
+      "score": 0.9769022464752197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An institution of higher education created to educate and grant degrees; often a part of a university."
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "sexual partners",
+      "type": "T098",
+      "umls_id": "C0036911",
+      "score": 0.9519425630569458,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Married or single individuals who share sexual relations."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "inconsistent",
+      "type": "T080",
+      "umls_id": "C0442809",
+      "score": 0.9829260110855103,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Not in agreement."
+    },
+    {
+      "text": "barrier",
+      "type": "T074",
+      "umls_id": "C1706912",
+      "score": 0.9819799065589905,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A structure or object that impedes free movement."
+    },
+    {
+      "text": "protection",
+      "type": "T033",
+      "umls_id": "C1545588",
+      "score": 0.9720868468284607,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "exam",
+      "type": "T058",
+      "umls_id": "C0582103",
+      "score": 0.9889279007911682,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An appraisal or evaluation of a patient's condition by a clinician that is based on a physical exam, medical history, and the patient's account of symptoms."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.9340353608131409,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "suprapubic region",
+      "type": "T029",
+      "umls_id": "C0230189",
+      "score": 0.9604706168174744,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The lowest central region of the abdomen, below the umbilical region and between the two iliac regions."
+    },
+    {
+      "text": "right lower quadrant",
+      "type": "T029",
+      "umls_id": "C0230178",
+      "score": 0.9780491590499878,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right inguinal ligament."
+    },
+    {
+      "text": "voluntary",
+      "type": "T055",
+      "umls_id": "C0439656",
+      "score": 0.9881855249404907,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Of your own free will or design; not forced or compelled; controlled by individual volition."
+    },
+    {
+      "text": "guarding",
+      "type": "T033",
+      "umls_id": "C0427198",
+      "score": 0.9684597253799438,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Pelvic exam",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9772384762763977,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "vaginal vault",
+      "type": "T029",
+      "umls_id": "C0227794",
+      "score": 0.9581124782562256,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Any one of the four small recessed areas (anterior, posterior, and two lateral) that are formed between the margin of the cervix and the vaginal wall."
+    },
+    {
+      "text": "cervical motion tenderness",
+      "type": "T033",
+      "umls_id": "C0238953",
+      "score": 0.9761956334114075,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "tender",
+      "type": "T080",
+      "umls_id": "C0234234",
+      "score": 0.9886931777000427,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Applied to pain that is tender, i.e., elicited by touching the affected body part. []"
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "treating",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9890066981315613,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "patient’s condition",
+      "type": "T033",
+      "umls_id": "C0683521",
+      "score": 0.949691116809845,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A description of the physiological status of a patient."
+    },
+    {
+      "text": "19-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

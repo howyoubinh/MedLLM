@@ -1,0 +1,466 @@
+{
+  "original_data": {
+    "question": "A 46-year-old man presents with worsening pain in multiple joints for the past 2 weeks. He says the pain is most severe in the proximal parts of his fingers and his wrists, but it has now spread to his elbows, and, occasionally, his knees. He says the joint involvement is symmetric. He also complains of morning joint stiffness that improves with activity and reports feeling fatigued during the day. He started taking ibuprofen 2 months ago for the pain which initially subsided, but, over the last few weeks, it has worsened despite the medication. He was diagnosed with type 2 diabetes mellitus 1 year ago and has had difficulty controlling his blood glucose levels. The patient denies any smoking history, alcohol, or recreational drug use. A review of systems is significant for a weight loss of 3.0 kg (6.6 lb) over the last 3 months despite no change in diet or activity level. Which of the following is the most likely 1st-line medication in this patient?",
+    "options": {
+      "A": "Infliximab",
+      "B": "Anakinra",
+      "C": "Methotrexate",
+      "D": "High-dose prednisone for 60 days"
+    }
+  },
+  "model_response": "The patient's clinical presentation is most consistent with rheumatoid arthritis (RA). The initial treatment of choice for most patients with RA is a non-biologic disease-modifying antirheumatic drug (DMARD), such as methotrexate. Methotrexate has been shown to reduce joint damage and slow disease progression. It is usually given in combination with a folic acid supplement. Other 1st-line therapies for RA include biologic DMARDs (bDMARDs), such as tumor necrosis factor (TNF) inhibitors (e.g., infliximab). Anakinra, an interleukin-1 (IL-1) receptor antagonist, is also a 1st-line therapy for RA, but is less commonly used due to its marginal efficacy compared to other options. High-dose prednisone for 60 days is not a recommended initial therapy for RA.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "worsening pain",
+      "type": "T184",
+      "umls_id": "C0853946",
+      "score": 0.9731222987174988,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "multiple joints",
+      "type": "T037",
+      "umls_id": "C0332792",
+      "score": 0.7608683705329895,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Dislocation of many joints. [HPO:probinson]"
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "proximal",
+      "type": "T082",
+      "umls_id": "C0205107",
+      "score": 0.9636295437812805,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated nearest to a point of attachment or origin."
+    },
+    {
+      "text": "parts",
+      "type": "T082",
+      "umls_id": "C0449719",
+      "score": 0.9613301157951355,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "One of the portions into which something is regarded as divided and which together constitute a whole."
+    },
+    {
+      "text": "fingers",
+      "type": "T023",
+      "umls_id": "C0016129",
+      "score": 0.990062415599823,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Four or five slender jointed digits in humans and primates, attached to each HAND."
+    },
+    {
+      "text": "wrists",
+      "type": "T029",
+      "umls_id": "C0043262",
+      "score": 0.984144926071167,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the upper limb between the metacarpus and the FOREARM."
+    },
+    {
+      "text": "knees",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9716548919677734,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "joint",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9836658835411072,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "involvement",
+      "type": "T169",
+      "umls_id": "C1314939",
+      "score": 0.9601795673370361,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To have a connection by participation or association or use; sharing in an activity or process."
+    },
+    {
+      "text": "symmetric",
+      "type": "T033",
+      "umls_id": "C0332516",
+      "score": 0.9556925296783447,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "morning joint",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.7480692863464355,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "activity",
+      "type": "T056",
+      "umls_id": "C0026606",
+      "score": 0.9921815991401672,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Body movements of a human or an animal as a behavioral phenomenon."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "fatigued",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9519143104553223,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "ibuprofen",
+      "type": "T109",
+      "umls_id": "C0020740",
+      "score": 0.9725996851921082,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A non-steroidal anti-inflammatory agent with analgesic, antipyretic, and anti-inflammatory properties"
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "worsened",
+      "type": "T033",
+      "umls_id": "C1457868",
+      "score": 0.981609582901001,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "In an declined condition."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "type 2 diabetes mellitus 1 year",
+      "type": "T047",
+      "umls_id": "C0011860",
+      "score": 0.8814589381217957,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A type of diabetes mellitus that is characterized by insulin resistance or desensitization and increased blood glucose levels. This is a chronic disease that can develop gradually over the life of a patient and can be linked to both environmental factors and heredity."
+    },
+    {
+      "text": "difficulty",
+      "type": "T033",
+      "umls_id": "C1299586",
+      "score": 0.9802945852279663,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Something not easily done, accomplished, comprehended, or solved."
+    },
+    {
+      "text": "blood glucose",
+      "type": "T109",
+      "umls_id": "C0005802",
+      "score": 0.9949735999107361,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Glucose in blood."
+    },
+    {
+      "text": "patient denies",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.7213225364685059,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "smoking history",
+      "type": "T033",
+      "umls_id": "C4721824",
+      "score": 0.9729477763175964,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The history of when and what an individual smoke(s) or smoked."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "recreational drug use",
+      "type": "T048",
+      "umls_id": "C0013146",
+      "score": 0.9681465029716492,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "The use of a drug for a reason other than which it was intended or in a manner or in quantities other than directed."
+    },
+    {
+      "text": "review of",
+      "type": "T169",
+      "umls_id": "C0699752",
+      "score": 0.9522183537483215,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "systems",
+      "type": "T074",
+      "umls_id": "C0178947",
+      "score": 0.8132045269012451,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Isotope bone densitometers that use a single source to yield an essentially monoenergetic (one discrete line spectrum) beam of gamma rays (x-ray photons). In addition to the single photon source, these densitometers typically include a scanner, a single-channel analyzer, and a computer with appropriate software. Single-photon densitometers are used to assess bone mineral content in the appendicular skeleton, usually by measuring the forearm (radius) or the heel."
+    },
+    {
+      "text": "weight loss",
+      "type": "T033",
+      "umls_id": "C1262477",
+      "score": 0.9807811379432678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Decrease in existing BODY WEIGHT."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "diet",
+      "type": "T168",
+      "umls_id": "C0012155",
+      "score": 0.9802573323249817,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "Regular course of eating and drinking adopted by a person or animal."
+    },
+    {
+      "text": "activity level",
+      "type": "T033",
+      "umls_id": "C0683317",
+      "score": 0.9850130081176758,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "1st-line",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "46-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

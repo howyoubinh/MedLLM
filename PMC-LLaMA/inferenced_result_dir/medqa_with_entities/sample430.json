@@ -1,0 +1,347 @@
+{
+  "original_data": {
+    "question": "A 63-year-old man is admitted to the intensive care unit for hemodynamic instability. Several days prior, he had been swimming in the Gulf coast when he stepped on a sharp rock and cut his right foot. Three days ago, the patient presented to the emergency room after noticing painful redness spreading along his skin up from his right foot and was subsequently admitted for antibiotic treatment. Currently, his temperature is 101.8°F (38.8°C), blood pressure is 84/46 mmHg with a mean arterial pressure of 59 mmHg, pulse is 104/min, and respirations are 14/min. His telemetry shows sinus tachycardia. His blood cultures are pending, but Gram stain demonstrated gram-negative bacilli. Which of the following best describes the form of shock and the skin exam?",
+    "options": {
+      "A": "Distributive shock with warm skin",
+      "B": "Hypovolemic shock with warm skin",
+      "C": "Neurogenic shock with cold skin",
+      "D": "Obstructive shock with cold skin"
+    }
+  },
+  "model_response": "The patient's presentation is consistent with septic shock, which is a form of distributive shock. The skin findings are consistent with warm shock, which is characterized by vasodilation. The patient's hypotension is due to loss of systemic vascular resistance. The patient's fever is due to the release of endotoxins from the bacteria.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "hemodynamic instability",
+      "type": "T047",
+      "umls_id": "C0948268",
+      "score": 0.9769730567932129,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A state of hypoperfusion that does not support normal organ perfusion or function. It can include periods of reduced, unstable, or abnormal blood pressure with near syncope, or episodes of syncope."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "prior",
+      "type": "T079",
+      "umls_id": "C0332152",
+      "score": 0.9819955825805664,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Earlier in time or order."
+    },
+    {
+      "text": "swimming",
+      "type": "T056",
+      "umls_id": "C0039003",
+      "score": 0.9415326714515686,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body is propelled through water by specific movement of the arms and/or the legs. Swimming as propulsion through water by the movement of limbs, tail, or fins of animals is often studied as a form of PHYSICAL EXERTION or endurance."
+    },
+    {
+      "text": "Gulf coast",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "sharp rock",
+      "type": "T033",
+      "umls_id": "C1444775",
+      "score": 0.7372380495071411,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Applied to pain that is described as sharp, i.e., sudden and severe. []"
+    },
+    {
+      "text": "cut his right foot",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "noticing painful",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "redness spreading",
+      "type": "T080",
+      "umls_id": "C0332261",
+      "score": 0.7230410575866699,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The act of extending over a wider scope or expanse of space or time."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right foot",
+      "type": "T023",
+      "umls_id": "C0230460",
+      "score": 0.9896419048309326,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "antibiotic treatment",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.7067415118217468,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "arterial pressure",
+      "type": "T042",
+      "umls_id": "C0232108",
+      "score": 0.988128662109375,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Merriam-Webster: The pressure that is characteristic of the arterial pulse and represents the difference between diastolic and systolic blood pressures of the heart cycle"
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "His telemetry",
+      "type": "T060",
+      "umls_id": "C0039451",
+      "score": 0.85880047082901,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Transmission of the readings of instruments to a remote location by means of wires, radio waves, or other means. (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "sinus tachycardia",
+      "type": "T047",
+      "umls_id": "C0039239",
+      "score": 0.9745782017707825,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Simple rapid heartbeats caused by rapid discharge of impulses from the SINOATRIAL NODE, usually between 100 and 180 beats/min in adults. It is characterized by a gradual onset and termination. Sinus tachycardia is common in infants, young children, and adults during strenuous physical activities."
+    },
+    {
+      "text": "blood cultures",
+      "type": "T059",
+      "umls_id": "C0200949",
+      "score": 0.9821042418479919,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Test to determine the presence of blood infection (e.g. SEPSIS; BACTEREMIA)."
+    },
+    {
+      "text": "pending",
+      "type": "T080",
+      "umls_id": "C1547325",
+      "score": 0.9958504438400269,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>The state representing that fact that the role has not yet become active.</p>"
+    },
+    {
+      "text": "Gram stain",
+      "type": "T109",
+      "umls_id": "C0061856",
+      "score": 0.987805187702179,
+      "semantic_types": [
+        "T109",
+        "T130"
+      ],
+      "definition": null
+    },
+    {
+      "text": "gram-negative bacilli",
+      "type": "T007",
+      "umls_id": "C0314752",
+      "score": 0.8658224940299988,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "Any rod shaped bacteria that contains low levels of peptidoglycan in its cell wall and stains pink with the Gram staining technique."
+    },
+    {
+      "text": "shock",
+      "type": "T046",
+      "umls_id": "C0036974",
+      "score": 0.9978643655776978,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "A pathological condition manifested by failure to perfuse or oxygenate vital organs."
+    },
+    {
+      "text": "skin exam",
+      "type": "T060",
+      "umls_id": "C0436149",
+      "score": 0.7425289154052734,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the skin via physical examination."
+    },
+    {
+      "text": "63-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

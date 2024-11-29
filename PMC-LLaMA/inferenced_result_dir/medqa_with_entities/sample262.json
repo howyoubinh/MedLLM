@@ -1,0 +1,426 @@
+{
+  "original_data": {
+    "question": "A 70-year-old man is brought to the emergency department by staff of the group home where he resides because of worsening confusion for the past week. He has a history of major depressive disorder and had an ischemic stroke 4 months ago. Current medications are aspirin and sertraline. He is lethargic and disoriented. His pulse is 78/min, and blood pressure is 135/88 mm Hg. Physical examination shows moist oral mucosa, normal skin turgor, and no peripheral edema. While in the waiting room, he has a generalized, tonic-clonic seizure. Laboratory studies show a serum sodium of 119 mEq/L and an elevated serum antidiuretic hormone concentration. Which of the following sets of additional laboratory findings is most likely in this patient?\n $$$ Serum osmolality %%% Urine sodium %%% Serum aldosterone $$$",
+    "options": {
+      "A": "↓ ↓ ↓",
+      "B": "↑ ↓ normal",
+      "C": "↓ ↑ ↑",
+      "D": "↓ ↑ ↓"
+    }
+  },
+  "model_response": "This man has hyponatremia, which is causing seizures secondary to osmotic demyelination (central pontine myelinolysis). The hyponatremia is due to the syndrome of inappropriate antidiuretic hormone secretion (SIADH) in association with major depressive disorder and to antidepressant medications. SIADH causes water retention and dilutional hyponatremia. The urine sodium is low because of the volume expansion, which blunts the effect of the elevated antidiuretic hormone (ADH) level. The serum osmolality is low because of the dilution. The serum aldosterone level is likely to be elevated because of the volume expansion.\n\n### Edited to Add: The question was edited to clarify that the serum sodium level is 119 mEq/L (not 119 mmol/L). The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the urine sodium level is low (not elevated). The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the serum aldosterone level is likely to be elevated (not normal). The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the serum ADH level is elevated (not normal). The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the serum osmolality is low. The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the patient has an ischemic stroke (not hemorrhage). The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the patient has a history of major depressive disorder. The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the patient is lethargic and disoriented (not alert). The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the patient has a tonic-clonic seizure (not absence). The answer remains the same.\n\n### Edited to Add: The question was edited to clarify that the patient has no peripheral edema (normal skin turgor). The answer remains the same.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "staff",
+      "type": "T097",
+      "umls_id": "C0851286",
+      "score": 0.9618050456047058,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "The employees of an organization; personnel who assist their superior in carrying out an assigned task."
+    },
+    {
+      "text": "group",
+      "type": "T078",
+      "umls_id": "C0441833",
+      "score": 0.9969974756240845,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Any number of entities (members) considered as a unit."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "resides",
+      "type": "T052",
+      "umls_id": "C2982691",
+      "score": 0.7615306377410889,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "To live in a certain place."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "confusion",
+      "type": "T048",
+      "umls_id": "C0009676",
+      "score": 0.9526641964912415,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A mental state characterized by bewilderment, emotional disturbance, lack of clear thinking, and perceptual disorientation."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "depressive disorder",
+      "type": "T048",
+      "umls_id": "C0011581",
+      "score": 0.9825969338417053,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An affective disorder manifested by either a dysphoric mood or loss of interest or pleasure in usual activities. The mood disturbance is prominent and relatively persistent."
+    },
+    {
+      "text": "ischemic stroke",
+      "type": "T047",
+      "umls_id": "C0948008",
+      "score": 0.9727081656455994,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute episode of focal cerebral, spinal, or retinal dysfunction caused by infarction of brain tissue."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "sertraline",
+      "type": "T109",
+      "umls_id": "C0074393",
+      "score": 0.9715209007263184,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective serotonin uptake inhibitor that is used in the treatment of depression."
+    },
+    {
+      "text": "lethargic",
+      "type": "T184",
+      "umls_id": "C0023380",
+      "score": 0.9886828660964966,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Characterized by a lack of vitality or energy."
+    },
+    {
+      "text": "disoriented",
+      "type": "T184",
+      "umls_id": "C0233407",
+      "score": 0.990799069404602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "moist",
+      "type": "T080",
+      "umls_id": "C0205381",
+      "score": 0.9777016639709473,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oral mucosa",
+      "type": "T023",
+      "umls_id": "C0026639",
+      "score": 0.9751270413398743,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Lining of the ORAL CAVITY, including mucosa on the GUMS; the PALATE; the LIP; the CHEEK; floor of the mouth; and other structures. The mucosa is generally a nonkeratinized stratified squamous EPITHELIUM covering muscle, bone, or glands but can show varying degree of keratinization at specific locations."
+    },
+    {
+      "text": "normal skin turgor",
+      "type": "T033",
+      "umls_id": "C0574732",
+      "score": 0.966766893863678,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "no peripheral edema",
+      "type": "T033",
+      "umls_id": "C2712244",
+      "score": 0.9689284563064575,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "waiting room",
+      "type": "T073",
+      "umls_id": "C5392138",
+      "score": 0.9556496739387512,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Area for the use of persons such as clients, patients or visitors before an appointment or service."
+    },
+    {
+      "text": "generalized",
+      "type": "T082",
+      "umls_id": "C0205246",
+      "score": 0.9708660840988159,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Widespread, broadly dispersed, common."
+    },
+    {
+      "text": "tonic-clonic seizure",
+      "type": "T047",
+      "umls_id": "C0494475",
+      "score": 0.9561353921890259,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A generalized tonic-clinic seizure, characterized by loss of consciousness. This type of seizure may be preceded by an aura and is frequently followed by a period of confusion and lethargy (post-ictal state)."
+    },
+    {
+      "text": "Laboratory studies",
+      "type": "T059",
+      "umls_id": "C0681827",
+      "score": 0.9794182777404785,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "serum sodium",
+      "type": "T059",
+      "umls_id": "C0523891",
+      "score": 0.983586311340332,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of sodium present in a sample of serum."
+    },
+    {
+      "text": "elevated",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9777681231498718,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "antidiuretic hormone",
+      "type": "T116",
+      "umls_id": "C1098706",
+      "score": 0.9734153151512146,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Arginine-vasopressin (9 aa, ~1 kDa) is encoded by the human AVP gene. This protein is involved in peripheral blood vessel vasoconstriction and antidiuretic action in the kidney."
+    },
+    {
+      "text": "concentration",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.9800455570220947,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "sets",
+      "type": "T170",
+      "umls_id": "C0150098",
+      "score": 0.7245935797691345,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A collection of related data records."
+    },
+    {
+      "text": "laboratory findings",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.9780579805374146,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "Serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "Urine sodium",
+      "type": "T034",
+      "umls_id": "C0337444",
+      "score": 0.9820734858512878,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Serum aldosterone",
+      "type": "T059",
+      "umls_id": "C0428395",
+      "score": 0.9654602408409119,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "70-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

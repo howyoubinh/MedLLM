@@ -1,0 +1,356 @@
+{
+  "original_data": {
+    "question": "An 18-year-old woman makes an appointment with a gynecologist for her first gynecologic examination. She did not disclose her past medical history, but her sexual debut occurred with her boyfriend 3 weeks ago. She is now complaining of a yellow-green, diffuse, malodorous vaginal discharge that she noticed 1 week ago for the first time. She also reported mild pelvic and abdominal pain. cervical motion tenderness was noted during the pelvic examination. The gynecologist also noticed a pink and inflamed nulliparous cervix with a preponderance of small red punctate spots. There was a frothy white discharge with a malodorous odor in the vaginal vault. A wet mount was prepared for a light microscopic examination, which revealed numerous squamous cells and motile organisms. The gynecologist concluded that this was a sexually-transmitted infection. What is the causative organism?",
+    "options": {
+      "A": "Chlamydia trachomatis",
+      "B": "Ureaplasma urealyticum",
+      "C": "Trichomonas vaginalis",
+      "D": "Enterobius vermicularis"
+    }
+  },
+  "model_response": "This patient's presentation is most consistent with a diagnosis of trichomoniasis. The vaginal discharge is described as \"malodorous\" (i.e., \"fishy-smelling\") and the wet mount reveals motile organisms. The cervix may also be inflamed and show punctate hemorrhages (\"strawberry cervix\"). Trichomoniasis is a sexually transmitted disease that is caused by the organism Trichomonas vaginalis, which is an anaerobic protozoan. The infection is more common in patients who have other sexually transmitted diseases. Symptoms include a frothy, yellow-green discharge that is usually malodorous. The cervix may also be inflamed and show punctate hemorrhages (\"strawberry cervix\"). The diagnosis is confirmed by a wet mount of the vaginal discharge, which reveals motile organisms. Treatment is with metronidazole. Chlamydia trachomatis can cause cervicitis and a purulent discharge, but the discharge is not typically malodorous. Ureaplasma urealyticum can cause urethritis in males and can be found in the vaginal discharge of females, but it does not typically cause a malodorous discharge. Enterobius vermicularis can cause a pruritic discharge, but it is typically not malodorous.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "gynecologist",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.9785490036010742,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "gynecologic examination",
+      "type": "T058",
+      "umls_id": "C0200044",
+      "score": 0.9591938853263855,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Inspection and PALPATATION of female breasts, abdomen, and GENITALIA, as well as obtaining a gynecological history. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "disclose",
+      "type": "T080",
+      "umls_id": "C1709925",
+      "score": 0.7889831066131592,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used to indicate when a respondent makes a decision to not answer a question."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "sexual",
+      "type": "T053",
+      "umls_id": "C0036864",
+      "score": 0.9438470602035522,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "Sexual activities of humans."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "yellow-green,",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "diffuse",
+      "type": "T082",
+      "umls_id": "C0205219",
+      "score": 0.9735197424888611,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Widely spread; not localized or confined."
+    },
+    {
+      "text": "malodorous vaginal discharge",
+      "type": "T033",
+      "umls_id": "C0227791",
+      "score": 0.7681675553321838,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A common gynecologic disorder characterized by an abnormal, nonbloody discharge from the genital tract."
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "mild pelvic",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "cervical motion",
+      "type": "T029",
+      "umls_id": "C0027530",
+      "score": 0.7392394542694092,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The part of a human or animal body connecting the HEAD to the rest of the body."
+    },
+    {
+      "text": "tenderness",
+      "type": "T184",
+      "umls_id": "C0234233",
+      "score": 0.9905914664268494,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A dull achy pain."
+    },
+    {
+      "text": "pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "gynecologist",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.9785490036010742,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "pink",
+      "type": "T080",
+      "umls_id": "C0332585",
+      "score": 0.9921752214431763,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Any of a group of colors reddish in hue, of medium to high lightness, and of low to moderate saturation."
+    },
+    {
+      "text": "inflamed",
+      "type": "T169",
+      "umls_id": "C0333348",
+      "score": 0.9745146632194519,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Relating to inflammation."
+    },
+    {
+      "text": "nulliparous cervix",
+      "type": "T033",
+      "umls_id": "C0425979",
+      "score": 0.7870481610298157,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A woman with a parity of zero."
+    },
+    {
+      "text": "preponderance",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "small red punctate",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "spots",
+      "type": "T184",
+      "umls_id": "C0015230",
+      "score": 0.942768394947052,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Diseases in which skin eruptions or rashes are a prominent manifestation. Classically, six such diseases were described with similar rashes; they were numbered in the order in which they were reported. Only the fourth (Duke's disease), fifth (ERYTHEMA INFECTIOSUM), and sixth (EXANTHEMA SUBITUM) numeric designations survive as occasional synonyms in current terminology."
+    },
+    {
+      "text": "frothy",
+      "type": "T033",
+      "umls_id": "C4069284",
+      "score": 0.9892798662185669,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "white discharge",
+      "type": "T184",
+      "umls_id": "C0023533",
+      "score": 0.8318573236465454,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clear or white discharge from the VAGINA, consisting mainly of MUCUS."
+    },
+    {
+      "text": "malodorous odor",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "vaginal vault",
+      "type": "T029",
+      "umls_id": "C0227794",
+      "score": 0.9581124782562256,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "Any one of the four small recessed areas (anterior, posterior, and two lateral) that are formed between the margin of the cervix and the vaginal wall."
+    },
+    {
+      "text": "wet mount",
+      "type": "T059",
+      "umls_id": "C0696215",
+      "score": 0.9618074297904968,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "microscopic",
+      "type": "T080",
+      "umls_id": "C0205288",
+      "score": 0.9958658814430237,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Too small to be seen except under a microscope."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "squamous cells",
+      "type": "T025",
+      "umls_id": "C0221910",
+      "score": 0.968881368637085,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A flat, scalelike cell of the skin or mucous membrane"
+    },
+    {
+      "text": "motile organisms",
+      "type": "T001",
+      "umls_id": "C0029235",
+      "score": 0.7551141977310181,
+      "semantic_types": [
+        "T001"
+      ],
+      "definition": "A living entity."
+    },
+    {
+      "text": "gynecologist",
+      "type": "T097",
+      "umls_id": "C0237419",
+      "score": 0.9785490036010742,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Qualified medical professionals who specialize in GYNECOLOGY."
+    },
+    {
+      "text": "sexually-transmitted infection",
+      "type": "T047",
+      "umls_id": "C0036916",
+      "score": 0.8818245530128479,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Diseases due to or propagated by sexual contact."
+    },
+    {
+      "text": "causative organism",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "18-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "original_data": {
+    "question": "A previously healthy 17-year-old female college student comes to the emergency department because of a 1-day history of fever, chills, and severe headache. Her temperature is 39.4°C (103°F). Physical examination shows nuchal rigidity and photophobia. Blood cultures are obtained and a lumbar puncture is performed. A Gram stain of cerebrospinal fluid shows gram-negative cocci in pairs. Which of the following virulence factors was most likely involved in the initial step of this patient's infection?",
+    "options": {
+      "A": "Protein A",
+      "B": "Lipooligosaccharides",
+      "C": "Adhesive pili",
+      "D": "Biofilm formation"
+    }
+  },
+  "model_response": "This patient's symptoms are typical of meningitis caused by Neisseria meningitidis. The initial step in the pathogenesis of infection is adhesion of the organism to the nasopharyngeal epithelial cells. This is mediated by the organism's pili. Lipooligosaccharides (LOS) are involved in cell signaling and host immune response evasion. Protein A is a cell wall component that binds to the Fc portion of IgG molecules, interfering with opsonization and phagocytosis. Biofilm formation is a virulence factor in some bacteria, such as Pseudomonas aeruginosa and Staphylococcus aureus, but is not a factor in Neisseria infections. Adhesive pili are found in many gram-negative bacteria and facilitate adhesion to host tissues, but are not a virulence factor in Neisseria infections.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "student",
+      "type": "T098",
+      "umls_id": "C0038492",
+      "score": 0.9557643532752991,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Individuals enrolled in a school or formal educational program."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "1-day history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.759392261505127,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "chills",
+      "type": "T184",
+      "umls_id": "C0085593",
+      "score": 0.9896153211593628,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The sudden sensation of being cold. It may be accompanied by SHIVERING."
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "headache",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9900735020637512,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "nuchal",
+      "type": "T082",
+      "umls_id": "C0442026",
+      "score": 0.9696453809738159,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rigidity",
+      "type": "T184",
+      "umls_id": "C0026837",
+      "score": 0.9781013131141663,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Continuous involuntary sustained muscle contraction which is often a manifestation of BASAL GANGLIA DISEASES. When an affected muscle is passively stretched, the degree of resistance remains constant regardless of the rate at which the muscle is stretched. This feature helps to distinguish rigidity from MUSCLE SPASTICITY. (From Adams et al., Principles of Neurology, 6th ed, p73)"
+    },
+    {
+      "text": "photophobia",
+      "type": "T184",
+      "umls_id": "C0085636",
+      "score": 0.9786372780799866,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Abnormal sensitivity to light. This may occur as a manifestation of EYE DISEASES; MIGRAINE; SUBARACHNOID HEMORRHAGE; MENINGITIS; and other disorders. Photophobia may also occur in association with DEPRESSION and other MENTAL DISORDERS."
+    },
+    {
+      "text": "Blood cultures",
+      "type": "T059",
+      "umls_id": "C0200949",
+      "score": 0.9821042418479919,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Test to determine the presence of blood infection (e.g. SEPSIS; BACTEREMIA)."
+    },
+    {
+      "text": "lumbar puncture",
+      "type": "T058",
+      "umls_id": "C0037943",
+      "score": 0.9850814938545227,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "An invasive procedure in which a hollow needle is introduced through an intervertebral space in the lower back to access the subarachnoid space in order to sample cerebrospinal fluid or to administer medication."
+    },
+    {
+      "text": "Gram stain",
+      "type": "T109",
+      "umls_id": "C0061856",
+      "score": 0.987805187702179,
+      "semantic_types": [
+        "T109",
+        "T130"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cerebrospinal fluid",
+      "type": "T031",
+      "umls_id": "C0007806",
+      "score": 0.9847719669342041,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "A watery fluid that is continuously produced in the CHOROID PLEXUS and circulates around the surface of the BRAIN; SPINAL CORD; and in the CEREBRAL VENTRICLES."
+    },
+    {
+      "text": "cocci",
+      "type": "T007",
+      "umls_id": "C0314746",
+      "score": 0.9678371548652649,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pairs",
+      "type": "T044",
+      "umls_id": "C0600436",
+      "score": 0.7966768741607666,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": "Pairing of purine and pyrimidine bases by HYDROGEN BONDING in double-stranded DNA or RNA."
+    },
+    {
+      "text": "virulence factors",
+      "type": "T109",
+      "umls_id": "C1136170",
+      "score": 0.9863333106040955,
+      "semantic_types": [
+        "T109",
+        "T123",
+        "T131"
+      ],
+      "definition": "Those components of an organism that determine its capacity to cause disease but are not required for its viability per se. Two classes have been characterized: TOXINS, BIOLOGICAL and surface adhesion molecules that effect the ability of the microorganism to invade and colonize a host. (From Davis et al., Microbiology, 4th ed. p486)"
+    },
+    {
+      "text": "patient's infection",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "17-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "original_data": {
+    "question": "A 35-year-old female is brought to the emergency department after being found unconscious. The patient is found to have a blood glucose level of 35 mg/dL. Hgb A1c was found to be 5.1%. C-peptide level was found to be decreased. The patient returned to her baseline after glucose replacement. She states that she has never had an episode like this before. She has no significant past medical history but reports a family history of diabetes in her mother. She states that she has been undergoing a difficult divorce over the past few months. What is the likely cause of this patient's condition?",
+    "options": {
+      "A": "Insulinoma",
+      "B": "Factitious disorder",
+      "C": "Hypothyroidism",
+      "D": "Somatization disorder"
+    }
+  },
+  "model_response": "The patient's low blood glucose level (35 mg/dL) and low C-peptide level (decreased) indicate that this is a case of hypoglycemia due to exogenous insulin administration. The fact that the patient returned to her baseline after glucose replacement is consistent with the diagnosis of hypoglycemia. The patient's history of a difficult divorce, coupled with her family history of diabetes, may have led her to attempt to lose weight by taking insulin. The low C-peptide level is consistent with exogenous insulin administration because endogenous insulin production would result in an elevated C-peptide level. The patient's low Hgb A1c level is also consistent with her recent insulin use because an elevated Hgb A1c level would indicate long-standing hyperglycemia. The patient's symptoms are not consistent with any of the other choices. Insulinomas are rare and would not be the most likely cause of this patient's condition. Factitious disorder is unlikely because there is no other evidence of a desire to assume the sick role. Hypothyroidism is unlikely because it would not cause hypoglycemia. Somatization disorder is unlikely because there is no other evidence of multiple somatic symptoms.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "female",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9905164241790771,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "blood glucose",
+      "type": "T109",
+      "umls_id": "C0005802",
+      "score": 0.9949735999107361,
+      "semantic_types": [
+        "T109"
+      ],
+      "definition": "Glucose in blood."
+    },
+    {
+      "text": "Hgb A1c",
+      "type": "T116",
+      "umls_id": "C1440677",
+      "score": 0.7540488839149475,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "A tetrameric complex of 2 molecules of hemoglobin subunit alpha (encoded by either the HBA1 or HBA2 gene) and 2 molecules of hemoglobin subunit beta (encoded by the HBB gene)."
+    },
+    {
+      "text": "C-peptide",
+      "type": "T116",
+      "umls_id": "C0006558",
+      "score": 0.9610528945922852,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "The middle segment of proinsulin that is between the N-terminal B-chain and the C-terminal A-chain. It is a pancreatic peptide of about 31 residues, depending on the species. Upon proteolytic cleavage of proinsulin, equimolar INSULIN and C-peptide are released. C-peptide immunoassay has been used to assess pancreatic beta cell function in diabetic patients with circulating insulin antibodies or exogenous insulin. Half-life of C-peptide is 30 min, almost 8 times that of insulin."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "decreased",
+      "type": "T081",
+      "umls_id": "C0205216",
+      "score": 0.9799805283546448,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A subjective response indicating that something is or has decreased."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "baseline",
+      "type": "T122",
+      "umls_id": "C0168634",
+      "score": 0.9804818034172058,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": null
+    },
+    {
+      "text": "glucose replacement",
+      "type": "T061",
+      "umls_id": "C0035139",
+      "score": 0.7629557251930237,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Restoration of an organ or other structure to its original site."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "never",
+      "type": "T079",
+      "umls_id": "C1549495",
+      "score": 0.9518278241157532,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "<p>Never send an acknowledgement.</p>"
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "family history",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9935490489006042,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "difficult",
+      "type": "T033",
+      "umls_id": "C0332218",
+      "score": 0.986905038356781,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A response indicating that something is or was difficult."
+    },
+    {
+      "text": "divorce",
+      "type": "T054",
+      "umls_id": "C0012828",
+      "score": 0.9743080735206604,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "Legal dissolution of an officially recognized marriage relationship."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

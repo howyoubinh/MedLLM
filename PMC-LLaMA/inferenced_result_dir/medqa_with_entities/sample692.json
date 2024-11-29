@@ -1,0 +1,333 @@
+{
+  "original_data": {
+    "question": "A 47-year-old man presents to his family physician with a sudden onset of severe pain and redness in his eyes that started this morning. He is having difficulty seeing properly and is extremely worried about losing his vision. Further history reveals that he has had progressive lower back pain for over 2 months now. The pain is usually at its worst in the morning, but it remains throughout the day. It gets better with movement, however, so he tends to do some light exercises every day. He also has heel pain and feels significant pressure while walking. Laboratory analysis reveals increased ESR and CRP serum levels. Which of the following would most likely be seen in this patient?",
+    "options": {
+      "A": "Dry mouth",
+      "B": "Malabsorption",
+      "C": "Aortic regurgitation",
+      "D": "Hemochromatosis"
+    }
+  },
+  "model_response": "The clinical scenario is suggestive of giant cell arteritis (temporal arteritis). The most common symptom is headache, which is often localized to the temporal or occipital region and may be accompanied by a tender, thickened, or nodular artery. Jaw claudication, characterized by pain on chewing or talking, is a specific but uncommon symptom. Visual symptoms occur in about 50% of patients and vary from diplopia and amaurosis to sudden blindness. The visual symptoms are due to involvement of the ophthalmic artery and its branches.\n\nGiant cell arteritis is a systemic chronic inflammatory vascular disease with many characteristics similar to Takayasu arteritis. It affects principally the arteries in the head, particularly the temporal arteries, which is why it is often referred to as temporal arteritis. It is an extremely rare for Takayasu arteritis to affect the temporal arteries.\n\nThe diagnosis is confirmed by temporal artery biopsy. The typical histopathologic findings are granulomatous inflammation with foreign body and Langhans giant cells, fragmentation of the internal elastic lamina, and intimal proliferation.\n\nThe treatment of choice is prednisone (40-60 mg daily for 1 month, tapering to a maintenance dose of 10-20 mg daily).\n\nThe answer is A: Dry mouth.\n\nTakayasu arteritis is an inflammatory and stenotic disease of medium-sized and large arteries characterized by a strong predilection for the aortic arch and its branches (thus the alternate name, aortic arch syndrome). It has a predilection for young women. It is also associated with a strong predilection for the aortic arch and its branches.\n\nThe clinical features of Takayasu arteritis are quite variable, depending on the organs affected. Involvement of the carotid arteries may produce a transmural hardening, which can lead to cerebrovascular insufficiency and consequent neurologic symptoms, including syncope. Aortic regurgitation is a common finding if the aortic root is involved.\n\nTakayasu arteritis is a diagnosis of exclusion. It is an extremely rare for giant cell arteritis to affect the carotid arteries or aortic root.\n\nThe diagnosis is confirmed by arteriography and biopsy of the involved vessels.\n\nThe treatment of choice is prednisone (40-60 mg daily for 1 month, tapering to a maintenance dose of 10-20 mg daily).\n\nThe answer is A: Dry mouth.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "family physician",
+      "type": "T097",
+      "umls_id": "C1704221",
+      "score": 0.995156466960907,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those physicians who have completed the education requirements specified by the American Academy of Family Physicians."
+    },
+    {
+      "text": "sudden onset",
+      "type": "T170",
+      "umls_id": "C1272517",
+      "score": 0.9585756063461304,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "redness",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9690099358558655,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "eyes",
+      "type": "T023",
+      "umls_id": "C0015392",
+      "score": 0.9724115133285522,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The organ of sight constituting a pair of globular organs made up of a three-layered roughly spherical structure specialized for receiving and responding to light."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "difficulty seeing",
+      "type": "T033",
+      "umls_id": "C3665347",
+      "score": 0.9541950821876526,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Sight that is impaired."
+    },
+    {
+      "text": "worried",
+      "type": "T033",
+      "umls_id": "C0233481",
+      "score": 0.9845255017280579,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Mental distress resulting from concern for something impending or anticipated."
+    },
+    {
+      "text": "losing",
+      "type": "T169",
+      "umls_id": "C0587267",
+      "score": 0.7225767970085144,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not affording passage or access; blocked against entry."
+    },
+    {
+      "text": "vision",
+      "type": "T040",
+      "umls_id": "C0042789",
+      "score": 0.9751997590065002,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The series of events required for an organism to receive a visual stimulus, convert it to a molecular signal, and recognize and characterize the signal. Visual stimuli are detected in the form of photons and are processed to form an image. [GOC:ai]"
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "tends",
+      "type": "T082",
+      "umls_id": "C0439792",
+      "score": 0.7059218287467957,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The range, magnitude, or distance over which a thing spans an interval of distance, space, or time."
+    },
+    {
+      "text": "light exercises",
+      "type": "T056",
+      "umls_id": "C1517883",
+      "score": 0.8894654512405396,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "20-60 minutes of exercise which elevates your heart rate to 35-60% of your maximum heart rate performed at least 3-4 times per week."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "heel pain",
+      "type": "T184",
+      "umls_id": "C0231780",
+      "score": 0.9635152220726013,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "feels significant",
+      "type": "T078",
+      "umls_id": "C0750502",
+      "score": 0.8033079504966736,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "A term applied to differences, correlations, cause-and-effect relationships, etc., to indicate that they are noticeable, probably too closely correlated to be attributed to chance and therefore indicating a systematic relation: substantial, fairly large; also having consequence or import, important in effect or meaning. In statistics significant ordinarily indicates a probability of not less than 95 percent, while highly significant indicates a probability of not less than 99 percent."
+    },
+    {
+      "text": "pressure",
+      "type": "T067",
+      "umls_id": "C0033095",
+      "score": 0.9924325942993164,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "A type of stress exerted uniformly in all directions. Its measure is the force exerted per unit area. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "walking",
+      "type": "T056",
+      "umls_id": "C0080331",
+      "score": 0.9596354961395264,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "An activity in which the body advances at a slow to moderate pace by moving the feet in a coordinated fashion. This includes recreational walking, walking for fitness, and competitive race-walking."
+    },
+    {
+      "text": "Laboratory analysis",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.7343544363975525,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ESR",
+      "type": "T059",
+      "umls_id": "C0013845",
+      "score": 0.9790200591087341,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A technique applicable to the wide variety of substances which exhibit paramagnetism because of the magnetic moments of unpaired electrons. The spectra are useful for detection and identification, for determination of electron structure, for study of interactions between molecules, and for measurement of nuclear spins and moments. (From McGraw-Hill Encyclopedia of Science and Technology, 7th edition) Electron nuclear double resonance (ENDOR) spectroscopy is a variant of the technique which can give enhanced resolution. Electron spin resonance analysis can now be used in vivo, including imaging applications such as MAGNETIC RESONANCE IMAGING."
+    },
+    {
+      "text": "CRP serum",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.7836596965789795,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "47-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

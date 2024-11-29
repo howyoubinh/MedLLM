@@ -1,0 +1,519 @@
+{
+  "original_data": {
+    "question": "A 79-year-old woman presents to her physician complaining of a persistent non-productive cough and dyspnea after contracting a cold in the past month. She describes herself as being “generally healthy” before the cold started. Medical history includes hypertension and hyperlipidemia. The patient takes hydrochlorothiazide, lisinopril, and atorvastatin. Her parents are both deceased. She does not smoke and only drinks alcohol occasionally. During a review of symptoms, she described a month-long trip to St. Louis, Missouri, to visit family. At the physician’s office, her temperature is 37.0°C (98.6°F), pulse is 82/min, respirations are 20/min, and blood pressure is 130/82 mm Hg. A focused chest exam reveals mild crepitus on the right side. A chest X-ray shows a cavitary lesion in the right lung which is confirmed on chest computed tomography (CT). A lung biopsy is performed to rule out cancer and reveals necrotic granulomatous inflammation with oval yeast in macrophages. Which of the following is the most likely diagnosis?",
+    "options": {
+      "A": "Blastomycosis",
+      "B": "Sporotrichosis",
+      "C": "Histoplasmosis",
+      "D": "Onychomycosis"
+    }
+  },
+  "model_response": "The patient has histoplasmosis. Histoplasmosis is a dimorphic fungus that grows as a mold in the environment, but a yeast when it infects humans. Infections are acquired by inhalation of the mold spores found in bird or bat droppings in endemic areas. The yeast phase proliferates in the lungs and then spreads hematogenously to other organs. Most infections are asymptomatic or mild enough not to require treatment. Severe infections are more common in immunocompromised patients or in those with T cell deficiencies. Blastomycosis is caused by a dimorphic fungus that grows as a mold in the environment and as a yeast in humans. Sporotrichosis is a chronic infection involving cutaneous, subcutaneous, and lymphatic tissue. Onychomycosis is a fungal infection of the nail, usually caused by dermatophytes. Coccidioidomycosis is caused by a dimorphic fungus endemic to the southwestern United States and Central and South America.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "complaining",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7246314883232117,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "persistent",
+      "type": "T079",
+      "umls_id": "C0205322",
+      "score": 0.981314480304718,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Retained; never-ceasing."
+    },
+    {
+      "text": "non-productive cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9727606773376465,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "contracting",
+      "type": "T170",
+      "umls_id": "C0332522",
+      "score": 0.9943081140518188,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Agreements between two or more parties, especially those that are written and enforceable by law (American Heritage Dictionary of the English Language, 4th ed). It is sometimes used to characterize the nature of the professional-patient relationship."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "herself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "cold",
+      "type": "T070",
+      "umls_id": "C0009264",
+      "score": 0.9790432453155518,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Having less heat energy than the object against which it is compared; the absence of heat."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hyperlipidemia",
+      "type": "T047",
+      "umls_id": "C0020473",
+      "score": 0.9746601581573486,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Conditions with excess LIPIDS in the blood."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "parents",
+      "type": "T099",
+      "umls_id": "C0030551",
+      "score": 0.9865462183952332,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Persons functioning as natural, adoptive, or substitute parents. The heading includes the concept of parenthood as well as preparation for becoming a parent."
+    },
+    {
+      "text": "deceased",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.9812620282173157,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "smoke",
+      "type": "T131",
+      "umls_id": "C0037366",
+      "score": 0.9928507804870605,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "Visible gaseous suspension of carbon and other particulate matter emitted from burning substances."
+    },
+    {
+      "text": "drinks",
+      "type": "T168",
+      "umls_id": "C0452428",
+      "score": 0.9693557620048523,
+      "semantic_types": [
+        "T168"
+      ],
+      "definition": "A single serving of a beverage; any liquid suitable for drinking."
+    },
+    {
+      "text": "alcohol",
+      "type": "T109",
+      "umls_id": "C0001962",
+      "score": 0.9878438711166382,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A clear, colorless liquid rapidly absorbed from the gastrointestinal tract and distributed throughout the body. It has bactericidal activity and is used often as a topical disinfectant. It is widely used as a solvent and preservative in pharmaceutical preparations as well as serving as the primary ingredient in ALCOHOLIC BEVERAGES."
+    },
+    {
+      "text": "review",
+      "type": "T170",
+      "umls_id": "C0282443",
+      "score": 0.9724588990211487,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "An article or book published after examination of published material on a subject. It may be comprehensive to various degrees and the time range of material scrutinized may be broad or narrow, but the reviews most often desired are reviews of the current literature. The textual material examined may be equally broad and can encompass, in medicine specifically, clinical material as well as experimental research or case reports. State-of-the-art reviews tend to address more current matters. A review of the literature must be differentiated from HISTORICAL ARTICLE on the same subject, but a review of historical literature is also within the scope of this publication type."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "month-long trip",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "St. Louis",
+      "type": "T047",
+      "umls_id": "C0014060",
+      "score": 0.7847036719322205,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A viral encephalitis caused by the St. Louis encephalitis virus (ENCEPHALITIS VIRUS, ST. LOUIS), a FLAVIVIRUS. It is transmitted to humans and other vertebrates primarily by mosquitoes of the genus CULEX. The primary animal vectors are wild birds and the disorder is endemic to the midwestern and southeastern United States. Infections may be limited to an influenza-like illness or present as an ASEPTIC MENINGITIS or ENCEPHALITIS. Clinical manifestations of the encephalitic presentation may include SEIZURES, lethargy, MYOCLONUS, focal neurologic signs, COMA, and DEATH. (From Adams et al., Principles of Neurology, 6th ed, p750)"
+    },
+    {
+      "text": "Missouri",
+      "type": "T083",
+      "umls_id": "C0026222",
+      "score": 0.9916651248931885,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the east by Illinois and Kentucky, on the south by Arkansas, on the west by Kansas, and on the north by Iowa."
+    },
+    {
+      "text": "visit family",
+      "type": "T099",
+      "umls_id": "C0015576",
+      "score": 0.7337979674339294,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A social group consisting of parents or parent substitutes and children."
+    },
+    {
+      "text": "physician’s office",
+      "type": "T073",
+      "umls_id": "C0031834",
+      "score": 0.957046389579773,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "The room or rooms in which the physician and staff provide patient care. The offices include all rooms in the physician's office suite."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mild crepitus",
+      "type": "T046",
+      "umls_id": "C0277964",
+      "score": 0.8046858906745911,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Air trapped in the subcutaneous space. It can be palpated or heard as a crackling or grating sensation under the skin."
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "chest X-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "cavitary lesion",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "right lung",
+      "type": "T023",
+      "umls_id": "C0225706",
+      "score": 0.9838702082633972,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The 3-lobed lung located on the right side of the body."
+    },
+    {
+      "text": "chest computed tomography",
+      "type": "T060",
+      "umls_id": "C0202823",
+      "score": 0.9698402285575867,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "lung biopsy",
+      "type": "T060",
+      "umls_id": "C0189485",
+      "score": 0.9760982990264893,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal of tissue from the lung, for microscopic examination."
+    },
+    {
+      "text": "cancer",
+      "type": "T191",
+      "umls_id": "C0006826",
+      "score": 0.9914878010749817,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A tumor composed of atypical neoplastic, often pleomorphic cells that invade other tissues. Malignant neoplasms often metastasize to distant anatomic sites and may recur after excision. The most common malignant neoplasms are carcinomas, Hodgkin and non-Hodgkin lymphomas, leukemias, melanomas, and sarcomas."
+    },
+    {
+      "text": "necrotic",
+      "type": "T042",
+      "umls_id": "C0027540",
+      "score": 0.9782015085220337,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The death of cells in an organ or tissue due to disease, injury or failure of the blood supply."
+    },
+    {
+      "text": "granulomatous inflammation",
+      "type": "T046",
+      "umls_id": "C0553697",
+      "score": 0.9685368537902832,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": null
+    },
+    {
+      "text": "oval",
+      "type": "T080",
+      "umls_id": "C1709367",
+      "score": 0.9626604318618774,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The shape of either an oval or an ellipse. See also TEAR."
+    },
+    {
+      "text": "yeast",
+      "type": "T004",
+      "umls_id": "C0036025",
+      "score": 0.9630826711654663,
+      "semantic_types": [
+        "T004"
+      ],
+      "definition": "A species of the genus SACCHAROMYCES, family Saccharomycetaceae, order Saccharomycetales, known as \"baker's\" or \"brewer's\" yeast. The dried form is used as a dietary supplement."
+    },
+    {
+      "text": "macrophages",
+      "type": "T025",
+      "umls_id": "C0024432",
+      "score": 0.9848178029060364,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The relatively long-lived phagocytic cell of mammalian tissues that are derived from blood MONOCYTES. Main types are PERITONEAL MACROPHAGES; ALVEOLAR MACROPHAGES; HISTIOCYTES; KUPFFER CELLS of the liver; and OSTEOCLASTS. They may further differentiate within chronic inflammatory lesions to EPITHELIOID CELLS or may fuse to form FOREIGN BODY GIANT CELLS or LANGHANS GIANT CELLS. (from The Dictionary of Cell Biology, Lackie and Dow, 3rd ed.)"
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "79-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

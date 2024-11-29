@@ -1,0 +1,480 @@
+{
+  "original_data": {
+    "question": "A 23-year-old woman, gravida 2, para 1, at 20 weeks of gestation comes to the physician for a routine prenatal exam. Her last pregnancy was unremarkable and she gave birth to a healthy rhesus (RhD) positive girl. Her past medical history is notable for a blood transfusion after a car accident with a complex femur fracture about 3 years ago. Her temperature is 37.2°C (99°F), pulse is 92/min, and blood pressure is 138/82 mm Hg. Examination shows that the uterus is at the umbilicus. Ultrasound examination reveals normal fetal heart rate, movement, and anatomy. Routine prenatal labs show the following:\nBlood type A Rh-\nLeukocyte count 11,000/mm3\nHemoglobin 12.5 g/dL\nPlatelet count 345,000/mm3\nSerum\nAnti-D antibody screen Negative\nRubella IgM Negative\nRubella IgG Negative\nVaricella IgM Negative\nVaricella IgG Positive\nSTD panel Negative\nUrine\nProtein Trace\nCulture No growth\nCervical cytology Normal\nWhich of the following is the best next step in management of this patient?\"",
+    "options": {
+      "A": "Repeat antibody screening at 28 weeks. Administer anti-D immunoglobulin at 28 weeks and after delivery if the newborn is Rh(D) positive.",
+      "B": "Repeat antibody screening at 28 weeks and administer anti-D immunoglobulin at 28 weeks. No further management is needed.",
+      "C": "No further screening is needed. Administer anti-D immunoglobulin shortly after delivery",
+      "D": "No further management is needed\n\""
+    }
+  },
+  "model_response": "###Rationale: The patient is Rh-negative and has a history of a blood transfusion. She is currently at 20 weeks of gestation and has a positive varicella titer. The best next step in management is to administer anti-D immunoglobulin at 28 weeks and after delivery if the newborn is Rh(D) positive. The patient has a positive varicella titer, but this is not a contraindication to receiving the Rh(D) immunoglobulin. The patient had a blood transfusion in the past, but this is not a contraindication to receiving the Rh(D) immunoglobulin. The patient had a negative antibody screen at the beginning of the pregnancy, so no further screening is needed. The patient is not currently experiencing any complications, so no further management is needed.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "gravida 2",
+      "type": "T033",
+      "umls_id": "C0232997",
+      "score": 0.9864724278450012,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "para",
+      "type": "T033",
+      "umls_id": "C0030563",
+      "score": 0.9971686005592346,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of offspring a female has borne. It is contrasted with GRAVIDITY, which refers to the number of pregnancies, regardless of outcome."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation comes",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.7745229601860046,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "prenatal",
+      "type": "T100",
+      "umls_id": "C0678804",
+      "score": 0.9826273322105408,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "pregnancy",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.980697512626648,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "birth",
+      "type": "T040",
+      "umls_id": "C0005615",
+      "score": 0.961663544178009,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The process of giving birth to one or more offspring."
+    },
+    {
+      "text": "healthy rhesus",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.7267710566520691,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "RhD",
+      "type": "T047",
+      "umls_id": "C0035439",
+      "score": 0.9708154201507568,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Cardiac manifestation of systemic rheumatological conditions, such as RHEUMATIC FEVER. Rheumatic heart disease can involve any part the heart, most often the HEART VALVES and the ENDOCARDIUM."
+    },
+    {
+      "text": "positive",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.996591329574585,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "blood transfusion",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9712764620780945,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "car",
+      "type": "T073",
+      "umls_id": "C0004381",
+      "score": 0.9980294704437256,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A usually four-wheeled automotive vehicle designed for passenger transportation."
+    },
+    {
+      "text": "accident",
+      "type": "T067",
+      "umls_id": "C0000924",
+      "score": 0.9794917702674866,
+      "semantic_types": [
+        "T067"
+      ],
+      "definition": "Unexpected and unintentional events, typically resulting in ACCIDENTAL INJURIES."
+    },
+    {
+      "text": "complex femur",
+      "type": "T080",
+      "umls_id": "C0439855",
+      "score": 0.7563625574111938,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Hard, involved or complicated, elaborate, having many parts."
+    },
+    {
+      "text": "fracture",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9908431768417358,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "umbilicus",
+      "type": "T029",
+      "umls_id": "C0041638",
+      "score": 0.9745065569877625,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The pit in the center of the ABDOMINAL WALL marking the point where the UMBILICAL CORD entered in the FETUS."
+    },
+    {
+      "text": "Ultrasound examination",
+      "type": "T060",
+      "umls_id": "C0948501",
+      "score": 0.9668760895729065,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "movement",
+      "type": "T040",
+      "umls_id": "C0026649",
+      "score": 0.9604375958442688,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The act, process, or result of passing from one place or position to another. It differs from LOCOMOTION in that locomotion is restricted to the passing of the whole body from one place to another, while movement encompasses both locomotion but also a change of the position of the whole body or any of its parts. Movement may be used with reference to humans, vertebrate and invertebrate animals, and microorganisms. Differentiate also from MOTOR ACTIVITY, movement associated with behavior."
+    },
+    {
+      "text": "anatomy",
+      "type": "T091",
+      "umls_id": "C0002808",
+      "score": 0.9871415495872498,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "A branch of biology dealing with the structure of organisms."
+    },
+    {
+      "text": "prenatal",
+      "type": "T100",
+      "umls_id": "C0678804",
+      "score": 0.9826273322105408,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "labs",
+      "type": "T034",
+      "umls_id": "C0587081",
+      "score": 0.986388087272644,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The outcome of a laboratory test."
+    },
+    {
+      "text": "Blood type",
+      "type": "T185",
+      "umls_id": "C0005810",
+      "score": 0.9994072318077087,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A classification of blood based on the presence or absence of inherited antigenic substances on the surface of erythrocytes."
+    },
+    {
+      "text": "Rh-\n",
+      "type": "T185",
+      "umls_id": "C2699077",
+      "score": 0.9648678302764893,
+      "semantic_types": [
+        "T185"
+      ],
+      "definition": "A blood group indicating the absence on erythrocytes of the Rh D form of the Rhesus antigen."
+    },
+    {
+      "text": "Serum\n",
+      "type": "T031",
+      "umls_id": "C0229671",
+      "score": 0.9912598133087158,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The clear portion of BLOOD that is left after BLOOD COAGULATION to remove BLOOD CELLS and clotting proteins."
+    },
+    {
+      "text": "antibody screen",
+      "type": "T059",
+      "umls_id": "C0368676",
+      "score": 0.9867504835128784,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Negative\nRubella IgM",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Negative\nRubella IgG",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Positive\nSTD panel",
+      "type": "T033",
+      "umls_id": "C1446409",
+      "score": 0.7046964764595032,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Involving advantage or good."
+    },
+    {
+      "text": "Negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Urine\nProtein",
+      "type": "T059",
+      "umls_id": "C0262923",
+      "score": 0.984489381313324,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the amount of protein present in a urine sample."
+    },
+    {
+      "text": "Cervical cytology",
+      "type": "T059",
+      "umls_id": "C0856201",
+      "score": 0.9832978844642639,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Normal\n",
+      "type": "T080",
+      "umls_id": "C0205307",
+      "score": 0.9803991317749023,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In pathology, a term that is used to describe a tissue specimen that has a normal appearance."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "23-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

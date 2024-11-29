@@ -1,0 +1,558 @@
+{
+  "original_data": {
+    "question": "An 80-year-old man is transferred from a step-down unit to a med-surg floor in the hospital. He had undergone a successful hernia surgery 14 hours ago. Before the surgery, he was pre-treated with atropine, scopolamine, and morphine and recovered well in the PACU after the surgery. There were no complications in the step-down unit and the patient continued to recover. On the med-surg floor, his temperature is 36.8°C (98.2°F), the heart rate is 98/min, the respiratory rate is 15/min, the blood pressure is 100/75 mm Hg, the oxygen saturation is 90%. On physical exam, he is a well-developed, obese man. His heart has a regular rate and rhythm and his lungs are clear to auscultation bilaterally. His incision site is clean, dry, and intact with an appropriate level of swelling and erythema. During the physical, the patient mentions some discomfort in his abdomen and pelvis and during a records review it is noted that he has not passed urine in the PACU, step-down unit, or since arriving on the med-surg floor. A bladder scan is inconclusive due to body habitus. What is the next best step in the treatment of this patient?",
+    "options": {
+      "A": "Insert a ‘straight cath’ into the patient’s bladder",
+      "B": "Aggressive IV fluids",
+      "C": "Digital rectal exam",
+      "D": "Renal ultrasound"
+    }
+  },
+  "model_response": "This patient’s symptoms and signs are consistent with urinary retention. The first step in the treatment of this patient would be to insert a ‘straight cath’ into the patient’s bladder. If this is unsuccessful, the next step would be to perform a retrograde cystourothalmoscopy to visually inspect the bladder and urethra. If this is unsuccessful, the next step would be to perform a suprapubic cystostomy.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "transferred",
+      "type": "T169",
+      "umls_id": "C0348011",
+      "score": 0.9822731614112854,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "med-surg",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "floor",
+      "type": "T073",
+      "umls_id": "C0016249",
+      "score": 0.9750929474830627,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "hernia surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.7241283655166626,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "pre-treated",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "atropine",
+      "type": "T109",
+      "umls_id": "C0004259",
+      "score": 0.9865972399711609,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "An alkaloid, originally from Atropa belladonna, but found in other plants, mainly SOLANACEAE. Hyoscyamine is the 3(S)-endo isomer of atropine."
+    },
+    {
+      "text": "scopolamine",
+      "type": "T109",
+      "umls_id": "C0036442",
+      "score": 0.9880632162094116,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A tropane alkaloid derived from plants of the nightshade family (Solanaceae), specifically Hyoscyamus niger and Atropa belladonna, with anticholinergic, antiemetic and antivertigo properties. Structurally similar to acetylcholine, scopolamine antagonizes acetylcholine activity mediated by muscarinic receptors located on structures innervated by postganglionic cholinergic nerves as well as on smooth muscles that respond to acetylcholine but lack cholinergic innervation. The agent is used to cause mydriasis, cycloplegia, to control the secretion of saliva and gastric acid, to slow gut motility, and prevent vomiting."
+    },
+    {
+      "text": "morphine",
+      "type": "T109",
+      "umls_id": "C0026549",
+      "score": 0.9835397005081177,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The principal alkaloid in opium and the prototype opiate analgesic and narcotic. Morphine has widespread effects in the central nervous system and on smooth muscle."
+    },
+    {
+      "text": "recovered",
+      "type": "T080",
+      "umls_id": "C0521108",
+      "score": 0.9774845242500305,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "PACU",
+      "type": "T073",
+      "umls_id": "C0034871",
+      "score": 0.951780378818512,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital unit providing continuous monitoring of the patient following anesthesia."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "complications",
+      "type": "T046",
+      "umls_id": "C0009566",
+      "score": 0.9766035676002502,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Any disease or disorder that occurs during the course of, or because of, another disease, treatment, or procedure."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "recover",
+      "type": "T080",
+      "umls_id": "C0521108",
+      "score": 0.9681412577629089,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "med-surg",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "floor",
+      "type": "T073",
+      "umls_id": "C0016249",
+      "score": 0.9750929474830627,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "oxygen saturation",
+      "type": "T044",
+      "umls_id": "C0369768",
+      "score": 0.9604636430740356,
+      "semantic_types": [
+        "T044"
+      ],
+      "definition": null
+    },
+    {
+      "text": "physical exam",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9741718769073486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "well-developed",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "obese",
+      "type": "T047",
+      "umls_id": "C0028754",
+      "score": 0.9816532731056213,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A status with BODY WEIGHT that is grossly above the recommended standards, usually due to accumulation of excess FATS in the body. The standards may vary with age, sex, genetic or cultural background. In the BODY MASS INDEX, a BMI greater than 30.0 kg/m2 is considered obese, and a BMI greater than 40.0 kg/m2 is considered morbidly obese (MORBID OBESITY)."
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "regular rate",
+      "type": "T080",
+      "umls_id": "C0205272",
+      "score": 0.7905575633049011,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Customary, usual, or at fixed intervals; conforming to a standard or pattern."
+    },
+    {
+      "text": "rhythm",
+      "type": "T033",
+      "umls_id": "C0871269",
+      "score": 0.9861499667167664,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "His incision site",
+      "type": "T082",
+      "umls_id": "C0449681",
+      "score": 0.8697947263717651,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The anatomic site of a cut made during surgery. The term may also refer to the resultant scar from the surgical procedure."
+    },
+    {
+      "text": "clean",
+      "type": "T052",
+      "umls_id": "C1947930",
+      "score": 0.9901402592658997,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The action of removing dirt, filth, or unwanted substances from."
+    },
+    {
+      "text": "dry",
+      "type": "T070",
+      "umls_id": "C0011682",
+      "score": 0.9664229154586792,
+      "semantic_types": [
+        "T070"
+      ],
+      "definition": "Removal of moisture from a substance (chemical, food, tissue, etc.)."
+    },
+    {
+      "text": "intact",
+      "type": "T080",
+      "umls_id": "C0205266",
+      "score": 0.9798303842544556,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Undamaged in any way; whole."
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "erythema",
+      "type": "T047",
+      "umls_id": "C0041834",
+      "score": 0.9885126948356628,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Redness of the skin produced by congestion of the capillaries. This condition may result from a variety of disease processes."
+    },
+    {
+      "text": "physical",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9765394330024719,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "patient mentions",
+      "type": "T101",
+      "umls_id": "C0025360",
+      "score": 0.7331658601760864,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Persons with psychiatric illnesses or diseases, particularly psychotic and severe mood disorders."
+    },
+    {
+      "text": "discomfort",
+      "type": "T184",
+      "umls_id": "C2364135",
+      "score": 0.9524610042572021,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of mental or physical uneasiness, pain, or distress."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "pelvis",
+      "type": "T023",
+      "umls_id": "C0030797",
+      "score": 0.9743636250495911,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The space or compartment surrounded by the pelvic girdle (bony pelvis). It is subdivided into the greater pelvis and LESSER PELVIS. The pelvic girdle is formed by the PELVIC BONES and SACRUM."
+    },
+    {
+      "text": "records review",
+      "type": "T170",
+      "umls_id": "C0034869",
+      "score": 0.7207874059677124,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Works on authentic evidence, of something having legal importance. The concept includes certificates of birth, death, etc., as well as hospital, medical, and other institutional records."
+    },
+    {
+      "text": "urine",
+      "type": "T031",
+      "umls_id": "C0042036",
+      "score": 0.9818705320358276,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "Liquid by-product of excretion produced in the kidneys, temporarily stored in the bladder until discharge through the URETHRA."
+    },
+    {
+      "text": "PACU",
+      "type": "T073",
+      "umls_id": "C0034871",
+      "score": 0.951780378818512,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital unit providing continuous monitoring of the patient following anesthesia."
+    },
+    {
+      "text": "med-surg",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "floor",
+      "type": "T073",
+      "umls_id": "C0016249",
+      "score": 0.9750929474830627,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bladder scan",
+      "type": "T060",
+      "umls_id": "C1096192",
+      "score": 0.9816798567771912,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "inconclusive",
+      "type": "T080",
+      "umls_id": "C0205258",
+      "score": 0.9822525382041931,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Cannot distinguish between two or more possible values in the current context."
+    },
+    {
+      "text": "body habitus",
+      "type": "T033",
+      "umls_id": "C0039870",
+      "score": 0.8664417862892151,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A state of insufficient flesh on the body usually defined as having a body weight less than skeletal and physical standards, such as BODY MASS INDEX, and dependent on age, sex, and genetic background."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "80-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

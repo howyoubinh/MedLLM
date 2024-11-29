@@ -1,0 +1,202 @@
+{
+  "original_data": {
+    "question": "A 68-year-old male comes to the physician for evaluation of right flank pain. He has a history of diabetes and peripheral artery disease. His blood pressure is 160/90 mm Hg. Physical examination shows abdominal tenderness and right flank tenderness. An ultrasound shows dilation of the right ureter and renal pelvis. Which of the following is the most likely underlying cause of this patient's condition?",
+    "options": {
+      "A": "Renal artery stenosis",
+      "B": "Benign prostatic hyperplasia",
+      "C": "Common iliac artery aneurysm",
+      "D": "Urethral stricture"
+    }
+  },
+  "model_response": "The patient has a classic presentation of renal colic due to ureteral obstruction. The most common cause of ureteral obstruction in an older man is a stone. The stone passed and the pain resolved. The patient now has a more chronic problem, probably a stricture from repeated episodes of obstruction from stones or sloughing of a papilla. The patient's underlying vascular disease is probably unrelated. Renal artery stenosis is more common in women and younger patients, and the presentation is usually with accelerated hypertension. Benign prostatic hyperplasia is common in older men, but does not usually cause flank pain. Common iliac artery aneurysm is unlikely because it would have been seen on the ultrasound. Urethral stricture is also a possibility, but is less likely because it would also have been seen on the ultrasound.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "male",
+      "type": "T032",
+      "umls_id": "C0086582",
+      "score": 0.9951750040054321,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "A person who belongs to the sex that normally produces sperm. The term is used to indicate biological sex distinctions, cultural gender role distinctions, or both."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "right flank pain",
+      "type": "T184",
+      "umls_id": "C0423640",
+      "score": 0.9810025691986084,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "diabetes",
+      "type": "T047",
+      "umls_id": "C0011847",
+      "score": 0.9754753708839417,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": null
+    },
+    {
+      "text": "peripheral artery disease",
+      "type": "T047",
+      "umls_id": "C1704436",
+      "score": 0.9834431409835815,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Lack of perfusion in the EXTREMITIES resulting from atherosclerosis. It is characterized by INTERMITTENT CLAUDICATION, and an ANKLE BRACHIAL INDEX of 0.9 or less."
+    },
+    {
+      "text": "His blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.8905147314071655,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "abdominal tenderness",
+      "type": "T184",
+      "umls_id": "C0232498",
+      "score": 0.9800974726676941,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right flank",
+      "type": "T029",
+      "umls_id": "C0733995",
+      "score": 0.9855214357376099,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": null
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "dilation",
+      "type": "T046",
+      "umls_id": "C0012359",
+      "score": 0.9621376395225525,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "The condition of an anatomical structure's being dilated beyond normal dimensions."
+    },
+    {
+      "text": "right ureter",
+      "type": "T023",
+      "umls_id": "C0227682",
+      "score": 0.9855768084526062,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The ureter connecting the right kidney to the bladder."
+    },
+    {
+      "text": "renal pelvis",
+      "type": "T023",
+      "umls_id": "C0227666",
+      "score": 0.9655551314353943,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The flattened, funnel-shaped expansion connecting the URETER to the KIDNEY CALICES."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "condition",
+      "type": "T080",
+      "umls_id": "C0348080",
+      "score": 0.9646015763282776,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of being, such as a state of health."
+    },
+    {
+      "text": "68-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

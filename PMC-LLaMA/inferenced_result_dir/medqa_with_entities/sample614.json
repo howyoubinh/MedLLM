@@ -1,0 +1,424 @@
+{
+  "original_data": {
+    "question": "A 75-year-old man presents to the emergency department with a racing heart and lightheadedness for 3 hours. He has had similar episodes in the past, but the symptoms never lasted this long. He denies chest pain, shortness of breath, headaches, and fevers. He had a myocardial infarction 4 years ago and currently takes captopril, metoprolol, and atorvastatin. His pulse is irregular and cardiac auscultation reveals an irregular heart rhythm. Laboratory reports show:\nSerum glucose 88 mg/dL\nSodium 142 mEq/L\nPotassium 3.9 mEq/L\nChloride 101 mEq/L\nSerum creatinine 0.8 mg/dL\nBlood urea nitrogen 10 mg/dL\nCholesterol, total 170 mg/dL\nHDL-cholesterol 40 mg/dL\nLDL-cholesterol 80 mg/dL\nTriglycerides 170 mg/dL\nHematocrit 38%\nHemoglobin 13 g/dL\nLeucocyte count 7,500/mm3\nPlatelet count 185,000 /mm3\nActivated partial thromboplastin time (aPTT) 30 seconds\nProthrombin time (PT) 12 seconds\nCardiac enzymes Negative\nAn ECG shows the absence of P-waves with an irregular RR complex. A few hours later, his symptoms subside and he is discharged with an additional anticoagulation drug. Which of the following mechanisms explains how this new medication will exert its effects?",
+    "options": {
+      "A": "Activation of the antithrombin enzyme",
+      "B": "Inhibition of the cyclooxygenase enzyme",
+      "C": "Inhibition of vitamin K-dependent clotting factors",
+      "D": "Blockage of glycoprotein IIb/IIIa receptors"
+    }
+  },
+  "model_response": "The patient's irregular heart rhythm and lightheadedness are consistent with atrial fibrillation. Atrial fibrillation is often a complication of ischemic heart disease and hypertension. The absence of P-waves on the ECG suggests that the patient has atrial fibrillation. The irregularity of the RR complex suggests that the ventricular rate is not controlled. The patient's heart rate is elevated (150 beats/min), which is consistent with a diagnosis of atrial fibrillation. The patient's history of myocardial infarction and the presence of a slow ventricular rate suggest that he has a left ventricular dysfunction. The patient's heart failure is likely the cause of his lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to a left ventricular dysfunction, which results in a decreased ejection fraction. The decreased ejection fraction results in a reduced stroke volume and a reduced cardiac output. The reduced cardiac output causes a reduction in blood pressure, which can result in lightheadedness. The patient's heart failure is due to",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "racing heart",
+      "type": "T033",
+      "umls_id": "C0039231",
+      "score": 0.9917380809783936,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormally rapid heartbeat, usually with a HEART RATE above 100 beats per minute for adults. Tachycardia accompanied by disturbance in the cardiac depolarization (cardiac arrhythmia) is called tachyarrhythmia."
+    },
+    {
+      "text": "lightheadedness",
+      "type": "T184",
+      "umls_id": "C0220870",
+      "score": 0.9825802445411682,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of faintness; a reeling sensation. Lightheadedness is medically distinct from dizziness, unsteadiness, and vertigo."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "never",
+      "type": "T079",
+      "umls_id": "C1549495",
+      "score": 0.9518278241157532,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "<p>Never send an acknowledgement.</p>"
+    },
+    {
+      "text": "denies chest pain",
+      "type": "T184",
+      "umls_id": "C0008031",
+      "score": 0.7629134058952332,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pressure, burning, or numbness in the chest."
+    },
+    {
+      "text": "shortness of breath",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9651163220405579,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "fevers",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9832536578178406,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "myocardial infarction",
+      "type": "T047",
+      "umls_id": "C0027051",
+      "score": 0.952881395816803,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "NECROSIS of the MYOCARDIUM caused by an obstruction of the blood supply to the heart (CORONARY CIRCULATION)."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "captopril",
+      "type": "T116",
+      "umls_id": "C0006938",
+      "score": 0.9880793690681458,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "A potent and specific inhibitor of PEPTIDYL-DIPEPTIDASE A. It blocks the conversion of ANGIOTENSIN I to ANGIOTENSIN II, a vasoconstrictor and important regulator of arterial blood pressure. Captopril acts to suppress the RENIN-ANGIOTENSIN SYSTEM and inhibits pressure responses to exogenous angiotensin."
+    },
+    {
+      "text": "metoprolol",
+      "type": "T109",
+      "umls_id": "C0025859",
+      "score": 0.9727950692176819,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective adrenergic beta-1 blocking agent that is commonly used to treat ANGINA PECTORIS; HYPERTENSION; and CARDIAC ARRHYTHMIAS."
+    },
+    {
+      "text": "atorvastatin",
+      "type": "T109",
+      "umls_id": "C0286651",
+      "score": 0.9552493691444397,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A synthetic lipid-lowering agent. Atorvastatin competitively inhibits hepatic hydroxymethyl-glutaryl coenzyme A (HMG-CoA) reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. Atorvastatin also increases the number of LDL receptors on hepatic cell surfaces to enhance uptake and catabolism of LDL and reduces LDL production and the number of LDL particles. This agent lowers plasma cholesterol and lipoprotein levels and modulates immune responses by suppressing MHC II (major histocompatibility complex II) on interferon gamma-stimulated, antigen-presenting cells such as human vascular endothelial cells. (NCI04)"
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "cardiac auscultation",
+      "type": "T060",
+      "umls_id": "C0018793",
+      "score": 0.9719285368919373,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the heart."
+    },
+    {
+      "text": "irregular heart rhythm",
+      "type": "T033",
+      "umls_id": "C0744683",
+      "score": 0.9733622670173645,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Laboratory reports",
+      "type": "T059",
+      "umls_id": "C0200370",
+      "score": 0.9772214889526367,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Potassium",
+      "type": "T121",
+      "umls_id": "C0032821",
+      "score": 0.9785500764846802,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element in the alkali group of metals with an atomic symbol K, atomic number 19, and atomic weight 39.10. It is the chief cation in the intracellular fluid of muscle and other cells. Potassium ion is a strong electrolyte that plays a significant role in the regulation of fluid volume and maintenance of the WATER-ELECTROLYTE BALANCE."
+    },
+    {
+      "text": "Serum creatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "LDL-cholesterol",
+      "type": "T109",
+      "umls_id": "C0008377",
+      "score": 0.7786953449249268,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The principal sterol of all higher animals, distributed in body tissues, especially the brain and spinal cord, and in animal fats and oils."
+    },
+    {
+      "text": "aPTT",
+      "type": "T059",
+      "umls_id": "C0030605",
+      "score": 0.9674528241157532,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The time required for the appearance of FIBRIN strands following the mixing of PLASMA with phospholipid platelet substitute (e.g., crude cephalins, soybean phosphatides). It is a test of the intrinsic pathway (factors VIII, IX, XI, and XII) and the common pathway (fibrinogen, prothrombin, factors V and X) of BLOOD COAGULATION. It is used as a screening test and to monitor HEPARIN therapy."
+    },
+    {
+      "text": "PT",
+      "type": "T196",
+      "umls_id": "C0032207",
+      "score": 0.9978458881378174,
+      "semantic_types": [
+        "T196"
+      ],
+      "definition": "A heavy, soft, whitish metal, resembling tin, with atomic number 78, atomic weight 195.084, symbol Pt. It is used in manufacturing equipment for laboratory and industrial use. It occurs as a black powder (platinum black) and as a spongy substance (spongy platinum) and may have been known in Pliny's time as \"alutiae\"."
+    },
+    {
+      "text": "Cardiac enzymes",
+      "type": "T116",
+      "umls_id": "C0443763",
+      "score": 0.9812842011451721,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Negative\n",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "absence",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9857189655303955,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "P-waves",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "irregular",
+      "type": "T080",
+      "umls_id": "C0205271",
+      "score": 0.9799798130989075,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking perfect symmetry or evenness."
+    },
+    {
+      "text": "RR",
+      "type": "T033",
+      "umls_id": "C4554402",
+      "score": 0.999627947807312,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "symptoms subside",
+      "type": "T184",
+      "umls_id": "C1457887",
+      "score": 0.713788628578186,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Subjective evidence of disease perceived by the patient."
+    },
+    {
+      "text": "discharged",
+      "type": "T058",
+      "umls_id": "C0030685",
+      "score": 0.9772177934646606,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The administrative process of discharging the patient, alive or dead, from hospitals or other health facilities."
+    },
+    {
+      "text": "anticoagulation drug",
+      "type": "T061",
+      "umls_id": "C0003281",
+      "score": 0.8470227718353271,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Drug treatment to thin the blood in order to prevent or reduce blood clot formation."
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "effects",
+      "type": "T080",
+      "umls_id": "C1280500",
+      "score": 0.9853150844573975,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A phenomenon that follows and is caused by some previous phenomenon."
+    },
+    {
+      "text": "75-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

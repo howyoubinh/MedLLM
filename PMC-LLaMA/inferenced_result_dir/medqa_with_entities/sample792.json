@@ -1,0 +1,186 @@
+{
+  "original_data": {
+    "question": "A 46-year-old woman presents with difficulty initiating sleep, as well as frequent nighttime awakenings. She reports making multiple mistakes at her office job, has an inability to concentrate, and feels sleepy throughout the day. She is worried that her sleeping troubles will cause her to get fired. Which of the following would best treat this patient’s insomnia pharmacologically?",
+    "options": {
+      "A": "Chlordiazepoxide",
+      "B": "Triazolam",
+      "C": "Diazepam",
+      "D": "Modafinil"
+    }
+  },
+  "model_response": "The patient’s symptoms are suggestive of primary insomnia, which is a diagnosis of exclusion. The patient’s insomnia is chronic, and she has daytime symptoms of fatigue and impaired function. Benzodiazepines are effective for the treatment of short-term insomnia, but long-term use can lead to dependence. Non-benzodiazepine hypnotics, such as zolpidem and zaleplon, have a lower potential for dependence. Modafinil is used to treat narcolepsy and may not be effective for insomnia related to poor sleep hygiene. Chlordiazepoxide, diazepam, and triazolam are all benzodiazepines and should be avoided due to the risk of dependence.\n\nAnswer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "difficulty initiating sleep",
+      "type": "T048",
+      "umls_id": "C0393760",
+      "score": 0.8954913020133972,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Difficulty falling asleep."
+    },
+    {
+      "text": "frequent",
+      "type": "T079",
+      "umls_id": "C0332183",
+      "score": 0.9685423970222473,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Coming at short intervals or in great quantities."
+    },
+    {
+      "text": "nighttime",
+      "type": "T079",
+      "umls_id": "C0240526",
+      "score": 0.7911073565483093,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time in every 24 hour period when it is dark."
+    },
+    {
+      "text": "awakenings",
+      "type": "T079",
+      "umls_id": "C1720052",
+      "score": 0.8409106731414795,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "To wake up or become awake."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "office job",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "inability",
+      "type": "T033",
+      "umls_id": "C1999002",
+      "score": 0.7907533049583435,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Inadequate personal response to problems or difficulties"
+    },
+    {
+      "text": "concentrate",
+      "type": "T122",
+      "umls_id": "C1880165",
+      "score": 0.9880443215370178,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A solution or suspension composed of active and/or inert ingredient(s) with increased strength in a reduced volume, which is usually diluted prior to administration."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "sleeping troubles",
+      "type": "T184",
+      "umls_id": "C0037317",
+      "score": 0.8913506269454956,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormality of sleep including such phenomena as 1) insomnia/hypersomnia, 2) non-restorative sleep, 3) sleep schedule disorder, 4) excessive daytime somnolence, 5) sleep apnea, and 6) restlessness. [HPO:curators]"
+    },
+    {
+      "text": "fired",
+      "type": "T033",
+      "umls_id": "C0014007",
+      "score": 0.9838417768478394,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treat",
+      "type": "T169",
+      "umls_id": "C1292734",
+      "score": 0.9973037838935852,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The use of a particular medical device, medication or treatment to treat a pre-existing disease or condition."
+    },
+    {
+      "text": "patient’s insomnia",
+      "type": "T184",
+      "umls_id": "C0917801",
+      "score": 0.7190392017364502,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sleep disorder characterized by difficulty in falling asleep and/or remaining asleep."
+    },
+    {
+      "text": "pharmacologically",
+      "type": "T091",
+      "umls_id": "C0031330",
+      "score": 0.883715808391571,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The study of the origin, nature, properties, and actions of drugs and their effects on living organisms."
+    },
+    {
+      "text": "46-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

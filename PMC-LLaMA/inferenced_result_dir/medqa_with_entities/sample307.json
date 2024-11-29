@@ -1,0 +1,568 @@
+{
+  "original_data": {
+    "question": "A 67-year-old man is brought to the emergency department with sudden onset of slurred speech. The patient’s eldest daughter says that he couldn’t move his arm during the episode. Past medical history is significant for hypertension and a hemorrhagic stroke 6 years ago, which was treated surgically. After admission, the patient gets increasingly worse and loses consciousness. A noncontrast CT of the head shows a subarachnoid hemorrhage (SAH). The patient is taken to the operating room, where the SAH evacuated, and the vessel is repaired. Postoperatively, the patient is unresponsive. Several days later, a repeat CT of the head shows an enlarging aneurysm in a different vessel in the brain. The patient’s daughter is asked to consent to a non-emergent, life-saving operation since the patient is in a comatose state. She does not consent to the operation even though the physician stresses it would be life-saving. Upon further discussion, the physician finds out that the patient was abusive and neglectful to his children, and the daughter wants “to live in peace.” The patient has no written advanced directive. Which of the following is the most appropriate course of action?",
+    "options": {
+      "A": "Follow the daughter’s wishes to withhold the operation",
+      "B": "Refer this case to the court",
+      "C": "Contact another family member for consent",
+      "D": "Report the daughter to the police"
+    }
+  },
+  "model_response": "The patient’s daughter is the appropriate surrogate for decision making, even though she is an adult child. The daughter has the right to withhold consent for the operation, even though it is life-saving, because she wants “to live in peace.” The physician should not contact another family member or report the daughter to the police. There is no advanced directive because the patient was abusive and neglectful to his children, and they are not likely to have had a close relationship. The physician should not perform the operation without consent.\n\n###COMMENT: This case illustrates the problems that can arise when an adult child is the surrogate for a terminally ill or incapacitated parent. The daughter has the right to withhold consent for the operation, even though it is life-saving, because she wants “to live in peace.” The physician should not contact another family member or report the daughter to the police.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "sudden onset",
+      "type": "T170",
+      "umls_id": "C1272517",
+      "score": 0.9585756063461304,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "slurred",
+      "type": "T033",
+      "umls_id": "C0234518",
+      "score": 0.974640965461731,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal coordination of muscles involved in speech. [DDD:fmunitoni]"
+    },
+    {
+      "text": "speech",
+      "type": "T040",
+      "umls_id": "C0037817",
+      "score": 0.944987952709198,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Communication through a system of conventional vocal symbols."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "daughter says",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.7664014101028442,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "hemorrhagic stroke",
+      "type": "T047",
+      "umls_id": "C5234922",
+      "score": 0.973993718624115,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute episode of focal or global cerebral or spinal dysfunction caused by intraparenchymal, intraventricular, or subarachnoid hemorrhage."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "surgically",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9792875647544861,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "worse",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9833537340164185,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "loses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "consciousness",
+      "type": "T033",
+      "umls_id": "C0009791",
+      "score": 0.9636605381965637,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "noncontrast CT",
+      "type": "T130",
+      "umls_id": "C0009924",
+      "score": 0.7012752294540405,
+      "semantic_types": [
+        "T130"
+      ],
+      "definition": "Substances used to allow enhanced visualization of tissues."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "subarachnoid hemorrhage",
+      "type": "T047",
+      "umls_id": "C0038525",
+      "score": 0.9835824370384216,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Bleeding into the intracranial or spinal SUBARACHNOID SPACE, most resulting from INTRACRANIAL ANEURYSM rupture. It can occur after traumatic injuries (SUBARACHNOID HEMORRHAGE, TRAUMATIC). Clinical features include HEADACHE; NAUSEA; VOMITING, nuchal rigidity, variable neurological deficits and reduced mental status."
+    },
+    {
+      "text": "SAH",
+      "type": "T171",
+      "umls_id": "C0574211",
+      "score": 0.9663181900978088,
+      "semantic_types": [
+        "T171"
+      ],
+      "definition": "A Turkic language spoken by the Yakut people in the Sakha Republic in the Russian Federation."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "operating room",
+      "type": "T073",
+      "umls_id": "C0029064",
+      "score": 0.9580788612365723,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped for performing surgery."
+    },
+    {
+      "text": "SAH",
+      "type": "T171",
+      "umls_id": "C0574211",
+      "score": 0.9663181900978088,
+      "semantic_types": [
+        "T171"
+      ],
+      "definition": "A Turkic language spoken by the Yakut people in the Sakha Republic in the Russian Federation."
+    },
+    {
+      "text": "evacuated",
+      "type": "T061",
+      "umls_id": "C1282573",
+      "score": 0.7625197768211365,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Removal of the contents of a body cavity or container"
+    },
+    {
+      "text": "vessel",
+      "type": "T023",
+      "umls_id": "C0005847",
+      "score": 0.9961130619049072,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+    },
+    {
+      "text": "Postoperatively",
+      "type": "T079",
+      "umls_id": "C0032790",
+      "score": 0.8526788353919983,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The period following a surgical operation."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "CT",
+      "type": "T083",
+      "umls_id": "C0009778",
+      "score": 0.9904136657714844,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "State bounded on the north by Massachusetts, on the east by Rhode Island, on the south by Long Island Sound, and on the west by New York."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "enlarging",
+      "type": "T080",
+      "umls_id": "C0442800",
+      "score": 0.9532285332679749,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "aneurysm",
+      "type": "T046",
+      "umls_id": "C0002940",
+      "score": 0.9734949469566345,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Pathological outpouching or sac-like dilatation in the wall of any blood vessel (ARTERIES or VEINS) or the heart (HEART ANEURYSM). It indicates a thin and weakened area in the wall which may later rupture. Aneurysms are classified by location, etiology, or other characteristics."
+    },
+    {
+      "text": "vessel",
+      "type": "T023",
+      "umls_id": "C0005847",
+      "score": 0.9961130619049072,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any of the tubular vessels conveying the blood (arteries, arterioles, capillaries, venules, and veins)."
+    },
+    {
+      "text": "brain",
+      "type": "T023",
+      "umls_id": "C0006104",
+      "score": 0.9862341284751892,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The part of CENTRAL NERVOUS SYSTEM that is contained within the skull (CRANIUM). Arising from the NEURAL TUBE, the embryonic brain is comprised of three major parts including PROSENCEPHALON (the forebrain); MESENCEPHALON (the midbrain); and RHOMBENCEPHALON (the hindbrain). The developed brain consists of CEREBRUM; CEREBELLUM; and other structures in the BRAIN STEM."
+    },
+    {
+      "text": "patient’s daughter",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "non-emergent",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "life-saving",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "operation",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9866542220115662,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "comatose state",
+      "type": "T047",
+      "umls_id": "C0009421",
+      "score": 0.7771161198616028,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A profound state of unconsciousness associated with depressed cerebral activity from which the individual cannot be aroused. Coma generally occurs when there is dysfunction or injury involving both cerebral hemispheres or the brain stem RETICULAR FORMATION."
+    },
+    {
+      "text": "operation",
+      "type": "T061",
+      "umls_id": "C0543467",
+      "score": 0.9866542220115662,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Operations carried out for the correction of deformities and defects, repair of injuries, and diagnosis and cure of certain diseases. (Taber, 18th ed.)."
+    },
+    {
+      "text": "physician stresses",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.7250966429710388,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "life-saving",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "finds",
+      "type": "T033",
+      "umls_id": "C0243095",
+      "score": 0.7007334232330322,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The result of an examination or inquiry."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "abusive",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "neglectful",
+      "type": "T033",
+      "umls_id": "C0521874",
+      "score": 0.7187949419021606,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Child or adult deprived of minimally accepted standards of food, shelter, clothing, or care."
+    },
+    {
+      "text": "children",
+      "type": "T100",
+      "umls_id": "C0008059",
+      "score": 0.9767743945121765,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A person 6 to 12 years of age. An individual 2 to 5 years old is CHILD, PRESCHOOL."
+    },
+    {
+      "text": "daughter wants",
+      "type": "T099",
+      "umls_id": "C0011011",
+      "score": 0.736334502696991,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female human offspring."
+    },
+    {
+      "text": "live",
+      "type": "T080",
+      "umls_id": "C1548795",
+      "score": 0.9870380163192749,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "peace",
+      "type": "T078",
+      "umls_id": "C0680443",
+      "score": 0.9720328450202942,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "no written",
+      "type": "T169",
+      "umls_id": "C1576874",
+      "score": 0.8685828447341919,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>Participation by human language recorded on a physical material</p>"
+    },
+    {
+      "text": "action",
+      "type": "T169",
+      "umls_id": "C0441472",
+      "score": 0.9916161298751831,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "67-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

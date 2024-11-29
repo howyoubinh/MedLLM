@@ -1,0 +1,419 @@
+{
+  "original_data": {
+    "question": "A 38-year-old woman presents to the office for a routine examination. She has no complaints and offers very little information voluntarily. She answers each question with soft, short sentences and avoids eye contact. She appears timid, anxious and admits that this is one of the very few times she has left the house in the last several years. Medical history is significant for essential hypertension. She takes hydrochlorothiazide and a daily vitamin. She has worked from home as a web graphic designer for 20 years. Questions about her social life reveal that she is very shy with few friends, and she often makes excuses to avoid parties and social gatherings. Despite this, she expresses a strong desire to be in a relationship. Today, her blood pressure is 125/85 mm Hg, heart rate is 95/min, respiratory rate is 18/min, and temperature is 37.0°C (98.6°F). On physical examination, her heart has a regular rhythm and her lungs are clear to auscultation bilaterally. Which of the following is most consistent with her behavior?",
+    "options": {
+      "A": "Schizoid personality disorder",
+      "B": "Avoidant personality disorder",
+      "C": "Antisocial personality disorder",
+      "D": "Agoraphobia"
+    }
+  },
+  "model_response": "{'A': 'Schizoid personality disorder', 'B': 'Avoidant personality disorder', 'C': 'Antisocial personality disorder', 'D': 'Agoraphobia'}[?] Avoidant personality disorder is characterized by a pervasive pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation or rejection. This pattern of behavior begins in childhood or adolescence and continues into adulthood. Individuals with avoidant personality disorder usually have a strong desire for intimate relationships but avoid them due to their fear of rejection. They tend to be very shy and have few friends. They may be so shy, in fact, that they have few social contacts outside their immediate family. Questions about her social life reveal that she is very shy with few friends, and she often makes excuses to avoid parties and social gatherings. Despite this, she expresses a strong desire to be in a relationship. This is consistent with avoidant personality disorder. Individuals with schizoid personality disorder are emotionally cold and aloof. They appear detached from social relationships and have little desire for close relationships. They prefer solitary intellectual activities. In contrast to the patient in the question, individuals with schizoid personality disorder do not express a strong desire for intimate relationships. Individuals with antisocial personality disorder are often referred to as \"sociopaths\". They are characterized by a disregard for and violation of the rights of others. They are impulsive and have a history of engaging in criminal and/or impulsive behavior. They often display a lack of remorse for their actions. Agoraphobia is an example of an anxiety disorder. It is characterized by an irrational fear of open spaces or places where the individual feels trapped. Individuals with agoraphobia often have a history of avoiding situations such as crowds, public places, being outside alone, or using public transportation. They may become extremely distressed if they find themselves in an open space and may experience panic attacks. KEY CONCEPT: Avoidant personality disorder is characterized by a pervasive pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation or rejection. This pattern of behavior begins in childhood or adolescence and continues into adulthood. Individuals with avoidant personality disorder usually have a strong desire for intimate relationships but avoid them due to their fear of rejection. They tend to be very shy and have few friends. They may be so shy, in fact, that they have few social contacts outside their immediate family. }</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "information",
+      "type": "T078",
+      "umls_id": "C0870705",
+      "score": 0.9507998824119568,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "<p>Sender sends payload to addressee as information. Addressee does not have responsibilities beyond serving addressee's own interest (i.e., read and memorize if you see fit). This is equivalent to an FYI on a memo.</p>"
+    },
+    {
+      "text": "answers",
+      "type": "T170",
+      "umls_id": "C1706817",
+      "score": 0.7726173996925354,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A statement (either spoken or written) that is made in reply to a question or request or criticism or accusation; a statement that solves a problem or explains how to solve the problem."
+    },
+    {
+      "text": "soft",
+      "type": "T080",
+      "umls_id": "C0205358",
+      "score": 0.977923572063446,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Lacking in hardness relatively or comparatively."
+    },
+    {
+      "text": "short sentences",
+      "type": "T170",
+      "umls_id": "C0876929",
+      "score": 0.793397068977356,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "A set of words that is complete in itself, conveying a statement, question, exclamation, or command and typically containing an explicit or implied subject and a predicate containing a finite verb."
+    },
+    {
+      "text": "avoids eye",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "contact",
+      "type": "T169",
+      "umls_id": "C0332158",
+      "score": 0.9862567782402039,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "timid",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "anxious",
+      "type": "T048",
+      "umls_id": "C0003467",
+      "score": 0.9214730858802795,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Feelings or emotions of dread, apprehension, and impending disaster but not disabling as with ANXIETY DISORDERS."
+    },
+    {
+      "text": "admits",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9905877709388733,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "house",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9867501854896545,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "Medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "essential hypertension",
+      "type": "T047",
+      "umls_id": "C0085580",
+      "score": 0.9802243709564209,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Hypertension that occurs without known cause, or preexisting renal disease. Associated polymorphisms for a number of genes have been identified, including AGT, GNB3, and ECE1. OMIM: 145500"
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "type": "T109",
+      "umls_id": "C0020261",
+      "score": 0.9853209853172302,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A thiazide diuretic often considered the prototypical member of this class. It reduces the reabsorption of electrolytes from the renal tubules. This results in increased excretion of water and electrolytes, including sodium, potassium, chloride, and magnesium. It is used in the treatment of several disorders including edema, hypertension, diabetes insipidus, and hypoparathyroidism."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "vitamin",
+      "type": "T109",
+      "umls_id": "C0042890",
+      "score": 0.9876216053962708,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T127"
+      ],
+      "definition": "Organic substances that are required in small amounts for maintenance and growth, but which cannot be manufactured by the human body."
+    },
+    {
+      "text": "home",
+      "type": "T082",
+      "umls_id": "C0442519",
+      "score": 0.9978923201560974,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Aspects of peoples' living conditions that may and can impact people's health and/or well-being. These factors may be physical (e.g., housing quality) or social circumstances (e.g., living alone)."
+    },
+    {
+      "text": "web graphic designer",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "social life",
+      "type": "T054",
+      "umls_id": "C0815198",
+      "score": 0.9711936712265015,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": null
+    },
+    {
+      "text": "friends",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9840391874313354,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "excuses",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "parties",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "social gatherings",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "expresses",
+      "type": "T045",
+      "umls_id": "C0017262",
+      "score": 0.7818364500999451,
+      "semantic_types": [
+        "T045"
+      ],
+      "definition": "The phenotypic manifestation of a gene or genes by the processes of GENETIC TRANSCRIPTION and GENETIC TRANSLATION."
+    },
+    {
+      "text": "desire",
+      "type": "T041",
+      "umls_id": "C0871633",
+      "score": 0.9675789475440979,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "<b>Definition:</b>A desire to have an act occur."
+    },
+    {
+      "text": "relationship",
+      "type": "T080",
+      "umls_id": "C0439849",
+      "score": 0.9485417008399963,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A state of connectedness between people, objects, or events; to be associated or connected with something."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "heart",
+      "type": "T023",
+      "umls_id": "C0018787",
+      "score": 0.9954424500465393,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow, muscular organ that maintains the circulation of the blood."
+    },
+    {
+      "text": "regular rhythm",
+      "type": "T080",
+      "umls_id": "C0205272",
+      "score": 0.7272071242332458,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Customary, usual, or at fixed intervals; conforming to a standard or pattern."
+    },
+    {
+      "text": "lungs",
+      "type": "T023",
+      "umls_id": "C0024109",
+      "score": 0.9962924718856812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Either of the pair of organs occupying the cavity of the thorax that effect the aeration of the blood."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "consistent with",
+      "type": "T078",
+      "umls_id": "C0332290",
+      "score": 0.9914379119873047,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Marked by a reasonable or logical relation of parts and holding together as a harmonious or credible whole."
+    },
+    {
+      "text": "behavior",
+      "type": "T053",
+      "umls_id": "C0004927",
+      "score": 0.9808380603790283,
+      "semantic_types": [
+        "T053"
+      ],
+      "definition": "The observable response of a man or animal to a situation."
+    },
+    {
+      "text": "38-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

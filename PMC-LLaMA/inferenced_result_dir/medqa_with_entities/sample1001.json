@@ -1,0 +1,514 @@
+{
+  "original_data": {
+    "question": "A 42-year-old man presents to establish care with a family physician after having progressively worsening back pain. He has recently migrated from Sweden and has not had any checkups in the last 3 years. He first started having back pain 3 years ago, but his pain has begun to be excruciating in the mornings. He is no longer able to get relief with over the counter medications. He also feels stiff every morning and this usually lasts between 30 minutes and an hour. Both of his knees are also very painful, particularly upon standing up from a seated position. His pain improves when he moves around, so he tries to be somewhat physically active. He also reports that he cannot use his hands for long periods of time due to joint pain and stiffness. His father and sister also have joint issues, and his mother was recently diagnosed with osteoporosis. He has been a smoker for 13 years. Upon physical examination, his wrist and proximal interphalangeal (PIP) joints are warm and swollen. Which of the following is the next best step in management?",
+    "options": {
+      "A": "Testing for serum Ca and PTH",
+      "B": "Calcium and Vitamin D prescription",
+      "C": "Testing for serum ESR and autoantibodies",
+      "D": "Testing for serum ferritin"
+    }
+  },
+  "model_response": "The clinical scenario suggests a diagnosis of psoriatic arthritis. The next best step in management would be to test for serum ESR and autoantibodies. The clinical presentation of joint pain and stiffness, along with dactylitis (sausage digit), is suggestive of psoriatic arthritis. The presence of inflammatory joint disease in the hands is also consistent with this diagnosis. Psoriatic arthritis is associated with HLA-CW6, so this should be tested as well. Psoriatic arthritis is also associated with uveitis, which can cause visual changes. Therefore, an ophthalmology examination should also be considered.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "care",
+      "type": "T052",
+      "umls_id": "C1947933",
+      "score": 0.9914361834526062,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "The work of attending to someone or something."
+    },
+    {
+      "text": "family physician",
+      "type": "T097",
+      "umls_id": "C1704221",
+      "score": 0.995156466960907,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Those physicians who have completed the education requirements specified by the American Academy of Family Physicians."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "back pain",
+      "type": "T184",
+      "umls_id": "C0004604",
+      "score": 0.9769834280014038,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Acute or chronic pain located in the posterior regions of the THORAX; LUMBOSACRAL REGION; or the adjacent regions."
+    },
+    {
+      "text": "Sweden",
+      "type": "T083",
+      "umls_id": "C0038995",
+      "score": 0.9673038125038147,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "Country in northern Europe, bordering the Baltic Sea, between Finland and Norway. The capital is Stockholm."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "back pain",
+      "type": "T184",
+      "umls_id": "C0004604",
+      "score": 0.9769834280014038,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Acute or chronic pain located in the posterior regions of the THORAX; LUMBOSACRAL REGION; or the adjacent regions."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9754149913787842,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "begun",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "excruciating",
+      "type": "T080",
+      "umls_id": "C4055051",
+      "score": 0.9524596929550171,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Intensely painful."
+    },
+    {
+      "text": "mornings",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.8143466711044312,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "relief",
+      "type": "T033",
+      "umls_id": "C0564405",
+      "score": 0.9670310616493225,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "counter medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.7688809037208557,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "feels",
+      "type": "T041",
+      "umls_id": "C1527305",
+      "score": 0.9925816655158997,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Emotional sensations."
+    },
+    {
+      "text": "stiff",
+      "type": "T184",
+      "umls_id": "C0221170",
+      "score": 0.9654425978660583,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of tension or tightness in one or more muscles."
+    },
+    {
+      "text": "morning",
+      "type": "T079",
+      "umls_id": "C0332170",
+      "score": 0.9794526100158691,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time period between dawn and noon."
+    },
+    {
+      "text": "lasts",
+      "type": "T025",
+      "umls_id": "C0368761",
+      "score": 0.7017162442207336,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "A precursor cell which gives rise to a fully differentiated cell of hematopoietic lineage."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "hour",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9982005953788757,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "knees",
+      "type": "T023",
+      "umls_id": "C0022742",
+      "score": 0.9716548919677734,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A region of the lower extremity immediately surrounding and including the KNEE JOINT."
+    },
+    {
+      "text": "painful",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.9710636734962463,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "standing",
+      "type": "T082",
+      "umls_id": "C0231472",
+      "score": 0.9963629245758057,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The act of assuming or maintaining an erect upright position."
+    },
+    {
+      "text": "seated",
+      "type": "T033",
+      "umls_id": "C0277814",
+      "score": 0.9851415157318115,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state or act of one who sits; the posture of one who occupies a seat."
+    },
+    {
+      "text": "position",
+      "type": "T082",
+      "umls_id": "C0733755",
+      "score": 0.977912187576294,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "A reference to the alignment of an object, a particular situation or view of a situation, or the location of an object."
+    },
+    {
+      "text": "His pain",
+      "type": "T184",
+      "umls_id": "C0030193",
+      "score": 0.7373444437980652,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation induced by noxious stimuli which are detected by NERVE ENDINGS of NOCICEPTIVE NEURONS."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "tries",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physically active",
+      "type": "T033",
+      "umls_id": "C0556453",
+      "score": 0.983367919921875,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "hands",
+      "type": "T023",
+      "umls_id": "C0018563",
+      "score": 0.9759100675582886,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The distal part of the arm beyond the wrist in humans and primates, that includes the palm, fingers, and thumb."
+    },
+    {
+      "text": "long periods of time",
+      "type": "T079",
+      "umls_id": "C1948053",
+      "score": 0.774950385093689,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "An interval of time."
+    },
+    {
+      "text": "joint pain",
+      "type": "T184",
+      "umls_id": "C0003862",
+      "score": 0.9798861742019653,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Pain in the joint."
+    },
+    {
+      "text": "stiffness",
+      "type": "T033",
+      "umls_id": "C1660792",
+      "score": 0.8270248770713806,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sensation of tightness in a toe joint when attempting to move it, especially after a period of inactivity. []"
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "sister",
+      "type": "T099",
+      "umls_id": "C0337514",
+      "score": 0.9856923818588257,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A female sibling."
+    },
+    {
+      "text": "joint issues",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "osteoporosis",
+      "type": "T047",
+      "umls_id": "C0029456",
+      "score": 0.9853455424308777,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Reduction of bone mass without alteration in the composition of bone, leading to fractures. Primary osteoporosis can be of two major types: postmenopausal osteoporosis (OSTEOPOROSIS, POSTMENOPAUSAL) and age-related or senile osteoporosis."
+    },
+    {
+      "text": "smoker",
+      "type": "T033",
+      "umls_id": "C0337664",
+      "score": 0.972935140132904,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A person who inhales or has inhaled combustible products of organic material during their lifetime."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "wrist",
+      "type": "T029",
+      "umls_id": "C0043262",
+      "score": 0.9785857200622559,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the upper limb between the metacarpus and the FOREARM."
+    },
+    {
+      "text": "proximal",
+      "type": "T082",
+      "umls_id": "C0205107",
+      "score": 0.9636295437812805,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Situated nearest to a point of attachment or origin."
+    },
+    {
+      "text": "PIP",
+      "type": "T061",
+      "umls_id": "C0279391",
+      "score": 0.9974372386932373,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "joints",
+      "type": "T030",
+      "umls_id": "C0022417",
+      "score": 0.9911827445030212,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "Also known as articulations, these are points of connection between the ends of certain separate bones, or where the borders of other bones are juxtaposed."
+    },
+    {
+      "text": "warm",
+      "type": "T033",
+      "umls_id": "C0582051",
+      "score": 0.995954692363739,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "swollen",
+      "type": "T033",
+      "umls_id": "C0038999",
+      "score": 0.9612990021705627,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement; expansion in size; sign of inflammation"
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "42-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "original_data": {
+    "question": "A 36-year-old recent immigrant from India presents with a face similar to that seen in the image A. Examination of his face reveals skin that is thick and contains many lesions. The patient complains that he has experienced a loss of sensation in his toes and fingertips, which has caused him to injure himself often. Biopsy of the skin is likely to reveal bacteria that are:",
+    "options": {
+      "A": "Acid-fast",
+      "B": "Catalase-negative",
+      "C": "Thermophiles",
+      "D": "Tennis-racket shaped"
+    }
+  },
+  "model_response": "The patient is likely to have leprosy, caused by Mycobacterium leprae. This organism is an acid-fast, catalase-negative, slow-growing, gram-positive rod. Skin lesions are a characteristic finding in leprosy. The loss of sensation can lead to deformities in the extremities due to unnoticed trauma. Mycobacterium leprae is an intracellular organism that grows best at a lower temperature (25-30degC) and has a characteristic shape (tennis-racket shaped).\n\n###Harrison's 18/e p1363, 1364\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "India",
+      "type": "T083",
+      "umls_id": "C0021201",
+      "score": 0.9903201460838318,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A country in southern Asia, bordering the Arabian Sea and the Bay of Bengal, between Burma and Pakistan. The capitol is New Delhi."
+    },
+    {
+      "text": "image A. Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.7514949440956116,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lesions",
+      "type": "T033",
+      "umls_id": "C0221198",
+      "score": 0.9854557514190674,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A localized pathological or traumatic structural change, damage, deformity, or discontinuity of tissue, organ, or body part."
+    },
+    {
+      "text": "patient complains",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "loss",
+      "type": "T081",
+      "umls_id": "C1517945",
+      "score": 0.9933460354804993,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A gradual decline in amount or activity."
+    },
+    {
+      "text": "sensation",
+      "type": "T042",
+      "umls_id": "C0036658",
+      "score": 0.9433280229568481,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The process in which specialized SENSORY RECEPTOR CELLS transduce peripheral stimuli (physical or chemical) into NERVE IMPULSES which are then transmitted to the various sensory centers in the CENTRAL NERVOUS SYSTEM."
+    },
+    {
+      "text": "toes",
+      "type": "T023",
+      "umls_id": "C0040357",
+      "score": 0.9610576033592224,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "Any one of five terminal digits of the vertebrate FOOT."
+    },
+    {
+      "text": "fingertips",
+      "type": "T081",
+      "umls_id": "C2348675",
+      "score": 0.8022167682647705,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An arbitrary dosing unit used predominantly for semisolid topical formulations such as cream, ointment, paste, etc. One fingertip unit is the amount of a product that is squeezed out from a standard tube with 5-millimeter diameter nozzle along an adult's fingertip. A fingertip length is defined from the tip of the index finger to the first finger crease. A fingertip dosing unit varies with age and size of the body. The average fingertip unit is equal to approximately 0.5 gram for an adult male and 0.4 gram for an adult female."
+    },
+    {
+      "text": "injure himself",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bacteria",
+      "type": "T007",
+      "umls_id": "C0004611",
+      "score": 0.992347240447998,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "One of the three domains of life (the others being Eukarya and ARCHAEA), also called Eubacteria. They are unicellular prokaryotic microorganisms which generally possess rigid cell walls, multiply by cell division, and exhibit three principal forms: round or coccal, rodlike or bacillary, and spiral or spirochetal. Bacteria can be classified by their response to OXYGEN: aerobic, anaerobic, or facultatively anaerobic; by the mode by which they obtain their energy: chemotrophy (via chemical reaction) or PHOTOTROPHY (via light reaction); for chemotrophs by their source of chemical energy: CHEMOLITHOTROPHY (from inorganic compounds) or chemoorganotrophy (from organic compounds); and by their source for CARBON; NITROGEN; etc.; HETEROTROPHY (from organic sources) or AUTOTROPHY (from CARBON DIOXIDE). They can also be classified by whether or not they stain (based on the structure of their CELL WALLS) with CRYSTAL VIOLET dye: gram-negative or gram-positive."
+    },
+    {
+      "text": "36-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

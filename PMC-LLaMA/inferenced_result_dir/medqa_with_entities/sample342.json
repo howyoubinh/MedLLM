@@ -1,0 +1,518 @@
+{
+  "original_data": {
+    "question": "A 55-year-old woman with a history of HIV presents to the emergency department with progressive dyspnea, fever, and dry cough for the past 4 days. She has not been compliant with antiretroviral or prophylactic medication. On evaluation, the patient is in moderate respiratory distress. The temperature is 38.8°C (102.0°F), the blood pressure is 124/82 mm Hg, the pulse is 96/min, and the respiratory rate is 20/min. Pulse oximetry is 92% on 4 L oxygen by nasal cannula. Her CD4 count is 180 cells/μL. IV antibiotics and glucocorticoids are administered. After 30 minutes, the patient develops severe respiratory distress. Repeat vital signs show: temperature 38.3°C (101.0°F), blood pressure 80/50 mm Hg, pulse 104/min, respiration rate 32/min and pulse oximetry 85% on nasal cannula. The trachea deviates to the left. Breath sounds are absent on the right side and the neck veins are distended. Telemetry shows sinus tachycardia. Which of the following is the best next step in the management of this patient?",
+    "options": {
+      "A": "Discontinue antibiotics",
+      "B": "Perform an arterial blood gas",
+      "C": "Needle thoracostomy",
+      "D": "Stat chest X-ray"
+    }
+  },
+  "model_response": "The patient has a pneumothorax on the right side. The most common cause of spontaneous pneumothorax is the rupture of apical blebs in patients with lung disease. Pneumothorax may also be caused by trauma, by the rupture of a lung abscess, or as a complication of thoracentesis or pleural biopsy. The diagnosis is made by the presence of a large riding quality to percussion of the chest and decreased breath sounds on the affected side. A chest X-ray will confirm the diagnosis. Treatment consists of tube thoracostomy and the administration of oxygen. Needle thoracostomy can be performed as a temporizing measure if tube thoracostomy is not immediately available.\n\nAnswer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "HIV",
+      "type": "T005",
+      "umls_id": "C0019682",
+      "score": 0.9880849123001099,
+      "semantic_types": [
+        "T005"
+      ],
+      "definition": "Human immunodeficiency virus. A non-taxonomic and historical term referring to any of two species, specifically HIV-1 and/or HIV-2. Prior to 1986, this was called human T-lymphotropic virus type III/lymphadenopathy-associated virus (HTLV-III/LAV). From 1986-1990, it was an official species called HIV. Since 1991, HIV was no longer considered an official species name; the two species were designated HIV-1 and HIV-2."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "dyspnea",
+      "type": "T184",
+      "umls_id": "C0013404",
+      "score": 0.9835606217384338,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Difficult or labored breathing."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "dry cough",
+      "type": "T184",
+      "umls_id": "C0850149",
+      "score": 0.9643693566322327,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A cough that is not accompanied by expectorated secretions."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "compliant",
+      "type": "T080",
+      "umls_id": "C0566588",
+      "score": 0.9842939376831055,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "antiretroviral",
+      "type": "T121",
+      "umls_id": "C0599685",
+      "score": 0.9755783081054688,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Agents used to treat RETROVIRIDAE INFECTIONS."
+    },
+    {
+      "text": "prophylactic medication",
+      "type": "T074",
+      "umls_id": "C0009653",
+      "score": 0.7291490435600281,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A sheath that is worn over the penis during sexual behavior in order to prevent pregnancy or spread of sexually transmitted disease."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "moderate",
+      "type": "T080",
+      "umls_id": "C0205081",
+      "score": 0.9828923940658569,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>Privacy metadata indicating the level of protection required to safeguard personal and healthcare information, which if disclosed without authorization, would present a moderate risk of harm to an individual's reputation and sense of privacy.</p><i>Usage Note:</i>The level of protection afforded moderately confidential information is dictated by privacy policies intended to engender trust in a service provider. May include publicly available information in jurisdictions that restrict uses of that information without the consent of the data subject.<p>Privacy policies mandating moderate levels of protection, which preempt less protective privacy policies. \"Moderate\" confidentiality policies differ from and would be preempted by the prevailing privacy policies mandating the normative level of protection for information used in the delivery and management of healthcare.</p>Confidentiality code total order hierarchy: Moderate (M) is less protective than<i>V, R, and N*, and subsumes all other protection levels (i.e., *L</i>and *U*).<b>Examples:</b>Includes personal and health information that an individual authorizes to be collected, accessed, used or disclosed to a bank for a health credit card or savings account; to health oversight authorities; to a hospital patient directory; to worker compensation, disability, property and casualty or life insurers; and to personal health record systems, consumer-controlled devices, social media accounts and online Apps; or for marketing purposes"
+    },
+    {
+      "text": "respiratory distress",
+      "type": "T184",
+      "umls_id": "C0476273",
+      "score": 0.9905274510383606,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A pathological increase in the effort and frequency of breathing movements."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "Pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "L oxygen",
+      "type": "T121",
+      "umls_id": "C0030054",
+      "score": 0.8986080288887024,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element with atomic symbol O, atomic number 8, and atomic weight [15.99903; 15.99977]. It is the most abundant element on earth and essential for respiration."
+    },
+    {
+      "text": "nasal cannula",
+      "type": "T074",
+      "umls_id": "C0179574",
+      "score": 0.9675390124320984,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Cannulae designed to be inserted into the nostrils, with the distal tip typically intended to sit in the nostrils; however, certain nasal cannulae tips may be intended to be advanced into the nasal sinuses. These cannulae are typically short, rigid or semirigid, plastic or, less frequently, metal tubes; they are frequently connected directly or via an external tube or catheter to an irrigator and/or aspirator for irrigation, infusion, or withdrawal of substances. Nasal cannulae may also provide a port through which instruments and/or probes are passed to perform a variety of diagnostic, treatment, or surgical procedures. Dedicated nasal cannulae are available to supply breathing gases to the patient (e.g., oxygen, continuous positive air pressure) and/or for carbon dioxide sampling, for hemostatic purposes (i.e., plugging the nostrils), and/or to reach the nasal sinuses."
+    },
+    {
+      "text": "CD4 count",
+      "type": "T059",
+      "umls_id": "C0243009",
+      "score": 0.9559555649757385,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of CD4-POSITIVE T-LYMPHOCYTES per unit volume of BLOOD. Determination requires the use of a fluorescence-activated flow cytometer."
+    },
+    {
+      "text": "cells/μL. IV",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "antibiotics",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.9689207077026367,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "glucocorticoids",
+      "type": "T109",
+      "umls_id": "C0017710",
+      "score": 0.987565279006958,
+      "semantic_types": [
+        "T109",
+        "T125"
+      ],
+      "definition": "A group of CORTICOSTEROIDS that affect carbohydrate metabolism (GLUCONEOGENESIS, liver glycogen deposition, elevation of BLOOD SUGAR), inhibit ADRENOCORTICOTROPIC HORMONE secretion, and possess pronounced anti-inflammatory activity. They also play a role in fat and protein metabolism, maintenance of arterial blood pressure, alteration of the connective tissue response to injury, reduction in the number of circulating lymphocytes, and functioning of the central nervous system."
+    },
+    {
+      "text": "administered",
+      "type": "T169",
+      "umls_id": "C1521801",
+      "score": 0.9727639555931091,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of having given something (e.g., a medication or test)."
+    },
+    {
+      "text": "minutes",
+      "type": "T079",
+      "umls_id": "C0439232",
+      "score": 0.9812436103820801,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 60 seconds."
+    },
+    {
+      "text": "patient develops",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "severe",
+      "type": "T033",
+      "umls_id": "C0205082",
+      "score": 0.981156051158905,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Intensely bad or unpleasant in degree, quality or extent."
+    },
+    {
+      "text": "respiratory distress",
+      "type": "T184",
+      "umls_id": "C0476273",
+      "score": 0.9905274510383606,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A pathological increase in the effort and frequency of breathing movements."
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiration rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.976806640625,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "nasal cannula",
+      "type": "T074",
+      "umls_id": "C0179574",
+      "score": 0.9675390124320984,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Cannulae designed to be inserted into the nostrils, with the distal tip typically intended to sit in the nostrils; however, certain nasal cannulae tips may be intended to be advanced into the nasal sinuses. These cannulae are typically short, rigid or semirigid, plastic or, less frequently, metal tubes; they are frequently connected directly or via an external tube or catheter to an irrigator and/or aspirator for irrigation, infusion, or withdrawal of substances. Nasal cannulae may also provide a port through which instruments and/or probes are passed to perform a variety of diagnostic, treatment, or surgical procedures. Dedicated nasal cannulae are available to supply breathing gases to the patient (e.g., oxygen, continuous positive air pressure) and/or for carbon dioxide sampling, for hemostatic purposes (i.e., plugging the nostrils), and/or to reach the nasal sinuses."
+    },
+    {
+      "text": "trachea",
+      "type": "T023",
+      "umls_id": "C0040578",
+      "score": 0.993364155292511,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The cartilaginous and membranous tube descending from the larynx and branching into the right and left main bronchi."
+    },
+    {
+      "text": "deviates",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "left",
+      "type": "T082",
+      "umls_id": "C0205091",
+      "score": 0.9974963068962097,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the west when facing north."
+    },
+    {
+      "text": "Breath sounds",
+      "type": "T201",
+      "umls_id": "C0035234",
+      "score": 0.9867587685585022,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "Noises, normal and abnormal, heard on auscultation over any part of the RESPIRATORY TRACT."
+    },
+    {
+      "text": "absent",
+      "type": "T169",
+      "umls_id": "C0332197",
+      "score": 0.9687321186065674,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not existing in a specified place at a specified time."
+    },
+    {
+      "text": "right side",
+      "type": "T082",
+      "umls_id": "C0205090",
+      "score": 0.9930153489112854,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Being or located on or directed toward the side of the body to the east when facing north."
+    },
+    {
+      "text": "neck veins",
+      "type": "T023",
+      "umls_id": "C0226542",
+      "score": 0.9874321222305298,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Telemetry",
+      "type": "T060",
+      "umls_id": "C0039451",
+      "score": 0.9916572570800781,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Transmission of the readings of instruments to a remote location by means of wires, radio waves, or other means. (McGraw-Hill Dictionary of Scientific and Technical Terms, 4th ed)"
+    },
+    {
+      "text": "sinus tachycardia",
+      "type": "T047",
+      "umls_id": "C0039239",
+      "score": 0.9745782017707825,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Simple rapid heartbeats caused by rapid discharge of impulses from the SINOATRIAL NODE, usually between 100 and 180 beats/min in adults. It is characterized by a gradual onset and termination. Sinus tachycardia is common in infants, young children, and adults during strenuous physical activities."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

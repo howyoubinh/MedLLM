@@ -1,0 +1,280 @@
+{
+  "original_data": {
+    "question": "A previously healthy 27-year-old woman comes to the physician because of a 2-month history of depressed mood and fatigue. During this time, she has had a 5-kg (11-lb) weight gain. She reports trouble concentrating at her job as a preschool teacher and has missed work several times in recent weeks due to generalized fatigue. She has smoked 2 packs of cigarettes daily for 10 years and is actively trying to quit smoking. A drug is prescribed that will treat the patient's mood disturbance and support smoking cessation. This patient should be counseled about which of the following possible side effects of this drug?",
+    "options": {
+      "A": "Hypotension",
+      "B": "Urinary retention",
+      "C": "Tachycardia",
+      "D": "QTc prolongation"
+    }
+  },
+  "model_response": "This patient is likely being treated with a selective serotonin reuptake inhibitor (SSRI) for a major depressive episode. SSRIs are effective for depression, but they can cause drug-induced hypotension, which is more likely to occur in patients who are also taking other medications that lower blood pressure, such as antihypertensives or vasodilators. The medication should be used cautiously in patients with known heart disease or those at risk for heart disease, because it can cause cardiac conduction delays, which can result in fatal arrhythmias. Urinary retention is a side effect of anticholinergic medications, not SSRIs. Tachycardia is a side effect of some medications used to treat anxiety, not depression. QTc prolongation is a side effect of some medications used to treat psychosis, not depression.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "healthy",
+      "type": "T080",
+      "umls_id": "C3898900",
+      "score": 0.9904220700263977,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having no significant health-related issues."
+    },
+    {
+      "text": "woman comes",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "depressed mood",
+      "type": "T048",
+      "umls_id": "C0344315",
+      "score": 0.9759973883628845,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An emotional state characterized by feelings of sadness, emptiness, and/or tearfulness."
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "time",
+      "type": "T079",
+      "umls_id": "C0040223",
+      "score": 0.9978670477867126,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The dimension of the physical universe which, at a given place, orders the sequence of events. (McGraw-Hill Dictionary of Scientific and Technical Terms, 6th ed)"
+    },
+    {
+      "text": "weight gain",
+      "type": "T033",
+      "umls_id": "C0043094",
+      "score": 0.9628818035125732,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Increase in BODY WEIGHT over existing weight."
+    },
+    {
+      "text": "concentrating",
+      "type": "T041",
+      "umls_id": "C0086045",
+      "score": 0.8040652871131897,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The act or process of concentrating, focusing the attention and mental energy on a single object to the exclusion of others."
+    },
+    {
+      "text": "job",
+      "type": "T090",
+      "umls_id": "C0028811",
+      "score": 0.9788143038749695,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Crafts, trades, professions, or other means of earning a living."
+    },
+    {
+      "text": "preschool teacher",
+      "type": "T097",
+      "umls_id": "C0036374",
+      "score": 0.8221800327301025,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Members of staff responsible for TEACHING students in a school from pre-kindergarten through twelfth grade."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "generalized fatigue",
+      "type": "T184",
+      "umls_id": "C0241898",
+      "score": 0.9676313996315002,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "packs",
+      "type": "T074",
+      "umls_id": "C0441122",
+      "score": 0.9747228026390076,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cigarettes",
+      "type": "T073",
+      "umls_id": "C0677453",
+      "score": 0.9762964248657227,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "Roll of dried and finely cut TOBACCO leaves wrapped in a cylinder of thin paper used for SMOKING."
+    },
+    {
+      "text": "daily",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9872916340827942,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "quit smoking",
+      "type": "T055",
+      "umls_id": "C0085134",
+      "score": 0.8498400449752808,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Discontinuing the habit of SMOKING."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "prescribed",
+      "type": "T058",
+      "umls_id": "C0278329",
+      "score": 0.9690635800361633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": null
+    },
+    {
+      "text": "treat",
+      "type": "T169",
+      "umls_id": "C1292734",
+      "score": 0.9973037838935852,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The use of a particular medical device, medication or treatment to treat a pre-existing disease or condition."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "mood disturbance",
+      "type": "T048",
+      "umls_id": "C2939186",
+      "score": 0.9712716341018677,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A change in disposition or state of mind."
+    },
+    {
+      "text": "smoking cessation",
+      "type": "T055",
+      "umls_id": "C0085134",
+      "score": 0.951284646987915,
+      "semantic_types": [
+        "T055"
+      ],
+      "definition": "Discontinuing the habit of SMOKING."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "counseled",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "side effects",
+      "type": "T169",
+      "umls_id": "C0001688",
+      "score": 0.9782549738883972,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with drugs, chemicals, or biological agents in accepted dosage - or with physical agents or manufactured products in normal usage - when intended for diagnostic, therapeutic, prophylactic, or anesthetic purposes. It is used also for adverse effects or complications of diagnostic, therapeutic, prophylactic, anesthetic, surgical, or other procedures."
+    },
+    {
+      "text": "drug",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9953823089599609,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "27-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

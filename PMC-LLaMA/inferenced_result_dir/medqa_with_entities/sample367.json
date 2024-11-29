@@ -1,0 +1,640 @@
+{
+  "original_data": {
+    "question": "A 22-year-old gravida 1 presents to her physician at 15 weeks gestation for a prenatal appointment. She complains of a rash involving her chest, face, and arms, a watery nasal discharge, and mild bilateral knee pain. She has had these symptoms for about 5 days. The symptoms do not seem to bother her too much, but she is concerned for the baby. She had contact with her younger sister, who also had a rash and was diagnosed with rubella infection about 10 days ago at a family gathering. She cannot confirm her vaccination history. Her vital signs are as follows: blood pressure, 110/70 mmHg; heart rate, 89/min; respiratory rate, 12/min; and temperature, 37.6℃ (99.7℉). Examination shows a moderately dense maculopapular lacy rash spread over the patient’s trunk, extremities, and face. No lymph node, liver, or spleen enlargement is noted. The knee joints appear normal.\nSerology performed 1 year ago Current serology\nRubella IgM - negative Rubella IgM - negative\nRubella IgG - 1:128 Rubella IgG - 1:64\nRubella IgG avidity - high Rubella IgG avidity - high\nWhat is the proper next step in the management of this woman?",
+    "options": {
+      "A": "Reassure and recommend vaccination against rubella postpartum",
+      "B": "Recommend pregnancy termination",
+      "C": "Arrange a chorionic villus sampling",
+      "D": "Recommend additional serologic testing for parvovirus B19"
+    }
+  },
+  "model_response": "The woman has a moderately dense maculopapular lacy rash spread over her trunk, extremities, and face. No lymph node, liver, or spleen enlargement is noted. The knee joints appear normal. Her serology shows that she has a high avidity for rubella, indicating that she had a previous infection with rubella and is immune. Her current IgM rubella is negative, which means that she does not have an acute rubella infection. Her current IgG rubella is 1:64, which is considered low avidity. The current rubella IgG avidity test result is high. The proper next step in the management of this woman is to arrange a chorionic villus sampling. The fetus is at risk for congenital rubella syndrome (CRS). Chorionic villus sampling is performed at 10 to 12 weeks' gestation and allows for early detection of CRS. If the results are positive for CRS, then pregnancy termination may be considered. If the results are negative for CRS, then the woman can be reassured and vaccinated postpartum.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "gravida",
+      "type": "T033",
+      "umls_id": "C0600457",
+      "score": 0.9845533967018127,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The number of pregnancies, complete or incomplete, experienced by a female. It is different from PARITY, which is the number of offspring borne. (From Stedman, 26th ed)"
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "weeks",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.9958744645118713,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "gestation",
+      "type": "T040",
+      "umls_id": "C0032961",
+      "score": 0.965999960899353,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The status during which female mammals carry their developing young (EMBRYOS or FETUSES) in utero before birth, beginning from FERTILIZATION to BIRTH."
+    },
+    {
+      "text": "prenatal",
+      "type": "T100",
+      "umls_id": "C0678804",
+      "score": 0.9826273322105408,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": null
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "complains",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.8011102676391602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "rash",
+      "type": "T184",
+      "umls_id": "C0015230",
+      "score": 0.9840058088302612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Diseases in which skin eruptions or rashes are a prominent manifestation. Classically, six such diseases were described with similar rashes; they were numbered in the order in which they were reported. Only the fourth (Duke's disease), fifth (ERYTHEMA INFECTIOSUM), and sixth (EXANTHEMA SUBITUM) numeric designations survive as occasional synonyms in current terminology."
+    },
+    {
+      "text": "chest",
+      "type": "T029",
+      "umls_id": "C0817096",
+      "score": 0.9929832816123962,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the trunk between the NECK and the ABDOMEN. It contains the chief organs of the circulatory and respiratory systems. (From Stedman, 25th ed)"
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "arms",
+      "type": "T029",
+      "umls_id": "C0446516",
+      "score": 0.9710922241210938,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The superior part of the upper extremity between the SHOULDER and the ELBOW."
+    },
+    {
+      "text": "watery",
+      "type": "T080",
+      "umls_id": "C0443350",
+      "score": 0.9556147456169128,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nasal discharge",
+      "type": "T184",
+      "umls_id": "C1260880",
+      "score": 0.983281135559082,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A discharge of fluid from the nose."
+    },
+    {
+      "text": "mild",
+      "type": "T170",
+      "umls_id": "C1547225",
+      "score": 0.9908393621444702,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bilateral",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.9792689085006714,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "baby",
+      "type": "T100",
+      "umls_id": "C0021270",
+      "score": 0.9707297086715698,
+      "semantic_types": [
+        "T100"
+      ],
+      "definition": "A child between 1 and 23 months of age."
+    },
+    {
+      "text": "contact with",
+      "type": "T169",
+      "umls_id": "C0332158",
+      "score": 0.9908549189567566,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "younger sister",
+      "type": "T099",
+      "umls_id": "C0337525",
+      "score": 0.9676835536956787,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": null
+    },
+    {
+      "text": "rash",
+      "type": "T184",
+      "umls_id": "C0015230",
+      "score": 0.9840058088302612,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Diseases in which skin eruptions or rashes are a prominent manifestation. Classically, six such diseases were described with similar rashes; they were numbered in the order in which they were reported. Only the fourth (Duke's disease), fifth (ERYTHEMA INFECTIOSUM), and sixth (EXANTHEMA SUBITUM) numeric designations survive as occasional synonyms in current terminology."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "rubella infection",
+      "type": "T047",
+      "umls_id": "C0035920",
+      "score": 0.9640776515007019,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute infectious disease caused by the RUBELLA VIRUS. The virus enters the respiratory tract via airborne droplet and spreads to the LYMPHATIC SYSTEM."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "family gathering",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "vaccination history",
+      "type": "T033",
+      "umls_id": "C1960631",
+      "score": 0.9514361023902893,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "dense",
+      "type": "T080",
+      "umls_id": "C0439794",
+      "score": 0.9902793765068054,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having high relative density or specific gravity; permitting little if any light to pass through."
+    },
+    {
+      "text": "maculopapular",
+      "type": "T080",
+      "umls_id": "C0443253",
+      "score": 0.98359215259552,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "spread",
+      "type": "T080",
+      "umls_id": "C0332261",
+      "score": 0.9627701044082642,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The act of extending over a wider scope or expanse of space or time."
+    },
+    {
+      "text": "patient’s trunk",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "face",
+      "type": "T029",
+      "umls_id": "C0015450",
+      "score": 0.9975278973579407,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The anterior portion of the head that includes the skin, muscles, and structures of the forehead, eyes, nose, mouth, cheeks, and jaw."
+    },
+    {
+      "text": "No lymph node",
+      "type": "T023",
+      "umls_id": "C0024204",
+      "score": 0.8912237882614136,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "They are oval or bean shaped bodies (1 - 30 mm in diameter) located along the lymphatic system."
+    },
+    {
+      "text": "liver",
+      "type": "T023",
+      "umls_id": "C0023884",
+      "score": 0.9800863862037659,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "A large lobed glandular organ in the abdomen of vertebrates that is responsible for detoxification, metabolism, synthesis and storage of various substances."
+    },
+    {
+      "text": "spleen",
+      "type": "T023",
+      "umls_id": "C0037993",
+      "score": 0.95802241563797,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "An encapsulated lymphatic organ through which venous blood filters."
+    },
+    {
+      "text": "enlargement",
+      "type": "T046",
+      "umls_id": "C0020564",
+      "score": 0.9555201530456543,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "General increase in bulk of a part or organ due to CELL ENLARGEMENT and accumulation of FLUIDS AND SECRETIONS, not due to tumor formation, nor to an increase in the number of cells (HYPERPLASIA)."
+    },
+    {
+      "text": "knee joints",
+      "type": "T030",
+      "umls_id": "C0022745",
+      "score": 0.9866690039634705,
+      "semantic_types": [
+        "T030"
+      ],
+      "definition": "A synovial hinge connection formed between the bones of the FEMUR; TIBIA; and PATELLA."
+    },
+    {
+      "text": "normal",
+      "type": "T080",
+      "umls_id": "C0205307",
+      "score": 0.9803991317749023,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "In pathology, a term that is used to describe a tissue specimen that has a normal appearance."
+    },
+    {
+      "text": "Serology",
+      "type": "T059",
+      "umls_id": "C0036743",
+      "score": 0.9932818412780762,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Diagnostic procedures involving immunoglobulin reactions."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "serology\n",
+      "type": "T059",
+      "umls_id": "C0036743",
+      "score": 0.9932818412780762,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Diagnostic procedures involving immunoglobulin reactions."
+    },
+    {
+      "text": "Rubella IgM",
+      "type": "T047",
+      "umls_id": "C0035920",
+      "score": 0.8213500380516052,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute infectious disease caused by the RUBELLA VIRUS. The virus enters the respiratory tract via airborne droplet and spreads to the LYMPHATIC SYSTEM."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Rubella IgM",
+      "type": "T047",
+      "umls_id": "C0035920",
+      "score": 0.8213500380516052,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute infectious disease caused by the RUBELLA VIRUS. The virus enters the respiratory tract via airborne droplet and spreads to the LYMPHATIC SYSTEM."
+    },
+    {
+      "text": "negative",
+      "type": "T033",
+      "umls_id": "C0205160",
+      "score": 0.9770849347114563,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>An absence finding of the specified component / analyte, organism or clinical sign based on the established threshold of the performed test or procedure.</p><p>\\[Note: Negative does not necessarily imply the complete absence of the specified item.\\]</p>"
+    },
+    {
+      "text": "Rubella IgG",
+      "type": "T047",
+      "umls_id": "C0035920",
+      "score": 0.8213500380516052,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute infectious disease caused by the RUBELLA VIRUS. The virus enters the respiratory tract via airborne droplet and spreads to the LYMPHATIC SYSTEM."
+    },
+    {
+      "text": "Rubella IgG",
+      "type": "T047",
+      "umls_id": "C0035920",
+      "score": 0.8213500380516052,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute infectious disease caused by the RUBELLA VIRUS. The virus enters the respiratory tract via airborne droplet and spreads to the LYMPHATIC SYSTEM."
+    },
+    {
+      "text": "Rubella IgG",
+      "type": "T047",
+      "umls_id": "C0035920",
+      "score": 0.8213500380516052,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute infectious disease caused by the RUBELLA VIRUS. The virus enters the respiratory tract via airborne droplet and spreads to the LYMPHATIC SYSTEM."
+    },
+    {
+      "text": "avidity",
+      "type": "T080",
+      "umls_id": "C1510996",
+      "score": 0.9861502051353455,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Strength of binding, usually of a small molecule with multiple binding sites by a larger, particularly the binding of a complex antigen by an antibody."
+    },
+    {
+      "text": "high",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9880231022834778,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "Rubella IgG",
+      "type": "T047",
+      "umls_id": "C0035920",
+      "score": 0.8213500380516052,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute infectious disease caused by the RUBELLA VIRUS. The virus enters the respiratory tract via airborne droplet and spreads to the LYMPHATIC SYSTEM."
+    },
+    {
+      "text": "avidity",
+      "type": "T080",
+      "umls_id": "C1510996",
+      "score": 0.9861502051353455,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Strength of binding, usually of a small molecule with multiple binding sites by a larger, particularly the binding of a complex antigen by an antibody."
+    },
+    {
+      "text": "high",
+      "type": "T080",
+      "umls_id": "C0205250",
+      "score": 0.9880231022834778,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An elevated level or position or degree; greater than normal in degree or intensity or amount."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "22-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

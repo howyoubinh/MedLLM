@@ -1,0 +1,411 @@
+{
+  "original_data": {
+    "question": "A 70-year-old man presents to the Emergency Department after 3 days of shortness of breath, orthopnea, and lower limb edema. His personal history is significant for a myocardial infarction 6 years ago that required revascularization and hypertension. His medication consists of simvastatin and lisinopril.  In the ED, he has a blood pressure of 100/80 mm Hg, a pulse of 88/min, a respiratory rate of 28/min, and a temperature of 36.5°C (97.7°F). On physical examination, he has jugular vein distention, displaced point of maximal impulse (PMI), an S4-gallop, a holosystolic murmur, and 2+ pitting edema up to the mid calf.  He is started on furosemide, carvedilol, and oxygen therapy. After 6-hours of continued therapy, his blood pressure remains low, and his serum creatinine is found to be 1.9 mg/dL. Which of the following test would be more useful to differentiate between prerenal and intrinsic kidney disease?",
+    "options": {
+      "A": "Sulfosalicylic acid test",
+      "B": "Urine sodium content",
+      "C": "Fractional excretion of urea (FEUrea)",
+      "D": "Nitrates in urine"
+    }
+  },
+  "model_response": "The fractional excretion of sodium (FeNa) is calculated as:\n\nFeNa = (urine Na x serum creatinine) / (serum Na x urinary creatinine) x 100\n\nThe FeNa is helpful in differentiating prerenal azotemia (which has a low urinary sodium because of the action of angiotensin II) from intrinsic renal azotemia (which has a high urinary sodium because of tubular damage).\n\nA value below 1% suggests prerenal azotemia; a value above 2% suggests intrinsic renal azotemia.\n\nThe other tests listed are used primarily in the diagnosis of obstructive uropathy.\n\nThe sulfosalicylic acid test measures the ability of the kidney to excrete a filtered load of sulfosalicylic acid. A load of 25 mg of sulfosalicylic acid is given and the urine and serum are collected at 1 and 3 hours. The test is positive if the urinary excretion of sulfosalicylic acid is less than 40% of the filtered load in 3 hours. This test is rarely used because it is cumbersome to perform and has been superseded by the creatinine clearance.\n\nThe urine sodium content is useful in differentiating between prerenal azotemia and intrinsic renal azotemia. In prerenal azotemia, the urine sodium content is below 20 mEq/L because of the effect of angiotensin II to enhance sodium reabsorption. In intrinsic renal azotemia, the urine sodium content is above 40 mEq/L because of tubular damage and the inability to reabsorb sodium.\n\nThe urine specific gravity is useful in differentiating between prerenal azotemia and acute tubular necrosis. In prerenal azotemia, the urine specific gravity is above 1.015 because of the effect of angiotensin II to enhance water reabsorption. In acute tubular necrosis, the urine specific gravity is below 1.010 because of the inability of the tubules to reabsorb water.\n\nThe urine osmolality is useful in differentiating between prerenal azotemia and acute tubular necrosis. In prerenal azotemia, the urine osmolality is above 500 mOsm/kg because of the effect of angiotensin II to enhance water reabsorption. In acute tubular necrosis, the urine osmolality is below 350 mOsm/kg because of the inability of the tubules to reabsorb water.\n\nThe urine protein/creatinine ratio is useful in differentiating between prerenal azotemia and acute glomerulonephritis. In prerenal azotemia, the urine protein/creatinine ratio is below 0.2 because of the effect of angiotensin II to enhance the proximal tubular reabsorption of proteins. In acute glomerulonephritis, the urine protein/creatinine ratio is above 0.5 because of the loss of glomerular filtration barrier function.\n\nThe nitrates in urine test is useful in differentiating between prerenal azotemia and acute glomerulonephritis. In prerenal azotemia, the urinary excretion of nitrates is below 20 mg/day because of the effect of angiotensin II to enhance the proximal tubular reabsorption of nitrates. In acute glomerulonephritis, the urinary excretion of nitrates is above 200 mg/day because of the loss of glomerular filtration barrier function.\n\n###Answer: OPTION C IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "Emergency Department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "days",
+      "type": "T079",
+      "umls_id": "C0439228",
+      "score": 0.996391773223877,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day."
+    },
+    {
+      "text": "shortness",
+      "type": "T033",
+      "umls_id": "C0349588",
+      "score": 0.8199767470359802,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Height greater than two standard deviations below the mean of the appropriate reference population for the age and sex of the individual."
+    },
+    {
+      "text": "orthopnea",
+      "type": "T033",
+      "umls_id": "C0085619",
+      "score": 0.9669739603996277,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Breathlessness in the recumbent position."
+    },
+    {
+      "text": "lower limb edema",
+      "type": "T046",
+      "umls_id": "C0239340",
+      "score": 0.9807525277137756,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "An abnormal accumulation of excess fluid in the lower extremity resulting in swelling of the feet and extending upward to the lower leg. [HPO:probinson]"
+    },
+    {
+      "text": "personal history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.979393720626831,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "myocardial infarction",
+      "type": "T047",
+      "umls_id": "C0027051",
+      "score": 0.952881395816803,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "NECROSIS of the MYOCARDIUM caused by an obstruction of the blood supply to the heart (CORONARY CIRCULATION)."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "revascularization",
+      "type": "T061",
+      "umls_id": "C0581603",
+      "score": 0.9615077972412109,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "procedures performed on the blood vessels with the intent of restoring the circulation or integrity of the blood vessels and to improve circulation deficiencies due to disease, injuries, or deformities."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "simvastatin",
+      "type": "T109",
+      "umls_id": "C0074554",
+      "score": 0.9242107272148132,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A derivative of LOVASTATIN and potent competitive inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase (HYDROXYMETHYLGLUTARYL COA REDUCTASES), which is the rate-limiting enzyme in cholesterol biosynthesis. It may also interfere with steroid hormone production. Due to the induction of hepatic LDL RECEPTORS, it increases breakdown of LDL CHOLESTEROL."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "ED",
+      "type": "T047",
+      "umls_id": "C0242350",
+      "score": 0.953866720199585,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "The inability in the male to have a PENILE ERECTION due to psychological or organ dysfunction."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "jugular vein distention",
+      "type": "T033",
+      "umls_id": "C1167958",
+      "score": 0.956681489944458,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "maximal impulse",
+      "type": "T033",
+      "umls_id": "C5238618",
+      "score": 0.8767356276512146,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A clinical finding demonstrating the pulsation associated with the contraction of the systemic ventricle. Typically associated with the apex of the heart. (ACC-AHA)"
+    },
+    {
+      "text": "PMI",
+      "type": "T028",
+      "umls_id": "C1417244",
+      "score": 0.991113007068634,
+      "semantic_types": [
+        "T028"
+      ],
+      "definition": null
+    },
+    {
+      "text": "S4-gallop",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "holosystolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.7172870635986328,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "pitting edema",
+      "type": "T033",
+      "umls_id": "C0333243",
+      "score": 0.976106584072113,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling due to excessive accumulation of fluid under the skin defined by a persistent indentation when pressure is applied to the swollen area. Causes include systemic conditions (e.g., heart failure, liver failure, or kidney failure) and local conditions affecting the extremities."
+    },
+    {
+      "text": "mid",
+      "type": "T082",
+      "umls_id": "C0444598",
+      "score": 0.9988245964050293,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "An intermediate part or section; an area that is approximately central within some larger region."
+    },
+    {
+      "text": "calf",
+      "type": "T029",
+      "umls_id": "C0230445",
+      "score": 0.9450731873512268,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The posterior aspect of the lower extremity that extends from the knee to the foot."
+    },
+    {
+      "text": "furosemide",
+      "type": "T109",
+      "umls_id": "C0016860",
+      "score": 0.9867109060287476,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A benzoic-sulfonamide-furan. It is a diuretic with fast onset and short duration that is used for EDEMA and chronic RENAL INSUFFICIENCY."
+    },
+    {
+      "text": "carvedilol",
+      "type": "T109",
+      "umls_id": "C0054836",
+      "score": 0.9759775400161743,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A carbazole and propanol derivative that acts as a non-cardioselective beta blocker and vasodilator. It has blocking activity for ALPHA 1 ADRENERGIC RECEPTORS and, at higher doses, may function as a blocker of CALCIUM CHANNELS; it also has antioxidant properties. Carvedilol is used in the treatment of HYPERTENSION; ANGINA PECTORIS; and HEART FAILURE. It can also reduce the risk of death following MYOCARDIAL INFARCTION."
+    },
+    {
+      "text": "oxygen therapy",
+      "type": "T061",
+      "umls_id": "C0184633",
+      "score": 0.9751462340354919,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Inhalation of oxygen aimed at restoring toward normal any pathophysiologic alterations of gas exchange in the cardiopulmonary system, as by the use of a respirator, nasal catheter, tent, chamber, or mask. (From Dorland, 27th ed & Stedman, 25th ed)"
+    },
+    {
+      "text": "therapy",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9839879274368286,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "low",
+      "type": "T080",
+      "umls_id": "C0205251",
+      "score": 0.9944548606872559,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A minimum level or position or degree; less than normal in degree, intensity or amount."
+    },
+    {
+      "text": "serum creatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "test",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9994137287139893,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "prerenal",
+      "type": "T047",
+      "umls_id": "C3854173",
+      "score": 0.7446785569190979,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pre-renal acute kidney injury (AKI), occurs when a sudden reduction in blood flow to the kidney (renal hypoperfusion) causes a loss of kidney function. In pre-renal acute kidney injury, there is nothing wrong with the kidney itself."
+    },
+    {
+      "text": "intrinsic kidney disease",
+      "type": "T047",
+      "umls_id": "C0022658",
+      "score": 0.7479153275489807,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Pathological processes of the KIDNEY or its component tissues."
+    },
+    {
+      "text": "70-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

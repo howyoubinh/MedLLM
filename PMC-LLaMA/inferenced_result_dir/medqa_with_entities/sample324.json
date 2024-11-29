@@ -1,0 +1,446 @@
+{
+  "original_data": {
+    "question": "A 55-year-old man is brought to the emergency department with altered mental status. The patient is in acute distress and cannot provide history due to disorientation. Temperature is 38.7°C (101.6°F), blood pressure is 80/50 mm Hg, pulse is 103/min, respiratory rate is 22/min, and BMI is 20 kg/m2. On examination, his sclera and skin are icteric. On abdominal examination, the patient moans with deep palpation to his right upper quadrant.\nLaboratory test\nComplete blood count\nHemoglobin 14.5 g/dL\nMCV 88 fl\nLeukocytes 16,500/mm3\nPlatelets 170,000/mm3\nBasic metabolic panel\nSerum Na+ 147 mEq/L\nSerum K+ 3.8 mEq/L\nSerum Cl- 106 mEq/L\nSerum HCO3- 25 mEq/L\nBUN 30 mg/dL\nSerum creatinine 1.2 mg/dL\nLiver function test\nTotal bilirubin 2.8 mg/dL\nAST 50 U/L\nALT 65 U/L\nALP 180 U/L\nThe patient is treated urgently with intravenous fluid, dopamine, and broad spectrum antibiotics. The patient’s blood pressure improves to 101/70 mm Hg. On ultrasound of the abdomen, the common bile duct is dilated. What is the best next step in the management of this patient?",
+    "options": {
+      "A": "ERCP",
+      "B": "MRCP",
+      "C": "Percutaneous transhepatic cholangiogram",
+      "D": "CT abdomen"
+    }
+  },
+  "model_response": "The patient’s clinical presentation suggests acute cholangitis. The first step in the management of acute cholangitis is fluid resuscitation and antibiotics. The next step is to determine the cause of the obstruction and the location of the obstruction. An abdominal CT scan is not the best next step because it will not provide the anatomic detail needed to plan further intervention. An ERCP, MRCP, or percutaneous transhepatic cholangiogram (PTC) can define the anatomy and the location of the obstruction. An ERCP has the advantage of potentially providing therapy such as sphincterotomy and stone extraction. However, an ERCP is more invasive and carries a higher risk of complications than a MRCP or PTC. Therefore, a MRCP or PTC is often performed prior to an ERCP.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mental status",
+      "type": "T033",
+      "umls_id": "C0278060",
+      "score": 0.982847273349762,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "acute distress",
+      "type": "T041",
+      "umls_id": "C0231303",
+      "score": 0.7816057205200195,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state of physiological or psychological stress that cannot be compensated for by normal adaptive measures."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "disorientation",
+      "type": "T048",
+      "umls_id": "C0009676",
+      "score": 0.9813773036003113,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A mental state characterized by bewilderment, emotional disturbance, lack of clear thinking, and perceptual disorientation."
+    },
+    {
+      "text": "Temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "sclera",
+      "type": "T023",
+      "umls_id": "C0036410",
+      "score": 0.9895656108856201,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The white, opaque, fibrous, outer tunic of the eyeball, covering it entirely excepting the segment covered anteriorly by the cornea. It is essentially avascular but contains apertures for vessels, lymphatics, and nerves. It receives the tendons of insertion of the extraocular muscles and at the corneoscleral junction contains the CANAL OF SCHLEMM. (From Cline et al., Dictionary of Visual Science, 4th ed)"
+    },
+    {
+      "text": "skin",
+      "type": "T031",
+      "umls_id": "C0444099",
+      "score": 0.9756062626838684,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": null
+    },
+    {
+      "text": "icteric",
+      "type": "T184",
+      "umls_id": "C0022346",
+      "score": 0.9580596089363098,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A clinical manifestation of HYPERBILIRUBINEMIA, characterized by the yellowish staining of the SKIN; MUCOUS MEMBRANE; and SCLERA. Clinical jaundice usually is a sign of LIVER dysfunction."
+    },
+    {
+      "text": "abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "moans",
+      "type": "T033",
+      "umls_id": "C0859032",
+      "score": 0.9662611484527588,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "deep palpation",
+      "type": "T060",
+      "umls_id": "C0030247",
+      "score": 0.7771643400192261,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Application of fingers with light pressure to the surface of the body to determine consistence of parts beneath in physical diagnosis; includes palpation for determining the outlines of organs."
+    },
+    {
+      "text": "right upper quadrant",
+      "type": "T029",
+      "umls_id": "C0230177",
+      "score": 0.9763540029525757,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The region of the abdomen that extends from the median plane to the right of the patient, and from the umbilical plane to the right ribcage."
+    },
+    {
+      "text": "Laboratory test",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9882705807685852,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "Complete blood count\nHemoglobin 14.5 g/dL",
+      "type": "T059",
+      "umls_id": "C0009555",
+      "score": 0.7144826054573059,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The determination of the number of red blood cells, white blood cells, and platelets in a biospecimen."
+    },
+    {
+      "text": "MCV",
+      "type": "T061",
+      "umls_id": "C0285131",
+      "score": 0.982687771320343,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A chemotherapy regimen consisting of cisplatin, methotrexate and vinblastine that may be used in the treatment of certain bladder cancers."
+    },
+    {
+      "text": "Leukocytes",
+      "type": "T025",
+      "umls_id": "C0023516",
+      "score": 0.978119432926178,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "White blood cells. These include granular leukocytes (BASOPHILS; EOSINOPHILS; and NEUTROPHILS) as well as non-granular leukocytes (LYMPHOCYTES and MONOCYTES)."
+    },
+    {
+      "text": "Serum creatinine",
+      "type": "T059",
+      "umls_id": "C0201976",
+      "score": 0.9884899854660034,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of creatinine present in a sample of serum."
+    },
+    {
+      "text": "Liver function test",
+      "type": "T059",
+      "umls_id": "C0023901",
+      "score": 0.9760187268257141,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Blood tests that are used to evaluate how well a patient's liver is working and also to help diagnose liver conditions."
+    },
+    {
+      "text": "Total bilirubin",
+      "type": "T109",
+      "umls_id": "C0005437",
+      "score": 0.9635241627693176,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "A bile pigment that is a degradation product of HEME."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "treated",
+      "type": "T169",
+      "umls_id": "C1522326",
+      "score": 0.9924405813217163,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Subject to a process with the aim of readying for some purpose, improving, or remedying a condition."
+    },
+    {
+      "text": "intravenous fluid",
+      "type": "T167",
+      "umls_id": "C1289919",
+      "score": 0.9754502177238464,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A sterile liquid preparation infused into a vein. IV fluid is prescribed as a replacement of fluid, electrolytes, calories, vitamins, and other nutritional substances. In addition, IV fluids are used to administer blood products and medications such as chemotherapy. Examples of IV fluids include Normal Saline, Ringers Solution, and Lactated Ringers Solution. (NCI)"
+    },
+    {
+      "text": "dopamine",
+      "type": "T109",
+      "umls_id": "C0013030",
+      "score": 0.9714474678039551,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T123"
+      ],
+      "definition": "One of the catecholamine NEUROTRANSMITTERS in the brain. It is derived from TYROSINE and is the precursor to NOREPINEPHRINE and EPINEPHRINE. Dopamine is a major transmitter in the extrapyramidal system of the brain, and important in regulating movement. A family of receptors (RECEPTORS, DOPAMINE) mediate its action."
+    },
+    {
+      "text": "broad spectrum",
+      "type": "T081",
+      "umls_id": "C1883073",
+      "score": 0.7640738487243652,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A charted band of wavelengths of electromagnetic vibrations."
+    },
+    {
+      "text": "antibiotics",
+      "type": "T195",
+      "umls_id": "C0003232",
+      "score": 0.9689207077026367,
+      "semantic_types": [
+        "T195"
+      ],
+      "definition": "Substances naturally produced by microorganisms or their derivatives that selectively target microorganisms not humans. Antibiotics kill or inhibit the growth of microorganisms by targeting components of the microbial cell absent from human cells, including bacterial cell walls, cell membrane, and 30S or 50S ribosomal subunits. These substances are used in the treatment of bacterial and other microbial infections."
+    },
+    {
+      "text": "patient’s blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.8171923756599426,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "improves",
+      "type": "T033",
+      "umls_id": "C0184511",
+      "score": 0.971049964427948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Condition changed and/or recovered"
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "ultrasound",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9832558631896973,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "bile duct",
+      "type": "T023",
+      "umls_id": "C0005400",
+      "score": 0.9901331663131714,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The channels that collect and transport the bile secretion from the BILE CANALICULI, the smallest branch of the BILIARY TRACT in the LIVER, through the bile ductules, the bile ducts out the liver, and to the GALLBLADDER for storage."
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

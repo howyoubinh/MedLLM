@@ -1,0 +1,348 @@
+{
+  "original_data": {
+    "question": "A 58-year-old woman presents to the office for routine follow-up. She recently underwent routine screening for bone density due to a history of hypothyroidism. She also has a history of gastroesophageal reflux disease (GERD) that is being treated with a proton-pump inhibitor (PPI) and more recently with a histamine2 receptor antagonist (H2RA), hypertension being treated with a thiazide diuretic, depression being treated with lithium, and hormone replacement therapy. Her results meet the criteria for osteopenia, with a T-score of -1.6. She is concerned about progressive bone loss and the risk of fractures. Which of the following medication classes should be discontinued?",
+    "options": {
+      "A": "Proton-pump inhibitors",
+      "B": "Thiazide diuretics",
+      "C": "Lithium",
+      "D": "Estrogen"
+    }
+  },
+  "model_response": "The thiazide diuretic is the likely culprit in this case. Thiazide diuretics have been shown to cause hypocalcemia and decrease bone density. The PPI, H2RA, and estrogen are all likely to help decrease the risk of osteoporosis. Lithium is not typically associated with osteoporosis.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "office",
+      "type": "T073",
+      "umls_id": "C0442603",
+      "score": 0.964570164680481,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": null
+    },
+    {
+      "text": "follow-up",
+      "type": "T033",
+      "umls_id": "C0589120",
+      "score": 0.9676727652549744,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "routine",
+      "type": "T080",
+      "umls_id": "C0205547",
+      "score": 0.9798492789268494,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "An unvarying or habitual method or procedure."
+    },
+    {
+      "text": "screening",
+      "type": "T060",
+      "umls_id": "C0199230",
+      "score": 0.9829955697059631,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Procedures performed on people to identify those who have NEOPLASMS or PRENEOPLASTIC CONDITIONS."
+    },
+    {
+      "text": "bone density",
+      "type": "T201",
+      "umls_id": "C0005938",
+      "score": 0.9919003844261169,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The amount of mineral per square centimeter of BONE. This is the definition used in clinical practice. Actual bone density would be expressed in grams per milliliter. It is most frequently measured by X-RAY ABSORPTIOMETRY or TOMOGRAPHY, X RAY COMPUTED. Bone density is an important predictor for OSTEOPOROSIS."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "hypothyroidism",
+      "type": "T047",
+      "umls_id": "C0020676",
+      "score": 0.9928620457649231,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A syndrome that results from abnormally low secretion of THYROID HORMONES from the THYROID GLAND, leading to a decrease in BASAL METABOLIC RATE. In its most severe form, there is accumulation of MUCOPOLYSACCHARIDES in the SKIN and EDEMA, known as MYXEDEMA. It may be primary or secondary due to other pituitary disease, or hypothalamic dysfunction."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "gastroesophageal reflux disease",
+      "type": "T047",
+      "umls_id": "C0017168",
+      "score": 0.9646492600440979,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Retrograde flow of gastric juice (GASTRIC ACID) and/or duodenal contents (BILE ACIDS; PANCREATIC JUICE) into the distal ESOPHAGUS, commonly due to incompetence of the LOWER ESOPHAGEAL SPHINCTER."
+    },
+    {
+      "text": "GERD",
+      "type": "T047",
+      "umls_id": "C0017168",
+      "score": 0.9832212328910828,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Retrograde flow of gastric juice (GASTRIC ACID) and/or duodenal contents (BILE ACIDS; PANCREATIC JUICE) into the distal ESOPHAGUS, commonly due to incompetence of the LOWER ESOPHAGEAL SPHINCTER."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "proton-pump inhibitor",
+      "type": "T121",
+      "umls_id": "C0358591",
+      "score": 0.8554118275642395,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Compounds that inhibit H(+)-K(+)-EXCHANGING ATPASE. They are used as ANTI-ULCER AGENTS and sometimes in place of HISTAMINE H2 ANTAGONISTS for GASTROESOPHAGEAL REFLUX."
+    },
+    {
+      "text": "PPI",
+      "type": "T039",
+      "umls_id": "C0871125",
+      "score": 0.9996368288993835,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The process in which a startle magnitude is reduced when the startling stimulus is preceded by a low-intensity prepulse. [GOC:dph, PMID:10341260]"
+    },
+    {
+      "text": "histamine2 receptor antagonist",
+      "type": "T109",
+      "umls_id": "C0019590",
+      "score": 0.9455106854438782,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "Drugs that bind to but do not activate histamine receptors, thereby blocking the actions of histamine or histamine agonists. Classical antihistaminics block the histamine H1 receptors only."
+    },
+    {
+      "text": "H2RA",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "thiazide diuretic",
+      "type": "T121",
+      "umls_id": "C0012802",
+      "score": 0.9702963829040527,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Any benzothiadiazide derivative or other thiazide-like agent with diuretic and anti-hypertensive activity. Thiazide diuretics inhibit the sodium-chloride transporter in the distal tubule in the kidneys, thereby suppressing sodium and chloride reabsorption from the distal convoluted tubules (DCT) and increasing the excretion of sodium, chloride, potassium and water. In addition, thiazide diuretics decrease excretion of calcium and uric acid. These agents cause vasodilation possibly by activating calcium-activated potassium channels in vascular smooth muscle and inhibiting various carbonic anhydrases in vascular tissue."
+    },
+    {
+      "text": "depression",
+      "type": "T048",
+      "umls_id": "C0011570",
+      "score": 0.9696047902107239,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "Depressive states usually of moderate intensity in contrast with MAJOR DEPRESSIVE DISORDER present in neurotic and psychotic disorders."
+    },
+    {
+      "text": "treated with",
+      "type": "T061",
+      "umls_id": "C0332293",
+      "score": 0.9946107864379883,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "lithium",
+      "type": "T121",
+      "umls_id": "C0023870",
+      "score": 0.9728432297706604,
+      "semantic_types": [
+        "T121",
+        "T196"
+      ],
+      "definition": "An element in the alkali metals family. It has the atomic symbol Li, atomic number 3, and atomic weight [6.938; 6.997]. Salts of lithium are used in treating BIPOLAR DISORDER."
+    },
+    {
+      "text": "hormone replacement therapy",
+      "type": "T061",
+      "umls_id": "C0282402",
+      "score": 0.9796887636184692,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Therapeutic use of hormones to alleviate the effects of hormone deficiency."
+    },
+    {
+      "text": "results",
+      "type": "T034",
+      "umls_id": "C0456984",
+      "score": 0.8216436505317688,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "The result of a laboratory, radiologic, or other clinical test performed to determine the presence, absence, or degree of a condition."
+    },
+    {
+      "text": "criteria",
+      "type": "T078",
+      "umls_id": "C0243161",
+      "score": 0.9772256016731262,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "That which constitutes a standard from which a judgment can be established, a reference point against which other things can be evaluated, or a basis for comparison."
+    },
+    {
+      "text": "osteopenia",
+      "type": "T047",
+      "umls_id": "C0029453",
+      "score": 0.9836666584014893,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Decreased calcification or density of bone tissue."
+    },
+    {
+      "text": "T-score",
+      "type": "T081",
+      "umls_id": "C3854607",
+      "score": 0.9699141979217529,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A method for converting an individual score into a standard form. While similar to a z-score, t-score is used when the conversion is made without knowledge of the population standard deviation and mean."
+    },
+    {
+      "text": "progressive",
+      "type": "T169",
+      "umls_id": "C0205329",
+      "score": 0.9775277972221375,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Advancing in extent or severity."
+    },
+    {
+      "text": "bone loss",
+      "type": "T047",
+      "umls_id": "C0029453",
+      "score": 0.9839051961898804,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Decreased calcification or density of bone tissue."
+    },
+    {
+      "text": "risk",
+      "type": "T078",
+      "umls_id": "C0035647",
+      "score": 0.9762120842933655,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The probability that an event will occur. It encompasses a variety of measures of the probability of a generally unfavorable outcome."
+    },
+    {
+      "text": "fractures",
+      "type": "T037",
+      "umls_id": "C0016658",
+      "score": 0.9890090227127075,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "A traumatic injury to the bone in which the continuity of the bone is broken."
+    },
+    {
+      "text": "medication classes",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.7561275362968445,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "discontinued",
+      "type": "T033",
+      "umls_id": "C1444662",
+      "score": 0.9375357031822205,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "To stop or end, permanently or temporarily."
+    },
+    {
+      "text": "58-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

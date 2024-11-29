@@ -1,0 +1,467 @@
+{
+  "original_data": {
+    "question": "An 81-year-old woman is brought to the emergency room by her son after witnessing the patient fall and hit her head. The son reports that the patient was in her usual state of health until she complained of chest palpitations. This startled her while she was climbing down the stairs and lead to a fall. Past medical history is significant for hypertension and atrial fibrillation. Medications are lisinopril, metoprolol, and warfarin. Temperature is 99°F (37.2°C), blood pressure is 152/96 mmHg, pulse is 60/min, respirations are 12/min, and pulse oximetry is 98% on room air. On physical examination, she is disoriented and at times difficult to arouse, the left pupil is 6 mm and non-reactive to light, and the right pupil is 2 mm and reactive to light. A right-sided visual field defect is appreciated on visual field testing. There is 1/5 strength on the right upper and lower extremity; as well as 5/5 strength in the left upper and lower extremity. A computerized tomography (CT) scan of the head is shown. Which of the following most likely explains this patient’s symptoms?",
+    "options": {
+      "A": "Herniation of the uncus",
+      "B": "Herniation of the cingulate gyrus",
+      "C": "Occlusion of the basilar artery",
+      "D": "Occlusion of the anterior spinal artery"
+    }
+  },
+  "model_response": "The CT scan demonstrates subfalcine herniation with medial displacement of the right middle cerebral artery (MCA) and cingulate gyrus. The uncus and temporal lobe are displaced under the falx cerebri. Compression of the anterior communicating artery and the adjacent right cerebral artery may lead to ischemia of the ipsilateral frontal lobe and the contralateral eye fields, resulting in the pupillary abnormalities and visual field defect. The uncus may compress the ipsilateral third nerve and its innervated pupil and the contralateral cerebral peduncle, producing the hemiparesis. Occlusion of the basilar artery would lead to a different set of deficits. Occlusion of the anterior spinal artery would lead to a different set of deficits. Occlusion of the posterior cerebral artery would lead to a different set of deficits.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "woman",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9470216035842896,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "son",
+      "type": "T099",
+      "umls_id": "C0037683",
+      "score": 0.9721920490264893,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male human offspring."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "fall",
+      "type": "T033",
+      "umls_id": "C0085639",
+      "score": 0.9822764992713928,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sudden movement downward, usually resulting in injury."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "son reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.8111112117767334,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "complained",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.7599999308586121,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "chest palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.8103873133659363,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "climbing",
+      "type": "T033",
+      "umls_id": "C0561942",
+      "score": 0.9798669219017029,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "stairs",
+      "type": "T033",
+      "umls_id": "C4300351",
+      "score": 0.9850608706474304,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fall",
+      "type": "T033",
+      "umls_id": "C0085639",
+      "score": 0.9822764992713928,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A sudden movement downward, usually resulting in injury."
+    },
+    {
+      "text": "medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "hypertension",
+      "type": "T047",
+      "umls_id": "C0020538",
+      "score": 0.9838637709617615,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Persistently high systemic arterial BLOOD PRESSURE. Based on multiple readings (BLOOD PRESSURE DETERMINATION), hypertension is currently defined as when SYSTOLIC PRESSURE is consistently greater than 140 mm Hg or when DIASTOLIC PRESSURE is consistently 90 mm Hg or more."
+    },
+    {
+      "text": "atrial fibrillation",
+      "type": "T047",
+      "umls_id": "C0004238",
+      "score": 0.968174934387207,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormal cardiac rhythm that is characterized by rapid, uncoordinated firing of electrical impulses in the upper chambers of the heart (HEART ATRIA). In such case, blood cannot be effectively pumped into the lower chambers of the heart (HEART VENTRICLES). It is caused by abnormal impulse generation."
+    },
+    {
+      "text": "Medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "lisinopril",
+      "type": "T116",
+      "umls_id": "C0065374",
+      "score": 0.9932959675788879,
+      "semantic_types": [
+        "T116",
+        "T121"
+      ],
+      "definition": "One of the ANGIOTENSIN-CONVERTING ENZYME INHIBITORS (ACE inhibitors), orally active, that has been used in the treatment of hypertension and congestive heart failure."
+    },
+    {
+      "text": "metoprolol",
+      "type": "T109",
+      "umls_id": "C0025859",
+      "score": 0.9727950692176819,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A selective adrenergic beta-1 blocking agent that is commonly used to treat ANGINA PECTORIS; HYPERTENSION; and CARDIAC ARRHYTHMIAS."
+    },
+    {
+      "text": "warfarin",
+      "type": "T109",
+      "umls_id": "C0043031",
+      "score": 0.9623537063598633,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "An anticoagulant that acts by inhibiting the synthesis of vitamin K-dependent coagulation factors. Warfarin is indicated for the prophylaxis and/or treatment of venous thrombosis and its extension, pulmonary embolism, and atrial fibrillation with embolization. It is also used as an adjunct in the prophylaxis of systemic embolism after myocardial infarction. Warfarin is also used as a rodenticide."
+    },
+    {
+      "text": "Temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "pulse oximetry",
+      "type": "T060",
+      "umls_id": "C0034108",
+      "score": 0.9781084060668945,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A non-invasive method that provides estimates of arterial oxyhemoglobin saturation by utilizing selected wavelengths of light to determine the saturation of oxyhemoglobin."
+    },
+    {
+      "text": "room air",
+      "type": "T197",
+      "umls_id": "C3846005",
+      "score": 0.9899477958679199,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Unmodified air as existing in the immediate surroundings."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "disoriented",
+      "type": "T184",
+      "umls_id": "C0233407",
+      "score": 0.990799069404602,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": null
+    },
+    {
+      "text": "arouse",
+      "type": "T041",
+      "umls_id": "C0043012",
+      "score": 0.7794264554977417,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A state in which there is an enhanced potential for sensitivity and an efficient responsiveness to external stimuli."
+    },
+    {
+      "text": "left pupil",
+      "type": "T023",
+      "umls_id": "C0229187",
+      "score": 0.9668468236923218,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "non-reactive",
+      "type": "T080",
+      "umls_id": "C1295728",
+      "score": 0.9743540287017822,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "<p>An absence finding used to indicate that the specified component / analyte did not react measurably with the reagent.</p>"
+    },
+    {
+      "text": "right pupil",
+      "type": "T023",
+      "umls_id": "C0229186",
+      "score": 0.9682817459106445,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "right-sided visual field defect",
+      "type": "T033",
+      "umls_id": "C3887875",
+      "score": 0.7573947906494141,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An absolute or relative reduction in the extent of the normal field of vision."
+    },
+    {
+      "text": "visual field testing",
+      "type": "T060",
+      "umls_id": "C0042825",
+      "score": 0.9667850136756897,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Method of measuring and mapping the scope of vision, from central to peripheral of each eye."
+    },
+    {
+      "text": "strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.9718086123466492,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "right upper",
+      "type": "T023",
+      "umls_id": "C1261074",
+      "score": 0.7881917953491211,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The lobe of the right lung, situated above the horizontal fissure, which includes the apex."
+    },
+    {
+      "text": "extremity",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9978713989257812,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "strength",
+      "type": "T081",
+      "umls_id": "C0237897",
+      "score": 0.9718086123466492,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Degree of intensity or force in regard to a physical activity."
+    },
+    {
+      "text": "left upper",
+      "type": "T023",
+      "umls_id": "C0230347",
+      "score": 0.8117914199829102,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the upper extremity between the shoulder and the wrist and located on the left side of the body."
+    },
+    {
+      "text": "computerized tomography",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9762745499610901,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "head",
+      "type": "T029",
+      "umls_id": "C0018670",
+      "score": 0.9931519627571106,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs."
+    },
+    {
+      "text": "patient’s symptoms",
+      "type": "T033",
+      "umls_id": "C1317600",
+      "score": 0.9509387612342834,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "81-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

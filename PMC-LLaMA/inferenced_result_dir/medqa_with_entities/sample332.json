@@ -1,0 +1,442 @@
+{
+  "original_data": {
+    "question": "A 55-year-old man presents to the emergency department with complaints of nausea, vomiting, palpitations, and dizziness, which have lasted for the past 3 hours. He was diagnosed with heart failure 1 year ago. During his last visit to his primary care physician, he was doing well and the lab results were normal. He reports that he has been taking low-dose aspirin and digoxin regularly for 1 year, and verapamil was recently added to prevent his frequent migraine headaches. An electrocardiogram is performed urgently and shows paroxysmal atrial tachycardia with block. Suspecting digitalis toxicity, the emergency medicine physician sends blood to the lab for a serum digoxin level, which is 3.7 ng/mL (therapeutic range: 0.8–2 ng/mL). Which of the following mechanisms most likely explains the development of digitalis toxicity in this patient?",
+    "options": {
+      "A": "Drug-induced hypokalemia",
+      "B": "Increased intestinal absorption of digoxin",
+      "C": "Inhibition of CYP 3A4 isoenzyme",
+      "D": "Inhibition of P-glycoprotein"
+    }
+  },
+  "model_response": "Ans. D. Inhibition of P-glycoproteinDigitalis toxicity is an adverse effect of digoxin, which can be caused by drug interactions that inhibit the P-glycoprotein efflux pump responsible for the elimination of digoxin. Inhibition of CYP 3A4 would increase the metabolism of digoxin and lower serum levels of digoxin. Drug-induced hypokalemia can precipitate digitalis toxicity, but this is not the most likely mechanism in this case because the patient was doing well on his medications at his last visit to the primary care physician. An increase in intestinal absorption of digoxin would increase serum levels of digoxin, not toxicity.\n\n###COMMENT: This question is a bit of a trap because the most likely mechanism of toxicity is inhibition of P-glycoprotein, which is not provided among the options. The other mechanisms listed are less likely causes of toxicity.\n\n###Answer: OPTION D IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "complaints",
+      "type": "T184",
+      "umls_id": "C5441521",
+      "score": 0.9798144698143005,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A symptom or problem for which a patient seeks medical attention."
+    },
+    {
+      "text": "nausea",
+      "type": "T184",
+      "umls_id": "C0027497",
+      "score": 0.9951015710830688,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An unpleasant sensation in the stomach usually accompanied by the urge to vomit. Common causes are early pregnancy, sea and motion sickness, emotional stress, intense pain, food poisoning, and various enteroviruses."
+    },
+    {
+      "text": "vomiting",
+      "type": "T184",
+      "umls_id": "C0042963",
+      "score": 0.9573907256126404,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The forcible expulsion of the contents of the STOMACH through the MOUTH."
+    },
+    {
+      "text": "palpitations",
+      "type": "T033",
+      "umls_id": "C0030252",
+      "score": 0.9645538926124573,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "An unpleasant sensation of irregular and/or forceful beating of the heart."
+    },
+    {
+      "text": "dizziness",
+      "type": "T184",
+      "umls_id": "C0012833",
+      "score": 0.9417304992675781,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An imprecise term which may refer to a sense of spatial disorientation, motion of the environment, or lightheadedness."
+    },
+    {
+      "text": "hours",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9980335831642151,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "heart failure",
+      "type": "T047",
+      "umls_id": "C0018801",
+      "score": 0.9767115712165833,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Inability of the heart to pump blood at an adequate rate to meet tissue metabolic requirements. Clinical symptoms of heart failure include: unusual dyspnea on light exertion, recurrent dyspnea occurring in the supine position, fluid retention or rales, jugular venous distension, pulmonary edema on physical exam, or pulmonary edema on chest x-ray presumed to be cardiac dysfunction."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "visit",
+      "type": "T054",
+      "umls_id": "C0545082",
+      "score": 0.9970309138298035,
+      "semantic_types": [
+        "T054"
+      ],
+      "definition": "The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement."
+    },
+    {
+      "text": "primary care physician",
+      "type": "T097",
+      "umls_id": "C0033131",
+      "score": 0.9911936521530151,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Providers of initial care for patients. These PHYSICIANS refer patients when appropriate for secondary or specialist care."
+    },
+    {
+      "text": "doing",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "lab results",
+      "type": "T170",
+      "umls_id": "C3244125",
+      "score": 0.9653475880622864,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>Lab Results Attachment"
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "low-dose",
+      "type": "T062",
+      "umls_id": "C1708745",
+      "score": 0.9430933594703674,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A reduced quantity of a therapeutic agent prescribed to be taken at one time or at stated intervals."
+    },
+    {
+      "text": "aspirin",
+      "type": "T109",
+      "umls_id": "C0004057",
+      "score": 0.9810118675231934,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "The prototypical analgesic used in the treatment of mild to moderate pain. It has anti-inflammatory and antipyretic properties and acts as an inhibitor of cyclooxygenase which results in the inhibition of the biosynthesis of prostaglandins. Aspirin also inhibits platelet aggregation and is used in the prevention of arterial and venous thrombosis. (From Martindale, The Extra Pharmacopoeia, 30th ed, p5)"
+    },
+    {
+      "text": "digoxin",
+      "type": "T109",
+      "umls_id": "C0012265",
+      "score": 0.9458242058753967,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone DIGOXIGENIN. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in ATRIAL FIBRILLATION and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)"
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "verapamil",
+      "type": "T109",
+      "umls_id": "C0042523",
+      "score": 0.9819968938827515,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A calcium channel blocker that is a class IV anti-arrhythmia agent."
+    },
+    {
+      "text": "prevent",
+      "type": "T121",
+      "umls_id": "C0309872",
+      "score": 0.9771769642829895,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "brand of veterinary medicine"
+    },
+    {
+      "text": "migraine",
+      "type": "T047",
+      "umls_id": "C0149931",
+      "score": 0.9632647037506104,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A common, severe type of vascular headache often associated with increased sympathetic activity, resulting in nausea, vomiting, and light sensitivity."
+    },
+    {
+      "text": "headaches",
+      "type": "T184",
+      "umls_id": "C0018681",
+      "score": 0.9839891791343689,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The symptom of PAIN in the cranial region. It may be an isolated benign occurrence or manifestation of a wide variety of HEADACHE DISORDERS."
+    },
+    {
+      "text": "electrocardiogram",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.9919003248214722,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "paroxysmal",
+      "type": "T079",
+      "umls_id": "C0205311",
+      "score": 0.9596948027610779,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "atrial tachycardia",
+      "type": "T047",
+      "umls_id": "C0546959",
+      "score": 0.9714426398277283,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A disorder characterized by an electrocardiographic finding of an organized, regular atrial rhythm with atrial rate between 101 and 240 beats per minute. The P wave morphology must be distinct from the sinus P wave morphology. (CDISC)"
+    },
+    {
+      "text": "block",
+      "type": "T033",
+      "umls_id": "C0028778",
+      "score": 0.9955968856811523,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blockage of the normal flow of the contents of an anatomical passageway."
+    },
+    {
+      "text": "digitalis",
+      "type": "T002",
+      "umls_id": "C0012252",
+      "score": 0.9740737080574036,
+      "semantic_types": [
+        "T002"
+      ],
+      "definition": "A genus of toxic herbaceous Eurasian plants of the Plantaginaceae which yield cardiotonic DIGITALIS GLYCOSIDES. The most useful species are Digitalis lanata and D. purpurea."
+    },
+    {
+      "text": "toxicity",
+      "type": "T080",
+      "umls_id": "C0040539",
+      "score": 0.9865080118179321,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with drugs and chemicals for experimental human and animal studies of their ill effects. It includes studies to determine the margin of safety or the reactions accompanying administration at various dose levels. It is used also for exposure to environmental agents. Poisoning should be considered for life-threatening exposure to environmental agents."
+    },
+    {
+      "text": "emergency medicine",
+      "type": "T091",
+      "umls_id": "C0013964",
+      "score": 0.9803152084350586,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medicine concerned with the evaluation and initial treatment of urgent and emergent medical problems, such as those caused by accidents, trauma, sudden illness, poisoning, or disasters. Emergency medical care can be provided at the hospital or at sites outside the medical facility."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "lab",
+      "type": "T073",
+      "umls_id": "C0022877",
+      "score": 0.9913856387138367,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped to carry out investigative procedures."
+    },
+    {
+      "text": "serum digoxin",
+      "type": "T109",
+      "umls_id": "C0012265",
+      "score": 0.7223852276802063,
+      "semantic_types": [
+        "T109",
+        "T121"
+      ],
+      "definition": "A cardiotonic glycoside obtained mainly from Digitalis lanata; it consists of three sugars and the aglycone DIGOXIGENIN. Digoxin has positive inotropic and negative chronotropic activity. It is used to control ventricular rate in ATRIAL FIBRILLATION and in the management of congestive heart failure with atrial fibrillation. Its use in congestive heart failure and sinus rhythm is less certain. The margin between toxic and therapeutic doses is small. (From Martindale, The Extra Pharmacopoeia, 30th ed, p666)"
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "therapeutic range",
+      "type": "T034",
+      "umls_id": "C0460097",
+      "score": 0.9770610332489014,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mechanisms",
+      "type": "T169",
+      "umls_id": "C0441712",
+      "score": 0.970884382724762,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The means by which an effect is obtained."
+    },
+    {
+      "text": "development",
+      "type": "T169",
+      "umls_id": "C0243107",
+      "score": 0.9674524664878845,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "digitalis",
+      "type": "T002",
+      "umls_id": "C0012252",
+      "score": 0.9740737080574036,
+      "semantic_types": [
+        "T002"
+      ],
+      "definition": "A genus of toxic herbaceous Eurasian plants of the Plantaginaceae which yield cardiotonic DIGITALIS GLYCOSIDES. The most useful species are Digitalis lanata and D. purpurea."
+    },
+    {
+      "text": "toxicity",
+      "type": "T080",
+      "umls_id": "C0040539",
+      "score": 0.9865080118179321,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Used with drugs and chemicals for experimental human and animal studies of their ill effects. It includes studies to determine the margin of safety or the reactions accompanying administration at various dose levels. It is used also for exposure to environmental agents. Poisoning should be considered for life-threatening exposure to environmental agents."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "55-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

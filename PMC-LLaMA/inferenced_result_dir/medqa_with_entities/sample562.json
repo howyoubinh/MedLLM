@@ -1,0 +1,207 @@
+{
+  "original_data": {
+    "question": "A 60-year-old man with a long-standing history of chronic hepatitis C infection comes to the emergency department because of abdominal distention and scleral icterus for the past month. His heart rate is 76/min, respiratory rate is 14/min, temperature is 36.0°C (96.8°F), and blood pressure is 110/86 mm Hg. Physical examination show signs suggestive of liver cirrhosis. Which of the following signs is a direct result of hyperestrinism in cirrhotic patients?",
+    "options": {
+      "A": "Coagulopathy",
+      "B": "Gynecomastia",
+      "C": "Jaundice",
+      "D": "Caput medusae"
+    }
+  },
+  "model_response": "The presence of gynecomastia in male cirrhotics is due to the metabolic effects of estrogens, which are produced in increased amounts because of the liver disease. The hyperestrinism is due to the failure of the liver to metabolize estrogens and leads to an increase in the estrogen/androgen ratio. The other listed choices are not related to the hyperestrinism of cirrhosis. Coagulopathy is related to the decreased synthesis of clotting factors by the liver. Jaundice is due to the failure of the liver to metabolize bilirubin. Caput-medusae is related to the poal hypeension that develops as a consequence of cirrhosis.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "long-standing history",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "chronic hepatitis C infection",
+      "type": "T047",
+      "umls_id": "C0524909",
+      "score": 0.8509432077407837,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "INFLAMMATION of the LIVER in humans caused by HEPATITIS B VIRUS lasting six months or more. It is primarily transmitted by parenteral exposure, such as transfusion of contaminated blood or blood products, but can also be transmitted via sexual or intimate personal contact."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "abdominal distention",
+      "type": "T033",
+      "umls_id": "C0000731",
+      "score": 0.9700733423233032,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Swelling of the abdomen resulting from excessive food intake, malnutrition, liver disease, primary abdominal tumors, and tumors metastatic to the abdominal cavity."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "heart rate",
+      "type": "T201",
+      "umls_id": "C0018810",
+      "score": 0.9919692277908325,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The number of times the HEART VENTRICLES contract per unit of time, usually per minute."
+    },
+    {
+      "text": "respiratory rate",
+      "type": "T201",
+      "umls_id": "C0231832",
+      "score": 0.9880747199058533,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The rate of breathing (inhalation and exhalation) measured within in a unit time, usually expressed as breaths per minute."
+    },
+    {
+      "text": "temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "liver cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023890",
+      "score": 0.9737331867218018,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Liver disease in which the normal microcirculation, the gross vascular anatomy, and the hepatic architecture have been variably destroyed and altered with fibrous septa surrounding regenerated or regenerating parenchymal nodules."
+    },
+    {
+      "text": "signs",
+      "type": "T169",
+      "umls_id": "C0220912",
+      "score": 0.9657076001167297,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "hyperestrinism",
+      "type": "T047",
+      "umls_id": "C0154209",
+      "score": 0.7288709878921509,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Abnormally high level of estrogen."
+    },
+    {
+      "text": "cirrhotic",
+      "type": "T080",
+      "umls_id": "C0439686",
+      "score": 0.9773474931716919,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patients",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9821396470069885,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "60-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

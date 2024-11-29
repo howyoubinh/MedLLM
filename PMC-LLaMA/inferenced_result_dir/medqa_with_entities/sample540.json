@@ -1,0 +1,365 @@
+{
+  "original_data": {
+    "question": "A 21-year-old man is brought to the emergency department by his mother after being found lying unconscious next to a bottle of pills. The patient’s mother mentions that he has been diagnosed with major depressive disorder 3 years ago for which he was taking a medication that resulted in only a slight improvement in his symptoms. She says he still found it difficult to concentrate on his studies and did not participate in any social events in college. He didn’t have many friends and was often found sitting alone in his room. He has also threatened to take his life on several occasions, but she did not think he was serious. While recording his vital signs, the patient goes into a coma. His ECG shows a QT interval of 450 milliseconds. Which of the following medications did this patient most likely overdose on?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Sertraline",
+      "C": "Venlafaxine",
+      "D": "Clomipramine"
+    }
+  },
+  "model_response": "{'A': 'Bupropion is contraindicated in patients with a history of seizures or with eating disorders such as bulimia or anorexia. Bupropion should always be used in combination with a smoking cessation program. Bupropion is metabolized in the liver and excreted by the kidneys. The elimination half-life is 10 to 14 hours for non-smokers but only 8 hours for smokers. Bupropion is an effective antidepressant that is used in the treatment of major depressive disorder as well as seasonal affective disorder. Bupropion is also used as an aid in smoking cessation. Bupropion is an atypical antidepressant because it acts primarily as a norepinephrine and dopamine reuptake inhibitor. The most common adverse effects associated with bupropion are insomnia, dry mouth, headache, dizziness, tremor, sweating, and nausea. The use of bupropion has been associated with the development of seizures. The risk of seizures is increased in patients who have a history of seizures or who are taking other medications that lower the seizure threshold. Other adverse effects associated with bupropion include psychiatric symptoms such as hallucinations, agitation, and confusion. Bupropion can also cause activation of mania or hypomania in patients with an underlying bipolar disorder. Bupropion should be used cautiously in patients with a history of eating disorders or with symptoms of anxiety. Bupropion should be used with caution in patients with hepatic or renal impairment. Bupropion should not be taken during pregnancy because it has been shown to increase the risk of congenital malformations. Bupropion is contraindicated in patients with a history of seizures or with eating disorders such as bulimia or anorexia. Bupropion should always be used in combination with a smoking cessation program. Bupropion is metabolized in the liver and excreted by the kidneys. The elimination half-life is 10 to 14 hours for non-smokers but only 8 hours for smokers. Bupropion is an effective antidepressant that is used in the treatment of major depressive disorder as well as seasonal affective disorder. Bupropion is also used as an aid in smoking cessation. Bupropion is an atypical antidepressant because it acts primarily as a norepinephrine and dopamine reuptake inhibitor. The most common adverse effects associated with bupropion are insomnia, dry mouth, headache, dizziness, tremor, sweating, and nausea. The use of bupropion has been associated with the development of seizures. The risk of seizures is increased in patients who have a history of seizures or who are taking other medications that lower the seizure threshold. Other adverse effects associated with bupropion include psychiatric symptoms such as hallucinations, agitation, and confusion. Bupropion can also cause activation of mania or hypomania in patients with an underlying bipolar disorder. Bupropion should be used cautiously in patients with a history of eating disorders or with symptoms of anxiety. Bupropion should be used with caution in patients with hepatic or renal impairment. Bupropion should not be taken during pregnancy because it has been shown to increase the risk of congenital malformations.\n\n'B': 'Sertraline'\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "lying",
+      "type": "T082",
+      "umls_id": "C0038846",
+      "score": 0.9385496973991394,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The posture of an individual lying face up."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "bottle of",
+      "type": "T073",
+      "umls_id": "C0179376",
+      "score": 0.8416134715080261,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "A vessel with a narrow neck designed to accept a specific closure."
+    },
+    {
+      "text": "pills",
+      "type": "T122",
+      "umls_id": "C0994475",
+      "score": 0.9942100644111633,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A solid composed of a small, round object composed of active and/or inert ingredient(s)."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "mother",
+      "type": "T099",
+      "umls_id": "C0026591",
+      "score": 0.9838907718658447,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Female parents, human or animal."
+    },
+    {
+      "text": "mentions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "diagnosed",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.982937216758728,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "depressive disorder",
+      "type": "T048",
+      "umls_id": "C0011581",
+      "score": 0.9825969338417053,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "An affective disorder manifested by either a dysphoric mood or loss of interest or pleasure in usual activities. The mood disturbance is prominent and relatively persistent."
+    },
+    {
+      "text": "years",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9882411360740662,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "medication",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.9858695864677429,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "improvement",
+      "type": "T077",
+      "umls_id": "C2986411",
+      "score": 0.9585268497467041,
+      "semantic_types": [
+        "T077"
+      ],
+      "definition": "A condition superior to an earlier condition."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "says",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "concentrate",
+      "type": "T122",
+      "umls_id": "C1880165",
+      "score": 0.9880443215370178,
+      "semantic_types": [
+        "T122"
+      ],
+      "definition": "A solution or suspension composed of active and/or inert ingredient(s) with increased strength in a reduced volume, which is usually diluted prior to administration."
+    },
+    {
+      "text": "studies",
+      "type": "T062",
+      "umls_id": "C0947630",
+      "score": 0.9763050079345703,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": null
+    },
+    {
+      "text": "participate",
+      "type": "T169",
+      "umls_id": "C0679823",
+      "score": 0.8213852047920227,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The act of taking part in an activity."
+    },
+    {
+      "text": "social events",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "college",
+      "type": "T073",
+      "umls_id": "C0557806",
+      "score": 0.9769022464752197,
+      "semantic_types": [
+        "T073"
+      ],
+      "definition": "An institution of higher education created to educate and grant degrees; often a part of a university."
+    },
+    {
+      "text": "friends",
+      "type": "T098",
+      "umls_id": "C0079382",
+      "score": 0.9840391874313354,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Persons whom one knows, likes, and trusts."
+    },
+    {
+      "text": "sitting",
+      "type": "T033",
+      "umls_id": "C0277814",
+      "score": 0.9747529029846191,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The state or act of one who sits; the posture of one who occupies a seat."
+    },
+    {
+      "text": "room",
+      "type": "T082",
+      "umls_id": "C1547120",
+      "score": 0.9864740967750549,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": null
+    },
+    {
+      "text": "life",
+      "type": "T078",
+      "umls_id": "C0376558",
+      "score": 0.9778754115104675,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state that distinguishes organisms from inorganic matter, manifested by growth, metabolism, reproduction, and adaptation. It includes the course of existence, the sum of experiences, the mode of existing, or the fact of being. Over the centuries inquiries into the nature of life have crossed the boundaries from philosophy to biology, forensic medicine, anthropology, etc., in creative as well as scientific literature. (Random House Unabridged Dictionary, 2d ed; Dr. James H. Cassedy, NLM History of Medicine Division)"
+    },
+    {
+      "text": "occasions",
+      "type": "T079",
+      "umls_id": "C0521114",
+      "score": 0.7853838801383972,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Not occurring regularly or at short intervals."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "goes",
+      "type": "T204",
+      "umls_id": "C1947959",
+      "score": 0.9558348655700684,
+      "semantic_types": [
+        "T204"
+      ],
+      "definition": null
+    },
+    {
+      "text": "coma",
+      "type": "T047",
+      "umls_id": "C0009421",
+      "score": 0.993932843208313,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A profound state of unconsciousness associated with depressed cerebral activity from which the individual cannot be aroused. Coma generally occurs when there is dysfunction or injury involving both cerebral hemispheres or the brain stem RETICULAR FORMATION."
+    },
+    {
+      "text": "ECG",
+      "type": "T060",
+      "umls_id": "C0013798",
+      "score": 0.990286648273468,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "A study that evaluates the effect of a treatment on cardiac electrical activity, as assessed by electrocardiography."
+    },
+    {
+      "text": "QT interval",
+      "type": "T201",
+      "umls_id": "C0429028",
+      "score": 0.89646977186203,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The time interval between the start of the Q wave and the end of the T wave in the cardiac cycle."
+    },
+    {
+      "text": "milliseconds",
+      "type": "T079",
+      "umls_id": "C0439223",
+      "score": 0.8847575187683105,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit of time equal to one thousandth of a second (10E-3 second)."
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "overdose",
+      "type": "T037",
+      "umls_id": "C0029944",
+      "score": 0.9758340716362,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Exposure to, or intake of, an excessive amount of a substance."
+    },
+    {
+      "text": "21-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

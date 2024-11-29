@@ -1,0 +1,232 @@
+{
+  "original_data": {
+    "question": "A 68-year-old man comes to the physician with a 1-week history of painless hematuria. A CT scan of the urinary tract shows areas of bladder wall thickening. Cystoscopy shows several sessile masses with central necrosis arising from the bladder wall. A biopsy specimen of the bladder masses shows moderately differentiated urothelial cells with abundant mitotic figures and nuclear atypia. The patient most likely has a history of exposure to which of the following?",
+    "options": {
+      "A": "Ionizing radiation",
+      "B": "Aromatic amines",
+      "C": "Aflatoxins",
+      "D": "Radon"
+    }
+  },
+  "model_response": "The patient most likely has a history of exposure to aromatic amines, which are found in dyes, rubber, leather, paint, and cigarette smoke. These patients have a high risk of developing bladder cancer. Ionizing radiation can also be a risk factor, but this is less common. Aflatoxins are found in moldy grains and are a risk factor for hepatocellular carcinoma. Radon exposure is a risk factor for lung cancer.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "comes",
+      "type": "T047",
+      "umls_id": "C0221228",
+      "score": 0.7416414618492126,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Having a black or dark core or plug."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "1-week history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.7296004295349121,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "painless",
+      "type": "T169",
+      "umls_id": "C0234226",
+      "score": 0.9535903930664062,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not causing physical or psychological misery, pain or distress."
+    },
+    {
+      "text": "hematuria",
+      "type": "T047",
+      "umls_id": "C0018965",
+      "score": 0.9939060807228088,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Presence of blood in the urine."
+    },
+    {
+      "text": "CT scan",
+      "type": "T060",
+      "umls_id": "C0040405",
+      "score": 0.9926449656486511,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Tomography using x-ray transmission and a computer algorithm to reconstruct the image."
+    },
+    {
+      "text": "urinary tract",
+      "type": "T023",
+      "umls_id": "C0042027",
+      "score": 0.9903651475906372,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The duct which coveys URINE from the pelvis of the KIDNEY through the URETERS, BLADDER, and URETHRA."
+    },
+    {
+      "text": "bladder wall",
+      "type": "T023",
+      "umls_id": "C0458421",
+      "score": 0.9813283681869507,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The tissue layers that form the urinary bladder. They include the mucosa, submucosa, smooth muscle, and serosa."
+    },
+    {
+      "text": "Cystoscopy",
+      "type": "T060",
+      "umls_id": "C0010702",
+      "score": 0.994563102722168,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Endoscopic examination, therapy or surgery of the urinary bladder."
+    },
+    {
+      "text": "sessile masses",
+      "type": "T033",
+      "umls_id": "C1335952",
+      "score": 0.7853181958198547,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Attached directly by the base; not having an intervening stalk."
+    },
+    {
+      "text": "central necrosis",
+      "type": "T042",
+      "umls_id": "C0027540",
+      "score": 0.7179979085922241,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "The death of cells in an organ or tissue due to disease, injury or failure of the blood supply."
+    },
+    {
+      "text": "bladder wall",
+      "type": "T023",
+      "umls_id": "C0458421",
+      "score": 0.9813283681869507,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The tissue layers that form the urinary bladder. They include the mucosa, submucosa, smooth muscle, and serosa."
+    },
+    {
+      "text": "biopsy",
+      "type": "T060",
+      "umls_id": "C0005558",
+      "score": 0.9729230999946594,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Removal and pathologic examination of specimens from the living body."
+    },
+    {
+      "text": "specimen",
+      "type": "T167",
+      "umls_id": "C0370003",
+      "score": 0.9765979647636414,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis."
+    },
+    {
+      "text": "bladder masses",
+      "type": "T033",
+      "umls_id": "C0238775",
+      "score": 0.9778698086738586,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "mitotic figures",
+      "type": "T033",
+      "umls_id": "C2698234",
+      "score": 0.9562584161758423,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "The microscopic appearance of a cell undergoing mitosis."
+    },
+    {
+      "text": "nuclear atypia",
+      "type": "T033",
+      "umls_id": "C1335070",
+      "score": 0.9807512760162354,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "history",
+      "type": "T090",
+      "umls_id": "C0019664",
+      "score": 0.994277834892273,
+      "semantic_types": [
+        "T090"
+      ],
+      "definition": "Record and study of past events."
+    },
+    {
+      "text": "exposure to",
+      "type": "T080",
+      "umls_id": "C0332157",
+      "score": 0.9658212065696716,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The act of subjecting someone or something to an influencing experience."
+    },
+    {
+      "text": "68-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

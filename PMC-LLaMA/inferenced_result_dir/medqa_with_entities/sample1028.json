@@ -1,0 +1,395 @@
+{
+  "original_data": {
+    "question": "A 45-year-old man presents to a surgeon with painless swelling over his right leg. He noticed the swelling 6 months ago, but he ignored it because it was painless. However, he is now concerned as the swelling has been increasing in size over the last 6 months. He also mentions that his father and brother have lipomas over the extremities. On physical examination, the swelling is well-circumscribed and non-tender, measuring approximately 4 x 5 cm. After evaluation, the surgeon performs a surgical resection of the tumor and sends the tissue for histopathological examination. The pathologist reports the tumor to be a liposarcoma rather than a lipoma. Which of the following enzymes is most likely to show increased activity in the cells of this patient’s tumor?",
+    "options": {
+      "A": "Alkaline phosphatase",
+      "B": "RNase",
+      "C": "Superoxide dismutase",
+      "D": "Telomerase"
+    }
+  },
+  "model_response": "The patient has a liposarcoma, which is a malignant tumor that arises from fat cells. Liposarcomas are the most common type of soft tissue sarcoma. Liposarcomas are composed of malignant adipocytes, which are fat cells that have undergone malignant transformation. Liposarcomas are subclassified into four types, based on the type of adipocyte that is present in the tumor. The four types of liposarcoma are myxoid (most common), well-differentiated, pleomorphic, and sclerosing. Alkaline phosphatase is an enzyme that is found in the membranes of fat cells. Increased alkaline phosphatase levels are found in patients with liposarcomas, as the tumor is composed of malignant fat cells. RNase is an enzyme that is involved in RNA metabolism and is not associated with liposarcomas. Superoxide dismutase is an enzyme that is involved in the breakdown of superoxide radicals and is not associated with liposarcomas. Telomerase is an enzyme that is responsible for synthesizing telomeres and is not associated with liposarcomas.\n\nAnswer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "surgeon",
+      "type": "T097",
+      "umls_id": "C0582175",
+      "score": 0.9574177265167236,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Medical practitioners qualified to practice surgery."
+    },
+    {
+      "text": "painless swelling",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "right leg",
+      "type": "T023",
+      "umls_id": "C0230415",
+      "score": 0.9768746495246887,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The portion of the lower extremity between the knee and the ankle on the right side of the body."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "ignored",
+      "type": "T078",
+      "umls_id": "C1554079",
+      "score": 0.9896417856216431,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "<b>Description:</b>Implementers receiving this property must not raise an error if the data is received, but will not perform any useful function with the data. This conformance level is not used in profiles or other artifacts that are specific to the \"sender\" or \"initiator\" of a communication."
+    },
+    {
+      "text": "painless",
+      "type": "T169",
+      "umls_id": "C0234226",
+      "score": 0.9535903930664062,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not causing physical or psychological misery, pain or distress."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "increasing",
+      "type": "T169",
+      "umls_id": "C0442808",
+      "score": 0.9791039228439331,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "size",
+      "type": "T082",
+      "umls_id": "C0456389",
+      "score": 0.981842041015625,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The physical magnitude of something."
+    },
+    {
+      "text": "months",
+      "type": "T079",
+      "umls_id": "C0439231",
+      "score": 0.9597114324569702,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "One of the 12 divisions of a year as determined by a calendar. It corresponds to the unit of time of approximately to one cycle of the moon's phases, about 30 days or 4 weeks."
+    },
+    {
+      "text": "mentions",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "father",
+      "type": "T099",
+      "umls_id": "C0015671",
+      "score": 0.9805205464363098,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "Male parents, human or animal."
+    },
+    {
+      "text": "brother",
+      "type": "T099",
+      "umls_id": "C0337527",
+      "score": 0.9884945750236511,
+      "semantic_types": [
+        "T099"
+      ],
+      "definition": "A male sibling."
+    },
+    {
+      "text": "lipomas",
+      "type": "T191",
+      "umls_id": "C0023798",
+      "score": 0.9860998392105103,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A benign tumor composed of fat cells (ADIPOCYTES). It can be surrounded by a thin layer of connective tissue (encapsulated), or diffuse without the capsule."
+    },
+    {
+      "text": "extremities",
+      "type": "T023",
+      "umls_id": "C0015385",
+      "score": 0.9940341114997864,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The farthest or outermost projections of the body, such as the HAND and FOOT."
+    },
+    {
+      "text": "physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "swelling",
+      "type": "T046",
+      "umls_id": "C0013604",
+      "score": 0.9542832970619202,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Abnormal fluid accumulation in TISSUES or body cavities. Most cases of edema are present under the SKIN in SUBCUTANEOUS TISSUE."
+    },
+    {
+      "text": "well-circumscribed",
+      "type": "T082",
+      "umls_id": "C1282914",
+      "score": 0.7721736431121826,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Extending on all sides of simultaneously; encircling."
+    },
+    {
+      "text": "non-tender",
+      "type": "T080",
+      "umls_id": "C0520960",
+      "score": 0.9690245389938354,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "measuring",
+      "type": "T080",
+      "umls_id": "C0444706",
+      "score": 0.9901020526885986,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having been determined by measurement."
+    },
+    {
+      "text": "evaluation",
+      "type": "T058",
+      "umls_id": "C0220825",
+      "score": 0.9438846111297607,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic, objective appraisal of the significance, effectiveness, and impact of activities or condition according to specified objectives and criteria."
+    },
+    {
+      "text": "surgeon",
+      "type": "T097",
+      "umls_id": "C0582175",
+      "score": 0.9574177265167236,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Medical practitioners qualified to practice surgery."
+    },
+    {
+      "text": "surgical resection",
+      "type": "T061",
+      "umls_id": "C0015252",
+      "score": 0.9801855087280273,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The surgical removal of an organ or a part of an organ."
+    },
+    {
+      "text": "tumor",
+      "type": "T191",
+      "umls_id": "C0027651",
+      "score": 0.990729808807373,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "New abnormal growth of tissue. Malignant neoplasms show a greater degree of anaplasia and have the properties of invasion and metastasis, compared to benign neoplasms."
+    },
+    {
+      "text": "tissue",
+      "type": "T024",
+      "umls_id": "C0040300",
+      "score": 0.9971153736114502,
+      "semantic_types": [
+        "T024"
+      ],
+      "definition": "Collections of differentiated CELLS, such as EPITHELIUM; CONNECTIVE TISSUE; MUSCLES; and NERVE TISSUE. Tissues are cooperatively arranged to form organs with specialized functions such as RESPIRATION; DIGESTION; REPRODUCTION; MOVEMENT; and others."
+    },
+    {
+      "text": "histopathological",
+      "type": "T091",
+      "umls_id": "C0677043",
+      "score": 0.8880505561828613,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The microscopic study of characteristic tissue abnormalities by employing various cytochemical and immunocytochemical stains."
+    },
+    {
+      "text": "examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "pathologist",
+      "type": "T097",
+      "umls_id": "C0334866",
+      "score": 0.9820916652679443,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Physicians who assess changes in cellular or tissue structure and function to diagnose disease processes."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "tumor",
+      "type": "T191",
+      "umls_id": "C0027651",
+      "score": 0.990729808807373,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "New abnormal growth of tissue. Malignant neoplasms show a greater degree of anaplasia and have the properties of invasion and metastasis, compared to benign neoplasms."
+    },
+    {
+      "text": "liposarcoma",
+      "type": "T191",
+      "umls_id": "C0023827",
+      "score": 0.9903001189231873,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A malignant tumor derived from primitive or embryonal lipoblastic cells. It may be composed of well-differentiated fat cells or may be dedifferentiated: myxoid (LIPOSARCOMA, MYXOID), round-celled, or pleomorphic, usually in association with a rich network of capillaries. Recurrences are common and dedifferentiated liposarcomas metastasize to the lungs or serosal surfaces. (From Dorland, 27th ed; Stedman, 25th ed)"
+    },
+    {
+      "text": "lipoma",
+      "type": "T191",
+      "umls_id": "C0023798",
+      "score": 0.9820898175239563,
+      "semantic_types": [
+        "T191"
+      ],
+      "definition": "A benign tumor composed of fat cells (ADIPOCYTES). It can be surrounded by a thin layer of connective tissue (encapsulated), or diffuse without the capsule."
+    },
+    {
+      "text": "enzymes",
+      "type": "T116",
+      "umls_id": "C0014442",
+      "score": 0.9777827262878418,
+      "semantic_types": [
+        "T116",
+        "T126"
+      ],
+      "definition": "Biological molecules that possess catalytic activity. They may occur naturally or be synthetically created. Enzymes are usually proteins, however CATALYTIC RNA and CATALYTIC DNA molecules have also been identified."
+    },
+    {
+      "text": "increased",
+      "type": "T081",
+      "umls_id": "C0205217",
+      "score": 0.9793238043785095,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "activity",
+      "type": "T056",
+      "umls_id": "C0026606",
+      "score": 0.9921815991401672,
+      "semantic_types": [
+        "T056"
+      ],
+      "definition": "Body movements of a human or an animal as a behavioral phenomenon."
+    },
+    {
+      "text": "cells",
+      "type": "T025",
+      "umls_id": "C0007634",
+      "score": 0.9849754571914673,
+      "semantic_types": [
+        "T025"
+      ],
+      "definition": "The fundamental, structural, and functional units or subunits of living organisms. They are composed of CYTOPLASM containing various ORGANELLES and a CELL MEMBRANE boundary."
+    },
+    {
+      "text": "patient’s tumor",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "original_data": {
+    "question": "A 35-year-old man presents with a 7 month history of insomnia. The patient admitted to having trouble sleeping from a young age but became more aware of how much this is affecting his health after attending a sleep conference earlier this year. He is worried that his health has suffered because of this, and he is also concerned that he will not be able to pay his bills if he were to get sick. He has no past medical or psychiatric condition and is not known to use any recreational drugs. The patient arrived for his appointment an hour early because he was afraid he might miss it. The patient is afebrile and his vital signs are within normal limits. Physical examination reveals an irritable middle age man who is tense and somewhat inattentive during the interview. Which of the following is the most likely diagnosis in this patient?\n ",
+    "options": {
+      "A": "Generalized anxiety disorder",
+      "B": "Adjustment disorder",
+      "C": "Social anxiety ",
+      "D": "Normal worry"
+    }
+  },
+  "model_response": "This patient appears to be suffering from generalized anxiety disorder (GAD). The diagnostic criteria for GAD include a minimum of 6 months of worry and anxiety about a variety of different events or activities. The anxiety must cause significant distress or impairment in social, occupational, or other important areas of functioning. The anxiety cannot be attributable to a substance or another medical condition and cannot be better accounted for by another mental disorder. The symptoms of GAD include poor concentration, irritability, muscle tension, and sleep disturbance. The patient does not meet criteria for a diagnosis of adjustment disorder as his symptoms are more chronic in nature. The patient does not exhibit the social anxiety or avoidance of situations that would be necessary for a diagnosis of social anxiety disorder. The patient does not meet criteria for a diagnosis of obsessive-compulsive disorder (OCD) as the symptoms of OCD are more persistent and intrusive than those described by the patient. The patient does not meet criteria for a diagnosis of panic disorder as he does not describe recurrent panic attacks.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "month",
+      "type": "T079",
+      "umls_id": "C0332177",
+      "score": 0.9987965226173401,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Every month."
+    },
+    {
+      "text": "history of",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9823688864707947,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "insomnia",
+      "type": "T184",
+      "umls_id": "C0917801",
+      "score": 0.9511995911598206,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A sleep disorder characterized by difficulty in falling asleep and/or remaining asleep."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "young age",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "affecting",
+      "type": "T169",
+      "umls_id": "C0392760",
+      "score": 0.9712433218955994,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "To be influenced by or changed."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "attending",
+      "type": "T097",
+      "umls_id": "C1547429",
+      "score": 0.9824391007423401,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "year",
+      "type": "T079",
+      "umls_id": "C0439234",
+      "score": 0.9738823771476746,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days; a specific one year period."
+    },
+    {
+      "text": "health",
+      "type": "T078",
+      "umls_id": "C0018684",
+      "score": 0.9878078103065491,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "The state of the organism when it functions optimally without evidence of disease."
+    },
+    {
+      "text": "bills",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "sick",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9954224824905396,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "medical",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.991391122341156,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "psychiatric condition",
+      "type": "T091",
+      "umls_id": "C0033873",
+      "score": 0.7296668887138367,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The medical science that deals with the origin, diagnosis, prevention, and treatment of mental disorders."
+    },
+    {
+      "text": "recreational drugs",
+      "type": "T131",
+      "umls_id": "C0242508",
+      "score": 0.9532220959663391,
+      "semantic_types": [
+        "T131"
+      ],
+      "definition": "A drug used for personal enjoyment rather than for medicinal purposes."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "appointment",
+      "type": "T052",
+      "umls_id": "C0003629",
+      "score": 0.9619544744491577,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "A meeting arranged with someone at a particular time and place."
+    },
+    {
+      "text": "hour",
+      "type": "T079",
+      "umls_id": "C0439227",
+      "score": 0.9982005953788757,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day."
+    },
+    {
+      "text": "early",
+      "type": "T079",
+      "umls_id": "C1279919",
+      "score": 0.9845484495162964,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "At or near the beginning of a period of time or course of events."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "afebrile",
+      "type": "T033",
+      "umls_id": "C0277797",
+      "score": 0.9714973568916321,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "vital signs",
+      "type": "T058",
+      "umls_id": "C0150404",
+      "score": 0.9548668265342712,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Actions performed to measure temperature, pulse, respirations, and blood pressure"
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "irritable",
+      "type": "T033",
+      "umls_id": "C0022107",
+      "score": 0.9815845489501953,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal or excessive excitability with easily triggered anger, annoyance, or impatience."
+    },
+    {
+      "text": "middle age",
+      "type": "T079",
+      "umls_id": "C0026062",
+      "score": 0.9796044230461121,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": null
+    },
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "tense",
+      "type": "T048",
+      "umls_id": "C0233494",
+      "score": 0.9933909773826599,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "A feeling of mental or emotional strain or suspense."
+    },
+    {
+      "text": "inattentive",
+      "type": "T048",
+      "umls_id": "C0424101",
+      "score": 0.9775131344795227,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": null
+    },
+    {
+      "text": "interview",
+      "type": "T052",
+      "umls_id": "C0021822",
+      "score": 0.9563084244728088,
+      "semantic_types": [
+        "T052"
+      ],
+      "definition": "Works about conversations with an individual or individuals held in order to obtain information about their background and other personal biographical data, their attitudes and opinions, etc. It includes works about school admission or job interviews."
+    },
+    {
+      "text": "diagnosis",
+      "type": "T060",
+      "umls_id": "C0011900",
+      "score": 0.9801295399665833,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The determination of the nature of a disease or condition, or the distinguishing of one disease or condition from another. Assessment may be made through physical examination, laboratory tests, or the likes. Computerized programs may be used to enhance the decision-making process."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "35-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

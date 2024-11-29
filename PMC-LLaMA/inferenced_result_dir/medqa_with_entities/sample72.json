@@ -1,0 +1,839 @@
+{
+  "original_data": {
+    "question": "A 56-year-old man presents to the emergency department for progressively worsening fatigue, malaise, fever, and abdominal pain. He reports that his symptoms began approximately 1 week ago and he has noticed episodes of diarrhea. He recently started melatonin and magnesium supplementation in hopes of improving his sleep. Medical history is significant for alcohol use disorder that required multiple hospital admissions for management of acute pancreatitis and cirrhosis. He states that he occasionally injects heroin intravenously. Temperature is 100°F (37.8°C), blood pressure is 105/70 mmHg, pulse is 92/min, and respirations are 17/min. Physical examination is significant for scleral icterus, hepatomegaly, ascites, and diffuse abdominal tenderness. Laboratory testing is significant for leukocytosis and metabolic acidosis. A paracentesis is performed and he is admitted into the hospital to receive intravenous cefotaxime and albumin. Ascitic fluid analysis demonstrates a polymorphonuclear cell count of 280 cells/mm^3, serum-ascites albumin gradient of 1.3 g/dL, and a culture positive for Escherichia coli sensitive to cefotaxime and ceftriaxone. On hospital day 2, the nurse reports that the patient is oliguric in the setting of constant fluid intake. Physical examination is unchanged. Laboratory testing is significant for a serum sodium of 131 mEq/L and creatinine of 1.8 mg/dL (it was 0.9 mg/dL on admission). Urine studies are significant for a low urine sodium level, without evidence of blood or protein. Since the hospital admission, he has not been started on any new medications. Which of the following will be the best treatment option for this patient?",
+    "options": {
+      "A": "Adding dopamine to his treatment regimen",
+      "B": "Adding lisinopril to his treatment regimen",
+      "C": "Liver transplantation",
+      "D": "Transjugular intrahepatic portosystemic shunting"
+    }
+  },
+  "model_response": "The patient has developed hepatorenal syndrome, which is a complication of end-stage liver disease. Hepatorenal syndrome is characterized by progressive oliguria and reduction in glomerular filtration rate in the setting of end-stage liver disease. It is associated with a poor prognosis. Treatment options are limited. Patients who are treated with terlipressin (a vasopressin analogue) and albumin have a higher chance of survival. Patients who are treated with midodrine (an alpha-1 agonist) and octreotide (a somatostatin analogue) have a higher chance of survival. Lisinopril is an angiotensin-converting enzyme inhibitor and is not indicated in the treatment of hepatorenal syndrome. Dopamine is a vasopressor and is not indicated in the treatment of hepatorenal syndrome. Transjugular intrahepatic portosystemic shunting is a surgical procedure that may be indicated in patients with refractory ascites. Liver transplantation is not likely to be an option for this patient due to his history of alcohol use disorder and end-stage liver disease.\n\nAnswer: OPTION B IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "emergency department",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9731780886650085,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "worsening",
+      "type": "T080",
+      "umls_id": "C0332271",
+      "score": 0.9761245846748352,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "fatigue",
+      "type": "T184",
+      "umls_id": "C0015672",
+      "score": 0.9711542725563049,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "The state of weariness following a period of exertion, mental or physical, characterized by a decreased capacity for work and reduced efficiency to respond to stimuli."
+    },
+    {
+      "text": "malaise",
+      "type": "T184",
+      "umls_id": "C0231218",
+      "score": 0.9617298245429993,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A feeling of general discomfort or uneasiness, an out-of-sorts feeling."
+    },
+    {
+      "text": "fever",
+      "type": "T184",
+      "umls_id": "C0015967",
+      "score": 0.9616571664810181,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An abnormal elevation of body temperature, usually as a result of a pathologic process."
+    },
+    {
+      "text": "abdominal pain",
+      "type": "T184",
+      "umls_id": "C0000737",
+      "score": 0.970135509967804,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "Sensation of discomfort, distress, or agony in the abdominal region."
+    },
+    {
+      "text": "reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.9694634079933167,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "week",
+      "type": "T079",
+      "umls_id": "C0439230",
+      "score": 0.995377779006958,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Any period of seven consecutive days."
+    },
+    {
+      "text": "episodes",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9858169555664062,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "diarrhea",
+      "type": "T184",
+      "umls_id": "C0011991",
+      "score": 0.9832403063774109,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "An increased liquidity or decreased consistency of FECES, such as running stool. Fecal consistency is related to the ratio of water-holding capacity of insoluble solids to total water, rather than the amount of water present. Diarrhea is not hyperdefecation or increased fecal weight."
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "melatonin",
+      "type": "T109",
+      "umls_id": "C0025219",
+      "score": 0.9826366901397705,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T125"
+      ],
+      "definition": "A biogenic amine that is found in animals and plants. In mammals, melatonin is produced by the PINEAL GLAND. Its secretion increases in darkness and decreases during exposure to light. Melatonin is implicated in the regulation of SLEEP, mood, and REPRODUCTION. Melatonin is also an effective antioxidant."
+    },
+    {
+      "text": "magnesium supplementation",
+      "type": "T061",
+      "umls_id": "C1096534",
+      "score": 0.9705518484115601,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "Providing magnesium based on suboptimal food or fluid intake, iatrogenic deficiency or medical diagnosis."
+    },
+    {
+      "text": "hopes",
+      "type": "T041",
+      "umls_id": "C0392347",
+      "score": 0.9795257449150085,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "A feeling of optimism that one will attain a desired outcome."
+    },
+    {
+      "text": "improving",
+      "type": "T080",
+      "umls_id": "C1272745",
+      "score": 0.9659444093704224,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "sleep",
+      "type": "T040",
+      "umls_id": "C0037313",
+      "score": 0.9995025992393494,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "A readily reversible suspension of sensorimotor interaction with the environment, usually associated with recumbency and immobility."
+    },
+    {
+      "text": "Medical history",
+      "type": "T033",
+      "umls_id": "C0262926",
+      "score": 0.9828951954841614,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and the occurrence of disease events of the individual. In addition, personal medical history may be a variable in epidemiologic studies."
+    },
+    {
+      "text": "alcohol use disorder",
+      "type": "T048",
+      "umls_id": "C0001956",
+      "score": 0.9801052212715149,
+      "semantic_types": [
+        "T048"
+      ],
+      "definition": "<h3>What is alcohol use disorder (AUD)?</h3> <p>For most adults, moderate <a href=\"https://medlineplus.gov/alcohol.html\">alcohol</a> use is probably not harmful. However, about 18 million adult Americans have an alcohol use disorder (AUD). This means that their drinking causes distress and harm. AUD can range from mild to severe, depending on the symptoms. Severe AUD is sometimes called alcoholism or alcohol dependence.</p> <p>AUD is a disease that causes</p> <ul> <li>Craving - a strong need to drink</li> <li>Loss of control - not being able to stop drinking once you've started</li> <li>Negative emotional state - feeling anxious and irritable when you are not drinking</li> </ul> <h3>What is binge drinking?</h3> <p>Binge drinking is drinking so much at once that your blood alcohol concentration (BAC) level is 0.08% or more. For a man, this usually happens after having 5 or more drinks within a few hours. For a woman, it is after about 4 or more drinks within a few hours. Not everyone who binge drinks has an AUD, but they are at higher risk for getting one.</p> <h3>What are the dangers of too much alcohol?</h3> <p>Too much alcohol is dangerous. Heavy drinking can increase the risk of certain cancers. It may lead to <a href=\"https://medlineplus.gov/liverdiseases.html\">liver diseases</a>, such as <a href=\"https://medlineplus.gov/fattyliverdisease.html\">fatty liver disease</a> and <a href=\"https://medlineplus.gov/cirrhosis.html\">cirrhosis</a>. It can also cause damage to the brain and other organs. Drinking during pregnancy can <a href=\"https://medlineplus.gov/fetalalcoholspectrumdisorders.html\">harm your baby</a>. Alcohol also increases the risk of death from car crashes, injuries, homicide, and suicide.</p> <h3>How do I know if I have an alcohol use disorder (AUD)?</h3> <p>You may have an AUD if you can answer yes to two or more of these questions:</p> <p>In the past year, have you</p> <ul> <li>Ended up drinking more or for a longer time than you had planned to?</li> <li>Wanted to cut down or stop drinking, or tried to, but couldn't?</li> <li>Spent a lot of your time drinking or recovering from drinking?</li> <li>Felt a strong need to drink?</li> <li>Found that drinking - or being sick from drinking - often interfered with your family life, job, or school?</li> <li>Kept drinking even though it was causing trouble with your family or friends?</li> <li>Given up or cut back on activities that you enjoyed just so you could drink?</li> <li>Gotten into dangerous situations while drinking or after drinking? Some examples are driving drunk and having unsafe sex.</li> <li>Kept drinking even though it was making you feel depressed or anxious? Or when it was adding to another health problem?</li> <li>Had to drink more and more to feel the effects of the alcohol?</li> <li>Had withdrawal symptoms when the alcohol was wearing off? They include trouble sleeping, shakiness, irritability, <a href=\"https://medlineplus.gov/anxiety.html\">anxiety</a>, <a href=\"https://medlineplus.gov/depression.html\">depression</a>, restlessness, <a href=\"https://medlineplus.gov/nauseaandvomiting.html\">nausea</a>, and <a href=\"https://medlineplus.gov/sweat.html\">sweating</a>. In severe cases, you could have a <a href=\"https://medlineplus.gov/fever.html\">fever</a>, <a href=\"https://medlineplus.gov/seizures.html\">seizures</a>, or hallucinations.</li> </ul> <p>If you have any of these symptoms, your drinking may already be a cause for concern. The more symptoms you have, the more serious the problem is.</p> <h3>What should I do if I think that I might have an alcohol use disorder (AUD)?</h3> <p>If you think you might have an AUD, see your health care provider for an evaluation. Your provider can help make a <a href=\"https://medlineplus.gov/alcoholusedisorderaudtreatment.html\">treatment plan</a>, prescribe medicines, and if needed, give you treatment referrals.</p> <p class=\"\">NIH: National Institute on Alcohol Abuse and Alcoholism</p>"
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "hospital admissions",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9778679609298706,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "management",
+      "type": "T057",
+      "umls_id": "C0001554",
+      "score": 0.9773015379905701,
+      "semantic_types": [
+        "T057"
+      ],
+      "definition": "Performing or possessing executive duties; acting as a supervisor or manager."
+    },
+    {
+      "text": "acute pancreatitis",
+      "type": "T047",
+      "umls_id": "C0001339",
+      "score": 0.9865201115608215,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "An acute inflammatory process that leads to necrosis of the pancreatic parenchyma. Signs and symptoms include severe abdominal pain, nausea, vomiting, diarrhea, fever, and shock. Causes include alcohol consumption, presence of gallstones, trauma, and drugs."
+    },
+    {
+      "text": "cirrhosis",
+      "type": "T047",
+      "umls_id": "C0023890",
+      "score": 0.976765513420105,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Liver disease in which the normal microcirculation, the gross vascular anatomy, and the hepatic architecture have been variably destroyed and altered with fibrous septa surrounding regenerated or regenerating parenchymal nodules."
+    },
+    {
+      "text": "states",
+      "type": "T083",
+      "umls_id": "C1301808",
+      "score": 0.9940890073776245,
+      "semantic_types": [
+        "T083"
+      ],
+      "definition": "A constituent administrative district of a nation."
+    },
+    {
+      "text": "heroin",
+      "type": "T109",
+      "umls_id": "C0011892",
+      "score": 0.9867653250694275,
+      "semantic_types": [
+        "T109",
+        "T121",
+        "T131"
+      ],
+      "definition": "A narcotic analgesic that may be habit-forming. It is a controlled substance (opium derivative) listed in the U.S. Code of Federal Regulations, Title 21 Parts 329.1, 1308.11 (1987). Sale is forbidden in the United States by Federal statute. (Merck Index, 11th ed)"
+    },
+    {
+      "text": "intravenously",
+      "type": "T169",
+      "umls_id": "C1522726",
+      "score": 0.840063750743866,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Administration of a drug within or into a vein or veins. Introduction of the drug directly into venous circulation results in 100% bioavailability due to an absence of the absorption phase, provides a precise and continuous mode of drug therapy, especially for drugs with a narrow therapeutic index."
+    },
+    {
+      "text": "Temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulse",
+      "type": "T058",
+      "umls_id": "C0034107",
+      "score": 0.9736508727073669,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "The rhythmical expansion and contraction of an ARTERY produced by waves of pressure caused by the ejection of BLOOD from the left ventricle of the HEART as it contracts."
+    },
+    {
+      "text": "respirations",
+      "type": "T039",
+      "umls_id": "C0035203",
+      "score": 0.9742469787597656,
+      "semantic_types": [
+        "T039"
+      ],
+      "definition": "The act of breathing with the LUNGS, consisting of INHALATION, or the taking into the lungs of the ambient air, and of EXHALATION, or the expelling of the modified air which contains more CARBON DIOXIDE than the air taken in (Blakiston's Gould Medical Dictionary, 4th ed.). This does not include tissue respiration (= OXYGEN CONSUMPTION) or cell respiration (= CELL RESPIRATION)."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "scleral icterus",
+      "type": "T033",
+      "umls_id": "C0240962",
+      "score": 0.9657531976699829,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Yellowing of the white part of the eyes, often due to a rise in bilirubin levels."
+    },
+    {
+      "text": "hepatomegaly",
+      "type": "T033",
+      "umls_id": "C0019209",
+      "score": 0.9925906658172607,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Enlargement of the liver."
+    },
+    {
+      "text": "ascites",
+      "type": "T047",
+      "umls_id": "C0003962",
+      "score": 0.9889810681343079,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Accumulation or retention of free fluid within the peritoneal cavity."
+    },
+    {
+      "text": "diffuse abdominal tenderness",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Laboratory testing",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9850475788116455,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "leukocytosis",
+      "type": "T047",
+      "umls_id": "C0023518",
+      "score": 0.9786176681518555,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "A transient increase in the number of leukocytes in a body fluid."
+    },
+    {
+      "text": "metabolic acidosis",
+      "type": "T046",
+      "umls_id": "C0220981",
+      "score": 0.9907808899879456,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Increased acidity in the blood secondary to acid base imbalance. Causes include diabetes, kidney failure and shock."
+    },
+    {
+      "text": "paracentesis",
+      "type": "T061",
+      "umls_id": "C0034115",
+      "score": 0.9922350645065308,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A procedure in which fluid is withdrawn from a body cavity or organ via a trocar and cannula, needle, or other hollow instrument."
+    },
+    {
+      "text": "admitted",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9813740253448486,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "hospital",
+      "type": "T073",
+      "umls_id": "C0019994",
+      "score": 0.9826700091362,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Institutions with an organized medical staff which provide medical care to patients."
+    },
+    {
+      "text": "intravenous cefotaxime",
+      "type": "T169",
+      "umls_id": "C1522726",
+      "score": 0.7011530995368958,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Administration of a drug within or into a vein or veins. Introduction of the drug directly into venous circulation results in 100% bioavailability due to an absence of the absorption phase, provides a precise and continuous mode of drug therapy, especially for drugs with a narrow therapeutic index."
+    },
+    {
+      "text": "albumin",
+      "type": "T116",
+      "umls_id": "C0001924",
+      "score": 0.9634256958961487,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Water-soluble proteins found in egg whites, blood, lymph, and other tissues and fluids. They coagulate upon heating."
+    },
+    {
+      "text": "Ascitic fluid",
+      "type": "T031",
+      "umls_id": "C5441965",
+      "score": 0.9871314764022827,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The serous fluid of ASCITES, the accumulation of fluids in the PERITONEAL CAVITY."
+    },
+    {
+      "text": "cell count",
+      "type": "T059",
+      "umls_id": "C0007584",
+      "score": 0.985807478427887,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "The number of CELLS of a specific kind, usually measured per unit volume or area of sample."
+    },
+    {
+      "text": "cells/mm^3",
+      "type": "T081",
+      "umls_id": "C2699156",
+      "score": 0.7010768055915833,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A unit of cell concentration expressed in cells per unit of volume equal to one milliliter."
+    },
+    {
+      "text": "serum-ascites",
+      "type": "T034",
+      "umls_id": "C4331276",
+      "score": 0.7118557691574097,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "A value determined by subtracting the concentration of albumin in ascites fluid from its concentration in the serum where both samples come from one subject. High values indicate portal hypertension and a non-peritoneal cause for ascites; while low values indicate non-portal hypertension and a peritoneal origin of ascites."
+    },
+    {
+      "text": "albumin",
+      "type": "T116",
+      "umls_id": "C0001924",
+      "score": 0.9634256958961487,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Water-soluble proteins found in egg whites, blood, lymph, and other tissues and fluids. They coagulate upon heating."
+    },
+    {
+      "text": "gradient",
+      "type": "T081",
+      "umls_id": "C0812409",
+      "score": 0.982342004776001,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A graded change in the magnitude of some physical quantity or dimension."
+    },
+    {
+      "text": "culture positive",
+      "type": "T034",
+      "umls_id": "C0740299",
+      "score": 0.8261491060256958,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": "A laboratory test result demonstrating the presence of a specific organism in a blood sample after culture."
+    },
+    {
+      "text": "Escherichia coli",
+      "type": "T007",
+      "umls_id": "C0014834",
+      "score": 0.9835531711578369,
+      "semantic_types": [
+        "T007"
+      ],
+      "definition": "A species of gram-negative, facultatively anaerobic, rod-shaped bacteria (GRAM-NEGATIVE FACULTATIVELY ANAEROBIC RODS) commonly found in the lower part of the intestine of warm-blooded animals. It is usually nonpathogenic, but some strains are known to produce DIARRHEA and pyogenic infections. Pathogenic strains (virotypes) are classified by their specific pathogenic mechanisms such as toxins (ENTEROTOXIGENIC ESCHERICHIA COLI), etc."
+    },
+    {
+      "text": "sensitive",
+      "type": "T169",
+      "umls_id": "C0332324",
+      "score": 0.9966825842857361,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "cefotaxime",
+      "type": "T109",
+      "umls_id": "C0007554",
+      "score": 0.975468635559082,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "Semisynthetic broad-spectrum cephalosporin."
+    },
+    {
+      "text": "ceftriaxone",
+      "type": "T109",
+      "umls_id": "C0007561",
+      "score": 0.9359742999076843,
+      "semantic_types": [
+        "T109",
+        "T195"
+      ],
+      "definition": "A broad-spectrum cephalosporin antibiotic and cefotaxime derivative with a very long half-life and high penetrability to meninges, eyes and inner ears."
+    },
+    {
+      "text": "hospital day",
+      "type": "T073",
+      "umls_id": "C0587438",
+      "score": 0.9823811650276184,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": null
+    },
+    {
+      "text": "nurse reports",
+      "type": "T170",
+      "umls_id": "C0684224",
+      "score": 0.7404399514198303,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "Detailed account or statement or formal record of the proceedings of a meeting or session. May also document status or progress of an activity or research project."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "oliguric",
+      "type": "T047",
+      "umls_id": "C0028961",
+      "score": 0.7943691611289978,
+      "semantic_types": [
+        "T047"
+      ],
+      "definition": "Decreased URINE output that is below the normal range. Oliguria can be defined as urine output of less than or equal to 0.5 or 1 ml/kg/hr depending on the age."
+    },
+    {
+      "text": "constant fluid",
+      "type": "T080",
+      "umls_id": "C1948059",
+      "score": 0.766325056552887,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Continually recurring or continuing without interruption."
+    },
+    {
+      "text": "intake",
+      "type": "T169",
+      "umls_id": "C1512806",
+      "score": 0.9615559577941895,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "The process of taking in a substance, especially by eating or drinking, or the quantities thereof; admittance of people to a place or organization at a particular time."
+    },
+    {
+      "text": "Physical examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9677208065986633,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "unchanged",
+      "type": "T033",
+      "umls_id": "C0442739",
+      "score": 0.9807156324386597,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "<p>**Description:**There was (or is to be) no change to the item. This is primarily used when this element has not changed, but other attributes in the instance have changed.</p>"
+    },
+    {
+      "text": "Laboratory testing",
+      "type": "T059",
+      "umls_id": "C0022885",
+      "score": 0.9850475788116455,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Any procedure that involves testing or manipulating a sample of blood, urine, or other body substance in a laboratory setting."
+    },
+    {
+      "text": "serum sodium",
+      "type": "T059",
+      "umls_id": "C0523891",
+      "score": 0.983586311340332,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "A quantitative measurement of the amount of sodium present in a sample of serum."
+    },
+    {
+      "text": "creatinine",
+      "type": "T109",
+      "umls_id": "C0010294",
+      "score": 0.9871318340301514,
+      "semantic_types": [
+        "T109",
+        "T123"
+      ],
+      "definition": "The breakdown product of creatine, a constituent of muscle tissue, that is excreted by the kidney and whose serum level is used to evaluate kidney function."
+    },
+    {
+      "text": "admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9628421068191528,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "Urine studies",
+      "type": "T059",
+      "umls_id": "C0042014",
+      "score": 0.7264481782913208,
+      "semantic_types": [
+        "T059"
+      ],
+      "definition": "Examination of urine by chemical, physical, or microscopic means. Routine urinalysis usually includes performing chemical screening tests, determining specific gravity, observing any unusual color or odor, screening for bacteriuria, and examining the sediment microscopically."
+    },
+    {
+      "text": "low",
+      "type": "T080",
+      "umls_id": "C0205251",
+      "score": 0.9944548606872559,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A minimum level or position or degree; less than normal in degree, intensity or amount."
+    },
+    {
+      "text": "urine sodium",
+      "type": "T034",
+      "umls_id": "C0337444",
+      "score": 0.9820734858512878,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "level",
+      "type": "T080",
+      "umls_id": "C0441889",
+      "score": 0.9882238507270813,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "A position on a scale measuring intensity, quality, or amount."
+    },
+    {
+      "text": "evidence",
+      "type": "T078",
+      "umls_id": "C3887511",
+      "score": 0.9744833707809448,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Knowledge on which to base belief."
+    },
+    {
+      "text": "blood",
+      "type": "T031",
+      "umls_id": "C0005767",
+      "score": 0.9994040131568909,
+      "semantic_types": [
+        "T031"
+      ],
+      "definition": "The body fluid that circulates in the vascular system (BLOOD VESSELS). Whole blood includes PLASMA and BLOOD CELLS."
+    },
+    {
+      "text": "protein",
+      "type": "T116",
+      "umls_id": "C0033684",
+      "score": 0.9952441453933716,
+      "semantic_types": [
+        "T116",
+        "T123"
+      ],
+      "definition": "Linear POLYPEPTIDES that are synthesized on RIBOSOMES and may be further modified, crosslinked, cleaved, or assembled into complex proteins with several subunits. The specific sequence of AMINO ACIDS determines the shape the polypeptide will take, during PROTEIN FOLDING, and the function of the protein."
+    },
+    {
+      "text": "hospital admission",
+      "type": "T058",
+      "umls_id": "C0184666",
+      "score": 0.9712303280830383,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>**Description:**The patient has been admitted to a care facility and their community medications are suspended until hospital discharge.</p>"
+    },
+    {
+      "text": "started",
+      "type": "T080",
+      "umls_id": "C1272689",
+      "score": 0.9934787750244141,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": null
+    },
+    {
+      "text": "medications",
+      "type": "T121",
+      "umls_id": "C0013227",
+      "score": 0.983555793762207,
+      "semantic_types": [
+        "T121"
+      ],
+      "definition": "Drugs intended for human or veterinary use, presented in their finished dosage form. Included here are materials used in the preparation and/or formulation of the finished dosage form."
+    },
+    {
+      "text": "treatment",
+      "type": "T169",
+      "umls_id": "C0039798",
+      "score": 0.9703524708747864,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Used with diseases for therapeutic interventions except drug therapy, diet therapy, radiotherapy, and surgery, for which specific subheadings exist. The concept is also used for articles and books dealing with multiple therapies."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "56-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

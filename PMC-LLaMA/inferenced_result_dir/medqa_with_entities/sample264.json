@@ -1,0 +1,827 @@
+{
+  "original_data": {
+    "question": "A 45-year-old man arrives by ambulance to the emergency room after being involved in a very severe construction accident. The patient was found unconscious with a large metal spike protruding from his abdomen by a coworker who was unable to estimate the amount of time the patient went without medical aid. Upon arrival to the ER, the patient was unconscious and unresponsive. His vital signs are BP: 80/40, HR: 120 bpm, RR: 25 bpm, Temperature: 97.1 degrees, and SPO2: 99%.He is taken to the operating room to remove the foreign body and control the bleeding. Although both objectives were accomplished, the patient had an acute drop in his blood pressure during the surgery at which time ST elevations were noted in multiple leads. This resolved with adequate fluid resuscitation and numerous blood transfusions. The patient remained sedated after surgery and continued to have relatively stable vital signs until his third day in the intensive care unit, when he experiences an oxygen desaturation of 85% despite being on a respirator with 100% oxygen at 15 breaths/minute. On auscultation air entry is present bilaterally with the presence of crackles. A 2/6 systolic murmur is heard. Readings from a Swan-Ganz catheter display the following: central venous pressure (CVP): 4 mmHg, right ventricular pressure (RVP) 20/5 mmHg, pulmonary artery pressure (PAP): 20/5 mmHg. Pulmonary capillary wedge pressure (PCWP): 5 mm Hg. A chest x-ray is shown as Image A. The patient dies soon after this episode. What is the most likely direct cause of his death?",
+    "options": {
+      "A": "Diffuse alveolar damage",
+      "B": "Ventricular septal defect",
+      "C": "Myocardial free wall rupture",
+      "D": "Myocardial reinfarction"
+    }
+  },
+  "model_response": "The patient's x-ray shows diffuse bilateral infiltrates consistent with acute respiratory distress syndrome (ARDS). The patient's clinical course is consistent with acute myocardial infarction followed by severe left ventricular dysfunction and subsequent right ventricular hyperophy. The patient's death is most likely due to acute right ventricular failure secondary to severe pulmonary hypertension. The presence of a new systolic murmur suggests the development of tricuspid regurgitation. The elevated PCWP with low CVP and RVP readings suggest the presence of severe right ventricular pressure overload. The elevated PCWP also suggests the presence of significant left ventricular dysfunction. The patient's initial presentation is consistent with acute myocardial infarction. The patient's subsequent clinical course is consistent with cardiogenic shock secondary to severe left ventricular dysfunction. The patient's death is most likely due to acute right ventricular failure secondary to severe pulmonary hypertension. The presence of a new systolic murmur suggests the development of tricuspid regurgitation. The elevated PCWP with low CVP and RVP readings suggest the presence of severe right ventricular pressure overload. The elevated PCWP also suggests the presence of significant left ventricular dysfunction.\n\nImage A\n\nImage A shows diffuse bilateral infiltrates consistent with acute respiratory distress syndrome (ARDS).\n\nImage A\n\nImage A shows diffuse bilateral infiltrates consistent with acute respiratory distress syndrome (ARDS).\n\n### OVERVIEW: This is a case of a patient who sustained a penetrating cardiac wound and was found unconscious with a very low blood pressure and pulseless electrical activity. The patient was resuscitated and taken to the operating room where he underwent surgery to remove the foreign body and control the bleeding. During surgery, the patient had a sudden drop in blood pressure accompanied by ST-segment elevations in multiple leads and resolved with fluid resuscitation. The patient remained sedated after surgery and was being maintained on a ventilator with 100% oxygen. On the third day in the intensive care unit, the patient experienced an oxygen desaturation to 85% despite being on a respirator with 100% oxygen at 15 breaths/minute. On physical examination, air entry is present bilaterally with the presence of crackles. A Swan-Ganz catheter was placed and readings from the pulmonary capillary wedge pressure were low. A chest x-ray was obtained which showed diffuse bilateral infiltrates consistent with acute respiratory distress syndrome (ARDS). The patient's clinical course is consistent with acute myocardial infarction followed by severe left ventricular dysfunction and subsequent right ventricular hyperophy. The patient's death is most likely due to acute right ventricular failure secondary to severe pulmonary hypertension. The presence of a new systolic murmur suggests the development of tricuspid regurgitation. The elevated PCWP with low CVP and RVP readings suggest the presence of severe right ventricular pressure overload. The elevated PCWP also suggests the presence of significant left ventricular dysfunction.\n\n###ANSWER: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "man",
+      "type": "T098",
+      "umls_id": "C0025266",
+      "score": 0.9993605613708496,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human males as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "ambulance",
+      "type": "T074",
+      "umls_id": "C0002422",
+      "score": 0.9756193161010742,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A vehicle equipped for transporting patients in need of emergency care."
+    },
+    {
+      "text": "emergency room",
+      "type": "T073",
+      "umls_id": "C0562508",
+      "score": 0.9850071668624878,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital department responsible for the administration and provision of immediate medical or surgical care to the emergency patient."
+    },
+    {
+      "text": "construction accident",
+      "type": "T061",
+      "umls_id": "C0441513",
+      "score": 0.75198894739151,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The act of building something"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "metal",
+      "type": "T197",
+      "umls_id": "C0025552",
+      "score": 0.9838210940361023,
+      "semantic_types": [
+        "T197"
+      ],
+      "definition": "Electropositive chemical elements characterized by ductility, malleability, luster, and conductance of heat and electricity. They can replace the hydrogen of an acid and form bases with hydroxyl radicals. (Grant & Hackh's Chemical Dictionary, 5th ed)"
+    },
+    {
+      "text": "spike protruding",
+      "type": "T080",
+      "umls_id": "C4085565",
+      "score": 0.7716925144195557,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Extending beyond a surface or boundary."
+    },
+    {
+      "text": "abdomen",
+      "type": "T029",
+      "umls_id": "C0000726",
+      "score": 0.9808932542800903,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "That portion of the body that lies between the THORAX and the PELVIS."
+    },
+    {
+      "text": "coworker",
+      "type": "T098",
+      "umls_id": "C0681088",
+      "score": 0.9517325758934021,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": null
+    },
+    {
+      "text": "estimate",
+      "type": "T081",
+      "umls_id": "C0750572",
+      "score": 0.9897829294204712,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "To calculate approximately."
+    },
+    {
+      "text": "amount",
+      "type": "T081",
+      "umls_id": "C1265611",
+      "score": 0.9890685677528381,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "How much there is of something that you can measure; the total amount or number."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "medical aid",
+      "type": "T058",
+      "umls_id": "C0199168",
+      "score": 0.8294572830200195,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "<p>Provision of diagnostic and/or therapeutic treatment.</p>"
+    },
+    {
+      "text": "arrival",
+      "type": "T169",
+      "umls_id": "C1555577",
+      "score": 0.9701964855194092,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>The relationship that links to a Transportation Act (target) from another Act (source) indicating that the subject of the source Act entered into the source Act by means of the target Transportation act.</p>"
+    },
+    {
+      "text": "ER",
+      "type": "T026",
+      "umls_id": "C0014239",
+      "score": 0.9607449173927307,
+      "semantic_types": [
+        "T026"
+      ],
+      "definition": "A system of cisternae in the CYTOPLASM of many cells. In places the endoplasmic reticulum is continuous with the plasma membrane (CELL MEMBRANE) or outer membrane of the nuclear envelope. If the outer surfaces of the endoplasmic reticulum membranes are coated with ribosomes, the endoplasmic reticulum is said to be rough-surfaced (ENDOPLASMIC RETICULUM, ROUGH); otherwise it is said to be smooth-surfaced (ENDOPLASMIC RETICULUM, SMOOTH). (King & Stansfield, A Dictionary of Genetics, 4th ed)"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "unconscious",
+      "type": "T041",
+      "umls_id": "C0041654",
+      "score": 0.9712735414505005,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "Those forces and content of the mind which are not ordinarily available to conscious awareness or to immediate recall."
+    },
+    {
+      "text": "unresponsive",
+      "type": "T169",
+      "umls_id": "C0205269",
+      "score": 0.9691659212112427,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "Not responding to treatment."
+    },
+    {
+      "text": "BP",
+      "type": "T058",
+      "umls_id": "C0005824",
+      "score": 0.9979794025421143,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Techniques used for measuring BLOOD PRESSURE."
+    },
+    {
+      "text": "HR",
+      "type": "T033",
+      "umls_id": "C0332167",
+      "score": 0.9999390244483948,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bpm",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "RR",
+      "type": "T033",
+      "umls_id": "C4554402",
+      "score": 0.999627947807312,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "bpm",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "Temperature",
+      "type": "T032",
+      "umls_id": "C0005903",
+      "score": 0.9769303798675537,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The measure of the level of heat of a human or animal."
+    },
+    {
+      "text": "degrees",
+      "type": "T081",
+      "umls_id": "C0449286",
+      "score": 0.965452253818512,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": null
+    },
+    {
+      "text": "SPO2",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "operating room",
+      "type": "T073",
+      "umls_id": "C0029064",
+      "score": 0.9580788612365723,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Facilities equipped for performing surgery."
+    },
+    {
+      "text": "foreign body",
+      "type": "T037",
+      "umls_id": "C0016542",
+      "score": 0.982159435749054,
+      "semantic_types": [
+        "T037"
+      ],
+      "definition": "Inanimate objects that become enclosed in the body."
+    },
+    {
+      "text": "control",
+      "type": "T096",
+      "umls_id": "C0009932",
+      "score": 0.9929772019386292,
+      "semantic_types": [
+        "T096"
+      ],
+      "definition": "Groups that serve as a standard for comparison in experimental studies. They are similar in relevant characteristics to the experimental group but do not receive the experimental intervention."
+    },
+    {
+      "text": "bleeding",
+      "type": "T046",
+      "umls_id": "C0019080",
+      "score": 0.9680540561676025,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Bleeding or escape of blood from a vessel."
+    },
+    {
+      "text": "objectives",
+      "type": "T170",
+      "umls_id": "C0018017",
+      "score": 0.9763491153717041,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "The end-result or objective, which may be specified or required in advance."
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "acute drop",
+      "type": "T079",
+      "umls_id": "C0205178",
+      "score": 0.7364404201507568,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Having a severe and rapid onset of symptoms with short duration."
+    },
+    {
+      "text": "blood pressure",
+      "type": "T040",
+      "umls_id": "C0005823",
+      "score": 0.9879373908042908,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "PRESSURE of the BLOOD on the ARTERIES and other BLOOD VESSELS."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "ST",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "elevations",
+      "type": "T082",
+      "umls_id": "C0702240",
+      "score": 0.9656992554664612,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "The condition of being elevated."
+    },
+    {
+      "text": "multiple",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9883134365081787,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "resolved",
+      "type": "T046",
+      "umls_id": "C1514893",
+      "score": 0.9729720950126648,
+      "semantic_types": [
+        "T046"
+      ],
+      "definition": "Return to the normal structure and/or function, e.g. the subsidence of a pathologic process, as the subsidence of an inflammatory lesion or new growth."
+    },
+    {
+      "text": "adequate",
+      "type": "T080",
+      "umls_id": "C0205410",
+      "score": 0.9565691947937012,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Meeting a quantitative or qualitative measure necessary for a requirement; enough to meet the needs of a situation."
+    },
+    {
+      "text": "fluid",
+      "type": "T167",
+      "umls_id": "C0302908",
+      "score": 0.9930761456489563,
+      "semantic_types": [
+        "T167"
+      ],
+      "definition": "A substance in the fluid state of matter having no fixed shape but a fixed volume."
+    },
+    {
+      "text": "resuscitation",
+      "type": "T061",
+      "umls_id": "C0035273",
+      "score": 0.9607059359550476,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The restoration to life or consciousness of one apparently dead. (Dorland, 27th ed)"
+    },
+    {
+      "text": "numerous",
+      "type": "T081",
+      "umls_id": "C0439064",
+      "score": 0.9815888404846191,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "An indefinite large quantity that is considered to be greater than several."
+    },
+    {
+      "text": "blood transfusions",
+      "type": "T061",
+      "umls_id": "C0005841",
+      "score": 0.9784174561500549,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "The introduction of whole blood or blood component directly into the blood stream. (Dorland, 27th ed)"
+    },
+    {
+      "text": "patient",
+      "type": "T101",
+      "umls_id": "C0030705",
+      "score": 0.9829967617988586,
+      "semantic_types": [
+        "T101"
+      ],
+      "definition": "Individuals participating in the health care system for the purpose of receiving therapeutic, diagnostic, or preventive procedures."
+    },
+    {
+      "text": "sedated",
+      "type": "T033",
+      "umls_id": "C0235195",
+      "score": 0.9652101993560791,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A state of a lowered level of consciousness."
+    },
+    {
+      "text": "surgery",
+      "type": "T091",
+      "umls_id": "C0038894",
+      "score": 0.9868206977844238,
+      "semantic_types": [
+        "T091"
+      ],
+      "definition": "The branch of medical science that treats disease or injury by operative procedures."
+    },
+    {
+      "text": "stable",
+      "type": "T080",
+      "umls_id": "C0205360",
+      "score": 0.996412992477417,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "The quality of being free from change or variation or not taking part readily in chemical change."
+    },
+    {
+      "text": "day",
+      "type": "T079",
+      "umls_id": "C0332173",
+      "score": 0.9967988729476929,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "Occurring or done each day."
+    },
+    {
+      "text": "intensive care unit",
+      "type": "T073",
+      "umls_id": "C0021708",
+      "score": 0.9857169985771179,
+      "semantic_types": [
+        "T073",
+        "T093"
+      ],
+      "definition": "Hospital units providing continuous surveillance and care to acutely ill patients."
+    },
+    {
+      "text": "experiences",
+      "type": "T041",
+      "umls_id": "C0596545",
+      "score": 0.9647354483604431,
+      "semantic_types": [
+        "T041"
+      ],
+      "definition": "The accumulation of knowledge or skill that results from direct participation in events or activities."
+    },
+    {
+      "text": "oxygen desaturation",
+      "type": "T033",
+      "umls_id": "C4061338",
+      "score": 0.9573885798454285,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "respirator",
+      "type": "T074",
+      "umls_id": "C0042497",
+      "score": 0.9848443269729614,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "Mechanical devices used to produce or assist pulmonary ventilation."
+    },
+    {
+      "text": "oxygen",
+      "type": "T121",
+      "umls_id": "C0030054",
+      "score": 0.9706076383590698,
+      "semantic_types": [
+        "T121",
+        "T123",
+        "T196"
+      ],
+      "definition": "An element with atomic symbol O, atomic number 8, and atomic weight [15.99903; 15.99977]. It is the most abundant element on earth and essential for respiration."
+    },
+    {
+      "text": "breaths/minute",
+      "type": "T081",
+      "umls_id": "C0439386",
+      "score": 0.9413021206855774,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "The number of breaths (inhalation and exhalation) taken per minute time."
+    },
+    {
+      "text": "auscultation",
+      "type": "T060",
+      "umls_id": "C0004339",
+      "score": 0.9627520442008972,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "Act of listening for sounds within the body."
+    },
+    {
+      "text": "air entry",
+      "type": "T169",
+      "umls_id": "C1550548",
+      "score": 0.7732069492340088,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": "<p>Condition is tested once before the service is executed (IF condition THEN service).</p>"
+    },
+    {
+      "text": "bilaterally",
+      "type": "T082",
+      "umls_id": "C0238767",
+      "score": 0.8171467185020447,
+      "semantic_types": [
+        "T082"
+      ],
+      "definition": "Affecting both sides of the body or a matched pair of organs."
+    },
+    {
+      "text": "presence",
+      "type": "T061",
+      "umls_id": "C0392148",
+      "score": 0.9907425045967102,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": null
+    },
+    {
+      "text": "crackles",
+      "type": "T033",
+      "umls_id": "C0034642",
+      "score": 0.9720643162727356,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Abnormal breath sounds (crackles) heard on auscultation, indicating inflammation, fluid, or infection of the lung."
+    },
+    {
+      "text": "systolic",
+      "type": "T042",
+      "umls_id": "C0039155",
+      "score": 0.9936463832855225,
+      "semantic_types": [
+        "T042"
+      ],
+      "definition": "Period of contraction of the HEART, especially of the HEART VENTRICLES."
+    },
+    {
+      "text": "murmur",
+      "type": "T033",
+      "umls_id": "C0018808",
+      "score": 0.9893232583999634,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Heart sounds caused by vibrations resulting from the flow of blood through the heart. Heart murmurs can be examined by HEART AUSCULTATION, and analyzed by their intensity (6 grades), duration, timing (systolic, diastolic, or continuous), location, transmission, and quality (musical, vibratory, blowing, etc)."
+    },
+    {
+      "text": "heard",
+      "type": "T033",
+      "umls_id": "C0018772",
+      "score": 0.799569308757782,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A condition in which a person partially loses the ability to hear sounds in one or both ears."
+    },
+    {
+      "text": "Readings",
+      "type": "T033",
+      "umls_id": "C1881459",
+      "score": 0.8289492130279541,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Reading provided by the device is too low or lower than expected."
+    },
+    {
+      "text": "Swan-Ganz catheter",
+      "type": "T074",
+      "umls_id": "C0179790",
+      "score": 0.9539656639099121,
+      "semantic_types": [
+        "T074"
+      ],
+      "definition": "A hollow tube with a balloon or sail tip that is advanced into the pulmonary artery to measure right heart pressure and cardiac output, and enable mixed venous blood sampling."
+    },
+    {
+      "text": "central venous pressure",
+      "type": "T060",
+      "umls_id": "C0199666",
+      "score": 0.9823240041732788,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "CVP",
+      "type": "T061",
+      "umls_id": "C0056633",
+      "score": 0.9921970963478088,
+      "semantic_types": [
+        "T061"
+      ],
+      "definition": "A regimen consisting of cyclophosphamide, vincristine and prednisone used to treat indolent forms of non-Hodgkin lymphoma; also used for the treatment of chronic lymphocytic leukemia."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "right ventricular pressure",
+      "type": "T034",
+      "umls_id": "C0456166",
+      "score": 0.9943448901176453,
+      "semantic_types": [
+        "T034"
+      ],
+      "definition": null
+    },
+    {
+      "text": "RVP",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "pulmonary artery pressure",
+      "type": "T033",
+      "umls_id": "C0428642",
+      "score": 0.9844229817390442,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blood pressure in the pulmonary artery."
+    },
+    {
+      "text": "PAP",
+      "type": "T033",
+      "umls_id": "C0428642",
+      "score": 0.9757630228996277,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "Blood pressure in the pulmonary artery."
+    },
+    {
+      "text": "mmHg",
+      "type": "T081",
+      "umls_id": "C0439475",
+      "score": 0.989119827747345,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A non-SI unit of pressure equal to 133,332 Pa or 1.316E10-3 standard atmosphere. Use of this unit is generally deprecated by ISO and IUPAC."
+    },
+    {
+      "text": "Pulmonary capillary wedge pressure",
+      "type": "T201",
+      "umls_id": "C0034094",
+      "score": 0.9707424640655518,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The blood pressure as recorded after wedging a CATHETER in a small PULMONARY ARTERY; believed to reflect the PRESSURE in the pulmonary CAPILLARIES."
+    },
+    {
+      "text": "PCWP",
+      "type": "T201",
+      "umls_id": "C0034094",
+      "score": 0.9857986569404602,
+      "semantic_types": [
+        "T201"
+      ],
+      "definition": "The blood pressure as recorded after wedging a CATHETER in a small PULMONARY ARTERY; believed to reflect the PRESSURE in the pulmonary CAPILLARIES."
+    },
+    {
+      "text": "mm Hg",
+      "type": "T081",
+      "umls_id": "C0439200",
+      "score": 0.7061575651168823,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "A metric unit of length equal to one thousandth of a meter (10E-3 meter) or approximately 0.03937 inch."
+    },
+    {
+      "text": "chest x-ray",
+      "type": "T060",
+      "umls_id": "C0039985",
+      "score": 0.974275529384613,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An x-ray examination of the chest."
+    },
+    {
+      "text": "Image A.",
+      "type": "T170",
+      "umls_id": "C1696103",
+      "score": 0.8410625457763672,
+      "semantic_types": [
+        "T170"
+      ],
+      "definition": "<b>Description:</b>A characteristic representing a single file reference that contains two or more views of the same dosage form of the product; in most cases this should represent front and back views of the dosage form, but occasionally additional views might be needed in order to capture all of the important physical characteristics of the dosage form. Any imprint and/or symbol should be clearly identifiable, and the viewer should not normally need to rotate the image in order to read it. Images that are submitted with SPL should be included in the same directory as the SPL file."
+    },
+    {
+      "text": "patient dies",
+      "type": "T033",
+      "umls_id": "C1306577",
+      "score": 0.9763363599777222,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "episode",
+      "type": "T079",
+      "umls_id": "C0332189",
+      "score": 0.9896082282066345,
+      "semantic_types": [
+        "T079"
+      ],
+      "definition": "A noteworthy happening that is distinctive in a series of related events."
+    },
+    {
+      "text": "death",
+      "type": "T040",
+      "umls_id": "C0011065",
+      "score": 0.9843130111694336,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "Irreversible cessation of all bodily functions, manifested by absence of spontaneous breathing and total loss of cardiovascular and cerebral functions."
+    },
+    {
+      "text": "45-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}

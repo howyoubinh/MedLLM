@@ -1,0 +1,266 @@
+{
+  "original_data": {
+    "question": "A 17-year-old girl is brought to the physician because she has not attained menarche. There is no personal or family history of serious illness. She is 168 cm (5 ft 5 in) tall and weighs 63 kg (139 lb); BMI is 22.3 kg/m2. Examination shows normal breast development. Scant axillary hair is present. Abdominal examination shows a firm, nontender left inguinal mass. Pelvic examination shows a blind vaginal pouch. Ultrasonography does not show a uterus or ovaries. Which of the following is the most likely underlying cause of this patient's symptoms?",
+    "options": {
+      "A": "5-α reductase deficiency",
+      "B": "Sex chromosome mosaicism",
+      "C": "Sex chromosome monosomy",
+      "D": "Androgen insensitivity"
+    }
+  },
+  "model_response": "This patient has a testicular disorder, as indicated by the presence of a left inguinal mass. Testicular disorders in boys can be categorized as follows:\n\n1. True hermaphroditism, in which both ovarian and testicular tissues are present. This is a very rare condition.\n\n2. Gonadal dysgenesis, in which there is a failure of genetic or environmental factors that prevent normal sexual differentiation. The most common form of gonadal dysgenesis is Turner syndrome, in which there is an XO genotype.\n\n3. Testicular feminization, in which there is a genetic defect that impairs testosterone synthesis. The most common form of testicular feminization is the androgen insensitivity syndrome, in which a genetic defect leads to a failure of the peripheral tissues to respond to androgens. Because the end-organ resistance to androgens prevents normal masculinization of the external genitalia in utero, affected individuals appear female. Gonads are testes, and the internal genitalia consist of a blind vaginal pouch, absent uterus, and bilateral seminiferous tubules or undifferentiated gonadal tissue.\n\n4. Testicular dysgenesis, in which there is a failure of normal testicular development. This can be caused by genetic defects, such as 5-α-reductase deficiency, or environmental factors, such as cryptorchidism.\n\nIn 5-α-reductase deficiency, affected individuals have a male karyotype (46,XY), normally functioning testes, and high levels of circulating testosterone. However, the testosterone is ineffective in masculinizing the external genitalia because it is converted to dihydrotestosterone (DHT) by the enzyme 5-α-reductase. DHT is the most potent androgen, and its deficiency leads to ambiguous external genitalia in affected males.\n\nIn summary, this patient has a blind vaginal pouch, indicating the absence of a uterus and functional ovaries. The presence of scant axillary hair and a firm, nontender inguinal mass indicates that testes are present and that testosterone has been produced. The most likely underlying cause of these findings is 5-α-reductase deficiency, which impairs the masculinization of the external genitalia.\n\nThe other options are not likely causes of this patient's symptoms. Sex chromosome mosaicism and monosomy are associated with gonadal dysgenesis and the absence of testes. In such cases, the internal and external genitalia are female. Sex chromosome superfemale (XO/XO) mosaicism is a cause of Turner syndrome, which is characterized by a webbed neck, short stature, and external and internal genitalia that are female. Androgen insensitivity syndrome is a cause of testicular feminization, in which the internal and external genitalia are female.\n\n###Answer: OPTION A IS CORRECT.</s><s>",
+  "question_entities": [
+    {
+      "text": "girl",
+      "type": "T098",
+      "umls_id": "C0043210",
+      "score": 0.9926860332489014,
+      "semantic_types": [
+        "T098"
+      ],
+      "definition": "Human females as cultural, psychological, sociological, political, and economic entities."
+    },
+    {
+      "text": "physician",
+      "type": "T097",
+      "umls_id": "C0031831",
+      "score": 0.9965500235557556,
+      "semantic_types": [
+        "T097"
+      ],
+      "definition": "Individuals licensed to practice medicine."
+    },
+    {
+      "text": "menarche",
+      "type": "T040",
+      "umls_id": "C0025274",
+      "score": 0.9847201704978943,
+      "semantic_types": [
+        "T040"
+      ],
+      "definition": "The first MENSTRUAL CYCLE marked by the initiation of MENSTRUATION."
+    },
+    {
+      "text": "family history of",
+      "type": "T033",
+      "umls_id": "C0241889",
+      "score": 0.9852851629257202,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A record of a patient's background regarding health and disease events of blood relatives. A patient's family medical history may be important in diagnosing existing conditions."
+    },
+    {
+      "text": "illness",
+      "type": "T184",
+      "umls_id": "C0221423",
+      "score": 0.9669414162635803,
+      "semantic_types": [
+        "T184"
+      ],
+      "definition": "A state of ill health, bodily malfunction, or discomfort."
+    },
+    {
+      "text": "tall",
+      "type": "T033",
+      "umls_id": "C4314520",
+      "score": 0.9990716576576233,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "weighs",
+      "type": "T032",
+      "umls_id": "C0005910",
+      "score": 0.7179433107376099,
+      "semantic_types": [
+        "T032"
+      ],
+      "definition": "The mass or quantity of heaviness of an individual. It is expressed by units of pounds or kilograms."
+    },
+    {
+      "text": "BMI",
+      "type": "T060",
+      "umls_id": "C0005893",
+      "score": 0.9942916631698608,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Examination",
+      "type": "T058",
+      "umls_id": "C0031809",
+      "score": 0.9613156318664551,
+      "semantic_types": [
+        "T058"
+      ],
+      "definition": "Systematic and thorough inspection of the patient for physical signs of disease or abnormality."
+    },
+    {
+      "text": "breast development",
+      "type": "T033",
+      "umls_id": "C0518181",
+      "score": 0.9740135073661804,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Scant",
+      "type": "T081",
+      "umls_id": "C2700395",
+      "score": 0.9859160780906677,
+      "semantic_types": [
+        "T081"
+      ],
+      "definition": "Least in number, quantity, magnitude or extent of those under consideration."
+    },
+    {
+      "text": "axillary hair",
+      "type": "T023",
+      "umls_id": "C0221984",
+      "score": 0.9837645292282104,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": null
+    },
+    {
+      "text": "Abdominal examination",
+      "type": "T060",
+      "umls_id": "C0562238",
+      "score": 0.9672162532806396,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "An assessment of the abdomen including the organs within the abdominal cavity."
+    },
+    {
+      "text": "firm",
+      "type": "T080",
+      "umls_id": "C0205233",
+      "score": 0.9878337383270264,
+      "semantic_types": [
+        "T080"
+      ],
+      "definition": "Having a structure or consistency that strongly resists stress or pressure."
+    },
+    {
+      "text": "nontender",
+      "type": "UNKNOWN"
+    },
+    {
+      "text": "left inguinal",
+      "type": "T029",
+      "umls_id": "C0230321",
+      "score": 0.8015864491462708,
+      "semantic_types": [
+        "T029"
+      ],
+      "definition": "The lower left zone of the abdomen containing parts of the small intestine, descending and sigmoid colon, and the left ovary and fallopian tube in females."
+    },
+    {
+      "text": "mass",
+      "type": "T033",
+      "umls_id": "C0577559",
+      "score": 0.9943845272064209,
+      "semantic_types": [
+        "T033"
+      ],
+      "definition": "A benign or malignant pathologic structure in any part of the body, resulting from a neoplastic accumulation of cells, inflammatory cells, or cystic changes."
+    },
+    {
+      "text": "Pelvic examination",
+      "type": "T060",
+      "umls_id": "C0200045",
+      "score": 0.9600893259048462,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "External and internal inspection of the FEMALE GENITALIA. (from Dictionary of Obstetrics and Gynecology)"
+    },
+    {
+      "text": "blind",
+      "type": "T062",
+      "umls_id": "C0150108",
+      "score": 0.9754310250282288,
+      "semantic_types": [
+        "T062"
+      ],
+      "definition": "A characteristic of experiment design in which one or more groups involved (receiving, administering, or evaluating intervention) are unaware of which intervention any particular subject is receiving."
+    },
+    {
+      "text": "vaginal pouch",
+      "type": "T023",
+      "umls_id": "C0042232",
+      "score": 0.7370805144309998,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The genital canal in the female, extending from the UTERUS to the VULVA. (Stedman, 25th ed)"
+    },
+    {
+      "text": "Ultrasonography",
+      "type": "T060",
+      "umls_id": "C0041618",
+      "score": 0.9924961924552917,
+      "semantic_types": [
+        "T060"
+      ],
+      "definition": "The visualization of deep structures of the body by recording the reflections or echoes of ultrasonic pulses directed into the tissues. Use of ultrasound for imaging or diagnostic purposes employs frequencies ranging from 1.6 to 10 megahertz."
+    },
+    {
+      "text": "uterus",
+      "type": "T023",
+      "umls_id": "C0042149",
+      "score": 0.9559258818626404,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The hollow thick-walled muscular organ in the female PELVIS. It consists of the fundus which is the site of EMBRYO IMPLANTATION and FETAL DEVELOPMENT. Beyond the isthmus at the perineal end of fundus, is CERVIX UTERI (the neck) opening into VAGINA. Beyond the isthmi at the upper abdominal end of fundus, are the FALLOPIAN TUBES."
+    },
+    {
+      "text": "ovaries",
+      "type": "T023",
+      "umls_id": "C0029939",
+      "score": 0.9853442907333374,
+      "semantic_types": [
+        "T023"
+      ],
+      "definition": "The reproductive organ (GONADS) in female animals. In vertebrates, the ovary contains two functional parts: the OVARIAN FOLLICLE for the production of female germ cells (OOGENESIS); and the endocrine cells (GRANULOSA CELLS; THECA CELLS; and LUTEAL CELLS) for the production of ESTROGENS and PROGESTERONE."
+    },
+    {
+      "text": "patient's",
+      "type": "T078",
+      "umls_id": "C0030706",
+      "score": 0.8150922656059265,
+      "semantic_types": [
+        "T078"
+      ],
+      "definition": "Fundamental claims of patients, as expressed in statutes, declarations, or generally accepted moral principles. (Bioethics Thesaurus) The term is used for discussions of patient rights as a group of many rights, as in a hospital's posting of a list of patient rights."
+    },
+    {
+      "text": "symptoms",
+      "type": "T169",
+      "umls_id": "C0683368",
+      "score": 0.9773952960968018,
+      "semantic_types": [
+        "T169"
+      ],
+      "definition": null
+    },
+    {
+      "text": "17-year-old",
+      "type": "AGE_VALUE",
+      "umls_id": null,
+      "score": null,
+      "semantic_types": null,
+      "definition": null
+    }
+  ]
+}
