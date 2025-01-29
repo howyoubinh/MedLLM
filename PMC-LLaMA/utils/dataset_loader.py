@@ -31,7 +31,6 @@ def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
         default_config: None
     - "pubmedqa": qiaojin/PubMedQA
         default_config: "pqa_labeled"
-
     Args:
     - dataset_name (str): The name of the dataset to load.
     - cache_dir (str): The directory to cache the dataset in.
@@ -39,7 +38,6 @@ def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
     Returns:
     - dataset (datasets.Dataset): The loaded dataset.
     """
-
     if dataset_name == "medqa":
         dataset_url = "GBaker/MedQA-USMLE-4-options"
         config_name = None
@@ -59,17 +57,13 @@ def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
 def medqa_format(item):
     # Start with the question part
     question = item["question"] + "\n"
-
     answer = item["answer_idx"]
-
     # Initialize an empty string for the options
     options = ""
-
     # Check if 'options' is indeed a dictionary and contains items
     if isinstance(item["options"], dict) and item["options"]:
         # Retrieve all keys to handle the last key differently
         keys = list(item["options"].keys())
-
         # Loop through each key-value pair in the dictionary
         for key in keys:  # Iterate over all keys except the last one
             value = item["options"][key]
@@ -85,7 +79,6 @@ def medmcqa_format(item):
     """
     # Start with the question part
     question = item["question"] + "\n"
-
     # Initialize an empty string for the options
     options = "A. " + item["opa"] + "\n"
     options += "B. " + item["opb"] + "\n"
@@ -103,7 +96,6 @@ def format_datasets(dataset_list:list,cache_dir=DATA_DIR,overwrite:bool=False):
     - dataset_list (list): A list of dataset names to format.
     - cache_dir (str): The directory to cache the datasets in.
     - overwrite (bool): Whether to overwrite existing formatted datasets.
-    
     Returns:
     - None
     """
