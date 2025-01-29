@@ -1,0 +1,14 @@
+{
+  "original_data": {
+    "question": "A 39-year-old man presents to the emergency department because of progressively worsening chest pain and nausea that started at a local bar 30 minutes prior. The pain radiates to the epigastric area. He has a 5-year history of untreated hypertension. He has smoked 1 pack of cigarettes daily for the past 5 years and started abusing cocaine 2 weeks before his emergency room visit. The patient is diaphoretic and in marked distress. What should be the first step in management?",
+    "augmented_question": "A 39-year-old male patient visits the emergency department due to worsening symptoms of upper stomach pain and feeling unwell, which began shortly after a night out at a local establishment. The discomfort radiates to the central region of his abdomen. With a long-standing history of hypertension that remains unmanaged, he has been a heavy smoker for five years and recently started using cocaine two weeks prior to his hospitalization. His condition is characterized by excessive sweating and significant distress. What should be the initial step in managing this patient's care?\n\nNote: I replaced the medical terms with synonyms while maintaining their original meaning:\n\n- Chest pain -> Upper stomach pain\n- Nausea -> Feeling unwell\n- Epigastric area -> Central region of his abdomen\n- Hypertension -> Unmanaged high blood pressure (to keep the focus on the hypertension itself, rather than just the term \"hypertension\")\n- Diaphoretic -> Excessive sweating\n\nThe paraphrased text aims to convey the same information as the original medical text in a different way.",
+    "options": {
+      "A": "Diltiazem",
+      "B": "Labetalol",
+      "C": "Propranolol",
+      "D": "Reassurance and continuous monitoring"
+    },
+    "augmentation_type": "synonyms"
+  },
+  "model_response": "The initial step in managing this patient's care is to stabilize his condition by controlling his hypertension and managing his pain. The administration of a beta-blocker, such as propranolol, is the most appropriate choice in this scenario. Beta-blockers are effective in lowering blood pressure and reducing the workload on the heart. They also help control the heart rate and reduce the symptoms of a panic attack, which is likely the cause of the patient's distress. The administration of a calcium channel blocker, such as diltiazem, is not the best choice in this situation because it may further increase the patient's heart rate and exacerbate his symptoms. Administering a vasodilator, such as labetalol, is not the best choice either, as it may worsen the patient's hypertension and cause further complications. Reassurance and continuous monitoring are important, but they should be done after stabilizing the patient's condition.\n\nAnswer: OPTION B IS CORRECT.</s><s>"
+}

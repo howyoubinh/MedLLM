@@ -1,0 +1,18 @@
+{
+    "synonyms": {
+        "instruction": "Replace medical terms in the following text with appropriate synonyms, keeping the same meaning but using different terminology:",
+        "format": "Text: {text}\n\nRewritten text with synonyms:"
+    },
+    "paraphrase": {
+        "instruction": "Paraphrase the following medical text, keeping the exact same meaning but expressing it in a different way:",
+        "format": "Original: {text}\n\nParaphrase:"
+    },
+    "shuffle": {
+        "instruction": "Rewrite the following shuffled text to ensure it flows logically while keeping all the medical information intact:",
+        "format": "Text: {text}\n\nRewritten text:"
+    },
+    "expand": {
+        "instruction": "Add relevant medical context to the following text while preserving the original meaning:",
+        "format": "Text: {text}\n\nExpanded text:"
+    }
+}
