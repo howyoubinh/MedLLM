@@ -1,0 +1,17 @@
+### How Coen set up environment
+
+conda create -p ./PMC-LLaMA/env python=3.10
+
+# For HPC version (makes python executable)
+chmod -R u+rwx ./PMC-LLaMA/env
+
+conda activate ./PMC-LLaMA/env
+
+# This is the version for the HPC using A100 GPUs
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+conda install jsonlines transformers datasets regex pandas pip accelerate sentencepiece safetensors tqdm
+
+pip install scispacy scikit-learn==1.1.2
+
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
