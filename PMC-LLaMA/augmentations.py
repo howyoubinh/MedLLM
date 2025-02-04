@@ -8,8 +8,8 @@ import nltk
 nltk.download('punkt_tab')
 
 class TextAugmentor:
-    def __init__(self, model_name: str = "llama3.2"):
-        """Initialize augmentor with Ollama's Llama3.2"""
+    def __init__(self, model_name: str = "llama3.3"):
+        """Initialize augmentor with one of Ollama's models"""
         self.model_name = model_name
         self.prompts = self._load_prompts()
         
@@ -52,7 +52,7 @@ class TextAugmentor:
         prompt = f"{prompt_template['instruction']}\n\n{prompt_template['format'].format(text=shuffled_text)}"
         return self._generate_response(prompt)
 
-    def expand_context(self, text: str) -> str:
+    def expand(self, text: str) -> str:
         prompt_template = self.prompts['expand']
         prompt = f"{prompt_template['instruction']}\n\n{prompt_template['format'].format(text=text)}"
         return self._generate_response(prompt)
