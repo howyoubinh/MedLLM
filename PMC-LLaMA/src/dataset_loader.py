@@ -11,17 +11,14 @@ The format_datasets function will cache the formatted datasets in the specified 
 The default directory is "./PMC-LLaMA/data/formatted_datasets".
 
 """
-
-from datasets import load_dataset
+from typing import Tuple
+from datasets import load_dataset, Dataset
 from tqdm import tqdm
 import jsonlines
 import os
 
-DATA_DIR = "./PMC-LLaMA/data"
-datasets = ["medqa","medmcqa"]
-
 ## Loaders
-def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
+def get_dataset(dataset_name,config_name=None,cache_dir:str="./PMC-LLaMA/data")->Dataset:
     """
     Load a dataset from the Hugging Face Datasets library.
     Currently supported datasets:
@@ -52,9 +49,9 @@ def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
     else:
         raise ValueError(f"{dataset_name} not yet implemented")
     dataset = load_dataset(dataset_url,config_name,cache_dir=cache_dir)
-    return dataset
+    return dataset # type: ignore
 
-def medqa_format(item):
+def medqa_format(item)->Tuple[str,str,str]:
     # Start with the question part
     question = item["question"] + "\n"
     answer = item["answer_idx"]
@@ -71,7 +68,7 @@ def medqa_format(item):
             options += f"{key}. {value}\n"
     return question, options, answer
 
-def medmcqa_format(item):
+def medmcqa_format(item)->Tuple[str,str,str]:
     """
     The format the input of MedMCQA Benchmark
     :param item: the input one example
@@ -89,7 +86,7 @@ def medmcqa_format(item):
     return question, options, answer
 
 ## Caching Function
-def format_datasets(dataset_list:list,cache_dir=DATA_DIR,overwrite:bool=False):
+def format_datasets(dataset_list:list,cache_dir:str="./PMC-LLaMA/data",overwrite:bool=False)->None:
     """
     Format datasets from the Hugging Face Datasets library into a common format.
     Args:
@@ -128,10 +125,3 @@ def format_datasets(dataset_list:list,cache_dir=DATA_DIR,overwrite:bool=False):
     pbar.close()
     print(f"Formatted datasets saved to {output_dir}")
     return
-
-def main():
-    # formatting for medqa dataset
-    format_datasets(datasets,DATA_DIR,overwrite=False)
-
-if __name__ == "__main__":
-    main()
