@@ -43,13 +43,14 @@ class TextAugmentor:
         return self._generate_response(prompt)
 
     def shuffle(self, text: str) -> str:
-        sentences = sent_tokenize(text)
-        if len(sentences) <= 1:
-            return text
-        random.shuffle(sentences)
-        shuffled_text = ' '.join(sentences)
+        # sentences = sent_tokenize(text)
+        # if len(sentences) <= 1:
+        #     return text
+        # random.shuffle(sentences)
+        # shuffled_text = ' '.join(sentences)
         prompt_template = self.prompts['shuffle']
-        prompt = f"{prompt_template['instruction']}\n\n{prompt_template['format'].format(text=shuffled_text)}"
+        # prompt = f"{prompt_template['instruction']}\n\n{prompt_template['format'].format(text=shuffled_text)}"
+        prompt = f"{prompt_template['instruction']}\n\n{prompt_template['format'].format(text=text)}"
         return self._generate_response(prompt)
 
     def expand(self, text: str) -> str:
