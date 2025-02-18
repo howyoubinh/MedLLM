@@ -73,7 +73,7 @@ if __name__ == '__main__':
 
         raw_dataset = utils.load_raw_dataset(raw_dataset_path=raw_dataset_path)
         print(f"output_filepath = {preprocessed_path}")
-        preprocessed_data = augment.prepare_data(data_list=raw_dataset[0:50],
+        preprocessed_data = augment.prepare_data(data_list=raw_dataset,
                                                 augmentor=augmentor,
                                                 augmentation=augmentation_config['augmentations'],
                                                 preamble=augmentation_config['preamble'],
