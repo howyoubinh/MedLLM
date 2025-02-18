@@ -29,7 +29,7 @@ inference:
   do_inference: True
   model: 'axiong/PMC_LLaMA_13B' # This is the default model
   precision: '16' # 'b16': torch.bfloat16, '16': torch.float16, '32': torch.float32
-  num_samples: 10
+  num_samples: -1
   batch_size: 4
 
 evaluation:
