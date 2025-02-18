@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--config_filepath', type=str, default="PMC-LLaMA/configs/medqa-test_raw.yml") # change this to your actual directory
+    parser.add_argument('--config_filepath', type=str, default="configs/medqa-test_raw.yml") # change this to your actual directory
     args = parser.parse_args()
     return args
 

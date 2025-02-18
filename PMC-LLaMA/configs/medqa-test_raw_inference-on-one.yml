@@ -1,10 +1,10 @@
 ---
 system:
-  data_path: "./PMC-LLaMA/data"
-  model_path: "./PMC-LLaMA/models" # The path to the ollama and inference models
-  cache_path: "./PMC-LLaMA/cached_data"
-  results_path: "./PMC-LLaMA/results"
-  evaluation_path: "./PMC-LLaMA/eval"
+  data_path: "./data"
+  model_path: "./models" # The path to the ollama and inference models
+  cache_path: "./cached_data"
+  results_path: "./results"
+  evaluation_path: "./eval"
 
 experiment:
   name: 'Inference_on_one'

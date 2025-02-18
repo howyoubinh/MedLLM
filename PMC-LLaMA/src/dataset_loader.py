@@ -8,7 +8,8 @@ Currently in the works:
 - "pubmedqa": qiaojin/PubMedQA
 
 The format_datasets function will cache the formatted datasets in the specified directory.
-The default directory is "./PMC-LLaMA/data/formatted_datasets".
+The default directory is "./data/formatted_datasets".
+Assume root directory is PMC-LLaMA.
 
 """
 from typing import Tuple
@@ -18,7 +19,7 @@ import jsonlines
 import os
 
 ## Loaders
-def get_dataset(dataset_name,config_name=None,cache_dir:str="./PMC-LLaMA/data")->Dataset:
+def get_dataset(dataset_name,config_name=None,cache_dir:str="./data")->Dataset:
     """
     Load a dataset from the Hugging Face Datasets library.
     Currently supported datasets:
@@ -86,7 +87,7 @@ def medmcqa_format(item)->Tuple[str,str,str]:
     return question, options, answer
 
 ## Caching Function
-def format_datasets(dataset_list:list,cache_dir:str="./PMC-LLaMA/data",overwrite:bool=False)->None:
+def format_datasets(dataset_list:list,cache_dir:str="./data",overwrite:bool=False)->None:
     """
     Format datasets from the Hugging Face Datasets library into a common format.
     Args:
