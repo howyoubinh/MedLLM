@@ -1,0 +1,33 @@
+### How Coen set up environment
+
+conda create -p ./PMC-LLaMA/env python=3.10
+
+# For HPC version (makes python executable)
+chmod -R u+rwx ./PMC-LLaMA/env
+
+conda activate ./PMC-LLaMA/env
+
+# This is the version for the HPC using A100 GPUs
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+conda install jsonlines transformers datasets regex pandas pip accelerate sentencepiece safetensors tqdm nltk
+
+pip install scispacy scikit-learn==1.1.2 ollama
+
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+
+
+### OLLAMA INSTALL ON HPC if required
+curl -L https://ollama.com/download/ollama-linux-amd64.tgz -o ollama-linux-amd64.tgz
+mkdir -p ./PMC-LLaMA/models/ollama
+tar -C ./PMC-LLaMA/models/ollama -xzf ollama-linux-amd64.tgz
+CURRDIR=$(pwd)
+echo "" >> ~/.bashrc
+echo "" >> ~/.bashrc
+echo "# >>> ollama path initialize >>>" >> ~/.bashrc
+echo "export PATH=$CURRDIR/PMC-LLaMA/models/ollama/bin:\$PATH" >> ~/.bashrc
+echo "export LD_LIBRARY_PATH=$CURRDIR/PMC-LLaMA/models/ollama/lib/ollama:\$LD_LIBRARY_PATH" >> ~/.bashrc
+echo "export OLLAMA_MODELS=$CURRDIR/PMC-LLaMA/models/ollama/models"  >> ~/.bashrc
+echo "# <<< ollama path initialize <<<" >> ~/.bashrc
+source ~/.bashrc
+rm ollama-linux-amd64.tgz

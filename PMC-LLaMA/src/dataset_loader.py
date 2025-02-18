@@ -8,20 +8,18 @@ Currently in the works:
 - "pubmedqa": qiaojin/PubMedQA
 
 The format_datasets function will cache the formatted datasets in the specified directory.
-The default directory is "./PMC-LLaMA/data/formatted_datasets".
+The default directory is "./data/formatted_datasets".
+Assume root directory is PMC-LLaMA.
 
 """
-
-from datasets import load_dataset
+from typing import Tuple
+from datasets import load_dataset, Dataset
 from tqdm import tqdm
 import jsonlines
 import os
 
-DATA_DIR = "./PMC-LLaMA/data"
-datasets = ["medqa","medmcqa"]
-
 ## Loaders
-def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
+def get_dataset(dataset_name,config_name=None,cache_dir:str="./data")->Dataset:
     """
     Load a dataset from the Hugging Face Datasets library.
     Currently supported datasets:
@@ -31,7 +29,6 @@ def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
         default_config: None
     - "pubmedqa": qiaojin/PubMedQA
         default_config: "pqa_labeled"
-
     Args:
     - dataset_name (str): The name of the dataset to load.
     - cache_dir (str): The directory to cache the dataset in.
@@ -39,7 +36,6 @@ def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
     Returns:
     - dataset (datasets.Dataset): The loaded dataset.
     """
-
     if dataset_name == "medqa":
         dataset_url = "GBaker/MedQA-USMLE-4-options"
         config_name = None
@@ -54,22 +50,18 @@ def get_dataset(dataset_name,config_name=None,cache_dir=DATA_DIR):
     else:
         raise ValueError(f"{dataset_name} not yet implemented")
     dataset = load_dataset(dataset_url,config_name,cache_dir=cache_dir)
-    return dataset
+    return dataset # type: ignore
 
-def medqa_format(item):
+def medqa_format(item)->Tuple[str,str,str]:
     # Start with the question part
     question = item["question"] + "\n"
-
     answer = item["answer_idx"]
-
     # Initialize an empty string for the options
     options = ""
-
     # Check if 'options' is indeed a dictionary and contains items
     if isinstance(item["options"], dict) and item["options"]:
         # Retrieve all keys to handle the last key differently
         keys = list(item["options"].keys())
-
         # Loop through each key-value pair in the dictionary
         for key in keys:  # Iterate over all keys except the last one
             value = item["options"][key]
@@ -77,7 +69,7 @@ def medqa_format(item):
             options += f"{key}. {value}\n"
     return question, options, answer
 
-def medmcqa_format(item):
+def medmcqa_format(item)->Tuple[str,str,str]:
     """
     The format the input of MedMCQA Benchmark
     :param item: the input one example
@@ -85,7 +77,6 @@ def medmcqa_format(item):
     """
     # Start with the question part
     question = item["question"] + "\n"
-
     # Initialize an empty string for the options
     options = "A. " + item["opa"] + "\n"
     options += "B. " + item["opb"] + "\n"
@@ -96,14 +87,13 @@ def medmcqa_format(item):
     return question, options, answer
 
 ## Caching Function
-def format_datasets(dataset_list:list,cache_dir=DATA_DIR,overwrite:bool=False):
+def format_datasets(dataset_list:list,cache_dir:str="./data",overwrite:bool=False)->None:
     """
     Format datasets from the Hugging Face Datasets library into a common format.
     Args:
     - dataset_list (list): A list of dataset names to format.
     - cache_dir (str): The directory to cache the datasets in.
     - overwrite (bool): Whether to overwrite existing formatted datasets.
-    
     Returns:
     - None
     """
@@ -136,10 +126,3 @@ def format_datasets(dataset_list:list,cache_dir=DATA_DIR,overwrite:bool=False):
     pbar.close()
     print(f"Formatted datasets saved to {output_dir}")
     return
-
-def main():
-    # formatting for medqa dataset
-    format_datasets(datasets,DATA_DIR,overwrite=False)
-
-if __name__ == "__main__":
-    main()
