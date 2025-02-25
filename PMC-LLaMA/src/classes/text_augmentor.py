@@ -86,7 +86,7 @@ class TextAugmentor:
         # random.shuffle(sentences)
         # shuffled_text = ' '.join(sentences)
         prompt_template = self.prompts['shuffle']
-        prompt = f"{prompt_template['instruction']}\n\n{prompt_template['format'].format(text=shuffled_text)}"
+        prompt = f"{prompt_template['instruction']}\n\n{prompt_template['format'].format(text=text)}"
         return self._generate_response(prompt)
 
     def expand_context(self, text: str) -> dict:
